@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-热点摘要工作流：抓取 → 填入流程测试版 → 总结摘要
+热点摘要工作流：抓取 → 填入总结摘要 Prompt 模板 → 总结摘要
 每步产出可单独检验；支持只跑某一步或全流程自动执行。
 用法：
   python3 run_hotspot_workflow.py              # 执行全部三步
   python3 run_hotspot_workflow.py --step 1    # 只执行第 1 步（抓取）
-  python3 run_hotspot_workflow.py --step 2    # 只执行第 2 步（填入）
-  python3 run_hotspot_workflow.py --step 3    # 只执行第 3 步（摘要，需先有已填入版）
+  python3 run_hotspot_workflow.py --step 2    # 只执行第 2 步（填入 prompt 模板）
+  python3 run_hotspot_workflow.py --step 3    # 只执行第 3 步（摘要，需先执行 Step 2）
   python3 run_hotspot_workflow.py --dry-run   # 打印将执行步骤，不写文件
 """
 
@@ -17,34 +17,29 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-# 默认路径：财经头版在本目录 finance_frontpage；热点摘要流程与产出在项目 hotspot/ 目录
+# 默认路径：本目录即「热点消息提示工具」；Step1 在 step1_finance_frontpage，Step2/3 产出在根目录
 ROOT = Path(__file__).resolve().parent
-PROJECT_ROOT = ROOT.parent
-HOTSPOT_DIR = PROJECT_ROOT / "hotspot"
-FINANCE_DIR = ROOT / "finance_frontpage"
-AGENT_SCRIPT = FINANCE_DIR / "finance_frontpage_agent.py"
-PROMPT_INPUT_FILE = FINANCE_DIR / "agent_prompt_input.txt"
-REPORT_FILE = FINANCE_DIR / "agent_report.md"
-FLOW_MD = HOTSPOT_DIR / "热点摘要_流程测试版.md"
-FLOW_FILLED_MD = HOTSPOT_DIR / "热点摘要_流程测试版_已填入.md"
-PROMPT_READY_FILE = HOTSPOT_DIR / "prompt_已填入_可直接发给模型.txt"
-SUMMARY_OUTPUT_FILE = HOTSPOT_DIR / "热点摘要_输出.md"
-# 简要版摘要（固定格式：标题行 + 正文），始终输出到此文件
-BRIEF_OUTPUT_FILE = HOTSPOT_DIR / "热点消息提示_简要版.txt"
+STEP1_DIR = ROOT / "step1_finance_frontpage"
+AGENT_SCRIPT = STEP1_DIR / "finance_frontpage_agent.py"
+PROMPT_INPUT_FILE = STEP1_DIR / "step2_input.txt"
+REPORT_FILE = STEP1_DIR / "step1_output.md"
+PROMPT_TEMPLATE_FILE = ROOT / "step2_总结摘要用Prompt.md"
+PROMPT_READY_FILE = ROOT / "step3_input.txt"
+STEP3_OUTPUT_FILE = ROOT / "step3_output.txt"
 
 MARKER_START = "<!-- 资讯来源开始 -->"
 MARKER_END = "<!-- 资讯来源结束 -->"
 
 
 def step1_fetch(timeout: int = 25, dry_run: bool = False) -> bool:
-    """步骤 1：运行 finance_frontpage_agent，生成 agent_prompt_input.txt 与 agent_report.md"""
-    print("[Step 1] 抓取财经头版 → 生成 agent_prompt_input.txt / agent_report.md")
+    """步骤 1：运行 finance_frontpage_agent，生成 step2_input.txt 与 step1_output.md"""
+    print("[Step 1] 抓取财经头版 → 生成 step1_finance_frontpage/step2_input.txt、step1_output.md")
     if dry_run:
         print("  (dry-run) 将执行: python3", AGENT_SCRIPT, "-o", REPORT_FILE)
         return True
     ret = subprocess.run(
-        [sys.executable, str(AGENT_SCRIPT), "--timeout", str(timeout), "-o", str(REPORT_FILE)],
-        cwd=str(ROOT),
+        [sys.executable, str(AGENT_SCRIPT), "--timeout", str(timeout), "-o", "step1_output.md"],
+        cwd=str(STEP1_DIR),
         capture_output=False,
     )
     if ret.returncode != 0:
@@ -58,104 +53,72 @@ def step1_fetch(timeout: int = 25, dry_run: bool = False) -> bool:
 
 
 def step2_fill(dry_run: bool = False) -> bool:
-    """步骤 2：将 agent_prompt_input.txt 填入流程测试版中占位符，输出到 _已填入.md"""
-    print("[Step 2] 将 agent_prompt_input.txt 填入流程测试版 → 热点摘要_流程测试版_已填入.md")
+    """步骤 2：将 step2_input.txt 填入 step2_总结摘要用Prompt.md 占位符，输出 step3_input.txt"""
+    print("[Step 2] 将 step2_input.txt 填入总结摘要 Prompt 模板 → step3_input.txt")
     if not PROMPT_INPUT_FILE.exists():
         print("[Step 2] 失败：缺少", PROMPT_INPUT_FILE, "请先执行 Step 1")
         return False
-    if not FLOW_MD.exists():
-        print("[Step 2] 失败：缺少", FLOW_MD)
+    if not PROMPT_TEMPLATE_FILE.exists():
+        print("[Step 2] 失败：缺少", PROMPT_TEMPLATE_FILE, "（Step 2 总结摘要用 prompt 模板）")
         return False
     content = PROMPT_INPUT_FILE.read_text(encoding="utf-8")
-    flow_text = FLOW_MD.read_text(encoding="utf-8")
-    if MARKER_START not in flow_text or MARKER_END not in flow_text:
-        print("[Step 2] 失败：流程测试版中未找到占位符", MARKER_START, "/", MARKER_END)
+    template_text = PROMPT_TEMPLATE_FILE.read_text(encoding="utf-8")
+    if MARKER_START not in template_text or MARKER_END not in template_text:
+        print("[Step 2] 失败：模板中未找到占位符", MARKER_START, "/", MARKER_END)
         return False
     if dry_run:
-        print("  (dry-run) 将替换占位符之间的内容，写入", FLOW_FILLED_MD)
+        print("  (dry-run) 将替换占位符之间的内容，写入", PROMPT_READY_FILE)
         return True
-    # 替换两标记之间的内容（保留两标记行）
     pattern = re.compile(
         re.escape(MARKER_START) + r"\n.*?" + re.escape(MARKER_END),
         re.DOTALL,
     )
     new_block = MARKER_START + "\n" + content.strip() + "\n" + MARKER_END
-    new_flow = pattern.sub(new_block, flow_text)
-    if new_flow == flow_text:
+    prompt_body = pattern.sub(new_block, template_text)
+    if prompt_body == template_text:
         print("[Step 2] 警告：未替换到任何内容，请检查占位符")
-    FLOW_FILLED_MD.write_text(new_flow, encoding="utf-8")
-    print("[Step 2] 完成。可检验:", FLOW_FILLED_MD)
+    PROMPT_READY_FILE.write_text(prompt_body, encoding="utf-8")
+    print("[Step 2] 完成。可检验:", PROMPT_READY_FILE)
     return True
 
 
-def _extract_prompt_from_filled_md(text: str) -> str:
-    """从已填入的流程测试版中抽出「七、Prompt 占位」代码块内的完整 prompt（供 Step 3 使用）"""
-    lines = text.splitlines()
-    in_block = False
-    collected = []
-    for line in lines:
-        if line.strip() == "```":
-            if in_block:
-                block = "\n".join(collected)
-                if "早间" in block or "晚间" in block:
-                    return block
-                collected = []
-                in_block = False
-            else:
-                in_block = True
-            continue
-        if in_block:
-            collected.append(line)
-    return "\n".join(collected) if collected else ""
-
-
-def _write_brief_output(body: str, dry_run: bool = False) -> None:
-    """写入简要版摘要文件，格式：热点消息提示工具-YYYYMMDDHH + 正文"""
+def _write_step3_output(body: str, dry_run: bool = False) -> None:
+    """写入 Step 3 产出 step3_output.txt，格式：热点消息提示工具-YYYYMMDDHH + 正文 + 摘要"""
     ts = datetime.now().strftime("%Y%m%d%H")
     lines = [f"热点消息提示工具-{ts}", "正文", "", body.strip()]
     text = "\n".join(lines)
     if dry_run:
-        print("  (dry-run) 将写入", BRIEF_OUTPUT_FILE)
+        print("  (dry-run) 将写入", STEP3_OUTPUT_FILE)
         return
-    BRIEF_OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    BRIEF_OUTPUT_FILE.write_text(text, encoding="utf-8")
-    print("[Step 3] 已写入简要版摘要:", BRIEF_OUTPUT_FILE)
+    STEP3_OUTPUT_FILE.write_text(text, encoding="utf-8")
+    print("[Step 3] 已写入:", STEP3_OUTPUT_FILE)
 
 
 def step3_summary(use_llm: bool = False, dry_run: bool = False) -> bool:
-    """步骤 3：基于已填入版生成「可直接发给模型」的 prompt；写简要版摘要到 hotspot/热点消息提示_简要版.txt"""
-    print("[Step 3] 总结摘要：生成可发给模型的 prompt；写入简要版摘要（热点消息提示_简要版.txt）")
-    if not FLOW_FILLED_MD.exists():
-        print("[Step 3] 失败：缺少", FLOW_FILLED_MD, "请先执行 Step 2")
+    """步骤 3：读取 step3_input.txt，调用 LLM 生成摘要，写入 step3_output.txt"""
+    print("[Step 3] 总结摘要：读取 step3_input.txt，生成摘要并写入 step3_output.txt")
+    if not PROMPT_READY_FILE.exists():
+        print("[Step 3] 失败：缺少", PROMPT_READY_FILE, "请先执行 Step 2")
         return False
-    flow_filled = FLOW_FILLED_MD.read_text(encoding="utf-8")
-    prompt_body = _extract_prompt_from_filled_md(flow_filled)
-    if not prompt_body.strip():
-        print("[Step 3] 警告：未从已填入版中解析出 prompt 代码块，将整份已填入版作为 prompt 输出")
-        prompt_body = flow_filled
+    prompt_body = PROMPT_READY_FILE.read_text(encoding="utf-8")
     if dry_run:
-        print("  (dry-run) 将写入", PROMPT_READY_FILE, "（约", len(prompt_body), "字）")
-        print("  (dry-run) 将写入", BRIEF_OUTPUT_FILE)
+        print("  (dry-run) 将读取", PROMPT_READY_FILE, "（约", len(prompt_body), "字）")
         if use_llm:
-            print("  (dry-run) 将调用 LLM 并写入", SUMMARY_OUTPUT_FILE)
+            print("  (dry-run) 将调用 LLM 并写入", STEP3_OUTPUT_FILE)
         return True
-    PROMPT_READY_FILE.write_text(prompt_body, encoding="utf-8")
-    print("[Step 3] 已写入完整 prompt:", PROMPT_READY_FILE)
+    print("[Step 3] 已使用 prompt:", PROMPT_READY_FILE)
 
     summary_text = ""
     if use_llm:
         summary_text = _call_llm_for_summary(prompt_body)
-        if summary_text:
-            SUMMARY_OUTPUT_FILE.write_text(summary_text, encoding="utf-8")
-            print("[Step 3] 已写入摘要:", SUMMARY_OUTPUT_FILE)
-        else:
-            summary_text = "（未生成：请配置 OPENAI_API_KEY 后使用 --llm 重跑，或将 hotspot/prompt_已填入_可直接发给模型.txt 发给模型，把回复粘贴到本文件「正文」下方。）"
+        if not summary_text:
+            summary_text = "（未生成：请配置 OPENAI_API_KEY 后使用 --llm 重跑，或将 step3_input.txt 发给模型，把回复粘贴到本文件「正文」下方。）"
             print("[Step 3] LLM 未返回内容，请检查 API 配置或手动复制", PROMPT_READY_FILE, "到模型")
     else:
-        summary_text = "（未生成：运行 python3 run_hotspot_workflow.py --llm 自动出摘要，或将 hotspot/prompt_已填入_可直接发给模型.txt 发给模型，把回复粘贴到本文件「正文」下方。）"
+        summary_text = "（未生成：运行 python3 run_hotspot_workflow.py --llm 自动出摘要，或将 step3_input.txt 发给模型，把回复粘贴到本文件「正文」下方。）"
         print("[Step 3] 未启用 LLM。将", PROMPT_READY_FILE, "内容复制到模型即可得到晚间/早间关注摘要。")
 
-    _write_brief_output(summary_text, dry_run=False)
+    _write_step3_output(summary_text, dry_run=False)
     return True
 
 
@@ -215,12 +178,11 @@ def _call_llm_for_summary(prompt: str) -> str:
 
 
 def main():
-    # 启动时先加载项目根 .env（绝对路径），保证 OPENAI_API_KEY 等能被读到
-    env_path = (PROJECT_ROOT / ".env").resolve()
+    # 加载本目录 .env，保证 OPENAI_API_KEY 等能被读到（本地与 GitHub Actions 均可用）
+    env_path = (ROOT / ".env").resolve()
     try:
         from dotenv import load_dotenv
-        loaded = load_dotenv(str(env_path))
-        load_dotenv(str((ROOT / ".env").resolve()))
+        load_dotenv(str(env_path))
     except ImportError:
         loaded = False
 
@@ -253,7 +215,7 @@ def main():
         if not ok and not args.dry_run:
             print("工作流在 Step", s, "终止")
             return 1
-    print("工作流执行完毕。可依次检验：agent_report.md → 流程测试版_已填入.md → prompt_已填入_可直接发给模型.txt → hotspot/热点消息提示_简要版.txt [→ 热点摘要_输出.md]")
+    print("工作流执行完毕。可依次检验：step1_finance_frontpage/step1_output.md → step3_input.txt → step3_output.txt")
     return 0
 
 

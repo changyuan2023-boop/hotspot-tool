@@ -4,42 +4,102 @@
 
 ## 目录与文件
 
-- **finance_frontpage/**：财经头版 Agent（抓取多站头版、生成报告与可粘贴块）
-- **run_hotspot_workflow.py**：全流程入口（抓取 → 填入流程测试版 → 生成 prompt）
+- **step2_总结摘要用Prompt.md**：Step 2 总结摘要用 prompt 模板（工作流会把抓取到的资讯填入占位符后发给模型）
+- **step1_finance_frontpage/**：Step 1 财经头版 Agent（抓取多站头版、生成 step1_output.md 与 step2_input.txt）
+- **run_hotspot_workflow.py**：全流程入口（Step 1 抓取 → Step 2 填入 prompt 模板 → Step 3 总结摘要）
 
-流程与产出去 **项目 `hotspot/` 目录** 读写。**摘要结果**统一输出到：
+**Step 1 产出**（在 `step1_finance_frontpage/`）：
+- **step1_output.md** — 人类可读的头版分析报告
+- **step2_input.txt** — 多站头版整理成的「资讯来源」块，供 Step 2 填入模板
 
-- **`hotspot/热点消息提示_简要版.txt`** — 每次运行 Step 3 都会生成，格式固定为：
+**Step 2 产出**（在根目录）：
+- **step3_input.txt** — 把 step2_总结摘要用Prompt.md 占位符替换为抓取内容后的完整 prompt，可复制给模型或由 Step 3 用 `--llm` 发送
+
+**Step 3 产出**（在根目录）：
+- **step3_output.txt** — 固定格式的摘要输出（标题行 + 「正文」+ 摘要内容），每次跑 Step 3 都会覆盖，适合推送或快速浏览：
   ```
   热点消息提示工具-2026030516
   正文
 
   （晚间/早间关注摘要内容，或提示你粘贴/使用 --llm）
   ```
-  时间戳为生成时的「年月日时」（YYYYMMDDHH）。使用 `--llm` 时正文为模型生成的摘要；未使用时可手动将 prompt 发给模型后，把回复粘贴到该文件「正文」下方。
 
-其他产出：`热点摘要_流程测试版.md`、`热点摘要_流程测试版_已填入.md`、`prompt_已填入_可直接发给模型.txt`、`热点摘要_输出.md`（仅 `--llm` 时写入）。
+---
 
-## 用法（在项目根或本目录执行）
+## 文件说明（每个文件的作用）
+
+| 文件 / 目录 | 作用 |
+|-------------|------|
+| **run_hotspot_workflow.py** | 工作流入口。Step 1 抓取 → Step 2 填入 prompt 模板 → Step 3 总结摘要（可 `--llm`）。支持 `--step 1/2/3`、`--llm`、`--dry-run`。 |
+| **step2_总结摘要用Prompt.md** | 总结摘要用 **prompt 模板**，中间 `<!-- 资讯来源开始/结束 -->` 占位；Step 2 填入抓取内容后得到 step3_input.txt。 |
+| **.env.example** | 环境变量示例。复制为 `.env` 填入 `OPENAI_API_KEY` 等，供本地 `--llm` 或 GitHub Actions 使用。 |
+| **.gitignore** | 忽略 `.env`、`__pycache__/`、`.DS_Store` 等。 |
+| **.github/workflows/hotspot.yml** | GitHub Actions 定时任务，自动跑工作流并提交 step1_output.md、step2_input.txt、step3_input.txt、step3_output.txt，可选推 Slack。 |
+| **step1_finance_frontpage/finance_frontpage_agent.py** | Step 1 入口，拉取多站头版并写出 step1_output.md、step2_input.txt。 |
+| **step1_finance_frontpage/finance_frontpage_analyzer.py** | 头版抓取与解析（含智通财经 curl 兜底）。 |
+| **step1_finance_frontpage/step1_output.md** | Step 1 产出：头版分析报告。 |
+| **step1_finance_frontpage/step2_input.txt** | Step 1 产出：资讯来源块，供 Step 2 填入模板。 |
+| **step3_input.txt** | Step 2 产出：已填入资讯的完整 prompt，可复制给模型或由 Step 3 `--llm` 发送。 |
+| **step3_output.txt** | Step 3 产出：带标题的摘要（标题 + 正文 + 内容），适合推送或浏览。 |
+
+> `step1_finance_frontpage/__pycache__/` 为 Python 字节码缓存，可忽略。
+
+## 用法（在本目录执行）
 
 ```bash
 # 全流程
 python3 run_hotspot_workflow.py
 
-# 仅 Step 1：抓取财经头版 → 生成 agent_prompt_input.txt / agent_report.md
+# 仅 Step 1：抓取财经头版 → 生成 step1_output.md、step2_input.txt
 python3 run_hotspot_workflow.py --step 1
 
-# 仅 Step 2：将 agent_prompt_input.txt 填入流程测试版
+# 仅 Step 2：将 step2_input.txt 填入 step2_总结摘要用Prompt.md → step3_input.txt
 python3 run_hotspot_workflow.py --step 2
 
-# 仅 Step 3：从已填入版抽出 prompt 并写入 prompt_已填入_可直接发给模型.txt
+# 仅 Step 3：读取 step3_input.txt，写 step3_output.txt（加 --llm 会调模型生成摘要）
 python3 run_hotspot_workflow.py --step 3
 
 # 只重新跑第三步并用 LLM 生成摘要（不重新抓取、不重新填入）
 python3 run_hotspot_workflow.py --step 3 --llm
 ```
 
-从项目根执行时：`python3 热点消息提示工具/run_hotspot_workflow.py`。
+**本地运行**：进入本目录后执行 `python3 run_hotspot_workflow.py`。本目录已自包含，无需上层项目。
+
+---
+
+## 只推送本文件夹到 GitHub
+
+若希望 GitHub 上只存在「热点消息提示工具」这一个仓库（不包含上层 `coding` 其他项目），可按以下方式之一操作。
+
+**方式一：用本文件夹单独建一个 Git 仓库并推送**
+
+1. 在终端执行（将 `你的用户名/hotspot-tool` 换成你的仓库地址）：
+   ```bash
+   cd 热点消息提示工具
+   git init
+   git add -A
+   git commit -m "init"
+   git remote add origin https://github.com/你的用户名/hotspot-tool.git
+   git branch -M main
+   git push -u origin main
+   ```
+2. 在 GitHub 仓库 Settings → Secrets and variables → Actions 中配置 `OPENAI_API_KEY`、`OPENAI_API_BASE`、`OPENAI_MODEL`（以及可选的 `SLACK_WEBHOOK_URL`）。
+3. 在 Actions 里手动 Run workflow 试跑一次。
+
+**方式二：保留现有 hotspot-tool 仓库，只更新为本文件夹内容**
+
+若当前 GitHub 仓库里是整份 `coding` 项目，想改成「仓库根目录 = 本文件夹内容」：
+
+1. 克隆一份到临时目录，用本文件夹内容覆盖后强制推送（操作前请备份或确认无需保留仓库内其他文件）：
+   ```bash
+   git clone https://github.com/changyuan2023-boop/hotspot-tool.git hotspot-tool-tmp
+   cd hotspot-tool-tmp
+   rm -rf .git
+   # 把 热点消息提示工具 里的所有文件（含 .github）复制到当前目录，覆盖
+   # 然后重新 init 并 force push（会清空远程其它文件，慎用）
+   ```
+
+日常只需在本目录内改代码，在**本目录**的 Git 里 commit 并 push 即可。
 
 ---
 

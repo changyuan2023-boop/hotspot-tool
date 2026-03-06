@@ -78,7 +78,7 @@ def main():
         print(paste_text)
     else:
         # 同时写入「可粘贴」文件，方便直接复制
-        prompt_input_path = Path(report_path).parent / "agent_prompt_input.txt"
+        prompt_input_path = Path(report_path).parent / "step2_input.txt"
         Path(prompt_input_path).write_text(paste_text, encoding="utf-8")
         print("\n" + paste_text)
         print(f"\n已写入可粘贴块: {prompt_input_path}")
