@@ -52,7 +52,7 @@ jobs:
           git push
 
       - name: 推送到 Slack
-        if: success()
+        if: success() && secrets.SLACK_WEBHOOK_URL != ''
         run: |
           CONTENT=$(cat hotspot/热点消息提示_简要版.txt)
           # Slack Webhook 要求 JSON，需转义换行和特殊字符
