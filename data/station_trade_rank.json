@@ -1,0 +1,27 @@
+{
+  "updated_at": "",
+  "us": [
+    { "symbol": "TSLA.US", "name": "特斯拉", "trade_user_count": 3200, "trade_amount": 12500000 },
+    { "symbol": "NVDA.US", "name": "英伟达", "trade_user_count": 2800, "trade_amount": 9800000 },
+    { "symbol": "AAPL.US", "name": "苹果", "trade_user_count": 2100, "trade_amount": 5600000 },
+    { "symbol": "COIN.US", "name": "Coinbase", "trade_user_count": 1900, "trade_amount": 7200000 },
+    { "symbol": "MU.US", "name": "美光科技", "trade_user_count": 1500, "trade_amount": 4100000 },
+    { "symbol": "AMD.US", "name": "超威半导体", "trade_user_count": 1400, "trade_amount": 3800000 },
+    { "symbol": "AMZN.US", "name": "亚马逊", "trade_user_count": 1200, "trade_amount": 2900000 },
+    { "symbol": "META.US", "name": "Meta", "trade_user_count": 1100, "trade_amount": 2600000 },
+    { "symbol": "GOOGL.US", "name": "谷歌", "trade_user_count": 900, "trade_amount": 1800000 },
+    { "symbol": "MSFT.US", "name": "微软", "trade_user_count": 850, "trade_amount": 1700000 }
+  ],
+  "hk": [
+    { "symbol": "00700.HK", "name": "腾讯控股", "trade_user_count": 4500, "trade_amount": 88000000 },
+    { "symbol": "09988.HK", "name": "阿里巴巴-SW", "trade_user_count": 3200, "trade_amount": 52000000 },
+    { "symbol": "09618.HK", "name": "京东集团-SW", "trade_user_count": 1800, "trade_amount": 21000000 },
+    { "symbol": "09888.HK", "name": "百度集团-SW", "trade_user_count": 1200, "trade_amount": 15000000 },
+    { "symbol": "03690.HK", "name": "美团-W", "trade_user_count": 2800, "trade_amount": 45000000 },
+    { "symbol": "01810.HK", "name": "小米集团-W", "trade_user_count": 1500, "trade_amount": 12000000 },
+    { "symbol": "09999.HK", "name": "网易-S", "trade_user_count": 900, "trade_amount": 8000000 },
+    { "symbol": "06060.HK", "name": "众安在线", "trade_user_count": 700, "trade_amount": 5500000 },
+    { "symbol": "02318.HK", "name": "中国平安", "trade_user_count": 1100, "trade_amount": 18000000 },
+    { "symbol": "00941.HK", "name": "中国移动", "trade_user_count": 800, "trade_amount": 9000000 }
+  ]
+}

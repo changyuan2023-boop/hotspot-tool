@@ -1,0 +1,72 @@
+{
+  "sites": [
+    {
+      "name": "Yahoo Finance (EN)",
+      "ok": true,
+      "headlines_count": 12
+    },
+    {
+      "name": "Benzinga (EN)",
+      "ok": true,
+      "headlines_count": 10
+    },
+    {
+      "name": "华尔街见闻 (简中)",
+      "ok": true,
+      "headlines_count": 0
+    },
+    {
+      "name": "SCMP (EN/中)",
+      "ok": true,
+      "headlines_count": 8
+    },
+    {
+      "name": "经济通 (繁中)",
+      "ok": true,
+      "headlines_count": 13
+    },
+    {
+      "name": "智通财经 (简中)",
+      "ok": true,
+      "headlines_count": 0
+    }
+  ],
+  "themes": {
+    "iran_war": [
+      "Yahoo Finance (EN)",
+      "Benzinga (EN)",
+      "SCMP (EN/中)",
+      "经济通 (繁中)"
+    ],
+    "tariffs": [
+      "Yahoo Finance (EN)"
+    ],
+    "oil_energy": [
+      "Yahoo Finance (EN)",
+      "Benzinga (EN)"
+    ],
+    "crypto": [
+      "Yahoo Finance (EN)"
+    ],
+    "jobs_economy": [
+      "Yahoo Finance (EN)",
+      "Benzinga (EN)"
+    ],
+    "gold_commodity": [
+      "Yahoo Finance (EN)"
+    ],
+    "fed_rates": [
+      "Yahoo Finance (EN)"
+    ],
+    "tech_stocks": [
+      "Yahoo Finance (EN)",
+      "Benzinga (EN)",
+      "SCMP (EN/中)"
+    ],
+    "china_eu": [
+      "Yahoo Finance (EN)",
+      "Benzinga (EN)",
+      "SCMP (EN/中)"
+    ]
+  }
+}

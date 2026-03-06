@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>热点监控 · Metabase 格式转化</title>
+  <style>
+    :root { --bg: #0f1419; --panel: #1a2332; --text: #e6edf3; --muted: #8b949e; --accent: #58a6ff; --green: #3fb950; --red: #f85149; }
+    * { box-sizing: border-box; }
+    body { font-family: ui-sans-serif, system-ui, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 16px; line-height: 1.5; }
+    h1 { font-size: 1.25rem; margin: 0 0 8px; }
+    .tip { font-size: 0.8125rem; color: var(--muted); margin-bottom: 12px; }
+    .paste-zone { width: 100%; min-height: 120px; padding: 10px; background: var(--panel); border: 1px solid #30363d; border-radius: 8px; color: var(--text); font: inherit; resize: vertical; }
+    .out-zone { width: 100%; min-height: 120px; padding: 10px; background: var(--panel); border: 1px solid #30363d; border-radius: 8px; color: var(--text); font: inherit; resize: vertical; font-size: 0.8125rem; }
+    .btn { background: var(--accent); color: #fff; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-size: 0.875rem; margin-right: 8px; margin-top: 4px; }
+    .btn:hover { opacity: 0.9; }
+    .btn.secondary { background: #30363d; }
+    .section { margin-top: 16px; }
+    .section h2 { font-size: 0.9375rem; margin: 0 0 8px; color: var(--muted); }
+    .err { color: var(--red); margin-top: 8px; font-size: 0.875rem; }
+    .ok { color: var(--green); font-size: 0.875rem; margin-top: 4px; }
+  </style>
+</head>
+<body>
+  <h1>Metabase 格式 → 热点监控格式</h1>
+  <p class="tip">把从 Metabase 复制的「实时成交榜-按成交人数」表格粘贴到下方，点击「转化」即可得到带 .US / .HK 标的列的表格，再复制到热点监控页使用。</p>
+  <textarea class="paste-zone" id="paste" placeholder="在此粘贴 Metabase 复制内容（需含表头：标的名称、标的ID、市场、实时成交人数 等）"></textarea>
+  <div>
+    <button class="btn" id="btnConvert">转化</button>
+    <button class="btn secondary" id="btnCopy" style="display: none;">复制为热点监控格式</button>
+  </div>
+  <p class="err" id="err"></p>
+  <p class="ok" id="ok"></p>
+  <div class="section" id="section" style="display: none;">
+    <h2>转化结果（可全选复制后贴到「热点监控」页）</h2>
+    <textarea class="out-zone" id="out" readonly></textarea>
+  </div>
+
+  <script>
+    // 标的ID 转为 .US / .HK 格式
+    // 标的ID 示例: ST/HK/9988, ETF/HK/7709, ST/US/TSLA, ETF/US/SOXL
+    function toSymbol(标的ID, 市场) {
+      if (!标的ID || !市场) return "";
+      const parts = String(标的ID).trim().split("/").filter(Boolean);
+      const last = parts[parts.length - 1];
+      if (!last) return "";
+      const m = String(市场).toUpperCase();
+      if (m === "HK") {
+        return last.padStart(5, "0") + ".HK";
+      }
+      if (m === "US") return last.toUpperCase() + ".US";
+      return "";
+    }
+
+    function parseAndConvert(text) {
+      const lines = text.trim().split(/\r?\n/).filter(Boolean);
+      if (lines.length === 0) return { ok: false, error: "未粘贴任何内容", tsv: "" };
+      const rows = lines.map(l => l.split(/\t/).map(c => c.trim()));
+      const header = rows[0];
+      const nameCol = header.findIndex(c => /标的名称|名称/.test(c));
+      const idCol = header.findIndex(c => /标的ID|标的/.test(c) && !/名称/.test(c));
+      const marketCol = header.findIndex(c => /^市场$/.test(c));
+      const countCol = header.findIndex(c => /实时成交人数|交易人数|人数/.test(c));
+      if (idCol < 0 || marketCol < 0) {
+        return { ok: false, error: "未找到「标的ID」或「市场」列，请保留 Metabase 表头再复制", tsv: "" };
+      }
+      const outRows = [["标的", "名称", "交易人数"]];
+      for (let i = 1; i < rows.length; i++) {
+        const r = rows[i];
+        const 标的ID = r[idCol] || "";
+        const 市场 = r[marketCol] || "";
+        const symbol = toSymbol(标的ID, 市场);
+        if (!symbol) continue;
+        const 名称 = nameCol >= 0 ? (r[nameCol] || "") : "";
+        let 人数 = countCol >= 0 ? (r[countCol] || "").replace(/,/g, "") : "0";
+        if (!/^\d+$/.test(人数)) 人数 = "0";
+        outRows.push([symbol, 名称, 人数]);
+      }
+      const tsv = outRows.map(row => row.join("\t")).join("\n");
+      return { ok: true, tsv, count: outRows.length - 1 };
+    }
+
+    function run() {
+      const paste = document.getElementById("paste").value;
+      const errEl = document.getElementById("err");
+      const okEl = document.getElementById("ok");
+      const section = document.getElementById("section");
+      const outEl = document.getElementById("out");
+      const btnCopy = document.getElementById("btnCopy");
+      errEl.textContent = "";
+      okEl.textContent = "";
+      section.style.display = "none";
+      btnCopy.style.display = "none";
+      const result = parseAndConvert(paste);
+      if (!result.ok) {
+        errEl.textContent = result.error;
+        return;
+      }
+      outEl.value = result.tsv;
+      section.style.display = "block";
+      btnCopy.style.display = "inline-block";
+      okEl.textContent = "已转化 " + result.count + " 条，请点击「复制为热点监控格式」或从下方框内全选复制，再贴到热点监控页。";
+    }
+
+    function copyOut() {
+      const out = document.getElementById("out");
+      out.select();
+      document.execCommand("copy");
+      const okEl = document.getElementById("ok");
+      okEl.textContent = "已复制到剪贴板，请到「热点监控」页粘贴并点击「获取涨跌幅并生成榜单」。";
+    }
+
+    document.getElementById("btnConvert").addEventListener("click", run);
+    document.getElementById("btnCopy").addEventListener("click", copyOut);
+  </script>
+</body>
+</html>

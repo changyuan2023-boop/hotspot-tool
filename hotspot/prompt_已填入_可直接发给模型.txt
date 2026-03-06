@@ -1,0 +1,202 @@
+你是港美股市场的早间/晚间热点编辑，根据给定的资讯与热点标准，输出一份简洁的「早间关注」或「晚间关注」摘要。产品场景：港美股交易平台，用于当日全市场重要消息面汇总。
+
+请先参考《前置经验》中的：一、热点分级与排序（S/A/B/C）；二、用户画像与关心的话题；三、好的热点内容标准。筛热点时与「社区热点模块步骤 1」同标准；定级与取舍沿用《前置经验》，并遵循下方置顶规则（若有）。本任务输出格式为「早间/晚间关注」段落，而非热点列表。
+
+--- 规范（与《热点摘要》一致）---
+
+1. 范围：仅港美股相关；宏观、龙头事件、重点个股异动/财报/重大消息。
+2. 宏观：一个事件多果时合并为一段（事件→资产反应→机构观点/预期）。
+3. 龙头事件：单条单事；同等级可保留 2～3 条。
+4. 个股：仅保留符合《热点摘要》中「个股入选标准」的标的（知名度+异动/财报/站内关注/多龙头叠加等）。
+5. 排除：低关注财报、非港美股或弱相关、已发酵多日旧闻。
+6. 格式：标题「晚间关注 · YYYY年M月D日」；正文无 bullet，每条一行；首段可合并盘前+宏观；业绩/日程两行（「业绩/日程：」+ 具体内容）；顺序按「当日谁更重要」；用*单星号*（*...*）标出 1～3 处关键信息。
+
+--- 置顶规则 ---
+
+必须纳入（即使只有 1 站提及，只要当日正在发生就必须写入摘要）：
+1. 中国两会/人大/政协相关：政府工作报告、GDP 目标、财政赤字率、央行/证监会/发改委/财政部等部委记者会要点、重大改革信号（如创业板改革、消费政策、十五五规划等）。这类事件对港股、A 股、中概股影响极大，属 S 级。
+2. 美联储利率决议、FOMC 声明、主席讲话。
+3. 重大地缘冲突升级/降级的转折点。
+
+置顶排序提示：当日若同时有「两会重大政策」和「地缘/油价」，两会政策应在摘要中占独立一条，不可被合并或省略。
+
+--- 输入 ---
+
+- 本次摘要类型：【早间关注 / 晚间关注】
+- 日期与时间范围：【例：2025-03-04 晚 9 点版，覆盖当日 0 点至发稿前】
+- 资讯来源/粘贴内容：
+<!-- 资讯来源开始 -->
+--- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
+
+【财经头版多站汇总】
+抓取时间: 2026030620
+
+## Yahoo Finance (EN)
+头版/首屏:
+- Entertainment
+- Finance
+- Sports
+- New on Yahoo
+- Stock futures slide, oil jumps ahead of jobs data
+- US-sanctioned gas tanker sails through Strait of Hormuz
+- Oracle plans thousands of job cuts amid AI cash crunch
+- Gas prices at the pump rise to highest under Trump
+- Oil heads for at least 20% weekly surge as war threatens supply
+- Marvell Tech shares rally on forecast for multi-year AI-chip growth
+- Qatar warns war will force Gulf to stop energy exports 'within days'
+- US denies companies refunds on Trump's illegal tariffs: FT
+其他:
+- February jobs report on deck: Here's what to expect
+- Big Tech stocks were expensive. Then the market turned on AI
+- Bond Traders Scour Payrolls to Gauge Fed Path Amid Oil Rise
+- WTI Crude Tops $85 a Barrel as War Paralyzes Hormuz Traffic
+- Wary Shoppers Drag Consumer Discretionary Earnings to 2020 Low
+- US Gasoline Pump Prices Jump to Highest Level Under Trump
+- BofA’s Hartnett Sees European, Japanese Stocks at Risk From War
+- Gold Set for Weekly Loss as Dollar Strength Offsets War Premium
+- China to deepen reform of Shenzhen's ChiNext board, regulator says
+- Nvidia is shifting its China strategy. Here's why.
+
+## Benzinga (EN)
+头版/首屏:
+- Latest News
+- Top Stories
+- QUICK LINKS
+- Markets Pulse
+- Why Is It Moving?™
+- Trending Stories
+- Sponsored Content
+- Expert Ideas
+- UPCOMING EVENTS
+- INSIDER TRADES
+其他:
+- How To Earn $500 A Month From Vail Resorts Stock Ahead Of Q2 Earnings
+- Wall Street's Most Accurate Analysts Spotlight On 3 Materials Stocks Delivering High-Dividend Yields
+- Okta To Rally Around 22%? Here Are 10 Top Analyst Forecasts For Friday
+- Bitcoin Slips Back To $70,000 As Ethereum, XRP, Dogecoin Dump On ETF Outflows
+- UAE Could Freeze Billions In Iranian Assets As War Tensions Escalate: Report
+- Stock Market Today: Dow Jones, S&P 500 Futures Tumble Ahead Of February Employment Data—Marvell Technology, Gap, Oracle In Focus
+- Gas Prices
+- Beige Book
+- Mojtaba Khamenei
+- Greg Abel
+
+## 华尔街见闻 (简中)
+头版/首屏:
+- 中兴通讯：2025年净利润56.18亿元，同比下降33.32%
+- 阿塞拜疆决定从伊朗撤出全部外交人员
+- 以色列财政部长之子在与黎真主党冲突中受伤
+- 美联储理事沃勒：冲突不太可能导致持续通胀。
+这也是我们从不关注能源价格的原因。
+如果能源价格上涨推高其他价格，我会更担心。
+这更像是一次性事件，而非20世纪70
+- 美国能源部长赖特：汽油价格受到的影响将持续数周，而非数月。
+- 科威特拉响警报。（半岛电视台）
+- 阿联酋：3月6日拦截了9枚导弹和109架无人机。
+- 美以袭击伊朗德黑兰一处居民区
+- 美元兑日元上涨0.3%至158.08，达到自1月23日以来的最高水平。
+- 伊朗总统：一些国家已开始调解冲突
+- 印度央行将通过公开市场操作分两批购买1万亿卢比债券。（彭博）
+- 龙湖披露2025年度业绩预告，预计全年实现归属于股东净利润约10亿元
+其他:
+- 伊朗称摧毁位于阿联酋和约旦的“萨德”反导系统雷达
+- 郑商所发布风险提示函
+- 英国首相发言人Wells：3月3日以来已有超过7500名英国人从阿联酋返回。
+- 迪拜机场加快航班恢复
+- WTI原油日内涨幅达6.0%，报85.88美元/桶；布伦特原油日内涨幅达4.5%，报89.28美元/桶。
+现货黄金5分钟内下跌11.22美元/盎司，报5070.
+- 欧股跌幅扩大，欧洲斯托克50指数跌超1%，法国CXC 40指数跌近1%，德国DAX指数跌0.7%，英国富时100指数跌0.6%。
+- 中国东方航空：中东航线部分航班恢复运行。
+- 标普500指数期货下跌0.6%至盘中低点，纳斯达克100指数期货下跌0.7%，道指期货跌0.4%。
+- 以军称正拦截伊朗方向发射的导弹
+- 以军称炸毁哈梅内伊用过的地下掩体
+
+## SCMP (EN/中)
+头版/首屏:
+- Beijing vows yuan stability, fires back at currency-depreciation claims
+- 8 takeaways from the economic briefing at China’s ‘two sessions’
+- Diplomacy
+- Why China’s new 5-year plan targets stronger policing of disputed waters
+- China Economy
+- Law and Crime
+- 3 arrested over theft at Tai Po fire block, HK$90,000 in jewellery seized
+- Could Iran war confirm China’s prediction on US military’s hypersonic nightmare?
+其他:
+- PBOC governor reaffirms yuan stability, refuting trade partners’ accusations ahead of critical US talks in Paris.
+- Focus on maritime law enforcement believed to highlight growing challenges facing Beijing, particularly in the South China Sea.
+- China’s top economic officials laid out their priorities for trade, technology and investment in 2026.
+- Police arrest three workers responsible for structural reinforcement work at the estate destroyed in blaze, insider says.
+- Markets
+- China’s market regulator vows more oversight to shore up confidence
+- Crackdown on fraud, stronger governance, higher dividends and more buy-backs will enhance appeal of Chinese assets, CSRC chief Wu Qing says.
+- China vows support for tech, trade rebalance, stock reforms - as it happened
+- The heads of China’s major economic institutions detailed plans for growth, trade and tech on the sidelines of the ‘two sessions’.
+- Economics
+
+## 经济通 (繁中)
+头版/首屏:
+- 沪深港通 热点观察国际动态【FOCUS】
+- AI数据中心建设催生用电需求，电力设备股爆升怎么选？
+- 支持地方推中小学春秋假 旅行预订激增
+- 伊朗射导弹轰土耳其 北约成功拦截
+- 电池登峰雷达造极，新能源车入下半场
+- 指数环球商品外汇
+- 国金观点
+- 港股大市分析
+- 期货期权：
+- 香港权证：
+- 环球基金：
+- ETF：
+其他:
+- 恒生指数25742.33+420.99(+1.66%)
+                    etnet.com.hk@copyright
+- 国企指数8620.16+168.73(+2.00%)
+                    etnet.com.hk@copyright
+- 上证指数3152.19+11.34(+0.36%)
+                    etnet.com.hk@copyright
+- 理财/管理
+- 时尚艺术
+- 健康人生
+- 吃喝玩乐
+
+## 智通财经 (简中)
+头版/首屏:
+- 一文速览人大经济主题记者会！五大掌门人重磅发声 事关财政、股市……
+- AI ASIC与SSD需求狂飙! 迈威尔科技(MRVL.US)尽享“AI推理红利” 营业利润猛增72%
+- 美国私募信贷市场再爆惊雷！贝莱德(BLK.US)又一笔贷款估值直接归零
+- 伊朗局势逆转资金流向：投资者从“买入亚洲”转向“逃回美国”
+- 十四届全国人大四次会议开幕 李强作政府工作报告
+- 美财长贝森特：15%普遍关税或于本周开始实施，全球石油供应充足
+- 高盛力挺美股：别怕战争与AI冲击!每次回调都是买入良机
+- 富时中国50指数调整：纳入新华保险(01336)、潍柴动力(02338) 剔除民生银行(01988)、中兴通讯(00763)
+- 人大新闻发布会回应经济热点：详解“十五五”开放新格局与消费升级路径
+其他:
+- A股公告精选 | 迈为股份(300751.SZ)拟投资35亿元建设钙钛矿叠层电池成套装备项目
+- 新股消息 | 琻捷电子再度递表港交所 为中国最大的汽车无线传感SoC公司
+- 美银：若伊朗冲突持续 日欧股市涨势或受冲击
+- 新股消息 | 华明装备(002270.SZ)递表港交所 在分接开关市场以收入计位列全球第二、中国第一
+- 智通港股解盘 | 航母被炸油价依旧坚挺 政策刺激消费集体发力
+- 伊朗战火重塑投资逻辑：能源独立+美元走强，美股逆转2月劣势化身全球“避风港”
+- 美股前瞻 | 三大股指期货齐跌 布油升穿88美元 非农及零售销售数据公布在即
+- 迅策（03317）2025营收翻倍至12.8亿，AI数据基建正式进入“收获期”
+- 中东战火点燃避险情绪：全球股票基金八周来首现资金外流，美股失血219亿
+- 新股消息 | 琻捷电子再度递表港交所
+
+--- 跨站重点主题（多站出现=更重要）---
+- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 智通财经 (简中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中), 智通财经 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 智通财经 (简中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 智通财经 (简中)
+- 中国政策/两会: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 智通财经 (简中)
+- 就业数据: Yahoo Finance (EN), Benzinga (EN), 智通财经 (简中)
+- 美国关税: Yahoo Finance (EN), 智通财经 (简中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 加密货币: Benzinga (EN)
+
+--- 粘贴结束 ---
+<!-- 资讯来源结束 -->
+
+--- 请输出：早间/晚间关注摘要（整理版）---
+
+按上述规范与顺序输出；用加粗（**...**）标出 1～3 处关键信息；每条一行，删减次要内容。
