@@ -50,10 +50,16 @@ jobs:
           git push
 
       - name: 推送到 Slack
-        if: success() && secrets.SLACK_WEBHOOK_URL != ''
+        if: success()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
-          CONTENT=$(cat step3_output.txt)
-          ESCAPED=$(echo "$CONTENT" | python3 -c "import sys,json; print(json.dumps(sys.stdin.read()))")
-          curl -s -X POST "${{ secrets.SLACK_WEBHOOK_URL }}" \
-            -H "Content-Type: application/json" \
-            -d "{\"text\":${ESCAPED}}"
+          if [ -n "$SLACK_WEBHOOK_URL" ]; then
+            CONTENT=$(cat step3_output.txt)
+            ESCAPED=$(echo "$CONTENT" | python3 -c "import sys,json; print(json.dumps(sys.stdin.read()))")
+            curl -s -X POST "$SLACK_WEBHOOK_URL" \
+              -H "Content-Type: application/json" \
+              -d "{\"text\":${ESCAPED}}"
+          else
+            echo "未配置 SLACK_WEBHOOK_URL，跳过推送"
+          fi
