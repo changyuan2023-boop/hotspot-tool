@@ -1,0 +1,382 @@
+{
+  "events": [
+    {
+      "type": "news",
+      "title": "Entertainment",
+      "source": "Yahoo Finance (EN)",
+      "themes": [
+        "tech_stocks"
+      ],
+      "url": "https://finance.yahoo.com/",
+      "_id": "60e9b064a66f",
+      "_topic": "news:tech_stocks"
+    },
+    {
+      "type": "news",
+      "title": "Finance",
+      "source": "Yahoo Finance (EN)",
+      "themes": [],
+      "url": "https://finance.yahoo.com/",
+      "_id": "a9fb119df281",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "Sports",
+      "source": "Yahoo Finance (EN)",
+      "themes": [],
+      "url": "https://finance.yahoo.com/",
+      "_id": "6a0e31a50e79",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "New on Yahoo",
+      "source": "Yahoo Finance (EN)",
+      "themes": [],
+      "url": "https://finance.yahoo.com/",
+      "_id": "9361bade1060",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "Oil holds above $100 as Iran vows to keep Hormuz closed",
+      "source": "Yahoo Finance (EN)",
+      "themes": [
+        "iran_war",
+        "oil_energy"
+      ],
+      "url": "https://finance.yahoo.com/",
+      "_id": "152ecec5097e",
+      "_topic": "news:iran_war"
+    },
+    {
+      "type": "news",
+      "title": "Latest News",
+      "source": "Benzinga (EN)",
+      "themes": [],
+      "url": "https://www.benzinga.com/",
+      "_id": "83939567e58b",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "Top Stories",
+      "source": "Benzinga (EN)",
+      "themes": [],
+      "url": "https://www.benzinga.com/",
+      "_id": "30ded11328cd",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "QUICK LINKS",
+      "source": "Benzinga (EN)",
+      "themes": [],
+      "url": "https://www.benzinga.com/",
+      "_id": "e596ffa645fb",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "Markets Pulse",
+      "source": "Benzinga (EN)",
+      "themes": [],
+      "url": "https://www.benzinga.com/",
+      "_id": "3fe1947c8654",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "Why Is It Moving?™",
+      "source": "Benzinga (EN)",
+      "themes": [],
+      "url": "https://www.benzinga.com/",
+      "_id": "25eb213a8131",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "如何判断货币政策取向？权威专家回应",
+      "source": "华尔街见闻 (简中)",
+      "themes": [],
+      "url": "https://wallstreetcn.com/",
+      "_id": "6a43f630d8c7",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "比亚迪发行50亿元人民币270天期科创债",
+      "source": "华尔街见闻 (简中)",
+      "themes": [],
+      "url": "https://wallstreetcn.com/",
+      "_id": "35f74814d062",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "欧元区1月工业产出同比 -1.2%，预期 1.3%，前值 1.2%。",
+      "source": "华尔街见闻 (简中)",
+      "themes": [],
+      "url": "https://wallstreetcn.com/",
+      "_id": "6d73fba7a32a",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "欧元区1月工业产出环比 -1.5%，预期 0.6%，前值 -1.4%。",
+      "source": "华尔街见闻 (简中)",
+      "themes": [],
+      "url": "https://wallstreetcn.com/",
+      "_id": "f8b7edc215c7",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "澳大利亚计划释放7.62亿升燃油",
+      "source": "华尔街见闻 (简中)",
+      "themes": [],
+      "url": "https://wallstreetcn.com/",
+      "_id": "540936baedde",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "Death of Chinese scientist Li Xinying in Egypt raises sharp questions back home",
+      "source": "SCMP (EN/中)",
+      "themes": [
+        "tech_stocks"
+      ],
+      "url": "https://www.scmp.com/",
+      "_id": "5fd44d52280c",
+      "_topic": "news:tech_stocks"
+    },
+    {
+      "type": "news",
+      "title": "Award-winning memory chip expert leaves US for job at Chinese semiconductor firm",
+      "source": "SCMP (EN/中)",
+      "themes": [],
+      "url": "https://www.scmp.com/",
+      "_id": "537cf8640b35",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "Military",
+      "source": "SCMP (EN/中)",
+      "themes": [],
+      "url": "https://www.scmp.com/",
+      "_id": "2ab30a217eb1",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "China announces AI boost to radar as drone swarms confound detectors in Iran war",
+      "source": "SCMP (EN/中)",
+      "themes": [
+        "iran_war",
+        "tech_stocks",
+        "china_eu"
+      ],
+      "url": "https://www.scmp.com/",
+      "_id": "db5589e50d0a",
+      "_topic": "news:iran_war"
+    },
+    {
+      "type": "news",
+      "title": "Diplomacy",
+      "source": "SCMP (EN/中)",
+      "themes": [],
+      "url": "https://www.scmp.com/",
+      "_id": "bd92bdc0e54b",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "沪深港通 热点观察国际动态【FOCUS】",
+      "source": "经济通 (繁中)",
+      "themes": [],
+      "url": "https://www.etnetchina.cn/",
+      "_id": "8917ba77eaa8",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "AI数据中心建设催生用电需求，电力设备股爆升怎么选？",
+      "source": "经济通 (繁中)",
+      "themes": [
+        "tech_stocks"
+      ],
+      "url": "https://www.etnetchina.cn/",
+      "_id": "4aecbb8bfcbc",
+      "_topic": "news:tech_stocks"
+    },
+    {
+      "type": "news",
+      "title": "支持地方推中小学春秋假 旅行预订激增",
+      "source": "经济通 (繁中)",
+      "themes": [],
+      "url": "https://www.etnetchina.cn/",
+      "_id": "0262371e631a",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "伊朗射导弹轰土耳其 北约成功拦截",
+      "source": "经济通 (繁中)",
+      "themes": [
+        "iran_war"
+      ],
+      "url": "https://www.etnetchina.cn/",
+      "_id": "3f3b14f8c649",
+      "_topic": "news:iran_war"
+    },
+    {
+      "type": "news",
+      "title": "电池登峰雷达造极，新能源车入下半场",
+      "source": "经济通 (繁中)",
+      "themes": [],
+      "url": "https://www.etnetchina.cn/",
+      "_id": "e3e334df8983",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "央行：2月末广义货币(M2)余额349.22万亿元 同比增长9%",
+      "source": "智通财经 (简中)",
+      "themes": [
+        "china_policy"
+      ],
+      "url": "https://www.zhitongcaijing.com/",
+      "_id": "b859bd7d65ac",
+      "_topic": "news:china_policy"
+    },
+    {
+      "type": "news",
+      "title": "何立峰将于3月14日率团赴法国与美方举行经贸磋商",
+      "source": "智通财经 (简中)",
+      "themes": [],
+      "url": "https://www.zhitongcaijing.com/",
+      "_id": "a97513169829",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "苹果公司(AAPL.US)宣布下调中国的应用商店佣金率",
+      "source": "智通财经 (简中)",
+      "themes": [
+        "tech_stocks"
+      ],
+      "url": "https://www.zhitongcaijing.com/",
+      "_id": "5818cc71b73d",
+      "_topic": "news:tech_stocks"
+    },
+    {
+      "type": "news",
+      "title": "Q1业绩超预期难掩AI焦虑：Adobe(ADBE.US) CEO掌舵18年后辞职，股价盘后跌超7%",
+      "source": "智通财经 (简中)",
+      "themes": [
+        "tech_stocks"
+      ],
+      "url": "https://www.zhitongcaijing.com/",
+      "_id": "33330204c186",
+      "_topic": "news:tech_stocks"
+    },
+    {
+      "type": "news",
+      "title": "港股概念追踪 | 油价飙升能源替代效应凸显 煤炭板块布局时点已至(附概念股)",
+      "source": "智通财经 (简中)",
+      "themes": [
+        "oil_energy"
+      ],
+      "url": "https://www.zhitongcaijing.com/",
+      "_id": "0cbaf918b9cf",
+      "_topic": "news:oil_energy"
+    },
+    {
+      "type": "news",
+      "title": "Oil holds above $100 as Trump says America ‘has ammunition and plenty of time’ to fight Iran war",
+      "source": "CNBC (EN)",
+      "themes": [
+        "iran_war",
+        "oil_energy"
+      ],
+      "url": "https://www.cnbc.com/",
+      "_id": "76b5b8e80ab9",
+      "_topic": "news:iran_war"
+    },
+    {
+      "type": "news",
+      "title": "QUOTE FINDER",
+      "source": "CNBC (EN)",
+      "themes": [],
+      "url": "https://www.cnbc.com/",
+      "_id": "bbbc5a7ab1ce",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "Markets",
+      "source": "CNBC (EN)",
+      "themes": [],
+      "url": "https://www.cnbc.com/",
+      "_id": "b58fb426028c",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "Trending Now",
+      "source": "CNBC (EN)",
+      "themes": [],
+      "url": "https://www.cnbc.com/",
+      "_id": "1a92fe936c1b",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "投教家园",
+      "source": "金融界 (简中)",
+      "themes": [],
+      "url": "https://www.jrj.com.cn/",
+      "_id": "6657b2bd2bd2",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "7*24小时电报",
+      "source": "金融界 (简中)",
+      "themes": [],
+      "url": "https://www.jrj.com.cn/",
+      "_id": "5917aa15c433",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "A股头条",
+      "source": "金融界 (简中)",
+      "themes": [],
+      "url": "https://www.jrj.com.cn/",
+      "_id": "31d86cd84e76",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "涨停复盘",
+      "source": "金融界 (简中)",
+      "themes": [],
+      "url": "https://www.jrj.com.cn/",
+      "_id": "e3f3587c9c00",
+      "_topic": "news:general"
+    },
+    {
+      "type": "news",
+      "title": "机会情报",
+      "source": "金融界 (简中)",
+      "themes": [],
+      "url": "https://www.jrj.com.cn/",
+      "_id": "e69c3f48974c",
+      "_topic": "news:general"
+    }
+  ],
+  "updated_at": "2026-03-13T10:07:07.467048+00:00"
+}
