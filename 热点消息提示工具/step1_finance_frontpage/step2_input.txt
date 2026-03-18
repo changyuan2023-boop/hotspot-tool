@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026031823
+抓取时间: 2026031900
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 4h 35m
-- Stocks slide after hot PPI inflation, with Fed ahead
-- Fed decision on deck: What to expect amid oil shock
-- Trump waives US shipping law in bid to lower gas prices
-- Tesla has a new competitor: BMW's new i3
-- Oil turns higher as Iran says its energy facilities were hit
-- Investors wonder if stocks have seen the worst of the war
-- The US economy may be strong — but it's delicate
-其他:
+- U.S. markets close in 3h 54m
+- Stocks slide amid hot inflation print, Iran escalation
 - Producer prices surge in February, complicating Fed's path
+- Trump waives US shipping law in bid to lower gas prices
+- White House response shifts as traffic in Strait of Hormuz plunges
+- Oil jumps as war escalates with attack on Iran energy assets
+- Tesla has a new competitor: BMW's new i3
+- Investors wonder if stocks have seen the worst of the war
+其他:
+- Here comes the Fed decision: What to expect amid oil shock
+- The US economy may be strong — but it's delicate
 - Circle CEO explains what's behind the stock's explosive gains
-- Macy's stock pops as earnings beat low expectations
+- US in talks with Brazil on critical minerals, signs Goias deal
+- Trade Desk drops after report that Publicis advised clients against using its platform
+- Crypto exchange Kraken freezes IPO plans, CoinDesk reports
+- Google to allow AI opt-out to ease UK competition concerns
+- Gold Tumbles as Soaring Energy Prices Dash Fed Rate Cut Hopes
 - Why haven't mortgage rates fallen since the last Federal Reserve decision?
 - US factory orders barely rise in January
-- How are stocks impacted when the Fed doesn't change interest rates?
-- Analysis-Iran war energy shock sparks global push to reduce fossil fuel dependence
-- How does the Fed decision affect mortgage rates?
-- Lululemon just added Chip Bergh, a former Levi's CEO and Swiffer mop creator, to its board
-- Streaming boosts global music revenues once again in 2025, report shows
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,11 +42,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Trump Impeachment Before 2028 Now 72% Likely, Prediction Markets Say
-- Opendoor Shares Pull Back As Higher Mortgage Rates Weigh On Housing Demand
-- Warren Buffett Said First Wife Was a 'Better Person' Than Him — Losing Her Taught Him The 'Worst Mistake' Is Not Understanding People Better
-- Strategy Just 23,000 Bitcoin Away From Surpassing BlackRock As Largest Holder
-- Micron Earnings Prediction Market Preview: What Will They Say On The Earnings Call?
+- T1 Energy Taps Norway's Grid For 50MW, AI Data Center Plans Accelerate
+- Crude Oil Moves Higher; Jabil Shares Slide After Q2 Results
+- Boeing Seen Steady On Production, Defense Upside Despite Near-Term Margin Pressure, Says BofA Analyst
+- Oklo Ramps Up Spending As July 4 Deadline Looms: Is The Nuclear Startup Ready For Its Big Test?
+- Poland's EU Defense Funding Clash Sparks Crisis, Raising Risk Of Exit And Economic Fallout
 - Oil Prices Spike To $98, Stocks Dip After Israeli Attack On Iran's Gas Facilities
 - Prediction Markets
 - Jensen Huang
@@ -55,10 +55,22 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
+- 俄罗斯警告日本应汲取历史教训 勿重蹈覆辙
+- Meta在Facebook推出创作者快速追踪计划。
+针对Facebook创作者货币化引入新的机制。
+- 中外科学家成功构建可编程细胞分化与比例控制平台
+- 航运机构数据：上周海湾国家日均石油出口量下跌超六成
+- 伊朗称将全力打击美相关石油设施
+- 伊朗大部分地区与国际互联网全面断联
+- 美国施压盟友“加大力度”协助保障霍尔木兹海峡安全
+- 美国财政部拍卖四周期国债，得标利率3.610%，投标倍数3.05。
+- 希腊雅典证交所综合指数收跌0.62%，报2129.82点。
+- 非洲股市收盘播报｜南非股市收跌约3.4%，金银矿业股、Prosus、以及Naspers领跌
 - 预计日本将在下一轮对美国投资中涉足核反应堆领域。
 东芝考虑参与美国西屋Westinghouse的核反应堆建设。
 三菱重工业考虑参与其中。（日经新闻）
 - 吉利控股CEO：预计吉利汽车品牌的车型很快将获得加拿大官方的认证
+其他:
 - 加纳央行降息150个基点，至14%，之前为15.50%。
 - 欧盟简化企业创建流程，48小时即可完成注册
 - 细胞“快递”安全高效送达 我国科学家开发出全新线粒体胶囊移植技术
@@ -67,22 +79,8 @@
 - 德国总理重申不参与霍尔木兹海峡护航
 - 加拿大央行高级副行长罗杰斯：由于经济停滞的缘故，供应链冲击与新冠疫情期间有区别。
 - 伊朗为遇难官兵和官员举行葬礼
-- 美财政部授权开展部分与委内瑞拉国家石油公司有关交易
-- 受油价与PPI影响，债券交易员对美联储2026年降息前景失去信心
-其他:
-- 中东战事或重创阿联酋楼市，阿联酋房地产巨头股价跌超30%
-- 虎牙公司宣布新一轮5000万美元股票回购计划
-- 美国驻墨西哥大使Johnson：对美国墨西哥加拿大贸易协议（USMCA）的评估为增强供应链提供机会。
-对USMCA的评估还为巩固美国与墨西哥的融合提供机会。
-- 国际原子能机构：目前不是考虑恢复美伊核谈判的时机
-- 七部门联合印发意见 加快推动小水电绿色转型高质量发展
-- 欧洲STOXX 600指数跌幅扩大至1%。
-- 加拿大央行行长麦克勒姆：伊朗战争对加拿大经济的影响取决于冲突的持续时间。
-战事持续时间越长，影响可能就会越大。
-对于加拿大央行而言，长期通胀预期是关键。
-- 欧盟与冰岛签署安全与防务伙伴关系协议
 - 大摩：大额平仓后，美债基差贸易表现依然稳健
-- 德国金融科技公司Moss寻求按10亿欧元估值融资。
+- 受油价与PPI影响，债券交易员对美联储2026年降息前景失去信心
 
 ## SCMP (EN/中)
 头版/首屏:
@@ -137,11 +135,12 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
 - 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 加密货币: Benzinga (EN)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 黄金/大宗: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
