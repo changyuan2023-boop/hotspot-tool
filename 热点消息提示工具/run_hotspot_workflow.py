@@ -123,21 +123,34 @@ def step3_summary(use_llm: bool = False, dry_run: bool = False) -> bool:
 
 
 def _call_llm_for_summary(prompt: str) -> str:
-    """可选：调用 OpenAI 兼容 API 生成摘要。需环境变量 OPENAI_API_KEY 或 .env"""
+    """调用 OpenAI 兼容 API 生成摘要。先试 OPENAI_API_KEY，失败则用 OPENAI_API_KEY_BACKUP。"""
     import os
     try:
         from openai import OpenAI
     except ImportError:
         print("[Step 3] 未安装 openai。请执行: pip install openai python-dotenv")
         return ""
-    api_key = os.getenv("OPENAI_API_KEY", "").strip()
-    if not api_key:
-        print("[Step 3] 未读到 OPENAI_API_KEY。请确认项目根目录 .env 中有 OPENAI_API_KEY=sk-xxx（与 LONGPORT 等在同一 .env）")
+    primary = os.getenv("OPENAI_API_KEY", "").strip()
+    backup = os.getenv("OPENAI_API_KEY_BACKUP", "").strip()
+    if not primary and not backup:
+        print("[Step 3] 未读到 OPENAI_API_KEY / OPENAI_API_KEY_BACKUP。请在 .env 或 Secrets 中配置")
         return ""
     base_url = os.getenv("OPENAI_API_BASE", "").strip() or None
     model = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
-    print("[Step 3] 正在调用 LLM（%s）生成摘要..." % (model))
-    client = OpenAI(api_key=api_key, base_url=base_url) if base_url else OpenAI(api_key=api_key)
+    for label, api_key in [("主 Key", primary), ("备用 Key", backup)]:
+        if not api_key:
+            continue
+        print("[Step 3] 正在用 %s 调用 LLM（%s）..." % (label, model))
+        out = _call_llm_once(OpenAI(api_key=api_key, base_url=base_url) if base_url else OpenAI(api_key=api_key), model, prompt)
+        if out:
+            print("[Step 3] LLM 返回成功，字数:", len(out))
+            return out
+        print("[Step 3] %s 未返回有效内容，尝试备用 Key" % label)
+    return ""
+
+
+def _call_llm_once(client, model: str, prompt: str) -> str:
+    """单次调用 LLM，失败或无效返回空字符串。"""
     try:
         r = client.chat.completions.create(
             model=model,
@@ -151,7 +164,6 @@ def _call_llm_for_summary(prompt: str) -> str:
             ],
             max_tokens=2000,
         )
-        # 兼容 OpenAI 格式 与 部分接口直接返回 str / dict
         if isinstance(r, str):
             out = r.strip()
         elif hasattr(r, "choices") and r.choices:
@@ -165,12 +177,9 @@ def _call_llm_for_summary(prompt: str) -> str:
                 out = (r.get("content") or r.get("text") or "").strip()
         else:
             out = ""
-        # 若返回的是 HTML 页面（错误页/登录页等），视为无效
         if out and (out.lstrip().lower().startswith("<!") or "<html" in out[:200].lower() or "<body" in out[:500].lower()):
-            print("[Step 3] LLM 返回了 HTML 页面而非摘要，请检查 API 地址与 Key 是否指向正确的聊天接口")
+            print("[Step 3] LLM 返回了 HTML 页面而非摘要，请检查 API 地址与 Key")
             return ""
-        if out:
-            print("[Step 3] LLM 返回成功，字数:", len(out))
         return out
     except Exception as e:
         print("[Step 3] LLM 调用失败:", type(e).__name__, str(e))
