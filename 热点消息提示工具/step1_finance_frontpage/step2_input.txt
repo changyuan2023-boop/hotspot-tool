@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 4h 52m
+- U.S. markets close in 4h 42m
 - Stocks slide after hot PPI inflation, with Fed ahead
 - Fed decision on deck: What to expect amid oil shock
 - Trump waives US shipping law in bid to lower gas prices
+- Tesla has a new competitor: BMW's new i3
 - Oil turns higher as Iran says its energy facilities were hit
 - Investors wonder if stocks have seen the worst of the war
 - The US economy may be strong — but it's delicate
-- Circle CEO explains what's behind the stock's explosive gains
 其他:
 - Producer prices surge in February, complicating Fed's path
+- Circle CEO explains what's behind the stock's explosive gains
 - Macy's stock pops as earnings beat low expectations
-- Israel says another Iran chief killed, as Tehran vows revenge
 - Why haven't mortgage rates fallen since the last Federal Reserve decision?
 - US factory orders barely rise in January
 - How are stocks impacted when the Fed doesn't change interest rates?
 - Analysis-Iran war energy shock sparks global push to reduce fossil fuel dependence
 - How does the Fed decision affect mortgage rates?
-- BMW's new i3 EV takes on Tesla with 440-mile range
 - Lululemon just added Chip Bergh, a former Levi's CEO and Swiffer mop creator, to its board
+- Streaming boosts global music revenues once again in 2025, report shows
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,11 +42,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
+- Strategy Just 23,000 Bitcoin Away From Surpassing BlackRock As Largest Holder
+- Micron Earnings Prediction Market Preview: What Will They Say On The Earnings Call?
+- CLARITY Act Update, And Bitcoin ETF Inflows Signal Shift In Institutional Sentiment
+- What's Going On With Nasus Pharma Stock On Wednesday
 - Robinhood CEO Vlad Tenev Touts 'Autonomous Mathematician' As Harmonic Unveils Aristotle Agent (UPDATED)
-- A Record 6% of Americans Tapped Their 401(k)s for Hardship Withdrawals Last Year — Why Raiding Your Retirement Is Costing You More Than You Think
-- XRP Eyes Breakout As $2 Resistance Comes Into Focus
-- Jabil Q2 FY26 Earnings Call Transcript
-- Nvidia's Jensen Huang Wants To 'Die On The Job' Building A $20 Trillion Giant: 'That's My Dream Come True'
 - Oil Prices Spike To $98, Stocks Dip After Israeli Attack On Iran's Gas Facilities
 - Prediction Markets
 - Jensen Huang
@@ -55,10 +55,11 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
+- 加纳央行降息150个基点，至14%，之前为15.50%。
+- 欧盟简化企业创建流程，48小时即可完成注册
 - 细胞“快递”安全高效送达 我国科学家开发出全新线粒体胶囊移植技术
-- 甲醇夜盘收涨约9.9%，低硫燃油涨约9.7%，乙二醇、LPG涨超8.7%，燃油涨6.3%。
-
-双胶纸夜盘收平，菜粕、热卷、棉花、螺纹钢、20号胶、纯碱、橡胶、玻
+- 低硫燃油夜盘收涨9.9%，甲醇涨超9.8%，LPG、乙二醇至少涨超8.7%
+- 美联储3月货币政策会议关注点
 - 德国总理重申不参与霍尔木兹海峡护航
 - 加拿大央行高级副行长罗杰斯：由于经济停滞的缘故，供应链冲击与新冠疫情期间有区别。
 - 伊朗为遇难官兵和官员举行葬礼
@@ -66,11 +67,11 @@
 - 受油价与PPI影响，债券交易员对美联储2026年降息前景失去信心
 - 中东战事或重创阿联酋楼市，阿联酋房地产巨头股价跌超30%
 - 虎牙公司宣布新一轮5000万美元股票回购计划
+其他:
 - 美国驻墨西哥大使Johnson：对美国墨西哥加拿大贸易协议（USMCA）的评估为增强供应链提供机会。
 对USMCA的评估还为巩固美国与墨西哥的融合提供机会。
 - 国际原子能机构：目前不是考虑恢复美伊核谈判的时机
 - 七部门联合印发意见 加快推动小水电绿色转型高质量发展
-其他:
 - 欧洲STOXX 600指数跌幅扩大至1%。
 - 加拿大央行行长麦克勒姆：伊朗战争对加拿大经济的影响取决于冲突的持续时间。
 战事持续时间越长，影响可能就会越大。
@@ -78,11 +79,8 @@
 - 欧盟与冰岛签署安全与防务伙伴关系协议
 - 交易员已完全消化欧洲央行2026年两次25个基点的加息预期。
 - 京东联合13大洗地机品牌发起“拒绝虚假测评”雷霆行动
-- 美国能源信息署（EIA）：美国上周EIA原油库存增加616万桶，彭博用户预计减少190万桶、分析师预期增加3.2万桶，之前一周增加382.4万桶。
-- 美国3月13日当周EIA原油库存变动 615.6万桶，预期 -150万桶，前值 382.4万桶。
-- 美国3月13日当周EIA精炼油库存变动 -252.7万桶，预期 -150万桶，前值 -134.9万桶。
+- 大摩：大额平仓后，美债基差贸易表现依然稳健
 - 德国金融科技公司Moss寻求按10亿欧元估值融资。
-- 美国3月13日当周EIA库欣地区原油库存变动 94.4万桶，前值 11.7万桶。
 
 ## SCMP (EN/中)
 头版/首屏:
@@ -137,8 +135,8 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
 - 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 加密货币: Benzinga (EN)
