@@ -47,16 +47,21 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A hotspot/ 热点消息提示工具/finance_frontpage/agent_report.md 热点消息提示工具/finance_frontpage/agent_prompt_input.txt
+          git add 热点消息提示工具/step1_finance_frontpage/step1_output.md 热点消息提示工具/step1_finance_frontpage/step2_input.txt 热点消息提示工具/step3_input.txt 热点消息提示工具/step3_output.txt
           git diff --cached --quiet || git commit -m "hotspot: $(date '+%Y-%m-%d %H:%M') 自动更新"
           git push
 
       - name: 推送到 Slack
-        if: success() && secrets.SLACK_WEBHOOK_URL != ''
+        if: success()
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
-          CONTENT=$(cat hotspot/热点消息提示_简要版.txt)
-          # Slack Webhook 要求 JSON，需转义换行和特殊字符
-          ESCAPED=$(echo "$CONTENT" | python3 -c "import sys,json; print(json.dumps(sys.stdin.read()))")
-          curl -s -X POST "${{ secrets.SLACK_WEBHOOK_URL }}" \
-            -H "Content-Type: application/json" \
-            -d "{\"text\":${ESCAPED}}"
+          if [ -n "$SLACK_WEBHOOK_URL" ]; then
+            CONTENT=$(cat 热点消息提示工具/step3_output.txt)
+            ESCAPED=$(echo "$CONTENT" | python3 -c "import sys,json; print(json.dumps(sys.stdin.read()))")
+            curl -s -X POST "$SLACK_WEBHOOK_URL" \
+              -H "Content-Type: application/json" \
+              -d "{\"text\":${ESCAPED}}"
+          else
+            echo "未配置 SLACK_WEBHOOK_URL，跳过推送"
+          fi
