@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 3h 46m
+- U.S. markets close in 3h 34m
 - Stocks slide amid hot inflation print, Iran escalation
 - Producer prices surge in February, complicating Fed's path
 - Trump waives US shipping law in bid to lower gas prices
+- BMG sues Anthropic for using Bruno Mars, Rolling Stones lyrics in AI
 - White House response shifts as traffic in Strait of Hormuz plunges
 - Oil jumps as war escalates with attack on Iran energy assets
 - Tesla has a new competitor: BMW's new i3
-- Investors wonder if stocks have seen the worst of the war
 其他:
 - Here comes the Fed decision: What to expect amid oil shock
+- Investors wonder if stocks have seen the worst of the war
 - The US economy may be strong — but it's delicate
-- Circle CEO explains what's behind the stock's explosive gains
+- A 27% drop in IRS staffing could impact your refund. Here's how.
+- What is the 10-year Treasury note?
 - Fed predictions for 2026: What experts say about the possibility of rate cuts this year
-- BMG sues Anthropic for using Bruno Mars, Rolling Stones lyrics in AI training
 - How to maximize your interest earnings when the Fed cuts rates
 - Federal funds rate: What it is and how it affects you
 - US in talks with Brazil on critical minerals, signs Goias deal
 - Trade Desk drops after report that Publicis advised clients against using its platform
-- Crypto exchange Kraken freezes IPO plans, CoinDesk reports
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,11 +77,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
+- What's Going On With Meiwu Technology Shares On Wednesday?
+- $90 Oil Threatens 15% S&P 500 Wipeout In 2026, JPMorgan Warns
 - Docusign Posts Q4 Beat, IAM Is A 'Compelling Long-Term Opportunity': Analysts
 - Why Is AIM ImmunoTech Stock Gaining Today?
 - These Analysts Revise Their Forecasts On Academy Sports Following Q4 Earnings
-- Federal Reserve Prediction Market Preview: What Will Jerome Powell Say At The FOMC?
-- T1 Energy Taps Norway's Grid For 50MW, AI Data Center Plans Accelerate
 - Oil Prices Spike To $98, Stocks Dip After Israeli Attack On Iran's Gas Facilities
 - Prediction Markets
 - Jensen Huang
@@ -90,6 +90,7 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
+- 当地时间18日，沙特首都利雅得市区传出两声爆炸声。（央视）
 - 美国副总统万斯谈油价：将在接下来24-48小时内宣布几项举措。
 - 以军称监测到伊朗发动导弹袭击，以北部多地响起防空警报
 - 在燃油价格飙涨之际，美国副总统万斯将会见石油行业的高管们。
@@ -102,8 +103,8 @@
 - 伊朗称将全力打击美相关石油设施
 - 伊朗大部分地区与国际互联网全面断联
 - 美国施压盟友“加大力度”协助保障霍尔木兹海峡安全
-- 美国财政部拍卖四周期国债，得标利率3.610%，投标倍数3.05。
 其他:
+- 美国财政部拍卖四周期国债，得标利率3.610%，投标倍数3.05。
 - 希腊雅典证交所综合指数收跌0.62%，报2129.82点。
 - 非洲股市收盘播报｜南非股市收跌约3.4%，金银矿业股、Prosus、以及Naspers领跌
 - 预计日本将在下一轮对美国投资中涉足核反应堆领域。
@@ -113,7 +114,6 @@
 - 加纳央行降息150个基点，至14%，之前为15.50%。
 - 欧盟简化企业创建流程，48小时即可完成注册
 - 细胞“快递”安全高效送达 我国科学家开发出全新线粒体胶囊移植技术
-- 低硫燃油夜盘收涨9.9%，甲醇涨超9.8%，LPG、乙二醇至少涨超8.7%
 - 大摩：大额平仓后，美债基差贸易表现依然稳健
 - 美联储3月货币政策会议关注点
 
@@ -174,7 +174,8 @@
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 美国关税: Benzinga (EN)
+- 加密货币: Benzinga (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
