@@ -9,7 +9,7 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 3h 54m
+- U.S. markets close in 3h 50m
 - Stocks slide amid hot inflation print, Iran escalation
 - Producer prices surge in February, complicating Fed's path
 - Trump waives US shipping law in bid to lower gas prices
@@ -21,13 +21,13 @@
 - Here comes the Fed decision: What to expect amid oil shock
 - The US economy may be strong — but it's delicate
 - Circle CEO explains what's behind the stock's explosive gains
+- How to maximize your interest earnings when the Fed cuts rates
+- Federal funds rate: What it is and how it affects you
 - US in talks with Brazil on critical minerals, signs Goias deal
 - Trade Desk drops after report that Publicis advised clients against using its platform
 - Crypto exchange Kraken freezes IPO plans, CoinDesk reports
 - Google to allow AI opt-out to ease UK competition concerns
 - Gold Tumbles as Soaring Energy Prices Dash Fed Rate Cut Hopes
-- Why haven't mortgage rates fallen since the last Federal Reserve decision?
-- US factory orders barely rise in January
 
 ## Benzinga (EN)
 头版/首屏:
@@ -55,6 +55,8 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
+- 在燃油价格飙涨之际，美国副总统万斯将会见石油行业的高管们。
+- PIMCO避开市场上挂牌出售的“极其糟糕”的私人信用贷款
 - 俄罗斯警告日本应汲取历史教训 勿重蹈覆辙
 - Meta在Facebook推出创作者快速追踪计划。
 针对Facebook创作者货币化引入新的机制。
@@ -66,21 +68,19 @@
 - 美国财政部拍卖四周期国债，得标利率3.610%，投标倍数3.05。
 - 希腊雅典证交所综合指数收跌0.62%，报2129.82点。
 - 非洲股市收盘播报｜南非股市收跌约3.4%，金银矿业股、Prosus、以及Naspers领跌
+其他:
 - 预计日本将在下一轮对美国投资中涉足核反应堆领域。
 东芝考虑参与美国西屋Westinghouse的核反应堆建设。
 三菱重工业考虑参与其中。（日经新闻）
 - 吉利控股CEO：预计吉利汽车品牌的车型很快将获得加拿大官方的认证
-其他:
 - 加纳央行降息150个基点，至14%，之前为15.50%。
 - 欧盟简化企业创建流程，48小时即可完成注册
 - 细胞“快递”安全高效送达 我国科学家开发出全新线粒体胶囊移植技术
 - 低硫燃油夜盘收涨9.9%，甲醇涨超9.8%，LPG、乙二醇至少涨超8.7%
 - 美联储3月货币政策会议关注点
 - 德国总理重申不参与霍尔木兹海峡护航
-- 加拿大央行高级副行长罗杰斯：由于经济停滞的缘故，供应链冲击与新冠疫情期间有区别。
-- 伊朗为遇难官兵和官员举行葬礼
 - 大摩：大额平仓后，美债基差贸易表现依然稳健
-- 受油价与PPI影响，债券交易员对美联储2026年降息前景失去信心
+- 加拿大央行高级副行长罗杰斯：由于经济停滞的缘故，供应链冲击与新冠疫情期间有区别。
 
 ## SCMP (EN/中)
 头版/首屏:
