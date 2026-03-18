@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026030620
+抓取时间: 2026031823
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- Stock futures slide, oil jumps ahead of jobs data
-- US-sanctioned gas tanker sails through Strait of Hormuz
-- Oracle plans thousands of job cuts amid AI cash crunch
-- Gas prices at the pump rise to highest under Trump
-- Oil heads for at least 20% weekly surge as war threatens supply
-- Marvell Tech shares rally on forecast for multi-year AI-chip growth
-- Qatar warns war will force Gulf to stop energy exports 'within days'
-- US denies companies refunds on Trump's illegal tariffs: FT
+- U.S. markets close in 4h 52m
+- Stocks slide after hot PPI inflation, with Fed ahead
+- Fed decision on deck: What to expect amid oil shock
+- Trump waives US shipping law in bid to lower gas prices
+- Oil turns higher as Iran says its energy facilities were hit
+- Investors wonder if stocks have seen the worst of the war
+- The US economy may be strong — but it's delicate
+- Circle CEO explains what's behind the stock's explosive gains
 其他:
-- February jobs report on deck: Here's what to expect
-- Big Tech stocks were expensive. Then the market turned on AI
-- Bond Traders Scour Payrolls to Gauge Fed Path Amid Oil Rise
-- WTI Crude Tops $85 a Barrel as War Paralyzes Hormuz Traffic
-- Wary Shoppers Drag Consumer Discretionary Earnings to 2020 Low
-- US Gasoline Pump Prices Jump to Highest Level Under Trump
-- BofA’s Hartnett Sees European, Japanese Stocks at Risk From War
-- Gold Set for Weekly Loss as Dollar Strength Offsets War Premium
-- China to deepen reform of Shenzhen's ChiNext board, regulator says
-- Nvidia is shifting its China strategy. Here's why.
+- Producer prices surge in February, complicating Fed's path
+- Macy's stock pops as earnings beat low expectations
+- Israel says another Iran chief killed, as Tehran vows revenge
+- Why haven't mortgage rates fallen since the last Federal Reserve decision?
+- US factory orders barely rise in January
+- How are stocks impacted when the Fed doesn't change interest rates?
+- Analysis-Iran war energy shock sparks global push to reduce fossil fuel dependence
+- How does the Fed decision affect mortgage rates?
+- BMW's new i3 EV takes on Tesla with 440-mile range
+- Lululemon just added Chip Bergh, a former Levi's CEO and Swiffer mop creator, to its board
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,76 +42,77 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- How To Earn $500 A Month From Vail Resorts Stock Ahead Of Q2 Earnings
-- Wall Street's Most Accurate Analysts Spotlight On 3 Materials Stocks Delivering High-Dividend Yields
-- Okta To Rally Around 22%? Here Are 10 Top Analyst Forecasts For Friday
-- Bitcoin Slips Back To $70,000 As Ethereum, XRP, Dogecoin Dump On ETF Outflows
-- UAE Could Freeze Billions In Iranian Assets As War Tensions Escalate: Report
-- Stock Market Today: Dow Jones, S&P 500 Futures Tumble Ahead Of February Employment Data—Marvell Technology, Gap, Oracle In Focus
-- Gas Prices
-- Beige Book
-- Mojtaba Khamenei
-- Greg Abel
+- Robinhood CEO Vlad Tenev Touts 'Autonomous Mathematician' As Harmonic Unveils Aristotle Agent (UPDATED)
+- A Record 6% of Americans Tapped Their 401(k)s for Hardship Withdrawals Last Year — Why Raiding Your Retirement Is Costing You More Than You Think
+- XRP Eyes Breakout As $2 Resistance Comes Into Focus
+- Jabil Q2 FY26 Earnings Call Transcript
+- Nvidia's Jensen Huang Wants To 'Die On The Job' Building A $20 Trillion Giant: 'That's My Dream Come True'
+- Oil Prices Spike To $98, Stocks Dip After Israeli Attack On Iran's Gas Facilities
+- Prediction Markets
+- Jensen Huang
+- David Zaslav
+- Anthropic
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 中兴通讯：2025年净利润56.18亿元，同比下降33.32%
-- 阿塞拜疆决定从伊朗撤出全部外交人员
-- 以色列财政部长之子在与黎真主党冲突中受伤
-- 美联储理事沃勒：冲突不太可能导致持续通胀。
-这也是我们从不关注能源价格的原因。
-如果能源价格上涨推高其他价格，我会更担心。
-这更像是一次性事件，而非20世纪70
-- 美国能源部长赖特：汽油价格受到的影响将持续数周，而非数月。
-- 科威特拉响警报。（半岛电视台）
-- 阿联酋：3月6日拦截了9枚导弹和109架无人机。
-- 美以袭击伊朗德黑兰一处居民区
-- 美元兑日元上涨0.3%至158.08，达到自1月23日以来的最高水平。
-- 伊朗总统：一些国家已开始调解冲突
-- 印度央行将通过公开市场操作分两批购买1万亿卢比债券。（彭博）
-- 龙湖披露2025年度业绩预告，预计全年实现归属于股东净利润约10亿元
+- 细胞“快递”安全高效送达 我国科学家开发出全新线粒体胶囊移植技术
+- 甲醇夜盘收涨约9.9%，低硫燃油涨约9.7%，乙二醇、LPG涨超8.7%，燃油涨6.3%。
+
+双胶纸夜盘收平，菜粕、热卷、棉花、螺纹钢、20号胶、纯碱、橡胶、玻
+- 德国总理重申不参与霍尔木兹海峡护航
+- 加拿大央行高级副行长罗杰斯：由于经济停滞的缘故，供应链冲击与新冠疫情期间有区别。
+- 伊朗为遇难官兵和官员举行葬礼
+- 美财政部授权开展部分与委内瑞拉国家石油公司有关交易
+- 受油价与PPI影响，债券交易员对美联储2026年降息前景失去信心
+- 中东战事或重创阿联酋楼市，阿联酋房地产巨头股价跌超30%
+- 虎牙公司宣布新一轮5000万美元股票回购计划
+- 美国驻墨西哥大使Johnson：对美国墨西哥加拿大贸易协议（USMCA）的评估为增强供应链提供机会。
+对USMCA的评估还为巩固美国与墨西哥的融合提供机会。
+- 国际原子能机构：目前不是考虑恢复美伊核谈判的时机
+- 七部门联合印发意见 加快推动小水电绿色转型高质量发展
 其他:
-- 伊朗称摧毁位于阿联酋和约旦的“萨德”反导系统雷达
-- 郑商所发布风险提示函
-- 英国首相发言人Wells：3月3日以来已有超过7500名英国人从阿联酋返回。
-- 迪拜机场加快航班恢复
-- WTI原油日内涨幅达6.0%，报85.88美元/桶；布伦特原油日内涨幅达4.5%，报89.28美元/桶。
-现货黄金5分钟内下跌11.22美元/盎司，报5070.
-- 欧股跌幅扩大，欧洲斯托克50指数跌超1%，法国CXC 40指数跌近1%，德国DAX指数跌0.7%，英国富时100指数跌0.6%。
-- 中国东方航空：中东航线部分航班恢复运行。
-- 标普500指数期货下跌0.6%至盘中低点，纳斯达克100指数期货下跌0.7%，道指期货跌0.4%。
-- 以军称正拦截伊朗方向发射的导弹
-- 以军称炸毁哈梅内伊用过的地下掩体
+- 欧洲STOXX 600指数跌幅扩大至1%。
+- 加拿大央行行长麦克勒姆：伊朗战争对加拿大经济的影响取决于冲突的持续时间。
+战事持续时间越长，影响可能就会越大。
+对于加拿大央行而言，长期通胀预期是关键。
+- 欧盟与冰岛签署安全与防务伙伴关系协议
+- 交易员已完全消化欧洲央行2026年两次25个基点的加息预期。
+- 京东联合13大洗地机品牌发起“拒绝虚假测评”雷霆行动
+- 美国能源信息署（EIA）：美国上周EIA原油库存增加616万桶，彭博用户预计减少190万桶、分析师预期增加3.2万桶，之前一周增加382.4万桶。
+- 美国3月13日当周EIA原油库存变动 615.6万桶，预期 -150万桶，前值 382.4万桶。
+- 美国3月13日当周EIA精炼油库存变动 -252.7万桶，预期 -150万桶，前值 -134.9万桶。
+- 德国金融科技公司Moss寻求按10亿欧元估值融资。
+- 美国3月13日当周EIA库欣地区原油库存变动 94.4万桶，前值 11.7万桶。
 
 ## SCMP (EN/中)
 头版/首屏:
-- Beijing vows yuan stability, fires back at currency-depreciation claims
-- 8 takeaways from the economic briefing at China’s ‘two sessions’
-- Diplomacy
-- Why China’s new 5-year plan targets stronger policing of disputed waters
-- China Economy
-- Law and Crime
-- 3 arrested over theft at Tai Po fire block, HK$90,000 in jewellery seized
-- Could Iran war confirm China’s prediction on US military’s hypersonic nightmare?
+- Chaos over Donald Trump’s China trip likely to further test Beijing’s patience
+- Why delayed US-China summit raises stakes for Takaichi ahead of White House visit
+- Global Economy
+- Red Sea fix? China-bound oil tankers tap Saudi plan to dodge Strait of Hormuz
+- Military
+- Chinese analysts draw lessons from military decapitations in Iran, Venezuela
+- Education
+- Hong Kong to establish global version of university entrance exam on pilot basis
 其他:
-- PBOC governor reaffirms yuan stability, refuting trade partners’ accusations ahead of critical US talks in Paris.
-- Focus on maritime law enforcement believed to highlight growing challenges facing Beijing, particularly in the South China Sea.
-- China’s top economic officials laid out their priorities for trade, technology and investment in 2026.
-- Police arrest three workers responsible for structural reinforcement work at the estate destroyed in blaze, insider says.
-- Markets
-- China’s market regulator vows more oversight to shore up confidence
-- Crackdown on fraud, stronger governance, higher dividends and more buy-backs will enhance appeal of Chinese assets, CSRC chief Wu Qing says.
-- China vows support for tech, trade rebalance, stock reforms - as it happened
-- The heads of China’s major economic institutions detailed plans for growth, trade and tech on the sidelines of the ‘two sessions’.
-- Economics
+- The US leader’s call for a delay as he focuses on the Iran war follows reports of growing frustration at the White House’s erratic behaviour.
+- But analysts warn the strategy can only partially offset disruptions and that security risks remain high.
+- Beijing would not overestimate impact of decapitation strike on Taiwan, seeing it just as part of amphibious landing operation, analyst says.
+- Test will allow foreign students to apply for admission to both local and mainland Chinese higher education institutions.
+- J-20 fighter jet designer scrubbed from Chinese Academy of Sciences website
+- Tech
+- Apple’s Tim Cook visits China as reliance on Chinese suppliers endures
+- Cook shows up at an Apple Store in Chengdu as part of the company’s 50th anniversary celebrations.
+- Exclusive | Chinese military set for EU and Nato talks as Iran war reshapes global security
+- The PLA delegation will travel to Brussels next week, where the Ukraine war remains a major barrier to better relations with Beijing.
 
 ## 经济通 (繁中)
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
-- AI数据中心建设催生用电需求，电力设备股爆升怎么选？
-- 支持地方推中小学春秋假 旅行预订激增
-- 伊朗射导弹轰土耳其 北约成功拦截
-- 电池登峰雷达造极，新能源车入下半场
+- 建滔积层板遭母企建滔减持，股价曾跌近8%
+- 北京清朗行动 打击AI网络乱象
+- 沙特忧伊朗威胁 传要求美续打击
+- “龙虾”未冷“果蝇”又至，AI终极竟是原点？
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -120,9 +121,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25742.33+420.99(+1.66%)
+- 恒生指数26025.42+156.88(+0.61%)
                     etnet.com.hk@copyright
-- 国企指数8620.16+168.73(+2.00%)
+- 国企指数8835.50+8.77(+0.10%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -132,38 +133,15 @@
 - 吃喝玩乐
 
 ## 智通财经 (简中)
-头版/首屏:
-- 一文速览人大经济主题记者会！五大掌门人重磅发声 事关财政、股市……
-- AI ASIC与SSD需求狂飙! 迈威尔科技(MRVL.US)尽享“AI推理红利” 营业利润猛增72%
-- 美国私募信贷市场再爆惊雷！贝莱德(BLK.US)又一笔贷款估值直接归零
-- 伊朗局势逆转资金流向：投资者从“买入亚洲”转向“逃回美国”
-- 十四届全国人大四次会议开幕 李强作政府工作报告
-- 美财长贝森特：15%普遍关税或于本周开始实施，全球石油供应充足
-- 高盛力挺美股：别怕战争与AI冲击!每次回调都是买入良机
-- 富时中国50指数调整：纳入新华保险(01336)、潍柴动力(02338) 剔除民生银行(01988)、中兴通讯(00763)
-- 人大新闻发布会回应经济热点：详解“十五五”开放新格局与消费升级路径
-其他:
-- A股公告精选 | 迈为股份(300751.SZ)拟投资35亿元建设钙钛矿叠层电池成套装备项目
-- 新股消息 | 琻捷电子再度递表港交所 为中国最大的汽车无线传感SoC公司
-- 美银：若伊朗冲突持续 日欧股市涨势或受冲击
-- 新股消息 | 华明装备(002270.SZ)递表港交所 在分接开关市场以收入计位列全球第二、中国第一
-- 智通港股解盘 | 航母被炸油价依旧坚挺 政策刺激消费集体发力
-- 伊朗战火重塑投资逻辑：能源独立+美元走强，美股逆转2月劣势化身全球“避风港”
-- 美股前瞻 | 三大股指期货齐跌 布油升穿88美元 非农及零售销售数据公布在即
-- 迅策（03317）2025营收翻倍至12.8亿，AI数据基建正式进入“收获期”
-- 中东战火点燃避险情绪：全球股票基金八周来首现资金外流，美股失血219亿
-- 新股消息 | 琻捷电子再度递表港交所
+（抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 智通财经 (简中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中), 智通财经 (简中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 智通财经 (简中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 智通财经 (简中)
-- 中国政策/两会: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 智通财经 (简中)
-- 就业数据: Yahoo Finance (EN), Benzinga (EN), 智通财经 (简中)
-- 美国关税: Yahoo Finance (EN), 智通财经 (简中)
-- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 加密货币: Benzinga (EN)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
