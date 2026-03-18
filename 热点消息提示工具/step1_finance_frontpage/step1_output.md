@@ -3,19 +3,19 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 3h 50m | Stocks slide amid hot inflation print, Iran escalation | Producer prices surge in February, complicating Fed's path | Trump waives US shipping law in bid to lower gas prices
-  - 其他: Here comes the Fed decision: What to expect amid oil shock | The US economy may be strong — but it's delicate | Circle CEO explains what's behind the stock's explosive gains | How to maximize your interest earnings when the Fed cuts rates | Federal funds rate: What it is and how it affects you
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 3h 46m | Stocks slide amid hot inflation print, Iran escalation | Producer prices surge in February, complicating Fed's path | Trump waives US shipping law in bid to lower gas prices
+  - 其他: Here comes the Fed decision: What to expect amid oil shock | The US economy may be strong — but it's delicate | Circle CEO explains what's behind the stock's explosive gains | Fed predictions for 2026: What experts say about the possibility of rate cuts this year | BMG sues Anthropic for using Bruno Mars, Rolling Stones lyrics in AI training
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: T1 Energy Taps Norway's Grid For 50MW, AI Data Center Plans Accelerate | Crude Oil Moves Higher; Jabil Shares Slide After Q2 Results | Boeing Seen Steady On Production, Defense Upside Despite Near-Term Margin Pressure, Says BofA Analyst | Oklo Ramps Up Spending As July 4 Deadline Looms: Is The Nuclear Startup Ready For Its Big Test? | Poland's EU Defense Funding Clash Sparks Crisis, Raising Risk Of Exit And Economic Fallout
+  - 其他: Docusign Posts Q4 Beat, IAM Is A 'Compelling Long-Term Opportunity': Analysts | Why Is AIM ImmunoTech Stock Gaining Today? | These Analysts Revise Their Forecasts On Academy Sports Following Q4 Earnings | Federal Reserve Prediction Market Preview: What Will Jerome Powell Say At The FOMC? | T1 Energy Taps Norway's Grid For 50MW, AI Data Center Plans Accelerate
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 在燃油价格飙涨之际，美国副总统万斯将会见石油行业的高管们。 | PIMCO避开市场上挂牌出售的“极其糟糕”的私人信用贷款 | 俄罗斯警告日本应汲取历史教训 勿重蹈覆辙 | Meta在Facebook推出创作者快速追踪计划。
-针对Facebook创作者货币化引入新的机制。 | 中外科学家成功构建可编程细胞分化与比例控制平台 | 航运机构数据：上周海湾国家日均石油出口量下跌超六成 | 伊朗称将全力打击美相关石油设施 | 伊朗大部分地区与国际互联网全面断联
-  - 其他: 预计日本将在下一轮对美国投资中涉足核反应堆领域。
+  - 头版/首屏: 美国副总统万斯谈油价：将在接下来24-48小时内宣布几项举措。 | 以军称监测到伊朗发动导弹袭击，以北部多地响起防空警报 | 在燃油价格飙涨之际，美国副总统万斯将会见石油行业的高管们。 | PIMCO避开市场上挂牌出售的“极其糟糕”的私人信用贷款 | 俄罗斯警告日本应汲取历史教训 勿重蹈覆辙 | Meta在Facebook推出创作者快速追踪计划。
+针对Facebook创作者货币化引入新的机制。 | 中外科学家成功构建可编程细胞分化与比例控制平台 | 航运机构数据：上周海湾国家日均石油出口量下跌超六成
+  - 其他: 希腊雅典证交所综合指数收跌0.62%，报2129.82点。 | 非洲股市收盘播报｜南非股市收跌约3.4%，金银矿业股、Prosus、以及Naspers领跌 | 预计日本将在下一轮对美国投资中涉足核反应堆领域。
 东芝考虑参与美国西屋Westinghouse的核反应堆建设。
-三菱重工业考虑参与其中。（日经新闻） | 吉利控股CEO：预计吉利汽车品牌的车型很快将获得加拿大官方的认证 | 加纳央行降息150个基点，至14%，之前为15.50%。 | 欧盟简化企业创建流程，48小时即可完成注册 | 细胞“快递”安全高效送达 我国科学家开发出全新线粒体胶囊移植技术
+三菱重工业考虑参与其中。（日经新闻） | 吉利控股CEO：预计吉利汽车品牌的车型很快将获得加拿大官方的认证 | 加纳央行降息150个基点，至14%，之前为15.50%。
 
 - **SCMP (EN/中)** ✓
   - 头版/首屏: Chaos over Donald Trump’s China trip likely to further test Beijing’s patience | Why delayed US-China summit raises stakes for Takaichi ahead of White House visit | Global Economy | Red Sea fix? China-bound oil tankers tap Saudi plan to dodge Strait of Hormuz | Military | Chinese analysts draw lessons from military decapitations in Iran, Venezuela | Education | Hong Kong to establish global version of university entrance exam on pilot basis
@@ -38,7 +38,6 @@
 - **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
 - **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
 - **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、重要性结论（综合头版+多站+股市相关）
@@ -51,7 +50,6 @@
 
 ### 重要（头版或单站重点）
 
-- 黄金/白银、伦铝等大宗商品波动。
 - 美联储表态（如米兰：伊朗风险不阻碍继续降息）。
 - 苹果 MacBook Neo、Moderna 和解、Meta 与新闻集团合作等个股与科技新闻。
 - 中国/欧盟产业政策与贸易关系。
