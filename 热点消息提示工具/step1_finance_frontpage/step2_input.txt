@@ -9,7 +9,7 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 3h 17m
+- U.S. markets close in 3h 12m
 - Stocks sink, oil jumps as Iran war escalates
 - Fed reveals proposals for easing capital rules for banks
 - US weighs lifting Iran oil sanctions and second reserve release
@@ -22,12 +22,12 @@
 - Financial stocks on pace for worst Q1 since 2020
 - Iran attacks energy sites, defying Trump calls for restraint
 - When will mortgage rates go down? Oil prices and inflation create uncertainty.
+- Mortgage rates climb to highest level in more than 3 months as Iran war reignites inflation fears
 - Oil and Gas Prices Jump as Strikes on Gulf Facilities Escalate
 - Cloud industry group calls for EU interim measure against Broadcom over VMware
 - Micron stock falls more than 4% despite Q2 earnings beat amid growth concerns
 - You can trade oil futures. What to know before you start.
 - Bonds Tumble Worldwide as Iran War Stokes Bets on Rate Hikes
-- French billionaire Bollore to stand trial on corruption charges regarding Guinea and Togo
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,16 +42,16 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
+- What's Behind The Drop In Sandisk Stock Today?
+- 3M Goes Big On Fire Safety With $1.95 Billion Deal
+- Why Is Atlassian Stock Seesawing Thursday?
 - Gold Eyes Worst Month Against Oil Since 1973; Mining Stocks Slump Most Since 2008
 - Can Trump's Tax Cuts Actually Beat $4 Gas? Here's The Math
-- Nvidia Could Be A 'Double Bagger' By 2027 As Analyst Adds NVDA To Best Ideas List
-- A Caller Tells 'The Ramsey Show' That They're Using ChatGPT To Fight A $37K Lawsuit. 'So Far It's Worked'
-- Netflix Challenges Franchise Era With Massive Originals Push
-- S&P 500 Eyes 200-Day Breakdown, WTI-Brent Spread Hits 2020 Highs: What You Need To Know Today
 - Prediction Markets
 - Jerome Powell
 - Oil Price
 - Jensen Huang
+- Federal Reserve
 
 ## 华尔街见闻 (简中)
 头版/首屏:
@@ -143,9 +143,9 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 美国关税: Benzinga (EN)

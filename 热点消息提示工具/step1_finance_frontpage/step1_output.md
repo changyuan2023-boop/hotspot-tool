@@ -3,12 +3,12 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 3h 17m | Stocks sink, oil jumps as Iran war escalates | Fed reveals proposals for easing capital rules for banks | US weighs lifting Iran oil sanctions and second reserve release
-  - 其他: Oil soars as Iran war enters new phase | Financial stocks on pace for worst Q1 since 2020 | Iran attacks energy sites, defying Trump calls for restraint | When will mortgage rates go down? Oil prices and inflation create uncertainty. | Oil and Gas Prices Jump as Strikes on Gulf Facilities Escalate
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 3h 12m | Stocks sink, oil jumps as Iran war escalates | Fed reveals proposals for easing capital rules for banks | US weighs lifting Iran oil sanctions and second reserve release
+  - 其他: Oil soars as Iran war enters new phase | Financial stocks on pace for worst Q1 since 2020 | Iran attacks energy sites, defying Trump calls for restraint | When will mortgage rates go down? Oil prices and inflation create uncertainty. | Mortgage rates climb to highest level in more than 3 months as Iran war reignites inflation fears
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Gold Eyes Worst Month Against Oil Since 1973; Mining Stocks Slump Most Since 2008 | Can Trump's Tax Cuts Actually Beat $4 Gas? Here's The Math | Nvidia Could Be A 'Double Bagger' By 2027 As Analyst Adds NVDA To Best Ideas List | A Caller Tells 'The Ramsey Show' That They're Using ChatGPT To Fight A $37K Lawsuit. 'So Far It's Worked' | Netflix Challenges Franchise Era With Massive Originals Push
+  - 其他: What's Behind The Drop In Sandisk Stock Today? | 3M Goes Big On Fire Safety With $1.95 Billion Deal | Why Is Atlassian Stock Seesawing Thursday? | Gold Eyes Worst Month Against Oil Since 1973; Mining Stocks Slump Most Since 2008 | Can Trump's Tax Cuts Actually Beat $4 Gas? Here's The Math
 
 - **华尔街见闻 (简中)** ✓
   - 头版/首屏: 土耳其外长：以色列是此轮地区冲突首要肇事者 | 明晟公司MSCI北欧国家指数跌2.9%，创2025年7月29日（当天收跌4.3%）以来最差单日表现，报364.19点。
@@ -37,9 +37,9 @@
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
 - **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
 - **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
 - **美国关税（15%等）** — 出现于: Benzinga (EN) (1 站)
