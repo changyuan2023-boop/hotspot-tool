@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026031917
+抓取时间: 2026031919
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 3h 53m
-- US stock futures fall, oil surges after Iran, inflation fears sink stocks
-- Micron posts earnings, guidance beats in highly anticipated report
-- Powell: Stagflation is a '1970s term,' not what US faces today
-- US crude is lagging behind as global oil prices skyrocket
-- Foreign investors flee Japanese stocks as oil risk dims outlook
-- Align stock rises as activist Elliott builds stake in Invisalign maker
-- Musk: Tesla may 'tape out' next-generation AI6 chips in December
+- U.S. markets open in 2h 1m
+- Stock futures slide, oil surges as Mideast attacks reverberate
+- Oil spikes over 10% amid strikes on major Mideast hubs
+- Powell: Markets have plenty to worry about, but not stagflation
+- Lilly's next-gen obesity drug shows reduction in blood sugar levels
+- Oil giants bid $163M in Trump's record Alaska lease sale
+- JPMorgan: Investors are complacent on Iran war
+- Alibaba's 67% profit plunge shows urgent need to monetize AI
 其他:
 - Trump: US will 'massively blow up' Iran gas hub if strikes continue
-- Oil rises above $115 after strikes on major Mideast hubs
-- Gold falls for 7th day as Iran war dampens rate-cut hopes
-- Asian Prices May Surpass $26 After Strike on Qatar LNG Plant
-- Micron shares slip as hefty spending plans eclipse strong AI-fueled earnings
-- Samsung Life to divest 1.3 trln won worth of Samsung Electronics' shares
-- Exxon, BP, Vitol ship most US fuels to Australia for a single month in three decades, traders say
-- Deezer reshapes offering to businesses to boost revenue with ads, AI-detection
-- Even Jerome Powell doesn’t know what’s going on with the economy
-- Iran War Puts Bank of England in Holding Pattern
+- House Democrats walk out of Bondi briefing on Epstein files
+- Oil, gas prices jump as strikes on Gulf facilities escalate
+- Accenture forecasts quarterly revenue below estimates on cautious enterprise spending
+- UK regulator probes Photoshop maker Adobe over cancellation fee concerns
+- Germany sets mid-April deadline for troubled fighter project with France
+- US bank regulators to unveil long-awaited capital rule rewrite
+- Morning Brief: 3 big questions, 2 answers, and rate cut hopes remain alive
+- Samsung Elec to supply HBM4 chips to OpenAI, South Korean paper says
+- Gold Continues to Sink as Iran War Dampens Rate-Cut Hopes
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,66 +77,64 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- SoftBank Project Fee Slashed By Over 90% Amid Uncertainty Over $550 Billion US-Japan Trade Deal: Report
-- Nvidia Still Top AI Pick With Massive Upside Ahead: Analyst
-- Alibaba's AI Business Is Undervalued: Report
+- Bitcoin Slides To $70,000 As Inflation Outlook Weighs On Ethereum, XRP, Dogecoin
+- China's E-Commerce Wars Are Crushing Alibaba's Profits
+- Forget $5 Trillion, Dan Ives Thinks Nvidia Is $6 Trillion Company In Making
+- Mark Cuban Refuses To 'Rip On' TrumpRx, Lauds It For Saving 'A Lot Of ' Patients' Money
+- Why Are Newmont Shares Sliding On Thursday?
 - Stock Market Today: S&P 500, Dow Jones Futures Decline As Trump Warns Iran Against Qatar Strikes—Micron, FedEx, Constellation Energy In Focus
-- Wall Street's Most Accurate Analysts Give Their Take On 3 Tech Stocks Delivering High-Dividend Yields
 - Prediction Markets
 - Jerome Powell
 - Oil Price
 - Jensen Huang
-- Anthropic
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 阿里巴巴第三财季营收2,848.4亿元人民币，预估2,897.9亿元人民
-第三财季调整后每ADS收益 7.09元人民币。
-阿里巴巴美股盘前下跌3.7%，第三季度
-- 智己发布智能体IM Ultra Agent
-- 随着能源价格飙升，欧洲斯托克600指数跌幅扩大至2.2%。
-- 布伦特原油涨幅扩大至10%，有消息称，沙特延布港暂停石油装运。
-- 两位消息人士：沙特延布港暂停石油装运。（路透）
-- 印度Nifty 50指数因油价飙升和HDFC银行抛售下跌3%。
-- 澳门立法会表决通过《澳门特别行政区维护国家安全委员会》法案
-- 欧洲议会委员会投票通过推进美国贸易协议立法。
-- 国投白银LOF：3月20日开市起至10:30停牌
-- 指引更明确 市场监管总局发布2026版汽车召回用户指南
-- 美国将签证保证金国家名单扩大至50国
-- 以军称击落并摧毁一架伊朗米-17直升机
+- 中国人民银行行长潘功胜会见香港特别行政区政府财政司司长陈茂波一行
+- “人形机器人半马”将于四月举办，参赛团队目标直指人类半马冠军纪录
+- 上期所与中国五矿续签战略合作协议
+- 中国中免：全资子公司中免国际有限公司收购DFS大中华区旅游零售业务相关股权及资产事项已完成交割款项的支付工作，本次收购的估计代价为2.94亿美元。因未满足《框架
+- 机器人租赁平台机时租平台正式上线
+- 伊朗议员称拟征收霍尔木兹海峡通行费
+- 英国央行利率决议看点前瞻
+- 伊朗动用新一代自杀式无人机机群，对以色列发动报复性打击
+- 工业和信息化部安全生产委员会召开全体会议
+- 伊朗逮捕41名间谍
+- 以色列以斯雷航空公司取消3月底前定期航班
+- 欧洲议会将于下周就美欧贸易协议进行投票。
 其他:
-- 工信部NVDB发布关于防范Windows远程桌面服务（RDS）权限提升高危漏洞的风险提示
-- 科威特石油公司称已扑灭两家炼油厂的火灾。
-- 除了原油，所有资产都在跌
-- 中国联通（香港）：2025年营业收入3,922亿元，全年资本开支542亿元，2026年资本开支预计在500亿元左右
-- 财政部：1—2月国有土地使用权出让收入3547亿元，同比下降25.2%
-- 现货黄金跌破4700美元/盎司，日内下跌2.5%。
-- 财政部：1—2月全国一般公共预算收入同比增长0.7%，全国一般公共预算支出同比增长3.6%
-- 瑞典央行：利率将在当前水平维持一段时间。
-- 特朗普盟友警告：美国经济受不了对伊动武所致高油价
-- 麦当劳回应销售蛋挞：个别餐厅限时供应新品
+- 哈马斯谴责以军持续实施违规军事打击
+- 强监管延续！14家支付机构罚没8600万，双罚制压实合规责任
+- 如果油价高企，俄罗斯可能实施汽油出口禁令。（俄新社）
+- 亚洲炼油商因冲突要求沙特改变石油定价机制
+- 以军称过去一天打死20余名黎巴嫩真主党人员
+- 明确押金上限、退费有保障 北京六部门联合印发养老新规
+- 伊朗反间谍行动抓获97名外国雇佣人员
+- 外交部介绍中国特使赴中东多国穿梭访问情况
+- 礼来糖尿病药物在研究中使受试者体重平均下降15.3%。（彭博）
+- 摩根大通策略师认为投资者对伊朗冲突的风险过于掉以轻心
 
 ## SCMP (EN/中)
 头版/首屏:
 - Taiwan leader ‘glorifying Japanese colonial rule’, Beijing says
 - PLA ramps up Taiwan patrols after lull as Beijing slams William Lai’s speech
-- Public hearing outlines 6 key contributing failures behind Tai Po fire tragedy
 - China Business
 - Exclusive | Singapore-headquartered GLP eyes 50% rent surge as China demand fuels growth
 - China Economy
 - China taps reserves as Iran war disrupts 30% of global fertiliser trade
-- How China opened the door to creating a direct rival to US payment systems
+- Banking & Finance
+- SFC prepares to inspect Hong Kong IPO listing sponsors amid quality concerns
 其他:
 - Backlash was prompted by a speech that said the early days of the KMT’s rule over the island were ‘worse than the colonial regime’.
-- Lead barrister Victor Dawes says messages show substandard scaffolding mesh was used by contractors, while a cigarette ‘most likely’ caused the blaze.
 - Firm will ride Beijing’s push for domestic demand by expanding logistics, data centres and renewable energy capacity, GLP China CEO says.
 - War in the Middle East is causing global disruption – from oil to agriculture – as countries, including China, enter spring planting season.
-- China’s youth unemployment falls for sixth consecutive month in February
-- But young job-hunters say they are still struggling to find work in a testing post-holiday labour market amid rising global economic uncertainty.
-- Business
-- Hong Kong’s CK Hutchison reports 7% gain in underlying profit
-- Diversified business mitigates impact of adverse developments including ‘legal conflict’ over Panama ports, chairman says.
-- Politics
+- Market regulator will soon begin inspection of investment banks amid concerns about deficiencies in listing documents and misconduct.
+- How China opened the door to creating a direct rival to US payment systems
+- Military
+- A troubled US warship is moving away from Iran. Does it reflect bigger problems?
+- Fire damage and plumbing issues on the USS Gerald R. Ford suggest an overstretched military and ‘hollowed out’ industrial base, analysts say.
+- Tech
+- Alibaba discloses GPU output for first time as quarterly profit misses estimates
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -153,9 +151,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25548.68-476.74(-1.83%)
+- 恒生指数25500.58-524.84(-2.02%)
                     etnet.com.hk@copyright
-- 国企指数8714.66-120.84(-1.37%)
+- 国企指数8695.88-139.62(-1.58%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -168,13 +166,14 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
 - 美联储: Yahoo Finance (EN), Benzinga (EN)
 - 中国/欧盟: Benzinga (EN), SCMP (EN/中)
+- 加密货币: Benzinga (EN)
 - 就业数据: SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
