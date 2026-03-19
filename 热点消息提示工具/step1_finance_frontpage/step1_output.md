@@ -3,22 +3,22 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 5h 50m | Micron posts earnings, guidance beats in highly anticipated report | Powell: Stagflation is a '1970s term,' not what US faces today | Trump seeks de-escalation after Iran, Israel trade strikes
-  - 其他: US stock futures fall, oil surges after Iran, inflation fears sink stocks | Apple's China sales jump 23% to start 2026, bucking industry trend | Nasdaq receives SEC nod for trading in tokenized securities | Eight states sue to block Nexstar's plan to acquire rival Tegna | Korea Zinc Seeks $2 Billion Loan for US Critical Minerals Plant
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 3h 53m | US stock futures fall, oil surges after Iran, inflation fears sink stocks | Micron posts earnings, guidance beats in highly anticipated report | Powell: Stagflation is a '1970s term,' not what US faces today
+  - 其他: Trump: US will 'massively blow up' Iran gas hub if strikes continue | Oil rises above $115 after strikes on major Mideast hubs | Gold falls for 7th day as Iran war dampens rate-cut hopes | Asian Prices May Surpass $26 After Strike on Qatar LNG Plant | Micron shares slip as hefty spending plans eclipse strong AI-fueled earnings
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Darden Gears Up For Q3 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts | Nasdaq Secures SEC Approval To List Blockchain Version Of Stocks, Including S&P 500-Tracking ETFs | Top Wall Street Forecasters Revamp Accenture Expectations Ahead Of Q2 Earnings | Will S&P 500 Open Up Or Down On Thursday? Stagflation Fears, Brent Above $111 And Jobless Claims In Focus | Dogecoin To $10? Top Analyst Spots Pattern Signaling Big Gains, But This X User Has Questions
+  - 其他: SoftBank Project Fee Slashed By Over 90% Amid Uncertainty Over $550 Billion US-Japan Trade Deal: Report | Nvidia Still Top AI Pick With Massive Upside Ahead: Analyst | Alibaba's AI Business Is Undervalued: Report | Stock Market Today: S&P 500, Dow Jones Futures Decline As Trump Warns Iran Against Qatar Strikes—Micron, FedEx, Constellation Energy In Focus | Wall Street's Most Accurate Analysts Give Their Take On 3 Tech Stocks Delivering High-Dividend Yields
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 商务部：继续发挥好中美经贸磋商机制作用加强对话沟通 | 中国央行：推进人民银行法、金融稳定法等立法修法 | 国开行发行1年期债券，规模60亿元，发行利率1.3858%，预期1.4000%，投标倍数3.17倍，边际倍数3.25倍；
-国开行发行3年期债券，规模30亿元，发 | 中国央行：坚定维护股票、债券、外汇等金融市场平稳运行 | 中国央行：继续实施好适度宽松的货币政策 | 日本央行行长植田和男：中东冲突后与全球央行没有具体的联合行动。
-距离目标通胀还有一定距离。 | 南向资金净买入额达200亿港元。 | 外交部：相信韩方将继续坚持一个中国原则，并据此妥处台湾问题
-  - 其他: WTI原油期货回吐当日涨幅，布伦特原油期货延续涨势。 | 外交部：中方欢迎巴基斯坦、阿富汗同意临时停火 | 外交部：中方对阿努廷先生连任泰国总理表示祝贺。（新华社） | 外交部：美方应在台湾问题上谨言慎行 | 拉里贾尼在以色列袭击中遇难 外交部：反对在国际关系中使用武力
+  - 头版/首屏: 阿里巴巴第三财季营收2,848.4亿元人民币，预估2,897.9亿元人民
+第三财季调整后每ADS收益 7.09元人民币。
+阿里巴巴美股盘前下跌3.7%，第三季度 | 智己发布智能体IM Ultra Agent | 随着能源价格飙升，欧洲斯托克600指数跌幅扩大至2.2%。 | 布伦特原油涨幅扩大至10%，有消息称，沙特延布港暂停石油装运。 | 两位消息人士：沙特延布港暂停石油装运。（路透） | 印度Nifty 50指数因油价飙升和HDFC银行抛售下跌3%。 | 澳门立法会表决通过《澳门特别行政区维护国家安全委员会》法案 | 欧洲议会委员会投票通过推进美国贸易协议立法。
+  - 其他: 工信部NVDB发布关于防范Windows远程桌面服务（RDS）权限提升高危漏洞的风险提示 | 科威特石油公司称已扑灭两家炼油厂的火灾。 | 除了原油，所有资产都在跌 | 中国联通（香港）：2025年营业收入3,922亿元，全年资本开支542亿元，2026年资本开支预计在500亿元左右 | 财政部：1—2月国有土地使用权出让收入3547亿元，同比下降25.2%
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Prolonged Iran war could have ‘serious’ impact on food prices, says UN’s FAO | Why the US-Israel war with Iran leaves Asian economies exposed | Military | PLA reveals AI-assisted aerial refuelling system days after US tanker crash | Public hearing outlines 6 key failures behind Tai Po fire tragedy | Diplomacy | US says mainland China has no plans to attack Taiwan in 2027 | How China opened the door to creating a direct rival to US payment systems
-  - 其他: War in the Middle East is causing global disruption – from oil to agriculture – as countries, including China, enter spring planting season. | PLA Air Force details streamlined operations that pair tankers and fighters, with real-time recommendations for pilots. | Lead barrister Victor Dawes says messages show substandard scaffolding mesh was used by contractors, while a cigarette ‘most likely’ caused the blaze. | Beijing seeks to control the island without the use of force, the US intelligence community confirms in its annual report on global threats. | Science
+  - 头版/首屏: Taiwan leader ‘glorifying Japanese colonial rule’, Beijing says | PLA ramps up Taiwan patrols after lull as Beijing slams William Lai’s speech | Public hearing outlines 6 key contributing failures behind Tai Po fire tragedy | China Business | Exclusive | Singapore-headquartered GLP eyes 50% rent surge as China demand fuels growth | China Economy | China taps reserves as Iran war disrupts 30% of global fertiliser trade | How China opened the door to creating a direct rival to US payment systems
+  - 其他: Backlash was prompted by a speech that said the early days of the KMT’s rule over the island were ‘worse than the colonial regime’. | Lead barrister Victor Dawes says messages show substandard scaffolding mesh was used by contractors, while a cigarette ‘most likely’ caused the blaze. | Firm will ride Beijing’s push for domestic demand by expanding logistics, data centres and renewable energy capacity, GLP China CEO says. | War in the Middle East is causing global disruption – from oil to agriculture – as countries, including China, enter spring planting season. | China’s youth unemployment falls for sixth consecutive month in February
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 拟减回购增AI投资遭大行降目标，腾讯股价急跌半成 | 库克现身成都 庆祝苹果50周年 | 伊证拉里贾尼死讯 集束弹袭以报复 | “龙虾”未冷“果蝇”又至，AI终极竟是原点？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -34,10 +34,10 @@
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
 - **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
 - **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **加密货币** — 出现于: Benzinga (EN) (1 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN) (1 站)
+- **中国/欧盟** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
+- **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、重要性结论（综合头版+多站+股市相关）
@@ -46,7 +46,7 @@
 
 - **伊朗/中东局势**：影响油价、避险资产、全球风险偏好，多站头版。
 - **油价/霍尔木兹海峡**：特朗普护航表态后美油转跌，航运与能源股敏感。
-- **加密货币**：比特币破 7 万、Coinbase 等个股大涨，多站提及。
+- **就业数据**：ADP 等超预期，支撑美股与利率预期。
 
 ### 重要（头版或单站重点）
 
