@@ -3,7 +3,7 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 3h 19m | Stocks sink, oil jumps as Iran war escalates | Fed reveals proposals for easing capital rules for banks | US weighs lifting Iran oil sanctions and second reserve release
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 3h 17m | Stocks sink, oil jumps as Iran war escalates | Fed reveals proposals for easing capital rules for banks | US weighs lifting Iran oil sanctions and second reserve release
   - 其他: Oil soars as Iran war enters new phase | Financial stocks on pace for worst Q1 since 2020 | Iran attacks energy sites, defying Trump calls for restraint | When will mortgage rates go down? Oil prices and inflation create uncertainty. | Oil and Gas Prices Jump as Strikes on Gulf Facilities Escalate
 
 - **Benzinga (EN)** ✓
@@ -11,15 +11,15 @@
   - 其他: Gold Eyes Worst Month Against Oil Since 1973; Mining Stocks Slump Most Since 2008 | Can Trump's Tax Cuts Actually Beat $4 Gas? Here's The Math | Nvidia Could Be A 'Double Bagger' By 2027 As Analyst Adds NVDA To Best Ideas List | A Caller Tells 'The Ramsey Show' That They're Using ChatGPT To Fight A $37K Lawsuit. 'So Far It's Worked' | Netflix Challenges Franchise Era With Massive Originals Push
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 明晟公司MSCI北欧国家指数跌2.9%，创2025年7月29日（当天收跌4.3%）以来最差单日表现，报364.19点。
+  - 头版/首屏: 土耳其外长：以色列是此轮地区冲突首要肇事者 | 明晟公司MSCI北欧国家指数跌2.9%，创2025年7月29日（当天收跌4.3%）以来最差单日表现，报364.19点。
 在十个板块中，北欧工业板块跌幅最大。
 博 | 德国DAX 30指数初步收跌2.53%，报22907.91点。
 法国股指初步收跌1.73%，意大利股指初步收跌2.29%、银行指数跌3.34%，英国股指初步收跌 | 欧洲STOXX 600指数初步收跌2.28%，报584.27点。
 欧元区STOXX 50指数初步收跌1.97%，报5624.41点。
-富时泛欧绩优300指数初步 | 欧洲央行要求银行业在SRT交易中确认杠杆供应商。 | 【特朗普称已告知以色列：勿攻击伊朗境内能源设施】当地时间19日，美国总统特朗普称，已告知以色列总理内塔尼亚胡不要攻击伊朗境内的能源设施。
+富时泛欧绩优300指数初步 | 报道：欧洲央行要求银行识别重大风险转移（SRT）交易中的杠杆提供方 | 【特朗普称已告知以色列：勿攻击伊朗境内能源设施】当地时间19日，美国总统特朗普称，已告知以色列总理内塔尼亚胡不要攻击伊朗境内的能源设施。
 当被问及是否打算解除对 | 美国总统特朗普暗示，司法部应该继续调查美联储主席鲍威尔。
-这恐怕会让凯文·沃什的美联储主席提名资格在参议院获得确认的前景变得错综复杂。（CNBC） | 欧盟委员会：供应安全取决于（中东）冲突的持续时间。 | 报道：欧洲央行官员认为最早4月会议有可能加息
-  - 其他: 美国抵押贷款利率升至三个月高点，春季购房季前景承压 | 天天基金2025年基金销售额达2.6万亿元，创历史新高 | 【美国务院批准对中东多国军售计划】当地时间19日，美国国务院批准可能向约旦出售飞机及弹药支援服务与相关设备的军售计划；批准向阿联酋出售固定式无人机综合防御系统、 | 【六国发表联合声明：准备采取措施保障霍尔木兹海峡安全】3月19日，法国、英国、德国、意大利、荷兰和日本在一份联合声明宣布，准备共同采取适当措施，保障霍尔木兹海峡 | 沙特阿美一度在红海港口Yanbu暂停石油装货作业，此前伊朗打击该港口所在地的周边区域。
+这恐怕会让凯文·沃什的美联储主席提名资格在参议院获得确认的前景变得错综复杂。（CNBC） | 欧盟委员会：供应安全取决于（中东）冲突的持续时间。
+  - 其他: 美国四季度家庭净值变动 21730亿美元，前值 60640亿美元。 | 美国抵押贷款利率升至三个月高点，春季购房季前景承压 | 天天基金2025年基金销售额达2.6万亿元，创历史新高 | 【美国务院批准对中东多国军售计划】当地时间19日，美国国务院批准可能向约旦出售飞机及弹药支援服务与相关设备的军售计划；批准向阿联酋出售固定式无人机综合防御系统、 | 【六国发表联合声明：准备采取措施保障霍尔木兹海峡安全】3月19日，法国、英国、德国、意大利、荷兰和日本在一份联合声明宣布，准备共同采取适当措施，保障霍尔木兹海峡
 
 - **SCMP (EN/中)** ✓
   - 头版/首屏: Survey shows China’s professionals have high expectations – for low pay | Demand for AI talent in China outpaces other ‘new-economy’ sectors | Diplomacy | ‘Severely damaged’: how the US-Israel war on Iran is decoupling Gulf security | Science | Liu Guozhi, once top PLA scientist, wiped off Chinese Academy of Sciences site | Society | Deadly Tai Po fire revealed ‘unacceptable systemic failings’, inquiry hears
