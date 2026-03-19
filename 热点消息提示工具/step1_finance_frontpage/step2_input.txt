@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026031914
+抓取时间: 2026031915
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,7 +9,7 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 6h 44m
+- U.S. markets open in 5h 50m
 - Micron posts earnings, guidance beats in highly anticipated report
 - Powell: Stagflation is a '1970s term,' not what US faces today
 - Trump seeks de-escalation after Iran, Israel trade strikes
@@ -42,11 +42,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Why OceanPal Stock (SVRN) Jumped 40% In After-Hours Trading
-- Eric Trump Says 'Up We Go' After American Bitcoin Surpasses Galaxy Digital In Bitcoin Holdings — So Why Is The Stock Lagging?
-- Amid Iran War, Soaring Fuel Prices, Ross Gerber Urges People To Switch To EVs, Touts 'Thousands Of Dollars' Saved Annually
-- Google DeepMind Raids Bridgewater For Chief Scientist, Jasjeet Sekhon Says 'Excited' To Partner Directly With Hassabis
-- Elon Musk Says Tesla's AI5 Self-Driving Chip Will 'Punch Above Its Weight,' Sees Data Center Use
+- Darden Gears Up For Q3 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts
+- Nasdaq Secures SEC Approval To List Blockchain Version Of Stocks, Including S&P 500-Tracking ETFs
+- Top Wall Street Forecasters Revamp Accenture Expectations Ahead Of Q2 Earnings
+- Will S&P 500 Open Up Or Down On Thursday? Stagflation Fears, Brent Above $111 And Jobless Claims In Focus
+- Dogecoin To $10? Top Analyst Spots Pattern Signaling Big Gains, But This X User Has Questions
 - Trump Threatens To 'Massively' Attack Iran If Qatar's LNG Is Struck Again, Blames Angry Israel For Lashing Out At South Pars Gas Field
 - Prediction Markets
 - Jerome Powell
@@ -55,63 +55,57 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 四川发行10年期一般债地方债，规模273.8074亿元，发行利率1.9800%，边际倍数6.66倍，倍数预期1.99；
-四川发行10年期普通专项地方债，规模61
-- 日本央行行长植田和男：中东冲突前的数据表明企业和家庭活动表现稳健。
-需关注油价上涨和汇率变化对基础通胀影响可能比俄乌冲突后更大。
-基础通胀可能出现上行或下行波动
-- 沪指跌破4000点关口，为1月6日以来首次。有色金属、石化、化肥农药、锂矿、稀土跌幅居前。
-- 以军：继续“追杀”伊朗所有高层
-- 日本央行行长植田和男：油价上涨将恶化日本的贸易条件，并对经济造成下行压力。
-重要的是关注中东局势对国内经济的影响。
-由于伊朗冲突，难以明确表示应更侧重抑制通胀还
-- 现货黄金失守4800美元/盎司，日内跌幅0.39%。
-- 日本央行行长植田和男：实际利率处于显著低位。
-如果经济和物价表现符合预期，并且经济、物价持续改善，将继续上调政策利率。
-通胀趋势的判断将变得更加困难。
-正在重新
-- 沪银期货主力合约日内跌超10%，跌破18000元/千克。
-- 日经225指数收跌3.4%，报53,372.53点。
-日本东证指数收跌2.9%，报3,609.40点。
-- 集邦咨询：AI动能稳健，预估2026年晶圆代工产值年增24.8%，部分制程涨价浮现
-- 日本央行行长植田和男：日本经济有望继续温和增长。
-全球市场波动，中东局势紧张导致原油价格大幅上涨。
-需要关注中东局势的进一步发展。
-由于油价上涨，预计通胀增速将
-- A股创新药概念震荡走低，科兴制药跌超10%，益诺思、海特生物、艾迪药业、皓元医药、北陆药业跌幅居前。
+- 商务部：继续发挥好中美经贸磋商机制作用加强对话沟通
+- 中国央行：推进人民银行法、金融稳定法等立法修法
+- 国开行发行1年期债券，规模60亿元，发行利率1.3858%，预期1.4000%，投标倍数3.17倍，边际倍数3.25倍；
+国开行发行3年期债券，规模30亿元，发
+- 中国央行：坚定维护股票、债券、外汇等金融市场平稳运行
+- 中国央行：继续实施好适度宽松的货币政策
+- 日本央行行长植田和男：中东冲突后与全球央行没有具体的联合行动。
+距离目标通胀还有一定距离。
+- 南向资金净买入额达200亿港元。
+- 外交部：相信韩方将继续坚持一个中国原则，并据此妥处台湾问题
+- 日本央行行长植田和男：无意通过发布新指标来操纵货币政策走向。
+如果经济下行是暂时的且不影响潜在通胀，可能会加息。
+- 外交部：敦促日方不要在错误的道路上越走越远
+- 中方加强对悬挂巴拿马国旗船只的检查？外交部回应
+- 日本央行行长植田和男：全球市场的风险情绪略有缓解，但没有消除。
+不认为金融系统出现系统性风险。
+中东冲突前的数据表现“符合预期”。
+关于潜在通胀的新指标可能会排
 其他:
-- 华为李鹏：到2030年，中国AI相关产业规模将突破10万亿元
-- 纽约期银日内大跌5%，现报73.70美元/盎司。
-- 现货白银失守74美元/盎司，日内跌1.8%。
-- 内蒙古一公司发生爆炸事故 2人失联
-- 伊朗称美以袭击已造成至少18名医护人员死亡
-- 截至目前，南向资金净买入超100亿港元。
-- 小米汽车：新一代SU7，今晚正式上市
-- 阿努廷再次当选泰国总理
-- 以军称伊朗使用集束弹头导弹再次发动袭击
-- 阿斯利康宣布在上海建立细胞疗法商业化生产供应基地与创新中心
+- WTI原油期货回吐当日涨幅，布伦特原油期货延续涨势。
+- 外交部：中方欢迎巴基斯坦、阿富汗同意临时停火
+- 外交部：中方对阿努廷先生连任泰国总理表示祝贺。（新华社）
+- 外交部：美方应在台湾问题上谨言慎行
+- 拉里贾尼在以色列袭击中遇难 外交部：反对在国际关系中使用武力
+- 马斯克：我们可能在12月完成AI6芯片的流片。
+- 摩根士丹利：将美光科技目标价从450美元上调至520美元。
+- 战争进入“新阶段”，伊朗反击“焚毁”与美相关石油设施
+- 美媒：联邦调查局对前国家反恐中心主任展开泄密调查
+- 以军：继续“追杀”伊朗所有高层
 
 ## SCMP (EN/中)
 头版/首屏:
 - Prolonged Iran war could have ‘serious’ impact on food prices, says UN’s FAO
 - Why the US-Israel war with Iran leaves Asian economies exposed
-- China Economy
-- How China opened the door to creating a direct rival to US payment systems
-- Public hearing outlines 6 key failures behind Tai Po fire tragedy
 - Military
 - PLA reveals AI-assisted aerial refuelling system days after US tanker crash
-- Why Beijing has struggled to rally Asia against Japan over PM’s Taiwan remarks
+- Public hearing outlines 6 key failures behind Tai Po fire tragedy
+- Diplomacy
+- US says mainland China has no plans to attack Taiwan in 2027
+- How China opened the door to creating a direct rival to US payment systems
 其他:
 - War in the Middle East is causing global disruption – from oil to agriculture – as countries, including China, enter spring planting season.
-- Beijing has removed several key restrictions on its payment system, allowing it to expand beyond yuan settlements, economist says.
-- Lead barrister Victor Dawes says messages show substandard scaffolding mesh was used by contractors, while a cigarette ‘most likely’ caused the blaze.
 - PLA Air Force details streamlined operations that pair tankers and fighters, with real-time recommendations for pilots.
+- Lead barrister Victor Dawes says messages show substandard scaffolding mesh was used by contractors, while a cigarette ‘most likely’ caused the blaze.
+- Beijing seeks to control the island without the use of force, the US intelligence community confirms in its annual report on global threats.
 - Science
 - Leading Chinese remote-sensing scientist Zhang Jinshui dies at 47
 - Beijing Normal professor led major R&D programmes and was instrumental in enhancing the country’s food security with satellite technologies.
-- Diplomacy
-- US says mainland China has no plans to attack Taiwan in 2027
-- Beijing seeks to control the island without the use of force, the US intelligence community confirms in its annual report on global threats.
+- Hong Kong
+- Hongkongers on BN(O) pathway won’t face tougher English test, UK confirms
+- Minister for Migration and Citizenship Mike Tapp says current B1 English language requirement for settlement under the BN(O) route will remain unchanged.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -128,9 +122,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25562.68-462.74(-1.78%)
+- 恒生指数25548.68-476.74(-1.83%)
                     etnet.com.hk@copyright
-- 国企指数8715.48-120.02(-1.36%)
+- 国企指数8714.66-120.84(-1.37%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -146,11 +140,10 @@
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 美联储: Yahoo Finance (EN), Benzinga (EN)
 - 加密货币: Benzinga (EN)
-- 就业数据: SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
