@@ -3,7 +3,7 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 6h 55m | Micron posts earnings, guidance beats in highly anticipated report | Powell: Stagflation is a '1970s term,' not what US faces today | Trump seeks de-escalation after Iran, Israel trade strikes
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 6h 44m | Micron posts earnings, guidance beats in highly anticipated report | Powell: Stagflation is a '1970s term,' not what US faces today | Trump seeks de-escalation after Iran, Israel trade strikes
   - 其他: US stock futures fall, oil surges after Iran, inflation fears sink stocks | Apple's China sales jump 23% to start 2026, bucking industry trend | Nasdaq receives SEC nod for trading in tokenized securities | Eight states sue to block Nexstar's plan to acquire rival Tegna | Korea Zinc Seeks $2 Billion Loan for US Critical Minerals Plant
 
 - **Benzinga (EN)** ✓
@@ -11,12 +11,16 @@
   - 其他: Why OceanPal Stock (SVRN) Jumped 40% In After-Hours Trading | Eric Trump Says 'Up We Go' After American Bitcoin Surpasses Galaxy Digital In Bitcoin Holdings — So Why Is The Stock Lagging? | Amid Iran War, Soaring Fuel Prices, Ross Gerber Urges People To Switch To EVs, Touts 'Thousands Of Dollars' Saved Annually | Google DeepMind Raids Bridgewater For Chief Scientist, Jasjeet Sekhon Says 'Excited' To Partner Directly With Hassabis | Elon Musk Says Tesla's AI5 Self-Driving Chip Will 'Punch Above Its Weight,' Sees Data Center Use
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 沪银期货主力合约日内跌超10%，跌破18000元/千克。 | 日经225指数收跌3.4%，报53,372.53点。
-日本东证指数收跌2.9%，报3,609.40点。 | 集邦咨询：AI动能稳健，预估2026年晶圆代工产值年增24.8%，部分制程涨价浮现 | 日本央行行长植田和男：日本经济有望继续温和增长。
-全球市场波动，中东局势紧张导致原油价格大幅上涨。
-需要关注中东局势的进一步发展。
-由于油价上涨，预计通胀增速将 | A股创新药概念震荡走低，科兴制药跌超10%，益诺思、海特生物、艾迪药业、皓元医药、北陆药业跌幅居前。 | 华为李鹏：到2030年，中国AI相关产业规模将突破10万亿元 | 纽约期银日内大跌5%，现报73.70美元/盎司。 | 现货白银失守74美元/盎司，日内跌1.8%。
-  - 其他: 阿努廷再次当选泰国总理 | A股多元金融板块逆势拉升，中粮资本冲击涨停，中油资本此前封板，爱建集团、瑞达期货、五矿资本等纷纷冲高。 | A股银行板块局部拉升，工商银行涨超2%，农业银行、建设银行、中国银行、中信银行跟涨。 | 交通运输部检查指导组在新疆明察暗访时发现 危险品运输企业在安全管理方面存在漏洞 | 纽约期银日内跌幅扩大至4.00%，现报74.41美元/盎司。
+  - 头版/首屏: 四川发行10年期一般债地方债，规模273.8074亿元，发行利率1.9800%，边际倍数6.66倍，倍数预期1.99；
+四川发行10年期普通专项地方债，规模61 | 日本央行行长植田和男：中东冲突前的数据表明企业和家庭活动表现稳健。
+需关注油价上涨和汇率变化对基础通胀影响可能比俄乌冲突后更大。
+基础通胀可能出现上行或下行波动 | 沪指跌破4000点关口，为1月6日以来首次。有色金属、石化、化肥农药、锂矿、稀土跌幅居前。 | 以军：继续“追杀”伊朗所有高层 | 日本央行行长植田和男：油价上涨将恶化日本的贸易条件，并对经济造成下行压力。
+重要的是关注中东局势对国内经济的影响。
+由于伊朗冲突，难以明确表示应更侧重抑制通胀还 | 现货黄金失守4800美元/盎司，日内跌幅0.39%。 | 日本央行行长植田和男：实际利率处于显著低位。
+如果经济和物价表现符合预期，并且经济、物价持续改善，将继续上调政策利率。
+通胀趋势的判断将变得更加困难。
+正在重新 | 沪银期货主力合约日内跌超10%，跌破18000元/千克。
+  - 其他: 华为李鹏：到2030年，中国AI相关产业规模将突破10万亿元 | 纽约期银日内大跌5%，现报73.70美元/盎司。 | 现货白银失守74美元/盎司，日内跌1.8%。 | 内蒙古一公司发生爆炸事故 2人失联 | 伊朗称美以袭击已造成至少18名医护人员死亡
 
 - **SCMP (EN/中)** ✓
   - 头版/首屏: Prolonged Iran war could have ‘serious’ impact on food prices, says UN’s FAO | Why the US-Israel war with Iran leaves Asian economies exposed | China Economy | How China opened the door to creating a direct rival to US payment systems | Public hearing outlines 6 key failures behind Tai Po fire tragedy | Military | PLA reveals AI-assisted aerial refuelling system days after US tanker crash | Why Beijing has struggled to rally Asia against Japan over PM’s Taiwan remarks
