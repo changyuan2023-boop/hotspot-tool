@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026031919
+抓取时间: 2026031922
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 2h 1m
-- Stock futures slide, oil surges as Mideast attacks reverberate
-- Oil spikes over 10% amid strikes on major Mideast hubs
+- U.S. markets close in 6h
+- Stocks sink, oil surges as Iran war escalates
+- Oil spikes amid strikes on major Mideast hubs
 - Powell: Markets have plenty to worry about, but not stagflation
-- Lilly's next-gen obesity drug shows reduction in blood sugar levels
-- Oil giants bid $163M in Trump's record Alaska lease sale
-- JPMorgan: Investors are complacent on Iran war
+- Circle CEO: AI agents will replace human work 'on a massive scale'
 - Alibaba's 67% profit plunge shows urgent need to monetize AI
+- Gas prices soar to highest since March 2022
+- Rivian stock surges on deal supply Uber with up to 50,000 robotaxis
 其他:
-- Trump: US will 'massively blow up' Iran gas hub if strikes continue
-- House Democrats walk out of Bondi briefing on Epstein files
-- Oil, gas prices jump as strikes on Gulf facilities escalate
-- Accenture forecasts quarterly revenue below estimates on cautious enterprise spending
-- UK regulator probes Photoshop maker Adobe over cancellation fee concerns
-- Germany sets mid-April deadline for troubled fighter project with France
-- US bank regulators to unveil long-awaited capital rule rewrite
-- Morning Brief: 3 big questions, 2 answers, and rate cut hopes remain alive
-- Samsung Elec to supply HBM4 chips to OpenAI, South Korean paper says
-- Gold Continues to Sink as Iran War Dampens Rate-Cut Hopes
+- Iran attacks energy sites, defying Trump calls for restraint
+- Why affordable furniture industry hasn't yet been rocked by Iran
+- Lilly's next-gen obesity drug shows reduction in blood sugar levels
+- Google expands utility deals to curb data‑center power use during peak demand
+- Bessent Says US Aiming to Unsanction Iran Oil ‘On the Water’
+- What strikes on the world’s largest natural gas sites could do to the global economy
+- Iliad's Scaleway expands to Italy, seeks to rival US cloud giants in Europe
+- Xiaomi to invest at least $8.7 billion in AI over next three years, CEO says
+- Italian court scraps 15-million-euro privacy watchdog fine on ChatGPT-maker OpenAI
+- Gold and Silver Plunge as Iran War Damps Rate-Cut Hopes
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,12 +42,12 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Bitcoin Slides To $70,000 As Inflation Outlook Weighs On Ethereum, XRP, Dogecoin
-- China's E-Commerce Wars Are Crushing Alibaba's Profits
-- Forget $5 Trillion, Dan Ives Thinks Nvidia Is $6 Trillion Company In Making
-- Mark Cuban Refuses To 'Rip On' TrumpRx, Lauds It For Saving 'A Lot Of ' Patients' Money
-- Why Are Newmont Shares Sliding On Thursday?
-- Stock Market Today: S&P 500, Dow Jones Futures Decline As Trump Warns Iran Against Qatar Strikes—Micron, FedEx, Constellation Energy In Focus
+- Palmer Luckey: Anduril's $60B Arsenal-1 Factory Set To Open Within Weeks
+- Robinhood Trends As Social Feature, Platinum Card Launch Drive Buzz
+- Dow Falls Over 300 Points; US Initial Jobless Claims Fall
+- Nasdaq, S&P 500 Approach Support As Volatility Contracts
+- Bitcoin Crashes 4%, Loses $70,000: Why Is BTC Going Down?
+- Stock Market Today: S&P 500, Dow Jones Futures Slip As Jobless Claims Fall To 205,000— Micron, FedEx, Constellation Energy In Focus (UPDATED)
 - Prediction Markets
 - Jerome Powell
 - Oil Price
@@ -55,51 +55,57 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 中国人民银行行长潘功胜会见香港特别行政区政府财政司司长陈茂波一行
-- “人形机器人半马”将于四月举办，参赛团队目标直指人类半马冠军纪录
-- 上期所与中国五矿续签战略合作协议
-- 中国中免：全资子公司中免国际有限公司收购DFS大中华区旅游零售业务相关股权及资产事项已完成交割款项的支付工作，本次收购的估计代价为2.94亿美元。因未满足《框架
-- 机器人租赁平台机时租平台正式上线
-- 伊朗议员称拟征收霍尔木兹海峡通行费
-- 英国央行利率决议看点前瞻
-- 伊朗动用新一代自杀式无人机机群，对以色列发动报复性打击
-- 工业和信息化部安全生产委员会召开全体会议
-- 伊朗逮捕41名间谍
-- 以色列以斯雷航空公司取消3月底前定期航班
-- 欧洲议会将于下周就美欧贸易协议进行投票。
+- 美国2月谘商会领先指标环比 -0.1%，预期 -0.1%，前值 -0.2%。
+- 美国1月批发销售环比 0.5%，预期 0.5%，前值 1%。
+- 美国1月新屋销售 58.7万户，预期 72.2万户，前值 74.5万户。
+- 美国1月批发库存环比终值 -0.5%，预期 0.2%，初值 0.2%。
+- 美国1月新屋销售环比 -17.6%，预期 -2.7%，前值 -1.7%。
+- 伊朗外长：基础设施若再次遭袭将采取零容忍态度。
+- 欧洲央行行长拉加德：核心通胀指标与2%的目标一致。
+工人工资指标显示劳动力成本将进一步下降。
+能源价格将推动通胀率在短期内超过2%。
+长期通胀预期在2%左右。
+- 欧洲央行行长拉加德：外部环境依然充满挑战。
+应对冲突的财政措施必须是暂时的、有针对性的。
+委员们仍认为私人消费是促进经济增长的关键因素。
+在基础设施和国防领域进
+- 美元兑日元日内跌幅达1%，报158.26。
+- 欧盟领导人未就第20轮对俄制裁达成共识
+- 联合国报告：性别不平等加剧全球水危机
+- 霍尔木兹海峡“梗阻”推高海湾国家食品价格
 其他:
-- 哈马斯谴责以军持续实施违规军事打击
-- 强监管延续！14家支付机构罚没8600万，双罚制压实合规责任
-- 如果油价高企，俄罗斯可能实施汽油出口禁令。（俄新社）
-- 亚洲炼油商因冲突要求沙特改变石油定价机制
-- 以军称过去一天打死20余名黎巴嫩真主党人员
-- 明确押金上限、退费有保障 北京六部门联合印发养老新规
-- 伊朗反间谍行动抓获97名外国雇佣人员
-- 外交部介绍中国特使赴中东多国穿梭访问情况
-- 礼来糖尿病药物在研究中使受试者体重平均下降15.3%。（彭博）
-- 摩根大通策略师认为投资者对伊朗冲突的风险过于掉以轻心
+- 阿斯利康宣布在广州建设放射性偶联药物生产供应基地
+- 欧洲央行行长拉加德重申货币政策声明。
+- 美国监管机构公布放宽大银行资本金要求的计划。
+- 实探水贝：时隔两年深圳再提黄金交易满2万元须实名
+- 李宁：2025年收入达295.98亿元人民币，同比增长3.2%
+- 欧盟外长：对伊朗使用武力缺乏国际法依据
+- 2026年中央财政强农惠农富农政策清单发布
+- 摩根大通：中东冲突的冲击已经开始导致石油需求下降
+- 美股三大股指集体低开，贵金属概念股大跌
+- 伊朗袭击破坏了卡塔尔17% 的LNG产能 修复需3至5年
 
 ## SCMP (EN/中)
 头版/首屏:
-- Taiwan leader ‘glorifying Japanese colonial rule’, Beijing says
-- PLA ramps up Taiwan patrols after lull as Beijing slams William Lai’s speech
-- China Business
-- Exclusive | Singapore-headquartered GLP eyes 50% rent surge as China demand fuels growth
-- China Economy
-- China taps reserves as Iran war disrupts 30% of global fertiliser trade
-- Banking & Finance
-- SFC prepares to inspect Hong Kong IPO listing sponsors amid quality concerns
+- Liu Guozhi, former top PLA scientist, is delisted from CAS website
+- J-20 fighter jet designer scrubbed from Chinese Academy of Sciences website
+- Global Economy
+- If the Iran war takes oil above US$120 a barrel, how bad could the shock get?
+- Diplomacy
+- ‘Uncompromising’: Takaichi’s meeting with Trump seen as key to China-Japan ties
+- Law and Crime
+- Paralegals among 16 people arrested over ‘crash-for-cash’ scams in Hong Kong
 其他:
-- Backlash was prompted by a speech that said the early days of the KMT’s rule over the island were ‘worse than the colonial regime’.
-- Firm will ride Beijing’s push for domestic demand by expanding logistics, data centres and renewable energy capacity, GLP China CEO says.
-- War in the Middle East is causing global disruption – from oil to agriculture – as countries, including China, enter spring planting season.
-- Market regulator will soon begin inspection of investment banks amid concerns about deficiencies in listing documents and misconduct.
-- How China opened the door to creating a direct rival to US payment systems
-- Military
+- A major Chinese military scientist has been wiped from the official site of the nation’s top scientific body.
+- With major energy assets now coming under attack and the Strait of Hormuz still closed, analysts fear a longer supply shock.
+- Neither Tokyo nor Beijing has enough incentive to compromise, observers say, signalling a new reality between Asian giants.
+- Suspects arrested over 11 insurance claims totalling HK$3.6 million, all originating from same Mong Kok law firm, according to police.
 - A troubled US warship is moving away from Iran. Does it reflect bigger problems?
-- Fire damage and plumbing issues on the USS Gerald R. Ford suggest an overstretched military and ‘hollowed out’ industrial base, analysts say.
 - Tech
 - Alibaba discloses GPU output for first time as quarterly profit misses estimates
+- The e-commerce giant’s revenue in the December quarter rose 2 per cent to US$40.7 billion.
+- China offers to work with Southeast Asia to secure energy supplies
+- Conflict has also hit global fertiliser supplies, prompting Manila to seek assurances that Beijing would continue exports.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -131,14 +137,14 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN)
-- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美国关税: Yahoo Finance (EN)
 - 加密货币: Benzinga (EN)
-- 就业数据: SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
