@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026031922
+抓取时间: 2026031923
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,24 +44,24 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 6h
-- Stocks sink, oil surges as Iran war escalates
-- Oil spikes amid strikes on major Mideast hubs
-- Powell: Markets have plenty to worry about, but not stagflation
-- Circle CEO: AI agents will replace human work 'on a massive scale'
-- Alibaba's 67% profit plunge shows urgent need to monetize AI
-- Gas prices soar to highest since March 2022
-- Rivian stock surges on deal supply Uber with up to 50,000 robotaxis
-其他:
+- U.S. markets close in 4h 47m
+- Stocks sink, oil jumps as Iran war escalates
+- Fed reveals proposals for easing capital rules for banks
 - Iran attacks energy sites, defying Trump calls for restraint
-- Why affordable furniture industry hasn't yet been rocked by Iran
-- Lilly's next-gen obesity drug shows reduction in blood sugar levels
-- Google expands utility deals to curb data‑center power use during peak demand
-- Bessent Says US Aiming to Unsanction Iran Oil ‘On the Water’
-- What strikes on the world’s largest natural gas sites could do to the global economy
-- Iliad's Scaleway expands to Italy, seeks to rival US cloud giants in Europe
-- Xiaomi to invest at least $8.7 billion in AI over next three years, CEO says
-- Italian court scraps 15-million-euro privacy watchdog fine on ChatGPT-maker OpenAI
+- Why this venture capitalist says AI will unleash a key problem
+- New home sales dive unexpectedly to the lowest since 2022
+- Gold, silver, bitcoin battered as Fed takes the shine off havens
+- Circle CEO: AI agents will replace human work 'on a massive scale'
+其他:
+- Oil soars as Iran war enters new phase
+- Powell: Markets have plenty to worry about, but not stagflation
+- Alibaba's 67% profit plunge shows urgent need to monetize AI
+- Financial stocks on pace for worst first quarter since 2020 as private credit cracks flash 'yellow warning'
+- French billionaire Bollore to stand trial on corruption charges regarding Guinea and Togo
+- How the Fed's rate decision affects your bank accounts, loans, credit cards, and investments
+- US Crude Is Lagging Behind as Global Oil Prices Skyrocket
+- Micron posts better-than-expected Q2 results and Q3 guidance
+- Oil and Gas Prices Jump as Strikes on Gulf Facilities Escalate
 - Gold and Silver Plunge as Iran War Damps Rate-Cut Hopes
 
 ## Benzinga (EN)
@@ -77,12 +77,12 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Palmer Luckey: Anduril's $60B Arsenal-1 Factory Set To Open Within Weeks
-- Robinhood Trends As Social Feature, Platinum Card Launch Drive Buzz
-- Dow Falls Over 300 Points; US Initial Jobless Claims Fall
-- Nasdaq, S&P 500 Approach Support As Volatility Contracts
-- Bitcoin Crashes 4%, Loses $70,000: Why Is BTC Going Down?
-- Stock Market Today: S&P 500, Dow Jones Futures Slip As Jobless Claims Fall To 205,000— Micron, FedEx, Constellation Energy In Focus (UPDATED)
+- Five Below Boasts 'Strong Start' To Q1, Analyst Expects Higher Volume Weeks Still Ahead
+- SailPoint Posts Q4 Beat, FY27 ARR Outlook Falls Short Of Expectations
+- DLocal Shares Rise On Q4 Revenue Beat, Buyback Plan
+- Why Is SoundHound AI Stock Tumbling Today?
+- What's Going On With Nebius Shares On Thursday?
+- S&P 500 Eyes 200-Day Breakdown, WTI-Brent Spread Hits 2020 Highs: What You Need To Know Today
 - Prediction Markets
 - Jerome Powell
 - Oil Price
@@ -90,57 +90,53 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 美国2月谘商会领先指标环比 -0.1%，预期 -0.1%，前值 -0.2%。
-- 美国1月批发销售环比 0.5%，预期 0.5%，前值 1%。
-- 美国1月新屋销售 58.7万户，预期 72.2万户，前值 74.5万户。
-- 美国1月批发库存环比终值 -0.5%，预期 0.2%，初值 0.2%。
-- 美国1月新屋销售环比 -17.6%，预期 -2.7%，前值 -1.7%。
-- 伊朗外长：基础设施若再次遭袭将采取零容忍态度。
-- 欧洲央行行长拉加德：核心通胀指标与2%的目标一致。
-工人工资指标显示劳动力成本将进一步下降。
-能源价格将推动通胀率在短期内超过2%。
-长期通胀预期在2%左右。
-- 欧洲央行行长拉加德：外部环境依然充满挑战。
-应对冲突的财政措施必须是暂时的、有针对性的。
-委员们仍认为私人消费是促进经济增长的关键因素。
-在基础设施和国防领域进
-- 美元兑日元日内跌幅达1%，报158.26。
-- 欧盟领导人未就第20轮对俄制裁达成共识
-- 联合国报告：性别不平等加剧全球水危机
-- 霍尔木兹海峡“梗阻”推高海湾国家食品价格
+- 美中情局局长：以色列未就袭击伊朗迫使美国采取行动
+- 新债王Gundlach：美国两年期国债收益率暗示，美联储可能要加息。
+- 泽连斯基：俄乌谈判或很快重启
+- Cursor将面向软件开发领域发布一款更加有效的AI模型Composer 2。
+- 热卷夜盘收平，螺纹钢、棉纱、白糖、铁矿石夜盘则至多收涨0.93%，丙烯、双胶纸、纸浆、烧碱至多涨1.77%，LPG涨7.23%。
+- OMV、ADNOC同意，推迟Borouge Group上市计划至2027年。
+- 推动亚太地区能源合作 中方提出三方面建议
+- 以色列称本轮美以伊冲突已有超3900名伤者被送医
+- 欧洲央行：预计2026年石油价格为81.3美元/桶，2027年料为72.1美元/桶，2028年料为70.2美元/桶。
+在恶劣假设场景中，预计2026年通胀率将高
+- 最高500万元！深圳微短剧产业迎重磅利好
+- 美国联邦住房金融局（FHFA）局长Bill Pulte：将建议进一步压低购房成本。（Semafor）
+- Peabody Energy涨幅扩大至10%，创11月份以来最大盘中涨幅。印尼将提高煤炭产量并征收出口税。
 其他:
-- 阿斯利康宣布在广州建设放射性偶联药物生产供应基地
-- 欧洲央行行长拉加德重申货币政策声明。
-- 美国监管机构公布放宽大银行资本金要求的计划。
-- 实探水贝：时隔两年深圳再提黄金交易满2万元须实名
-- 李宁：2025年收入达295.98亿元人民币，同比增长3.2%
-- 欧盟外长：对伊朗使用武力缺乏国际法依据
-- 2026年中央财政强农惠农富农政策清单发布
-- 摩根大通：中东冲突的冲击已经开始导致石油需求下降
-- 美股三大股指集体低开，贵金属概念股大跌
-- 伊朗袭击破坏了卡塔尔17% 的LNG产能 修复需3至5年
+- 美国监管机构公布计划，拟放宽大型银行的资本金规定
+- 据美国纽约联储数据，上个交易日（3月18日，美联储发布决议声明当天）担保隔夜融资利率（SOFR）报3.62%，之前一天报3.65%。
+上个交易日有效的联邦基金利
+- 福岛第一核电站堆芯熔毁反应堆压力容器底部影像发布
+- 联合国秘书长呼吁美以结束战争
+- 伊朗称已逮捕178名“叛国者”及美以雇佣人员
+- 美国参议员Warren就爱泼斯坦档案中提及沃什的相关报道提出质询
+- 以军袭击已致黎巴嫩1001人死亡
+- 美国能源信息署（EIA）：美国上周EIA天然气库存增加350亿立方英尺，周环比增长1.89%，至1.88万亿立方英尺。
+- 美国3月13日当周EIA天然气库存变动 350亿立方英尺，预期 390亿立方英尺，前值 -380亿立方英尺。
+- 被特朗普抱怨不积极，默茨最新表态
 
 ## SCMP (EN/中)
 头版/首屏:
-- Liu Guozhi, former top PLA scientist, is delisted from CAS website
-- J-20 fighter jet designer scrubbed from Chinese Academy of Sciences website
-- Global Economy
-- If the Iran war takes oil above US$120 a barrel, how bad could the shock get?
+- Survey shows China’s professionals have high expectations – for low pay
+- Demand for AI talent in China outpaces other ‘new-economy’ sectors
 - Diplomacy
-- ‘Uncompromising’: Takaichi’s meeting with Trump seen as key to China-Japan ties
-- Law and Crime
-- Paralegals among 16 people arrested over ‘crash-for-cash’ scams in Hong Kong
+- ‘Severely damaged’: how the US-Israel war on Iran is decoupling Gulf security
+- Science
+- Liu Guozhi, once top PLA scientist, wiped off Chinese Academy of Sciences site
+- Hong Kong Economy
+- CK Hutchison vows to pursue ‘all legal remedies’ over seized Panama ports
 其他:
-- A major Chinese military scientist has been wiped from the official site of the nation’s top scientific body.
-- With major energy assets now coming under attack and the Strait of Hormuz still closed, analysts fear a longer supply shock.
-- Neither Tokyo nor Beijing has enough incentive to compromise, observers say, signalling a new reality between Asian giants.
-- Suspects arrested over 11 insurance claims totalling HK$3.6 million, all originating from same Mong Kok law firm, according to police.
+- As some Chinese workers switch jobs to boost salaries, many remain pessimistic about pay increases amid economic uncertainty.
+- As confidence in America’s defence guarantee erodes, Gulf states are now weighing a more multifaceted strategy, analysts say.
+- High-power microwave weapon expert was elected to the nation’s top scientific body in 2009.
+- Group says diversified network could benefit from higher storage revenue as inventory demand rises amid Strait of Hormuz crisis.
 - A troubled US warship is moving away from Iran. Does it reflect bigger problems?
-- Tech
-- Alibaba discloses GPU output for first time as quarterly profit misses estimates
-- The e-commerce giant’s revenue in the December quarter rose 2 per cent to US$40.7 billion.
 - China offers to work with Southeast Asia to secure energy supplies
 - Conflict has also hit global fertiliser supplies, prompting Manila to seek assurances that Beijing would continue exports.
+- Global Economy
+- If the Iran war takes oil above US$120 a barrel, how bad could the shock get?
+- With major energy assets now coming under attack and the Strait of Hormuz still closed, analysts fear a longer supply shock.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -173,13 +169,14 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 美国关税: Yahoo Finance (EN)
-- 加密货币: Benzinga (EN)
+- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
+- 美国关税: Benzinga (EN)
+- 加密货币: Yahoo Finance (EN)
+- 就业数据: SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
