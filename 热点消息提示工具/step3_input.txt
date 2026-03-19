@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026031923
+抓取时间: 2026032000
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 4h 47m
+- U.S. markets close in 3h 46m
 - Stocks sink, oil jumps as Iran war escalates
 - Fed reveals proposals for easing capital rules for banks
-- Iran attacks energy sites, defying Trump calls for restraint
-- Why this venture capitalist says AI will unleash a key problem
-- New home sales dive unexpectedly to the lowest since 2022
-- Gold, silver, bitcoin battered as Fed takes the shine off havens
-- Circle CEO: AI agents will replace human work 'on a massive scale'
+- US weighs lifting Iran oil sanctions and second reserve release
+- Higher gas prices are recession worthy: Former Trump economic adviser
+- Gold, silver, bitcoin crash as safe-haven luster fades following Fed decision
+- Mortgage rates jump further above 6% as Fed warns on inflation
+- Financial stocks on pace for worst Q1 since 2020
 其他:
 - Oil soars as Iran war enters new phase
-- Powell: Markets have plenty to worry about, but not stagflation
-- Alibaba's 67% profit plunge shows urgent need to monetize AI
-- Financial stocks on pace for worst first quarter since 2020 as private credit cracks flash 'yellow warning'
+- Iran attacks energy sites, defying Trump calls for restraint
+- Why this venture capitalist says AI will unleash a key problem
+- Cloud industry group calls for EU interim measure against Broadcom over VMware
+- Micron stock falls more than 4% despite Q2 earnings beat amid growth concerns
+- You can trade oil futures. What to know before you start.
+- Bonds Tumble Worldwide as Iran War Stokes Bets on Rate Hikes
 - French billionaire Bollore to stand trial on corruption charges regarding Guinea and Togo
 - How the Fed's rate decision affects your bank accounts, loans, credit cards, and investments
 - US Crude Is Lagging Behind as Global Oil Prices Skyrocket
-- Micron posts better-than-expected Q2 results and Q3 guidance
-- Oil and Gas Prices Jump as Strikes on Gulf Facilities Escalate
-- Gold and Silver Plunge as Iran War Damps Rate-Cut Hopes
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,11 +77,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Five Below Boasts 'Strong Start' To Q1, Analyst Expects Higher Volume Weeks Still Ahead
-- SailPoint Posts Q4 Beat, FY27 ARR Outlook Falls Short Of Expectations
-- DLocal Shares Rise On Q4 Revenue Beat, Buyback Plan
-- Why Is SoundHound AI Stock Tumbling Today?
-- What's Going On With Nebius Shares On Thursday?
+- xAI Allegedly Generated Deepfake Nude Images Of Minors, Lawsuit States
+- These Analysts Revise Their Forecasts On Williams-Sonoma Following Q4 Earnings
+- The Great Magnificent 7 Breakup: Nvidia Stands Tall While Tesla, Microsoft Stumble And Fall
+- Actelis Networks (ASNS) Stock Is Surging Thursday: What's Driving The Action?
+- Warren Buffett, Markwayne Mullin Bet On The Same 10 Stocks – Some Might Surprise You
 - S&P 500 Eyes 200-Day Breakdown, WTI-Brent Spread Hits 2020 Highs: What You Need To Know Today
 - Prediction Markets
 - Jerome Powell
@@ -90,31 +90,34 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 美中情局局长：以色列未就袭击伊朗迫使美国采取行动
-- 新债王Gundlach：美国两年期国债收益率暗示，美联储可能要加息。
-- 泽连斯基：俄乌谈判或很快重启
-- Cursor将面向软件开发领域发布一款更加有效的AI模型Composer 2。
-- 热卷夜盘收平，螺纹钢、棉纱、白糖、铁矿石夜盘则至多收涨0.93%，丙烯、双胶纸、纸浆、烧碱至多涨1.77%，LPG涨7.23%。
-- OMV、ADNOC同意，推迟Borouge Group上市计划至2027年。
-- 推动亚太地区能源合作 中方提出三方面建议
-- 以色列称本轮美以伊冲突已有超3900名伤者被送医
-- 欧洲央行：预计2026年石油价格为81.3美元/桶，2027年料为72.1美元/桶，2028年料为70.2美元/桶。
-在恶劣假设场景中，预计2026年通胀率将高
-- 最高500万元！深圳微短剧产业迎重磅利好
-- 美国联邦住房金融局（FHFA）局长Bill Pulte：将建议进一步压低购房成本。（Semafor）
-- Peabody Energy涨幅扩大至10%，创11月份以来最大盘中涨幅。印尼将提高煤炭产量并征收出口税。
+- 欧盟委员会：供应安全取决于（中东）冲突的持续时间。
+- 报道：欧洲央行官员认为，4月份有可能加息。
+- 以色列海法遭伊朗导弹袭击 一炼油厂受损，部分地区停电
+- 美国总统特朗普谈及美联储主席鲍威尔，宣称：他因建筑成本超支问题而正在接受调查。
+- 中东股市收盘播报｜周四（3月19日），土耳其伊斯坦布尔证交所全国100指数收跌0.51%，报13047.72点，交易提前至北京时间17:35结束（通常在23:0
+- 美国四季度家庭净值变动 21730亿美元，前值 60640亿美元。
+- 房地美：美国上周30年期按揭贷款/抵押贷款利率6.22%，创三个月新高，前值6.11%。
+- 天天基金2025年基金销售额达2.6万亿元，创历史新高
+- 【美国务院批准对中东多国军售计划】当地时间19日，美国国务院批准可能向约旦出售飞机及弹药支援服务与相关设备的军售计划；批准向阿联酋出售固定式无人机综合防御系统、
+- 【六国发表联合声明：准备采取措施保障霍尔木兹海峡安全】3月19日，法国、英国、德国、意大利、荷兰和日本在一份联合声明宣布，准备共同采取适当措施，保障霍尔木兹海峡
+- 沙特阿美一度在红海港口Yanbu暂停石油装货作业，此前伊朗打击该港口所在地的周边区域。
+- 希腊雅典证交所综合指数收跌2.47%，报2077.15点。
 其他:
-- 美国监管机构公布计划，拟放宽大型银行的资本金规定
-- 据美国纽约联储数据，上个交易日（3月18日，美联储发布决议声明当天）担保隔夜融资利率（SOFR）报3.62%，之前一天报3.65%。
-上个交易日有效的联邦基金利
-- 福岛第一核电站堆芯熔毁反应堆压力容器底部影像发布
-- 联合国秘书长呼吁美以结束战争
-- 伊朗称已逮捕178名“叛国者”及美以雇佣人员
-- 美国参议员Warren就爱泼斯坦档案中提及沃什的相关报道提出质询
-- 以军袭击已致黎巴嫩1001人死亡
-- 美国能源信息署（EIA）：美国上周EIA天然气库存增加350亿立方英尺，周环比增长1.89%，至1.88万亿立方英尺。
-- 美国3月13日当周EIA天然气库存变动 350亿立方英尺，预期 390亿立方英尺，前值 -380亿立方英尺。
-- 被特朗普抱怨不积极，默茨最新表态
+- 美国总统特朗普：将与日本首相高市早苗讨论贸易等问题。
+相信日本将在伊朗问题上挺身而出。
+（在支持美国和以色列发动伊朗战争问题上）日本与北约不同。
+（美国）在伊朗
+- 美国监管机构对特斯拉“完全自动驾驶”系统的安全调查升级
+- WTI原油期货价格涨幅扩大，突破100美元/桶。
+据Politico报道，一名美国官员在会见石油行业高管们时宣称，美国不会实施原油出口禁令。
+- 诺和诺德高剂量Wegovy注射剂获美国批准，助力提振竞争地位
+- 伊朗公布卫星图像显示美在中东多处军事设施遭破坏
+- 美媒称美军或夺岛以迫使伊朗开放霍尔木兹海峡
+- 美国财政部拍卖四周期国债，得标利率3.615%，投标倍数3.12。
+拍卖八周期国债，得标利率3.635%，投标倍数2.83。
+- 疑被伊朗击中！美军一架F-35战机紧急迫降
+- 谷歌公司在Google AI Studio升级Vibe Coding Experience。
+- 以色列巴赞炼油厂特拉维夫股价重挫8%，媒体报道称，伊朗发射的导弹击中海法炼油厂，未造成人员伤亡。
 
 ## SCMP (EN/中)
 头版/首屏:
@@ -124,13 +127,13 @@
 - ‘Severely damaged’: how the US-Israel war on Iran is decoupling Gulf security
 - Science
 - Liu Guozhi, once top PLA scientist, wiped off Chinese Academy of Sciences site
-- Hong Kong Economy
-- CK Hutchison vows to pursue ‘all legal remedies’ over seized Panama ports
+- Society
+- Deadly Tai Po fire revealed ‘unacceptable systemic failings’, inquiry hears
 其他:
 - As some Chinese workers switch jobs to boost salaries, many remain pessimistic about pay increases amid economic uncertainty.
 - As confidence in America’s defence guarantee erodes, Gulf states are now weighing a more multifaceted strategy, analysts say.
 - High-power microwave weapon expert was elected to the nation’s top scientific body in 2009.
-- Group says diversified network could benefit from higher storage revenue as inventory demand rises amid Strait of Hormuz crisis.
+- Six ‘human factors’ led to almost complete failure of fire safety measures at Wang Fuk Court, independent committee told at first session.
 - A troubled US warship is moving away from Iran. Does it reflect bigger problems?
 - China offers to work with Southeast Asia to secure energy supplies
 - Conflict has also hit global fertiliser supplies, prompting Manila to seek assurances that Beijing would continue exports.
@@ -171,10 +174,10 @@
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 美国关税: Benzinga (EN), 华尔街见闻 (简中)
 - 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
-- 美国关税: Benzinga (EN)
 - 加密货币: Yahoo Finance (EN)
 - 就业数据: SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中)
