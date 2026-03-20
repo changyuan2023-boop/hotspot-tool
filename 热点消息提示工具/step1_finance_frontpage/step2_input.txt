@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032011
+抓取时间: 2026032012
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets closed
+- U.S. markets open in 9h 1m
 - Private credit cracks flash 'yellow warning' for financial giants
 - DOJ, White House clear way for Pirro to keep Powell probe going
 - Us stock futures climb as war with Iran, inflation jitters in focus
+- Alibaba, Tencent shares lose $66 billion as AI vision falls flat
 - Super Micro co-founder charged with sending AI tech to China
 - Retail's pivotal year: the structural reset defining 2026
-- Alibaba sets $100 billion target for AI revenue in five years
 - Traders overwhelmed by Iran news are turning to AI for help
 其他:
 - $200 billion for the war in Iran? Trump calls it a 'small price to pay.'
 - Gold set for worst week in six years as war curbs rate-cut bets
 - Nvidia to sell 1 million chips to Amazon by end of 2027
+- OpenAI Plans Desktop App Combining Chat, Coding and Web Browsing
 - Alibaba, Tencent Shares Lose $66 Billion as AI Vision Falls Flat
 - Netflix sees more prospects for live events in South Korea after BTS
 - China's Bank of Ningbo readies digital yuan business as Beijing expands e-CNY
 - Exclusive-Tesla in talks with Chinese firms to buy $2.9 billion worth of solar equipment, sources say
 - FCC approves $3.5 billion sale of Tegna to Nexstar despite state objections
 - AI Startup Yotta Seeks $4 Billion Valuation Ahead of Planned IPO
-- Nexstar says it has acquired Tegna as state AGs push to block the merger
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,11 +42,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
+- Anthony Scaramucci Quotes 'Dodgeball' To Blast Trump's 'Bold Strategy' Of Lifting Iranian Oil Sanctions Amid US-Israeli Attacks
+- No Rate Cuts In 2026? Prediction Market Is Betting This On Fed Moves
 - Nvidia To Deliver 1 Million AI Chips To Amazon Web Services By 2027 In Massive Multi-Chip Deal Set To Supercharge Inference And Cloud Computing
 - AXT Inc Stock Is Trending On Thursday After Surging Over 19%: Here's Why
 - Elon Musk Appears As 'The Dogefather' While Petting A Shiba Inu In AI Video, Discusses DOGE's Wedding And Private Keys
-- Jeff Bezos Reportedly Seeks $100 Billion To Supercharge AI-Driven Automation, Bernie Sanders Says 'Oligarchs Waging All Out War Against Workers'
-- Sarah Huckabee Sanders Says Arkansas Restaurant Staff Asked Her To Leave After Employees Felt 'Threatened' By Her Presence
 - Bitcoin, XRP, Dogecoin Steady, While Ethereum Dips Amid Middle East Oil Crisis: Analyst Says BTC Approaching 'Potential Launchpad' For Next Bull Cycle
 - Scott Bessent
 - Oil Price
@@ -55,6 +55,9 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
+- 欧盟呼吁伊朗局势相关冲突方保护平民和民用设施
+- 印度卢比兑美元跌破93关口，再创新低，日内跌0.4%。
+- 韩国总统李在明支持率达67%，创新高
 - 也门胡塞武装称可能封锁曼德海峡
 - 印度股指Nifty和Sensex指数均涨1%。
 - 中国财政部发行3年期债券，规模1750亿元，发行利率1.2878%，边际利率1.3212%，预期1.3300%，投标倍数2.77倍，边际倍数1.13倍；
@@ -68,11 +71,11 @@
 - 3月20日午间收评：创业板指半日涨3.3%，算力硬件、光伏板块集体走强
 - 国债期货早盘收盘，30年期主力合约跌0.43%，10年期主力合约跌0.09%，5年期主力合约跌0.05%，2年期主力合约跌0.02%。
 - 创业板指涨超3%，沪指转涨
+其他:
 - 高盛：预计英国央行在整个2026年将维持利率不变，此前预测为从7月起每季度降息一次。
 预计货币政策委员会（MPC）将在2027年逐渐下调利率，最终目标利率为3%
 - “沪七条”政策效果不断显现，上海楼市迎来企稳迹象
 - 泰国股指SET指数日内涨幅扩大至1.3%。
-其他:
 - 隔夜SHIBOR报1.3190%，下降0.20个基点。
 7天SHIBOR报1.4170%，下降0.60个基点。
 3个月SHIBOR报1.5220%，下降0.60
@@ -81,34 +84,29 @@
 - 伊朗伊斯兰革命卫队：美“福特”号航母撤离反映美以真实处境
 - 姚来英任国家烟草专卖局党组书记
 - 因担心美国动武，丹麦曾向格陵兰岛运送炸药
-- 小米汽车回应新一代SU7提车时间问题
-- 国家统计局：中国1-2月份汽油产量2618.9万吨，同比增长1.3%。
-中国1-2月份煤油产量996.6万吨，同比增长9.6%。
-中国1-2月份柴油产量3147
 - 报道：特斯拉寻求从中国供应商采购价值29亿美元光伏生产设备
-- 巴西总统严厉批评美国对伊朗发动军事打击
 
 ## SCMP (EN/中)
 头版/首屏:
-- US federal debt becoming ‘alarmingly unsustainable’ as Iran war fuels spending
-- If the Iran war takes oil above US$120 a barrel, how bad could the shock get?
+- Can China broker peace for Iran again? 2023 was different, analysts say
+- Chinese analysts draw lessons from military decapitations in Iran, Venezuela
 - Diplomacy
 - Trump compares Iran attack to Pearl Harbour in otherwise positive Takaichi talks
-- Military
-- How long will US-Israel war on Iran last? Chinese analysts offer clues
-- Hearing on deadly Tai Po fire enters second day after revelations of human failings
+- Global Economy
+- US federal debt becoming ‘alarmingly unsustainable’ as Iran war fuels spending
+- Repeated complaints by residents ignored before deadly Tai Po fire, hearing told
 - Iran’s exiled prince Reza Pahlavi plans to flip the script on Beijing
 其他:
-- Washington’s rapid accumulation of sovereign debt sparks outcry, with some analysts questioning if Trump has the political will to cut the deficit.
+- Tehran has signalled a willingness for Beijing to act as a mediator in its escalating war against US and Israel.
 - Two leaders tout bilateral relationship and pledge to work cooperatively on trade.
-- Iran’s drones gaining edge as opponents burn through costly missiles, analysts note, as one labels the war a ‘serious mistake’ by US.
+- Washington’s rapid accumulation of sovereign debt sparks outcry, with some analysts questioning if Trump has the political will to cut the deficit.
 - Victor Dawes, lead barrister for committee overseeing the hearing, will continue his opening speech.
 - Science
 - Can China commercial satellite’s ‘octopus tentacle’ pass low-orbit refuel test?
 - Hukeda-2, with its flexible robotic arm designed to smoothly dock with target spacecraft, was launched on Monday, state media said.
-- Education
-- Why the slow progress for Hong Kong’s university town?
-- University leaders urge government to clarify how much land they will get in Northern Metropolis megaproject, saying talks with potential partners can’t move forward.
+- Military
+- How long will US-Israel war on Iran last? Chinese analysts offer clues
+- Iran’s drones gaining edge as opponents burn through costly missiles, analysts note, as one labels the war a ‘serious mistake’ by US.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -140,12 +138,12 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
+- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 加密货币: Benzinga (EN), SCMP (EN/中)
 - 美国关税: Benzinga (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
