@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032015
+抓取时间: 2026032017
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 5h 49m
-- Super Micro co-founder charged with sending AI tech to China
+- U.S. markets open in 3h 55m
+- US stock futures steady with weekly loss in view
+- Supermicro co-founder charged with sending AI tech to China
 - Private credit cracks flash 'yellow warning' for financial giants
-- Us stock futures climb as war with Iran, inflation jitters in focus
-- DOJ, White House clear way for Pirro to keep Powell probe going
-- OpenAI plans desktop app fusing chat, coding and web browser
-- Alibaba, Tencent shares lose $66 billion as AI vision falls flat
-- Retail's pivotal year: the structural reset defining 2026
+- Tesla in talks with Chinese firms to buy $2.9B worth of solar tech
+- Tegna pops after Nexstar seals TV merger despite states' lawsuit
+- Unilever confirms talks on McCormick offer for food business
+- Oil set for weekly surge as Mideast war heads toward fourth week
 其他:
 - $200 billion for the war in Iran? Trump calls it a 'small price to pay.'
-- Traders overwhelmed by Iran news are turning to AI for help
-- Gold set for worst week in six years as war curbs rate-cut bets
+- Alibaba, Tencent shares lose $66 billion as AI vision falls flat
+- White House, DOJ clear way to keep Powell probe going
+- Beijing-backed brain chip firm says it is 3 years behind Musk's Neuralink
+- US Yields Continue to Push Higher as Inflation Fears Persist
+- Copper and Aluminum Rise as US, Israel Try to Reassure on War
+- EU Leaders Face Multi-Year Energy Squeeze After Qatar Attack
+- Iran Keeps Striking Gulf as Israel Pledges to Spare Energy Sites
+- Oil dips but stays elevated as Goldman Sachs warns prices may top $100 through 2027
 - War in Iran threatens fresh food-price shock across developing world
-- Virgin Australia to adjust fares to reflect cost pressures
-- America started a war. The economic pain will be borne by countries that never asked for it
-- BTS concert in South Korea to herald stream of live events, Netflix says
-- China's Bank of Ningbo readies digital yuan business as Beijing expands e-CNY
-- Exclusive-Tesla in talks with Chinese firms to buy $2.9 billion worth of solar equipment, sources say
-- FCC approves $3.5 billion sale of Tegna to Nexstar despite state objections
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,11 +42,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- US-Iran War Updates March 20: Iran Warns Of 'Zero Restraint', First US Jet Hit And Qatar LNG Takes $20 Billion Blow
-- Intellicheck (IDN) Stock Jumps 15% After Hours: Here's What You Should Know
-- Will Stock Market Open Up Or Down On Friday?
-- Nvidia CEO Jensen Huang Explains Why AI Data Centers In Space Are Harder Than They Sound: 'It'll Take Years. It's OK. I Got Plenty Of Time'
-- Dow Declines 200 Points, Falls For A Second Day: Fear & Greed Index Remains In 'Extreme Fear' Zone
+- AleAnna Stock Surges Over 11% In Pre-Market As Iran War Drives Natural Gas Price Spike
+- 'Tip Of The Iceberg': Iran Mocks US As Pentagon Seeks $200 Billion More For War
+- Trump Says Lockheed Martin, Raytheon Are Building Like 'Never Seen Before,' Defends $200 Billion Pentagon Request
+- Why Planet Labs Shares Are Trading Higher By Around 17%; Here Are 20 Stocks Moving Premarket
+- Rivian's $1.25 Billion Uber Robotaxi Deal Looks Like A Big Win—But Some Analysts Say It's Actually A High-Stakes 'Test'
 - Bitcoin, XRP, Dogecoin Steady, While Ethereum Dips Amid Middle East Oil Crisis: Analyst Says BTC Approaching 'Potential Launchpad' For Next Bull Cycle
 - Scott Bessent
 - Oil Price
@@ -55,53 +55,51 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 字节超60亿美元出售沐瞳科技，进一步聚焦AI战略
-- 将直播间运营者、主播纳入监管 市场监管总局重拳整治假证书乱象
-- 市场监管总局：将深入了解外卖平台竞争行为 研究提出相应处置措施
-- 联合国：中东冲突使阿拉伯地区经济损失重大
-- 中国军方下周将与欧盟及北约会谈，有何期待？外交部回应
-- 将“数据”“算法”纳入保护范畴《商业秘密保护规定》聚焦这些重点
-- 交易员下调对英国央行加息押注，预计到年底将加息65个基点。
-- 欧洲央行管委兼法国央行行长Villeroy：现在看到伊朗冲突带来更大影响的风险。
-欧洲央行有能力在需要时采取充分行动。
-欧洲央行可能会比更新预测更频繁地调整情景
-- 新版《特种设备使用管理规则》发布 将于5月1日起正式施行
-- 市场监管总局：“3·15”曝光问题正依法从严从快查处
-- CCC标志试点改革已全面启动 明年3月1日起多类产品须“持码上岗”
-- 越南VN指数下跌3.3%至1,642.65。
+- 懂车帝据悉聘请花旗和高盛安排港股IPO事宜。（彭博）
+- 利通电子：廖某走私英伟达AI服务器售卖给公司的传闻不实
+- 上交所受理宇树科技股份有限公司科创板IPO申请，拟融资金额42.02亿元。
+- 商务部：对符合条件的从事入境消费服务的中小微企业贷款给予融资担保和贴息支持
+- 商务部：有序扩大单方面免签国家范围 持续优化过境免签政策
+- 英国国债长债走低，英国30年期国债收益率上行5个基点至5.49%。
+- 证监会等五部门：建立健全金融市场风险快速反应机制，稳妥应对市场异常波动、市场恐慌、流动性枯竭等重大风险
+- 广期所：调整铂、钯期货相关合约涨跌停板幅度及交易保证金标准
+- 证监会等五部门：央行会同国务院有关部门对金融市场实施宏观调控和管理 可视情形采取逆周期、跨周期调节等措施
+- 证监会等五部门：上市公司及关联人员损害投资者权益将依法承担赔偿责任
+- 证监会等五部门：推动资本市场协调发展 支持中长期资金入市
+- 国家发展改革委主任郑栅洁主持召开民营企业座谈会
 其他:
-- 外交部：中方欢迎印度新任驻华大使，期待两国关系持续改
-- 截至目前，南向资金净卖出超100亿港元。
-- 伊朗革命卫队称导弹生产“没有任何担忧”
-- 外交部：各方都有责任确保能源的供应稳定畅通
-- 外交部：中方将继续为停火止战奔走斡旋 早日还中东和平与稳定
-- 伊朗最高领袖发电文哀悼遇袭身亡的伊情报部长
-- 工商银行发布关于修订代理个人客户贵金属竞价交易业务协议并明确强平保证金比例的公告，其中提到，强平保证金比例暂按上海黄金交易所规定的最低交易保证金比例执行。
-- 美加速向中东部署数千海军陆战队员及水兵
-- 联合利华确认收到其食品业务的收购要约，并正与麦考密克公司进行谈判。
-- 摩根大通将使用技术工具监测初级银行家的工作时长
+- 上期所：做好进一步扩大合格境外投资者参与商品期货、期权交易范围有关事项
+- 远洋集团：预计2025年净利润60亿-75亿元
+- 上期所：进一步扩大合格境外投资者参与商品期货、期权交易范围
+- 2026年1-2月全国吸收外资1614.5亿元人民币
+- 美元兑日元日内涨超0.5%，现报158.50。
+- 金融法草案向社会公开征求意见
+- 河南新乡市人民检察院依法对释永信提起公诉
+- 中国证监会等五部门就《中华人民共和国金融法（草案）》公开征求意见
+- 小鹏汽车2025年第四季度首次实现季度盈利
+- 伊朗发起第67波打击
 
 ## SCMP (EN/中)
 头版/首屏:
-- NIH-awarded life scientist Shu Xiaokun abruptly shifts research from US to China
-- Things ‘I do not like’ led me to quit US for Hong Kong, top mathematician says
-- Global Economy
-- ‘Not easy’: Japan mulls building its own LNG carriers amid Iran energy crisis
+- Exclusive | Trump ally Steve Daines will be first US senator to visit Hong Kong since 2019
+- Open Questions | US ex-diplomat’s inside view on Trump-Xi summits
+- China Business
+- Chinese stocks shake laggard image amid oil shock as green transition pays off
 - Trump compares Iran attack to Pearl Harbour in otherwise positive Takaichi talks
-- Repeated complaints by residents ignored before deadly Tai Po fire, hearing told
+- Society
+- Complaints ignored before Tai Po fire, hearing learns on Day 2 – as it happened
 - How long will US-Israel war on Iran last? Chinese analysts offer clues
-- Diplomacy
 其他:
-- Celebrated scientist leaves prestigious role at University of California, San Francisco, months after being appointed, to move to Shanghai.
-- China and South Korea dominate global production of vessels for carrying natural gas, but Japan now sees industry as key to its energy security.
+- As Beijing and Washington negotiate new schedule for Trump’s visit, Daines is expected to meet US business leaders in Hong Kong on March 30.
+- China’s push into renewables helps shield its markets from the latest oil turmoil, with analysts pointing to limited downside risks.
 - Two leaders tout bilateral relationship and pledge to work cooperatively on trade.
 - Evidence shows complaints on flammable polyfoam boards bounced between departments, with no checks or follow-up action taken.
-- Can China broker peace for Iran again? 2023 was different, analysts say
-- Tehran has signalled a willingness for Beijing to act as a mediator in its escalating war against US and Israel.
-- US-China split on digital money deepens as stablecoin debate stalls Clarity Act
-- Crypto push for yield clashes with banks, slowing US legislation as China advances interest-bearing e-CNY on a different path.
-- Politics
-- Is Pakistan building ICBMs? Non-proliferation experts dispute US warning
+- China Economy
+- How China’s Hainan reinvented itself as Hong Kong’s rival – and partner
+- The island province has become a low-tax gateway and is ready to tap Hong Kong’s strengths in finance, research and other sectors, officials say.
+- Science
+- NIH-awarded life scientist Shu Xiaokun abruptly shifts research from US to China
+- Celebrated scientist leaves prestigious role at University of California, San Francisco, months after being appointed to move to Shanghai.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -118,9 +116,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25194.99-305.59(-1.20%)
+- 恒生指数25277.32-223.26(-0.88%)
                     etnet.com.hk@copyright
-- 国企指数8556.25-139.63(-1.61%)
+- 国企指数8574.07-121.81(-1.40%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -135,12 +133,12 @@
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中)
-- 加密货币: Benzinga (EN), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 经济通 (繁中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
 - 美国关税: Benzinga (EN)
+- 美联储: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
