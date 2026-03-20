@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032001
+抓取时间: 2026032011
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 2h 53m
-- Stocks sink, oil jumps as Iran war escalates
-- Fed reveals proposals for easing capital rules for banks
-- US weighs lifting Iran oil sanctions and second reserve release
-- Higher gas prices are recession worthy: Gary Cohn
-- Apple fends off bid for new Apple Watch import ban at US trade tribunal
-- Gold, silver, bitcoin crash as safe-haven luster fades following Fed decision
-- Mortgage rates jump further above 6% as Fed warns on inflation
+- U.S. markets closed
+- Private credit cracks flash 'yellow warning' for financial giants
+- DOJ, White House clear way for Pirro to keep Powell probe going
+- Us stock futures climb as war with Iran, inflation jitters in focus
+- Super Micro co-founder charged with sending AI tech to China
+- Retail's pivotal year: the structural reset defining 2026
+- Alibaba sets $100 billion target for AI revenue in five years
+- Traders overwhelmed by Iran news are turning to AI for help
 其他:
-- Oil soars as Iran war enters new phase
-- Financial stocks on pace for worst Q1 since 2020
-- Iran attacks energy sites, defying Trump calls for restraint
-- When will mortgage rates go down? Oil prices and inflation create uncertainty.
-- Mortgage rates climb to highest level in more than 3 months as Iran war reignites inflation fears
-- Oil and Gas Prices Jump as Strikes on Gulf Facilities Escalate
-- Cloud industry group calls for EU interim measure against Broadcom over VMware
-- Micron stock falls more than 4% despite Q2 earnings beat amid growth concerns
-- You can trade oil futures. What to know before you start.
-- Bonds Tumble Worldwide as Iran War Stokes Bets on Rate Hikes
+- $200 billion for the war in Iran? Trump calls it a 'small price to pay.'
+- Gold set for worst week in six years as war curbs rate-cut bets
+- Nvidia to sell 1 million chips to Amazon by end of 2027
+- Alibaba, Tencent Shares Lose $66 Billion as AI Vision Falls Flat
+- Netflix sees more prospects for live events in South Korea after BTS
+- China's Bank of Ningbo readies digital yuan business as Beijing expands e-CNY
+- Exclusive-Tesla in talks with Chinese firms to buy $2.9 billion worth of solar equipment, sources say
+- FCC approves $3.5 billion sale of Tegna to Nexstar despite state objections
+- AI Startup Yotta Seeks $4 Billion Valuation Ahead of Planned IPO
+- Nexstar says it has acquired Tegna as state AGs push to block the merger
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,79 +42,80 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Highly Short Stock Signet Jewelers Soars After Resilient Quarter
-- US National Debt Hits Record $39 Trillion ($113,616 Per Person!) And $40 Trillion Could Be Right Around The Corner
-- Strive Surpasses CleanSpark In Top 10 Bitcoin Treasury Rankings After Adding 317 BTC
-- Stuart Weitzman-Parent Caleres Stock Pops As E-Commerce Strength Drives Growth
-- What's Behind The Drop In Reviva Pharmaceuticals Stock?
-- Gold Eyes Worst Month Against Oil Since 1973; Mining Stocks Slump Most Since 2008
-- Prediction Markets
-- Jerome Powell
+- Nvidia To Deliver 1 Million AI Chips To Amazon Web Services By 2027 In Massive Multi-Chip Deal Set To Supercharge Inference And Cloud Computing
+- AXT Inc Stock Is Trending On Thursday After Surging Over 19%: Here's Why
+- Elon Musk Appears As 'The Dogefather' While Petting A Shiba Inu In AI Video, Discusses DOGE's Wedding And Private Keys
+- Jeff Bezos Reportedly Seeks $100 Billion To Supercharge AI-Driven Automation, Bernie Sanders Says 'Oligarchs Waging All Out War Against Workers'
+- Sarah Huckabee Sanders Says Arkansas Restaurant Staff Asked Her To Leave After Employees Felt 'Threatened' By Her Presence
+- Bitcoin, XRP, Dogecoin Steady, While Ethereum Dips Amid Middle East Oil Crisis: Analyst Says BTC Approaching 'Potential Launchpad' For Next Bull Cycle
+- Scott Bessent
 - Oil Price
 - Jensen Huang
+- Donald Trump
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 专家：美国禁止石油出口可能会扰乱全球市场
-- 白宫官员：美国暂无计划禁止石油和天然气出口
-- 美国财政部拍卖190亿美元10年期通胀保值国债（TIPS），得标利率1.896%（1月22日为1.940%），投标倍数2.47（前次为2.38）。
-- 国际铜夜盘收跌1.06%，沪铜收跌0.91%，沪铝收跌2.53%，沪锌收跌0.28%，沪铅收跌0.72%，沪镍收涨0.95%，沪锡收跌2.31%。
-氧化铝夜盘收
-- 周四（3月19日）欧市尾盘，ICE英国天然气期货涨10.72%，报154.400便士/千卡，北京时间15:07涨至180.000便士刷新日高，随后逐步回吐涨幅。
-- 数字货币市场跌超2%，以太币跌超3.4%
-- 伊朗启动“真实承诺-4”第65轮军事行动
-- 土耳其外长：以色列是此轮地区冲突首要肇事者
-- 明晟公司MSCI北欧国家指数跌2.9%，创2025年7月29日（当天收跌4.3%）以来最差单日表现，报364.19点。
-在十个板块中，北欧工业板块跌幅最大。
-博
-- 德国DAX 30指数初步收跌2.53%，报22907.91点。
-法国股指初步收跌1.73%，意大利股指初步收跌2.29%、银行指数跌3.34%，英国股指初步收跌
-- 欧洲STOXX 600指数初步收跌2.28%，报584.27点。
-欧元区STOXX 50指数初步收跌1.97%，报5624.41点。
-富时泛欧绩优300指数初步
-- 报道：欧洲央行要求银行识别重大风险转移（SRT）交易中的杠杆提供方
+- 也门胡塞武装称可能封锁曼德海峡
+- 印度股指Nifty和Sensex指数均涨1%。
+- 中国财政部发行3年期债券，规模1750亿元，发行利率1.2878%，边际利率1.3212%，预期1.3300%，投标倍数2.77倍，边际倍数1.13倍；
+中国财
+- 特斯拉计划采购中国光伏设备？企业回应：确有此事
+- 印度卢比兑美元触及历史低点92.9138。
+- 上证指数早盘收报4013.16点，涨0.16%。
+深证成指早盘收报14119.88点，涨1.57%。
+创业板指早盘收报3418.37点，涨3.30%。
+沪深30
+- 3月20日午间收评：创业板指半日涨3.3%，算力硬件、光伏板块集体走强
+- 国债期货早盘收盘，30年期主力合约跌0.43%，10年期主力合约跌0.09%，5年期主力合约跌0.05%，2年期主力合约跌0.02%。
+- 创业板指涨超3%，沪指转涨
+- 高盛：预计英国央行在整个2026年将维持利率不变，此前预测为从7月起每季度降息一次。
+预计货币政策委员会（MPC）将在2027年逐渐下调利率，最终目标利率为3%
+- “沪七条”政策效果不断显现，上海楼市迎来企稳迹象
+- 泰国股指SET指数日内涨幅扩大至1.3%。
 其他:
-- 【特朗普称已告知以色列：勿攻击伊朗境内能源设施】当地时间19日，美国总统特朗普称，已告知以色列总理内塔尼亚胡不要攻击伊朗境内的能源设施。
-当被问及是否打算解除对
-- 美国总统特朗普暗示，司法部应该继续调查美联储主席鲍威尔。
-这恐怕会让凯文·沃什的美联储主席提名资格在参议院获得确认的前景变得错综复杂。（CNBC）
-- 欧盟委员会：供应安全取决于（中东）冲突的持续时间。
-- 报道：欧洲央行官员认为最早4月会议有可能加息
-- 以色列海法遭伊朗导弹袭击 一炼油厂受损，部分地区停电
-- 美国总统特朗普谈及美联储主席鲍威尔，宣称：他因建筑成本超支问题而正在接受调查。
-- 中东股市收盘播报｜周四（3月19日），土耳其伊斯坦布尔证交所全国100指数收跌0.51%，报13047.72点，交易提前至北京时间17:35结束（通常在23:0
-- 美国四季度家庭净值变动 21730亿美元，前值 60640亿美元。
-- 花旗提供1亿英镑给MFS的Raja投资的贷款机构。
-- 美国抵押贷款利率升至三个月高点，春季购房季前景承压
+- 隔夜SHIBOR报1.3190%，下降0.20个基点。
+7天SHIBOR报1.4170%，下降0.60个基点。
+3个月SHIBOR报1.5220%，下降0.60
+- 现货黄金重返4700美元关口上方，日内涨1.1%。
+- 欧盟峰会紧急聚焦能源问题，内部分歧明显
+- 伊朗伊斯兰革命卫队：美“福特”号航母撤离反映美以真实处境
+- 姚来英任国家烟草专卖局党组书记
+- 因担心美国动武，丹麦曾向格陵兰岛运送炸药
+- 小米汽车回应新一代SU7提车时间问题
+- 国家统计局：中国1-2月份汽油产量2618.9万吨，同比增长1.3%。
+中国1-2月份煤油产量996.6万吨，同比增长9.6%。
+中国1-2月份柴油产量3147
+- 报道：特斯拉寻求从中国供应商采购价值29亿美元光伏生产设备
+- 巴西总统严厉批评美国对伊朗发动军事打击
 
 ## SCMP (EN/中)
 头版/首屏:
-- Survey shows China’s professionals have high expectations – for low pay
-- Demand for AI talent in China outpaces other ‘new-economy’ sectors
-- Diplomacy
-- ‘Severely damaged’: how the US-Israel war on Iran is decoupling Gulf security
-- Science
-- Liu Guozhi, once top PLA scientist, wiped off Chinese Academy of Sciences site
-- Society
-- Deadly Tai Po fire revealed ‘unacceptable systemic failings’, inquiry hears
-其他:
-- As some Chinese workers switch jobs to boost salaries, many remain pessimistic about pay increases amid economic uncertainty.
-- As confidence in America’s defence guarantee erodes, Gulf states are now weighing a more multifaceted strategy, analysts say.
-- High-power microwave weapon expert was elected to the nation’s top scientific body in 2009.
-- Six ‘human factors’ led to almost complete failure of fire safety measures at Wang Fuk Court, independent committee told at first session.
-- A troubled US warship is moving away from Iran. Does it reflect bigger problems?
-- China offers to work with Southeast Asia to secure energy supplies
-- Conflict has also hit global fertiliser supplies, prompting Manila to seek assurances that Beijing would continue exports.
-- Global Economy
+- US federal debt becoming ‘alarmingly unsustainable’ as Iran war fuels spending
 - If the Iran war takes oil above US$120 a barrel, how bad could the shock get?
-- With major energy assets now coming under attack and the Strait of Hormuz still closed, analysts fear a longer supply shock.
+- Diplomacy
+- Trump compares Iran attack to Pearl Harbour in otherwise positive Takaichi talks
+- Military
+- How long will US-Israel war on Iran last? Chinese analysts offer clues
+- Hearing on deadly Tai Po fire enters second day after revelations of human failings
+- Iran’s exiled prince Reza Pahlavi plans to flip the script on Beijing
+其他:
+- Washington’s rapid accumulation of sovereign debt sparks outcry, with some analysts questioning if Trump has the political will to cut the deficit.
+- Two leaders tout bilateral relationship and pledge to work cooperatively on trade.
+- Iran’s drones gaining edge as opponents burn through costly missiles, analysts note, as one labels the war a ‘serious mistake’ by US.
+- Victor Dawes, lead barrister for committee overseeing the hearing, will continue his opening speech.
+- Science
+- Can China commercial satellite’s ‘octopus tentacle’ pass low-orbit refuel test?
+- Hukeda-2, with its flexible robotic arm designed to smoothly dock with target spacecraft, was launched on Monday, state media said.
+- Education
+- Why the slow progress for Hong Kong’s university town?
+- University leaders urge government to clarify how much land they will get in Northern Metropolis megaproject, saying talks with potential partners can’t move forward.
 
 ## 经济通 (繁中)
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
-- 拟减回购增AI投资遭大行降目标，腾讯股价急跌半成
-- 库克现身成都 庆祝苹果50周年
-- 伊证拉里贾尼死讯 集束弹袭以报复
+- 美息不变鲍公放鹰今年或仅减息一次，地产银行股齐下挫
+- 黄金迈“猴市” 多间银行限个人炒金
+- 美倘达3大目标 特朗普料宣告胜利
 - “龙虾”未冷“果蝇”又至，AI终极竟是原点？
 - 指数环球商品外汇
 - 国金观点
@@ -124,9 +125,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25500.58-524.84(-2.02%)
+- 恒生指数25419.68-80.90(-0.32%)
                     etnet.com.hk@copyright
-- 国企指数8695.88-139.62(-1.58%)
+- 国企指数8641.50-54.38(-0.63%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -139,15 +140,14 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 加密货币: Benzinga (EN), SCMP (EN/中)
 - 美国关税: Benzinga (EN)
-- 就业数据: SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---

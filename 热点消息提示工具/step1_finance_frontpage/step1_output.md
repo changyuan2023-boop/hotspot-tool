@@ -3,28 +3,31 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 2h 53m | Stocks sink, oil jumps as Iran war escalates | Fed reveals proposals for easing capital rules for banks | US weighs lifting Iran oil sanctions and second reserve release
-  - 其他: Oil soars as Iran war enters new phase | Financial stocks on pace for worst Q1 since 2020 | Iran attacks energy sites, defying Trump calls for restraint | When will mortgage rates go down? Oil prices and inflation create uncertainty. | Mortgage rates climb to highest level in more than 3 months as Iran war reignites inflation fears
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Private credit cracks flash 'yellow warning' for financial giants | DOJ, White House clear way for Pirro to keep Powell probe going | Us stock futures climb as war with Iran, inflation jitters in focus
+  - 其他: $200 billion for the war in Iran? Trump calls it a 'small price to pay.' | Gold set for worst week in six years as war curbs rate-cut bets | Nvidia to sell 1 million chips to Amazon by end of 2027 | Alibaba, Tencent Shares Lose $66 Billion as AI Vision Falls Flat | Netflix sees more prospects for live events in South Korea after BTS
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Highly Short Stock Signet Jewelers Soars After Resilient Quarter | US National Debt Hits Record $39 Trillion ($113,616 Per Person!) And $40 Trillion Could Be Right Around The Corner | Strive Surpasses CleanSpark In Top 10 Bitcoin Treasury Rankings After Adding 317 BTC | Stuart Weitzman-Parent Caleres Stock Pops As E-Commerce Strength Drives Growth | What's Behind The Drop In Reviva Pharmaceuticals Stock?
+  - 其他: Nvidia To Deliver 1 Million AI Chips To Amazon Web Services By 2027 In Massive Multi-Chip Deal Set To Supercharge Inference And Cloud Computing | AXT Inc Stock Is Trending On Thursday After Surging Over 19%: Here's Why | Elon Musk Appears As 'The Dogefather' While Petting A Shiba Inu In AI Video, Discusses DOGE's Wedding And Private Keys | Jeff Bezos Reportedly Seeks $100 Billion To Supercharge AI-Driven Automation, Bernie Sanders Says 'Oligarchs Waging All Out War Against Workers' | Sarah Huckabee Sanders Says Arkansas Restaurant Staff Asked Her To Leave After Employees Felt 'Threatened' By Her Presence
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 专家：美国禁止石油出口可能会扰乱全球市场 | 白宫官员：美国暂无计划禁止石油和天然气出口 | 美国财政部拍卖190亿美元10年期通胀保值国债（TIPS），得标利率1.896%（1月22日为1.940%），投标倍数2.47（前次为2.38）。 | 国际铜夜盘收跌1.06%，沪铜收跌0.91%，沪铝收跌2.53%，沪锌收跌0.28%，沪铅收跌0.72%，沪镍收涨0.95%，沪锡收跌2.31%。
-氧化铝夜盘收 | 周四（3月19日）欧市尾盘，ICE英国天然气期货涨10.72%，报154.400便士/千卡，北京时间15:07涨至180.000便士刷新日高，随后逐步回吐涨幅。 | 数字货币市场跌超2%，以太币跌超3.4% | 伊朗启动“真实承诺-4”第65轮军事行动 | 土耳其外长：以色列是此轮地区冲突首要肇事者
-  - 其他: 【特朗普称已告知以色列：勿攻击伊朗境内能源设施】当地时间19日，美国总统特朗普称，已告知以色列总理内塔尼亚胡不要攻击伊朗境内的能源设施。
-当被问及是否打算解除对 | 美国总统特朗普暗示，司法部应该继续调查美联储主席鲍威尔。
-这恐怕会让凯文·沃什的美联储主席提名资格在参议院获得确认的前景变得错综复杂。（CNBC） | 欧盟委员会：供应安全取决于（中东）冲突的持续时间。 | 报道：欧洲央行官员认为最早4月会议有可能加息 | 以色列海法遭伊朗导弹袭击 一炼油厂受损，部分地区停电
+  - 头版/首屏: 也门胡塞武装称可能封锁曼德海峡 | 印度股指Nifty和Sensex指数均涨1%。 | 中国财政部发行3年期债券，规模1750亿元，发行利率1.2878%，边际利率1.3212%，预期1.3300%，投标倍数2.77倍，边际倍数1.13倍；
+中国财 | 特斯拉计划采购中国光伏设备？企业回应：确有此事 | 印度卢比兑美元触及历史低点92.9138。 | 上证指数早盘收报4013.16点，涨0.16%。
+深证成指早盘收报14119.88点，涨1.57%。
+创业板指早盘收报3418.37点，涨3.30%。
+沪深30 | 3月20日午间收评：创业板指半日涨3.3%，算力硬件、光伏板块集体走强 | 国债期货早盘收盘，30年期主力合约跌0.43%，10年期主力合约跌0.09%，5年期主力合约跌0.05%，2年期主力合约跌0.02%。
+  - 其他: 隔夜SHIBOR报1.3190%，下降0.20个基点。
+7天SHIBOR报1.4170%，下降0.60个基点。
+3个月SHIBOR报1.5220%，下降0.60 | 现货黄金重返4700美元关口上方，日内涨1.1%。 | 欧盟峰会紧急聚焦能源问题，内部分歧明显 | 伊朗伊斯兰革命卫队：美“福特”号航母撤离反映美以真实处境 | 姚来英任国家烟草专卖局党组书记
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Survey shows China’s professionals have high expectations – for low pay | Demand for AI talent in China outpaces other ‘new-economy’ sectors | Diplomacy | ‘Severely damaged’: how the US-Israel war on Iran is decoupling Gulf security | Science | Liu Guozhi, once top PLA scientist, wiped off Chinese Academy of Sciences site | Society | Deadly Tai Po fire revealed ‘unacceptable systemic failings’, inquiry hears
-  - 其他: As some Chinese workers switch jobs to boost salaries, many remain pessimistic about pay increases amid economic uncertainty. | As confidence in America’s defence guarantee erodes, Gulf states are now weighing a more multifaceted strategy, analysts say. | High-power microwave weapon expert was elected to the nation’s top scientific body in 2009. | Six ‘human factors’ led to almost complete failure of fire safety measures at Wang Fuk Court, independent committee told at first session. | A troubled US warship is moving away from Iran. Does it reflect bigger problems?
+  - 头版/首屏: US federal debt becoming ‘alarmingly unsustainable’ as Iran war fuels spending | If the Iran war takes oil above US$120 a barrel, how bad could the shock get? | Diplomacy | Trump compares Iran attack to Pearl Harbour in otherwise positive Takaichi talks | Military | How long will US-Israel war on Iran last? Chinese analysts offer clues | Hearing on deadly Tai Po fire enters second day after revelations of human failings | Iran’s exiled prince Reza Pahlavi plans to flip the script on Beijing
+  - 其他: Washington’s rapid accumulation of sovereign debt sparks outcry, with some analysts questioning if Trump has the political will to cut the deficit. | Two leaders tout bilateral relationship and pledge to work cooperatively on trade. | Iran’s drones gaining edge as opponents burn through costly missiles, analysts note, as one labels the war a ‘serious mistake’ by US. | Victor Dawes, lead barrister for committee overseeing the hearing, will continue his opening speech. | Science
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 拟减回购增AI投资遭大行降目标，腾讯股价急跌半成 | 库克现身成都 庆祝苹果50周年 | 伊证拉里贾尼死讯 集束弹袭以报复 | “龙虾”未冷“果蝇”又至，AI终极竟是原点？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25500.58-524.84(-2.02%)
-                    etnet.com.hk@copyright | 国企指数8695.88-139.62(-1.58%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 美息不变鲍公放鹰今年或仅减息一次，地产银行股齐下挫 | 黄金迈“猴市” 多间银行限个人炒金 | 美倘达3大目标 特朗普料宣告胜利 | “龙虾”未冷“果蝇”又至，AI终极竟是原点？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25419.68-80.90(-0.32%)
+                    etnet.com.hk@copyright | 国企指数8641.50-54.38(-0.63%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
@@ -32,15 +35,14 @@
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中) (4 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中) (4 站)
 - **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **加密货币** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
 - **美国关税（15%等）** — 出现于: Benzinga (EN) (1 站)
-- **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、重要性结论（综合头版+多站+股市相关）
@@ -51,7 +53,6 @@
 - **美国 15% 全球关税**：财长称本周或落地，影响贸易与通胀预期。
 - **油价/霍尔木兹海峡**：特朗普护航表态后美油转跌，航运与能源股敏感。
 - **加密货币**：比特币破 7 万、Coinbase 等个股大涨，多站提及。
-- **就业数据**：ADP 等超预期，支撑美股与利率预期。
 
 ### 重要（头版或单站重点）
 
