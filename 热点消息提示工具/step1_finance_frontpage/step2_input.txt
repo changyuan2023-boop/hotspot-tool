@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032017
+抓取时间: 2026032019
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 3h 55m
-- US stock futures steady with weekly loss in view
+- U.S. markets open in 2h 5m
+- Iran keeps striking Gulf as Israel pledges to spare energy sites
 - Supermicro co-founder charged with sending AI tech to China
+- $200 billion for the war in Iran? Trump calls it a 'small price to pay.'
+- Robotaxi players have wildly different problems, but the same goal
+- Wall Street faces $5.7T triple-witching jolt on Friday
 - Private credit cracks flash 'yellow warning' for financial giants
+- US yields continue to push higher as inflation fears persist
+其他:
+- Stock futures sink as Trump said to eye Kharg takeover
 - Tesla in talks with Chinese firms to buy $2.9B worth of solar tech
 - Tegna pops after Nexstar seals TV merger despite states' lawsuit
-- Unilever confirms talks on McCormick offer for food business
-- Oil set for weekly surge as Mideast war heads toward fourth week
-其他:
-- $200 billion for the war in Iran? Trump calls it a 'small price to pay.'
-- Alibaba, Tencent shares lose $66 billion as AI vision falls flat
-- White House, DOJ clear way to keep Powell probe going
-- Beijing-backed brain chip firm says it is 3 years behind Musk's Neuralink
-- US Yields Continue to Push Higher as Inflation Fears Persist
-- Copper and Aluminum Rise as US, Israel Try to Reassure on War
-- EU Leaders Face Multi-Year Energy Squeeze After Qatar Attack
-- Iran Keeps Striking Gulf as Israel Pledges to Spare Energy Sites
-- Oil dips but stays elevated as Goldman Sachs warns prices may top $100 through 2027
-- War in Iran threatens fresh food-price shock across developing world
+- Factbox-Airlines cancel more flights as Middle East conflict escalates
+- Oil rises to $110. Goldman Sachs says we’ll be in the triple digits for years
+- Rising gas prices hitting US household finances and more pain is expected, Reuters/Ipsos poll finds
+- Analysis-US airlines lean on demand, fares as Iran war rattles overseas peers
+- Exclusive-Amazon plans smartphone comeback more than a decade after Fire Phone flop
+- Morning Brief: Deescalation hopes amid surging oil
+- Your tax refund is likely bigger this year. But Trump’s war with Iran could take a bite out of it
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,12 +42,12 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- AleAnna Stock Surges Over 11% In Pre-Market As Iran War Drives Natural Gas Price Spike
-- 'Tip Of The Iceberg': Iran Mocks US As Pentagon Seeks $200 Billion More For War
-- Trump Says Lockheed Martin, Raytheon Are Building Like 'Never Seen Before,' Defends $200 Billion Pentagon Request
-- Why Planet Labs Shares Are Trading Higher By Around 17%; Here Are 20 Stocks Moving Premarket
-- Rivian's $1.25 Billion Uber Robotaxi Deal Looks Like A Big Win—But Some Analysts Say It's Actually A High-Stakes 'Test'
-- Bitcoin, XRP, Dogecoin Steady, While Ethereum Dips Amid Middle East Oil Crisis: Analyst Says BTC Approaching 'Potential Launchpad' For Next Bull Cycle
+- Medicare Chief Chris Klomp Optimistic On CDC Director Search As Vaccine Fight Roils Agency— 'We Will Select...'
+- What's Going On With Dorian LPG Stock Friday?
+- XPeng Sounds Alarm On China EV Demand With Disappointing Outlook
+- Tesla In Talks To Purchase $2.9 Billion Worth Of Solar Equipment From Chinese Suppliers: Report
+- US-Iran War Updates March 20: IRGC Spokesman Killed In Missile Strike, Israel's Haifa Refinery Facility Struck (UPDATED)
+- Stock Market Today: S&P 500, Dow Futures Down Ahead Of 'Triple Witching' As Iran Warns Of 'Zero Restraint'—FedEx, Super Micro Computer In Focus
 - Scott Bessent
 - Oil Price
 - Jensen Huang
@@ -55,51 +55,51 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 懂车帝据悉聘请花旗和高盛安排港股IPO事宜。（彭博）
-- 利通电子：廖某走私英伟达AI服务器售卖给公司的传闻不实
-- 上交所受理宇树科技股份有限公司科创板IPO申请，拟融资金额42.02亿元。
-- 商务部：对符合条件的从事入境消费服务的中小微企业贷款给予融资担保和贴息支持
-- 商务部：有序扩大单方面免签国家范围 持续优化过境免签政策
-- 英国国债长债走低，英国30年期国债收益率上行5个基点至5.49%。
-- 证监会等五部门：建立健全金融市场风险快速反应机制，稳妥应对市场异常波动、市场恐慌、流动性枯竭等重大风险
-- 广期所：调整铂、钯期货相关合约涨跌停板幅度及交易保证金标准
-- 证监会等五部门：央行会同国务院有关部门对金融市场实施宏观调控和管理 可视情形采取逆周期、跨周期调节等措施
-- 证监会等五部门：上市公司及关联人员损害投资者权益将依法承担赔偿责任
-- 证监会等五部门：推动资本市场协调发展 支持中长期资金入市
-- 国家发展改革委主任郑栅洁主持召开民营企业座谈会
+- 首创证券：2025年净利润10.56亿元，同比增长7.26%。
+- 外交部：日方如果真心想改善中日关系 就应认真反思纠偏
+- 商务部新闻发言人就墨西哥经济部高官有关言论答记者问
+- 李强对全国春季农业生产工作作出重要批示强调，高水平保障粮食等重要农产品稳定安全供给，为实现“十五五”良好开局提供有力支撑。（央视）
+- 优刻得：拟定增募资不超过15亿元，用于优刻得乌兰察布智算中心及智算集群建设运营项目。
+- 鹏鹞环保：收到江苏省无锡市人民检察院《起诉书》与江苏省无锡市中级人民法院《传票》，实控人王洪春先生因涉嫌内幕交易罪被提起公诉。
+- 美国能源部长赖特：解除制裁的伊朗原油将在30-45天内被吸收。
+- 广汽36亿参建国内首个空域试验场投用，旗下飞行汽车同步首飞
+- 我国牵头的两项交流电动机电容器国际标准立项
+- 英国3月CBI工业物价预期差值 12，预期 29，前值 26。
+- 英国3月CBI工业订单差值 -27，预期 -30，前值 -28。
+- *ST奥维：因公司涉嫌信息披露违法违规，中国证监会决定对公司立案。
 其他:
-- 上期所：做好进一步扩大合格境外投资者参与商品期货、期权交易范围有关事项
-- 远洋集团：预计2025年净利润60亿-75亿元
-- 上期所：进一步扩大合格境外投资者参与商品期货、期权交易范围
-- 2026年1-2月全国吸收外资1614.5亿元人民币
-- 美元兑日元日内涨超0.5%，现报158.50。
-- 金融法草案向社会公开征求意见
-- 河南新乡市人民检察院依法对释永信提起公诉
-- 中国证监会等五部门就《中华人民共和国金融法（草案）》公开征求意见
-- 小鹏汽车2025年第四季度首次实现季度盈利
-- 伊朗发起第67波打击
+- 英国国债跌幅扩大，10年期收益率上涨11个基点至4.95%。
+- 南京：进一步鼓励住房消费“以旧换新”
+- 中信银行：2025年净利润706.18亿元，同比增长2.98%；每10股派发现金股息1.93元人民币。
+- 伊朗说对以方加油机停放地点发动无人机打击
+- 江瀚新材：公司对产品销售报价作了调整，普遍涨幅在20%-40%
+- 西安：推进大数据、5G和北斗卫星导航系统等新型基础设施建设 支持物流数智化基础设施建设
+- 西安：到2027年底20个重大物流基础设施项目和物流设施设备更新改造项目建成投用
+- 美国多州联合起诉特朗普政府撤销气候危害认定
+- 伊朗重申没有与美国谈判的计划
+- 伊朗外长警告：若英军基地被美方使用将被视为“参与侵略”
 
 ## SCMP (EN/中)
 头版/首屏:
+- Strait of Hormuz tensions rise as Iran reportedly charges ships for safe passage
+- Red Sea fix? China-bound oil tankers tap Saudi plan to dodge Strait of Hormuz
+- Politics
 - Exclusive | Trump ally Steve Daines will be first US senator to visit Hong Kong since 2019
-- Open Questions | US ex-diplomat’s inside view on Trump-Xi summits
-- China Business
-- Chinese stocks shake laggard image amid oil shock as green transition pays off
-- Trump compares Iran attack to Pearl Harbour in otherwise positive Takaichi talks
+- Trump’s Pearl Harbour ‘joke’ falls flat in Japan, Takaichi praised for response
 - Society
-- Complaints ignored before Tai Po fire, hearing learns on Day 2 – as it happened
+- Day 2 of Tai Po fire hearing sheds light on potential corruption – as it happened
 - How long will US-Israel war on Iran last? Chinese analysts offer clues
 其他:
+- Around 20,000 seafarers are still stuck in the Gulf as Tehran reportedly charges at least one tanker about US$2 million to pass through the strait.
 - As Beijing and Washington negotiate new schedule for Trump’s visit, Daines is expected to meet US business leaders in Hong Kong on March 30.
-- China’s push into renewables helps shield its markets from the latest oil turmoil, with analysts pointing to limited downside risks.
-- Two leaders tout bilateral relationship and pledge to work cooperatively on trade.
-- Evidence shows complaints on flammable polyfoam boards bounced between departments, with no checks or follow-up action taken.
+- As Japan faces pressure over the Iran war, Takaichi has been commended for steering her meeting with Trump towards trade deals.
+- Lead barrister for independent committee discusses potential corruption during tendering process, among other issues.
+- Chongqing mayor under investigation as anti-corruption crackdown gathers pace
+- Hu Henghua is the highest-ranking official to fall from grace in the southwestern megacity in nearly a decade.
 - China Economy
 - How China’s Hainan reinvented itself as Hong Kong’s rival – and partner
 - The island province has become a low-tax gateway and is ready to tap Hong Kong’s strengths in finance, research and other sectors, officials say.
-- Science
-- NIH-awarded life scientist Shu Xiaokun abruptly shifts research from US to China
-- Celebrated scientist leaves prestigious role at University of California, San Francisco, months after being appointed to move to Shanghai.
+- China Business
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -134,11 +134,11 @@
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 经济通 (繁中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), 经济通 (繁中)
+- 美联储: Yahoo Finance (EN), Benzinga (EN)
 - 美国关税: Benzinga (EN)
-- 美联储: Yahoo Finance (EN)
+- 加密货币: SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
