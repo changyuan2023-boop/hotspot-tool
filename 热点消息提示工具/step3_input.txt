@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032014
+抓取时间: 2026032015
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,7 +44,7 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 7h 20m
+- U.S. markets open in 5h 49m
 - Super Micro co-founder charged with sending AI tech to China
 - Private credit cracks flash 'yellow warning' for financial giants
 - Us stock futures climb as war with Iran, inflation jitters in focus
@@ -56,13 +56,13 @@
 - $200 billion for the war in Iran? Trump calls it a 'small price to pay.'
 - Traders overwhelmed by Iran news are turning to AI for help
 - Gold set for worst week in six years as war curbs rate-cut bets
+- War in Iran threatens fresh food-price shock across developing world
 - Virgin Australia to adjust fares to reflect cost pressures
 - America started a war. The economic pain will be borne by countries that never asked for it
-- Netflix says BTS concert in South Korea could herald stream of live events
+- BTS concert in South Korea to herald stream of live events, Netflix says
 - China's Bank of Ningbo readies digital yuan business as Beijing expands e-CNY
 - Exclusive-Tesla in talks with Chinese firms to buy $2.9 billion worth of solar equipment, sources say
 - FCC approves $3.5 billion sale of Tegna to Nexstar despite state objections
-- AI Startup Yotta Seeks $4 Billion Valuation Ahead of Planned IPO
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,11 +77,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- FedEx, Planet Labs And 3 Stocks To Watch Heading Into Friday
-- Why Torrid Holdings (CURV) Stock Surged 20% After Hours
-- Gemini, Winklevoss Twins Sued By Investors For 'False' IPO Claims, Operational Shifts — Crypto Exchange's Q4 Loss Deepens
-- Azitra Inc. (AZTR) Surges Over 44% After Hours— Here's Why It's Trending
-- Anthony Scaramucci Quotes 'Dodgeball' To Blast Trump's 'Bold Strategy' Of Lifting Iranian Oil Sanctions Amid US-Israeli Attacks
+- US-Iran War Updates March 20: Iran Warns Of 'Zero Restraint', First US Jet Hit And Qatar LNG Takes $20 Billion Blow
+- Intellicheck (IDN) Stock Jumps 15% After Hours: Here's What You Should Know
+- Will Stock Market Open Up Or Down On Friday?
+- Nvidia CEO Jensen Huang Explains Why AI Data Centers In Space Are Harder Than They Sound: 'It'll Take Years. It's OK. I Got Plenty Of Time'
+- Dow Declines 200 Points, Falls For A Second Day: Fear & Greed Index Remains In 'Extreme Fear' Zone
 - Bitcoin, XRP, Dogecoin Steady, While Ethereum Dips Amid Middle East Oil Crisis: Analyst Says BTC Approaching 'Potential Launchpad' For Next Bull Cycle
 - Scott Bessent
 - Oil Price
@@ -90,54 +90,51 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 《光伏组件安全要求》等两项强制性国家标准座谈会在京召开
-- 贾国龙起家的西贝首店将“关闭一半”
-- 摩根士丹利：预计英国央行将在2026年维持利率不变；此前预测为今年4月和11月各降息一次，2027年2月再降息一次。
-- 重庆市委副书记、市长胡衡华被查
-- 国际能源署：针对中东供应中断，提出缓解消费者油价压力的多项措施。
-建议在可能的情况下居家办公，以缓解消费者所承受的油价压力。
-建议将高速公路限速至少降低10公里
-- 前2个月我国邮政行业寄递业务量超330亿件
-- 巴克莱预计欧洲央行将在2026年4月和6月各加息25个基点，此前预测维持利率不变。
-- 摩根大通将使用技术工具监测初级银行家的工作时长
-- 腾讯张军：QClaw正式开启全量公测
-- 摩根士丹利：预计欧洲央行将在2026年6月和9月分别加息25个基点，此前预测今年维持利率不变。
-面对较低的经济增长，预计欧洲央行可能会在2027年6月和9月再次
-- 韩国一工厂发生火灾已致50人受伤
-- 摩根大通：预计欧洲央行将在2026年4月和7月加息，此前预测为全年维持利率不变。
-一旦通胀第二轮效应风险消失，欧洲央行有理由反向解除紧缩。
-目前，我们仅初步预计
+- 字节超60亿美元出售沐瞳科技，进一步聚焦AI战略
+- 将直播间运营者、主播纳入监管 市场监管总局重拳整治假证书乱象
+- 市场监管总局：将深入了解外卖平台竞争行为 研究提出相应处置措施
+- 联合国：中东冲突使阿拉伯地区经济损失重大
+- 中国军方下周将与欧盟及北约会谈，有何期待？外交部回应
+- 将“数据”“算法”纳入保护范畴《商业秘密保护规定》聚焦这些重点
+- 交易员下调对英国央行加息押注，预计到年底将加息65个基点。
+- 欧洲央行管委兼法国央行行长Villeroy：现在看到伊朗冲突带来更大影响的风险。
+欧洲央行有能力在需要时采取充分行动。
+欧洲央行可能会比更新预测更频繁地调整情景
+- 新版《特种设备使用管理规则》发布 将于5月1日起正式施行
+- 市场监管总局：“3·15”曝光问题正依法从严从快查处
+- CCC标志试点改革已全面启动 明年3月1日起多类产品须“持码上岗”
+- 越南VN指数下跌3.3%至1,642.65。
 其他:
-- 中国台湾证交所加权股价指数收低0.4%报33,543.88点。
-- 郑商所锰硅主力合约大涨6%，报6566元/吨。
-- 伊朗称能持续生产导弹
-- 恒生科技指数持续走低，现跌2%，小米集团跌超7%，阿里巴巴跌超6%，小鹏汽车跌近5%。
-- 傅盛深夜开骂，称周鸿祎欠钱不还，360回应
-- A股算力租赁板块午后短线走低，协创数据午后闪崩跌超17%，东方国信跌超10%，利通电力、宏景科技、大位科技跌幅居前。
-- 欧盟谴责以色列单方面扩大在约旦河西岸行动
-- A股锂矿概念快速回暖，赣锋锂业逼近涨停，大中矿业涨超8%，天华新能、盐湖股份、川能动力、国城矿业跟涨。
-- 世卫组织：正在为应对中东可能发生的核污染做准备
-- 早间要闻汇总
+- 外交部：中方欢迎印度新任驻华大使，期待两国关系持续改
+- 截至目前，南向资金净卖出超100亿港元。
+- 伊朗革命卫队称导弹生产“没有任何担忧”
+- 外交部：各方都有责任确保能源的供应稳定畅通
+- 外交部：中方将继续为停火止战奔走斡旋 早日还中东和平与稳定
+- 伊朗最高领袖发电文哀悼遇袭身亡的伊情报部长
+- 工商银行发布关于修订代理个人客户贵金属竞价交易业务协议并明确强平保证金比例的公告，其中提到，强平保证金比例暂按上海黄金交易所规定的最低交易保证金比例执行。
+- 美加速向中东部署数千海军陆战队员及水兵
+- 联合利华确认收到其食品业务的收购要约，并正与麦考密克公司进行谈判。
+- 摩根大通将使用技术工具监测初级银行家的工作时长
 
 ## SCMP (EN/中)
 头版/首屏:
-- Can China broker peace for Iran again? 2023 was different, analysts say
-- Chinese analysts draw lessons from military decapitations in Iran, Venezuela
+- NIH-awarded life scientist Shu Xiaokun abruptly shifts research from US to China
+- Things ‘I do not like’ led me to quit US for Hong Kong, top mathematician says
 - Global Economy
 - ‘Not easy’: Japan mulls building its own LNG carriers amid Iran energy crisis
 - Trump compares Iran attack to Pearl Harbour in otherwise positive Takaichi talks
 - Repeated complaints by residents ignored before deadly Tai Po fire, hearing told
 - How long will US-Israel war on Iran last? Chinese analysts offer clues
-- China EVs
+- Diplomacy
 其他:
-- Tehran has signalled a willingness for Beijing to act as a mediator in its escalating war against US and Israel.
+- Celebrated scientist leaves prestigious role at University of California, San Francisco, months after being appointed, to move to Shanghai.
 - China and South Korea dominate global production of vessels for carrying natural gas, but Japan now sees industry as key to its energy security.
 - Two leaders tout bilateral relationship and pledge to work cooperatively on trade.
 - Evidence shows complaints on flammable polyfoam boards bounced between departments, with no checks or follow-up action taken.
-- Xiaomi’s new-generation SU7 launch sparks fresh EV fight with Tesla in China
-- Updated smart sedan debuts with improved safety and smart-driving features, intensifying competition with Tesla and domestic rivals.
-- US federal debt becoming ‘alarmingly unsustainable’ as Iran war fuels spending
-- Washington’s rapid accumulation of sovereign debt sparks outcry, with some analysts questioning if Trump has the political will to cut the deficit.
+- Can China broker peace for Iran again? 2023 was different, analysts say
+- Tehran has signalled a willingness for Beijing to act as a mediator in its escalating war against US and Israel.
+- US-China split on digital money deepens as stablecoin debate stalls Clarity Act
+- Crypto push for yield clashes with banks, slowing US legislation as China advances interest-bearing e-CNY on a different path.
 - Politics
 - Is Pakistan building ICBMs? Non-proliferation experts dispute US warning
 
@@ -156,9 +153,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25340.43-160.15(-0.63%)
+- 恒生指数25194.99-305.59(-1.20%)
                     etnet.com.hk@copyright
-- 国企指数8613.57-82.31(-0.95%)
+- 国企指数8556.25-139.63(-1.61%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -171,14 +168,14 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 经济通 (繁中)
+- 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中)
+- 加密货币: Benzinga (EN), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), SCMP (EN/中)
 - 美国关税: Benzinga (EN)
-- 加密货币: Benzinga (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
