@@ -3,29 +3,27 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 9h 1m | Private credit cracks flash 'yellow warning' for financial giants | DOJ, White House clear way for Pirro to keep Powell probe going | Us stock futures climb as war with Iran, inflation jitters in focus
-  - 其他: $200 billion for the war in Iran? Trump calls it a 'small price to pay.' | Gold set for worst week in six years as war curbs rate-cut bets | Nvidia to sell 1 million chips to Amazon by end of 2027 | OpenAI Plans Desktop App Combining Chat, Coding and Web Browsing | Alibaba, Tencent Shares Lose $66 Billion as AI Vision Falls Flat
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 7h 20m | Super Micro co-founder charged with sending AI tech to China | Private credit cracks flash 'yellow warning' for financial giants | Us stock futures climb as war with Iran, inflation jitters in focus
+  - 其他: $200 billion for the war in Iran? Trump calls it a 'small price to pay.' | Traders overwhelmed by Iran news are turning to AI for help | Gold set for worst week in six years as war curbs rate-cut bets | Virgin Australia to adjust fares to reflect cost pressures | America started a war. The economic pain will be borne by countries that never asked for it
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Anthony Scaramucci Quotes 'Dodgeball' To Blast Trump's 'Bold Strategy' Of Lifting Iranian Oil Sanctions Amid US-Israeli Attacks | No Rate Cuts In 2026? Prediction Market Is Betting This On Fed Moves | Nvidia To Deliver 1 Million AI Chips To Amazon Web Services By 2027 In Massive Multi-Chip Deal Set To Supercharge Inference And Cloud Computing | AXT Inc Stock Is Trending On Thursday After Surging Over 19%: Here's Why | Elon Musk Appears As 'The Dogefather' While Petting A Shiba Inu In AI Video, Discusses DOGE's Wedding And Private Keys
+  - 其他: FedEx, Planet Labs And 3 Stocks To Watch Heading Into Friday | Why Torrid Holdings (CURV) Stock Surged 20% After Hours | Gemini, Winklevoss Twins Sued By Investors For 'False' IPO Claims, Operational Shifts — Crypto Exchange's Q4 Loss Deepens | Azitra Inc. (AZTR) Surges Over 44% After Hours— Here's Why It's Trending | Anthony Scaramucci Quotes 'Dodgeball' To Blast Trump's 'Bold Strategy' Of Lifting Iranian Oil Sanctions Amid US-Israeli Attacks
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 欧盟呼吁伊朗局势相关冲突方保护平民和民用设施 | 印度卢比兑美元跌破93关口，再创新低，日内跌0.4%。 | 韩国总统李在明支持率达67%，创新高 | 也门胡塞武装称可能封锁曼德海峡 | 印度股指Nifty和Sensex指数均涨1%。 | 中国财政部发行3年期债券，规模1750亿元，发行利率1.2878%，边际利率1.3212%，预期1.3300%，投标倍数2.77倍，边际倍数1.13倍；
-中国财 | 特斯拉计划采购中国光伏设备？企业回应：确有此事 | 印度卢比兑美元触及历史低点92.9138。
-  - 其他: 高盛：预计英国央行在整个2026年将维持利率不变，此前预测为从7月起每季度降息一次。
-预计货币政策委员会（MPC）将在2027年逐渐下调利率，最终目标利率为3% | “沪七条”政策效果不断显现，上海楼市迎来企稳迹象 | 泰国股指SET指数日内涨幅扩大至1.3%。 | 隔夜SHIBOR报1.3190%，下降0.20个基点。
-7天SHIBOR报1.4170%，下降0.60个基点。
-3个月SHIBOR报1.5220%，下降0.60 | 现货黄金重返4700美元关口上方，日内涨1.1%。
+  - 头版/首屏: 《光伏组件安全要求》等两项强制性国家标准座谈会在京召开 | 贾国龙起家的西贝首店将“关闭一半” | 摩根士丹利：预计英国央行将在2026年维持利率不变；此前预测为今年4月和11月各降息一次，2027年2月再降息一次。 | 重庆市委副书记、市长胡衡华被查 | 国际能源署：针对中东供应中断，提出缓解消费者油价压力的多项措施。
+建议在可能的情况下居家办公，以缓解消费者所承受的油价压力。
+建议将高速公路限速至少降低10公里 | 前2个月我国邮政行业寄递业务量超330亿件 | 巴克莱预计欧洲央行将在2026年4月和6月各加息25个基点，此前预测维持利率不变。 | 摩根大通将使用技术工具监测初级银行家的工作时长
+  - 其他: 中国台湾证交所加权股价指数收低0.4%报33,543.88点。 | 郑商所锰硅主力合约大涨6%，报6566元/吨。 | 伊朗称能持续生产导弹 | 恒生科技指数持续走低，现跌2%，小米集团跌超7%，阿里巴巴跌超6%，小鹏汽车跌近5%。 | 傅盛深夜开骂，称周鸿祎欠钱不还，360回应
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Can China broker peace for Iran again? 2023 was different, analysts say | Chinese analysts draw lessons from military decapitations in Iran, Venezuela | Diplomacy | Trump compares Iran attack to Pearl Harbour in otherwise positive Takaichi talks | Global Economy | US federal debt becoming ‘alarmingly unsustainable’ as Iran war fuels spending | Repeated complaints by residents ignored before deadly Tai Po fire, hearing told | Iran’s exiled prince Reza Pahlavi plans to flip the script on Beijing
-  - 其他: Tehran has signalled a willingness for Beijing to act as a mediator in its escalating war against US and Israel. | Two leaders tout bilateral relationship and pledge to work cooperatively on trade. | Washington’s rapid accumulation of sovereign debt sparks outcry, with some analysts questioning if Trump has the political will to cut the deficit. | Victor Dawes, lead barrister for committee overseeing the hearing, will continue his opening speech. | Science
+  - 头版/首屏: Can China broker peace for Iran again? 2023 was different, analysts say | Chinese analysts draw lessons from military decapitations in Iran, Venezuela | Global Economy | ‘Not easy’: Japan mulls building its own LNG carriers amid Iran energy crisis | Trump compares Iran attack to Pearl Harbour in otherwise positive Takaichi talks | Repeated complaints by residents ignored before deadly Tai Po fire, hearing told | How long will US-Israel war on Iran last? Chinese analysts offer clues | China EVs
+  - 其他: Tehran has signalled a willingness for Beijing to act as a mediator in its escalating war against US and Israel. | China and South Korea dominate global production of vessels for carrying natural gas, but Japan now sees industry as key to its energy security. | Two leaders tout bilateral relationship and pledge to work cooperatively on trade. | Evidence shows complaints on flammable polyfoam boards bounced between departments, with no checks or follow-up action taken. | Xiaomi’s new-generation SU7 launch sparks fresh EV fight with Tesla in China
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 美息不变鲍公放鹰今年或仅减息一次，地产银行股齐下挫 | 黄金迈“猴市” 多间银行限个人炒金 | 美倘达3大目标 特朗普料宣告胜利 | “龙虾”未冷“果蝇”又至，AI终极竟是原点？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25419.68-80.90(-0.32%)
-                    etnet.com.hk@copyright | 国企指数8641.50-54.38(-0.63%)
+  - 其他: 恒生指数25340.43-160.15(-0.63%)
+                    etnet.com.hk@copyright | 国企指数8613.57-82.31(-0.95%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
@@ -34,13 +32,13 @@
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中) (4 站)
 - **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中) (4 站)
 - **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **油价/能源/霍尔木兹** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **加密货币** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 经济通 (繁中) (3 站)
 - **美国关税（15%等）** — 出现于: Benzinga (EN) (1 站)
+- **加密货币** — 出现于: Benzinga (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、重要性结论（综合头版+多站+股市相关）

@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032012
+抓取时间: 2026032014
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,21 +9,21 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 9h 1m
-- Private credit cracks flash 'yellow warning' for financial giants
-- DOJ, White House clear way for Pirro to keep Powell probe going
-- Us stock futures climb as war with Iran, inflation jitters in focus
-- Alibaba, Tencent shares lose $66 billion as AI vision falls flat
+- U.S. markets open in 7h 20m
 - Super Micro co-founder charged with sending AI tech to China
+- Private credit cracks flash 'yellow warning' for financial giants
+- Us stock futures climb as war with Iran, inflation jitters in focus
+- DOJ, White House clear way for Pirro to keep Powell probe going
+- OpenAI plans desktop app fusing chat, coding and web browser
+- Alibaba, Tencent shares lose $66 billion as AI vision falls flat
 - Retail's pivotal year: the structural reset defining 2026
-- Traders overwhelmed by Iran news are turning to AI for help
 其他:
 - $200 billion for the war in Iran? Trump calls it a 'small price to pay.'
+- Traders overwhelmed by Iran news are turning to AI for help
 - Gold set for worst week in six years as war curbs rate-cut bets
-- Nvidia to sell 1 million chips to Amazon by end of 2027
-- OpenAI Plans Desktop App Combining Chat, Coding and Web Browsing
-- Alibaba, Tencent Shares Lose $66 Billion as AI Vision Falls Flat
-- Netflix sees more prospects for live events in South Korea after BTS
+- Virgin Australia to adjust fares to reflect cost pressures
+- America started a war. The economic pain will be borne by countries that never asked for it
+- Netflix says BTS concert in South Korea could herald stream of live events
 - China's Bank of Ningbo readies digital yuan business as Beijing expands e-CNY
 - Exclusive-Tesla in talks with Chinese firms to buy $2.9 billion worth of solar equipment, sources say
 - FCC approves $3.5 billion sale of Tegna to Nexstar despite state objections
@@ -42,11 +42,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
+- FedEx, Planet Labs And 3 Stocks To Watch Heading Into Friday
+- Why Torrid Holdings (CURV) Stock Surged 20% After Hours
+- Gemini, Winklevoss Twins Sued By Investors For 'False' IPO Claims, Operational Shifts — Crypto Exchange's Q4 Loss Deepens
+- Azitra Inc. (AZTR) Surges Over 44% After Hours— Here's Why It's Trending
 - Anthony Scaramucci Quotes 'Dodgeball' To Blast Trump's 'Bold Strategy' Of Lifting Iranian Oil Sanctions Amid US-Israeli Attacks
-- No Rate Cuts In 2026? Prediction Market Is Betting This On Fed Moves
-- Nvidia To Deliver 1 Million AI Chips To Amazon Web Services By 2027 In Massive Multi-Chip Deal Set To Supercharge Inference And Cloud Computing
-- AXT Inc Stock Is Trending On Thursday After Surging Over 19%: Here's Why
-- Elon Musk Appears As 'The Dogefather' While Petting A Shiba Inu In AI Video, Discusses DOGE's Wedding And Private Keys
 - Bitcoin, XRP, Dogecoin Steady, While Ethereum Dips Amid Middle East Oil Crisis: Analyst Says BTC Approaching 'Potential Launchpad' For Next Bull Cycle
 - Scott Bessent
 - Oil Price
@@ -55,58 +55,56 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 欧盟呼吁伊朗局势相关冲突方保护平民和民用设施
-- 印度卢比兑美元跌破93关口，再创新低，日内跌0.4%。
-- 韩国总统李在明支持率达67%，创新高
-- 也门胡塞武装称可能封锁曼德海峡
-- 印度股指Nifty和Sensex指数均涨1%。
-- 中国财政部发行3年期债券，规模1750亿元，发行利率1.2878%，边际利率1.3212%，预期1.3300%，投标倍数2.77倍，边际倍数1.13倍；
-中国财
-- 特斯拉计划采购中国光伏设备？企业回应：确有此事
-- 印度卢比兑美元触及历史低点92.9138。
-- 上证指数早盘收报4013.16点，涨0.16%。
-深证成指早盘收报14119.88点，涨1.57%。
-创业板指早盘收报3418.37点，涨3.30%。
-沪深30
-- 3月20日午间收评：创业板指半日涨3.3%，算力硬件、光伏板块集体走强
-- 国债期货早盘收盘，30年期主力合约跌0.43%，10年期主力合约跌0.09%，5年期主力合约跌0.05%，2年期主力合约跌0.02%。
-- 创业板指涨超3%，沪指转涨
+- 《光伏组件安全要求》等两项强制性国家标准座谈会在京召开
+- 贾国龙起家的西贝首店将“关闭一半”
+- 摩根士丹利：预计英国央行将在2026年维持利率不变；此前预测为今年4月和11月各降息一次，2027年2月再降息一次。
+- 重庆市委副书记、市长胡衡华被查
+- 国际能源署：针对中东供应中断，提出缓解消费者油价压力的多项措施。
+建议在可能的情况下居家办公，以缓解消费者所承受的油价压力。
+建议将高速公路限速至少降低10公里
+- 前2个月我国邮政行业寄递业务量超330亿件
+- 巴克莱预计欧洲央行将在2026年4月和6月各加息25个基点，此前预测维持利率不变。
+- 摩根大通将使用技术工具监测初级银行家的工作时长
+- 腾讯张军：QClaw正式开启全量公测
+- 摩根士丹利：预计欧洲央行将在2026年6月和9月分别加息25个基点，此前预测今年维持利率不变。
+面对较低的经济增长，预计欧洲央行可能会在2027年6月和9月再次
+- 韩国一工厂发生火灾已致50人受伤
+- 摩根大通：预计欧洲央行将在2026年4月和7月加息，此前预测为全年维持利率不变。
+一旦通胀第二轮效应风险消失，欧洲央行有理由反向解除紧缩。
+目前，我们仅初步预计
 其他:
-- 高盛：预计英国央行在整个2026年将维持利率不变，此前预测为从7月起每季度降息一次。
-预计货币政策委员会（MPC）将在2027年逐渐下调利率，最终目标利率为3%
-- “沪七条”政策效果不断显现，上海楼市迎来企稳迹象
-- 泰国股指SET指数日内涨幅扩大至1.3%。
-- 隔夜SHIBOR报1.3190%，下降0.20个基点。
-7天SHIBOR报1.4170%，下降0.60个基点。
-3个月SHIBOR报1.5220%，下降0.60
-- 现货黄金重返4700美元关口上方，日内涨1.1%。
-- 欧盟峰会紧急聚焦能源问题，内部分歧明显
-- 伊朗伊斯兰革命卫队：美“福特”号航母撤离反映美以真实处境
-- 姚来英任国家烟草专卖局党组书记
-- 因担心美国动武，丹麦曾向格陵兰岛运送炸药
-- 报道：特斯拉寻求从中国供应商采购价值29亿美元光伏生产设备
+- 中国台湾证交所加权股价指数收低0.4%报33,543.88点。
+- 郑商所锰硅主力合约大涨6%，报6566元/吨。
+- 伊朗称能持续生产导弹
+- 恒生科技指数持续走低，现跌2%，小米集团跌超7%，阿里巴巴跌超6%，小鹏汽车跌近5%。
+- 傅盛深夜开骂，称周鸿祎欠钱不还，360回应
+- A股算力租赁板块午后短线走低，协创数据午后闪崩跌超17%，东方国信跌超10%，利通电力、宏景科技、大位科技跌幅居前。
+- 欧盟谴责以色列单方面扩大在约旦河西岸行动
+- A股锂矿概念快速回暖，赣锋锂业逼近涨停，大中矿业涨超8%，天华新能、盐湖股份、川能动力、国城矿业跟涨。
+- 世卫组织：正在为应对中东可能发生的核污染做准备
+- 早间要闻汇总
 
 ## SCMP (EN/中)
 头版/首屏:
 - Can China broker peace for Iran again? 2023 was different, analysts say
 - Chinese analysts draw lessons from military decapitations in Iran, Venezuela
-- Diplomacy
-- Trump compares Iran attack to Pearl Harbour in otherwise positive Takaichi talks
 - Global Economy
-- US federal debt becoming ‘alarmingly unsustainable’ as Iran war fuels spending
+- ‘Not easy’: Japan mulls building its own LNG carriers amid Iran energy crisis
+- Trump compares Iran attack to Pearl Harbour in otherwise positive Takaichi talks
 - Repeated complaints by residents ignored before deadly Tai Po fire, hearing told
-- Iran’s exiled prince Reza Pahlavi plans to flip the script on Beijing
+- How long will US-Israel war on Iran last? Chinese analysts offer clues
+- China EVs
 其他:
 - Tehran has signalled a willingness for Beijing to act as a mediator in its escalating war against US and Israel.
+- China and South Korea dominate global production of vessels for carrying natural gas, but Japan now sees industry as key to its energy security.
 - Two leaders tout bilateral relationship and pledge to work cooperatively on trade.
+- Evidence shows complaints on flammable polyfoam boards bounced between departments, with no checks or follow-up action taken.
+- Xiaomi’s new-generation SU7 launch sparks fresh EV fight with Tesla in China
+- Updated smart sedan debuts with improved safety and smart-driving features, intensifying competition with Tesla and domestic rivals.
+- US federal debt becoming ‘alarmingly unsustainable’ as Iran war fuels spending
 - Washington’s rapid accumulation of sovereign debt sparks outcry, with some analysts questioning if Trump has the political will to cut the deficit.
-- Victor Dawes, lead barrister for committee overseeing the hearing, will continue his opening speech.
-- Science
-- Can China commercial satellite’s ‘octopus tentacle’ pass low-orbit refuel test?
-- Hukeda-2, with its flexible robotic arm designed to smoothly dock with target spacecraft, was launched on Monday, state media said.
-- Military
-- How long will US-Israel war on Iran last? Chinese analysts offer clues
-- Iran’s drones gaining edge as opponents burn through costly missiles, analysts note, as one labels the war a ‘serious mistake’ by US.
+- Politics
+- Is Pakistan building ICBMs? Non-proliferation experts dispute US warning
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -123,9 +121,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25419.68-80.90(-0.32%)
+- 恒生指数25340.43-160.15(-0.63%)
                     etnet.com.hk@copyright
-- 国企指数8641.50-54.38(-0.63%)
+- 国企指数8613.57-82.31(-0.95%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -139,13 +137,13 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
 - 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 加密货币: Benzinga (EN), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 经济通 (繁中)
 - 美国关税: Benzinga (EN)
+- 加密货币: Benzinga (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
