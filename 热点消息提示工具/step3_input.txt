@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032319
+抓取时间: 2026032322
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 52m
-- Trump's push to oust Powell could keep the Fed chair around for longer
-- Oil pushes higher as clock ticks on Trump's deadline
-- Trump and Iran hurl war threats as Hormuz crisis intensifies
-- Investors game out Iran risk as Trump deadline looms
-- Goldman raises oil forecasts on largest-ever supply shock
-- Bonds lose $2.5 trillion in Iran war wipeout amid stagflation fears
+- U.S. markets close in 5h 54m
 - Big Tech cause for hope: Mag 7 decouples from S&P 500
+- Trump's push to oust Powell could keep the Fed chair around for longer
+- Trump backs off Iran threat but Tehran fails to confirm talks
+- Why Celsius CEO is confident in age of GLP-1s, rising inflation
+- BlackRock's Fink backs staying invested amid volatility, flags AI shift
+- Goldman raises oil forecasts on largest-ever supply shock
+- Gold rebounds as Trump postpones Iran energy strikes
 其他:
-- Stock futures roar higher as Trump calls off Iran strike ultimatum
-- Gold extends losses amid 'brutal flush' as inflation worries mount
+- Stocks surge as Trump calls off Iran strikes for now
+- Bonds lose $2.5 trillion in Iran war wipeout amid stagflation fears
 - Over 40 Middle East energy assets 'severely damaged,' IEA says
-- Cencora to buy retina business of EyeSouth Partners for $1.1 billion
-- Copper Hits Three-Month Low as War Fuels Global Growth Worries
-- War threats lift oil prices. Global energy body says Iran shock tops 1970s oil crises
-- Exclusive-OpenAI sweetens private equity pitch amid enterprise turf war with Anthropic, sources say
-- Oryon Cell Therapies launches with $21 million to advance Parkinson's treatment
-- Exclusive-Broadcasters urge EU to tighten rules for Big Tech in smart TV standoff
-- Fertilizer prices bring more pain for American farmers amid war in Iran
+- Formula 1 CEO on shorter races, Max Verstappen, new regulations, and Apple
+- HSBC appoints first chief AI officer as it seeks cost cuts
+- Fed's Goolsbee: Inflation now the greater risk, watching expectations closely - CNBC
+- Oil Dives as Trump Says Talks to End Mideast War Are Underway
+- Alibaba launches latest agentic AI platform with international unit's Accio Work
+- Nebius says "well-funded" for AI race after closing $4.3 billion debt raise
+- Bitcoin Rises After Trump Points to Delay in Iran Strikes
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,70 +77,72 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Trump Pauses Iran Strikes For Five Days Amid 'Very Good And Productive' Talks
-- BlackRock Pivots 'Hard' For 3rd Time In 50 Years: Chasing 300-400% Returns With 4 Commodity Plays, Says Former Banker
-- What's Going On With Cadeler Stock Monday?
-- The Thing I Really Want To Emphasize Is That Nobody Knows
-- Medicare And Medicaid Services Says New Rule Could Save Taxpayers $781 Million Every Year
-- Stock Market Today: S&P 500, Dow Jones Futures Plunge As Trump Issues Ultimatum To 'Obliterate' Iran—SSR Mining, Nebius, United Airlines In Focus
-- Sam Altman
-- Elon Musk
-- Elon Musk Unveils Ambitious Terafab Plans For Tesla, SpaceX: 'We're Starting A Galactic Civilization'
-- What's Driving Leapmotor's Outperformance Vs. Nio And XPeng
+- What's Going On With Ford Motor Shares On Monday?
+- WeRide Doubles Down On Driverless Dream With 123% Revenue Spike
+- Why ASP Isotopes Stock Is Surging Today
+- 'Security Doesn't Come From Money,' Dave Ramsey Tells 36-Year-Old With $1M Who Asked Fiancé With 'Nothing' To Sign A Prenup Before Marriage
+- Dogecoin To Get Its Own 'Windows'? Here's How DogeOS Could Work
+- Trump's 5-Day Iran Pause Crashes Oil Prices – Is TACO Trade Back?
+- Donald Trump
+- Gary Black Warns Tesla-SpaceX Merger Could Reduce TSLA Value By 25%: '...Looking For A Problem
+- India's Generic Wave Hits Ozempic And Wegovy As Prices Drop Sharply
+- Senators Push To Purge Sports And Casino-Style Trades From Prediction Markets
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 欧股涨幅收窄，德国DAX指数涨幅收窄至1.6%，此前涨超4%；欧洲斯托克50指数涨幅收窄至1.8%，此前涨3.5%；法国CAC 40指数涨幅收窄至1.25%，此
-- 伊朗发起第76波打击
-- 文远知行：2025年总营收6.9亿元，同比增长90%
-- LG化学两项在华锂电专利上诉被驳回 容百科技：有利于子公司与LG化学专利纠纷解决
-- 工业和信息化部负责人会见苹果、高通、SK海力士、大众汽车、梅赛德斯-奔驰、西门子等跨国企业和商协会负责人
-- 欧美股市拉升，德国DAX指数涨超4%，道指期货一度涨近3%
-- 习近平在河北雄安新区考察并主持召开深入推进雄安新区高质量建设和发展座谈会时强调，牢牢把握雄安新区功能定位，努力建设新时代创新高地和推动高质量发展样板。（新华社）
-- 美元指数持续走低，较日内高位走低约100点，最新报99.50。
-- 交易员下调对欧洲央行和英国央行的加息押注，预计今年加息不到三次。
-- 欧股转涨，德国DAX指数、法国CAC40指数日内涨超2%，此前一度跌超2%。
-- 伦锡日内涨幅达4.00%，现报44350.00美元/吨。
-伦铜日内大涨4.00%，现报12315.90美元/吨。
-伦镍日内涨幅达2.00%，现报17178.40
-- 特朗普称“推迟5天”打击伊朗发电站
+- 伊拉克军方：北约特派团撤离伊拉克为预防性措施
+- 市场监管总局局长罗文会见美中贸易全国委员会会长谭森
+- 印度汽车产业因“气荒”面临供应链中断风险
+- 美国总统特朗普声称：将（由多个国家）联合控制霍尔木兹海峡。
+如果这招（联合管控）奏效，霍尔木兹海峡很快就会重新开放。
+可能会由我和阿亚图拉·阿里·哈梅内伊（Ay
+- 外交部副部长马朝旭会见美国企业家
+- 美国1月营建支出环比 -0.3%，预期 0.1%，前值 0.3%。
+- 据美国纽约联储数据，上个交易日（3月20日）担保隔夜融资利率（SOFR）报3.62%，之前一天报3.62%。
+上个交易日有效的联邦基金利率报3.64%，之前一天
+- 美国能源部长Wright：市场按自己的意愿做事。
+（石油）价格还没有上涨至足够摧毁需求的程度。
+美国从上周五（美东时间）下午开始释放战略石油储备（SPR）。
+- 央行主管媒体：中国资本市场向好发展有支撑
+- 美国总统特朗普宣称：希望在（国际石油）系统内维持尽可能多的石油（供应）。
+- 美股涨幅扩大，纳指涨超2%。
+- 伊朗称击毁两架美军自杀式无人机
 其他:
-- 现货黄金短线拉升约120美元，现报4401.28美元/盎司。
-现货白银日内涨幅达1.5%，报68.89美元/盎司。
-比特币短线拉升逾2000美元，现报70,57
-- WTI原油日内跌幅达13.0%，报85.27美元/桶。
-布伦特原油日内跌幅达13.5%，报91.72美元/桶。
-现货白银日内涨幅达1.0%，报68.77美元/盎
-- 美股期货拉升，纳斯达克100指数期货涨超2%，标普500指数期货涨超2%。
-- 油价下挫，WTI原油日内跌幅达4.5%，报93.63美元/桶；布伦特原油日内跌幅达3.5%，报102.22美元/桶。
-- 大商所：调整液化石油气期货合约涨跌停板幅度和交易保证金水平
-- 大商所：自2026年3月25日交易时（即3月24日夜盘交易小节时）起，对液化石油气期货品种合约手续费进行调整。
-- 中国贸促会副会长刘健男会见泰国天丝集团首席执行官许馨雄、美国拉夫劳伦公司总裁陆柏达和美商亚洲集团合伙人康达大使
-- 工信部公开征求《汽车数据安全保障要求》等2项汽车行业推荐性国家标准报批意见。
-- 伊朗否认向霍尔木兹海峡过往船只收取高额费用
-- 国际原子能机构重申任何军事行动都不应危及核电站安全
+- 零跑整顿反腐：已上缴千万元，但暂无高管因贪污被带走
+- 伊俄外长通电话，俄方称攻击伊朗核设施“不可接受”
+- 波兰铜业集团公司（KGHM）2月铜产量5.38万吨，同比增长5.3%。
+2月铜销量5万吨，同比下滑18%。
+- 美股盘初，主要行业ETF普遍上涨，全球航空业ETF涨超3%，全球科技股指数ETF、可选消费ETF涨超2%。
+- 特朗普称同伊朗谈判“进展非常顺利”
+- 中小险资减仓导致A股回调？业内称影响有限，整体加仓为主
+- 伊朗高级领导层否认与美国进行了谈判
+- 美股盘初走高：道指涨1.6%，科技股普涨，石油股普跌
+- 北美科技软件股指数ETF涨2%，刷新日高至84.71美元。
+- 标普500指数高开68.48点，涨幅1.05%，报6574.96点；
+道琼斯工业平均指数高开226.35点，涨幅0.50%，报45803.82点；
+纳斯达克综合
 
 ## SCMP (EN/中)
 头版/首屏:
-- ‘No dispute’: Beijing defends construction on Paracels in South China Sea
-- Vietnam protests as China’s Paracels build-up escalates at Antelope Reef
+- What does Iran war mean for China’s export machine?
+- International capital flowing to China as investors seek certainty amid Iran war
+- Tech Trends
+- Alibaba unveils AI agent platform to automate global e-commerce for small businesses
 - Diplomacy
-- Breaking | Trump says US will halt military strikes on Iranian power plants for 5 days
-- Markets
-- Global investors pivot to ‘stability’ of China amid turmoil: Milken forum
-- Hong Kong
-- No funding cuts to Hong Kong arts groups for next 3 years, agency chief pledges
+- White eagles and Persian cats: Chinese AI satire of US war on Iran goes viral
+- Tech
+- Inside Unitree’s landmark IPO: what to know about China’s humanoid giant
 其他:
-- China says living conditions and local economy stand to benefit, days after Vietnam states opposition to land-reclamation activities.
-- US president says he has instructed the Pentagon to ‘postpone any and all’ strikes on energy infrastructure, ‘subject to success’ of talks.
-- China no longer ‘unloved’ as advances including AI, biotech drive revival in investor interest, attendees hear at symposium in Hong Kong.
-- Hong Kong Arts Development Council chairman says agency will review grant system and save costs internally amid government’s bid to reduce spending.
+- Crisis sparks debate: will it cripple global demand or show that China’s supply-side resilience, proven during pandemic, remains in place?
+- The agents work as ‘virtual employees’ to tackle various tasks, including market analysis, design, sourcing and inventory monitoring.
+- China’s state broadcaster shares wuxia-style animation based on the conflict, triggering a wave of user-made spin-offs.
+- Listing, if approved, would be a bellwether of investor appetite for so-called embodied AI companies.
 - From coal to cures: Chinese scientists bring a 160-year-old dream to life
 - Politics
-- Withholding phone passwords punishable under tightened national security rules
-- Hong Kong must maintain high degree of vigilance given ‘complex and volatile geopolitical situation’, authorities say.
-- Global Economy
-- China cuts some hi-tech metals sent to Japan – but magnet exports rise. Why?
+- Hongkongers risk jail for refusing phone passwords in national security probes
+- Authorities say the new rules will not affect people’s daily lives or how institutions normally operate.
+- Trump says US will halt military strikes on Iranian power plants for 5 days
+- However, Iranian news agency, citing unnamed security official, denies any past or ongoing negotiations with the US president.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -175,10 +177,10 @@
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
-- 加密货币: 华尔街见闻 (简中)
+- 科技/个股: Yahoo Finance (EN), SCMP (EN/中)
+- 加密货币: Yahoo Finance (EN)
+- 美联储: Yahoo Finance (EN)
+- 中国/欧盟: SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
