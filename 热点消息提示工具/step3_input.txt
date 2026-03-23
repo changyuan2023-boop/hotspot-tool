@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032312
+抓取时间: 2026032314
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 8h 34m
-- 'Energy tax': How surging gas prices may impact consumers, inflation
+- U.S. markets open in 6h 43m
 - 3 weeks of war, possible rate hikes, AI's 'show me' phase: What to watch
 - Trump's push to oust Powell could keep the Fed chair around for longer
 - Gold extends losses amid 'brutal flush' as inflation worries mount
+- 'Energy tax': How surging gas prices may impact consumers, inflation
+- AI startup Upstage in talks to buy 10,000 AMD chips in Korea
+- Over 40 Middle East energy assets 'severely damaged,' IEA says
 - Trump and Iran hurl war threats with Hormuz crisis building
-- Fannie, Freddie place large bids for mortgage-backed securities
-- Traders brace for turbulent open as war rages on
 其他:
 - US stock futures drop in 4-week fall as Trump issues Iran ultimatum
-- The Saudi oil pipeline the world didn't know it needed
-- Border czar Homan says ICE will do 'non-significant' tasks at airports
-- AI Startup Upstage in Talks to Buy 10,000 AMD Chips in Korea
+- Fannie, Freddie place large bids for mortgage-backed securities
+- Traders brace for turbulent open as war rages on
+- STMicro starts STM32 microcontroller deliveries in China
 - Oil Fluctuates as Trump’s Hormuz Ultimatum Fails to Stir Traders
+- Private Capital Turns to Heavy Assets as Software Trade Dims
 - Oil prices rise after Trump issues ultimatum and Iran threatens to close the Strait of Hormuz indefinitely
 - Asia’s Busiest Earnings Week Puts Tech, Consumer Shares in Focus
 - Oil’s Surge Forces Latin America to Overhaul Its Energy Policies
 - Musk says SpaceX and Tesla to build advanced chip factories in Austin
-- Trump DHS Nominee Mullin Advances in Senate Procedural Vote
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,69 +77,68 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Elon Musk's X Money To Power 7721% Dogecoin Rally? Top Analyst Says 'May Be,' But Would Wait For A Dip To This Level To Enter
-- Tom Homan Says He Doesn't See ICE Agents Looking At X-Ray Machines At Airports Because They Are 'Not Trained In That'
-- Anthony Scaramucci Explains How Trump Thinks And Why He Operated 'Unilaterally' On Iran: He Believes He's 'Smarter Than Everybody'
-- US Ground Troops To Enter Iran Soon? Odds Climb On Crypto Prediction Market In A Week As Tensions Escalate
+- Gary Black Warns Tesla-SpaceX Merger Could Reduce TSLA Value By 25%: '...Looking For A Problem
+- Scott Bessent Defends Trump's Commentary On Robert Mueller's Passing, Says All Should Show 'Little Empathy' To President For What He's Been Through
+- Will S&P 500 Open Up Or Down On March 23? Here's How Prediction Market Is Leaning Amid Trump's 48-Hour 'Obliterate' Ultimatum To Iran
+- Eric Trump-Linked American Bitcoin Says It's Turning Into A BTC 'Accumulation Machine,' But ABTC Stock Still Can't Shake Off The Woes
+- Gavin Newsom Slams Trump Administration As Washington Mulls Putting ICE Agents In TSA Amid Government Shutdown: 'The President's Lawless…'
 - Loud Explosions Reportedly Rock Tehran As Iran Warns Gulf Neighbors Of Energy Retaliation If Trump Attacks Power Grid: Dow Futures Trade Flat
 - Sam Altman
 - Elon Musk
 - What's Weighing On United Airlines Stock Friday?
 - Trump's Iran War Sparks Bond Market Revolt, Gold's Worst Week Since 1983 And More: This Week In Economy
-- SEC Greenlights Nasdaq's Tokenized Settlement Pilot: What It Means For Investors
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 预告：国新办3月24日就第九届数字中国建设峰会有关情况举行新闻发布会
-- 古巴全国电力系统恢复
-- 以媒称美考虑地面行动夺取伊朗哈尔克岛
-- 印度10年期国债收益率上升10个基点至6.84%，至2025年1月以来高位。
-- 日本首相高市早苗：不会对汇率水平作出具体评论。
-将打造对汇率波动具有韧性的经济。
-- 紫金矿业回应并购赤峰黄金：黄金进一步上涨的逻辑没有变化
-- 中国石油集团董事长戴厚良会见道达尔能源公司董事长潘彦磊
-- 早间要闻汇总
-- 提醒：日内请重点关注（以下均为北京时间）
-- 前2个月 义乌外贸进出口增长52.8%
-- 世界气象组织：地球能量失衡程度达新高
-- 小鹏成立Robotaxi业务部
+- 山西发行10年期一般债地方债，规模7.5000亿元，发行利率1.9800%，边际倍数3.35倍，倍数预期1.97；
+山西发行20年期收费公路专项地方债，规模4.
+- 澳元兑美元日内跌幅达1%，报0.6952。
+- 沪指、创业板指盘尾跌幅扩大至4%，深证成指跌幅扩大至4.2%。
+- 泰国期货交易所宣布对黄金线上期货实施临时停牌。（路透）
+- 商务部部长王文涛会见博世集团董事会主席哈通
+- 现货黄金跌破4200美元/盎司
+- 东京海上将向伯克希尔哈撒韦出售2874亿日元的股份。（彭博）
+- 中东冲突可能使铁矿石开采商面临数十亿美元额外燃料成本
+- 3月23日，华为发布Mate 80 Pro Max 风驰版，起售价为8499元。
+- 广期所多晶硅主力合约大跌8%，报35415元/吨。
+- 韩国散户周一买入创纪录的7万亿韩元KOSPI股票。
+- 现货黄金日内跌幅达6%，报4226.31美元/盎司。
+现货白银日内跌幅达9%，报61.69美元/盎司。
 其他:
-- 印度股指Sensex指数、Nifty指数日内跌2%。
-- 伊朗西部一居民区遭袭 造成人员伤亡
-- 雷军：未来五年小米研发投入计划超过2000亿
-- 印度卢比兑美元跌至历史新低93.8350。
-印度10年期国债收益率上行4个基点至6.78%。
-- 上证指数早盘收报3858.18点，跌2.50%。
-深证成指早盘收报13515.13点，跌2.53%。
-创业板指早盘收报3270.16点，跌2.44%。
-沪深30
-- 3月23日午间收评：三大指数均跌超2%，全市场下跌个股超5000只
-- 国债期货早盘收盘，30年期主力合约涨0.05%，10年期主力合约跌0.09%，5年期主力合约跌0.06%，2年期主力合约跌0.03%。
-- 万科2027年到期美元债势创3个月最大跌幅，该公司3.975%债券每1美元跌3.5美分，至38.7美分。
-- 库克称中国是苹果全球供应链最主要基地
-- 连续三周，国产模型调用量反超美国模型
+- 华为鸿蒙终端设备数量突破5000万
+- 韩元兑美元截至当地时间下午3:30收于1517.3韩元，创2009年3月9日以来的最弱水平。
+- 日经225指数收跌3.5%，报51515.49点。
+日本东证指数收跌3.4%，报3486.44点。
+韩国首尔综指收跌6.5%，报5405.75点。
+- 日本考虑从哈萨克斯坦进口原油。（共同社）
+- 贵金属大跌，现货黄金跌5%，现货白银跌近8%，现货铂金跌逾8%
+- 现货铂金跌逾8%，报1773.47美元/盎司。
+- 沪指跌破3800点，日内跌幅扩大至4%。
+- WTI原油日内涨幅达2%，报100.25美元/桶。
+- 伊朗称美以多层防御网崩溃
+- 伊朗伊斯兰革命卫队再发声明：如果伊朗电力系统遭受攻击 将采取对等报复措施
 
 ## SCMP (EN/中)
 头版/首屏:
+- Markets brace for rate hikes as Iran war and US$100 oil stoke tightening fears
+- Gold slides as hawkish Fed and strong US dollar override geopolitical fears
+- China Economy
 - China developing first tourist submersible for trips 1,000 metres under the sea
-- Foreigners flock to China’s ice and snow sights, with 130% inbound tourism spike
 - Science
 - Chinese surgery robot outperforms humans, cuts brain imaging time by 29%
-- Big Tech
-- What is ‘tokenomics’ and how would China gain the edge in an AI era?
-- Transport
-- Changes to Hong Kong’s HK$2 transport subsidy scheme to kick in on April 3
+- Hong Kong Economy
+- Hong Kong to raise postage rates from April 13 amid surging oil prices
 其他:
+- The European Central Bank has become more hawkish, reverting to wording that analysts say often precedes interest-rate increases.
 - The Chinese prototype would enter commercial operation offering adventure-seeking holidaymakers spectacular deep-sea experiences by 2030.
 - World’s first approved cerebrovascular robot could reduce harmful radiation exposure to doctors while shaving minutes off procedure times.
-- As tokens are positioned as the AI era’s commodity, China’s energy scale and low-cost models could give it a structural edge.
-- Under revision, elderly and disabled residents will enjoy flat rate for trips costing HK$10 or less, pay 20 per cent of fares exceeding threshold.
+- Postage for local letters to go up by 9 per cent to HK$2.40, while increases for 90 per cent of airmail will be within HK$0.50.
 - Trump-Xi summits: an inside view with US ex-diplomat William Klein
 - Middle East
 - Iran awaits Trump threat to ‘obliterate’ power plants, readies response
 - Iran has threatened to ‘completely’ close the Strait of Hormuz and hit the region’s infrastructure after Trump’s ultimatum.
-- Military
-- Why is China’s ASN-301 suicide drone more deadly than its Iranian counterpart?
+- Turning coal to medicines: Chinese scientists bring a 160-year-old dream to life
+- Study cracks a puzzle that has baffled scientists and will reshape modern medicine production as the world reels from a global oil shortage.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -156,9 +155,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数24400.46-876.86(-3.47%)
+- 恒生指数24338.97-938.35(-3.71%)
                     etnet.com.hk@copyright
-- 国企指数8312.17-261.90(-3.05%)
+- 国企指数8294.08-279.99(-3.27%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -172,13 +171,14 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
+- 美国关税: Benzinga (EN)
 - 加密货币: Benzinga (EN)
 - 就业数据: SCMP (EN/中)
-- 中国/欧盟: SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
