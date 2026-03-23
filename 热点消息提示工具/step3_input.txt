@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032314
+抓取时间: 2026032315
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,7 +44,7 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 6h 43m
+- U.S. markets open in 5h 33m
 - 3 weeks of war, possible rate hikes, AI's 'show me' phase: What to watch
 - Trump's push to oust Powell could keep the Fed chair around for longer
 - Gold extends losses amid 'brutal flush' as inflation worries mount
@@ -56,13 +56,13 @@
 - US stock futures drop in 4-week fall as Trump issues Iran ultimatum
 - Fannie, Freddie place large bids for mortgage-backed securities
 - Traders brace for turbulent open as war rages on
+- Italy fines Trustpilot $4.6 million for misleading consumers
+- Japanese firms agree to 5.26% wage hike, top union group's preliminary data shows
+- Oil Pushes Higher as Clock Ticks on Trump’s Hormuz Ultimatum
 - STMicro starts STM32 microcontroller deliveries in China
-- Oil Fluctuates as Trump’s Hormuz Ultimatum Fails to Stir Traders
 - Private Capital Turns to Heavy Assets as Software Trade Dims
 - Oil prices rise after Trump issues ultimatum and Iran threatens to close the Strait of Hormuz indefinitely
 - Asia’s Busiest Earnings Week Puts Tech, Consumer Shares in Focus
-- Oil’s Surge Forces Latin America to Overhaul Its Energy Policies
-- Musk says SpaceX and Tesla to build advanced chip factories in Austin
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,11 +77,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Gary Black Warns Tesla-SpaceX Merger Could Reduce TSLA Value By 25%: '...Looking For A Problem
-- Scott Bessent Defends Trump's Commentary On Robert Mueller's Passing, Says All Should Show 'Little Empathy' To President For What He's Been Through
-- Will S&P 500 Open Up Or Down On March 23? Here's How Prediction Market Is Leaning Amid Trump's 48-Hour 'Obliterate' Ultimatum To Iran
-- Eric Trump-Linked American Bitcoin Says It's Turning Into A BTC 'Accumulation Machine,' But ABTC Stock Still Can't Shake Off The Woes
-- Gavin Newsom Slams Trump Administration As Washington Mulls Putting ICE Agents In TSA Amid Government Shutdown: 'The President's Lawless…'
+- The Next Manus? Deepexi Navigates Tough AI Agent Market
+- Gold Drops Over 22%, Enters Bear Market As Inflation And Oil Surge Pressure Prices
+- Tong Ren Tang Launches IPO
+- Anthony Scaramucci Sets $1 Million Bitcoin Target By 2032, Explains Why He's Buying Now: 'You Can't Be In The Market Like Me For 38 Years And….'
+- Trump Ties DHS Funding To SAVE America Act: 'I don't Think We Should Make Any Deal'
 - Loud Explosions Reportedly Rock Tehran As Iran Warns Gulf Neighbors Of Energy Retaliation If Trump Attacks Power Grid: Dow Futures Trade Flat
 - Sam Altman
 - Elon Musk
@@ -90,33 +90,30 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 山西发行10年期一般债地方债，规模7.5000亿元，发行利率1.9800%，边际倍数3.35倍，倍数预期1.97；
-山西发行20年期收费公路专项地方债，规模4.
-- 澳元兑美元日内跌幅达1%，报0.6952。
-- 沪指、创业板指盘尾跌幅扩大至4%，深证成指跌幅扩大至4.2%。
-- 泰国期货交易所宣布对黄金线上期货实施临时停牌。（路透）
-- 商务部部长王文涛会见博世集团董事会主席哈通
-- 现货黄金跌破4200美元/盎司
-- 东京海上将向伯克希尔哈撒韦出售2874亿日元的股份。（彭博）
-- 中东冲突可能使铁矿石开采商面临数十亿美元额外燃料成本
-- 3月23日，华为发布Mate 80 Pro Max 风驰版，起售价为8499元。
-- 广期所多晶硅主力合约大跌8%，报35415元/吨。
-- 韩国散户周一买入创纪录的7万亿韩元KOSPI股票。
-- 现货黄金日内跌幅达6%，报4226.31美元/盎司。
-现货白银日内跌幅达9%，报61.69美元/盎司。
+- 伊朗国防委员会声明：非敌对国家通过霍尔木兹海峡的唯一途径是与伊朗协调。
+- 山东等多个地区焦炭市场价格计划提涨
+- 国家知识产权局：严厉打击违法违代理规行为集中整治不规范执业行为
+- 伊朗武装部队：美以军队在伊朗监控之下
+- 赵乐际将出席博鳌亚洲论坛2026年年会
+- 阿里将造“养虾”PC？知情人士：未来将提供更多形态的养虾入口
+- 交易员增加对欧洲央行加息的押注，预计2026年加息4次的可能性为50%。
+- 中方是否要求伊朗保证运往中国的石油安全？ 外交部回应
+- 外交部：西沙群岛是中国的固有领土不存在任何争议
+- 北京至印度新德里直航何时恢复？外交部回应
+- 南向资金净买入额达250亿港元。
+- 中方是否同东南亚国家讨论了能源供应问题？外交部回应
 其他:
-- 华为鸿蒙终端设备数量突破5000万
-- 韩元兑美元截至当地时间下午3:30收于1517.3韩元，创2009年3月9日以来的最弱水平。
-- 日经225指数收跌3.5%，报51515.49点。
-日本东证指数收跌3.4%，报3486.44点。
-韩国首尔综指收跌6.5%，报5405.75点。
-- 日本考虑从哈萨克斯坦进口原油。（共同社）
-- 贵金属大跌，现货黄金跌5%，现货白银跌近8%，现货铂金跌逾8%
-- 现货铂金跌逾8%，报1773.47美元/盎司。
-- 沪指跌破3800点，日内跌幅扩大至4%。
-- WTI原油日内涨幅达2%，报100.25美元/桶。
-- 伊朗称美以多层防御网崩溃
-- 伊朗伊斯兰革命卫队再发声明：如果伊朗电力系统遭受攻击 将采取对等报复措施
+- 外交部：美日发展双边关系不应针对第三国或损害他国利益
+- 外交部：如果中东战事持续扩大，整个地区将陷入不可收拾的局面
+- 股价逆势涨停，爱玛科技独家回应：公司正积极拓展海外市场
+- 国开行发行184天期债券，规模30亿元，发行利率1.4386%，预期1.4400%，投标倍数3.15倍，边际倍数4.57倍；
+国开行发行3年期债券，规模60亿元
+- 芝商所（CME）：芝商所全球指挥中心（GCC）已注意到有关CME期权市场数据的问题，以及在CME Direct平台上出现的用户自定义价差（UDS）创建超时错误。
+- 中国央行：进一步增强制度执行力、系统健壮性和管理规范性
+- 郁亮卸任万科法定代表人，黄力平接任
+- WTI原油日内涨幅达3.0%，报101.21美元/桶。
+- 据伊朗伊斯兰共和国广播电视台23日报道，一架美国战斗机被击中，在科威特坠落。（新华社）
+- 伊朗军方发言人用“特朗普的方式”回应特朗普
 
 ## SCMP (EN/中)
 头版/首屏:
@@ -126,24 +123,24 @@
 - China developing first tourist submersible for trips 1,000 metres under the sea
 - Science
 - Chinese surgery robot outperforms humans, cuts brain imaging time by 29%
-- Hong Kong Economy
-- Hong Kong to raise postage rates from April 13 amid surging oil prices
+- Politics
+- Withholding device passwords punishable under tightened national security rules
 其他:
 - The European Central Bank has become more hawkish, reverting to wording that analysts say often precedes interest-rate increases.
 - The Chinese prototype would enter commercial operation offering adventure-seeking holidaymakers spectacular deep-sea experiences by 2030.
 - World’s first approved cerebrovascular robot could reduce harmful radiation exposure to doctors while shaving minutes off procedure times.
-- Postage for local letters to go up by 9 per cent to HK$2.40, while increases for 90 per cent of airmail will be within HK$0.50.
+- Hong Kong must maintain high degree of vigilance given ‘complex and volatile geopolitical situation’, authorities say.
 - Trump-Xi summits: an inside view with US ex-diplomat William Klein
 - Middle East
 - Iran awaits Trump threat to ‘obliterate’ power plants, readies response
 - Iran has threatened to ‘completely’ close the Strait of Hormuz and hit the region’s infrastructure after Trump’s ultimatum.
-- Turning coal to medicines: Chinese scientists bring a 160-year-old dream to life
-- Study cracks a puzzle that has baffled scientists and will reshape modern medicine production as the world reels from a global oil shortage.
+- From coal to cures: Chinese scientists bring a 160-year-old dream to life
+- Study cracks a puzzle that has baffled scientists and may reshape modern medicine production as the world reels from a global oil shortage.
 
 ## 经济通 (繁中)
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
-- 美息不变鲍公放鹰今年或仅减息一次，地产银行股齐下挫
+- 小鹏首季交付最多跌35%，遭大行降目标仍逆市靠稳
 - 中韩海关合作会 时隔10年重启
 - G7拟采行动 保护航线能源供应
 - “龙虾”未冷“果蝇”又至，AI终极竟是原点？
@@ -155,9 +152,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数24338.97-938.35(-3.71%)
+- 恒生指数24334.93-942.39(-3.73%)
                     etnet.com.hk@copyright
-- 国企指数8294.08-279.99(-3.27%)
+- 国企指数8286.63-287.44(-3.35%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -171,12 +168,11 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
 - 美联储: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
-- 美国关税: Benzinga (EN)
+- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 加密货币: Benzinga (EN)
 - 就业数据: SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中)
