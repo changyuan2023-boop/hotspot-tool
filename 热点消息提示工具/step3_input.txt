@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032023
+抓取时间: 2026032312
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 4h 47m
-- Supermicro sinks as co-founder charged with sending AI tech to China
-- How the Strait of Hormuz closure is roiling the auto sector
-- Iran keeps striking Gulf as Israel pledges to spare energy sites
-- $200 billion for the war in Iran? Trump calls it a 'small price to pay.'
-- Gas prices surge closer to $4 per gallon
-- What to know about trip cancellation insurance as flight chaos grows
-- Nvidia's $20B Groq deal queried by Warren, senators
+- U.S. markets open in 9h 24m
+- 'Energy tax': How surging gas prices may impact consumers, inflation
+- 3 weeks of war, possible rate hikes, AI's 'show me' phase: What to watch
+- Trump's push to oust Powell could keep the Fed chair around for longer
+- Gold extends losses amid 'brutal flush' as inflation worries mount
+- Trump and Iran hurl war threats with Hormuz crisis building
+- Gold whipsaws after worst week in 40 years as war risks mount
+- Fannie, Freddie place large bids for mortgage-backed securities
 其他:
-- Stocks sink as oil seesaws on Iran war jitters
-- Iran war is the greatest threat to global energy 'in history': IEA
-- Why US airlines are less worried by Iran war than overseas peers
-- Sanofi launches innovation and operation centre in China
-- Oil Set for Another Weekly Surge as Middle East War Drags On
-- Global oil price stuck in triple digits. Goldman Sachs says it may stay there for years
-- Your flight is about to get more expensive. These tips could save you.
-- Pinterest CEO calls for ban on social media for youth under 16
-- Unilever Looks to Offload $33 Billion Food Arm to McCormick
-- Trump releases AI policy to pre-empt state rules
+- US stock futures drop in 4-week fall as Trump issues Iran ultimatum
+- Traders brace for turbulent open as war rages on
+- The Saudi oil pipeline the world didn't know it needed
+- Oil Fluctuates as Trump’s Hormuz Ultimatum Fails to Stir Traders
+- Oil prices rise after Trump issues ultimatum and Iran threatens to close the Strait of Hormuz indefinitely
+- Asia’s Busiest Earnings Week Puts Tech, Consumer Shares in Focus
+- Oil’s Surge Forces Latin America to Overhaul Its Energy Policies
+- Musk says SpaceX and Tesla to build advanced chip factories in Austin
+- Trump DHS Nominee Mullin Advances in Senate Procedural Vote
+- People don’t know how prices will behave in the near term. Especially right now.
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,75 +77,76 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- What's Going On With AIM ImmunoTech Stock Friday?
-- Infosys Launches AI-Powered Formula E Race Centre To Deepen Fan Engagement
-- Planet Labs Stock: To The Moon And Back(log)
-- What's Behind The Boost In SolarEdge Stock Today?
-- Novartis Strikes $3 Billion Deal For Next-Gen Breast Cancer Drug
-- Stock Market Today: Futures Drop Ahead Of 'Triple Witching' Session As Iran Threatens 'Zero Restraint'— FedEx, Super Micro In Focus (UPDATED)
-- Scott Bessent
-- Oil Price
-- Donald Trump
-- Bitcoin, XRP, Dogecoin Steady, While Ethereum Dips Amid Middle East Oil Crisis: Analyst Says BTC Approaching 'Potential Launchpad' For Next Bull Cycle
+- US Ground Troops To Enter Iran Soon? Odds Climb On Crypto Prediction Market In A Week As Tensions Escalate
+- Loud Explosions Reportedly Rock Tehran As Iran Warns Gulf Neighbors Of Energy Retaliation If Trump Attacks Power Grid: Dow Futures Trade Flat
+- Bitcoin, Ethereum, XRP, Dogecoin Drop Amid Trump's Iran Ultimatum: Analyst Says This Is A 'Good Zone To Accumulate'
+- 'Budgets Work If You Stick To Them,' Dave Ramsey Tells Caller Making $130K With $76K Debt — 'No Pizza Tonight, Goober'
+- Trump Says 'The Only Thing Really Going Up Big' Is Your 401(k)s — But Hardship Withdrawals Just Hit a Record High
+- Sam Altman
+- Elon Musk
+- What's Weighing On United Airlines Stock Friday?
+- Trump's Iran War Sparks Bond Market Revolt, Gold's Worst Week Since 1983 And More: This Week In Economy
+- SEC Greenlights Nasdaq's Tokenized Settlement Pilot: What It Means For Investors
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 俄称美以轰炸伊朗恩泽利港触及俄经济利益
-- 伊朗最高领袖新年致辞：在民族团结和国家安全的庇护下实现经济韧性
-- 科威特：炼油厂火情已经得到控制，没有人受伤。
-- 焦煤夜盘收涨约8.7%，LPT涨6.8%，焦炭涨4.8%。
-棕榈油、豆一、低硫燃油夜盘则至多收跌0.29%，豆二、豆粕、菜粕至多跌0.70%。
-- 据知情人士透露，亿万富翁Batista洽谈拯救巴西钢铁巨头CSN旗下一个部门。（彭博）
-- 港交所文件显示，PT Merdeka Gold Resources Tbk - S向港交所提交上市申请书，联席保荐人为瑞银、中信证券。
-- 标普500指数跌幅扩大至1%，房地产板块跌1.45%，公用事业板块跌1.39%，科技板块跌1.14%，电信板块跌1.13%，能源板块涨1.17%。
-道指跌284
-- 美国所有期限国债的收益率涨幅至少达到10个基点。
-- WTI原油日内涨幅达1.0%，报96.53美元/桶。
-- 美国总统特朗普：相比俄罗斯总统普京，乌克兰总统泽连斯基更难打交道。
-- 任鸿斌会见美国苹果公司首席执行官蒂姆·库克
-- 京东云披露“龙虾天团”：基于JoyAI大模型驱动
+- 前2个月 义乌外贸进出口增长52.8%
+- 世界气象组织：地球能量失衡程度达新高
+- 小鹏成立Robotaxi业务部
+- 印度股指Sensex指数、Nifty指数日内跌2%。
+- 伊朗西部一居民区遭袭 造成人员伤亡
+- 雷军：未来五年小米研发投入计划超过2000亿
+- 印度卢比兑美元跌至历史新低93.8350。
+印度10年期国债收益率上行4个基点至6.78%。
+- 上证指数早盘收报3858.18点，跌2.50%。
+深证成指早盘收报13515.13点，跌2.53%。
+创业板指早盘收报3270.16点，跌2.44%。
+沪深30
+- 3月23日午间收评：三大指数均跌超2%，全市场下跌个股超5000只
+- 国债期货早盘收盘，30年期主力合约涨0.05%，10年期主力合约跌0.09%，5年期主力合约跌0.06%，2年期主力合约跌0.03%。
+- 万科2027年到期美元债势创3个月最大跌幅，该公司3.975%债券每1美元跌3.5美分，至38.7美分。
+- 据小米汽车消息，小米新SU7今日开启交付。
 其他:
-- 英国央行沟通策略遭外界抨击：鹰派转向引发债券市场暴跌
-- 伊朗“圣城旅”指挥官："抵抗轴心"将独立对美以开展行动
-- 德国10年期国债收益率创2011年以来新高
-- 美国提及NextEra Energy在得克萨斯州的项目和宾夕法尼亚州的天然气设施。
-在与日本的众多新项目协议提及GE Vernova Hitachi。
-- 英国国债价格跌幅扩大，两年期英债收益率涨20个基点，报4.61%。
-- 美官员称美国向中东增派数千士兵
-- 张文宏：中国医疗效率堪比“送快递”，但真正的鸿沟尚待消除
-- 美政府起诉哈佛大学 指控其未保护犹太及以色列学生
-- 纽约金日内跌幅达1.0%，报4557.2美元/盎司。
-- 据美国纽约联储数据，上个交易日（3月19日）担保隔夜融资利率（SOFR）报3.62%，之前一天报3.62%。
-上个交易日有效的联邦基金利率报3.64%，之前一天
+- “中印首都将恢复直航”，印媒迅速跟进报道
+- 阿里巴巴港股盘中拉升，目前跌幅收窄至约2%。此前据华尔街见闻获悉，阿里巴巴达摩院明日或将发布重要芯片产品，或直指今年爆发的AI Agent算力需求。
+- 贵州发行10年期一般债地方债，规模236.2499亿元，发行利率2.0000%，边际倍数1.10倍，倍数预期1.98；
+贵州发行5年期普通专项地方债，规模7.0
+- 老挝国会选举通伦为国家主席
+- 日本正在考虑削减通胀挂钩债券的回购规模。（路透）
+- 库克称中国是苹果全球供应链最主要基地
+- 阿里明日或将发布重要芯片产品
+- 连续三周，国产模型调用量反超美国模型
+- 民调显示：三分之二美国人认为对伊战争是“选择性战争”
+- 瑞银CEO Sergio Ermotti表示，瑞银的客户并没有因为中东冲突而对资产配置做出重大改变，但消化战争的全部影响还需要时间。
 
 ## SCMP (EN/中)
 头版/首屏:
-- China adds 12 banks to digital yuan system, expanding e-CNY’s economic presence
-- What 2 new laws at ‘two sessions’ mean for China’s financial superpower push
-- China Economy
-- How China plans to use new law to further its financial superpower ambitions
+- China developing first tourist submersible for trips 1,000 metres under the sea
+- Foreigners flock to China’s ice and snow sights, with 130% inbound tourism spike
 - Science
-- From years to a week: China’s superfast software for hypersonic weapon design
-- Military
-- How did Iran manage to detect and damage a US F-35? Chinese experts map out ways
+- Chinese surgery robot outperforms humans, cuts brain imaging time by 29%
+- Big Tech
+- What is ‘tokenomics’ and how would China gain the edge in an AI era?
+- Hong Kong Economy
+- Exclusive | Hong Kong developer banks on arts and finance synergy in West Kowloon cultural hub
 其他:
-- More than doubling the number of institutions using digital yuan in day-to-day operations, China is deepening the currency's role in its financial system.
-- The draft finance law, released by the Ministry of Justice, central bank and three other regulators, will solicit feedback until April 19.
-- China’s new software simulates scramjet physics in one week versus years, marking high-fidelity leap in hypersonic engine research.
-- US Central Command says stealth fighter was forced to make an emergency landing during a combat mission over Iran.
-- How long will US-Israel war on Iran last? Chinese analysts offer clues
-- Politics
-- Exclusive | Trump ally Steve Daines will be first US senator to visit Hong Kong since 2019
-- As Beijing and Washington negotiate new schedule for Trump’s visit, Daines is expected to meet US business leaders in Hong Kong on March 30.
-- Can the US reopen the Strait of Hormuz? Many military analysts are sceptical
-- Chinese observers question whether air strikes, and even a limited ground presence, will be enough to remove the threat to shipping.
+- The Chinese prototype would enter commercial operation offering adventure-seeking holidaymakers spectacular deep-sea experiences by 2030.
+- World’s first approved cerebrovascular robot could reduce harmful radiation exposure to doctors while shaving minutes off procedure times.
+- As tokens are positioned as the AI era’s commodity, China’s energy scale and low-cost models could give it a structural edge.
+- Sun Hung Kai Properties pushes its ‘Central 2.0’ vision in West Kowloon, linking arts, culture and wealth management despite market headwinds.
+- Trump-Xi summits: an inside view with US ex-diplomat William Klein
+- Middle East
+- Iran awaits Trump threat to ‘obliterate’ power plants, readies response
+- Iran has threatened to ‘completely’ close the Strait of Hormuz and hit the region’s infrastructure after Trump’s ultimatum.
+- Military
+- Why is China’s ASN-301 suicide drone more deadly than its Iranian counterpart?
 
 ## 经济通 (繁中)
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
 - 美息不变鲍公放鹰今年或仅减息一次，地产银行股齐下挫
-- 黄金迈“猴市” 多间银行限个人炒金
-- 美倘达3大目标 特朗普料宣告胜利
+- 中韩海关合作会　时隔10年重启
+- G7拟采行动 保护航线能源供应
 - “龙虾”未冷“果蝇”又至，AI终极竟是原点？
 - 指数环球商品外汇
 - 国金观点
@@ -155,9 +156,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25277.32-223.26(-0.88%)
+- 恒生指数24399.52-877.80(-3.47%)
                     etnet.com.hk@copyright
-- 国企指数8574.07-121.81(-1.40%)
+- 国企指数8313.42-260.65(-3.04%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -173,12 +174,12 @@
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: Benzinga (EN)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN)
+- 美联储: Yahoo Finance (EN), Benzinga (EN)
+- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
 - 加密货币: Benzinga (EN)
+- 就业数据: SCMP (EN/中)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
