@@ -3,22 +3,24 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 3h 33m | Oil pushes higher as clock ticks on Trump's deadline | Trump's push to oust Powell could keep the Fed chair around for longer | Trump and Iran hurl war threats as Hormuz crisis intensifies
-  - 其他: Stock futures sink as Iran strikes despite Trump ultimatum | Over 40 Middle East energy assets 'severely damaged,' IEA says | Fannie, Freddie place large bids for mortgage-backed securities | Oryon Cell Therapies launches with $21 million to advance Parkinson's treatment | Exclusive-EU digital rules should apply to Big Tech's smart TVs, broadcasters tell antitrust chief
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 52m | Trump's push to oust Powell could keep the Fed chair around for longer | Oil pushes higher as clock ticks on Trump's deadline | Trump and Iran hurl war threats as Hormuz crisis intensifies
+  - 其他: Stock futures roar higher as Trump calls off Iran strike ultimatum | Gold extends losses amid 'brutal flush' as inflation worries mount | Over 40 Middle East energy assets 'severely damaged,' IEA says | Cencora to buy retina business of EyeSouth Partners for $1.1 billion | Copper Hits Three-Month Low as War Fuels Global Growth Worries
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Alibaba Chairman Credits Power Grid, Open Source For China's AI Boom | Dave Ramsey Warns Debt 'Crushing' Young Homebuyers As Mortgage Rates Hit 3-Month High | AMD Eyes Massive Upstage Deal As Korean AI Startup Seeks Nvidia Alternatives | Tesla Rival XPeng Sets Up Robotaxi Unit Ahead Of Commercial Rollout: Report | Stock Market Today: S&P 500, Dow Jones Futures Plunge As Trump Issues Ultimatum To 'Obliterate' Iran—SSR Mining, Nebius, United Airlines In Focus
+  - 其他: Trump Pauses Iran Strikes For Five Days Amid 'Very Good And Productive' Talks | BlackRock Pivots 'Hard' For 3rd Time In 50 Years: Chasing 300-400% Returns With 4 Commodity Plays, Says Former Banker | What's Going On With Cadeler Stock Monday? | The Thing I Really Want To Emphasize Is That Nobody Knows | Medicare And Medicaid Services Says New Rule Could Save Taxpayers $781 Million Every Year
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 美军“福特”号航母今天（3月23日）抵达希腊克里特岛苏达湾。 (CCTV国际时讯) | “升级版”中欧出口管制对话机制第二次会议在京举行 | 初步数据显示：日本工会连续第三年争取到超过5%的工资涨幅 | 紫金矿业：首次回购2100万股 耗资约6.42亿元 | 美国国债价格延续跌势，10年期国债收益率上行5个基点至4.43%。 | 美元指数升破100，日内上涨0.5%。 | 日本首相高市早苗：将于周二设立专门小组讨论中东局势影响。
-中东局势不会立即影响日本国内石油产品。 | 欧洲斯托克600指数跌幅扩大至2%，至561.68点。
-英国富时100指数、法国CAC40指数日内均跌超2%。
-  - 其他: 美股三大期货跌幅收窄，道指期货跌0.33%，标普500指数期货跌0.46%，纳指期货跌0.52%。此前三大股指期货均跌1%。 | 伊朗媒体列出中东地区11处发电与海水淡化站等目标 | 香港：提升伊朗及以色列的外游警示级别至黑色 | 新加坡海峡时报指数收盘下跌2.2%，报4841.30点。 | 研究显示新技术可快速检测细菌耐药性
+  - 头版/首屏: 欧股涨幅收窄，德国DAX指数涨幅收窄至1.6%，此前涨超4%；欧洲斯托克50指数涨幅收窄至1.8%，此前涨3.5%；法国CAC 40指数涨幅收窄至1.25%，此 | 伊朗发起第76波打击 | 文远知行：2025年总营收6.9亿元，同比增长90% | LG化学两项在华锂电专利上诉被驳回 容百科技：有利于子公司与LG化学专利纠纷解决 | 工业和信息化部负责人会见苹果、高通、SK海力士、大众汽车、梅赛德斯-奔驰、西门子等跨国企业和商协会负责人 | 欧美股市拉升，德国DAX指数涨超4%，道指期货一度涨近3% | 习近平在河北雄安新区考察并主持召开深入推进雄安新区高质量建设和发展座谈会时强调，牢牢把握雄安新区功能定位，努力建设新时代创新高地和推动高质量发展样板。（新华社） | 美元指数持续走低，较日内高位走低约100点，最新报99.50。
+  - 其他: 现货黄金短线拉升约120美元，现报4401.28美元/盎司。
+现货白银日内涨幅达1.5%，报68.89美元/盎司。
+比特币短线拉升逾2000美元，现报70,57 | WTI原油日内跌幅达13.0%，报85.27美元/桶。
+布伦特原油日内跌幅达13.5%，报91.72美元/桶。
+现货白银日内涨幅达1.0%，报68.77美元/盎 | 美股期货拉升，纳斯达克100指数期货涨超2%，标普500指数期货涨超2%。 | 油价下挫，WTI原油日内跌幅达4.5%，报93.63美元/桶；布伦特原油日内跌幅达3.5%，报102.22美元/桶。 | 大商所：调整液化石油气期货合约涨跌停板幅度和交易保证金水平
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: China cuts some hi-tech metals sent to Japan – but magnet exports rise. Why? | Japan taps oil reserves as Iran war spreads. Could it give China leverage? | China Business | Markets brace for rate hikes as Iran war and US$100 oil stoke tightening fears | Diplomacy | Iran war delivers new stress to African economies emerging from older shocks | Hong Kong Economy | From toys to toilet paper, prices set to rise amid Middle East war, experts say
-  - 其他: Exports of gallium and germanium have slowed, yet rare earth magnet shipments have increased amid strained ties. | The European Central Bank has become more hawkish, reverting to wording that analysts say often precedes interest-rate increases. | Afreximbank is implementing measures to give financial help to African countries dependent on fuel imports, bank president says. | Hong Kong business leaders also warn that local exporters and manufacturers face cash-flow squeeze as overseas buyers opt for short-term orders. | Trump-Xi summits: an inside view with US ex-diplomat William Klein
+  - 头版/首屏: ‘No dispute’: Beijing defends construction on Paracels in South China Sea | Vietnam protests as China’s Paracels build-up escalates at Antelope Reef | Diplomacy | Breaking | Trump says US will halt military strikes on Iranian power plants for 5 days | Markets | Global investors pivot to ‘stability’ of China amid turmoil: Milken forum | Hong Kong | No funding cuts to Hong Kong arts groups for next 3 years, agency chief pledges
+  - 其他: China says living conditions and local economy stand to benefit, days after Vietnam states opposition to land-reclamation activities. | US president says he has instructed the Pentagon to ‘postpone any and all’ strikes on energy infrastructure, ‘subject to success’ of talks. | China no longer ‘unloved’ as advances including AI, biotech drive revival in investor interest, attendees hear at symposium in Hong Kong. | Hong Kong Arts Development Council chairman says agency will review grant system and save costs internally amid government’s bid to reduce spending. | From coal to cures: Chinese scientists bring a 160-year-old dream to life
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 小鹏首季交付最多跌35%，遭大行降目标仍逆市靠稳 | 中韩海关合作会 时隔10年重启 | G7拟采行动 保护航线能源供应 | “武”惊四座冲刺IPO，老行尊道破宇树挑战 | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -36,7 +38,8 @@
 - **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
 - **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
+- **加密货币** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、重要性结论（综合头版+多站+股市相关）
@@ -45,6 +48,7 @@
 
 - **伊朗/中东局势**：影响油价、避险资产、全球风险偏好，多站头版。
 - **油价/霍尔木兹海峡**：特朗普护航表态后美油转跌，航运与能源股敏感。
+- **加密货币**：比特币破 7 万、Coinbase 等个股大涨，多站提及。
 
 ### 重要（头版或单站重点）
 
