@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 9h 24m
+- U.S. markets open in 8h 34m
 - 'Energy tax': How surging gas prices may impact consumers, inflation
 - 3 weeks of war, possible rate hikes, AI's 'show me' phase: What to watch
 - Trump's push to oust Powell could keep the Fed chair around for longer
 - Gold extends losses amid 'brutal flush' as inflation worries mount
 - Trump and Iran hurl war threats with Hormuz crisis building
-- Gold whipsaws after worst week in 40 years as war risks mount
 - Fannie, Freddie place large bids for mortgage-backed securities
+- Traders brace for turbulent open as war rages on
 其他:
 - US stock futures drop in 4-week fall as Trump issues Iran ultimatum
-- Traders brace for turbulent open as war rages on
 - The Saudi oil pipeline the world didn't know it needed
+- Border czar Homan says ICE will do 'non-significant' tasks at airports
+- AI Startup Upstage in Talks to Buy 10,000 AMD Chips in Korea
 - Oil Fluctuates as Trump’s Hormuz Ultimatum Fails to Stir Traders
 - Oil prices rise after Trump issues ultimatum and Iran threatens to close the Strait of Hormuz indefinitely
 - Asia’s Busiest Earnings Week Puts Tech, Consumer Shares in Focus
 - Oil’s Surge Forces Latin America to Overhaul Its Energy Policies
 - Musk says SpaceX and Tesla to build advanced chip factories in Austin
 - Trump DHS Nominee Mullin Advances in Senate Procedural Vote
-- People don’t know how prices will behave in the near term. Especially right now.
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,11 +77,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
+- Elon Musk's X Money To Power 7721% Dogecoin Rally? Top Analyst Says 'May Be,' But Would Wait For A Dip To This Level To Enter
+- Tom Homan Says He Doesn't See ICE Agents Looking At X-Ray Machines At Airports Because They Are 'Not Trained In That'
+- Anthony Scaramucci Explains How Trump Thinks And Why He Operated 'Unilaterally' On Iran: He Believes He's 'Smarter Than Everybody'
 - US Ground Troops To Enter Iran Soon? Odds Climb On Crypto Prediction Market In A Week As Tensions Escalate
 - Loud Explosions Reportedly Rock Tehran As Iran Warns Gulf Neighbors Of Energy Retaliation If Trump Attacks Power Grid: Dow Futures Trade Flat
-- Bitcoin, Ethereum, XRP, Dogecoin Drop Amid Trump's Iran Ultimatum: Analyst Says This Is A 'Good Zone To Accumulate'
-- 'Budgets Work If You Stick To Them,' Dave Ramsey Tells Caller Making $130K With $76K Debt — 'No Pizza Tonight, Goober'
-- Trump Says 'The Only Thing Really Going Up Big' Is Your 401(k)s — But Hardship Withdrawals Just Hit a Record High
 - Sam Altman
 - Elon Musk
 - What's Weighing On United Airlines Stock Friday?
@@ -90,9 +90,20 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
+- 预告：国新办3月24日就第九届数字中国建设峰会有关情况举行新闻发布会
+- 古巴全国电力系统恢复
+- 以媒称美考虑地面行动夺取伊朗哈尔克岛
+- 印度10年期国债收益率上升10个基点至6.84%，至2025年1月以来高位。
+- 日本首相高市早苗：不会对汇率水平作出具体评论。
+将打造对汇率波动具有韧性的经济。
+- 紫金矿业回应并购赤峰黄金：黄金进一步上涨的逻辑没有变化
+- 中国石油集团董事长戴厚良会见道达尔能源公司董事长潘彦磊
+- 早间要闻汇总
+- 提醒：日内请重点关注（以下均为北京时间）
 - 前2个月 义乌外贸进出口增长52.8%
 - 世界气象组织：地球能量失衡程度达新高
 - 小鹏成立Robotaxi业务部
+其他:
 - 印度股指Sensex指数、Nifty指数日内跌2%。
 - 伊朗西部一居民区遭袭 造成人员伤亡
 - 雷军：未来五年小米研发投入计划超过2000亿
@@ -105,19 +116,8 @@
 - 3月23日午间收评：三大指数均跌超2%，全市场下跌个股超5000只
 - 国债期货早盘收盘，30年期主力合约涨0.05%，10年期主力合约跌0.09%，5年期主力合约跌0.06%，2年期主力合约跌0.03%。
 - 万科2027年到期美元债势创3个月最大跌幅，该公司3.975%债券每1美元跌3.5美分，至38.7美分。
-- 据小米汽车消息，小米新SU7今日开启交付。
-其他:
-- “中印首都将恢复直航”，印媒迅速跟进报道
-- 阿里巴巴港股盘中拉升，目前跌幅收窄至约2%。此前据华尔街见闻获悉，阿里巴巴达摩院明日或将发布重要芯片产品，或直指今年爆发的AI Agent算力需求。
-- 贵州发行10年期一般债地方债，规模236.2499亿元，发行利率2.0000%，边际倍数1.10倍，倍数预期1.98；
-贵州发行5年期普通专项地方债，规模7.0
-- 老挝国会选举通伦为国家主席
-- 日本正在考虑削减通胀挂钩债券的回购规模。（路透）
 - 库克称中国是苹果全球供应链最主要基地
-- 阿里明日或将发布重要芯片产品
 - 连续三周，国产模型调用量反超美国模型
-- 民调显示：三分之二美国人认为对伊战争是“选择性战争”
-- 瑞银CEO Sergio Ermotti表示，瑞银的客户并没有因为中东冲突而对资产配置做出重大改变，但消化战争的全部影响还需要时间。
 
 ## SCMP (EN/中)
 头版/首屏:
@@ -127,13 +127,13 @@
 - Chinese surgery robot outperforms humans, cuts brain imaging time by 29%
 - Big Tech
 - What is ‘tokenomics’ and how would China gain the edge in an AI era?
-- Hong Kong Economy
-- Exclusive | Hong Kong developer banks on arts and finance synergy in West Kowloon cultural hub
+- Transport
+- Changes to Hong Kong’s HK$2 transport subsidy scheme to kick in on April 3
 其他:
 - The Chinese prototype would enter commercial operation offering adventure-seeking holidaymakers spectacular deep-sea experiences by 2030.
 - World’s first approved cerebrovascular robot could reduce harmful radiation exposure to doctors while shaving minutes off procedure times.
 - As tokens are positioned as the AI era’s commodity, China’s energy scale and low-cost models could give it a structural edge.
-- Sun Hung Kai Properties pushes its ‘Central 2.0’ vision in West Kowloon, linking arts, culture and wealth management despite market headwinds.
+- Under revision, elderly and disabled residents will enjoy flat rate for trips costing HK$10 or less, pay 20 per cent of fares exceeding threshold.
 - Trump-Xi summits: an inside view with US ex-diplomat William Klein
 - Middle East
 - Iran awaits Trump threat to ‘obliterate’ power plants, readies response
@@ -145,7 +145,7 @@
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
 - 美息不变鲍公放鹰今年或仅减息一次，地产银行股齐下挫
-- 中韩海关合作会　时隔10年重启
+- 中韩海关合作会 时隔10年重启
 - G7拟采行动 保护航线能源供应
 - “龙虾”未冷“果蝇”又至，AI终极竟是原点？
 - 指数环球商品外汇
@@ -156,9 +156,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数24399.52-877.80(-3.47%)
+- 恒生指数24400.46-876.86(-3.47%)
                     etnet.com.hk@copyright
-- 国企指数8313.42-260.65(-3.04%)
+- 国企指数8312.17-261.90(-3.05%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -171,14 +171,14 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 美联储: Yahoo Finance (EN), Benzinga (EN)
-- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
 - 加密货币: Benzinga (EN)
 - 就业数据: SCMP (EN/中)
+- 中国/欧盟: SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
