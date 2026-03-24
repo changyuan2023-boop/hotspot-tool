@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032415
+抓取时间: 2026032417
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 5h 41m
-- Trump began Iran talks as allies warned war risked disaster
-- Amazon says AWS' Bahrain region 'disrupted' following drone activity
-- Oil resumes advance on concern Middle East war may escalate
-- Broadcom flags supply constraints, says TSMC capacity a bottleneck
-- Musk's Terafab is here: Why it's important for Tesla and SpaceX
-- Alibaba develops next-gen chip for agentic AI
-- Trump delays energy strikes, sets five days for Iran talks
-其他:
+- U.S. markets open in 3h 39m
 - US stock futures fall as Iran officials reject US negotiations
-- Rivian CEO explains why the AI 'driver' is the future of mobility
-- What to know about cancellation insurance as flight chaos grows
-- Samsung Electronics, union to resume talks over bonus, union says
+- Amazon says AWS' Bahrain region 'disrupted' following drone activity
+- Musk's Terafab is here: Why it's important for Tesla and SpaceX
+- Trump's delay fails to calm jitters over war as funds trim risk
+- Iran strikes persist even as Trump claims talks to end conflict
+- SK Hynix places record $8B order for ASML chipmaking tools
+- Oil resumes advance on concern Middle East war may escalate
+其他:
+- How the Fed has — and hasn't —reacted to oil price shocks
+- Alibaba unveils new chip design to meet surging demand for AI
 - Oracle reworks its finance, procurement apps for AI agents
-- China positions itself as a stable economic force amid global uncertainty at Beijing forum
-- SK Hynix to buy EUV scanners for $8 billion from ASML Korea
-- Australia and EU seal trade deal, seek to cut reliance on China for critical minerals
-- Alibaba Unveils New Chip Design to Meet Surging Demand for AI
-- Exclusive-ZYT readies AI that can outdrive its own CEO on Shenzhen streets
+- A deal with Iran wouldn’t lower your gas prices anytime soon
+- Chinese firms' involvement in 5G network may deter investors, EU warns Vietnam
+- SK Hynix may raise up to $10 billion from US listing, Korea Economic Daily says
+- SK Hynix to Buy $8 Billion of Top-End ASML Chipmaking Gear
+- Saudi Arabia, Kuwait Seek to Pursue Energy Deals Despite War
+- Oil Market Saw Trading Spike Before Trump’s Iran Pivot Post
+- Samsung Electronics, union to resume talks over bonus, union says
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,67 +77,68 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Dow Jumps Over 600 Points After Trump's Post On Iran Strike Pause: Greed Index Remains In 'Extreme Fear' Zone
-- 'Black Swan' Author Taleb Warns 'Fat Tails' Could Turn Bessent's 50-Day Oil Shock Into Decade of Chaos Amid Iran War
-- Kevin O'Leary Slams 'Government-Subsidized' Intel Chips After Robot Malfunction: 'We Should Have Never Funded...'
-- Huya Turns To Game Monetization To Drive Growth Beyond Streaming
-- Top Wall Street Forecasters Revamp AAR Expectations Ahead Of Q3 Earnings
-- Explosion Reported At Valero's Port Arthur Refinery, Police Advises Citizens To Shelter In Place
+- Adam Schiff Takes Swipe At Trump Amid TSA Chaos, Iran War: 'Paying $5/Gallon For Gas'
+- Nvidia CEO Jensen Huang Drops A Bombshell— 'I Think We've Achieved AGI'
+- Why Apollo Is Betting Billions On This Glass Maker
+- Bitcoin's 'Final Discount' Window Approaching, Says Analyst, Flags Buy Zone Between These Levels
+- Why Paranovus Entertainment Technology Shares Are Trading Higher By Around 66%; Here Are 20 Stocks Moving Premarket
+- Stock Market Today: Dow, S&P 500 Futures Fall As Iran Says 'No Negotiations' Took Place With US—Coherent, Apollo Global, GameStop In Focus
 - Donald Trump
 - Bionano Genomics Stock Soars As Efficiency Gains Meet Growth Story
-- Goldman Sachs Raises Oil Price Forecasts – Picks 7 Winners Among Energy Stocks
-- Braze Gears Up For Q4 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts
+- Bitcoin Spikes After Trump's Post On 'Productive' Talks With Iran; Ethereum, XRP, Dogecoin Also Rally: Analyst Says BTC Can Test $75,000 This Month
+- AI Agent Crypto Crash: Can Blockchain AI Recover As Big Tech Dominates The Narrative?
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 南向资金净卖额超250亿港元。
-- 云南发行7年期棚改专项地方债，规模1.6000亿元，发行利率1.7500%，边际倍数2.75倍，倍数预期1.76；
-云南发行10年期其他专项地方债，规模33.1
-- 日本石油协会将停止公布石油产品库存数据，称现行方法难以保证准确性。（彭博）
-- 伊朗最高领袖顾问重申结束战争条件
-- 三井住友金融集团在为可能收购Jefferies做准备。（英国金融时报）
-- 商务部：希望美方与中方相向而行，共同维护中美经贸关系稳定、健康、可持续发展
-- 国家金融监督管理总局党委委员、副局长周亮接受中央纪委国家监委审查调查。（新华社）
-- 不必等到成为超级富豪 在南非年薪4.4万美元就可拥有私人银行账户
-- 港股大模型股拉升，MINIMAX涨超12%，智谱涨超10%。
-- 丹麦新一届议会选举启动投票
-- 美元指数回吐涨幅，现报99.19。
-- 印度NIFTY50指数涨2%，刷新日高。
-印度国债价格走升，10年期国债期货收益率下降3个基点至6.81%。
+- 海油发展：2025年净利润38.84亿元，同比增长6.24%
+- 药明生物：2025年调整后净利润56.4亿元 同比增长17.9%
+- 以官员称美伊达成协议的可能性“微乎其微”
+- 郭守敬望远镜发布光谱数突破3000万
+- 平安好医生：2025年调整后净利润人民币4.14亿元，同比增长161.3%
+- 小米集团：2026年1月1日至2026年3月20日，小米的股票回购金额达港币约47亿元，即约1.3亿股股票。
+- 影石将推出旗舰级无线麦克风，补齐智能影像生态链
+- 英国经济数据公布后，英镑兑美元跌幅扩大，下跌0.4%至1.3380；英国国债抹去早盘涨幅，2年期国债收益率持平于4.41%。
+- 小米集团：预估未来五年累计研发开支将超过人民币2000亿元
+- 英国3月制造业PMI初值 51.4，预期 50，前值 51.7。
+- 英国3月服务业PMI初值 51.2，预期 52.9，前值 53.9。
+- 英国3月综合PMI初值 51，预期 52.8，前值 53.7。
 其他:
-- 航旅纵横：清明假期国内航线机票预订量超190万张同比增约20%
-- 国债期货收盘，30年期主力合约涨0.52%，10年期主力合约涨0.02%，5年期主力合约与昨日持平，2年期主力合约跌0.02%。
-- 伊朗、埃及外长通话讨论地区局势
-- 印度NIFTY指数涨2%，报22962.55点。
-- 伊拉克民兵武装称地区总部遭美空袭 致至少15人死亡
-- 沪深两市今日成交额合计20828.68亿元
-- MSCI亚太指数上涨2%至234.50点。
-- 农发行发行2年期债券，规模20亿元，发行利率1.4843%，预期1.5000%，投标倍数7.00倍，边际倍数1.00倍；
-农发行发行2年期债券，规模30亿元，发
-- 网易有道龙虾获OpenClaw创始人点赞
-- 霍尔木兹海峡3月通航量暴跌逾九成
+- 小米集团：2025年智能电动汽车及AI等创新业务分部收入同比增长223.8%
+- 小米集团第四季度营收1,169.2亿元人民币，市场预估1,163亿元人民币。
+第四季度调整后净利润63.5亿元人民币，市场预估57.8亿元人民币。
+第四季度毛利
+- 伊朗警方逮捕与敌方有关联者466人
+- 我国日均词元（Token）调用量超140万亿
+- 国投白银LOF：将于2026年3月25日开市起至当日10:30停牌，自2026年3月25日10:30复牌。
+- 【中国央行：将开展5000亿元MLF操作，期限为1年期】中国人民银行：为保持银行体系流动性充裕，2026年3月25日，中国人民银行将以固定数量、利率招标、多重价
+- 欧元区3月制造业PMI初值51.4，创45个月新高。
+欧元区3月服务业PMI初值50.1，创10个月新低。
+欧元区3月综合PMI初值50.5，创10个月新低。
+- 中国人民银行行长潘功胜会见国际货币基金组织第一副总裁丹·卡茨
+- 伊朗西北部两处居民区遭袭 致6死9伤
+- OpenClaw升级现严重事故 激进重构致用户全线报错
 
 ## SCMP (EN/中)
 头版/首屏:
-- Xi Jinping pushes Xiongan to embrace science to build ‘city of the future’
-- Innovation plus livelihoods – the twin tracks of China’s 5-year plan
-- China Economy
-- Global South to bear the brunt of Strait of Hormuz crisis amid food scarcity
-- Science
-- China-US study shows new EV battery tech can withstand global warming
+- China slams Japan’s ‘kill network’ as long-range missile deployment looms
+- Japanese ‘military officer’ forces way into Chinese embassy in Tokyo
+- Diplomacy
+- Big Tech
+- Alibaba debuts its latest RISC-V-based chip amid shift to AI agents
 - No alarm, no water as Tai Po blaze broke out, resident says
-- Chinese island province wants more than beachgoers as it chases economic growth
+- China-US study shows new EV battery tech can withstand global warming
+- Transport
 其他:
-- On his fourth inspection tour of Xiongan New Area since 2017, China’s president visits school and power company.
-- Commerce chief warns of ‘heavy collateral damage’ in developing economies as flow of oil, fertiliser and perishable goods is restricted.
-- Major advancements in electric battery technologies mitigate impact of future warming, study finds.
+- PLA Daily describes upgraded Type-12 surface-to-ship missiles as offensive weapons capable of targeting neighbouring countries.
+- Intruder threatened to kill Chinese diplomatic personnel in the name of god, China’s foreign ministry says.
+- The launch comes as AI agents are becoming the latest battlefield for Chinese tech companies after OpenClaw took the industry by storm.
 - Another resident breaks into tears as she recounts the chaos of smoke entering her flat, mistaking it for renovation dust before escaping.
-- Asia
-- Pakistan’s ICBM threat, South Korean weapon outdoes US rival: 7 Asia highlights
-- From Trump’s Pear Harbour joke to ‘super-aged’ Singapore’s secret to aging well, here are a few highlights from SCMP’s recent Asia reporting.
-- Middle East
-- Iran targets Israel and Gulf states after denying Trump claim of talks
-- There’s no sign of reduced fighting after the US president claimed there was dialogue in the Iran war.
+- Cathay extends suspension of flights between Hong Kong, Middle East to end of May
+- Cancellation of flights to Dubai and Riyadh extended again, but airline will increase flights to Europe next month to cater to surging demand.
+- Politics
+- Xi Jinping’s vision for Xiongan: innovation to drive ‘city of the future’
+- Chinese leader visits school and power company on fourth inspection tour of Xiongan New Area since project’s launch in 2017.
+- Trump’s ‘wind-up doll’? Japan’s PM faces backlash over White House fawning
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -154,9 +155,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25031.81+649.34(+2.66%)
+- 恒生指数25063.71+681.24(+2.79%)
                     etnet.com.hk@copyright
-- 国企指数8490.67+182.85(+2.20%)
+- 国企指数8499.53+191.71(+2.31%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -170,11 +171,13 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 黄金/大宗: Benzinga (EN), 经济通 (繁中)
-- 美国关税: Benzinga (EN)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: 华尔街见闻 (简中), 经济通 (繁中)
+- 加密货币: Benzinga (EN)
+- 美联储: Yahoo Finance (EN)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
