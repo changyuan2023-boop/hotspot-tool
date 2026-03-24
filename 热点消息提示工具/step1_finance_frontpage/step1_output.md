@@ -3,28 +3,26 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 4h 25m | Rivian CEO explains why the AI 'driver' is the future of mobility | Oil plummets as Trump says US held 'productive talks' with Iran | If Iran war sends oil prices up 100%, history holds clues for what's next
-  - 其他: Stocks surge as Trump calls off Iran strikes for now | Trump's push to oust Powell could keep the Fed chair around for longer | Big Tech cause for hope: Mag 7 decouples from S&P 500 | US needs more energy development to power AI, Google president says | Exclusive-US SEC's ex-enforcement chief clashed with bosses before leaving, sources say
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Rivian CEO explains why the AI 'driver' is the future of mobility | Musk's Terafab is here: Why it's important for Tesla and SpaceX | Trump began Iran talks as allies warned war risked disaster
+  - 其他: US stock futures fall as Iran officials reject US negotiations | EU votes this week on ratifying US trade deal | Altman exits Helion Energy's board as firm explores OpenAI partnership | Alibaba develops next-gen chip for agentic AI, Chinese media says | Oil Resumes Advance on Concern Middle East War May Escalate
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Why Are Palantir Shares Surging On Monday? | This Red Rock Resorts Analyst Begins Coverage On A Bullish Note; Here Are Top 3 Initiations For Monday | FuelCell Energy Eyes Data Center Gold Rush With Rapid-Deploy Power Blocks | Why Trump Media Stock Is Surging Monday Morning | This APA Analyst Is No Longer Bearish; Here Are Top 2 Upgrades For Monday
+  - 其他: Explosion Reported At Valero's Port Arthur Refinery, Police Advises Citizens To Shelter In Place | Gary Black Says Trump 'Telling The Truth' About Ceasefire Negotiations But Warns Hardliners In Iran 'Hell-Bent' On Prolonging War | Iran War To End Soon? Ceasefire Odds Rise On Prediction Market After Trump Hails 'Good And Productive' Talks With Tehran | Tim Cook Warns Against Endless Scrolling — Ryanair Touts No Wi-Fi As A Perk | Chris Van Hollen Accuses Trump Of 'Lying' About Iran Talks After President Announces 5-Day Pause On Attacks In Tehran
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 美国财政部拍卖三个月期国债，得标利率3.635%，投标倍数2.84。
-拍卖六个月期国债，得标利率3.630%，投标倍数3.03。 | 希腊雅典证交所综合指数收涨1.78%，报2101.57点，北京时间19:00过后出现一波显著的反弹行情，19:15以来持续高位窄幅震荡、之前持续低位震荡。 | 欧盟-南共市自贸协定5月起临时生效 | 报道：伊朗否认议长与美国谈判，这是一个“弥天大谎” | 美媒称：有人正协调美伊双方本周在伊斯兰堡会谈，特朗普女婿将列席 | 美国能源部长：仍有手段可用于降低汽油价格 | 伊朗军方消息人士称：将在战斗中展示新“惊喜”，可能带来“重大效果” | 报道：特朗普女婿库什纳麾下基金资产升至62亿美元，中东资本加持
-  - 其他: 联合国秘书长呼吁用团结来对抗种族歧视 | 低硫燃油夜盘收跌约9%，燃油跌约7.2%，对二甲苯、乙二醇、PTA至少跌约4%。
-
-棉花、棉纱夜盘收平，热卷、纯碱、橡胶、纸浆夜盘则至多收涨0.96%，20号胶 | 国家电投：积极扩大有效投资 全年计划投资2000亿元 | 高盛：做空瑞典克朗，从而对冲能源冲击。 | 以高级官员：伊朗和美国本周将在巴基斯坦举行会谈
+  - 头版/首屏: 七部门联合部署2026年春耕备耕农资打假工作 | 国家数据局刘烈宏：我国日均Token的调用量超过140万亿 | 瑞银证券：A股短期“去风险化”或近尾声 | 六部门：稳步推进农村供水价格改革 | 英首相：必须做好伊朗战事不会“迅速结束”的准备 | 商务部副部长李成钢会见新加坡淡马锡控股董事长张志贤 | 中国财政部发行91天期债券，规模400亿元，发行利率1.0375%，边际利率1.0819%，预期1.0700%，投标倍数3.05倍，边际倍数1.85倍；
+中国财 | 日本拍卖40年期国债，认购倍数为2.54，过去12个月均值为2.54。
+  - 其他: 国债期货早盘收盘，30年期主力合约涨0.37%，10年期主力合约涨0.04%，5年期主力合约涨0.01%，2年期主力合约跌0.01%。 | 进出口银行今年前2个月新发放外贸领域贷款超1600亿元 | 内塔尼亚胡：正在彻底摧毁伊朗导弹计划与核计划 | 国家数据局局长刘烈宏：将梯次培育数字产业集群，培育壮大数字经济创新型企业 | 任天堂将SWITCH 2的产量削减30%以上，因假日销售疲软。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: What if US ground forces march into Iran? Chinese experts weigh the risks | Trump signals de-escalation in Iran, but experts say 5-day halt can’t end war | Diplomacy | China Economy | What does Iran war mean for China’s export machine? | Tech Trends | Alibaba unveils AI agent platform to automate global e-commerce for small businesses | From coal to cures: Chinese scientists bring a 160-year-old dream to life
-  - 其他: Seizing Kharg Island may ‘give the US greater leverage to pressure Iran into making concessions’: South China Sea analyst. | Donald Trump says US will pause military strikes on power plants following talks, but Iranian official denies negotiations. | Crisis sparks debate: will it cripple global demand or show that China’s supply-side resilience, proven during pandemic, remains in place? | The agents work as ‘virtual employees’ to tackle various tasks, including market analysis, design, sourcing and inventory monitoring. | Politics
+  - 头版/首屏: US, China ‘disjointed’ on AI, but collaboration possible: Silicon Valley tech founder | ‘iPhone City’ veteran tapped as party boss of China’s Silicon Valley | China Economy | The Iran war could widen China’s EV lead over its global rivals. Here’s why | US faces critical shortage of China expertise within a decade, report warns | Allegation of inspection ‘tip-off’ to contractor ‘groundless’, hearing told | Chinese island province wants more than beachgoers as it chases economic growth | Banking & Finance
+  - 其他: High stakes push countries to protect sovereign capabilities and data amid global yet fragmented industry, Stanford lecturer says. | The ‘eye-watering’ surge in oil prices may push consumers around the world to switch to electric cars, boosting Chinese brands, analysts say. | Ageing cadre and a weak pipeline risk eroding US-China policy, business insight and national security preparedness as prowess dwindles. | Government counsel rejects claims surveyors warned contractor before check in 2024, stressing project inspector’s legal duty for on-site supervision. | 3 Chinese EV makers raise prices – but demand slowdown could force reversal
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 小鹏首季交付最多跌35%，遭大行降目标仍逆市靠稳 | 中韩海关合作会 时隔10年重启 | G7拟采行动 保护航线能源供应 | “武”惊四座冲刺IPO，老行尊道破宇树挑战 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数24382.47-894.85(-3.54%)
-                    etnet.com.hk@copyright | 国企指数8307.82-266.25(-3.11%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 美加息机率飙升全球债市崩跌，金融股下挫未届吸纳时？ | 内地汽柴油涨价 实际加幅仅机制一半 | 国际能源署：伊朗战争 远超70年代石油危机 | “武”惊四座冲刺IPO，老行尊道破宇树挑战 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数24801.37+418.90(+1.72%)
+                    etnet.com.hk@copyright | 国企指数8410.79+102.97(+1.24%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
@@ -32,13 +30,11 @@
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **科技股/个股** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
-- **加密货币** — 出现于: Yahoo Finance (EN) (1 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、重要性结论（综合头版+多站+股市相关）
@@ -47,11 +43,9 @@
 
 - **伊朗/中东局势**：影响油价、避险资产、全球风险偏好，多站头版。
 - **油价/霍尔木兹海峡**：特朗普护航表态后美油转跌，航运与能源股敏感。
-- **加密货币**：比特币破 7 万、Coinbase 等个股大涨，多站提及。
 
 ### 重要（头版或单站重点）
 
 - 黄金/白银、伦铝等大宗商品波动。
-- 美联储表态（如米兰：伊朗风险不阻碍继续降息）。
 - 苹果 MacBook Neo、Moderna 和解、Meta 与新闻集团合作等个股与科技新闻。
 - 中国/欧盟产业政策与贸易关系。
