@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032419
+抓取时间: 2026032422
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 51m
-- US stock futures fall as Iran officials reject US negotiations
+- U.S. markets close in 5h 49m
+- Stocks fall after rally as Iran war drags on
 - Amazon says AWS' Bahrain region 'disrupted' following drone activity
 - Oil resumes advance on concern Middle East war may escalate
-- Futures markets saw trading spike before Trump's Iran post
-- Musk's Terafab fever dream exposes reality of the AI chip crunch
-- Gold edges up, snapping losing run as war hurts longtime haven
-- Trump's delay fails to calm jitters over war as funds trim risk
+- Iran starts charging up to $2M for safe passage through Hormuz
+- Iran strikes persist even as Trump claims talks to end conflict
+- Memory is Wall Street's favorite tech trade as Mag 7 disappoints
+- Jefferies stock rises as Japan's SMFG explores possible takeover
 其他:
 - How the Fed has — and hasn't —reacted to oil price shocks
-- Jefferies stock rises as Japan's SMFG explores possible takeover
-- Iran strikes persist even as Trump claims talks to end conflict
-- Factbox-Highlights of EU-Australia trade agreement
-- Karyopharm Therapeutics' blood cancer drug meets one of two main goals in study
-- Oil is back above $100 despite Trump’s comments on ending the war
-- Morning Brief: Hopes for a deal lift stocks — and send oil down
-- Kremlin on Reuters fiscal fund report: these issues are currently being worked out
-- SK Hynix to Buy $8 Billion of Top-End ASML Chipmaking Gear
-- A deal with Iran wouldn’t lower your gas prices anytime soon
+- Futures markets saw trading spike before Trump's Iran post
+- Musk's Terafab fever dream exposes reality of the AI chip crunch
+- Tesla sales rebound in Europe after massive slump
+- Why Citi still sees $150 oil
+- 'Property Brothers' Jonathan Scott: AI could unleash housing market prosperity
+- NYSE teams up with Securitize to develop tokenized securities platform
+- Tracking the Strait of Hormuz, gas and oil prices as war with Iran widens
+- 3 ways your relationship status could impact your tax bill
+- US fourth-quarter productivity growth revised sharply lower
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,65 +77,72 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- EXCLUSIVE: ZenaTech To Build $5,000 'Drone Hunter' To Shield From AI Swarm Attacks
-- AerCap Locks In Freighter Deal With Ethiopian Airlines
-- SK Hynix To Spend Billions On ASML Tools To Power Next-Gen AI Memory
-- Chevron CEO Says Markets Are Trading On 'Scant Information,' Haven't Fully Priced In Strait of Hormuz Supply Shock Despite 60% Oil Price Surge
-- The Coal Stock That Just Got Three Tailwinds At Once: BTU
-- Stock Market Today: Dow, S&P 500 Futures Fall As Iran Says 'No Negotiations' Took Place With US—Coherent, Apollo Global, GameStop In Focus
+- CRCL Sheds 6% Despite EU Push To Fast-Track Digital Asset Framework
+- Charlie Munger Said 'No Nation That Big Has Ever Advanced That Fast' — China Got Rich By Having 'A Bunch Of Poor People Save Half Their Income'
+- EXCLUSIVE: Can Walmart And Dollar Tree Ride The 'Trade Down' Wave As War-Driven Price Shock Hits Americans?
+- Expro Lands Key Role In Europe's Geothermal-Lithium Project
+- NYSE Building Separate Blockchain Venue That Will Allows 24/7 Securities Trading
+- Stock Market Today: S&P 500, Nasdaq Futures Fall As Iran Says 'No Negotiations' Took Place With US— Coherent, Apollo, GameStop In Focus (UPDATED)
 - Donald Trump
-- Bitcoin Spikes After Trump's Post On 'Productive' Talks With Iran; Ethereum, XRP, Dogecoin Also Rally: Analyst Says BTC Can Test $75,000 This Month
-- Memory Chip Shortage Clouds Foxconn Smartphone Unit's Profit Outlook
-- Top 3 Industrials Stocks Which Could Rescue Your Portfolio In Q1
+- Trump Floats Shared Control Of Strait Of Hormuz: 'Maybe Me And The Ayatollah...'
+- Palantir Stock Crushes Magnificent 7 By 22% — And The UK Deal Just Supercharged It
+- How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, TSLA Using Technical Analysis
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 佰维存储：与某存储原厂签订日常经营性采购合同，合同总承诺采购金额为15亿美元
-- 市场监管总局召开2026年价格监督检查和反不正当竞争工作座谈会
-- 海螺水泥：2025年营业收入825.32亿元，同比下降9.33%。净利润81.13亿元，同比增长5.42%。
-- 2025年各级市场监管部门查处反不正当竞争案件1.27万件
-- 国家药监局开展现场检查后公告暂停进口销售使用两款印度原料药
-- 欧洲天然气基准荷兰近月期货下跌5.4%，报每兆瓦时53.63欧元。
-- 力拓新CEO：中国仍是最大市场，将加大在华采购
-- 复星医药2025年财报：创新药品收入98.93亿元，同比增长29.59%
-- 菲律宾宣布国家能源紧急状态。（CCTV国际时讯）
-- 西门子中国联手宇树、阿里云，打造工业AI生态系统
-- Token有了中文名——词元
-- 张雪峰脑溢血、心脏骤停？公司回应
+- 【王毅同伊朗外长阿拉格齐通电话】中共中央政治局委员、外交部长王毅24日应约同伊朗外长阿拉格齐通电话。
+阿拉格齐通报了地区局势发展演变的最新情况，感谢中方提供紧急
+- 伊朗最高国家安全委员会新秘书履历
+- 中国科学院香港创新研究院发布“术影”SurgMotion手术视频大模型
+- OpenAI高管Lightcap：存储芯片供应短缺成为扩张的瓶颈。
+对于AI（业务）成长而言，能源（电力）是另外一个潜在的瓶颈。
+- 壳牌CEO：寻求通过多种方式实现增产。
+- 以军称袭击黎巴嫩各地“资助真主党活动”加油站
+- 欧洲央行管委Villeroy：已经做好充分准备，可以在必要时采取行动。
+- 黎巴嫩撤销对伊朗驻黎大使委派的批准
+- 丹麦减肥药制造商Zealand Pharma在美国马萨诸塞州Cambridge成立美国研究中心。
+该中心将用于扩大医药研发能力，并加速医药创新。
+- 美国3月里士满联储制造业指数 0，预期 -8，前值 -10。
+- 据美国纽约联储数据，上个交易日（3月23日）担保隔夜融资利率（SOFR）报3.62%，之前一天报3.62%。
+上个交易日有效的联邦基金利率报3.64%，之前一天
+- 伊朗部分地区小型能源设施遭袭
 其他:
-- 农夫山泉全年营收525.5亿元人民币，预估505.3亿元人民币。
-农夫山泉全年净利润158.7亿元人民币，预估149.9亿元人民币。
-- 卢伟冰：小米大模型已跻身国内第一梯队，是全球唯一在人车家同时落地物理AI的公司
-- 现货黄金短线下跌约60美元/盎司，报4404.17美元/盎司。据报道，土耳其考虑动用1350亿美元黄金储备来捍卫里拉汇率。
-- 理想汽车宣布10亿美元股票回购计划。
-- 据报道，土耳其考虑动用1350亿美元黄金储备来捍卫里拉汇率。
-- 小米集团CFO林世伟：新一代SU7订单超预期，大部分是新用户
-- 英国3月CBI零售销售差值 -52，预期 -43，前值 -43。
-- 源杰科技：2025年净利润1.91亿元，同比增加138.50%
-- 德国总统：美以对伊朗发动战争违反国际法
-- 卢伟冰：Xiaomi miclaw未来会拓展到电脑、手表端，反对将“AI手机”概念化
+- 阿联酋启动政府建筑节能省水计划
+- 张雪峰因心源性猝死全力抢救无效去世
+- TCL中环2025年净亏损92.64亿元
+- 鸿海精密高管董事长兼总经理Young Liu（刘扬伟）：追赶智能体AI是头等关切。
+- 德国能源部长：我们正在丧失产业核心。
+- 阿根廷经济部长Luis Caputo：预计2026年出口将达到418亿美元。
+- 美国3月标普全球制造业PMI初值 52.4，创2个月新高。
+美国3月标普全球服务业PMI初值 51.1，创11个月新低。
+美国3月标普全球综合PMI初值 51.
+- DeepSeek加大对智能体AI人才招聘力度。（彭博）
+- 美国3月标普全球制造业PMI初值 52.4，预期 51.5，前值 51.6。
+美国3月标普全球服务业PMI初值 51.1，预期 52，前值 51.7。
+美国3月
+- 美股跌幅扩大，纳指跌1%。
 
 ## SCMP (EN/中)
 头版/首屏:
-- Economic ‘poison’? China has strong words for Japan’s ‘Takaichinomics’ strategy
-- China cuts some hi-tech metals sent to Japan – but magnet exports rise. Why?
-- Politics
-- Chinese financial regulator and ex-graft fighter Zhou Liang under probe
+- Why military base on contested Paracels will be of ‘limited’ value to Beijing
+- Diplomacy
+- Why Beijing is blaming Japanese PM as Tokyo moves to downgrade China ties status
+- China Economy
+- Why DHL is betting on rising Chinese exports – even as war and tariff risks grow
+- Hong Kong
+- Singapore’s Lawrence Wong to visit Hong Kong after Boao Forum trip
+- China-US study shows new EV battery tech can withstand global warming
+其他:
+- Chinese observers weigh in amid rising concern over Beijing’s land reclamation activities at Antelope Reef.
+- Tokyo’s annual diplomatic blue book set to describe China ties as ‘strategic’ and ‘mutually beneficial’, a step down from ‘most important’.
+- The global logistics giant still sees huge growth potential in the wave of Chinese companies looking to expand overseas.
+- Wong’s three-day official visit will be his first to Hong Kong as prime minister.
 - Military
 - New Type 055 destroyers for PLA East China Fleet tested in first live-fire drill
-- Society
-- Residents say there was no alarm as Tai Po blaze broke out - as it happened
-其他:
-- Communist Party newspaper cautions against tying economic growth to ‘militaristic adventurism’, saying Japan’s citizens would shoulder the costs.
-- Graft busters say 2026 targets include finance, state-owned enterprises, energy, education, development zones and public procurement.
 - Exercise will ‘rapidly integrate’ the advanced vessels into the joint combat system covering Taiwan and the seas near Japan.
-- One witness breaks into tears as she recounts the chaos of smoke entering her flat, mistaking it for renovation dust before escaping.
-- China-US study shows new EV battery tech can withstand global warming
-- China slams Japan’s ‘kill network’ as long-range missile deployment looms
-- PLA Daily describes upgraded Type-12 surface-to-ship missiles as offensive weapons capable of targeting neighbouring countries.
-- China EVs
-- Xiaomi profit drops 27% on weaker smartphone sales as EV growth slows
-- Full-year net profit for 2025 increases 25 per cent, but company’s key products suffer softening demand in fourth quarter.
+- Tech Trends
+- US move to ban China routers as part of onshoring push could be uphill battle
+- Foreign router makers seeking conditional approval must disclose details such as corporate structure and supply-chain information.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -167,14 +174,16 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Benzinga (EN), 经济通 (繁中)
+- 美国关税: SCMP (EN/中)
+- 加密货币: Yahoo Finance (EN)
 - 就业数据: SCMP (EN/中)
+- 美联储: Yahoo Finance (EN)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
