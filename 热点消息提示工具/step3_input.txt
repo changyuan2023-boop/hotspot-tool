@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032411
+抓取时间: 2026032412
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,7 +44,7 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets closed
+- U.S. markets open in 8h 44m
 - Rivian CEO explains why the AI 'driver' is the future of mobility
 - Musk's Terafab is here: Why it's important for Tesla and SpaceX
 - Trump began Iran talks as allies warned war risked disaster
@@ -56,13 +56,13 @@
 - US stock futures fall as Iran officials reject US negotiations
 - EU votes this week on ratifying US trade deal
 - Altman exits Helion Energy's board as firm explores OpenAI partnership
+- Australia and EU seal trade deal, seek to cut reliance on China for critical minerals
 - Alibaba develops next-gen chip for agentic AI, Chinese media says
 - Oil Resumes Advance on Concern Middle East War May Escalate
 - Alibaba Unveils New Chip Design to Meet Surging Demand for AI
 - Trump Delays Energy Strikes, Sets Five Days for Iran Talks
 - Exclusive-ZYT readies AI that can outdrive its own CEO on Shenzhen streets
 - Gold Extends Decline for 10th Day as Iran War Concerns Persist
-- Meta Hires Former Google, Stripe Executives Behind AI Startup Dreamer
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,11 +77,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
+- Peter Schiff Says Trump Went From 'Hit And Obliterate' To Delay, Asks If President Is A 'Master Negotiator' Or Has 'No Idea' About What He's Doing
+- Google And Meta's Fate Hangs In The Balance As Jury Signals Deadlock In Social Media Addiction Trial
+- NovaBay Rebrands To Stablecoin Development Corp In Full Crypto Pivot— Pharma Company's Stock Climbs 19%
 - Explosion Reported At Valero's Port Arthur Refinery, Police Advises Citizens To Shelter In Place
 - Gary Black Says Trump 'Telling The Truth' About Ceasefire Negotiations But Warns Hardliners In Iran 'Hell-Bent' On Prolonging War
-- Iran War To End Soon? Ceasefire Odds Rise On Prediction Market After Trump Hails 'Good And Productive' Talks With Tehran
-- Tim Cook Warns Against Endless Scrolling — Ryanair Touts No Wi-Fi As A Perk
-- Chris Van Hollen Accuses Trump Of 'Lying' About Iran Talks After President Announces 5-Day Pause On Attacks In Tehran
 - Donald Trump
 - Bionano Genomics Stock Soars As Efficiency Gains Meet Growth Story
 - Goldman Sachs Raises Oil Price Forecasts – Picks 7 Winners Among Energy Stocks
@@ -90,6 +90,19 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
+- 亚马逊称因无人机活动，巴林AWS区域“服务中断”。（路透）
+- 我国距离最远特高压工程累计外送电量突破4000亿千瓦时
+- 巴基斯坦KSE-100指数日内上涨2.7%。
+- 提醒：日内请重点关注（以下均为北京时间）
+- 早间要闻汇总
+- 嘉实原油LOF、原油LOF易方达今日下午临时停牌
+- 俄越签署协议合作建设越南首座核电站
+- 蜜雪集团2025年营收、净利润高于预期
+- 成都出台公积金新政
+- 韩国股市触底反弹，韩国首尔综指日内涨幅再次扩大至2.5%。
+- 伊朗媒体公布美军基地遭打击卫星对比图
+- 美团回应“APP删除用户图片”：第三方SDK冲突导致，波及范围约数百人，承担全部费用和损失
+其他:
 - 七部门联合部署2026年春耕备耕农资打假工作
 - 国家数据局刘烈宏：我国日均Token的调用量超过140万亿
 - 瑞银证券：A股短期“去风险化”或近尾声
@@ -100,23 +113,7 @@
 中国财
 - 日本拍卖40年期国债，认购倍数为2.54，过去12个月均值为2.54。
 - 伊朗向以色列发动新一轮导弹袭击
-- 任天堂股价下跌5%。此前任天堂将SWITCH 2的产量削减30%以上，因假日销售疲软。
-- 上证指数早盘收报3849.34点，涨0.95%。
-深证成指早盘收报13380.05点，涨0.26%。
-创业板指早盘收报3209.76点，跌0.79%。
-沪深30
-- 3月24日午间收评：沪指探底回升涨近1%，绿电、军工板块集体走强
-其他:
-- 国债期货早盘收盘，30年期主力合约涨0.37%，10年期主力合约涨0.04%，5年期主力合约涨0.01%，2年期主力合约跌0.01%。
-- 进出口银行今年前2个月新发放外贸领域贷款超1600亿元
 - 内塔尼亚胡：正在彻底摧毁伊朗导弹计划与核计划
-- 国家数据局局长刘烈宏：将梯次培育数字产业集群，培育壮大数字经济创新型企业
-- 任天堂将SWITCH 2的产量削减30%以上，因假日销售疲软。
-- 日本经济产业大臣赤泽亮正：将于周四起释放约一个月的石油储备，改道后的油轮将于3月28日抵达日本。
-- 农发行发行5年期债券，规模30亿元，发行利率1.6235%，预期1.6400%，投标倍数6.03倍，边际倍数2.50倍。
-- 泰国股指SET指数开盘涨1.4%。
-- 以军说伊朗向以色列发射导弹
-- AI Agent时代，阿里达摩院发布新型CPU
 
 ## SCMP (EN/中)
 头版/首屏:
@@ -125,19 +122,19 @@
 - China Economy
 - The Iran war could widen China’s EV lead over its global rivals. Here’s why
 - US faces critical shortage of China expertise within a decade, report warns
-- Allegation of inspection ‘tip-off’ to contractor ‘groundless’, hearing told
+- Assertion of inspection ‘tip-off’ to contractor ‘groundless’, hearing told
 - Chinese island province wants more than beachgoers as it chases economic growth
-- Banking & Finance
+- Asia
 其他:
 - High stakes push countries to protect sovereign capabilities and data amid global yet fragmented industry, Stanford lecturer says.
 - The ‘eye-watering’ surge in oil prices may push consumers around the world to switch to electric cars, boosting Chinese brands, analysts say.
 - Ageing cadre and a weak pipeline risk eroding US-China policy, business insight and national security preparedness as prowess dwindles.
 - Government counsel rejects claims surveyors warned contractor before check in 2024, stressing project inspector’s legal duty for on-site supervision.
+- South Korean interceptor, Japan’s ‘poor’ foreigners: 7 Asia highlights
+- From Trump’s Pear Harbour joke to ‘super-aged’ Singapore’s secret to aging well, here are a few highlights from SCMP’s recent Asia reporting.
+- Banking & Finance
 - 3 Chinese EV makers raise prices – but demand slowdown could force reversal
 - Xiaomi, Chery and FAW adjust prices amid surging chip and raw material costs, but analysts say soft sales could undermine gains.
-- Diplomacy
-- Trump-Xi summit will be very amicable, predicts former Biden official
-- Kurt Campbell expects to see both leaders being ‘extraordinarily polite and engaged’ during key rescheduled meeting despite Iran conflict.
 - Health & Environment
 
 ## 经济通 (繁中)
@@ -175,6 +172,7 @@
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 黄金/大宗: Yahoo Finance (EN), Benzinga (EN)
+- 加密货币: Benzinga (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
