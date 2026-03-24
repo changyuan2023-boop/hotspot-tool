@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032417
+抓取时间: 2026032419
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 3h 39m
+- U.S. markets open in 1h 51m
 - US stock futures fall as Iran officials reject US negotiations
 - Amazon says AWS' Bahrain region 'disrupted' following drone activity
-- Musk's Terafab is here: Why it's important for Tesla and SpaceX
-- Trump's delay fails to calm jitters over war as funds trim risk
-- Iran strikes persist even as Trump claims talks to end conflict
-- SK Hynix places record $8B order for ASML chipmaking tools
 - Oil resumes advance on concern Middle East war may escalate
+- Futures markets saw trading spike before Trump's Iran post
+- Musk's Terafab fever dream exposes reality of the AI chip crunch
+- Gold edges up, snapping losing run as war hurts longtime haven
+- Trump's delay fails to calm jitters over war as funds trim risk
 其他:
 - How the Fed has — and hasn't —reacted to oil price shocks
-- Alibaba unveils new chip design to meet surging demand for AI
-- Oracle reworks its finance, procurement apps for AI agents
-- A deal with Iran wouldn’t lower your gas prices anytime soon
-- Chinese firms' involvement in 5G network may deter investors, EU warns Vietnam
-- SK Hynix may raise up to $10 billion from US listing, Korea Economic Daily says
+- Jefferies stock rises as Japan's SMFG explores possible takeover
+- Iran strikes persist even as Trump claims talks to end conflict
+- Factbox-Highlights of EU-Australia trade agreement
+- Karyopharm Therapeutics' blood cancer drug meets one of two main goals in study
+- Oil is back above $100 despite Trump’s comments on ending the war
+- Morning Brief: Hopes for a deal lift stocks — and send oil down
+- Kremlin on Reuters fiscal fund report: these issues are currently being worked out
 - SK Hynix to Buy $8 Billion of Top-End ASML Chipmaking Gear
-- Saudi Arabia, Kuwait Seek to Pursue Energy Deals Despite War
-- Oil Market Saw Trading Spike Before Trump’s Iran Pivot Post
-- Samsung Electronics, union to resume talks over bonus, union says
+- A deal with Iran wouldn’t lower your gas prices anytime soon
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,68 +42,65 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Adam Schiff Takes Swipe At Trump Amid TSA Chaos, Iran War: 'Paying $5/Gallon For Gas'
-- Nvidia CEO Jensen Huang Drops A Bombshell— 'I Think We've Achieved AGI'
-- Why Apollo Is Betting Billions On This Glass Maker
-- Bitcoin's 'Final Discount' Window Approaching, Says Analyst, Flags Buy Zone Between These Levels
-- Why Paranovus Entertainment Technology Shares Are Trading Higher By Around 66%; Here Are 20 Stocks Moving Premarket
+- EXCLUSIVE: ZenaTech To Build $5,000 'Drone Hunter' To Shield From AI Swarm Attacks
+- AerCap Locks In Freighter Deal With Ethiopian Airlines
+- SK Hynix To Spend Billions On ASML Tools To Power Next-Gen AI Memory
+- Chevron CEO Says Markets Are Trading On 'Scant Information,' Haven't Fully Priced In Strait of Hormuz Supply Shock Despite 60% Oil Price Surge
+- The Coal Stock That Just Got Three Tailwinds At Once: BTU
 - Stock Market Today: Dow, S&P 500 Futures Fall As Iran Says 'No Negotiations' Took Place With US—Coherent, Apollo Global, GameStop In Focus
 - Donald Trump
-- Bionano Genomics Stock Soars As Efficiency Gains Meet Growth Story
 - Bitcoin Spikes After Trump's Post On 'Productive' Talks With Iran; Ethereum, XRP, Dogecoin Also Rally: Analyst Says BTC Can Test $75,000 This Month
-- AI Agent Crypto Crash: Can Blockchain AI Recover As Big Tech Dominates The Narrative?
+- Memory Chip Shortage Clouds Foxconn Smartphone Unit's Profit Outlook
+- Top 3 Industrials Stocks Which Could Rescue Your Portfolio In Q1
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 海油发展：2025年净利润38.84亿元，同比增长6.24%
-- 药明生物：2025年调整后净利润56.4亿元 同比增长17.9%
-- 以官员称美伊达成协议的可能性“微乎其微”
-- 郭守敬望远镜发布光谱数突破3000万
-- 平安好医生：2025年调整后净利润人民币4.14亿元，同比增长161.3%
-- 小米集团：2026年1月1日至2026年3月20日，小米的股票回购金额达港币约47亿元，即约1.3亿股股票。
-- 影石将推出旗舰级无线麦克风，补齐智能影像生态链
-- 英国经济数据公布后，英镑兑美元跌幅扩大，下跌0.4%至1.3380；英国国债抹去早盘涨幅，2年期国债收益率持平于4.41%。
-- 小米集团：预估未来五年累计研发开支将超过人民币2000亿元
-- 英国3月制造业PMI初值 51.4，预期 50，前值 51.7。
-- 英国3月服务业PMI初值 51.2，预期 52.9，前值 53.9。
-- 英国3月综合PMI初值 51，预期 52.8，前值 53.7。
+- 佰维存储：与某存储原厂签订日常经营性采购合同，合同总承诺采购金额为15亿美元
+- 市场监管总局召开2026年价格监督检查和反不正当竞争工作座谈会
+- 海螺水泥：2025年营业收入825.32亿元，同比下降9.33%。净利润81.13亿元，同比增长5.42%。
+- 2025年各级市场监管部门查处反不正当竞争案件1.27万件
+- 国家药监局开展现场检查后公告暂停进口销售使用两款印度原料药
+- 欧洲天然气基准荷兰近月期货下跌5.4%，报每兆瓦时53.63欧元。
+- 力拓新CEO：中国仍是最大市场，将加大在华采购
+- 复星医药2025年财报：创新药品收入98.93亿元，同比增长29.59%
+- 菲律宾宣布国家能源紧急状态。（CCTV国际时讯）
+- 西门子中国联手宇树、阿里云，打造工业AI生态系统
+- Token有了中文名——词元
+- 张雪峰脑溢血、心脏骤停？公司回应
 其他:
-- 小米集团：2025年智能电动汽车及AI等创新业务分部收入同比增长223.8%
-- 小米集团第四季度营收1,169.2亿元人民币，市场预估1,163亿元人民币。
-第四季度调整后净利润63.5亿元人民币，市场预估57.8亿元人民币。
-第四季度毛利
-- 伊朗警方逮捕与敌方有关联者466人
-- 我国日均词元（Token）调用量超140万亿
-- 国投白银LOF：将于2026年3月25日开市起至当日10:30停牌，自2026年3月25日10:30复牌。
-- 【中国央行：将开展5000亿元MLF操作，期限为1年期】中国人民银行：为保持银行体系流动性充裕，2026年3月25日，中国人民银行将以固定数量、利率招标、多重价
-- 欧元区3月制造业PMI初值51.4，创45个月新高。
-欧元区3月服务业PMI初值50.1，创10个月新低。
-欧元区3月综合PMI初值50.5，创10个月新低。
-- 中国人民银行行长潘功胜会见国际货币基金组织第一副总裁丹·卡茨
-- 伊朗西北部两处居民区遭袭 致6死9伤
-- OpenClaw升级现严重事故 激进重构致用户全线报错
+- 农夫山泉全年营收525.5亿元人民币，预估505.3亿元人民币。
+农夫山泉全年净利润158.7亿元人民币，预估149.9亿元人民币。
+- 卢伟冰：小米大模型已跻身国内第一梯队，是全球唯一在人车家同时落地物理AI的公司
+- 现货黄金短线下跌约60美元/盎司，报4404.17美元/盎司。据报道，土耳其考虑动用1350亿美元黄金储备来捍卫里拉汇率。
+- 理想汽车宣布10亿美元股票回购计划。
+- 据报道，土耳其考虑动用1350亿美元黄金储备来捍卫里拉汇率。
+- 小米集团CFO林世伟：新一代SU7订单超预期，大部分是新用户
+- 英国3月CBI零售销售差值 -52，预期 -43，前值 -43。
+- 源杰科技：2025年净利润1.91亿元，同比增加138.50%
+- 德国总统：美以对伊朗发动战争违反国际法
+- 卢伟冰：Xiaomi miclaw未来会拓展到电脑、手表端，反对将“AI手机”概念化
 
 ## SCMP (EN/中)
 头版/首屏:
-- China slams Japan’s ‘kill network’ as long-range missile deployment looms
-- Japanese ‘military officer’ forces way into Chinese embassy in Tokyo
-- Diplomacy
-- Big Tech
-- Alibaba debuts its latest RISC-V-based chip amid shift to AI agents
-- No alarm, no water as Tai Po blaze broke out, resident says
-- China-US study shows new EV battery tech can withstand global warming
-- Transport
-其他:
-- PLA Daily describes upgraded Type-12 surface-to-ship missiles as offensive weapons capable of targeting neighbouring countries.
-- Intruder threatened to kill Chinese diplomatic personnel in the name of god, China’s foreign ministry says.
-- The launch comes as AI agents are becoming the latest battlefield for Chinese tech companies after OpenClaw took the industry by storm.
-- Another resident breaks into tears as she recounts the chaos of smoke entering her flat, mistaking it for renovation dust before escaping.
-- Cathay extends suspension of flights between Hong Kong, Middle East to end of May
-- Cancellation of flights to Dubai and Riyadh extended again, but airline will increase flights to Europe next month to cater to surging demand.
+- Economic ‘poison’? China has strong words for Japan’s ‘Takaichinomics’ strategy
+- China cuts some hi-tech metals sent to Japan – but magnet exports rise. Why?
 - Politics
-- Xi Jinping’s vision for Xiongan: innovation to drive ‘city of the future’
-- Chinese leader visits school and power company on fourth inspection tour of Xiongan New Area since project’s launch in 2017.
-- Trump’s ‘wind-up doll’? Japan’s PM faces backlash over White House fawning
+- Chinese financial regulator and ex-graft fighter Zhou Liang under probe
+- Military
+- New Type 055 destroyers for PLA East China Fleet tested in first live-fire drill
+- Society
+- Residents say there was no alarm as Tai Po blaze broke out - as it happened
+其他:
+- Communist Party newspaper cautions against tying economic growth to ‘militaristic adventurism’, saying Japan’s citizens would shoulder the costs.
+- Graft busters say 2026 targets include finance, state-owned enterprises, energy, education, development zones and public procurement.
+- Exercise will ‘rapidly integrate’ the advanced vessels into the joint combat system covering Taiwan and the seas near Japan.
+- One witness breaks into tears as she recounts the chaos of smoke entering her flat, mistaking it for renovation dust before escaping.
+- China-US study shows new EV battery tech can withstand global warming
+- China slams Japan’s ‘kill network’ as long-range missile deployment looms
+- PLA Daily describes upgraded Type-12 surface-to-ship missiles as offensive weapons capable of targeting neighbouring countries.
+- China EVs
+- Xiaomi profit drops 27% on weaker smartphone sales as EV growth slows
+- Full-year net profit for 2025 increases 25 per cent, but company’s key products suffer softening demand in fourth quarter.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -135,13 +132,13 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: 华尔街见闻 (简中), 经济通 (繁中)
-- 加密货币: Benzinga (EN)
-- 美联储: Yahoo Finance (EN)
-- 中国政策/两会: 华尔街见闻 (简中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 就业数据: SCMP (EN/中)
 
 --- 粘贴结束 ---
