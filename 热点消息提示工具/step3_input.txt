@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032423
+抓取时间: 2026032512
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 4h 18m
-- Stocks fall after rally as Iran war drags on
-- Amazon says AWS' Bahrain region 'disrupted' following drone activity
-- Oil resumes advance on concern Middle East war may escalate
-- US business activity growth cools as prices rise on Iran war
-- Fund with stakes in SpaceX, Anthropic jumps 1,200% above NAV
-- Tesla sales rebound in Europe after massive slump
-- Iran starts charging up to $2M for safe passage through Hormuz
+- U.S. markets closed
+- 'Dr. Doom' shares biggest economic concerns from war with Iran
+- Huang claims AGI has been 'achieved'
+- US sees 'possibility of diplomacy' with Iran as war costs rise
+- SpaceX aims to file for IPO as soon as this week
+- United's 'Relax Row' — a first class seat for the rest of us?
+- Meta grants senior executives stock awards to retain talent
+- Anduril, Palantir developing Golden Dome missile shield's software
 其他:
-- How the Fed has — and hasn't —reacted to oil price shocks
-- Iran strikes persist even as Trump claims talks to end conflict
-- Memory is Wall Street's favorite tech trade as Mag 7 disappoints
-- Investors Are Betting on an Interest Rate Hike That’s Really Not That Likely
-- Poland to start work on a digital services tax, deputy PM says
-- Microsoft president says building data centres requires trust of US communities
-- US-Ukrainian joint investment project to invest in dual-use military tech firm
-- Britain's FCA defends Palantir contract award before lawmakers
-- Apple to bring paid ads to maps to US, Canada this summer
-- ImmunityBio shares fall on FDA warning letter over cancer therapy claims in ad
+- US stock futures jump as Wall Street hopes for Iran progress
+- Oil drops on reports of US diplomatic push to end war with Iran
+- Arm debuts first data center chip, putting Intel and AMD on notice
+- Democrats Flip Florida Seat Representing Trump’s Mar-a-Lago
+- Australia public broadcaster staff strike over pay for first time in 20 years
+- Energy Shocks Will Slow Climate Action, Top Mining Executive Says
+- The worst oil crisis in history comes at a good time for China’s troubled EV giants
+- Oil prices drop on prospect of Middle East ceasefire easing supply disruption
+- CK Hutchison unit says Panama arbitration claim now tops $2 billion
+- Openreach taps Google AI to speed fibre rollout, cut emissions
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,76 +77,48 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Exxon Mobil Stock Surges To All-Time High Tuesday
-- Polymarket Is Done Being Free: New Fee Structure To Be Introduced On March 30
-- Amazon Unleashes Zoox Robotaxis In Austin And Miami To Challenge Waymo Dominance
-- Oil Prices Are Rising Tuesday: What's Happening?
-- Trump Maintains Optimism But Oil Higher On Concerns Of War Escalation
-- Iran War Sends Gold To Its Worst Month In 43 Years — Are Miners Facing A Lehman Moment?
-- Donald Trump
-- Trump Floats Shared Control Of Strait Of Hormuz: 'Maybe Me And The Ayatollah...'
-- 'Trump Is Playing Markets Like A Fiddle,' Expert Says: Here's How You Can Too
-- This $700 AI Stock Could Be A $1,000 Play — And It's Not Nvidia
+- Elizabeth Warren Questions Nvidia's $20 Billion Groq Move: 'Is This Deal An Attempt To Avoid Antitrust Scrutiny?'
+- iTonic Holdings (ITOC) Surges Over 84% After Hours— Here's Why It's Trending
+- Trump's ICE Airport Deployment An 'Insult' And A 'Waste Of Money,' Say Unpaid TSA Workers As Shutdown Chaos Continues
+- Blaize Holdings Is Trending As Stock Shoots Up 49% Overnight: Here's Why
+- US-Iran Peace Talks To Be Held In This Country? Crypto Prediction Market Sets Over 50% Probability After Trump's Truth Social Post
+- Bitcoin, Ethereum, XRP Steady, While Dogecoin Spikes Amid Trump's Iran Negotiation Buzz: Analyst Outlines BTC's Path To $80,000
+- Tiger Woods
+- Arm Holdings Stock Soars As Company Targets $15 Billion In Annual Sales From New In-House Chip
+- Why Today's Energy ETF Rally May Be A Trap — And What History Says Comes Next
+- Applied Optoelectronics Shares Jump 12% After Key Trading Signal
 
 ## 华尔街见闻 (简中)
-头版/首屏:
-- OpenAI Nonprofit任命了多位领导人，希望在2026年开支10亿美元。
-- 美国NASA宣布：将研发核动力火星飞船
-- 闯入中国大使馆的日本自卫队人员已被逮捕
-- 瑞士央行管委Petra Tschudi：瑞士央行准备在外汇市场偏高时候干预。
-- 美国财政部拍卖六周期国债，得标利率3.635%，投标倍数2.98。
-- 罗氏制药限制与四大会计师事务所的咨询合作，希望借机降成本。
-- 美股软件股暴跌，报道称亚马逊推出新AI工具
-- 微软将租用美国得州被甲骨文和OpenAI抛弃的数据中心。
-微软和英伟达宣布，就核能展开AI合作。
-- Brett Adcock旗下初创公司Hark正致力于开发与家庭相关的AI设备。
-- 日本福岛第一核电站2025财年排放核污染水5.5万吨
-- Prosus于3月16-20日按均价43.5292欧元回购股票291.9471万，合计将近1.271亿欧元（折合超1.463亿美元）。
-Naspers同期按均价
-- 莫迪：与特朗普通话讨论西亚局势
-其他:
-- 苹果公司推出Apple Business，其中整合了设备管理、电子邮件、以及日历。
-Apple Business将于4月14日上线。
-- LPG夜盘收跌约6.3%，乙二醇跌约5.5%，丙烯跌约4.7%，低硫燃油跌约4.6%。
-纯碱夜盘收平，菜油、螺纹钢、棉纱、热卷、铁矿石则至多收涨0.67%，橡胶
-- Anthropic：Claude现已可操控用户电脑完成任务，加速布局AI智能体
-- 中国通号：2025年净利润同比增长5.48%，拟10派1.7元
-- 标普500指数一度转涨。
-- 妙可蓝多：2025年实现营业收入56.33亿元，同比增长16.29%；归母净利润1.18亿元，同比增长4.29%。
-- 未按照基金合同约定投资运作等 远望基金被责令改正
-- 国投科创基金揭牌 规模100亿元
-- 美国白宫科技事务顾问Michael Kratsios在科技论坛上讲话：建议推行国家监督管理AI的方式。
-（谈及近日向国会山移交的AI监管框架）AI监管应当（有助
-- 报道：法国巴黎银行完成与50亿欧元贷款挂钩的风险对冲工具SRT交易
+（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=20 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f2dc7bb97c0>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
 
 ## SCMP (EN/中)
 头版/首屏:
-- Are efforts to broker peace deal between Iran and US doomed to fail?
-- Trump-Xi summit will be very amicable, predicts former Biden official
+- Can Taiwan fulfil Asia-Pacific drone hub goal with ‘non-red’ supply chain push?
+- ‘Deny, delay, degrade’: Taiwan reveals long-range strategy to hold off PLA
+- Trump’s China policy lacks strategy and coherence: former Biden officials
 - Diplomacy
-- Why military base on contested Paracels will be of ‘limited’ value to Beijing
-- Why Beijing is blaming Japanese PM as Tokyo moves to downgrade China ties status
-- Society
-- Northern Metropolis boundary changes will need Legco approval, minister says
-- China-US study shows new EV battery tech can withstand global warming
+- Trump says Iran gave the US gift ‘worth a tremendous amount of money’
+- Banking & Finance
+- Exclusive | Turkish private bank plans Hong Kong entry amid Middle East tensions: sources
+- Gary Liu and Liu Xiaochun on the US and China’s divergent paths for stablecoins
 其他:
-- Neither country appears willing to back down and some Chinese analysts believe they will continue to ‘fight while talking’.
-- Chinese observers weigh in amid rising concern over Beijing’s land reclamation activities at Antelope Reef.
-- Tokyo’s annual diplomatic blue book set to describe China ties as ‘strategic’ and ‘mutually beneficial’, a step down from ‘most important’.
-- Secretary for Development Bernadette Linn also says she cannot see a need to adjust the boundaries at this stage.
-- Military
-- New Type 055 destroyers for PLA East China Fleet tested in first live-fire drill
-- Exercise will ‘rapidly integrate’ the advanced vessels into the joint combat system covering Taiwan and the seas near Japan.
+- Plan is to invest US$1.38 billion between 2025 and 2030 for uncrewed systems industry, but questions linger over scale, politics and timing.
+- At Carnegie event, ex-officials say Trump’s approach echoes first term, with swings from tariffs to accommodation and little clear strategy.
+- US president claims Tehran offered an ‘oil and gas related’ gift and that it was a sign talks are happening with ‘the right people’.
+- Turkiye Is Bankasi eyes corporate-focused Hong Kong branch, citing the city’s hub role, to complete its China coverage, sources say.
 - China Economy
-- Why DHL is betting on rising Chinese exports – even as war and tariff risks grow
-- The global logistics giant still sees huge growth potential in the wave of Chinese companies looking to expand overseas.
+- How ‘salmon’ raised in landlocked Xinjiang is netting fans in China
+- Aquaculture in the far-western region is expected to grow even more rapidly after a dependence on imported eggs is diminished or ended.
+- Military
+- US unlikely to get China to join new nuclear arms control agreement, experts say
+- Nuclear superpowers not taking active steps towards meaningful negotiation following the expiry of New Start arms treaty in February.
 
 ## 经济通 (繁中)
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
-- 老铺黄金去年多赚2.3倍，获大行唱好股价曾飙一成
-- 内地汽柴油涨价 实际加幅仅机制一半
-- 国际能源署：伊朗战争 远超70年代石油危机
+- 中东局势反复油价大上大落，三桶油可以怎么部署？
+- 中国船东货轮 首经伊“安全走廊”通过海峡
+- 多国应对能源短缺 韩国12招节能
 - 和谈“罗生门”舞高弄低，下月Chehellom举国复仇？
 - 指数环球商品外汇
 - 国金观点
@@ -156,9 +128,9 @@ Apple Business将于4月14日上线。
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25063.71+681.24(+2.79%)
+- 恒生指数25166.12+102.41(+0.41%)
                     etnet.com.hk@copyright
-- 国企指数8499.53+191.71(+2.31%)
+- 国企指数8523.30+23.77(+0.28%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -171,15 +143,14 @@ Apple Business将于4月14日上线。
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Benzinga (EN), 经济通 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
-- 就业数据: Benzinga (EN)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 美国关税: SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN)
 - 美联储: Yahoo Finance (EN)
-- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
