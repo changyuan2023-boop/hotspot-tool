@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032519
+抓取时间: 2026032522
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 55m
-- Rare combo of drivers for big stock losses is in play
-- US stock futures jump amid hopes for Iran progress
-- Disney CEO's tough first week marred by Fortnite, OpenAI woes
+- U.S. markets close in 5h 52m
+- Morgan Stanley expects S&P profit boom despite Iran war
 - US awaits response to peace plan as Iran keeps up attacks
-- Merck boosts cancer portfolio with $6.7B buyout of Terns Pharma
+- Rare combo of drivers for big stock losses is in play
+- Why OpenAI pulling the plug on Sora makes sense
+- Arm stock jumps after it debuts first data center chip
+- Disney CEO's tough first week marred by Fortnite, OpenAI woes
 - Iran demands crew, cargo details to send ships through Hormuz
-- Oil drops near $100 as US ramps up push to end Iran war
 其他:
-- SpaceX aims to file for IPO as soon as this week
-- US said to have sent Iran a 15-point plan for ceasefire
+- US stocks jump amid hopes for Iran peace talks
 - UPS opens $100M Taiwan logistics hub to meet tech boom demand
-- European stocks rise, oil falls, markets cheered by Trump talk of Iran negotiation
-- Fuel vs food: These Americans are cutting back to afford higher gas prices
-- US researchers bet on hybrid, GMO seeds to make wheat profitable again
-- Morning Brief: 3 factors have made for big historical stock market losses
-- Arm jumps as new AI chip to drive billions in annual revenue
-- AI Demand Is Shielding China’s Booming Trade From War Shocks
-- How private credit could quickly become a public problem
+- Merck boosts cancer portfolio with $6.7B buyout of Terns
+- Factbox-Airlines cancel more flights as Middle East conflict escalates
+- KB Home CEO: Middle East war is hurting US housing market
+- In Wild Year Since IPO, CoreWeave Stock Is Lagging Rival Nebius
+- US current account deficit contracts sharply in the fourth quarter
+- Chinese drugmaker Hengrui's quarterly profit misses forecasts amid generic drug business squeeze
+- SLB expands Nvidia partnership to develop AI infrastructure for energy sector
+- BlackRock CEO Fink warns of 'global recession' if oil goes to $150, BBC reports
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,66 +42,69 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Arm's Big AI Chip Move With Meta Sends Stock Soaring
-- Meta CTO Andrew Bosworth To Lead Massive 'AI For Work' Takeover Across 78,000 Staff
-- Dollar General Taps Ahold Delhaize Exec As Next CEO
-- Trump Administration Should 'Stop Spending' Amid An 'Insolvent' Treasury, Says Rand Paul, Pushes 'Six Penny' Plan To Rescue Economy
-- Meta Tells Some Employees To Work Remotely Ahead Of Potential Layoffs: Report
-- Stock Market Today: S&P 500, Dow Futures Surge Despite Iran Saying Trump Admin Is 'Negotiating With Itself'—Robinhood, Circle, Arm Holdings In Focus
+- What's Going On With Hewlett Packard Enterprise Stock Today?
+- Four Corners Property Trust Has An 18% Dividend Buffer And A 2029 Debt Wall - That Combination Deserves A Closer Look
+- Equinix Has A BBB+ Rating And A 51% Dividend Buffer. The CapEx Cycle Is The Variable Worth Watching.
+- Mark Cuban Says Homes Will Be 'Redesigned Completely' To Accommodate Robots That Could Look 'More Like Ants,' Than Humanoid Robots
+- Experts Explain How Retirees Could Benefit From IRA Charitable Changes
+- Stock Market Today: Dow, Nasdaq Futures Jump Even As Iran Dismisses Trump Talks—Robinhood, Circle, Arm Holdings In Focus (UPDATED)
 - Tiger Woods
-- Trump's Backyard Goes Blue As Emily Gregory Flips Palm Beach Florida House Seat Covering Mar-a-Lago
-- Top Wall Street Forecasters Revamp Cintas Expectations Ahead Of Q3 Earnings
-- Applied Optoelectronics Shares Jump 12% After Key Trading Signal
+- Bitcoin, Ethereum, XRP Steady, While Dogecoin Spikes Amid Trump's Iran Negotiation Buzz: Analyst Outlines BTC's Path To $80,000
+- Morgan Stanley Just Revealed The Real Reason Banks Are Betting On Bitcoin
+- How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, TSLA Using Technical Analysis
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 罗博特科：签订6亿元重大合同
-- 美企财务长看好经济前景，至少在美伊爆发冲突前是如此
-- 美国抵押贷款利率飙升至五个月高点 凸显伊朗冲突的经济影响扩大
-- 伊朗称在德黑兰逮捕多名美以相关雇佣人员
-- 李强同荷兰首相耶滕通电话
-- 五角大楼表示，美国国防部与BAE及洛克希德·马丁公司达成协议，将萨德（THAAD）拦截导弹探测器产量提升至当前四倍。五角大楼在另一份声明中称，洛克希德公司将同步
-- 我国DRO试验卫星在轨两年取得系列突破
-- 闪迪子公司拟通过私募方式收购南亚科技约1.39亿股股份，交易金额约10亿美元。该战略股权投资约占南亚科技已发行普通股的3.9%。收购价格较南亚科技30日均价折价
-- 商务部副部长凌激会见阿联酋兰五资本首席执行官夏本佳
-- 拼多多Q4财报：现金储备突破4200亿元，同比增长27%
-- 国家新闻出版署公布2026年3月份进口网络游戏审批信息，共3款游戏获批。
-- 特朗普谈及3架美军战机在科威特被击落，称其为“小意外”，系被“爱国者”导弹击落
+- 瑞士央行发布一季度企业调查：中东战争可能会推高瑞郎面临的上行压力。
+- 中办、国办：长期护理保险费率统一控制在0.3%左右
+- 意大利总理梅洛尼预计，来自阿尔及利亚的天然气供应将增加。（安莎通讯社ANSA）
+- 中办、国办：用人单位以及单位职工、退休人员、灵活就业人员和未就业城乡居民等按照属地管理原则，参加长期护理保险
+- 中共中央办公厅、国务院办公厅发布关于加快建立长期护理保险制度的意见
+- 彭博美元指数刷新日高，报道称伊朗拒绝停火。
+ICE美元指数涨超0.3%，刷新日高至99.55点。
+- 腾讯控股根据购股权计划授出购股权。
+- 新兴市场货币指数回吐涨幅，投资者关注国际油价跌幅收窄。
+WTI原油期货目前跌4.3%，重返88.40美元附近。
+布伦特原油期货跌4.5%，重返95.70美元附近
+- 融创房地产：与哈尔滨银行就金融借款合同纠纷达成和解
+- 首次披露！国产无人艇自主编队高速穿插拦截。（央视）
+- 中国代表呼吁以全球治理倡议为引领 完善全球人权治理
+- 美股存储板块走低，美光科技跌超4%，闪迪跌6.5%，西部数据跌超4%，希捷科技跌超5%。此前Google Research推出了TurboQuant，这是一种全
 其他:
-- 美国3月20日当周MBA抵押贷款申请活动指数周环比 -10.5%，前值 -10.9%。
-- 国家新闻出版署公布2026年3月份国产网络游戏审批信息，共130款游戏获批。
-- 匈牙利总理有意停止向乌克兰供应天然气
-- 张玉卓分别会见德国西门子、新加坡淡马锡公司负责人
-- Merck&Co将以每股53美元现金收购特恩斯制药（Terns Pharmaceuticals），权益价值约67亿美元。（彭博）
-- 拼多多最新财报：“千亿扶持”投入一周年，全年营收同比增长10%
-- 伊朗据悉要求希望通过霍尔木兹海峡的船舶提供船员和货物详情。（彭博）
-- 拼多多官宣：“新拼姆”落地上海，开启品牌自营
-- 拼多多第四季度营收1,239.1亿元人民币，预估1,237.2亿元人民币。
-第四季度调整后每ADS收益 17.69元人民币，预估20.84元人民币。
-第四季度调
-- 伊朗倡议中东建立无美以联盟
+- 据美国纽约联储数据，上个交易日（3月24日）担保隔夜融资利率（SOFR）报3.63%，之前一天报3.62%。
+上个交易日有效的联邦基金利率报3.64%，之前一天
+- 奇瑞风云T9L开启预售，预售价区间为13.99 万-16.99万元
+- 华安、海富通合并大局已定，华安主导，迎重磅人事布局！
+- 龚正会见美国美敦力全球董事长兼首席执行官杰夫·马萨
+- 伊朗冲突带火扫雷无人潜航器 一家不起眼的法国公司股价暴涨700%
+- 俄副外长：乌克兰问题谈判暂停
+- Arm控股美股盘初涨15%，使得最近五个交易日迄今累计涨幅达到25%。
+该公司昨日发布第一款自研芯片AGI CPU，首批大客户包括Meta、OpenAI、以及德
+- 俄罗斯已获悉美乌会谈的结果。（塔斯社）
+- Salesforce Agentforce获得二级欧盟云COC合规。
+- Lumentum Holdings跌幅迅速扩大至2.7%。
 
 ## SCMP (EN/中)
 头版/首屏:
-- African producers may have energy edge in Iran war, if they can overcome hurdles
-- Trump says Iran gave the US gift ‘worth a tremendous amount of money’
+- China says Mexico’s tariff hikes constitute ‘trade barriers’ after probe
+- China and the US end trade talks in Paris as doubts form over Trump visit
+- Military
+- Former defence exec Tan Ruisong given death sentence for ‘exceptional’ corruption
 - Diplomacy
-- Are US and China seeking ‘minimum stability’ after a ‘rough patch’ in relations?
+- African producers may have energy edge in Iran war, if they can overcome hurdles
 - China Economy
-- Why Chinese companies struggling at home are looking to Europe
-- Education
-- Data science, AI slip as 53% of Hong Kong’s university subjects fall in rankings
+- China still on track to supplant US as world’s No 1 economy in 10 years: academic
 其他:
+- The tariff increases – made in part to appease demands from Washington – have been designated a breach of trade rules by Beijing.
+- Tan confessed to taking about US$89 million in bribes and insider trading during his time at Avic.
 - Analysts say oil from Africa may be lower-risk alternative, coinciding with a fresh push for infrastructure to supply Europe.
-- Even though Donald Trump has postponed his trip to China, an academic forum heard that both sides still hoped to keep things on an even keel.
-- Chinese firms operating in Europe have very different view to European firms with investments in China, survey finds.
-- Despite overall drop, dentistry at HKU remained second while performing arts at HKAPA regained 10th place and education at EdU entered global top 10.
+- China is better equipped to navigate its current challenges than the US, which will remain mired in ‘self-defeating’ conflicts, scholar says.
 - China-owned vessel secures rare Strait of Hormuz transit as Iran war grinds on
-- Business
-- Pop Mart shares dive despite soaring profit as investors fear Labubu dependence
-- Labubu and The Monsters series make up 38 per cent of 2025 revenue, while conservative growth guidance for 2026 weighs on confidence.
-- Tech
-- China names Beijing, urban clusters as major tech hubs in self-reliance push
+- Science
+- China names AI tokens after the yuan. Should US worry for the dollar?
+- China has officially designated ciyuan as the translation for ‘token’, giving strong economic overtones to what has been a tech term.
+- Are US and China seeking ‘minimum stability’ after a ‘rough patch’ in relations?
+- Even though Donald Trump has postponed his trip to China, an academic forum heard that both sides still hoped to keep things on an even keel.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -136,8 +139,11 @@
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN)
+- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: 华尔街见闻 (简中), SCMP (EN/中)
+- 就业数据: Benzinga (EN), 华尔街见闻 (简中)
+- 加密货币: Benzinga (EN)
+- 美联储: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
