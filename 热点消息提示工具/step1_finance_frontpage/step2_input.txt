@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032515
+抓取时间: 2026032517
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 5h 43m
-- 'Dr. Doom' shares biggest economic concerns from war with Iran
-- Huang claims AGI has been 'achieved'
-- US stock futures jump as Wall Street hopes for Iran progress
-- Democrats flip Florida seat representing Trump's Mar-a-Lago
-- Energy shocks will slow climate action, mining executive says
-- Arm to sell its own chips, eyeing sales goal of $15 billion
+- U.S. markets open in 3h 41m
+- US stock futures jump amid hopes for Iran progress
+- Nvidia's Huang claims AGI has been 'achieved'
+- China reviews $2B Meta-Manus deal, bars founders from leaving
+- Gold extends gains amid hopes for Iran war talks
+- Oil drops as US reportedly ramps up push to end Iran war
+- Arm debuts first data center chip, putting Intel and AMD on notice
 - SpaceX aims to file for IPO as soon as this week
 其他:
-- US forms 15-point plan to end Iran war as Trump pushes talks
-- United's 'Relax Row' — a first class seat for the rest of us?
-- Meta grants senior executives stock awards to retain talent
+- US said to have sent Iran a 15-point plan for ceasefire
+- Meta offers top execs stock options for first time
+- 'Dr. Doom' shares biggest economic concerns from war with Iran
+- AI Demand Is Shielding China’s Booming Trade From War Shocks
+- Meta Glasses Withheld From EU Over Battery Rules, Supply Snags
+- US Awaits Response to Peace Plan as Iran Keeps Up Attacks
 - February shipments of foreign-branded phones in China fall 7.7% from a year ago, CAICT data shows
+- Gulf States Weigh Military Options to Counter Iran’s Attacks
+- SK Hynix to Float US Shares This Year to Feed AI Memory Boom
 - Trade Any Oil Shock on Stocks at Open Then Steer Clear, UBS Says
-- Hong Kong Arrests Booksellers Over Jimmy Lai Title, Reports Say
-- Australia public broadcaster staff strike over pay for first time in 20 years
-- The worst oil crisis in history comes at a good time for China’s troubled EV giants
-- US Sees Possibility of Diplomacy With Iran as War Costs Rise
-- CK Hutchison unit says Panama arbitration claim now tops $2 billion
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,64 +42,67 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- 'America Will Win The AI Race—But Only If…:' Mike Johnson Pushes Deregulation
-- Mark Cuban Calls $30,000 Corporate Healthcare Burden 'Insane,' Backs Bill To Break Up Big Medicine Giants UNH, CVS, CI
-- Elon Musk's xAI Hit With Lawsuit As Baltimore Claims Grok Flooded X With Millions Of Explicit Deepfake Images
-- Gary Black Cites Netflix-Warner Bros Deal To Caution Against SpaceX-Tesla Merger: 'Who Will Purchase The $50B…'
-- S&P 500 Falls As Trump's Ceasefire Hopes Dim: Fear & Greed Index Remains In 'Extreme Fear' Zone
-- Bitcoin, Ethereum, XRP Steady, While Dogecoin Spikes Amid Trump's Iran Negotiation Buzz: Analyst Outlines BTC's Path To $80,000
+- Dan Ives Says Tesla's Terafab Project Is Hinting Towards Merger With SpaceX—Predicts Nearly 55% TSLA Upside
+- Merck Nears $6 Billion Deal To Buy Terns Pharma: Report
+- Stock Market Today: S&P 500, Dow Futures Surge Despite Iran Saying Trump Admin Is 'Negotiating With Itself'—Robinhood, Circle, Arm Holdings In Focus
+- Braze Stock Jumps Over 23% In Pre-Market Session—Here's Why
+- Why Blaize Holdings Shares Are Trading Higher By Around 41%; Here Are 20 Stocks Moving Premarket
 - Tiger Woods
 - Arm Holdings Stock Soars As Company Targets $15 Billion In Annual Sales From New In-House Chip
-- Why Today's Energy ETF Rally May Be A Trap — And What History Says Comes Next
+- Trump's Backyard Goes Blue As Emily Gregory Flips Palm Beach Florida House Seat Covering Mar-a-Lago
 - Top Wall Street Forecasters Revamp Cintas Expectations Ahead Of Q3 Earnings
+- Applied Optoelectronics Shares Jump 12% After Key Trading Signal
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 外交部：支持委内瑞拉维护自身主权、尊严和合法权利
-- 港股科技股尾盘持续拉升，美团涨超15%，京东、阿里巴巴涨超4%。
-- 是否有中国船只顺利通过霍尔木兹海峡？外交部回应
-- 中远海运集运：恢复阿联酋，沙特，巴林，卡塔尔，科威特，伊拉克的新订舱业务
-- 伊驻巴大使：友好国家在与各方沟通 但伊朗未与美国展开谈判
-- 特朗普称已向伊朗提出和平方案，外交部回应
-- 外交部：将为尽早恢复海湾地区的和平安宁作出贡献
-- 商务部部长王文涛会见喀麦隆商务部长阿坦加纳
-- 英国2月通胀率维持在3% 当时尚无伊朗冲突影响
-- 南向资金净买入额超150亿港元
+- 国投白银LOF：本基金将于2026年3月26日开市起至当日10:30停牌，自2026年3月26日10:30复牌，停牌期间本基金赎回业务照常办理。
 - 伊朗倡议中东建立无美以联盟
-- 商务部新闻发言人就公布对墨西哥相关涉华限制措施贸易投资壁垒调查最终结论的公告答记者问
+- 伊朗称向美航母发射导弹 强调对霍尔木兹海峡掌控能力
+- 伊朗说正密切监测美军动向
+- 拟撤销私人银行专营牌照？交通银行回应：现有业务不受影响
+- 沪市宽基及红利类ETF上周资金净流入超165亿元
+- 今年前两个月我国5G和千兆用户规模持续扩大
+- 英国1月DCLG房价指数同比 1.3%，前值 2.4%。
+- 上海家化：2025年净利润2.68亿元，上年同期为净亏损8.33亿元
+- 欧洲央行首席经济学家连恩：我们将在每次会议上考虑当前的情景。
+消费者信心的下降幅度相当大。
+可以看到PMI的下行趋势。
+- 中国政府中东问题特使翟隽集体会见海合会国家驻华使节
+- 中国人寿：2025年净利润1540.78亿元，同比增长44.1%
 其他:
-- 日本内阁官房长官：将防止再度发生强闯使馆这类事件
-- 以军方称轰炸德黑兰两处海军巡航导弹生产基地
-- 泡泡玛特小家电核心代工方为新宝股份，已启动大规模备货
-- 国债期货收盘，30年期主力合约涨0.01%，10年期主力合约与昨日持平，5年期主力合约涨0.00%，2年期主力合约涨0.02%。
-- 中上协：2月全市场总市值再创历史新高，突破116.8万亿
-- 黄天鹅就鸡蛋角黄素抽检结果发布声明。
-- 美总统顾问称特朗普“一边准备谈判一边握拳”
-- 沪深两市今日成交额合计21798.30亿元
-- 坚定抄底派动摇 美国股市自2023年以来首现散户净卖出
-- 伊朗重申非交战国家船只可安全通过霍尔木兹海峡
+- 知乎2025年财报：首次实现全年盈利目标
+- 中国东航：拟向空客公司购买101架A320NEO系列飞机
+- 金山软件：2025年净利润20.04亿元，同比增长29%
+- 匈牙利总理欧尔班：在友谊管道的石油供应恢复之前，将暂停向乌克兰输送天然气。
+- 特斯拉机器人Optimus发招聘，称目标尽快量产
+- 工信部：截至2月末5G移动电话用户达12.35亿户 比上年末净增3044万户
+- 中国航空工业集团有限公司原党组书记、董事长谭瑞松贪污、受贿、内幕交易、泄露内幕信息案一审宣判
+- 伦敦金属交易所(LME)：镍库存减少432吨，铜库存增加900吨，铝库存减少925吨，锡库存减少25吨，铅库存减少200吨，锌库存减少625吨。
+- 裁员潮席卷硅谷，一线工程师戳破另一面真相：AI效率被严重高估
+- 美股盘前，热门中概股多数上涨，阿里巴巴涨约5%，京东涨约4%，百度涨约2%。
+Arm美股盘前涨超10%，公司亲自下场挑战英特尔与AMD，首款CPU直指AI数据中
 
 ## SCMP (EN/中)
 头版/首屏:
-- Japanese minister expresses regret over military officer’s arrest at Chinese embassy
-- Why Beijing is blaming Japanese PM as Tokyo moves to downgrade China ties status
+- China-owned vessel secures rare Strait of Hormuz transit as Iran war grinds on
+- Global South to bear the brunt of Strait of Hormuz crisis amid food scarcity
+- Tech
+- Shenzhen eyes ‘leapfrog’ gains in AI server supply chain in self-reliance push
 - China Economy
-- Buying goods in China? Suppliers forced to scale back as Iran war bites
-- China Business
-- Visa-free travel, rising foreign visitors boost luxury hotel growth in China
-- Society
-- Hong Kong’s ICAC charges 5 over alleged building renovation bribery scheme
+- Why Chinese companies struggling at home are looking to Europe
+- Transport
+- Hong Kong’s MTR Corp to upgrade Tung Chung line signalling system on Sunday night
 其他:
-- Beijing says incident in which a man is accused of breaking in with a knife, reflects the growth of ‘rampant far-right ideology’ in Japan.
-- Some Chinese producers are already feeling ‘intense’ strain as the conflict sends energy, logistics and raw material costs soaring.
-- China’s luxury hotels thrive as visa-free policies drive international tourism, with Shanghai and Beijing seeing significant growth in high-end stays.
-- Four men and a woman, including middlemen and estate committee secretary, accused of offering bribes to win contracts worth HK$90 million.
+- China’s Cosco Shipping Lines has also reopened Middle East bookings, signalling a tentative return while warning instability may still disrupt services.
+- Shenzhen has unveiled an ambitious three-year plan to build out AI computing clusters and boost key hardware components.
+- Chinese firms operating in Europe have very different view to European firms with investments in China, survey finds.
+- Rail operator vows work will finish before the first train in the morning, ensuring normal service on the line and Airport Express.
 - Can Taiwan fulfil Asia-Pacific drone hub goal with ‘non-red’ supply chain push?
-- Science
-- China’s 7-day hypersonic design; Andy Lau’s Ming mystery: 7 science highlights
-- From top mathematician on leaving the US to China’s coal-to-medicine feat, here are some highlights from SCMP’s recent science reporting.
-- Trump’s China policy lacks strategy and coherence: former Biden officials
-- At Carnegie event, ex-officials say Trump’s approach echoes first term, with swings from tariffs to accommodation and little clear strategy.
+- Diplomacy
+- Japanese minister expresses regret over military officer’s arrest at Chinese embassy
+- Beijing says incident in which a man is accused of breaking in with a knife, reflects the growth of ‘rampant far-right ideology’ in Japan.
+- Business
+- Pop Mart shares dive despite soaring profit as investors fear Labubu dependence
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -116,9 +119,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25156.02+92.31(+0.37%)
+- 恒生指数25335.95+272.24(+1.09%)
                     etnet.com.hk@copyright
-- 国企指数8517.92+18.39(+0.22%)
+- 国企指数8582.74+83.21(+0.98%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -132,12 +135,11 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 美国关税: 华尔街见闻 (简中), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
-- 就业数据: SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 加密货币: Yahoo Finance (EN)
 - 美联储: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
