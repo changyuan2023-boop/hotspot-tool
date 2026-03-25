@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032522
+抓取时间: 2026032523
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 5h 52m
+- U.S. markets close in 4h 15m
 - Morgan Stanley expects S&P profit boom despite Iran war
 - US awaits response to peace plan as Iran keeps up attacks
 - Rare combo of drivers for big stock losses is in play
-- Why OpenAI pulling the plug on Sora makes sense
-- Arm stock jumps after it debuts first data center chip
-- Disney CEO's tough first week marred by Fortnite, OpenAI woes
-- Iran demands crew, cargo details to send ships through Hormuz
+- Why Costco's cheap new Kirkland energy drink won't crush Celsius
+- SpaceX aims to file for IPO as soon as this week
+- 6 things to know as Treasury takes over defaulted student loans
+- Bitcoin nudges higher as analysts say token 'looks bottomed'
 其他:
 - US stocks jump amid hopes for Iran peace talks
-- UPS opens $100M Taiwan logistics hub to meet tech boom demand
-- Merck boosts cancer portfolio with $6.7B buyout of Terns
+- Rising gas prices could be good news for EVs
+- Gas prices inch toward $4 a gallon as Iran war drags on
+- Argentina to seek looser foreign ownership rules for rural land
+- Circle stock rebounds after biggest one day drop ever
+- Legal software firm Harvey valued at $11 billion in latest funding round
+- Gold Extends Gains as Traders Gauge Viability of Ceasefire Talks
 - Factbox-Airlines cancel more flights as Middle East conflict escalates
 - KB Home CEO: Middle East war is hurting US housing market
 - In Wild Year Since IPO, CoreWeave Stock Is Lagging Rival Nebius
-- US current account deficit contracts sharply in the fourth quarter
-- Chinese drugmaker Hengrui's quarterly profit misses forecasts amid generic drug business squeeze
-- SLB expands Nvidia partnership to develop AI infrastructure for energy sector
-- BlackRock CEO Fink warns of 'global recession' if oil goes to $150, BBC reports
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,69 +42,65 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- What's Going On With Hewlett Packard Enterprise Stock Today?
-- Four Corners Property Trust Has An 18% Dividend Buffer And A 2029 Debt Wall - That Combination Deserves A Closer Look
-- Equinix Has A BBB+ Rating And A 51% Dividend Buffer. The CapEx Cycle Is The Variable Worth Watching.
-- Mark Cuban Says Homes Will Be 'Redesigned Completely' To Accommodate Robots That Could Look 'More Like Ants,' Than Humanoid Robots
-- Experts Explain How Retirees Could Benefit From IRA Charitable Changes
-- Stock Market Today: Dow, Nasdaq Futures Jump Even As Iran Dismisses Trump Talks—Robinhood, Circle, Arm Holdings In Focus (UPDATED)
+- PDD Holdings (PDD) Q4 2025 Earnings Call Transcript
+- On Holding Stock Falls 10% As CEO Exits, Co-Founders Take Over
+- What's Going On With Beyond Meat Stock On Wednesday?
+- Merck's $6.7 Billion Terns Pharmaceuticals Acquisition May Face Rival Interest: Analyst
+- Buffett Vs. Ackman: One Dumped Amazon Stock, The Other Bought More — Here's Who Came Out Ahead
+- Lockheed Martin Signs Major Missile Deal As Investors Watch Stock Signals
 - Tiger Woods
-- Bitcoin, Ethereum, XRP Steady, While Dogecoin Spikes Amid Trump's Iran Negotiation Buzz: Analyst Outlines BTC's Path To $80,000
-- Morgan Stanley Just Revealed The Real Reason Banks Are Betting On Bitcoin
-- How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, TSLA Using Technical Analysis
+- Trump Insiders 'Getting Richer' Off S&P 500 Spike: Adam Schiff Demands White House 'Transaction Reports' Ahead Of Iran Pivot Post
+- Middle East War Slows UK Manufacturing, Strains Starmer's Gulf and US Ties
+- Four Corners Property Trust Has An 18% Dividend Buffer And A 2029 Debt Wall - That Combination Deserves A Closer Look
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 瑞士央行发布一季度企业调查：中东战争可能会推高瑞郎面临的上行压力。
-- 中办、国办：长期护理保险费率统一控制在0.3%左右
-- 意大利总理梅洛尼预计，来自阿尔及利亚的天然气供应将增加。（安莎通讯社ANSA）
-- 中办、国办：用人单位以及单位职工、退休人员、灵活就业人员和未就业城乡居民等按照属地管理原则，参加长期护理保险
-- 中共中央办公厅、国务院办公厅发布关于加快建立长期护理保险制度的意见
-- 彭博美元指数刷新日高，报道称伊朗拒绝停火。
-ICE美元指数涨超0.3%，刷新日高至99.55点。
-- 腾讯控股根据购股权计划授出购股权。
-- 新兴市场货币指数回吐涨幅，投资者关注国际油价跌幅收窄。
-WTI原油期货目前跌4.3%，重返88.40美元附近。
-布伦特原油期货跌4.5%，重返95.70美元附近
-- 融创房地产：与哈尔滨银行就金融借款合同纠纷达成和解
-- 首次披露！国产无人艇自主编队高速穿插拦截。（央视）
-- 中国代表呼吁以全球治理倡议为引领 完善全球人权治理
-- 美股存储板块走低，美光科技跌超4%，闪迪跌6.5%，西部数据跌超4%，希捷科技跌超5%。此前Google Research推出了TurboQuant，这是一种全
+- 非洲股市收盘播报｜周三（3月25日），南非富时/JSE非洲领先40可交易指数收涨3.46%，逼近10.6万点。
+尼日利亚证交所全部股指收涨0.11%，肯尼亚内罗
+- 微软大幅改组HR架构，意味着有多人将得到提拔、也将有多人离职。（Business Insider）
+- 英国国债价格涨幅扩大，长端表现突出，30年期英债收益率则跌15个基点，暂报5.42%。
+- 报道：SpaceX计划从美国IPO融资至多750亿美元
+- 【伊朗军方称正在搜捕从中东地区基地内逃亡的美军】3月25日，伊朗武装部队哈塔姆·安比亚中央司令部发言人表示，鉴于中东地区内“所有美军基地已被摧毁”，部分美军指挥
+- 美国财政部拍卖四个月期国债，得标利率3.635%，投标倍数2.82。
+- 美国财政部拍卖两年期浮息国债（FRNS），贴现利率0.115%，投标倍数2.78。
+- 以政府批准最高40万人预备役征召上限
+- 埃克森美孚：计划将美国页岩油采收率（recovery rate）提高一倍。
+- 王毅同埃及外长阿卜杜勒阿提通电话
+- 王毅同土耳其外长费丹通电话
+- 美股回吐涨幅，美国原油跌幅收窄，报道称伊朗布什尔核电站再遭袭击
 其他:
-- 据美国纽约联储数据，上个交易日（3月24日）担保隔夜融资利率（SOFR）报3.63%，之前一天报3.62%。
-上个交易日有效的联邦基金利率报3.64%，之前一天
-- 奇瑞风云T9L开启预售，预售价区间为13.99 万-16.99万元
-- 华安、海富通合并大局已定，华安主导，迎重磅人事布局！
-- 龚正会见美国美敦力全球董事长兼首席执行官杰夫·马萨
-- 伊朗冲突带火扫雷无人潜航器 一家不起眼的法国公司股价暴涨700%
-- 俄副外长：乌克兰问题谈判暂停
-- Arm控股美股盘初涨15%，使得最近五个交易日迄今累计涨幅达到25%。
-该公司昨日发布第一款自研芯片AGI CPU，首批大客户包括Meta、OpenAI、以及德
-- 俄罗斯已获悉美乌会谈的结果。（塔斯社）
-- Salesforce Agentforce获得二级欧盟云COC合规。
-- Lumentum Holdings跌幅迅速扩大至2.7%。
+- 伊朗官员：美所谓“15点停战提议”是在“罗列幻想”
+- 美众议院议长：美军在伊朗“不会进行地面作战”
+- 美国总统特朗普：可能会调派国民警卫队去帮助机场（“维护秩序”）。
+- DocuSign推出AI合同评估助理。
+- 能源公司Devon：石油期货的远端曲线或长端曲线开始上扬。
+- 内盘期货夜市涨跌各异，甲醇收涨3%，合成橡胶涨超2.3%，燃油跌2%，低硫燃油跌3%
+- 伊朗说不允许特朗普决定停战时间
+- 印度计划到2035年将GDP排放强度降低47%
+- 黎真主党：我们做好了无限期战斗准备
+- BBC任命原谷歌公司高管Matt Brittin为总经理。
 
 ## SCMP (EN/中)
 头版/首屏:
+- Should China be worried about Japan’s maritime force overhaul?
+- Japanese minister expresses regret over military officer’s arrest at Chinese embassy
+- Global Economy
 - China says Mexico’s tariff hikes constitute ‘trade barriers’ after probe
-- China and the US end trade talks in Paris as doubts form over Trump visit
-- Military
-- Former defence exec Tan Ruisong given death sentence for ‘exceptional’ corruption
-- Diplomacy
-- African producers may have energy edge in Iran war, if they can overcome hurdles
 - China Economy
+- Airbus wins Chinese airline’s 101-plane order in victory over Boeing
 - China still on track to supplant US as world’s No 1 economy in 10 years: academic
-其他:
-- The tariff increases – made in part to appease demands from Washington – have been designated a breach of trade rules by Beijing.
-- Tan confessed to taking about US$89 million in bribes and insider trading during his time at Avic.
-- Analysts say oil from Africa may be lower-risk alternative, coinciding with a fresh push for infrastructure to supply Europe.
-- China is better equipped to navigate its current challenges than the US, which will remain mired in ‘self-defeating’ conflicts, scholar says.
 - China-owned vessel secures rare Strait of Hormuz transit as Iran war grinds on
-- Science
-- China names AI tokens after the yuan. Should US worry for the dollar?
-- China has officially designated ciyuan as the translation for ‘token’, giving strong economic overtones to what has been a tech term.
-- Are US and China seeking ‘minimum stability’ after a ‘rough patch’ in relations?
-- Even though Donald Trump has postponed his trip to China, an academic forum heard that both sides still hoped to keep things on an even keel.
+其他:
+- Reform reflects shift towards quasi-carrier operations and preparations for potential conflict with Beijing, Chinese analysts say.
+- The tariff increases – made in part to appease demands from Washington – have been designated a breach of trade rules by Beijing.
+- China Eastern Airlines said it would take delivery of the A320neo aircraft, worth US$15.8 billion, between 2028 and 2032.
+- China is better equipped to navigate its current challenges than the US, which will remain mired in ‘self-defeating’ conflicts, scholar says.
+- Food & Drink
+- Hong Kong’s The Chairman, Wing take top spots in Asia’s 50 Best Restaurants 2026
+- The 2026 edition saw a strong showing from Chinese restaurants in the top 10, with representatives from Shanghai, Hangzhou, Hong Kong, Macau.
+- Big Tech
+- Semicon China: AI, packaging set to drive country’s chip industry growth
+- China on track to account for nearly half of world wafer capacity in two years, organiser of world’s largest chip industry trade show says.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -133,17 +129,16 @@ WTI原油期货目前跌4.3%，重返88.40美元附近。
 - 吃喝玩乐
 
 ## 智通财经 (简中)
-（抓取失败: curl exit 0, len=498）
+（抓取失败: curl exit 28, len=0）
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 美国关税: 华尔街见闻 (简中), SCMP (EN/中)
-- 就业数据: Benzinga (EN), 华尔街见闻 (简中)
-- 加密货币: Benzinga (EN)
-- 美联储: 华尔街见闻 (简中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
