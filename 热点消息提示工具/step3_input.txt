@@ -44,7 +44,7 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets closed
+- U.S. markets open in 8h 43m
 - 'Dr. Doom' shares biggest economic concerns from war with Iran
 - Huang claims AGI has been 'achieved'
 - US sees 'possibility of diplomacy' with Iran as war costs rise
@@ -56,13 +56,13 @@
 - US stock futures jump as Wall Street hopes for Iran progress
 - Oil drops on reports of US diplomatic push to end war with Iran
 - Arm debuts first data center chip, putting Intel and AMD on notice
+- Arm to Sell Its Own Chips, Eyeing Sales Goal of $15 Billion
 - Democrats Flip Florida Seat Representing Trump’s Mar-a-Lago
 - Australia public broadcaster staff strike over pay for first time in 20 years
 - Energy Shocks Will Slow Climate Action, Top Mining Executive Says
 - The worst oil crisis in history comes at a good time for China’s troubled EV giants
 - Oil prices drop on prospect of Middle East ceasefire easing supply disruption
 - CK Hutchison unit says Panama arbitration claim now tops $2 billion
-- Openreach taps Google AI to speed fibre rollout, cut emissions
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,11 +77,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
+- Elon Musk's SpaceX Could File For Its IPO As Soon As This Week, Aiming To Raise $75 Billion: Report
+- Dogecoin, Ethereum, Gold Trades On Your Mind? Here's What This Top Analyst Has Projected For The Coming Few Days
+- Anthony Scaramucci Says Democrats Are In 'Complete Disarray' And Offer 'No Real Solutions' Other Than Anti-Trump Rhetoric On A Loop
 - Elizabeth Warren Questions Nvidia's $20 Billion Groq Move: 'Is This Deal An Attempt To Avoid Antitrust Scrutiny?'
 - iTonic Holdings (ITOC) Surges Over 84% After Hours— Here's Why It's Trending
-- Trump's ICE Airport Deployment An 'Insult' And A 'Waste Of Money,' Say Unpaid TSA Workers As Shutdown Chaos Continues
-- Blaize Holdings Is Trending As Stock Shoots Up 49% Overnight: Here's Why
-- US-Iran Peace Talks To Be Held In This Country? Crypto Prediction Market Sets Over 50% Probability After Trump's Truth Social Post
 - Bitcoin, Ethereum, XRP Steady, While Dogecoin Spikes Amid Trump's Iran Negotiation Buzz: Analyst Outlines BTC's Path To $80,000
 - Tiger Woods
 - Arm Holdings Stock Soars As Company Targets $15 Billion In Annual Sales From New In-House Chip
@@ -89,7 +89,33 @@
 - Applied Optoelectronics Shares Jump 12% After Key Trading Signal
 
 ## 华尔街见闻 (简中)
-（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=20 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f2dc7bb97c0>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
+头版/首屏:
+- 英特尔和AMD告知客户上调3月和4月CPU价格。（日经新闻）
+- 伊朗伊斯兰革命卫队：将“毫不留情”对以军予以猛烈打击
+- 美调整探月计划 暂停“门户”空间站项目
+- 联合国官员：当今世界“正处于二战以来最暴力时期”
+- 中国央行在香港发行600亿元人民币6个月期央票，中标利率1.48%。
+- 早间要闻汇总
+- 提醒：日内请重点关注（以下均为北京时间）
+- 泡泡玛特2025年净利润同比增逾300%，高于预期
+- 以防长称将在黎巴嫩南部设立“缓冲区”
+- IDC：2025年中国智能眼镜市场出货量246万台 同比增长87.1%
+- 石药集团2025年营收260.1亿元人民币，预估278.2亿元人民币。
+2025年净利润38.8亿元人民币，预估48.7亿元人民币。
+每股末期股息0.15港元。
+- 福建发行5年期土储专项地方债，规模61.8034亿元，发行利率1.6200%，边际倍数1.88倍，倍数预期1.63。
+其他:
+- 安踏2025年净利润135.9亿元人民币，同比-13%，预估132.6亿元人民币。
+2025年营收802.2亿元人民币，同比+13%，预估787.1亿元人民币。
+- 腾讯元宝派推出电脑版
+- 泰国股指SET指数涨幅扩大至2.1%。
+- 纳米比亚以安全等为由拒绝“星链”牌照申请
+- 阿联酋启动政府建筑节能省水计划
+- 印度股指Sensex、Nifty指数涨1%。
+- 【中远海能回应是否通过霍尔木兹海峡】针对是否有中国船东的货船成功穿越霍尔木兹海峡进入外海，中远海能证券部人士回应记者：还在评估安全形势。（第一财经）
+- 伊朗军方强硬喊话美国 “别把你们的失败称为协议”
+- 伊朗发动“真实承诺4”第80波打击行动
+- 阿里云JVS Claw 全面开放
 
 ## SCMP (EN/中)
 头版/首屏:
@@ -106,12 +132,12 @@
 - At Carnegie event, ex-officials say Trump’s approach echoes first term, with swings from tariffs to accommodation and little clear strategy.
 - US president claims Tehran offered an ‘oil and gas related’ gift and that it was a sign talks are happening with ‘the right people’.
 - Turkiye Is Bankasi eyes corporate-focused Hong Kong branch, citing the city’s hub role, to complete its China coverage, sources say.
-- China Economy
-- How ‘salmon’ raised in landlocked Xinjiang is netting fans in China
-- Aquaculture in the far-western region is expected to grow even more rapidly after a dependence on imported eggs is diminished or ended.
-- Military
-- US unlikely to get China to join new nuclear arms control agreement, experts say
-- Nuclear superpowers not taking active steps towards meaningful negotiation following the expiry of New Start arms treaty in February.
+- Science
+- China’s 7-day hypersonic design; Andy Lau’s Ming mystery: 7 science highlights
+- From top mathematician on leaving the US to China’s coal-to-medicine feat, here are some highlights from SCMP’s recent science reporting.
+- China Business
+- Visa-free travel, rising foreign visitors boost luxury hotel growth in China
+- China’s luxury hotels thrive as visa-free policies drive international tourism, with Shanghai and Beijing seeing significant growth in high-end stays.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -128,9 +154,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25166.12+102.41(+0.41%)
+- 恒生指数25072.75+9.04(+0.04%)
                     etnet.com.hk@copyright
-- 国企指数8523.30+23.77(+0.28%)
+- 国企指数8483.07-16.46(-0.19%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -143,14 +169,16 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN)
 - 美国关税: SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN)
+- 就业数据: SCMP (EN/中)
 - 美联储: Yahoo Finance (EN)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
