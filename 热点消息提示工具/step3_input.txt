@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032619
+抓取时间: 2026032622
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 48m
-- US stock futures fall as Wall Street weighs prospects for Iran truce
-- 'Worst nightmare': Analysts warn of history's worst oil shock
-- War hits global economy with US inflation seen at 4.2%: OECD
-- BlackRock's Kapito: Investors are underestimating Iran risks
-- Chewy CEO: Consumers are 'highly engaged' as inflation squeezes
-- Iran oil revenue soars as it's the only exporter out of Hormuz
-- Oil advances as US and Iran offer conflicting comments on talks
-其他:
+- U.S. markets close in 5h 42m
+- Stock futures sink as Trump warns Iran to 'get serious'
+- Google's memory breakthrough spurs global chipmaker sell-off
 - Is AI helping companies get more out of workers? It's hard to say.
-- Meta, Google risk a Big Tobacco-like fallout after addiction verdict
-- Bessent praises BoE as model for tighter oversight of Federal Reserve
-- Pornhub, Stripchat, XNXX, XVideos charged with breaching EU tech rules, risk fines
-- Why $4 gas won’t spark an EV buying spree
-- China’s Official Calm Belies a War Battering Small Factories
-- OpenAI indefinitely pauses plans to release erotic chatbot: FT
-- US jury verdicts against Meta, Google tee up fight over tech liability shield
-- Meta's main character moment
-- South Korea to invest $166 million in AI chip startup Rebellions
+- Gold is getting pummeled. 3 reasons it may rebound.
+- Jobless claims tick higher, remain at healthy levels
+- Meta, Google face legal reckoning, OpenAI narrows its focus
+- Wall Street bonus pool jumps to a record $49.2B for 2025
+其他:
+- Trump urges Iran to negotiate a deal before it is 'too late'
+- 'Worst nightmare': Analysts warn of history's worst oil shock
+- 800-year-old principle may help find bottom to S&P 500's rout
+- CLEAR+ lets you bypass TSA checkpoints for ID. Is it worth the cost?
+- Defense technology startup Shield AI valued at $12.7 billion in latest funding round
+- Wave Life Sciences shares plunge as data for high dose of obesity drug disappoints
+- WTO chief calls for trade overhaul to meet new world order
+- European Payments Initiative CEO says Trump fears are boosting its appeal
+- Apple adds Bosch, Cirrus Logic, others to US manufacturing program, to invest $400 million
+- Two senators call for US tariff probe into construction and farm equipment
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,65 +77,71 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- EXCLUSIVE: Hoth Therapeutics Targets Faster Drug Discovery With New AI Platform
-- This Qualcomm Analyst Is No Longer Bullish; Here Are Top 4 Downgrades For Thursday
-- Bitcoin Breaks Below $70,000 As Ethereum, XRP, Dogecoin Drop 5%
-- Infosys Expands AI Push with Two Strategic Acquisitions
-- 'Worst-Ever Energy Shock' Drives Focus Toward Australian Uranium
-- Stock Market Today: Dow Jones, S&P 500 Futures Fall As Trump Prepares To 'Unleash Hell' On Iran—Pony AI, Worthington Steel, Olaplex Holdings In Focus
+- Denmark: Not A Macro Bet But A Stock Picker's Market
+- Salesforce Lands DoL Deal To Power AI Agent 'DOLA' For 24/7 Worker Support
+- Olaplex, Kodiak Sciences, Precigen And Other Big Stocks Moving Higher On Thursday
+- ImmunityBio Lead Bladder Cancer Drug Trial Clears Power Check
+- 'We'll Create Your Own Marketing Team': Mark Cuban Says AI Is Replacing SaaS
+- Stock Market Today: S&P 500, Dow Futures Trip As Trump Tells Iran To 'Get Serious'— Pony AI, Worthington Steel, Olaplex In Focus (UPDATED)
 - Tiger Woods
-- Olaplex Stock Soars As Henkel Strikes $1.4 Billion Takeover Deal
-- Bitcoin, Ethereum, XRP, Dogecoin Hold Steady Amid US-Iran Truce Momentum: Here's Why This Analyst Thinks Now Is A 'Great Time To Buy' BTC
-- Argan Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- Dow Futures Drop 70 Points, Oil Rises To $91: Trump Says Tehran Wants A Deal 'Badly' Even As Iran's Foreign Minister Rules Out Talks
+- H World's Asset-Light Strategy Is Paying Off
+- Wall Street's Most Accurate Analysts Give Their Take On 3 Defensive Stocks With Over 7% Dividend Yields
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 欧盟委员会将支持任何欧盟成员国采取灵活措施，将视情况召集天然气协调小组会议。（彭博）
-- 伊朗武装部队向以色列发射新一轮导弹
-- 英国国债价格继续下跌，10年期国债收益率上升10个基点至4.94%。
-- 特朗普再次抨击北约盟友 称不需要北约的任何东西
-- 特朗普警告伊朗在和平协议问题上“认真起来”
-- 全志科技：2025年净利润2.62亿元，同比增长57.20%
-- 华安证券：2025年净利润21.1亿元，同比增长41.92%。
-- 青岛啤酒：2025年净利润45.9亿元，同比增长5.6%；每股拟派发现金股利人民币2.35元。
-- 沐曦股份：2025年净亏损7.89亿元，同比减亏
-- OECD大幅上调全球主要经济体通胀预期 料美国今年恐达4.2%
-- 中信证券：2025年净利润同比增长38.58%
-- 中国政府中东问题特使会见俄罗斯驻华大使，双方就当前中东局势交换意见。（央视新闻）
+- 国防部新闻发言人就近期中东局势答记者问
+- 加密货币通过符合房利美标准的贷款进入抵押贷款市场
+- 伊朗通过中间人回应美15点停火提议 提出明确前提条件
+- 美国参议院多数党领袖约翰·图恩（John Thune）：如果没能敲定国土安全部（DHS）预算拨款问题，参议院“很难”休会。
+- 布伦特原油期货涨3.55%，暂报100.71美元。
+有伊朗高级官员称，目前还没有关于谈判的任何安排，现阶段任何对话计划看起来都不切实际。
+- 据美国纽约联储数据，上个交易日（3月25日）担保隔夜融资利率（SOFR）报3.64%，之前一天报3.63%。
+上个交易日有效的联邦基金利率报3.64%，之前一天
+- WTI原油期货目前涨2.93%，暂报92.97美元。
+据塔斯尼姆通讯社报道，伊朗称美方所谓谈判说法纯属“欺骗。
+- 美团王兴：Keeta沙特有望在2026年底前实现单月的UE转正
+- 从阿里离职后，林俊旸首度发文详谈对大模型发展路线的理解及对AI下一阶段的预判。
+他的判断是智能体式思考：为了行动而思考，在与环境交互的过程中，并根据来自世界的反
+- 美股拉升，道指转涨，标普500指数跌幅收窄至0.4%，纳指跌幅收窄至0.75%。据新华社，伊朗塔斯尼姆通讯社援引知情人士的话报道说，伊朗已正式回应美国提出的停火
+- 路透调查：经济学家仍预计美联储今年至少降息一次，将按兵不动至9月
+- 伊朗已正式回应美国提出的停火协议15点内容
 其他:
-- 高通全球高级副总裁：今年是智能体之年，也将是6G标准化关键一年
-- 周生生：2025年营业收入224.46亿港元，同比增长6%；归母净利润16.59亿港元，同比增长115%。
-- 摩尔线程联合硅臻芯片推出“量超智通”融合计算平台
-- 俄称代表团启程赴美“测试性会晤” 旨在恢复沟通
-- 德国央行：德国通胀率短期内将升向3%。
-德国经济第一季度可能停滞。
-- 中芯国际：2025年全年实现销售收入93.27亿美元，同比增长16.2%
-- 一艘移民船在吉布提沿海失事 致9人死亡
-- 我国全面启动新一轮农业气候资源普查和区划
-- 巴基斯坦外长说美伊正进行间接谈判
-- 美方被曝正酝酿针对伊朗的所谓“最后一击”军事选项
+- 美股盘初，主要行业ETF普跌，半导体ETF跌超2%，全球科技股指数ETF跌1.6%，科技行业ETF跌1.3%。
+- 马来西亚总理：伊朗允许马来西亚船只通过霍尔木兹海峡。
+- 北美科技软件股指数ETF一度跌超1.3%，刷新日低至79.32美元。
+- AppLovin低开9%。投资者陡然对受抑的电商开支感到忧心忡忡。
+Pipe Sandler分析师James Callahan重申对该公司的买入评级，目标价65
+- 美股盘初：纳指跌1.1%，存储芯片概念股、热门中概股普跌
+- 标普500指数低开36.04点，跌幅0.55%，报6555.86点；
+道琼斯工业平均指数低开84.85点，跌幅0.18%，报46344.64点；
+纳斯达克综合指
+- 以军公布袭击伊朗伊斯兰革命卫队海军高层细节
+- 中信建投：2025年净利润94.39亿元，同比增长30.68%
+- 格罗方德半导体（格芯）针对以色列公司Tower Semiconductor Ltd.（TSEM.IT）提起专利诉讼。
+- 以军称伊朗伊斯兰革命卫队海军情报部门负责人身亡
 
 ## SCMP (EN/中)
 头版/首屏:
-- Taiwanese court jails former Taipei mayor Ko Wen-je for 17 years for corruption
-- Taiwan opposition parties join forces for local polls with eye on 2028 race
-- Military
-- What can the Iran war tell China about missile interception?
-- Diplomacy
-- Singapore PM sees China helping small groups net big results for Asia
+- Trump eyes China deal, but dragging out talks risks backlash: former diplomat
+- Trump-Xi summit: US announces new dates in May
+- Tech
+- AI rift widens as China urges boycott of top US conference over sanctions ban
 - Big Tech
-- Meituan posts second consecutive quarterly loss amid instant commerce battle
+- Google’s TurboQuant dents memory-chip stocks, but analysts say ‘buy the dip’
+- Business
+- BASF launches biggest overseas project in China with green-powered mega-site
 其他:
-- Ko also banned from running for the island’s top office for six years, ruling out a run in 2028.
-- Journal says China should target boost stage, when ballistic missiles are slower, lack manoeuvrability and emit an intense heat signature.
-- Beijing could also spearhead areas like AI governance and play greater role in promoting economic prosperity, he adds.
-- The Beijing-based company had a challenging 2025 after local e-commerce giant JD.com jumped into food and grocery deliveries.
+- US leader is likely to ask Beijing to commit to ‘large’ purchases of American agricultural and manufacturing goods, says Stephen Biegun.
+- Move to comply with US sanctions sparks backlash, with China’s top computing body threatening to blacklist the AI conference.
+- Rather than reducing demand for memory chips, the advance could increase it by fuelling more AI applications.
+- German chemical giant opens US$10 billion Zhanjiang complex, its largest overseas investment, as Beijing courts foreign capital.
 - Chinese satellite performs landmark refuelling test in low Earth orbit
-- Society
-- Developing | Cathay to increase fuel surcharge for all flights by 34% from April
-- Move marks second increase in recent weeks, with airline pointing to ‘considerable pressure’ from higher jet fuel prices due to conflict in Middle East.
-- China EVs
-- VW pulls Skoda brand from China after years of falling sales
+- Global Economy
+- UK blocks China wind project on ‘national security’ amid tense business climate
+- The UK government cited security concerns but gave few details, leaving observers to question if geopolitical pressure shaped move.
+- DJI unveils its first 360-degree drone amid patent dispute with crosstown rival Insta360
+- The new DJI drone features four propellers, giving it a similar look to the Avata 2, a first-person view drone launched in 2024.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -167,14 +173,14 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 加密货币: Benzinga (EN)
-- 美联储: Yahoo Finance (EN)
-- 中国政策/两会: 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
+- 加密货币: 华尔街见闻 (简中)
+- 黄金/大宗: Yahoo Finance (EN)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
