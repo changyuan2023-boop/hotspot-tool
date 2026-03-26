@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032617
+抓取时间: 2026032619
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 3h 33m
+- U.S. markets open in 1h 48m
 - US stock futures fall as Wall Street weighs prospects for Iran truce
+- 'Worst nightmare': Analysts warn of history's worst oil shock
+- War hits global economy with US inflation seen at 4.2%: OECD
 - BlackRock's Kapito: Investors are underestimating Iran risks
+- Chewy CEO: Consumers are 'highly engaged' as inflation squeezes
+- Iran oil revenue soars as it's the only exporter out of Hormuz
+- Oil advances as US and Iran offer conflicting comments on talks
+其他:
+- Is AI helping companies get more out of workers? It's hard to say.
 - Meta, Google risk a Big Tobacco-like fallout after addiction verdict
 - Bessent praises BoE as model for tighter oversight of Federal Reserve
-- Oil advances as US and Iran offer conflicting comments on talks
-- Iran is drafting law to introduce tolls for Hormuz transit
-- Fed's Miran: Focus on jobs, look through the oil spike
-其他:
-- Google's memory breakthrough spurs global chipmaker sell-off
-- Super Micro sued by shareholders over fraud case
-- Workers everywhere feel very bad about their job security
+- Pornhub, Stripchat, XNXX, XVideos charged with breaching EU tech rules, risk fines
+- Why $4 gas won’t spark an EV buying spree
+- China’s Official Calm Belies a War Battering Small Factories
+- OpenAI indefinitely pauses plans to release erotic chatbot: FT
+- US jury verdicts against Meta, Google tee up fight over tech liability shield
+- Meta's main character moment
 - South Korea to invest $166 million in AI chip startup Rebellions
-- OpenAI thought it could own AI videos. The reality was too expensive
-- Rohm, Toshiba, Mitsubishi Electric to begin power chip integration talks, Nikkei says
-- Google top India counsel quits in latest departure amid regulatory hurdles, sources say
-- Uber, Pony.ai and Verne team up to launch Europe's first robotaxi service in Croatia
-- Exclusive-China considers easing bank shareholding limits to boost capital, sources say
-- H&M's Q1 profit grows more than expected, sees March sales up 1%
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,66 +77,65 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Why Navan Shares Are Trading Higher By Over 25%; Here Are 20 Stocks Moving Premarket
-- China Bar Manus Co-Founders From Leaving Country Amid Meta's $2.5 Billion Deal Review: Report
-- FiscalNote Shares Tank As Company Gets Booted From NYSE
-- Seth Moulton Bans His Staff From Betting On Prediction Markets Citing 'Perverse Incentive,' Threat To Public Trust
-- CoreWeave Trails Nebius As AI Spending Fears Rattle Investors
+- EXCLUSIVE: Hoth Therapeutics Targets Faster Drug Discovery With New AI Platform
+- This Qualcomm Analyst Is No Longer Bullish; Here Are Top 4 Downgrades For Thursday
+- Bitcoin Breaks Below $70,000 As Ethereum, XRP, Dogecoin Drop 5%
+- Infosys Expands AI Push with Two Strategic Acquisitions
+- 'Worst-Ever Energy Shock' Drives Focus Toward Australian Uranium
 - Stock Market Today: Dow Jones, S&P 500 Futures Fall As Trump Prepares To 'Unleash Hell' On Iran—Pony AI, Worthington Steel, Olaplex Holdings In Focus
 - Tiger Woods
+- Olaplex Stock Soars As Henkel Strikes $1.4 Billion Takeover Deal
 - Bitcoin, Ethereum, XRP, Dogecoin Hold Steady Amid US-Iran Truce Momentum: Here's Why This Analyst Thinks Now Is A 'Great Time To Buy' BTC
-- Oxford Industries Likely To Report Lower Q4 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
-- Top Wall Street Forecasters Revamp Designer Brands Expectations Ahead Of Q4 Earnings
+- Argan Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 瑞安房地产：全年实现核心溢利人民币3.97亿元
-- 八部门：探索建立缴费时长和待遇水平相挂钩的连续参保激励机制，对连续参保的按规定适当提高支付比例
-- 我国5G基站总数超490万个
-- 中国科学院启动下一代开源芯片与系统研发
-- 【美团：2025年核心本地商业亏损69亿元】美团业绩显示，2025年核心本地商业分部的经营溢利同比大幅下降，转为经营亏损人民币69亿元，去年经营溢利为524.1
-- 吉比特：2025年净利润17.94亿元，同比增长89.82%
-- 美团：四季度销售成本同比增长23.5%
-- 中国平安：归属于母公司股东的扣非净利润1437.73亿元，同比增长22.5%
-- 美团第四季度营收921.0亿元人民币，同比增长4.1%，预估920.8亿元人民币。
-第四季度调整后净亏损150.8亿元人民币，上年同期收益98.5亿元人民币，预
-- “沪七条”新政满月，上海楼市交易活跃
-- 欧股跌幅扩大，英国富时100指数、西班牙IBEX35指数日内跌幅均达1%。
-- 伊朗称美以袭击伊斯法罕理工大学校内建筑
+- 欧盟委员会将支持任何欧盟成员国采取灵活措施，将视情况召集天然气协调小组会议。（彭博）
+- 伊朗武装部队向以色列发射新一轮导弹
+- 英国国债价格继续下跌，10年期国债收益率上升10个基点至4.94%。
+- 特朗普再次抨击北约盟友 称不需要北约的任何东西
+- 特朗普警告伊朗在和平协议问题上“认真起来”
+- 全志科技：2025年净利润2.62亿元，同比增长57.20%
+- 华安证券：2025年净利润21.1亿元，同比增长41.92%。
+- 青岛啤酒：2025年净利润45.9亿元，同比增长5.6%；每股拟派发现金股利人民币2.35元。
+- 沐曦股份：2025年净亏损7.89亿元，同比减亏
+- OECD大幅上调全球主要经济体通胀预期 料美国今年恐达4.2%
+- 中信证券：2025年净利润同比增长38.58%
+- 中国政府中东问题特使会见俄罗斯驻华大使，双方就当前中东局势交换意见。（央视新闻）
 其他:
-- 【中方警戒舰目前正处于霍尔木兹海峡附近？国防部回应：假消息】国防部3月26日下午举行例行记者会。有记者提问称，中方的“瞭望一号”海上综合警戒舰目前正处于霍尔木兹
-- 泡泡玛特：于2026年3月26日回购394万股，耗资约6亿港元。
-- 国务院关税税则委员会：自2026年4月1日起，对原产于刚果（布）的部分进口货物实施协定税率
-- 小马智行：2025年总营收达6.29亿元，同比增长20%
-- 日本首相高市早苗：日本面临国内投资严重短缺。
-将通过降低债务与GDP比率来确保市场信任。
-- 挪威央行很可能在即将召开的某次会议上加息。（彭博）
-- 海南封关百日来，外贸进出口超800亿元，同比增长32.9%
-- 国投白银LOF：本基金将于2026年3月27日开市起至当日10:30停牌，自2026年3月27日10:30复牌，停牌期间本基金赎回业务照常办理。
-- 美团2025年财报：全年收入3649亿元，核心本地商业亏损69亿元
-- 伊朗：“成功摧毁”美军巴林和科威特基地军事装备
+- 高通全球高级副总裁：今年是智能体之年，也将是6G标准化关键一年
+- 周生生：2025年营业收入224.46亿港元，同比增长6%；归母净利润16.59亿港元，同比增长115%。
+- 摩尔线程联合硅臻芯片推出“量超智通”融合计算平台
+- 俄称代表团启程赴美“测试性会晤” 旨在恢复沟通
+- 德国央行：德国通胀率短期内将升向3%。
+德国经济第一季度可能停滞。
+- 中芯国际：2025年全年实现销售收入93.27亿美元，同比增长16.2%
+- 一艘移民船在吉布提沿海失事 致9人死亡
+- 我国全面启动新一轮农业气候资源普查和区划
+- 巴基斯坦外长说美伊正进行间接谈判
+- 美方被曝正酝酿针对伊朗的所谓“最后一击”军事选项
 
 ## SCMP (EN/中)
 头版/首屏:
-- Singapore PM sees China helping small groups net big results for Asia
-- US, China ‘disjointed’ on AI, but collaboration possible: Silicon Valley tech founder
-- China Economy
-- ‘Demand shock’: why China cannot escape the impact of a prolonged Iran war
-- Society
-- Breaking | Cathay to increase fuel surcharge for all flights by 34% from April
-- 6 injured in explosion at Hong Kong recycling yard
-- Chinese satellite performs landmark refuelling test in low Earth orbit
-其他:
-- Beijing could also spearhead areas like AI governance and play greater role in promoting economic prosperity, he adds.
-- China’s economy is more resilient than most, but a decline in global demand sparked by the war would hurt Chinese exporters, analyst warns.
-- Move marks second increase in recent weeks, with airline pointing to ‘considerable pressure’ from higher jet fuel prices due to conflict in Middle East.
-- Bright orange flames and thick black smoke seen at Tai Po site after blast.
-- China Business
-- China’s lidar giants pivot to robotics in boost supply chain dominance
-- Hesai will spend US$28.9 million this year to design and manufacture ‘eyes and muscles’ for robots, creating a new growth engine.
-- As Iran war rages, China links peace to economic growth at Boao Forum
-- Beijing will continue promoting free trade, openness and a sound legal system for business, top legislator says.
+- Taiwanese court jails former Taipei mayor Ko Wen-je for 17 years for corruption
+- Taiwan opposition parties join forces for local polls with eye on 2028 race
+- Military
+- What can the Iran war tell China about missile interception?
 - Diplomacy
+- Singapore PM sees China helping small groups net big results for Asia
+- Big Tech
+- Meituan posts second consecutive quarterly loss amid instant commerce battle
+其他:
+- Ko also banned from running for the island’s top office for six years, ruling out a run in 2028.
+- Journal says China should target boost stage, when ballistic missiles are slower, lack manoeuvrability and emit an intense heat signature.
+- Beijing could also spearhead areas like AI governance and play greater role in promoting economic prosperity, he adds.
+- The Beijing-based company had a challenging 2025 after local e-commerce giant JD.com jumped into food and grocery deliveries.
+- Chinese satellite performs landmark refuelling test in low Earth orbit
+- Society
+- Developing | Cathay to increase fuel surcharge for all flights by 34% from April
+- Move marks second increase in recent weeks, with airline pointing to ‘considerable pressure’ from higher jet fuel prices due to conflict in Middle East.
+- China EVs
+- VW pulls Skoda brand from China after years of falling sales
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -169,14 +168,12 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
 - 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
-- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 加密货币: Benzinga (EN)
-- 就业数据: Yahoo Finance (EN)
+- 美联储: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
