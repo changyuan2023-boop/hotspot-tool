@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032523
+抓取时间: 2026032612
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 4h 15m
-- Morgan Stanley expects S&P profit boom despite Iran war
-- US awaits response to peace plan as Iran keeps up attacks
-- Rare combo of drivers for big stock losses is in play
-- Why Costco's cheap new Kirkland energy drink won't crush Celsius
-- SpaceX aims to file for IPO as soon as this week
-- 6 things to know as Treasury takes over defaulted student loans
-- Bitcoin nudges higher as analysts say token 'looks bottomed'
+- U.S. markets open in 9h 17m
+- Meta, YouTube found liable in social media addiction lawsuit
+- US insists talks ongoing even as Iran rejects Trump outreach
+- US stock futures flat as Wall Street weighs prospects for Iran truce
+- Super Micro sued by shareholders over China-related criminal case against co-founder, others
+- US Postal Service to hike prices as war drives up fuel costs
+- Disney CEO's tough first week marred by Fortnite, OpenAI woes
+- Zillow CEO: Here's the biggest thing preventing you from buying a home
 其他:
-- US stocks jump amid hopes for Iran peace talks
-- Rising gas prices could be good news for EVs
-- Gas prices inch toward $4 a gallon as Iran war drags on
-- Argentina to seek looser foreign ownership rules for rural land
-- Circle stock rebounds after biggest one day drop ever
-- Legal software firm Harvey valued at $11 billion in latest funding round
-- Gold Extends Gains as Traders Gauge Viability of Ceasefire Talks
-- Factbox-Airlines cancel more flights as Middle East conflict escalates
-- KB Home CEO: Middle East war is hurting US housing market
-- In Wild Year Since IPO, CoreWeave Stock Is Lagging Rival Nebius
+- Wall Street analysts say recession odds are rising
+- AI doomer's new warning: Market is wrong to ditch rate-cut bets
+- TSA chief says nearly 500 officers have quit, warns of future issues
+- BlackRock’s Kapito Warns Investors Are Mispricing Iran Risks
+- Hyundai Motor aims to double China sales, launch 36 new models in North America
+- Nvidia-backed Reflection AI eyes $25 billion valuation, WSJ reports
+- Google Breakthrough Spurs Chip Selloff Despite Analysts’ Doubt
+- Nanya Technology shares surge 10% after $2.5 billion fundraising
+- Trump's tariffs had little impact on GDP in 2025, but raised revenue, academic paper finds
+- Brookings Institution paper charts path toward smaller Fed balance sheet
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,72 +42,79 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- PDD Holdings (PDD) Q4 2025 Earnings Call Transcript
-- On Holding Stock Falls 10% As CEO Exits, Co-Founders Take Over
-- What's Going On With Beyond Meat Stock On Wednesday?
-- Merck's $6.7 Billion Terns Pharmaceuticals Acquisition May Face Rival Interest: Analyst
-- Buffett Vs. Ackman: One Dumped Amazon Stock, The Other Bought More — Here's Who Came Out Ahead
-- Lockheed Martin Signs Major Missile Deal As Investors Watch Stock Signals
+- Fitness Champs Holdings (FCHL) Surges Over 127% After Hours—Here's Why It's Trending
+- Gene Munster Says SpaceX IPO Bottom Line Is: 'This Is A Generational Company' And 'One To Own' For The Next Decade
+- Morgan Stanley's Bitcoin ETF Gets Official Listing Announcement By NYSE: Analyst Says This 'Typically' Means Launch Imminent
+- Super Micro Computer Hit With Securities Fraud Lawsuit Amid Alleged China Sales Cover-Up And Nvidia Chip Smuggling Scandal
+- Cathie Wood Chooses Medical AI Over Mark Zuckerberg: Ark Loads Up On TEM Stock, Dumps Meta Shares
+- Dow Futures Drop 70 Points, Oil Rises To $91: Trump Says Tehran Wants A Deal 'Badly' Even As Iran's Foreign Minister Rules Out Talks
 - Tiger Woods
-- Trump Insiders 'Getting Richer' Off S&P 500 Spike: Adam Schiff Demands White House 'Transaction Reports' Ahead Of Iran Pivot Post
-- Middle East War Slows UK Manufacturing, Strains Starmer's Gulf and US Ties
-- Four Corners Property Trust Has An 18% Dividend Buffer And A 2029 Debt Wall - That Combination Deserves A Closer Look
+- Navan Stock Soars On Q4 Earnings Beat (CORRECTED)
+- OpenAI Set For $850B Valuation In Blockbuster Raise Backed By Wall Street Giants
+- Investors Dump US Stocks Like It's 2008 Again — But Pile Into This Sector At A Record Pace
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 非洲股市收盘播报｜周三（3月25日），南非富时/JSE非洲领先40可交易指数收涨3.46%，逼近10.6万点。
-尼日利亚证交所全部股指收涨0.11%，肯尼亚内罗
-- 微软大幅改组HR架构，意味着有多人将得到提拔、也将有多人离职。（Business Insider）
-- 英国国债价格涨幅扩大，长端表现突出，30年期英债收益率则跌15个基点，暂报5.42%。
-- 报道：SpaceX计划从美国IPO融资至多750亿美元
-- 【伊朗军方称正在搜捕从中东地区基地内逃亡的美军】3月25日，伊朗武装部队哈塔姆·安比亚中央司令部发言人表示，鉴于中东地区内“所有美军基地已被摧毁”，部分美军指挥
-- 美国财政部拍卖四个月期国债，得标利率3.635%，投标倍数2.82。
-- 美国财政部拍卖两年期浮息国债（FRNS），贴现利率0.115%，投标倍数2.78。
-- 以政府批准最高40万人预备役征召上限
-- 埃克森美孚：计划将美国页岩油采收率（recovery rate）提高一倍。
-- 王毅同埃及外长阿卜杜勒阿提通电话
-- 王毅同土耳其外长费丹通电话
-- 美股回吐涨幅，美国原油跌幅收窄，报道称伊朗布什尔核电站再遭袭击
+- 中欧合作“微笑卫星”完成发射场最后准备 计划4月9日发射
+- 日本40年期国债收益率下行5个基点至3.67%。
+- 韩国国债期货小幅走高，此前政府宣布债券回购计划。
+- 香港正考虑为资产管理机构提供重大减税政策，考虑对资产管理机构的税务规则进行全面变革。（英国金融时报）
+- 美股期货收复失地，纳斯达克100指数期货转为涨0.1%，标普500指数期货转为涨跌持平。
+日经225指数小幅反弹，转为涨跌持平。
+- 韩国宣布稳定债券市场的措施，将回购5万亿韩元的政府债券。
+- 美媒称伊朗议长和外长暂被移出美以清除名单
+- 上证指数早盘收报3909.16点，跌0.58%。
+深证成指早盘收报13748.30点，跌0.38%。
+创业板指早盘收报3314.64点，跌0.07%。
+沪深30
+- 3月26日午间收评：沪指半日跌0.58%，锂电池板块逆势走强
+- 国债期货早盘收盘，30年期主力合约涨0.30%，10年期主力合约涨0.10%，5年期主力合约涨0.07%，2年期主力合约涨0.02%。
+- 印尼基准股指日内跌幅扩大至1%。
+- 海南发行5年期一般债地方债，规模24.0000亿元，发行利率1.6200%，边际倍数2.04倍，倍数预期1.62；
+海南发行7年期一般债地方债，规模30.000
 其他:
-- 伊朗官员：美所谓“15点停战提议”是在“罗列幻想”
-- 美众议院议长：美军在伊朗“不会进行地面作战”
-- 美国总统特朗普：可能会调派国民警卫队去帮助机场（“维护秩序”）。
-- DocuSign推出AI合同评估助理。
-- 能源公司Devon：石油期货的远端曲线或长端曲线开始上扬。
-- 内盘期货夜市涨跌各异，甲醇收涨3%，合成橡胶涨超2.3%，燃油跌2%，低硫燃油跌3%
-- 伊朗说不允许特朗普决定停战时间
-- 印度计划到2035年将GDP排放强度降低47%
-- 黎真主党：我们做好了无限期战斗准备
-- BBC任命原谷歌公司高管Matt Brittin为总经理。
+- 进出口行发行66月期债券，规模40亿元，发行利率1.6261%，预期1.6200%，投标倍数4.75倍，边际倍数1.31倍。
+- 进出口行发行1年期债券，规模100亿元，发行利率1.3657%，预期1.3700%，投标倍数2.88倍，边际倍数2.52倍。
+- 泰国股指SET指数下跌1%。
+- 隔夜SHIBOR报1.3200%，上涨0.10个基点。
+7天SHIBOR报1.4380%，上涨0.30个基点。
+3个月SHIBOR报1.5135%，下降0.20
+- 十四届全国人大四次会议8406件代表建议统一交办
+- 国内航线燃油附加费确定4月5日上涨
+- 国家医保局：2028年底，长护险制度在全国范围基本实现全覆盖
+- 以军对伊朗伊斯法罕基础设施发动大规模袭击
+- MSCI亚太指数日内下跌1%。
+标普500指数期货、纳斯达克100指数期货下跌0.4%。
+- 菜鸟计划在欧洲开设多个专业品类仓，德国电池专仓已投入运营
 
 ## SCMP (EN/中)
 头版/首屏:
-- Should China be worried about Japan’s maritime force overhaul?
-- Japanese minister expresses regret over military officer’s arrest at Chinese embassy
-- Global Economy
-- China says Mexico’s tariff hikes constitute ‘trade barriers’ after probe
-- China Economy
-- Airbus wins Chinese airline’s 101-plane order in victory over Boeing
-- China still on track to supplant US as world’s No 1 economy in 10 years: academic
-- China-owned vessel secures rare Strait of Hormuz transit as Iran war grinds on
+- China’s obesity drug makers take on global giants as Novo Nordisk patent expires
+- Rights to antibody drug from China’s Keymed change hands in US acquisition
+- Science
+- Chinese satellite performs landmark refuelling test in low Earth orbit
+- Diplomacy
+- Trump-Xi summit: US announces new dates in May, Beijing silent
+- Police hotline ‘busy’, resident testifies in Tai Po fire hearing
+- Why China’s Iran war strategy is working – and may even be an opportunity
 其他:
-- Reform reflects shift towards quasi-carrier operations and preparations for potential conflict with Beijing, Chinese analysts say.
-- The tariff increases – made in part to appease demands from Washington – have been designated a breach of trade rules by Beijing.
-- China Eastern Airlines said it would take delivery of the A320neo aircraft, worth US$15.8 billion, between 2028 and 2032.
-- China is better equipped to navigate its current challenges than the US, which will remain mired in ‘self-defeating’ conflicts, scholar says.
-- Food & Drink
-- Hong Kong’s The Chairman, Wing take top spots in Asia’s 50 Best Restaurants 2026
-- The 2026 edition saw a strong showing from Chinese restaurants in the top 10, with representatives from Shanghai, Hangzhou, Hong Kong, Macau.
-- Big Tech
-- Semicon China: AI, packaging set to drive country’s chip industry growth
-- China on track to account for nearly half of world wafer capacity in two years, organiser of world’s largest chip industry trade show says.
+- Patent expiry of blockbuster drug opens door for Chinese drug makers to challenge multinationals in booming weight-loss market.
+- ‘Octopus tentacle’ robotic arm is a commercial project designed to extend the lifespan of spacecraft.
+- Press secretary Karoline Leavitt says Trump will also host Chinese leader in Washington later this year.
+- Residents continue testimony on fourth day of hearing, with some citing lapses by contractor and others lauding emergency personnel.
+- Banking & Finance
+- China’s Jiangsu Aidea eyes Hong Kong IPO as gateway to US, European Aids markets
+- Yangzhou-based drug maker views Hong Kong as a ‘good window’ for its international expansion in HIV and Aids treatments.
+- Global Economy
+- How the Iran war could pave the way for the rise of China’s ‘petroyuan’
+- Disruptions from the war could accelerate a shift in the oil trade, threatening the US dollar’s long-held dominance, analysts say.
 
 ## 经济通 (繁中)
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
-- 海底捞去年少赚14%减派息，农夫山泉多赚三成增派息
-- 中国船东货轮 首经伊“安全走廊”通过海峡
-- 多国应对能源短缺 韩国12招节能
+- 港股重越牛熊线现回稳迹象，内险股绩前获大行唱好
+- 中远海运集运 恢复中东6国订舱业务
+- 卡塔尔设施受重创 液化气停供4国
 - 和谈“罗生门”舞高弄低，下月Chehellom举国复仇？
 - 指数环球商品外汇
 - 国金观点
@@ -117,9 +124,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25335.95+272.24(+1.09%)
+- 恒生指数24994.98-340.97(-1.35%)
                     etnet.com.hk@copyright
-- 国企指数8582.74+83.21(+0.98%)
+- 国企指数8451.84-130.90(-1.53%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -129,15 +136,16 @@
 - 吃喝玩乐
 
 ## 智通财经 (简中)
-（抓取失败: curl exit 28, len=0）
+（抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: 华尔街见闻 (简中), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
-- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美国关税: Yahoo Finance (EN)
+- 加密货币: Benzinga (EN)
 - 黄金/大宗: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
