@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032615
+抓取时间: 2026032617
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 5h 33m
-- Iran is drafting law to introduce tolls for Hormuz transit
-- Wall Street analysts say recession odds are rising
+- U.S. markets open in 3h 33m
 - US stock futures fall as Wall Street weighs prospects for Iran truce
-- Revolut to base 40% of its global workforce in India by 2026
-- Gold steadies as US and Iran offer divergent routes to end war
-- BlackRock's Kapito warns investors are mispricing Iran risks
-- US Postal Service to hike prices as war drives up fuel costs
+- BlackRock's Kapito: Investors are underestimating Iran risks
+- Meta, Google risk a Big Tobacco-like fallout after addiction verdict
+- Bessent praises BoE as model for tighter oversight of Federal Reserve
+- Oil advances as US and Iran offer conflicting comments on talks
+- Iran is drafting law to introduce tolls for Hormuz transit
+- Fed's Miran: Focus on jobs, look through the oil spike
 其他:
-- Google breakthrough spurs chip selloff despite analysts' doubt
-- Meta, YouTube found liable in social media addiction lawsuit
-- Disney CEO's tough first week marred by Fortnite, OpenAI woes
+- Google's memory breakthrough spurs global chipmaker sell-off
+- Super Micro sued by shareholders over fraud case
+- Workers everywhere feel very bad about their job security
+- South Korea to invest $166 million in AI chip startup Rebellions
+- OpenAI thought it could own AI videos. The reality was too expensive
+- Rohm, Toshiba, Mitsubishi Electric to begin power chip integration talks, Nikkei says
+- Google top India counsel quits in latest departure amid regulatory hurdles, sources say
+- Uber, Pony.ai and Verne team up to launch Europe's first robotaxi service in Croatia
 - Exclusive-China considers easing bank shareholding limits to boost capital, sources say
 - H&M's Q1 profit grows more than expected, sees March sales up 1%
-- France among nations eyeing Australia critical minerals investment, Australian minister says
-- Hyundai Motor aims to double China sales, launch 36 new models in North America
-- Nvidia-backed Reflection AI eyes $25 billion valuation, WSJ reports
-- Nanya Technology shares surge 10% after $2.5 billion fundraising
-- Trump's tariffs had little impact on GDP in 2025, but raised revenue, academic paper finds
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,65 +77,66 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Anthony Scaramucci Calls For An 'Over-The-Horizon Posture' As Iran Reportedly Targets US Bases In The Middle East: 'Before The Next War Bleeds Us Dry'
-- Dow Jumps Over 300 Points On Iran Ceasefire Hopes: Fear & Greed Index Remains In 'Extreme Fear' Zone
-- Lovesac Gears Up For Q4 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts
-- Chris Murphy Says, 'Our Democracy Is Rigged To Favor Corporations And Billionaires,' Blames Political Corruption For Economic Stagnation
-- US-Iran War Updates March 26: Trump Warns Iran To Accept Defeat, Two Killed In Abu Dhabi By Missile Debris As Strikes Continue
-- Dow Futures Drop 70 Points, Oil Rises To $91: Trump Says Tehran Wants A Deal 'Badly' Even As Iran's Foreign Minister Rules Out Talks
+- Why Navan Shares Are Trading Higher By Over 25%; Here Are 20 Stocks Moving Premarket
+- China Bar Manus Co-Founders From Leaving Country Amid Meta's $2.5 Billion Deal Review: Report
+- FiscalNote Shares Tank As Company Gets Booted From NYSE
+- Seth Moulton Bans His Staff From Betting On Prediction Markets Citing 'Perverse Incentive,' Threat To Public Trust
+- CoreWeave Trails Nebius As AI Spending Fears Rattle Investors
+- Stock Market Today: Dow Jones, S&P 500 Futures Fall As Trump Prepares To 'Unleash Hell' On Iran—Pony AI, Worthington Steel, Olaplex Holdings In Focus
 - Tiger Woods
-- Navan Stock Soars On Q4 Earnings Beat (CORRECTED)
-- OpenAI Set For $850B Valuation In Blockbuster Raise Backed By Wall Street Giants
-- Investors Dump US Stocks Like It's 2008 Again — But Pile Into This Sector At A Record Pace
+- Bitcoin, Ethereum, XRP, Dogecoin Hold Steady Amid US-Iran Truce Momentum: Here's Why This Analyst Thinks Now Is A 'Great Time To Buy' BTC
+- Oxford Industries Likely To Report Lower Q4 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- Top Wall Street Forecasters Revamp Designer Brands Expectations Ahead Of Q4 Earnings
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 伊朗发动第82波打击
-- 中指研究院：2025年百强企业销售表现分化 洗牌或将持续
-- 中国游客“放弃”日本转向韩国 韩国文体部部长回应：制定政策时，想的就是如何热烈迎接中国游客
-- 伊朗称美以袭击阿巴斯港一居民区
-- 交易员增加美联储加息押注，认为今年加息的可能性超过50％。
-- 国际油价持续拉升，布油站上100美元
-- 法国3月消费者信心指数 89，预期 89，前值 91。
-- 法国3月INSEE商业信心指数 97，预期 96，前值 97。
-- 法国3月INSEE制造业信心指数 99，预期 101，前值 102。
-- 外交部：中国已是全球AI专利最大拥有国
-- 英国以国家安全为由否决中企在苏格兰建厂计划 外交部回应
-- 中国禁止AI公司Manus两名高管离境？外交部回应
+- 瑞安房地产：全年实现核心溢利人民币3.97亿元
+- 八部门：探索建立缴费时长和待遇水平相挂钩的连续参保激励机制，对连续参保的按规定适当提高支付比例
+- 我国5G基站总数超490万个
+- 中国科学院启动下一代开源芯片与系统研发
+- 【美团：2025年核心本地商业亏损69亿元】美团业绩显示，2025年核心本地商业分部的经营溢利同比大幅下降，转为经营亏损人民币69亿元，去年经营溢利为524.1
+- 吉比特：2025年净利润17.94亿元，同比增长89.82%
+- 美团：四季度销售成本同比增长23.5%
+- 中国平安：归属于母公司股东的扣非净利润1437.73亿元，同比增长22.5%
+- 美团第四季度营收921.0亿元人民币，同比增长4.1%，预估920.8亿元人民币。
+第四季度调整后净亏损150.8亿元人民币，上年同期收益98.5亿元人民币，预
+- “沪七条”新政满月，上海楼市交易活跃
+- 欧股跌幅扩大，英国富时100指数、西班牙IBEX35指数日内跌幅均达1%。
+- 伊朗称美以袭击伊斯法罕理工大学校内建筑
 其他:
-- 阿联酋阿布扎比遭弹道导弹袭击 致2死3伤
-- 机构：2025年全球OLED显示器出货激增92% 今年有望再涨51%
-- 国开行发行1年期债券，规模60亿元，发行利率1.3710%，预期1.3800%，投标倍数3.83倍，边际倍数1.19倍；
-国开行发行3年期债券，规模30亿元，发
-- “停摆”僵局持续，美国多家机场或面临关闭风险
-- 北京人形机器人创新中心发布开源开放生态计划
-- 欧洲债券开盘走低，德国2年期国债收益率上升7个基点至2.67%。
-- 伊朗军方称已击中或击落202架美以军机
-- 外交部：各方应为开启真正有意义有诚意的和谈创造条件
-- 特朗普将于5月14日至15日访华？外交部：中美双方就此事保持着沟通
-- 德国在草拟打击美国部分公司的计划，以防特朗普日后再次施压。（彭博）
+- 【中方警戒舰目前正处于霍尔木兹海峡附近？国防部回应：假消息】国防部3月26日下午举行例行记者会。有记者提问称，中方的“瞭望一号”海上综合警戒舰目前正处于霍尔木兹
+- 泡泡玛特：于2026年3月26日回购394万股，耗资约6亿港元。
+- 国务院关税税则委员会：自2026年4月1日起，对原产于刚果（布）的部分进口货物实施协定税率
+- 小马智行：2025年总营收达6.29亿元，同比增长20%
+- 日本首相高市早苗：日本面临国内投资严重短缺。
+将通过降低债务与GDP比率来确保市场信任。
+- 挪威央行很可能在即将召开的某次会议上加息。（彭博）
+- 海南封关百日来，外贸进出口超800亿元，同比增长32.9%
+- 国投白银LOF：本基金将于2026年3月27日开市起至当日10:30停牌，自2026年3月27日10:30复牌，停牌期间本基金赎回业务照常办理。
+- 美团2025年财报：全年收入3649亿元，核心本地商业亏损69亿元
+- 伊朗：“成功摧毁”美军巴林和科威特基地军事装备
 
 ## SCMP (EN/中)
 头版/首屏:
-- China rushes to stabilise fertiliser market as Iran war chokes off imports
-- The Iran war could widen China’s EV lead over its global rivals. Here’s why
+- Singapore PM sees China helping small groups net big results for Asia
+- US, China ‘disjointed’ on AI, but collaboration possible: Silicon Valley tech founder
 - China Economy
-- As Iran war rages, China links peace to economic growth at Boao Forum
-- Diplomacy
-- Trump-Xi summit: US announces new dates in May, Beijing silent
+- ‘Demand shock’: why China cannot escape the impact of a prolonged Iran war
 - Society
+- Breaking | Cathay to increase fuel surcharge for all flights by 34% from April
 - 6 injured in explosion at Hong Kong recycling yard
+- Chinese satellite performs landmark refuelling test in low Earth orbit
 其他:
-- China is pushing firms to release their fertiliser reserves in time for the vital spring planting season, as supplies of key inputs tighten.
-- Beijing will continue promoting free trade, openness and a sound legal system for business, top legislator says.
-- Press secretary Karoline Leavitt says Trump will also host Chinese leader in Washington later this year.
+- Beijing could also spearhead areas like AI governance and play greater role in promoting economic prosperity, he adds.
+- China’s economy is more resilient than most, but a decline in global demand sparked by the war would hurt Chinese exporters, analyst warns.
+- Move marks second increase in recent weeks, with airline pointing to ‘considerable pressure’ from higher jet fuel prices due to conflict in Middle East.
 - Bright orange flames and thick black smoke seen at Tai Po site after blast.
-- Why China’s Iran war strategy is working – and may even be an opportunity
-- Middle East
-- As Trump pushes for talks, US troop moves signal potential Iran war escalation
-- Trump is moving airborne troops and extra Marines to the Gulf amid speculation that he might order a ground operation.
-- Science
-- China opens world’s largest ship data set that could be used to train drones
+- China Business
+- China’s lidar giants pivot to robotics in boost supply chain dominance
+- Hesai will spend US$28.9 million this year to design and manufacture ‘eyes and muscles’ for robots, creating a new growth engine.
+- As Iran war rages, China links peace to economic growth at Boao Forum
+- Beijing will continue promoting free trade, openness and a sound legal system for business, top legislator says.
+- Diplomacy
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -143,7 +144,7 @@
 - 快手泡泡玛特绩后齐遭大行降目标，股价急跌
 - 中远海运集运 恢复中东6国订舱业务
 - 卡塔尔设施受重创 液化气停供4国
-- 和谈“罗生门”舞高弄低，下月Chehellom举国复仇？
+- 解压饺子奇袭Labubu，内存压缩狙击美光
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -152,9 +153,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数24802.14-533.81(-2.11%)
+- 恒生指数24856.43-479.52(-1.89%)
                     etnet.com.hk@copyright
-- 国企指数8374.10-208.64(-2.43%)
+- 国企指数8389.93-192.81(-2.25%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -169,11 +170,14 @@
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN)
-- 黄金/大宗: Yahoo Finance (EN)
-- 美联储: 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 加密货币: Benzinga (EN)
+- 就业数据: Yahoo Finance (EN)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
