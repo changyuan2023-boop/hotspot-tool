@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032715
+抓取时间: 2026032717
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 5h 35m
+- U.S. markets open in 3h 40m
+- Stock futures edge up as Trump delays strikes against Iran
 - The Mag 7 stocks are stuck in a rut
-- Trump is changing his tone about the Strait of Hormuz
-- Trump says he will sign order to pay TSA agents during shutdown
-- Big Tech stocks sell off as Meta, Google held liable for addiction harm
-- Brace for $200 oil If the war lasts till June, Macquarie warns
-- Iran war to push US inflation sharply higher, says OECD
-- Europe's carmaking powerhouse wants to become its ammunition hub
-其他:
-- US stock futures rise as Trump delays military action against Iran
+- Senate passes bill to fund TSA but not ICE after airport delays
 - Anthropic wins court order pausing Trump ban on AI tool
-- Why are Gen Z's credit scores cratering?
-- Japan's ispace delays NASA-sponsored moon landing to 2030
-- Australia court fines Binance unit $6.9 million over client onboarding failures
-- Huawei's new AI chip finds favour with ByteDance, Alibaba which plan to place orders, sources say
-- Chinese universities with military links bought Super Micro servers with restricted AI chips
-- Oil Steadies as Trump Delays Timeline for Iran Energy Strikes
-- London Urgently Needs New Homes. Why Can’t It Build Them?
-- The Iran conflict is a boon for Russia’s ‘war machine.’ And it’s not just about oil
+- Europe's economy starts to feel pain from Trump's Iran war
+- Brace for $200 oil If the war lasts till June, Macquarie warns
+- Claude AI maker Anthropic considers IPO as soon as October
+其他:
+- Trump is changing his tone about the Strait of Hormuz
+- Gold gains as Trump pushes back Iran talks deadline
+- Trump says he will sign order to pay TSA agents during shutdown
+- China's Pony.ai to more than double robotaxi fleet, debuts in Zagreb
+- Amazon’s big bet in AI has been 20 years in the making
+- VW's software partnership with Rivian clears investment hurdle
+- Nearly half a million customers hit by Lloyds IT glitch that exposed transaction data, committee says
+- China detaining Panama-flagged ships amid battle over port control, FMC says
+- Novartis to buy U.S.-based biotech firm Excellergy for up to $2 billion
+- Crude Oil Drives Higher as Traders Brace for Longer Mideast War
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,11 +77,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- US-Iran War Updates March 27: Iran's Red Crescent Looks For Survivors After US-Israeli Attack, UNSC To Hold Closed-Door Meeting
-- Trump's New DHS Secretary Markwayne Mullin Hails Order To Pay TSA Agents, Slams Democrats For 'Reckless' Shutdown: 'Quit Punishing Our...'
-- Sonoma Pharmaceuticals (SNOA) Jumps 16% After Hours On Burn Relief Hydrogel Launch In Walmart, CVS
-- Lisa Su Hosts Howard Lutnick As Commerce Department Highlights 'Gold Standard' American Tech Stack: AMD CEO Appreciates The 'Open Dialogue'
-- Nasdaq 100 Flashes Rare Historical Pattern 6th Time In 41 Years: It May Be 'Set To Recover Soon' After Being 100 Days Below Peak
+- Nasdaq Dips Over 500 Points As Iran Rejects Ceasefire: Fear & Greed Index Remains In 'Extreme Fear' Zone
+- Elon Musk's Tesla Sees Q1 Slowdown—365K Deliveries Expected
+- Bitcoin Setting Up For A Sell Signal, Says Legendary Trader, But Where Exactly Is The Bottom?
+- Datacentrex (DTCX) Stock Drops 25% After Hours: Here's What Is Going On
+- Elon Musk Reportedly Weighs Giving Retail Investors 30% Of SpaceX's IPO And Betting They Won't Bail
 - Dow Futures Rise 155 Points As Oil Falls, Trump Says He's Delaying Strikes On Iran's Energy Plants By 10 Days On Tehran's 'Request'
 - Strait Of Hormuz
 - Netflix Hikes Prices For All Plans As Content Spending Surges
@@ -90,51 +90,53 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 【中远海运集运回应两艘集装箱船穿越霍尔木兹海峡：假消息】有报道称，滞留在霍尔木兹海峡西侧波斯湾内的中远海运集运旗下两艘2万TEU（标准箱）型集装箱船“中海印度洋
-- 俄罗斯或恢复向印度直接销售液化天然气。（路透）
-- 德国10年期收益率上涨2个基点至3.09%，创2011年以来新高。
-- 日本要求批发商改用布伦特原油价格。（路透）
-- 外交部：愿同尼泊尔新政府共同努力推动双边关系不断向前发展
-- 路劲：2025年实现销售额73.90亿元，已暂停参与拍地
-- 布伦特原油日内涨幅达1%，报102.92美元/桶。
-- 中国人保董事长丁向群：公司市场价值已进一步彰显
-- 两部门：根据空间业务实际占用带宽向卫星运营商收取无线电频率占用费
-- 中国证监会原发行审核委员会主任委员郭旭东涉嫌职务犯罪被移送检察机关审查起诉
-- 美官员称中芯国际已向伊朗军方提供芯片制造工具 外交部回应
-- 韩国总统李在明召开全军会议强调加速收回战时指挥权
+- 日本首相高市早苗：将通过允许更多使用煤炭来节省液化天然气。
+- 分红险演示利率拟下调 人身险行业“反内卷” 再发力
+- 德国30年期国债收益率上行5个基点至3.56%，为2011年以来最高水平。
+- 腾讯控股：于3月27日以3.007亿港元回购了61万股股票。
+- 国家外汇局：外债规模稳中有降，风险总体可控
+- 国家外汇局：截至2025年末，我国全口径外债余额为163689亿元人民币
+- 报道：伊朗称驱逐三艘集装箱船，霍尔木兹海峡已经关闭
+- 我国自主研发首套1500kN智能定位绞车系统集成完工
+- 伊朗称港口及边境货物流通运行顺畅
+- 国家金融监管总局局长李云泽会见美中贸易全国委员会会长谭森
+- 伊朗敦促西亚各国民众“立即撤离美军驻扎区域”
+- 中国央行：2025年使用存款保险基金135.972亿元开展风险处置
 其他:
-- 北京无人驾驶航空器飞行和销售运输存储新规出台
-- 国债期货收盘，30年期主力合约跌0.29%，10年期主力合约跌0.01%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。
-- 腾讯云与上海市普陀区签署战略合作协议
-- 黎巴嫩将就以色列在黎南部军事行动向安理会提出紧急申诉
-- 沪深两市今日成交额合计18532.73亿元
-- 吉利多款车型密集落地欧洲五国，核心市场本土备件总仓同步就位
-- 商务部：2025年我国居民数字消费规模达25.3万亿元 同比增长8.7%
-- A股收盘：沪指低开高走涨0.63%，锂电板块集体爆发
-- 科威特称无人机袭击Shuwaikh港 造成破坏
-- 伊朗总统：伊朗将继续进行正当且有力的防御
+- 中国建设银行2025年净利润3,389.1亿元人民币，同比增长1%，预估3,384亿元人民币。
+2025年净利息收入5,727.7亿元人民币，同比下降2.9%，
+- 国家外汇局：必要时强化宏观审慎管理 维护外汇市场平稳运行
+- 阿斯利康ADC药物新适应证在中国实现“全球首发”
+- 国家外汇局：2025年股权性质来华直接投资较上年增长20%
+- 泡泡玛特：3月27日回购198万股，耗资约3亿港元。
+- 美股三大股指期货持续走低，纳指日内跌幅扩大至0.26%，标普500指数期货跌0.23%，道指期货跌0.24%；
+国际原油走高，布伦特原油突破104美元/桶，日内
+- 财政部：2月份全国共销售彩票343.13亿元，同比下降18%
+- 平头哥镇岳510出货量超50万片，多家存储公司SSD已搭载该芯片
+- 科威特称导弹和无人机攻击Mubarak Al-Kabeer港。
+- 商务部新闻发言人就对美启动两项贸易壁垒调查答记者问
 
 ## SCMP (EN/中)
 头版/首屏:
-- Kenya secures trade deal with China amid rising debt, US competition
-- Why China’s fast turnaround gives its projects an edge in Kenya over the West
+- Iran war exposes a weakness in China’s vast shipping sector: a lack of insurers
+- ‘Demand shock’: why China cannot escape the impact of a prolonged Iran war
 - Diplomacy
-- European Parliament heads to China after 8 years and lobbying from Beijing
-- Science
-- China team builds first silicon chip for future fault-tolerant quantum computing
+- German defence minister urges strong US presence in Indo-Pacific
+- Kenya secures trade deal with China amid rising debt, US competition
 - Business
 - Hong Kong home prices surge to 22-month high, but Iran war clouds outlook
-其他:
-- Nairobi reaches a zero-tariff trade agreement with Beijing allowing Kenya to expand exports but it must tread carefully due to Washington.
-- Chair of consumer protection delegation due in China next week wants to convey ‘that our rules on product standards are to be followed’.
-- Study found the device was able to carry out a full set of error-detecting logical operations, according to Shenzhen researchers.
-- Price gains accelerated in February, according to official government index, but interest-rate risk looms, analysts say.
 - A way out for the US and Iran? The diplomatic path that could prove China right
-- Big Tech
-- China’s top chip foundry SMIC unveils growth action plan
-- Firm aims for above-average growth this year under plan for ‘optimising existing stock and digging for new increments’.
-- China Economy
-- China’s airlines add 2,900 flights to Europe as Russia access pays dividends
+其他:
+- China’s maritime sector still relies on overseas legal and financial service providers, a potential strategic vulnerability in a turbulent world.
+- ‘To support or not to support Ukraine can also have an impact on Taiwan and the security situation in the Indo-Pacific’: Pistorius.
+- Nairobi reaches a zero-tariff trade agreement with Beijing allowing Kenya to expand exports but it must tread carefully due to Washington.
+- Price gains accelerated in February, according to official government index, but interest-rate risk looms, analysts say.
+- European Parliament heads to China after 8 years and lobbying from Beijing
+- Chair of consumer protection delegation due in China next week wants to convey ‘that our rules on product standards are to be followed’.
+- Science
+- China team builds first silicon chip for future fault-tolerant quantum computing
+- Study found the device was able to carry out a full set of error-detecting logical operations, according to Shenzhen researchers.
+- Economics
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -151,9 +153,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数24951.18+94.75(+0.38%)
+- 恒生指数24951.88+95.45(+0.38%)
                     etnet.com.hk@copyright
-- 国企指数8454.15+64.22(+0.77%)
+- 国企指数8453.77+63.84(+0.76%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -168,10 +170,11 @@
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
 - 美国关税: SCMP (EN/中)
-- 黄金/大宗: Benzinga (EN)
+- 加密货币: Benzinga (EN)
+- 黄金/大宗: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
