@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032719
+抓取时间: 2026032722
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,29 +9,30 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 55m
-- Stock futures edge up as Trump delays strikes against Iran
-- Microsoft set for worst quarter since 2008 as AI takes two bites
-- Senate passes bill to fund TSA but not ICE after airport delays
-- The Mag 7 stocks are stuck in a rut
-- Trump extends Iran talks deadline, claims negotiations are ongoing
-- How Iran is seeking to cash in on Strait of Hormuz beyond the war
-- VW's software partnership with Rivian clears investment hurdle
-其他:
+- U.S. markets close in 5h 58m
+- Microsoft set for worst quarter since 2008 as AI bites
+- Deal to fund TSA clears Senate, heads to House
 - Trump is changing his tone about the Strait of Hormuz
-- Dollar's best run since July roils Wall Street's FX roadmap
-- SoftBank secures $40B loan to fund further OpenAI investment
-- SpaceX's listing stirs up social media hype, ticker bets
-- Rocket Pharma shares climb as FDA approves first therapy for deadly childhood disorder
-- Europe’s Economy Starts to Feel Pain From Trump’s Iran War
-- Morning Brief: Stocks see the biggest losses since the war began
-- China's Pony.ai to more than double robotaxi fleet, debuts in Zagreb
-- The Iran conflict is a boon for Russia’s ‘war machine.’ And it’s not just about oil
-- Amazon’s big bet in AI has been 20 years in the making
+- Consumer stocks best play for war aftermath: BofA's Hartnett
+- Amazon's big bet in AI has been 20 years in the making
+- Wall Street: Stocks are too cheap to ignore as war rages on
+- Fed's Jefferson sees Iran war inflation spike, signals rate hold
+其他:
+- Stocks slide as oil pushes higher amid Iran war
+- Bitcoin slumps with options showing traders turning defensive
+- China opens probes into US trade practices
+- Senate votes to end shutdown that has snarled airports and left TSA workers unpaid
+- Sony to hike PlayStation 5 prices again as memory chip costs surge
+- EU regulator backs Sanofi's injectable version of blood cancer drug
+- Factbox-Airlines cancel more flights as Middle East conflict escalates
+- Gas price spike is eating up fast food sales: Chart
+- Medtronic gets US FDA nod to use surgical system in cranial, ENT surgeries
+- Anthropic Wins Court Order Pausing Trump Ban on AI Tool
 
 ## Benzinga (EN)
 头版/首屏:
 - Latest News
+- Top Stories
 - QUICK LINKS
 - Markets Pulse
 - Why Is It Moving?™
@@ -40,68 +41,66 @@
 - Expert Ideas
 - UPCOMING EVENTS
 - INSIDER TRADES
-- FAA Probing Close Call Between Black Hawk Helicopter, Boeing 737 Operated By United Airlines (UPDATED)
 其他:
-- Amazon Chip Division Hit By Second Senior Exit In Months
-- Tom Lee Says Ditch Gold, Buy Crypto As Ethereum Outperforms S&P 500 During War
-- US Mortgage Rates Hit Six-Month High As Iran War Stokes Inflation Fears
-- Jim Cramer Warns Meta Isn't The Next Big Tobacco: Forget Lawsuits, Focus On AI—Investors Are 'Going To Regret' Selling
-- Netflix Hikes Prices For All Plans As Content Spending Surges
-- Stock Market Today: S&P 500, Nasdaq Futures Drop As Trump Pushes Iran Deal Deadline—Unity Software, Oracle, SoFi Technologies In Focus
-- Arm's New Game Plan: Make Its Own Chips, Make More Money
-- Western Digital Shares Rebound, Climb 3% After Key Trading Signal
-- Ionis Pharmaceuticals Repriced Drug Ahead Of Key FDA Decision Signals Push Into Larger Market
-- Snowflake Reclaims The AI Throne: Why Cortex Is A Total Game Changer
+- Billionaire Charlie Munger, 99, Said It Would Be A 'Blessing' If Everything Worked As Well As Costco —Even Ate $1.50 Hot Dogs In His Last Days
+- ADMA Biologics Slams Short Seller Claims, Highlights Strong Demand
+- Blink Charging Stock Falls After Revenue Miss, Weak 2026 Outlook
+- Fed Policy Twist May Trigger ETF Rotation Away From Floating-Rate Funds
+- Indonesian Mine IPO: A Golden Opportunity, Or Riskier Bet?
+- Stock Market Today: S&P 500, Nasdaq, Dow Futures Drop As Trump Pushes Iran Deal Deadline—Unity Software, Oracle, SoFi Technologies In Focus (UPDATED)
+- Bitcoin, Ethereum, XRP, Dogecoin Fall Amid Trump's 'Get Serious' Warning To Iran: Analytics Firm Sees Strong 'Buy Signal' Following Bearish Chatter
+- Trump Says Iran Talks 'Going Very Well' But Strait Of Hormuz Is 94% Closed
+- Wall Street's Most Accurate Analysts Weigh In On 3 Energy Stocks With Over 8% Dividend Yields
+- Top 2 Risk Off Stocks That May Plunge This Quarter
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 经济学家预计伊朗冲突将把美国通胀率推至3%以上 并冲击就业和增长
-- 橡树资本将全额满足私募信贷基金赎回请求 称当前环境属调整而非危机
-- 智谱：GLM-5.1现已面向GLM Coding Plan全部用户（Lite/Pro/Max）开放。
-- 金风科技：2025年净利润27.74亿元，同比增长49.12%
-- 科威特重要港口遭袭
-- 王毅同巴基斯坦副总理兼外长达尔通电话
-- 惠誉维持以色列评级为“A”，展望负面。
-- 李强主持召开国务院常务会议，研究加快建设分级诊疗体系有关政策措施。（央视新闻）
-- 李强主持召开国务院常务会议，听取当前我国服务业发展情况汇报。（央视新闻）
-- 李强主持召开国务院常务会议，学习贯彻习近平总书记在深入推进雄安新区高质量建设和发展座谈会上的重要讲话精神。 (央视新闻)
-- 【以防长称将升级对伊朗的打击行动】以色列国防部长卡茨表示，以色列国防军将进一步升级对伊朗的打击行动，扩大打击范围，覆盖更多目标和区域。卡茨当天在与以军高级军官举
-- 长进光子科创板IPO获上市委会议通过。
+- 印度将在2027财年上半年通过债券借款8.2万亿卢比，分析师预期8.7万亿卢比。
+- TCL科技：2025年净利润45.17亿元，同比增长188.78%
+- 美国3月密歇根大学消费者信心指数终值 53.3，预期 54，初值 55.5。
+- 美国3月密歇根大学消费者预期指数终值 51.7，预期 50.9，初值 54.1。
+- 美国3月密歇根大学1年通胀预期终值 3.8，预期 3.6，初值 3.4。
+- 美国3月密歇根大学消费者现况指数终值 55.8，预期 56.9，初值 57.8。
+- 美国3月密歇根大学5年通胀预期终值 3.2，预期 3.5，初值 3.2。
+- 标普500指数跌幅扩大至1%。
+- 本轮美以伊冲突已致以方5492人受伤
+- 伊朗无人机群袭以色列最大运输中心
+- 美媒称万斯批评内塔尼亚胡
+- 国泰海通证券：2025年净利润278.1亿元人民币，同比增长113.52%
 其他:
-- 中国铝业：2025年净利润126.7亿元，同比增长2.25%。
-- 美股期货走低，纳斯达克100指数期货跌0.7%，标普500指数期货跌0.5%，道指期货跌0.4%。
-- 交通银行首席信息官钱斌：持续推动人工智能应用场景落地
-- 涪陵榨菜：2025年净利润7.68亿元，同比下降3.92%，拟10派2.2元。
-- 朱鹤新会见新加坡金管局副行长梁新松
-- WTI原油突破97美元/桶关口，日内涨近3%；布伦特原油突破104美元/桶关口，日内涨超2%。
-- 三诺生物：拟以1.5亿元-3亿元回购股份，拟回购股份的价格不超过人民币25元/股。
-- 招商银行全年净利润1,501.8亿元人民币，预估1,494.3亿元人民币。
-全年净利息收入2,155.9亿元人民币，预估2,152.8亿元人民币。
-全年不良贷款
-- 伊朗对以色列发起新一轮导弹袭击
-- 伊朗说劝返3艘试图通过霍尔木兹海峡的船只
+- 纳指跌约1.4%，Zscaler、Datadog、CrowdStrike跌超7%拖累纳斯达克100指数
+- 广汽集团2025年营业总收入约965.42亿元，节能与新能源车销量占比首破50%
+- 扎克伯格为Entergy建设七座燃气电厂买单，从而向Meta大型数据中心供能
+- 美以空袭伊朗钢铁厂及配套发电厂
+- 申万宏源：2025年净利润95.07亿元，同比增长82.46%。
+- 洲际交易所（ICE，纽交所NYSE的所有人）投资6亿美元到Polymarket。
+- 伊朗议长强硬回应美军地面入侵威胁
+- 据美国纽约联储数据，上个交易日（3月26日）担保隔夜融资利率（SOFR）报3.65%，之前一天报3.64%。
+上个交易日有效的联邦基金利率报3.64%，之前一天
+- 美股盘初，主要行业ETF多数下跌，网络股指数跌近2%，金融业ETF、可选消费ETF、银行业ETF跌超1%。
+- 北美科技软件股指数ETF下跌2.8%，在美股盘初跌至77.50美元，逼近2月24日盘中最低位76.25美元和2024年8月份底部75.96美元。
 
 ## SCMP (EN/中)
 头版/首屏:
-- Top Singaporean scientist Seeram Ramakrishna joins China’s Tsinghua University
-- China Economy
-- From chips to MRIs, Iran war puts helium users on edge
-- Military
-- Rise of the ‘wolf pack’: China’s canine robots evolve for urban combat
-- Business
-- Hong Kong developers test market with 222 units released amid rate uncertainty
-- A way out for the US and Iran? The diplomatic path that could prove China right
+- Chinese market regulator tells firms to focus on healthy competition overseas
+- Chinese firms with success in global push poised to reap profit rewards
+- Big Tech
+- China’s self-sufficiency drive hits new milestone with powerful RISC-V chips
+- Science
+- Leading Chinese hypersonic aviation scientist Yan Hong dies at 56
+- Politics
+- Beijing official visits Greater Bay Area cities to explore integrating Hong Kong
 其他:
-- The ‘father of electrospinning’, who taught for almost 30 years in the city state, will continue his research in Beijing.
-- Fitch Ratings says helium prices have roughly doubled since conflict began.
-- Chinese state broadcaster highlights robot wolves, drones and laser weapons in new documentary about the PLA’s latest unmanned systems.
-- So far this year, 5,500 new residential units have been sold in Hong Kong, a 25 per cent increase compared to the same period last year.
-- Iran war exposes a weakness in China’s vast shipping sector: a lack of insurers
-- China’s maritime sector still relies on overseas legal and financial service providers, a potential strategic vulnerability in a turbulent world.
-- Diplomacy
-- European Parliament heads to China after 8 years and lobbying from Beijing
-- Chair of consumer protection delegation due in China next week wants to convey ‘that our rules on product standards are to be followed’.
-- Economics
+- State Administration for Market Regulation tells companies it will address ‘involution-style’ competition as they step up efforts to expand.
+- The Xiangshan high-performance processor is the latest effort from China to push the boundaries with RISC-V architecture.
+- Yan graduated from and worked at the Northwestern Polytechnical University, which frequently appears on US sanctions lists.
+- Hong Kong and Macau Affairs Office says its director, Xia Baolong, visited Guangzhou, Zhaoqing, and Foshan this week.
+- Top Singaporean scientist Seeram Ramakrishna joins China’s Tsinghua University
+- OpenClaw effect: explosion in AI token use adds fuel to Chinese AI development
+- Surging demand supports price increases that will sustain development of new and better models, Zhipu AI CEO says.
+- What do China’s new ‘correct view’ rules for local party officials mean?
+- Latest regulations lay bare dual mandate of absolute loyalty to central authority and mindfulness about ‘political performance’.
+- Why Philippines may face ‘strategic dilemma’ over Nato partnership, US demands
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -130,17 +129,16 @@
 - 吃喝玩乐
 
 ## 智通财经 (简中)
-（抓取失败: curl exit 0, len=498）
+（抓取失败: HTTPSConnectionPool(host='www.zhitongcaijing.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.zhitongcaijing.com', port=443) at 0x7f0db0f0b680>, 'Connection to www.zhitongcaijing.com timed out. (connect timeout=30)'))）
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
-- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
-- 美国关税: SCMP (EN/中)
-- 加密货币: Benzinga (EN)
-- 就业数据: 华尔街见闻 (简中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 美联储: Yahoo Finance (EN), Benzinga (EN)
+- 黄金/大宗: Benzinga (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
