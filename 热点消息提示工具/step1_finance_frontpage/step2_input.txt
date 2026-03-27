@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032717
+抓取时间: 2026032719
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,30 +9,29 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 3h 40m
+- U.S. markets open in 1h 55m
 - Stock futures edge up as Trump delays strikes against Iran
-- The Mag 7 stocks are stuck in a rut
+- Microsoft set for worst quarter since 2008 as AI takes two bites
 - Senate passes bill to fund TSA but not ICE after airport delays
-- Anthropic wins court order pausing Trump ban on AI tool
-- Europe's economy starts to feel pain from Trump's Iran war
-- Brace for $200 oil If the war lasts till June, Macquarie warns
-- Claude AI maker Anthropic considers IPO as soon as October
+- The Mag 7 stocks are stuck in a rut
+- Trump extends Iran talks deadline, claims negotiations are ongoing
+- How Iran is seeking to cash in on Strait of Hormuz beyond the war
+- VW's software partnership with Rivian clears investment hurdle
 其他:
 - Trump is changing his tone about the Strait of Hormuz
-- Gold gains as Trump pushes back Iran talks deadline
-- Trump says he will sign order to pay TSA agents during shutdown
+- Dollar's best run since July roils Wall Street's FX roadmap
+- SoftBank secures $40B loan to fund further OpenAI investment
+- SpaceX's listing stirs up social media hype, ticker bets
+- Rocket Pharma shares climb as FDA approves first therapy for deadly childhood disorder
+- Europe’s Economy Starts to Feel Pain From Trump’s Iran War
+- Morning Brief: Stocks see the biggest losses since the war began
 - China's Pony.ai to more than double robotaxi fleet, debuts in Zagreb
+- The Iran conflict is a boon for Russia’s ‘war machine.’ And it’s not just about oil
 - Amazon’s big bet in AI has been 20 years in the making
-- VW's software partnership with Rivian clears investment hurdle
-- Nearly half a million customers hit by Lloyds IT glitch that exposed transaction data, committee says
-- China detaining Panama-flagged ships amid battle over port control, FMC says
-- Novartis to buy U.S.-based biotech firm Excellergy for up to $2 billion
-- Crude Oil Drives Higher as Traders Brace for Longer Mideast War
 
 ## Benzinga (EN)
 头版/首屏:
 - Latest News
-- Top Stories
 - QUICK LINKS
 - Markets Pulse
 - Why Is It Moving?™
@@ -41,66 +40,67 @@
 - Expert Ideas
 - UPCOMING EVENTS
 - INSIDER TRADES
+- FAA Probing Close Call Between Black Hawk Helicopter, Boeing 737 Operated By United Airlines (UPDATED)
 其他:
-- Nasdaq Dips Over 500 Points As Iran Rejects Ceasefire: Fear & Greed Index Remains In 'Extreme Fear' Zone
-- Elon Musk's Tesla Sees Q1 Slowdown—365K Deliveries Expected
-- Bitcoin Setting Up For A Sell Signal, Says Legendary Trader, But Where Exactly Is The Bottom?
-- Datacentrex (DTCX) Stock Drops 25% After Hours: Here's What Is Going On
-- Elon Musk Reportedly Weighs Giving Retail Investors 30% Of SpaceX's IPO And Betting They Won't Bail
-- Dow Futures Rise 155 Points As Oil Falls, Trump Says He's Delaying Strikes On Iran's Energy Plants By 10 Days On Tehran's 'Request'
-- Strait Of Hormuz
+- Amazon Chip Division Hit By Second Senior Exit In Months
+- Tom Lee Says Ditch Gold, Buy Crypto As Ethereum Outperforms S&P 500 During War
+- US Mortgage Rates Hit Six-Month High As Iran War Stokes Inflation Fears
+- Jim Cramer Warns Meta Isn't The Next Big Tobacco: Forget Lawsuits, Focus On AI—Investors Are 'Going To Regret' Selling
 - Netflix Hikes Prices For All Plans As Content Spending Surges
-- Meta Stock Meltdown Pushes RSI Into Buy The Blood Territory
+- Stock Market Today: S&P 500, Nasdaq Futures Drop As Trump Pushes Iran Deal Deadline—Unity Software, Oracle, SoFi Technologies In Focus
+- Arm's New Game Plan: Make Its Own Chips, Make More Money
 - Western Digital Shares Rebound, Climb 3% After Key Trading Signal
+- Ionis Pharmaceuticals Repriced Drug Ahead Of Key FDA Decision Signals Push Into Larger Market
+- Snowflake Reclaims The AI Throne: Why Cortex Is A Total Game Changer
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 日本首相高市早苗：将通过允许更多使用煤炭来节省液化天然气。
-- 分红险演示利率拟下调 人身险行业“反内卷” 再发力
-- 德国30年期国债收益率上行5个基点至3.56%，为2011年以来最高水平。
-- 腾讯控股：于3月27日以3.007亿港元回购了61万股股票。
-- 国家外汇局：外债规模稳中有降，风险总体可控
-- 国家外汇局：截至2025年末，我国全口径外债余额为163689亿元人民币
-- 报道：伊朗称驱逐三艘集装箱船，霍尔木兹海峡已经关闭
-- 我国自主研发首套1500kN智能定位绞车系统集成完工
-- 伊朗称港口及边境货物流通运行顺畅
-- 国家金融监管总局局长李云泽会见美中贸易全国委员会会长谭森
-- 伊朗敦促西亚各国民众“立即撤离美军驻扎区域”
-- 中国央行：2025年使用存款保险基金135.972亿元开展风险处置
+- 经济学家预计伊朗冲突将把美国通胀率推至3%以上 并冲击就业和增长
+- 橡树资本将全额满足私募信贷基金赎回请求 称当前环境属调整而非危机
+- 智谱：GLM-5.1现已面向GLM Coding Plan全部用户（Lite/Pro/Max）开放。
+- 金风科技：2025年净利润27.74亿元，同比增长49.12%
+- 科威特重要港口遭袭
+- 王毅同巴基斯坦副总理兼外长达尔通电话
+- 惠誉维持以色列评级为“A”，展望负面。
+- 李强主持召开国务院常务会议，研究加快建设分级诊疗体系有关政策措施。（央视新闻）
+- 李强主持召开国务院常务会议，听取当前我国服务业发展情况汇报。（央视新闻）
+- 李强主持召开国务院常务会议，学习贯彻习近平总书记在深入推进雄安新区高质量建设和发展座谈会上的重要讲话精神。 (央视新闻)
+- 【以防长称将升级对伊朗的打击行动】以色列国防部长卡茨表示，以色列国防军将进一步升级对伊朗的打击行动，扩大打击范围，覆盖更多目标和区域。卡茨当天在与以军高级军官举
+- 长进光子科创板IPO获上市委会议通过。
 其他:
-- 中国建设银行2025年净利润3,389.1亿元人民币，同比增长1%，预估3,384亿元人民币。
-2025年净利息收入5,727.7亿元人民币，同比下降2.9%，
-- 国家外汇局：必要时强化宏观审慎管理 维护外汇市场平稳运行
-- 阿斯利康ADC药物新适应证在中国实现“全球首发”
-- 国家外汇局：2025年股权性质来华直接投资较上年增长20%
-- 泡泡玛特：3月27日回购198万股，耗资约3亿港元。
-- 美股三大股指期货持续走低，纳指日内跌幅扩大至0.26%，标普500指数期货跌0.23%，道指期货跌0.24%；
-国际原油走高，布伦特原油突破104美元/桶，日内
-- 财政部：2月份全国共销售彩票343.13亿元，同比下降18%
-- 平头哥镇岳510出货量超50万片，多家存储公司SSD已搭载该芯片
-- 科威特称导弹和无人机攻击Mubarak Al-Kabeer港。
-- 商务部新闻发言人就对美启动两项贸易壁垒调查答记者问
+- 中国铝业：2025年净利润126.7亿元，同比增长2.25%。
+- 美股期货走低，纳斯达克100指数期货跌0.7%，标普500指数期货跌0.5%，道指期货跌0.4%。
+- 交通银行首席信息官钱斌：持续推动人工智能应用场景落地
+- 涪陵榨菜：2025年净利润7.68亿元，同比下降3.92%，拟10派2.2元。
+- 朱鹤新会见新加坡金管局副行长梁新松
+- WTI原油突破97美元/桶关口，日内涨近3%；布伦特原油突破104美元/桶关口，日内涨超2%。
+- 三诺生物：拟以1.5亿元-3亿元回购股份，拟回购股份的价格不超过人民币25元/股。
+- 招商银行全年净利润1,501.8亿元人民币，预估1,494.3亿元人民币。
+全年净利息收入2,155.9亿元人民币，预估2,152.8亿元人民币。
+全年不良贷款
+- 伊朗对以色列发起新一轮导弹袭击
+- 伊朗说劝返3艘试图通过霍尔木兹海峡的船只
 
 ## SCMP (EN/中)
 头版/首屏:
-- Iran war exposes a weakness in China’s vast shipping sector: a lack of insurers
-- ‘Demand shock’: why China cannot escape the impact of a prolonged Iran war
-- Diplomacy
-- German defence minister urges strong US presence in Indo-Pacific
-- Kenya secures trade deal with China amid rising debt, US competition
+- Top Singaporean scientist Seeram Ramakrishna joins China’s Tsinghua University
+- China Economy
+- From chips to MRIs, Iran war puts helium users on edge
+- Military
+- Rise of the ‘wolf pack’: China’s canine robots evolve for urban combat
 - Business
-- Hong Kong home prices surge to 22-month high, but Iran war clouds outlook
+- Hong Kong developers test market with 222 units released amid rate uncertainty
 - A way out for the US and Iran? The diplomatic path that could prove China right
 其他:
+- The ‘father of electrospinning’, who taught for almost 30 years in the city state, will continue his research in Beijing.
+- Fitch Ratings says helium prices have roughly doubled since conflict began.
+- Chinese state broadcaster highlights robot wolves, drones and laser weapons in new documentary about the PLA’s latest unmanned systems.
+- So far this year, 5,500 new residential units have been sold in Hong Kong, a 25 per cent increase compared to the same period last year.
+- Iran war exposes a weakness in China’s vast shipping sector: a lack of insurers
 - China’s maritime sector still relies on overseas legal and financial service providers, a potential strategic vulnerability in a turbulent world.
-- ‘To support or not to support Ukraine can also have an impact on Taiwan and the security situation in the Indo-Pacific’: Pistorius.
-- Nairobi reaches a zero-tariff trade agreement with Beijing allowing Kenya to expand exports but it must tread carefully due to Washington.
-- Price gains accelerated in February, according to official government index, but interest-rate risk looms, analysts say.
+- Diplomacy
 - European Parliament heads to China after 8 years and lobbying from Beijing
 - Chair of consumer protection delegation due in China next week wants to convey ‘that our rules on product standards are to be followed’.
-- Science
-- China team builds first silicon chip for future fault-tolerant quantum computing
-- Study found the device was able to carry out a full set of error-detecting logical operations, according to Shenzhen researchers.
 - Economics
 
 ## 经济通 (繁中)
@@ -135,11 +135,12 @@
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
 - 美国关税: SCMP (EN/中)
 - 加密货币: Benzinga (EN)
-- 黄金/大宗: Yahoo Finance (EN)
+- 就业数据: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
