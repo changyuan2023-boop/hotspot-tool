@@ -3,43 +3,39 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 4h 9m | Stocks slide as Trump warns Iran to 'get serious' | Google's memory breakthrough spurs global chipmaker sell-off | Is AI helping companies get more out of workers? It's hard to say.
-  - 其他: Trump urges Iran to negotiate a deal before it is 'too late' | Gold is getting pummeled. 3 reasons it may rebound. | Jobless claims tick higher, remain at healthy levels | Judge dismisses lawsuit by Musk's X Corp accusing advertisers of illegal boycott | Mortgage giant Fannie Mae will soon accept crypto-backed homebuying loans
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 9h 16m | The Mag 7 stocks are stuck in a rut | Trump is changing his tone about the Strait of Hormuz | Trump says he will sign order to pay TSA agents during shutdown
+  - 其他: US stock futures rise as Trump delays military action against Iran | Iran war to push US inflation sharply higher, says OECD | Big Tech stocks sell off as Meta, Google held liable for addiction harm | Anthropic Wins Court Order Pausing Trump Ban on AI Tool | Fed's Jefferson sees higher inflation from Iran war near term, signals toward holding rates steady
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Fertilizer Prices Skyrocket And A 22-Year-Old Farmer Is Out Of Business. But Dave Ramsey Takes Issue With Something Else—The $178K Loan | This Steady Growth Mid Cap Stock Just Hiked Dividend | Stock Of The Day: Will Hewlett Packard Reverse Here? | Warren Buffett's Berkshire Faces The Dreaded Death Cross—Is Too Much Apple The Problem? | Why Is Wave Life Sciences Stock Falling After Weight Loss Study Data?
+  - 其他: David Sacks Has 'Used Up' His Time As Trump's Crypto And AI Czar, Shares What He Plans To Do Next | Trump Claims Antony Blinken Backed US Attacks On Iran And Regrets Not Doing It Earlier, Biden-Era Secretary Says 'Except I Didn't' | Will Iran Lose Control Of Kharg Island? Crypto Prediction Market Weighs In As Trump Reportedly Mulls Invading Oil Export Hub | Lumentum Holdings (LITE) Stock Is Trending Overnight: Here's What You Should Know | Anthropic Scores Major Win As Judge Halts Trump Ban, Questions Pentagon's 'National Security' Narrative: 'Classic Illegal First Amendment Retaliation'
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 特朗普声称：伊朗说过会让8艘油轮通过海峡，“作为礼物”最终放行10艘船 | 美特使证实：巴基斯坦正充当美伊之间的中间人 | 罗技中国就“罗技G官方旗舰店发布违规内容”致歉。 | 谷歌公司Fiber更名为GFiber。 | 德国10年期国债收益率涨10个基点，报3.06%。 | 美国财长贝森特：美元升值，资本正流入（美国）。 | 美国财长贝森特：我们将克服被伊朗视作“阻塞点”的东西。
-美方并不相信霍尔木兹海峡存在阻塞点。
-在确保霍尔木兹海峡安全之前，船运将开始增加。
-能源价格与通胀将在“ | 美国财政部拍卖四周期国债，得标利率3.620%，投标倍数3.03。
-拍卖八周期国债，得标利率3.630%，投标倍数3.14。
-  - 其他: 伊朗每日石油出口收入达1.39亿美元 | 美国五角大楼寻求“上帝委员会”豁免，以保护墨西哥湾石油开采 | 特朗普再次表态：伊朗正与美方对话 | 美国总统特朗普宣称，被美方强行掳走的委内瑞拉总统马杜罗将会获得“公正的”审判。 | 徽商银行：2025年归母净利润165.25亿元，同比增长7.21%。
+  - 头版/首屏: 富时中国A50指数期货涨幅扩大至1%。 | 印度石油部长：任何向外国出口的炼油厂都必须缴纳出口税。 | 美团开源原生多模态大模型LongCat-Next | 美国制裁导致诉讼费没着落，“解放”阿桑奇的大律师威胁放弃为马杜罗辩护 | 印度股指Sensex、Nifty指数日内跌幅扩大至1%。 | 日本10年期国债收益率上升6.0个基点，至2.330%。 | 马斯克：Grok Imagine下周有重大发布。 | 海南国际商业航天发射场二期建设正在提速中
+  - 其他: 国债期货早盘收盘，30年期主力合约跌0.09%，10年期主力合约涨0.01%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。 | 阿里QoderWork打通钉钉、微信、飞书，手机端可直接召唤桌面AI助手 | 欧元区各成员国财长将举行视频会 聚焦能源问题 | 阿里巴巴旗下公司入股诺瓦聚变，后者为核聚变装置研发商 | 2025年中国科幻产业总营收达1261亿元
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Can Trump end his war on Iran in time for rescheduled China trip? | Trump-Xi summit: US announces new dates in May | Diplomacy | Trump eyes China deal, but dragging out talks risks backlash: former diplomat | Tech | AI rift widens as China urges boycott of top US conference over sanctions ban | Big Tech | Google’s TurboQuant dents memory-chip stocks, but analysts say ‘buy the dip’
-  - 其他: The US president announced this week that he would visit in mid-May after putting the date back to focus on the conflict. | US leader is likely to ask Beijing to commit to ‘large’ purchases of American agricultural and manufacturing goods, says Stephen Biegun. | Move to comply with US sanctions sparks backlash, with China’s top computing body threatening to blacklist the AI conference. | Rather than reducing demand for memory chips, the advance could increase it by fuelling more AI applications. | Chinese satellite performs landmark refuelling test in low Earth orbit
+  - 头版/首屏: China’s top chip foundry SMIC unveils growth action plan | Semicon China: AI, packaging set to drive country’s chip industry growth | China Economy | China’s airlines add 2,900 flights to Europe as Russia access pays dividends | Diplomacy | A way out for the US and Iran? The diplomatic path that could prove China right | Hong Kong Economy | Should Hong Kong be using ‘war chest’ firepower for Northern Metropolis?
+  - 其他: Firm aims for above-average growth this year under plan for ‘optimising existing stock and digging for new increments’. | Chinese carriers have a major advantage over other global airlines due to their access to Russian airspace and ability to bypass the Middle East. | Talks between Washington and Tehran must involve nuclear concessions and a regional ceasefire, Middle East expert says. | Rare HK$150 billion transfer from the Exchange Fund has sparked fierce debate. | This country could rise as Mideast war’s big winner. It’s not US, Israel or Iran
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 快手泡泡玛特绩后齐遭大行降目标，股价急跌 | 中远海运集运 恢复中东6国订舱业务 | 卡塔尔设施受重创 液化气停供4国 | 解压饺子奇袭Labubu，内存压缩狙击美光 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数24856.43-479.52(-1.89%)
-                    etnet.com.hk@copyright | 国企指数8389.93-192.81(-2.25%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 官媒呼吁结束外卖大战，美团阿里京东哪只最值博？ | 柯文哲京华城贪污案 一审囚17年 | 传内塔尼亚胡命以军 加快空袭伊朗 | 解压饺子奇袭Labubu，内存压缩狙击美光 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数24993.64+137.21(+0.55%)
+                    etnet.com.hk@copyright | 国企指数8469.85+79.92(+0.95%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
-- **智通财经 (简中)** ✗ (curl exit 0, len=498)
+- **智通财经 (简中)** ✗ (curl exit 28, len=0)
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
 - **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
-- **加密货币** — 出现于: Yahoo Finance (EN) (1 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
+- **加密货币** — 出现于: Benzinga (EN) (1 站)
 - **黄金/大宗商品** — 出现于: Yahoo Finance (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
@@ -51,10 +47,10 @@
 - **美国 15% 全球关税**：财长称本周或落地，影响贸易与通胀预期。
 - **油价/霍尔木兹海峡**：特朗普护航表态后美油转跌，航运与能源股敏感。
 - **加密货币**：比特币破 7 万、Coinbase 等个股大涨，多站提及。
-- **就业数据**：ADP 等超预期，支撑美股与利率预期。
 
 ### 重要（头版或单站重点）
 
 - 黄金/白银、伦铝等大宗商品波动。
+- 美联储表态（如米兰：伊朗风险不阻碍继续降息）。
 - 苹果 MacBook Neo、Moderna 和解、Meta 与新闻集团合作等个股与科技新闻。
 - 中国/欧盟产业政策与贸易关系。

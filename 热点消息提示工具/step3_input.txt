@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032623
+抓取时间: 2026032712
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 4h 9m
-- Stocks slide as Trump warns Iran to 'get serious'
-- Google's memory breakthrough spurs global chipmaker sell-off
-- Is AI helping companies get more out of workers? It's hard to say.
-- OpenClaw is taking the tech world by storm. Here's what it is.
-- Mercedes-Benz CEO on Formula 1 and the future of driving
-- Valeo bets on high-tech components to weather rising costs,  uncertainty
-- Wave plunges after obesity shot falls short
+- U.S. markets open in 9h 16m
+- The Mag 7 stocks are stuck in a rut
+- Trump is changing his tone about the Strait of Hormuz
+- Trump says he will sign order to pay TSA agents during shutdown
+- Why are Gen Z's credit scores cratering?
+- Claude AI maker Anthropic considers IPO as soon as October
+- OpenAI's US ad pilot exceeds $100M in annualized revenue in six weeks
+- China's top chipmaker has supplied chipmaking tech to Iran military
 其他:
-- Trump urges Iran to negotiate a deal before it is 'too late'
-- Gold is getting pummeled. 3 reasons it may rebound.
-- Jobless claims tick higher, remain at healthy levels
-- Judge dismisses lawsuit by Musk's X Corp accusing advertisers of illegal boycott
-- Mortgage giant Fannie Mae will soon accept crypto-backed homebuying loans
-- Mexico announces support for its motor transport industry
-- Oil Rallies After Trump Issues Warning to Iran on Peace Talks
-- Blackstone invests $250 million in UAE despite war disruption
-- GlobalFoundries files patent infringement lawsuits against Tower Semiconductor
-- CLEAR+ lets you bypass TSA checkpoints for ID. Is it worth the cost?
+- US stock futures rise as Trump delays military action against Iran
+- Iran war to push US inflation sharply higher, says OECD
+- Big Tech stocks sell off as Meta, Google held liable for addiction harm
+- Anthropic Wins Court Order Pausing Trump Ban on AI Tool
+- Fed's Jefferson sees higher inflation from Iran war near term, signals toward holding rates steady
+- NY Fed official said central bank bill buying should moderate soon
+- Fed's Miran lays out path to shrink central bank balance sheet further
+- T-Rex files for leveraged SpaceX, Anthropic ETFs ahead of anticipated IPOs
+- MAGA Divide Over Iran Spills Into CPAC, Where Some Blame Israel
+- Gold Falls on Mixed Signals Over Potential Ceasefire With Iran
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,78 +77,74 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Fertilizer Prices Skyrocket And A 22-Year-Old Farmer Is Out Of Business. But Dave Ramsey Takes Issue With Something Else—The $178K Loan
-- This Steady Growth Mid Cap Stock Just Hiked Dividend
-- Stock Of The Day: Will Hewlett Packard Reverse Here?
-- Warren Buffett's Berkshire Faces The Dreaded Death Cross—Is Too Much Apple The Problem?
-- Why Is Wave Life Sciences Stock Falling After Weight Loss Study Data?
-- Mike Novogratz Says Iran's Hormuz Bluff 'Only Works Once,' But Prediction Markets Disagree
+- David Sacks Has 'Used Up' His Time As Trump's Crypto And AI Czar, Shares What He Plans To Do Next
+- Trump Claims Antony Blinken Backed US Attacks On Iran And Regrets Not Doing It Earlier, Biden-Era Secretary Says 'Except I Didn't'
+- Will Iran Lose Control Of Kharg Island? Crypto Prediction Market Weighs In As Trump Reportedly Mulls Invading Oil Export Hub
+- Lumentum Holdings (LITE) Stock Is Trending Overnight: Here's What You Should Know
+- Anthropic Scores Major Win As Judge Halts Trump Ban, Questions Pentagon's 'National Security' Narrative: 'Classic Illegal First Amendment Retaliation'
+- Dow Futures Rise 155 Points As Oil Falls, Trump Says He's Delaying Strikes On Iran's Energy Plants By 10 Days On Tehran's 'Request'
 - Strait Of Hormuz
-- Nvidia Could Crash Over 70%, Warns Scott Galloway, Says AI Is 'Corporate Ozempic'
-- Credit Stress Is Building A $6.8 Billion Industry: 5 Stocks On Both Sides Of The Trade
-- Why Finland's Recovery Still Looks Uneven: 3 Stocks To Watch
+- Netflix Hikes Prices For All Plans As Content Spending Surges
+- Meta Stock Meltdown Pushes RSI Into Buy The Blood Territory
+- Western Digital Shares Rebound, Climb 3% After Key Trading Signal
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 特朗普声称：伊朗说过会让8艘油轮通过海峡，“作为礼物”最终放行10艘船
-- 美特使证实：巴基斯坦正充当美伊之间的中间人
-- 罗技中国就“罗技G官方旗舰店发布违规内容”致歉。
-- 谷歌公司Fiber更名为GFiber。
-- 德国10年期国债收益率涨10个基点，报3.06%。
-- 美国财长贝森特：美元升值，资本正流入（美国）。
-- 美国财长贝森特：我们将克服被伊朗视作“阻塞点”的东西。
-美方并不相信霍尔木兹海峡存在阻塞点。
-在确保霍尔木兹海峡安全之前，船运将开始增加。
-能源价格与通胀将在“
-- 美国财政部拍卖四周期国债，得标利率3.620%，投标倍数3.03。
-拍卖八周期国债，得标利率3.630%，投标倍数3.14。
-- Novatek讨论每年向越南供应100万吨液化天然气（LNG）。（塔斯社）
-- 谷歌公司：推出Gemini 3.1 Flash Live Audio & Voice模型。
-在全球推广Search Live。
-向那些已经存在人工智能（AI）模
-- 特朗普开玩笑称：沃什可以在白宫办公
-- 直接点名内塔尼亚胡政府，土耳其总统称：中东正经历“百年来最痛苦时刻”
+- 富时中国A50指数期货涨幅扩大至1%。
+- 印度石油部长：任何向外国出口的炼油厂都必须缴纳出口税。
+- 美团开源原生多模态大模型LongCat-Next
+- 美国制裁导致诉讼费没着落，“解放”阿桑奇的大律师威胁放弃为马杜罗辩护
+- 印度股指Sensex、Nifty指数日内跌幅扩大至1%。
+- 日本10年期国债收益率上升6.0个基点，至2.330%。
+- 马斯克：Grok Imagine下周有重大发布。
+- 海南国际商业航天发射场二期建设正在提速中
+- 印度10年期国债收益率上行6个基点至6.94%。
+- 印度卢比兑美元史上首次跌破94关口。
+- 上证指数早盘收报3899.12点，涨0.26%。
+深证成指早盘收报13732.34点，涨0.93%。
+创业板指早盘收报3299.57点，涨0.83%。
+沪深30
+- 3月27日午间收评：深成指低开高走涨近1%，医药、锂电板块集体走强
 其他:
-- 伊朗每日石油出口收入达1.39亿美元
-- 美国五角大楼寻求“上帝委员会”豁免，以保护墨西哥湾石油开采
-- 特朗普再次表态：伊朗正与美方对话
-- 美国总统特朗普宣称，被美方强行掳走的委内瑞拉总统马杜罗将会获得“公正的”审判。
-- 徽商银行：2025年归母净利润165.25亿元，同比增长7.21%。
-- 美国国务卿卢比奥：“正在”摧毁伊朗的导弹（生产）能力。
-你们想象一下，要是伊朗拥有核武器，他们还能干啥。
-- 部分船舶通过伊朗“管控系统”通行霍尔木兹海峡
-- 美国3月堪萨斯联储制造业综合指数 11，预期 3，前值 5。
-- 特朗普：美国将继续打击伊朗，直到达成协议为止
-- 内盘期货夜市涨跌各异，纯苯涨约3.7%，合成橡胶、苯乙烯也涨超3%，双焦跌约1.7%
+- 国债期货早盘收盘，30年期主力合约跌0.09%，10年期主力合约涨0.01%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。
+- 阿里QoderWork打通钉钉、微信、飞书，手机端可直接召唤桌面AI助手
+- 欧元区各成员国财长将举行视频会 聚焦能源问题
+- 阿里巴巴旗下公司入股诺瓦聚变，后者为核聚变装置研发商
+- 2025年中国科幻产业总营收达1261亿元
+- 以色列反对党批政府多线作战 高层称以军承压严重
+- 证监会：2025年中长期资金新增入市规模超一万亿元
+- 进出口行发行3年期债券，规模50亿元，发行利率1.5045%，预期1.5200%，投标倍数5.49倍，边际倍数6.99倍。
+- 黎巴嫩贝鲁特南郊遭袭 浓烟直冲天际
+- 伊朗库姆市多座住宅遭袭，致6人死亡
 
 ## SCMP (EN/中)
 头版/首屏:
-- Can Trump end his war on Iran in time for rescheduled China trip?
-- Trump-Xi summit: US announces new dates in May
+- China’s top chip foundry SMIC unveils growth action plan
+- Semicon China: AI, packaging set to drive country’s chip industry growth
+- China Economy
+- China’s airlines add 2,900 flights to Europe as Russia access pays dividends
 - Diplomacy
-- Trump eyes China deal, but dragging out talks risks backlash: former diplomat
-- Tech
-- AI rift widens as China urges boycott of top US conference over sanctions ban
-- Big Tech
-- Google’s TurboQuant dents memory-chip stocks, but analysts say ‘buy the dip’
+- A way out for the US and Iran? The diplomatic path that could prove China right
+- Hong Kong Economy
+- Should Hong Kong be using ‘war chest’ firepower for Northern Metropolis?
 其他:
-- The US president announced this week that he would visit in mid-May after putting the date back to focus on the conflict.
-- US leader is likely to ask Beijing to commit to ‘large’ purchases of American agricultural and manufacturing goods, says Stephen Biegun.
-- Move to comply with US sanctions sparks backlash, with China’s top computing body threatening to blacklist the AI conference.
-- Rather than reducing demand for memory chips, the advance could increase it by fuelling more AI applications.
-- Chinese satellite performs landmark refuelling test in low Earth orbit
-- Global Economy
-- UK blocks China wind project on ‘national security’ amid tense business climate
-- The UK government cited security concerns but gave few details, leaving observers to question if geopolitical pressure shaped move.
-- Society
-- Cathay to increase fuel surcharge for all flights by 34% from April
+- Firm aims for above-average growth this year under plan for ‘optimising existing stock and digging for new increments’.
+- Chinese carriers have a major advantage over other global airlines due to their access to Russian airspace and ability to bypass the Middle East.
+- Talks between Washington and Tehran must involve nuclear concessions and a regional ceasefire, Middle East expert says.
+- Rare HK$150 billion transfer from the Exchange Fund has sparked fierce debate.
+- This country could rise as Mideast war’s big winner. It’s not US, Israel or Iran
+- Lifestyle & Culture
+- Japan’s cherry blossom parties could wilt as inflation strains wallets
+- Spending on ‘hanami’ picnics drops as rising living costs, Iran war fears and weather woes threaten to dampen this year’s festivities.
+- Trump says Iran ‘begging’ for deal, but teases new aid for hard-hit US farmers
+- Trump shrugs off the need to reach a settlement, then alleges Iran let oil tankers pass through the Strait of Hormuz as a ‘gift’ to the US.
 
 ## 经济通 (繁中)
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
-- 快手泡泡玛特绩后齐遭大行降目标，股价急跌
-- 中远海运集运 恢复中东6国订舱业务
-- 卡塔尔设施受重创 液化气停供4国
+- 官媒呼吁结束外卖大战，美团阿里京东哪只最值博？
+- 柯文哲京华城贪污案 一审囚17年
+- 传内塔尼亚胡命以军 加快空袭伊朗
 - 解压饺子奇袭Labubu，内存压缩狙击美光
 - 指数环球商品外汇
 - 国金观点
@@ -158,9 +154,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数24856.43-479.52(-1.89%)
+- 恒生指数24993.64+137.21(+0.55%)
                     etnet.com.hk@copyright
-- 国企指数8389.93-192.81(-2.25%)
+- 国企指数8469.85+79.92(+0.95%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -170,16 +166,16 @@
 - 吃喝玩乐
 
 ## 智通财经 (简中)
-（抓取失败: curl exit 0, len=498）
+（抓取失败: curl exit 28, len=0）
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 美国关税: 华尔街见闻 (简中)
-- 加密货币: Yahoo Finance (EN)
-- 就业数据: Yahoo Finance (EN)
+- 加密货币: Benzinga (EN)
 - 黄金/大宗: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
