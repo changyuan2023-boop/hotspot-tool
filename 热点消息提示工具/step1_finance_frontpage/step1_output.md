@@ -3,20 +3,24 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 40m | US stock futures rise ahead of shortened week and jobs report | The shift from oil isn't just about being 'green' anymore | Meta and Google's social media addiction legal troubles aren't over
-  - 其他: Trump claims Iran gave in to US demands, considers seizing oil | Starcloud reaches $1.1B valuation as AI space race heats up | Goldman traders see signs hedge funds are capitulating on stocks | Swiss cling on to cash as survey shows payment app use stalling | Plastic is the hidden cost of the war in Iran
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 5h 41m | US stocks rise ahead of shortened week and jobs report | Oil, markets jittery after Trump floats idea to 'take the oil in Iran' | Bessent: US to 'retake' Hormuz Strait control
+  - 其他: Trump threatens Iran energy sites, Kharg Island amid war | Trump to FT: 'My favorite thing is to take the oil' | Sysco expands into high-margin restaurant segment with $29B deal | Big Tech Stocks Rout Is Flashing Signals of a Turnaround | The 2 reasons oil prices are surging as the Iran War enters its 5th week
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Wall Street's Most Accurate Analysts Spotlight On 3 Financial Stocks With Over 12% Dividend Yields | This Live Nation Entertainment Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Monday | EXCLUSIVE: Virtuix Expands Military Presence With US Navy Research Agreement | Wall Street's Getting Nervous: Expert Warns Stocks Could Drop 25% If $150 Oil Scenario Slams Markets Hard | 5 Stock Picks Last Week From Wall Street's Most Accurate Analysts
+  - 其他: Urban-Gro Eyes Massive Cricket Gold Rush As LPL Auction Nears | A 33-Year-Old Thought They Were Depressed After Feeling 'Flat' For 8 Months And Went To A Therapist. It Turned Out They Just Hated Their Job | Cybersecurity Stocks Rebound After Selloff, But Losses Persist Across The Sector | Qualcomm: Smartphone Market Share Loss To Act As Near-Term Headwind | Why Is United Therapeutics Stock Soaring Monday?
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 应对油价飙升 澳大利亚宣布燃油税减半三个月 | 现货黄金日内涨幅达1.5%，报4566.08美元/盎司。 | 伊朗议会正研究退出《不扩散核武器条约》问题 | 珠城科技：拟以5000万元-1亿元回购股份，回购股份的价格不超过人民币85.22元/股。 | 澜起科技：2025年归母净利润同比增长58.35%，拟10派3.9元 | 创历史！张雪机车获WSBK两连冠 | 叙利亚多处军事基地遭袭 | 特朗普威胁“彻底摧毁”伊朗所有发电厂、油井及哈尔克岛
-  - 其他: 卡塔尔中央银行推出一揽子预防性支持措施 | 安琪酵母：2025年归母净利润同比增长16.6%，拟10派5.5元 | 节卡机器人获新一轮股权融资 临港数科基金领投 | 美债扩大涨幅，10年期收益率下跌5个基点至4.37%。 | 伊朗最高领袖发文悼念革命卫队海军司令
+  - 头版/首屏: 美联储理事米兰：私人信用并不意味着美国现在存在经济风险。 | 香港金管局报告：全球投资者对分散投资的需求日益增长 将支持香港离岸人民币债市长远发展 | 美联储理事米兰：美联储资产负债表规模过大。
+我希望缩减美联储的资产负债表。
+（重申）美联储可以通过降息来抵消缩表的影响。（CNBC） | 据美国纽约联储数据，上个交易日（3月27日）担保隔夜融资利率（SOFR）报3.63%，之前一天报3.65%。
+上个交易日有效的联邦基金利率报3.64%，之前一天 | TCL科技：拟收购广州华星半导体45%股权，交易价格93.25亿元 | 美联储理事米兰：各大央行不应当妨碍到人工智能（AI）创造就业岗位。（CNBC） | 上海长宁区中山公园板块宅地59.22亿元成交，楼板价7.77万/平米 | 美联储理事米兰：美联储可能会在利率上宽松一（个百分）点。
+美联储可以在一年内渐进地下调一（个百分）点。（CNBC）
+  - 其他: 七国集团（G7）：各国央行坚定致力于价格稳定。 | 封装设备供应商华封科技新一轮估值突破10亿美元 | 阿斯利康罕见病创新药在华获批 | 美国驻委内瑞拉大使馆恢复运作 | 纳指转跌，标普500指数涨幅收窄至0.1%，道指涨幅收窄至0.4%。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: ‘To do something nobody’s done’: physicist Zhu Zijie leaves Europe for China | From years to a week: China’s superfast software for hypersonic weapon design | Diplomacy | China steps up North Korea connections as regular Pyongyang flights resume | China Economy | How China’s massive pig farms created a serious pork supply glut | Society | Hong Kong eases rules for Wang Fuk Court residents retrieving belongings
-  - 其他: Rising star scientist returns to China to undertake cutting-edge research in the field of cold atoms. | Air China flight arrives in North Korea days after passenger train services between the neighbours were restored. | Vast hog farms – some rising 26 storeys high – have caused China’s pig herd to swell, but consumers dislike the industrially produced meat. | Displaced residents of fire-hit blocks may be allowed repeated trips to flats after authorities soften stance on three-hour limit. | ‘Lighthouses in space’: the Chinese jam-proof satellite network to fill GPS gaps
+  - 头版/首屏: Xiaomi, Alibaba ramp up AI recruitment amid global talent war | Alibaba debuts what it calls most powerful CPU core of its kind | Diplomacy | Why Trump needs a short-term win in Iran before he visits Xi in China | Science | From Mach 0 to 6: this engine may power China’s future fighter jets and missiles | US senators visit Taiwan to push defence spending as arms deadlines loom | ‘Lighthouses in space’: the Chinese jam-proof satellite network to fill GPS gaps
+  - 其他: AI-related positions account for more than 80 per cent of Alibaba’s open roles, up from around 60 per cent last year. | A surge in US service members in the Middle East suggests the makings of a protracted and low-intensity conflict, analysts say. | Revolutionary engine prototype three decades in the making could replace combined turbine-ramjet systems in high-speed flight. | The trip signals Washington’s frustration with budget impasse, but analysts say real power over Taiwan policy rests with the White House. | China steps up North Korea connections as regular Pyongyang flights resume
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 去年业绩逊预期惟海外销量倍增，比亚迪股价先急跌后升 | 专家劝青年买房 惹社会各方热议 | 美国反特示威再起 号称800万参与 | 解压饺子奇袭Labubu，内存压缩狙击美光 | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -33,21 +37,24 @@
 - **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **加密货币** — 出现于: Benzinga (EN) (1 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **黄金/大宗商品** — 出现于: Benzinga (EN) (1 站)
+- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、重要性结论（综合头版+多站+股市相关）
 
 ### 非常重要（多站头版且影响股市）
 
 - **伊朗/中东局势**：影响油价、避险资产、全球风险偏好，多站头版。
+- **美国 15% 全球关税**：财长称本周或落地，影响贸易与通胀预期。
 - **油价/霍尔木兹海峡**：特朗普护航表态后美油转跌，航运与能源股敏感。
-- **加密货币**：比特币破 7 万、Coinbase 等个股大涨，多站提及。
 - **就业数据**：ADP 等超预期，支撑美股与利率预期。
 
 ### 重要（头版或单站重点）
 
 - 黄金/白银、伦铝等大宗商品波动。
+- 美联储表态（如米兰：伊朗风险不阻碍继续降息）。
 - 苹果 MacBook Neo、Moderna 和解、Meta 与新闻集团合作等个股与科技新闻。
 - 中国/欧盟产业政策与贸易关系。
