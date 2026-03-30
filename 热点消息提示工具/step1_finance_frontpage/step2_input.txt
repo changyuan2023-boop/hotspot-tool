@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026032723
+抓取时间: 2026033012
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 4h 34m
-- Microsoft set for worst quarter since 2008 as AI bites
-- Senate votes to end shutdown that snarled airports
-- Trump is changing his tone about the Strait of Hormuz
-- Consumer sentiment hits lowest level since December
-- Oil prices could hit $200 per barrel if the war continues into summer
-- How rising gas prices are weighing on fast food sales
-- Consumer stocks best play for war aftermath: BofA's Hartnett
+- U.S. markets open in 9h 5m
+- Meta and Google's social media addiction legal troubles aren't over
+- The shift from oil isn't just about being 'green' anymore
+- US stock futures fall entering shortened week ahead of jobs report
+- Student loan balance averages for ages 35 to 49: how do you compare?
+- India forces banks to unwind rupee bets, squeezing short sellers
+- Oil gains as Iran war escalates with Houthi attacks on Israel
+- Pro-AI group to spend $100mn influencing US midterm elections
 其他:
-- Stocks slide as oil pushes higher amid Iran war
-- Amazon's big bet in AI has been 20 years in the making
-- Wall Street: Stocks are too cheap to ignore as war rages on
-- How high will gold go this year? Top 3 predictions about gold prices.
-- Crude Oil Drives Higher as Traders Brace for Longer Mideast War
-- Iterum files wind-up petition due to limited cash, inability to raise equity
-- Even wealthy Americans are souring on the economy as gas prices spike and stocks fall
-- Utility Entergy says revised Meta data-center deal to deliver higher customer savings
-- The Iran conflict is a boon for Russia’s ‘war machine.’ And it’s not just about oil
-- Sony to hike PlayStation 5 prices again as memory chip costs surge
+- Trump claims Iran gave in to US demands, considers seizing oil
+- US plans to allow Russian oil tanker into Cuba, easing crisis
+- Chevron says damage at Wheatstone LNG will hamper restart
+- Stocks Drop, Oil Rises on Iran War Widening Fears: Markets Wrap
+- China Increases Overseas Investment Quota by Most Since 2021
+- Government Bonds Rally Around the World on Slowdown Concerns
+- Australia to Halve Fuel Tax as Iran War Impacts Spread
+- Brent heads for record monthly jump as Iran conflict widens
+- Eli Lilly extends partnership with Insilico Medicine for AI-powered drug discovery
+- These Private Capital Funds Are Defying Markdowns With HALO Energy Bets
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,82 +42,76 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Rezolve AI Gears Up For FY Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts
-- What's Behind The Jump In Vor Biopharma Stock?
-- What's Going On With Palo Alto Networks Shares On Friday?
-- Netflix Raises Prices: How Much You'll Pay Monthly For Major Streaming Platforms
-- Why Is Vertical Aerospace Stock Falling Friday?
-- Stock Market Today: S&P 500, Nasdaq, Dow Futures Drop As Trump Pushes Iran Deal Deadline—Unity Software, Oracle, SoFi Technologies In Focus (UPDATED)
-- Nasdaq 100 Flashes Rare Historical Pattern 6th Time In 41 Years: It May Be 'Set To Recover Soon' After Being 100 Days Below Peak
-- What A SpaceX IPO Could Mean For Space Stocks
-- Micron Stock's Rally Looked Unstoppable — Until Google's TurboQuant Hit
-- Indonesian Mine IPO: A Golden Opportunity, Or Riskier Bet?
+- Elon Musk's X Has More 'Daily Active Users' In This Country Than Any Other: Twitter Co-Founder Jack Dorsey Says That's Been True From 'Year 1'
+- Anthony Scaramucci Says Martha Stewart Made $45,000 In Insider Trading, Did 5 Months In Prison: 'Members Of Congress Are Making Hundreds Of Millions'
+- KitKat Truck Theft Leaves Over 400,000 Chocolate Bars Missing As Nestle Hunts Stolen Formula 1 Treats: 'Appreciate The Criminals' Exceptional Taste'
+- Iran Invasion Odds Surge Past 70% On Crypto Prediction Market, While Truce Chances Slide Sharply — What Happens Next?
+- Swiss Back Tougher Social Media Rules As Meta And Alphabet Found Negligent In Landmark US Case
+- Brent Crude Surges Above $115, Dow Futures Slide By 249 Points — Trump Says His 'Favorite' Thing To Do Would Be 'Take The Oil In Iran'
+- Mark Cuban
+- Donald Trump
+- Airbnb Stock Falls As Inflation, Energy Costs Pressure Travel Outlook
+- JD Vance Wins CPAC 2028 Straw Poll, Marco Rubio Emerges Second, Signaling Conservative Base Shift
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 标普500指数重新跌超0.9%。
-据Politico报道，美国警告盟友们，称伊朗战争可能会造成美方推迟对乌克兰发送武器货物。
-- WTI原油期货维持3.5%的涨幅，目前交投于97.80美元附近。
-据伊朗媒体Fars News，伊朗官方表示，伊朗孔达卜重水研究反应堆遭到空袭。官员表示，袭击未
-- “末日博士”鲁比尼：新任美联储主席除了加息可能别无选择
-- Roubini Macro Associates首席执行官鲁里埃尔·鲁比尼警告称：伊朗战争持续将伤害全球经济。
-存在一种尾部风险：如果美国和以色列升级行动，而伊
-- “末日博士”鲁比尼：美国升级伊朗战争的概率超五成
-- 标普500指数目前跌0.8%，道指跌0.8%，纳指跌1.2%。
-美国哥伦比亚广播公司（CBS）援引多位知情人士报道称，伊朗对美国和平提案的回应预计将在今天晚些时
-- 吉利汽车：星耀8上市6天大定数超过万台
-- 德国将评估是否需要重新激活那些被闲置的煤炭火电站，从而降低能源价格。
-- 美国里士满联储主席Barkin（2027年FOMC票委）：（自从美国和以色列发动的）伊朗战争爆发以来，不确定性已经飙升。
-- 现货黄金日内涨幅达3.0%，报4511.58美元/盎司。
-纽约金日内涨幅达3.0%，报4541.8美元/盎司。
-纽约银日内涨幅达4.0%，报70.67美元/盎司
-- 低硫燃油夜盘收涨约5%，甲醇涨约4.3%，燃油涨约2.8%。
-- 纽约银、货白银突破70美元/盎司关口，现货黄金也涨穿4500美元。
+- 标普500指数期货收复失地，转为涨跌持平。
+- 水利部长江委：今年汛期长江流域来水量偏枯
+- 世界最大直径高铁盾构机“领航号”成功“上岸”
+- 西太平洋银行目前预计澳洲联储将在5月、6月和8月加息，预计最终利率将从目前的4.1%升至4.85%。
+- 伊朗首都再遭猛烈空袭：爆炸巨响、浓烟滚滚
+- 新台币兑美元下跌0.4%至32.008。
+- 以军称正打击“整个德黑兰”的军事设施
+- 印度卢比兑美元大涨1.4%至93.4775，此前印度央行收紧外汇规则。
+- 上证指数早盘收报3922.72点，涨0.23%。
+深证成指早盘收报13743.85点，跌0.12%。
+创业板指早盘收报3279.29点，跌0.50%。
+沪深30
+- 3月30日午间收评：沪指探底回升涨0.23%，有色铝、商业航天概念集体走强
+- 国债期货早盘收盘，30年期主力合约涨0.20%，10年期主力合约涨0.08%，5年期主力合约涨0.08%，2年期主力合约涨0.04%。
+- 应对能源价格上涨 澳大利亚将实行燃油税减半措施
 其他:
-- 巴克莱：英国央行的诸多模型表明，如果央行像金融市场现在预期的那样大幅加息，将存在通胀低于目标的风险。
-- 现货黄金日内涨幅达2.5%，报4492.17美元/盎司。
-纽约金日内涨幅达2.5%，报4523.7美元/盎司。
-- 大量定存到期如何应对？建行回应：目前承接率较好，预计资金继续流向基金等领域
-- 德国外交部长Wadephul：我们正面临大规模安全风险。
-需要防止伊朗局势进一步升级。
-预计伊朗将允许霍尔木兹海峡安全通行。
-- 韩正会见南非国民议会议长迪迪扎
-- WTI原油日内涨幅达4.0%，报98.28美元/桶。
-- 美联邦调查局局长邮箱遭黑客入侵
-- 中国-南非经贸合作论坛推动深化互利合作
-- 26North创始人Hosh Harris：市场有些自满。
-看到一些关于资本回撤的早期迹象。
-- 纳指目前跌1.3%。
-路透援引美国司法部官员报道称，与伊朗相关的黑客们宣布破解联邦调查局（FBI）局长的电子邮件（账号）。
+- 富时中国A50指数期货转涨，此前跌超1%。
+- 现货钯金日内涨幅扩大至3%，报1417.76美元/盎司。
+- 沪指拉升翻红，此前一度跌超1%，深成指、创业板指跌幅同步收窄，农业、有色铝、创新药、商业航天等方向涨幅居前，沪深京三市上涨个股超2300只。
+- 越南股指VN指数日内跌幅扩大至2%。
+- 隔夜SHIBOR报1.3180%，上涨0.10个基点。
+7天SHIBOR报1.4180%，下降1.00个基点。
+3个月SHIBOR报1.5090%，上涨0.00
+- 特朗普称伊朗已同意“15点计划”中“大部分内容”
+- 卡塔尔一家电视台驻德黑兰办公室遭以军空袭
+- 印度否认“马斯克参与特朗普与莫迪通话”
+- 特朗普：已摧毁许多“长期追捕”的伊朗境内目标
+- 特朗普：伊朗已允许20艘油轮通过霍尔木兹海峡
 
 ## SCMP (EN/中)
 头版/首屏:
-- Exclusive | What does it mean for China if Trump and Putin visit back to back?
-- Can Trump end his war on Iran in time for rescheduled China trip?
-- Military
-- What the debut of a new air-based missile means for China’s nuclear strategy
-- China Economy
-- Chinese market regulator tells firms to focus on healthy competition overseas
-- Big Tech
-- China’s self-sufficiency drive hits new milestone with powerful RISC-V chips
+- EU’s flagship Africa project under fire over ties to Chinese state-owned firms
+- Germany’s Merz floats EU-China trade deal as European capitals soften on Beijing
+- Politics
+- Developing | Taiwan KMT leader to visit mainland China to aid ‘peaceful’ relations: Beijing
+- Diplomacy
+- Developing | Beijing sanctions Japan lawmaker for ‘colluding with Taiwan independence forces’
+- New constitutional affairs chief Janice Tse to lead Hong Kong’s first 5-year plan
+- Kenneth Rogoff on why China’s yuan will be a reserve currency within 5 years
 其他:
-- Expected trips in close succession highlight Beijing’s strategic effort to manage relations with the two in turbulent times, analysts say.
-- Jinglei-1 and H-6N strategic bomber combination completes nuclear triad, boosts second-strike capability, military magazine says.
-- State Administration for Market Regulation tells companies it will address ‘involution-style’ competition as they step up efforts to expand.
-- The Xiangshan high-performance processor is the latest effort from China to push the boundaries with RISC-V architecture.
-- Top Singaporean scientist Seeram Ramakrishna joins China’s Tsinghua University
-- OpenClaw effect: explosion in AI token use adds fuel to Chinese AI development
-- Surging demand supports price increases that will sustain development of new and better models, Zhipu AI CEO says.
-- China Business
-- BYD’s four-year profit run ends, eyes global markets as next engine of growth
-- Earnings at China’s EV leader fall short of expectations amid intense domestic competition.
+- Lawmakers demand to know where over US$2.3 billion in funds is going in venture meant to wean off Beijing’s critical minerals chokehold.
+- Cheng Li-wun invited to visit Jiangsu province, Shanghai and Beijing next month.
+- China’s foreign ministry issues statement on Monday, stating Keiji Furuya was ‘seriously violating the one-China principle’.
+- Former permanent secretary for environment nominated by city leader John Lee and appointed by Chinese State Council to replace Erick Tsang.
+- Science
+- ‘Lighthouses in space’: the Chinese jam-proof satellite network to fill GPS gaps
+- System places powerful light sources on satellites to send coded signals for drones, self-driving cars, space missions to navigate.
+- Tai Po blaze hearing resumes after fire alarm goes off during morning break
+- Three residents testify about irregular voting procedures, the shutdown of fire alarm system and negligence of parties, before hearing is interrupted.
+- Health & Environment
 
 ## 经济通 (繁中)
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
-- 海尔智家去年多赚4.4%惟减派息，股价急跌可否博反弹？
-- 柯文哲京华城贪污案 一审囚17年
-- 传内塔尼亚胡命以军 加快空袭伊朗
+- 中移动去年少赚1%逊预期，惟派息反增获大行唱好
+- 专家劝青年买房 惹社会各方热议
+- 美国反特示威再起 号称800万参与
 - 解压饺子奇袭Labubu，内存压缩狙击美光
 - 指数环球商品外汇
 - 国金观点
@@ -127,9 +121,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数24951.88+95.45(+0.38%)
+- 恒生指数24719.20-232.68(-0.93%)
                     etnet.com.hk@copyright
-- 国企指数8453.77+63.84(+0.76%)
+- 国企指数8391.09-62.68(-0.74%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -142,13 +136,13 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 美国关税: 华尔街见闻 (简中)
-- 美联储: 华尔街见闻 (简中)
-- 中国/欧盟: SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 就业数据: Yahoo Finance (EN), SCMP (EN/中)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
+- 加密货币: Benzinga (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---

@@ -3,32 +3,27 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 4h 34m | Microsoft set for worst quarter since 2008 as AI bites | Senate votes to end shutdown that snarled airports | Trump is changing his tone about the Strait of Hormuz
-  - 其他: Stocks slide as oil pushes higher amid Iran war | Amazon's big bet in AI has been 20 years in the making | Wall Street: Stocks are too cheap to ignore as war rages on | How high will gold go this year? Top 3 predictions about gold prices. | Crude Oil Drives Higher as Traders Brace for Longer Mideast War
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 9h 5m | Meta and Google's social media addiction legal troubles aren't over | The shift from oil isn't just about being 'green' anymore | US stock futures fall entering shortened week ahead of jobs report
+  - 其他: Trump claims Iran gave in to US demands, considers seizing oil | US plans to allow Russian oil tanker into Cuba, easing crisis | Chevron says damage at Wheatstone LNG will hamper restart | Stocks Drop, Oil Rises on Iran War Widening Fears: Markets Wrap | China Increases Overseas Investment Quota by Most Since 2021
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Rezolve AI Gears Up For FY Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts | What's Behind The Jump In Vor Biopharma Stock? | What's Going On With Palo Alto Networks Shares On Friday? | Netflix Raises Prices: How Much You'll Pay Monthly For Major Streaming Platforms | Why Is Vertical Aerospace Stock Falling Friday?
+  - 其他: Elon Musk's X Has More 'Daily Active Users' In This Country Than Any Other: Twitter Co-Founder Jack Dorsey Says That's Been True From 'Year 1' | Anthony Scaramucci Says Martha Stewart Made $45,000 In Insider Trading, Did 5 Months In Prison: 'Members Of Congress Are Making Hundreds Of Millions' | KitKat Truck Theft Leaves Over 400,000 Chocolate Bars Missing As Nestle Hunts Stolen Formula 1 Treats: 'Appreciate The Criminals' Exceptional Taste' | Iran Invasion Odds Surge Past 70% On Crypto Prediction Market, While Truce Chances Slide Sharply — What Happens Next? | Swiss Back Tougher Social Media Rules As Meta And Alphabet Found Negligent In Landmark US Case
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 标普500指数重新跌超0.9%。
-据Politico报道，美国警告盟友们，称伊朗战争可能会造成美方推迟对乌克兰发送武器货物。 | WTI原油期货维持3.5%的涨幅，目前交投于97.80美元附近。
-据伊朗媒体Fars News，伊朗官方表示，伊朗孔达卜重水研究反应堆遭到空袭。官员表示，袭击未 | “末日博士”鲁比尼：新任美联储主席除了加息可能别无选择 | Roubini Macro Associates首席执行官鲁里埃尔·鲁比尼警告称：伊朗战争持续将伤害全球经济。
-存在一种尾部风险：如果美国和以色列升级行动，而伊 | “末日博士”鲁比尼：美国升级伊朗战争的概率超五成 | 标普500指数目前跌0.8%，道指跌0.8%，纳指跌1.2%。
-美国哥伦比亚广播公司（CBS）援引多位知情人士报道称，伊朗对美国和平提案的回应预计将在今天晚些时 | 吉利汽车：星耀8上市6天大定数超过万台 | 德国将评估是否需要重新激活那些被闲置的煤炭火电站，从而降低能源价格。
-  - 其他: 巴克莱：英国央行的诸多模型表明，如果央行像金融市场现在预期的那样大幅加息，将存在通胀低于目标的风险。 | 现货黄金日内涨幅达2.5%，报4492.17美元/盎司。
-纽约金日内涨幅达2.5%，报4523.7美元/盎司。 | 大量定存到期如何应对？建行回应：目前承接率较好，预计资金继续流向基金等领域 | 德国外交部长Wadephul：我们正面临大规模安全风险。
-需要防止伊朗局势进一步升级。
-预计伊朗将允许霍尔木兹海峡安全通行。 | 韩正会见南非国民议会议长迪迪扎
+  - 头版/首屏: 标普500指数期货收复失地，转为涨跌持平。 | 水利部长江委：今年汛期长江流域来水量偏枯 | 世界最大直径高铁盾构机“领航号”成功“上岸” | 西太平洋银行目前预计澳洲联储将在5月、6月和8月加息，预计最终利率将从目前的4.1%升至4.85%。 | 伊朗首都再遭猛烈空袭：爆炸巨响、浓烟滚滚 | 新台币兑美元下跌0.4%至32.008。 | 以军称正打击“整个德黑兰”的军事设施 | 印度卢比兑美元大涨1.4%至93.4775，此前印度央行收紧外汇规则。
+  - 其他: 富时中国A50指数期货转涨，此前跌超1%。 | 现货钯金日内涨幅扩大至3%，报1417.76美元/盎司。 | 沪指拉升翻红，此前一度跌超1%，深成指、创业板指跌幅同步收窄，农业、有色铝、创新药、商业航天等方向涨幅居前，沪深京三市上涨个股超2300只。 | 越南股指VN指数日内跌幅扩大至2%。 | 隔夜SHIBOR报1.3180%，上涨0.10个基点。
+7天SHIBOR报1.4180%，下降1.00个基点。
+3个月SHIBOR报1.5090%，上涨0.00
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Exclusive | What does it mean for China if Trump and Putin visit back to back? | Can Trump end his war on Iran in time for rescheduled China trip? | Military | What the debut of a new air-based missile means for China’s nuclear strategy | China Economy | Chinese market regulator tells firms to focus on healthy competition overseas | Big Tech | China’s self-sufficiency drive hits new milestone with powerful RISC-V chips
-  - 其他: Expected trips in close succession highlight Beijing’s strategic effort to manage relations with the two in turbulent times, analysts say. | Jinglei-1 and H-6N strategic bomber combination completes nuclear triad, boosts second-strike capability, military magazine says. | State Administration for Market Regulation tells companies it will address ‘involution-style’ competition as they step up efforts to expand. | The Xiangshan high-performance processor is the latest effort from China to push the boundaries with RISC-V architecture. | Top Singaporean scientist Seeram Ramakrishna joins China’s Tsinghua University
+  - 头版/首屏: EU’s flagship Africa project under fire over ties to Chinese state-owned firms | Germany’s Merz floats EU-China trade deal as European capitals soften on Beijing | Politics | Developing | Taiwan KMT leader to visit mainland China to aid ‘peaceful’ relations: Beijing | Diplomacy | Developing | Beijing sanctions Japan lawmaker for ‘colluding with Taiwan independence forces’ | New constitutional affairs chief Janice Tse to lead Hong Kong’s first 5-year plan | Kenneth Rogoff on why China’s yuan will be a reserve currency within 5 years
+  - 其他: Lawmakers demand to know where over US$2.3 billion in funds is going in venture meant to wean off Beijing’s critical minerals chokehold. | Cheng Li-wun invited to visit Jiangsu province, Shanghai and Beijing next month. | China’s foreign ministry issues statement on Monday, stating Keiji Furuya was ‘seriously violating the one-China principle’. | Former permanent secretary for environment nominated by city leader John Lee and appointed by Chinese State Council to replace Erick Tsang. | Science
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 海尔智家去年多赚4.4%惟减派息，股价急跌可否博反弹？ | 柯文哲京华城贪污案 一审囚17年 | 传内塔尼亚胡命以军 加快空袭伊朗 | 解压饺子奇袭Labubu，内存压缩狙击美光 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数24951.88+95.45(+0.38%)
-                    etnet.com.hk@copyright | 国企指数8453.77+63.84(+0.76%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 中移动去年少赚1%逊预期，惟派息反增获大行唱好 | 专家劝青年买房 惹社会各方热议 | 美国反特示威再起 号称800万参与 | 解压饺子奇袭Labubu，内存压缩狙击美光 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数24719.20-232.68(-0.93%)
+                    etnet.com.hk@copyright | 国企指数8391.09-62.68(-0.74%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
@@ -36,13 +31,13 @@
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
-- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
-- **中国/欧盟** — 出现于: SCMP (EN/中) (1 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
+- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **加密货币** — 出现于: Benzinga (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、重要性结论（综合头版+多站+股市相关）
@@ -50,12 +45,12 @@
 ### 非常重要（多站头版且影响股市）
 
 - **伊朗/中东局势**：影响油价、避险资产、全球风险偏好，多站头版。
-- **美国 15% 全球关税**：财长称本周或落地，影响贸易与通胀预期。
 - **油价/霍尔木兹海峡**：特朗普护航表态后美油转跌，航运与能源股敏感。
+- **加密货币**：比特币破 7 万、Coinbase 等个股大涨，多站提及。
+- **就业数据**：ADP 等超预期，支撑美股与利率预期。
 
 ### 重要（头版或单站重点）
 
 - 黄金/白银、伦铝等大宗商品波动。
-- 美联储表态（如米兰：伊朗风险不阻碍继续降息）。
 - 苹果 MacBook Neo、Moderna 和解、Meta 与新闻集团合作等个股与科技新闻。
 - 中国/欧盟产业政策与贸易关系。
