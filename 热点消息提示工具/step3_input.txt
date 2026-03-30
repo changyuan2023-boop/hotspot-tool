@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026033012
+抓取时间: 2026033013
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 9h 5m
+- U.S. markets open in 8h 15m
 - Meta and Google's social media addiction legal troubles aren't over
 - The shift from oil isn't just about being 'green' anymore
+- Prediction: Apple will be the worst "Mag 7" stock to own until 2030
 - US stock futures fall entering shortened week ahead of jobs report
 - Student loan balance averages for ages 35 to 49: how do you compare?
 - India forces banks to unwind rupee bets, squeezing short sellers
 - Oil gains as Iran war escalates with Houthi attacks on Israel
-- Pro-AI group to spend $100mn influencing US midterm elections
 其他:
 - Trump claims Iran gave in to US demands, considers seizing oil
+- Pro-AI group to spend $100mn influencing US midterm elections
 - US plans to allow Russian oil tanker into Cuba, easing crisis
-- Chevron says damage at Wheatstone LNG will hamper restart
-- Stocks Drop, Oil Rises on Iran War Widening Fears: Markets Wrap
-- China Increases Overseas Investment Quota by Most Since 2021
+- S.Korea exports to rise most in nearly 5 years, imports also higher on Mideast conflict: Reuters poll
 - Government Bonds Rally Around the World on Slowdown Concerns
+- Stocks sag in Asia, Brent crude heading for record month
+- Stocks Drop, Oil Up on Fears of Widening Iran War: Markets Wrap
+- China Increases Overseas Investment Quota by Most Since 2021
 - Australia to Halve Fuel Tax as Iran War Impacts Spread
 - Brent heads for record monthly jump as Iran conflict widens
-- Eli Lilly extends partnership with Insilico Medicine for AI-powered drug discovery
-- These Private Capital Funds Are Defying Markdowns With HALO Energy Bets
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,11 +77,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
+- Chuck Schumer, Tom Cotton Push Bill That Bans Chinese Humanoid Robots For Government Use
+- Dogecoin Remains 'Stuck' After Top Analyst's 29% Move Prediction Fails To Play Out—But There's Still Hope
 - Elon Musk's X Has More 'Daily Active Users' In This Country Than Any Other: Twitter Co-Founder Jack Dorsey Says That's Been True From 'Year 1'
 - Anthony Scaramucci Says Martha Stewart Made $45,000 In Insider Trading, Did 5 Months In Prison: 'Members Of Congress Are Making Hundreds Of Millions'
 - KitKat Truck Theft Leaves Over 400,000 Chocolate Bars Missing As Nestle Hunts Stolen Formula 1 Treats: 'Appreciate The Criminals' Exceptional Taste'
-- Iran Invasion Odds Surge Past 70% On Crypto Prediction Market, While Truce Chances Slide Sharply — What Happens Next?
-- Swiss Back Tougher Social Media Rules As Meta And Alphabet Found Negligent In Landmark US Case
 - Brent Crude Surges Above $115, Dow Futures Slide By 249 Points — Trump Says His 'Favorite' Thing To Do Would Be 'Take The Oil In Iran'
 - Mark Cuban
 - Donald Trump
@@ -90,9 +90,19 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
+- 巴基斯坦KSE-100指数日内跌幅扩大至2.3%，至三周新低。
+- 市场监管总局：防治大型企业等经营者拖欠中小企业账款
+- 市场监管总局：平衡好数据保护和数据利用的关系，加大对人工智能等新兴产业的保护力度
+- 市场监管总局：着力防治平台经济、光伏、锂电池、新能源汽车等重点行业和领域“内卷式”竞争
+- 邮储银行行长芦苇：着力推动息差尽快企稳
+- 据缅甸当地电视台30日消息，耶温乌已正式就任缅甸国防军总司令。耶温乌原为国防军陆军司令。原国防军总司令为敏昂莱。（新华社）
+- 早间要闻汇总
+- 提醒：日内请重点关注（以下均为北京时间）
+- 柬埔寨国会通过《反电信网络诈骗法》草案
 - 标普500指数期货收复失地，转为涨跌持平。
 - 水利部长江委：今年汛期长江流域来水量偏枯
 - 世界最大直径高铁盾构机“领航号”成功“上岸”
+其他:
 - 西太平洋银行目前预计澳洲联储将在5月、6月和8月加息，预计最终利率将从目前的4.1%升至4.85%。
 - 伊朗首都再遭猛烈空袭：爆炸巨响、浓烟滚滚
 - 新台币兑美元下跌0.4%至32.008。
@@ -104,42 +114,30 @@
 沪深30
 - 3月30日午间收评：沪指探底回升涨0.23%，有色铝、商业航天概念集体走强
 - 国债期货早盘收盘，30年期主力合约涨0.20%，10年期主力合约涨0.08%，5年期主力合约涨0.08%，2年期主力合约涨0.04%。
-- 应对能源价格上涨 澳大利亚将实行燃油税减半措施
-其他:
-- 富时中国A50指数期货转涨，此前跌超1%。
-- 现货钯金日内涨幅扩大至3%，报1417.76美元/盎司。
-- 沪指拉升翻红，此前一度跌超1%，深成指、创业板指跌幅同步收窄，农业、有色铝、创新药、商业航天等方向涨幅居前，沪深京三市上涨个股超2300只。
-- 越南股指VN指数日内跌幅扩大至2%。
-- 隔夜SHIBOR报1.3180%，上涨0.10个基点。
-7天SHIBOR报1.4180%，下降1.00个基点。
-3个月SHIBOR报1.5090%，上涨0.00
 - 特朗普称伊朗已同意“15点计划”中“大部分内容”
 - 卡塔尔一家电视台驻德黑兰办公室遭以军空袭
-- 印度否认“马斯克参与特朗普与莫迪通话”
-- 特朗普：已摧毁许多“长期追捕”的伊朗境内目标
-- 特朗普：伊朗已允许20艘油轮通过霍尔木兹海峡
 
 ## SCMP (EN/中)
 头版/首屏:
 - EU’s flagship Africa project under fire over ties to Chinese state-owned firms
 - Germany’s Merz floats EU-China trade deal as European capitals soften on Beijing
 - Politics
-- Developing | Taiwan KMT leader to visit mainland China to aid ‘peaceful’ relations: Beijing
-- Diplomacy
-- Developing | Beijing sanctions Japan lawmaker for ‘colluding with Taiwan independence forces’
+- Taiwan KMT leader to visit mainland China to aid ‘peaceful’ relations: Beijing
+- Science
+- ‘Lighthouses in space’: the Chinese jam-proof satellite network to fill GPS gaps
 - New constitutional affairs chief Janice Tse to lead Hong Kong’s first 5-year plan
 - Kenneth Rogoff on why China’s yuan will be a reserve currency within 5 years
 其他:
 - Lawmakers demand to know where over US$2.3 billion in funds is going in venture meant to wean off Beijing’s critical minerals chokehold.
 - Cheng Li-wun invited to visit Jiangsu province, Shanghai and Beijing next month.
-- China’s foreign ministry issues statement on Monday, stating Keiji Furuya was ‘seriously violating the one-China principle’.
-- Former permanent secretary for environment nominated by city leader John Lee and appointed by Chinese State Council to replace Erick Tsang.
-- Science
-- ‘Lighthouses in space’: the Chinese jam-proof satellite network to fill GPS gaps
 - System places powerful light sources on satellites to send coded signals for drones, self-driving cars, space missions to navigate.
-- Tai Po blaze hearing resumes after fire alarm goes off during morning break
-- Three residents testify about irregular voting procedures, the shutdown of fire alarm system and negligence of parties, before hearing is interrupted.
-- Health & Environment
+- Former permanent secretary for environment nominated by city leader John Lee and appointed by Chinese State Council to replace Erick Tsang.
+- World
+- Ant smuggling in China, new airport rules in Hong Kong: 5 weekend reads
+- From ants being smuggled from East Africa to a professor in Beijing going viral for his predictions, here are five stories you may have missed over the weekend.
+- Diplomacy
+- Beijing sanctions Japan lawmaker for ‘colluding with Taiwan independence forces’
+- China’s foreign ministry issues statement on Monday, stating Keiji Furuya was ‘seriously violating the one-China principle’.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -156,9 +154,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数24719.20-232.68(-0.93%)
+- 恒生指数24713.65-238.23(-0.95%)
                     etnet.com.hk@copyright
-- 国企指数8391.09-62.68(-0.74%)
+- 国企指数8389.17-64.60(-0.76%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -172,12 +170,11 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 就业数据: Yahoo Finance (EN), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
 - 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
-- 加密货币: Benzinga (EN)
+- 就业数据: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
