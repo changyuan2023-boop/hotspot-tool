@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026033022
+抓取时间: 2026033023
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 5h 41m
+- U.S. markets close in 4h 10m
 - US stocks rise ahead of shortened week and jobs report
-- Oil, markets jittery after Trump floats idea to 'take the oil in Iran'
-- Bessent: US to 'retake' Hormuz Strait control
-- Ducati's $165K 'no limits' Superleggera motorcycle has sold out
-- Trump to take steps in opening retirement funds to private markets
-- 2 'Magnificent 7' stocks see stunning plunges
-- India proposes making Big Tech govt. advisories legally binding
-其他:
 - Trump threatens Iran energy sites, Kharg Island amid war
-- Trump to FT: 'My favorite thing is to take the oil'
-- Sysco expands into high-margin restaurant segment with $29B deal
-- Big Tech Stocks Rout Is Flashing Signals of a Turnaround
-- The 2 reasons oil prices are surging as the Iran War enters its 5th week
-- Stocks Rise as Buyers Scoop Up Bargains After Rout: Markets Wrap
+- Ducati's $165K 'no limits' Superleggera motorcycle has sold out
+- Bessent: US to 'retake' Hormuz Strait control
+- Americans have spent an extra $8B in gasoline since the start of Iran war
+- Why Nvidia has the most important stock chart in the world
+- Why Goldman Sachs says China's better than the US in handling oil shock
+其他:
+- 2 reasons oil prices are surging as Iran war enters 5th week
+- Oil, markets jittery after Trump floats idea to 'take the oil in Iran'
+- Trump to take steps in opening retirement funds to private markets
+- Italy data protection agency fines Intesa Sanpaolo $36 million over data breach
+- Americans’ expectations for inflation will shape Fed’s response to Iran war, Powell says
+- Tax refunds up nearly 11%, with over 37 million Americans cashing in on new tax breaks
+- 7 things to know about Schwab's new brokerage account for teenagers
 - US Department of Labor issues 401k guidelines on private assets
 - Bessent says nearly half of US tax filers claim new deductions in Republican tax law
 - GM to increase heavy-duty truck production, WSJ reports
-- Starbucks investors reelect full board, rejecting labor-backed challenge
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,71 +42,72 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Urban-Gro Eyes Massive Cricket Gold Rush As LPL Auction Nears
-- A 33-Year-Old Thought They Were Depressed After Feeling 'Flat' For 8 Months And Went To A Therapist. It Turned Out They Just Hated Their Job
-- Cybersecurity Stocks Rebound After Selloff, But Losses Persist Across The Sector
-- Qualcomm: Smartphone Market Share Loss To Act As Near-Term Headwind
-- Why Is United Therapeutics Stock Soaring Monday?
-- Crude Hits $100―Trump Just Threatened To Destroy Iran's Entire Oil Sector
+- Tonix Pharmaceuticals Stock Hits New 52-Week Low: What's Driving The Action?
+- MoonLake Says Lead Drug Shows Durable Response, Eyes FDA Filing
+- Alcoa Surges 11% After Iran Claims Aluminum Plant Attacks
+- Legence Analysts Boost Their Forecasts After Q4 Results
+- Ripple CEO Brad Garlinghouse Warns Against Another 'Gary Gensler Moment'
+- Trump's Iran War Just Triggered A Second Shockwave — This One Is In The Bond Market
 - Mark Cuban
 - Donald Trump
-- US-Iran War Updates March 30: Trump Threatens Iran Over Hormuz, Spain Blocks US From Using Bases, Iranian Leadership Divide Emerges (UPDATED)
+- After 33% Plunge, First Solar Stock Faces A Death Cross — And Here Comes Tesla
 - Why Is Viridian Therapeutics Stock Falling Monday?
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 美联储理事米兰：私人信用并不意味着美国现在存在经济风险。
-- 香港金管局报告：全球投资者对分散投资的需求日益增长 将支持香港离岸人民币债市长远发展
-- 美联储理事米兰：美联储资产负债表规模过大。
-我希望缩减美联储的资产负债表。
-（重申）美联储可以通过降息来抵消缩表的影响。（CNBC）
-- 据美国纽约联储数据，上个交易日（3月27日）担保隔夜融资利率（SOFR）报3.63%，之前一天报3.65%。
-上个交易日有效的联邦基金利率报3.64%，之前一天
-- TCL科技：拟收购广州华星半导体45%股权，交易价格93.25亿元
-- 美联储理事米兰：各大央行不应当妨碍到人工智能（AI）创造就业岗位。（CNBC）
-- 上海长宁区中山公园板块宅地59.22亿元成交，楼板价7.77万/平米
-- 美联储理事米兰：美联储可能会在利率上宽松一（个百分）点。
-美联储可以在一年内渐进地下调一（个百分）点。（CNBC）
-- 美国财政部长斯科特·贝森特宣称：全球石油市场“每天存在约1000万至1200万桶的缺口，而我们正在弥补这一缺口”。
-国际能源署（IEA）协调释放的战略储备每天可
-- 美国劳工部发布401k新规提案：确立“安全港”制度，加速私募资产入市
-- 欧盟延长对伊朗人权方面制裁至2027年
-- 光大理财回应某产品净值回撤：系小规模产品大额赎回后的净值扰动
+- 通用汽车美国密歇根工厂将增加加班时数，以提升燃油皮卡产量
+- 特朗普：对伊朗袭击以色列炼油厂的回应“很快到来”
+- IMF称伊朗战争将推高全球价格并拖累经济增长，或引发不对称冲击
+- 七国集团召开跨部门会议，拟在必要时协同稳定能源市场
+- 明晟公司MSCI北欧国家指数涨1.2%，创3月10日以来最大单日涨幅，报359.19点。
+在十个板块中，北欧金融板块涨幅最大。
+挪威海德鲁涨9.5%，在一众北欧
+- 伊朗指责乌克兰参与对伊军事行动
+- 美国财政部拍卖三个月期国债，得标利率3.620%，投标倍数2.66。
+拍卖六个月期国债，得标利率3.605%，投标倍数2.83。
+- 伊朗德黑兰东部发生爆炸
+- 德国DAX 30指数初步收涨0.79%，报22477.07点。
+法国股指初步收涨0.71%，意大利股指初步收涨0.78%、银行指数跌0.65%，英国股指初步收涨
+- 欧洲STOXX 600指数初步收涨0.82%，报579.99点。
+欧元区STOXX 50指数初步收涨0.35%，报5525.01点。
+富时泛欧绩优300指数初步
+- 提醒：美联储主席鲍威尔讲话结束。
+- 鲍威尔：所有人都忽视我对美国赤字问题的警告。
 其他:
-- 七国集团（G7）：各国央行坚定致力于价格稳定。
-- 封装设备供应商华封科技新一轮估值突破10亿美元
-- 阿斯利康罕见病创新药在华获批
-- 美国驻委内瑞拉大使馆恢复运作
-- 纳指转跌，标普500指数涨幅收窄至0.1%，道指涨幅收窄至0.4%。
-- 房利美、房地美大涨，Ackman称房利美和房地美便宜得离谱
-- 东鹏饮料：2025年净利润44.15亿元，同比增长32.72%。
-- 马士基称无人机袭击对阿曼港口的影响区域“有限”
-- 韩国人工智能（AI）芯片初创公司Rebellions按23.4亿美元估值融资4亿美元。
-该公司的投资者包括三星，计划利用这笔资金来扩大美国业务。
-该公司对标英伟
-- 北美科技软件股指数ETF一度涨约2.1%，报78.50美元。
+- 鲍威尔：目前，美联储的货币政策适合保持观望立场。
+- 3月30日，vivo发布vivo X300系列全新旗舰手机——vivo X300 Ultra、vivo X300s，其中vivo X300 Ultra起售价为6
+- 彭博美元指数涨幅扩大，创11月26日以来新高。
+- 欧元/美元日内跌幅达0.5%，报1.145。
+- 鲍威尔：美国经济依然充满活力且富有生产力。
+对中长期前景持乐观态度。
+目前劳动力市场面临挑战。
+- 鲍威尔：美联储是一个“伟大的美国机构”。
+- 内盘期货夜市涨跌各异，棕榈油收涨超2.1%，低硫燃油跌约3.4%，焦煤跌超2.2%
+- 伊朗谴责美以袭击运载医疗物资的民用飞机
+- Boston Scientific跌幅扩大至10%。
+- 以军称打击1600公里外的伊朗防空设施
 
 ## SCMP (EN/中)
 头版/首屏:
+- Will Iran’s strikes on Gulf smelters strengthen China’s aluminium dominance?
+- How the Iran war could pave the way for the rise of China’s ‘petroyuan’
+- Big Tech
 - Xiaomi, Alibaba ramp up AI recruitment amid global talent war
-- Alibaba debuts what it calls most powerful CPU core of its kind
 - Diplomacy
 - Why Trump needs a short-term win in Iran before he visits Xi in China
-- Science
-- From Mach 0 to 6: this engine may power China’s future fighter jets and missiles
-- US senators visit Taiwan to push defence spending as arms deadlines loom
-- ‘Lighthouses in space’: the Chinese jam-proof satellite network to fill GPS gaps
+- Tech Trends
+- Biren, Iluvatar CoreX post triple-digit revenue growth as AI chip race heats up
 其他:
+- Analysts say disruption at plants could shift more output to China, which already produces more than half of global supply.
 - AI-related positions account for more than 80 per cent of Alibaba’s open roles, up from around 60 per cent last year.
 - A surge in US service members in the Middle East suggests the makings of a protracted and low-intensity conflict, analysts say.
-- Revolutionary engine prototype three decades in the making could replace combined turbine-ramjet systems in high-speed flight.
-- The trip signals Washington’s frustration with budget impasse, but analysts say real power over Taiwan policy rests with the White House.
+- Other Chinese AI chipmakers, including Cambricon, Moore Threads and MetaX, also posted stellar revenue growth for 2025.
+- ‘Lighthouses in space’: the Chinese jam-proof satellite network to fill GPS gaps
 - China steps up North Korea connections as regular Pyongyang flights resume
 - Air China flight arrives in North Korea days after passenger train services between the neighbours were restored.
-- Global Economy
-- Explainer | How the Hormuz attacks stoke oil-shock fears and memories of 1970s stagflation
-- A timeline of past oil shocks is seen offering ‘clear lessons’ for today’s Strait of Hormuz crisis, with an eye on ripple effects and contingency tools.
-- ‘To do something nobody’s done’: physicist Zhu Zijie leaves Europe for China
+- Science
+- From Mach 0 to 6: this engine may power China’s future fighter jets and missiles
+- Revolutionary engine prototype three decades in the making could replace combined turbine-ramjet systems in high-speed flight.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -139,13 +140,14 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 就业数据: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 黄金/大宗: Benzinga (EN)
-- 美联储: 华尔街见闻 (简中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美国关税: Yahoo Finance (EN)
+- 加密货币: Yahoo Finance (EN)
+- 就业数据: Yahoo Finance (EN)
+- 黄金/大宗: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
