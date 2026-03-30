@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026033018
+抓取时间: 2026033019
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 3h 18m
+- U.S. markets open in 1h 40m
 - US stock futures rise ahead of shortened week and jobs report
 - The shift from oil isn't just about being 'green' anymore
 - Meta and Google's social media addiction legal troubles aren't over
+- Iran's grip on Hormuz is tighter than ever after a month of war
 - Iran's attacks on Mideast aluminum plants threaten supply crisis
 - Gold finds footing near $4,500 as Iran war enters fifth week
 - Oil gains as Iran war escalates with Houthi attacks on Israel
-- Nvidia's PE sinks to seven-year low as war and AI angst weigh
 其他:
 - Trump claims Iran gave in to US demands, considers seizing oil
-- Morgan Stanley's Wilson: S&P 500 correction nears end stage
-- US, Israel keep up strikes on Iran after troops arrive in region
-- JPMorgan, Pimco Say Bond Market Is Misjudging Slowdown Risk
+- Starcloud reaches $1.1B valuation as AI space race heats up
+- Goldman traders see signs hedge funds are capitulating on stocks
+- Swiss cling on to cash as survey shows payment app use stalling
+- Plastic is the hidden cost of the war in Iran
+- Airbus Helicopters CEO expects oil rally to accelerate H225 comeback
 - Oil climbs above $116 after Trump says he wants to ‘take the oil’ in Iran
+- JPMorgan, Pimco Say Bond Market Is Misjudging Slowdown Risk
 - Government Bonds Rally Around the World on Slowdown Concerns
-- Falling Yields Lift Stocks as Rate-Hike Bets Ease: Markets Wrap
-- WTO suffers fresh blow as reform push hits a wall at Cameroon meeting
-- 3 graphics show how the war in Iran is roiling markets
-- Japan Stocks Fall as Oil Risk Heightens on Escalating Iran War
+- Almost everything is going wrong for markets right now
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,66 +77,64 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- W. P. Carey's Dividend Buffer Looks Solid — The Refinancing Spread Is The Variable Worth Watching
-- Trump's SALT Cap Hike Delivers Bigger Refunds To Blue-State Taxpayers
-- Why Nvidia And Tesla Are Suddenly Knocking On Samsung's Door
-- Michael Burry, Bill Ackman Highlight 'Rare,' 'Stupidly Cheap' Opportunity In Fannie & Freddie: 'Ignore The Bears'
-- PV Cell Maker Yingfa Ruineng Seeks Hong Kong IPO, Backed By China's National Green Fund
+- Wall Street's Most Accurate Analysts Spotlight On 3 Financial Stocks With Over 12% Dividend Yields
+- This Live Nation Entertainment Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Monday
+- EXCLUSIVE: Virtuix Expands Military Presence With US Navy Research Agreement
+- Wall Street's Getting Nervous: Expert Warns Stocks Could Drop 25% If $150 Oil Scenario Slams Markets Hard
+- 5 Stock Picks Last Week From Wall Street's Most Accurate Analysts
 - Stock Market Today: S&P 500, Dow Futures Gain As Trump Calls Iran's New Leaders 'Very Reasonable'—Palantir, Rezolve AI, Entera Bio In Focus
 - Mark Cuban
 - Donald Trump
+- Why Are CleanSpark Shares Surging On Monday?
 - Bitcoin, Ethereum, XRP, Dogecoin Move Sideways Amid Possible US Invasion Of Iran: Analyst Says 'Billion-Dollar' Trades Flooding Back To BTC And ETH
-- STAG Industrial Has A 38% Dividend Buffer — The 4.8-Year Debt Ladder Is The Variable Worth Watching
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 带崩全球存储股的谷歌论文陷学术争议，中国学者指其“严重失实”且“知错不改”：使用了我们的方法，但刻意回避相似性
-- 以色列称海法炼油厂综合设施遭袭 未造成危险物质泄漏
-- 爱奇艺拟在港交所上市
-- 交通银行就利润分配方案公告存在文字错误致歉
-- 交易员：印度央行可能出售了美元以遏制卢比贬值。
-- 剑桥科技：2025年净利润2.6亿元，同比增长58.08%
-- 方正证券：2025年净利润39.7亿元，同比增长79.85%。
-- 伊拉克空军基地遭袭 一运输机被击毁
-- 中注协提示防范频繁变更审计机构的上市公司年报审计风险
-- 佩斯科夫：俄愿向古巴供应石油
-- 投资便利化协定参加方发布联合部长宣言，宣布启动协定实施
-- 赛力斯：拟以10亿元-20亿元回购股份，拟回购价格不超过人民币150元/股。
+- 应对油价飙升 澳大利亚宣布燃油税减半三个月
+- 现货黄金日内涨幅达1.5%，报4566.08美元/盎司。
+- 伊朗议会正研究退出《不扩散核武器条约》问题
+- 珠城科技：拟以5000万元-1亿元回购股份，回购股份的价格不超过人民币85.22元/股。
+- 澜起科技：2025年归母净利润同比增长58.35%，拟10派3.9元
+- 创历史！张雪机车获WSBK两连冠
+- 叙利亚多处军事基地遭袭
+- 特朗普威胁“彻底摧毁”伊朗所有发电厂、油井及哈尔克岛
+- 美股期货走高，纳斯达克100指数期货涨0.7%，道指期货涨0.7%，标普500指数期货涨0.7%。
+- 【中际旭创：2025年净利润107.97亿元，同比增长108.78%】中际旭创公告，2025年营业收入382.4亿元，同比增长60.25%。净利润107.97亿
+- 碧桂园全年营收1,548.9亿元人民币，预估1,422.9亿元人民币；全年净利润32.6亿元人民币，上年同期亏损328亿元人民币。
+- 明阳电气：华慧咨询拟减持不超过1.23%。
 其他:
-- 上期所：对部分客户采取限制开仓监管措施
-- 中国船舶：下属子公司签订80亿至90亿元船舶建造合同
-- 现货白银日内涨幅达2.0%，报71.1美元/盎司；纽约银日内涨幅达2.0%，报71.19美元/盎司。
-- 赛诺医疗：筹划发行H股股票并在香港联合交易所有限公司上市。
-- 世贸组织第14届部长级会议闭幕 达成数项务实成果
-- 科兴制药：GB19注射液获得美国FDA新药临床试验许可。
-- 伊朗代理防长：伊将继续“全力惩罚侵略者”
-- 高凌信息：拟通过发行股份及支付现金的方式向史焱、李江华、绵阳兴绵、闻名泉盛、镇江星路达、江苏高投、曾云兰、闻名泉升、梁溪科创产投一期、梁溪科创产投二期、南通弘讯
-- 爱奇艺发布“纳逗Pro” 全国首个专业影视制作智能体上线
-- 欧盟文件显示：欧盟能源部长将于周二讨论欧盟应对中东局势的能源协调方案。
-欧盟现阶段在能源供应安全方面仍相对有保障。
-当前形势要求在能源问题上采取协调行动，并在欧
+- 卡塔尔中央银行推出一揽子预防性支持措施
+- 安琪酵母：2025年归母净利润同比增长16.6%，拟10派5.5元
+- 节卡机器人获新一轮股权融资 临港数科基金领投
+- 美债扩大涨幅，10年期收益率下跌5个基点至4.37%。
+- 伊朗最高领袖发文悼念革命卫队海军司令
+- 力箭二号遥一运载火箭发射成功。（央视）
+- 中国银行副行长杨军：到期的定期存款大部分仍以存款形式留存
+- 古屋圭司同“台独”分裂势力勾连滋事 国台办：依法反制！
+- 伊朗实施“真实承诺-4”第87轮行动 打击美以多处军事目标
+- 伊朗重申回应行动不针对地区国家 呼吁各方保持审慎立场
 
 ## SCMP (EN/中)
 头版/首屏:
-- China steps up North Korea connections as regular Pyongyang flights resume
-- Air China to resume North Korea flights after 6 years amid warming ties
+- ‘To do something nobody’s done’: physicist Zhu Zijie leaves Europe for China
+- From years to a week: China’s superfast software for hypersonic weapon design
 - Diplomacy
-- EU’s flagship Africa project under fire over ties to Chinese state-owned firms
-- Politics
-- Taiwan KMT leader to visit mainland China to aid ‘peaceful’ relations: Beijing
+- China steps up North Korea connections as regular Pyongyang flights resume
+- China Economy
+- How China’s massive pig farms created a serious pork supply glut
 - Society
 - Hong Kong eases rules for Wang Fuk Court residents retrieving belongings
 其他:
+- Rising star scientist returns to China to undertake cutting-edge research in the field of cold atoms.
 - Air China flight arrives in North Korea days after passenger train services between the neighbours were restored.
-- Lawmakers demand to know where over US$2.3 billion in funds is going in venture meant to wean off Beijing’s critical minerals chokehold.
-- Cheng Li-wun invited to visit Jiangsu province, Shanghai and Beijing next month.
+- Vast hog farms – some rising 26 storeys high – have caused China’s pig herd to swell, but consumers dislike the industrially produced meat.
 - Displaced residents of fire-hit blocks may be allowed repeated trips to flats after authorities soften stance on three-hour limit.
 - ‘Lighthouses in space’: the Chinese jam-proof satellite network to fill GPS gaps
 - Middle East
 - Trump claims ‘regime change’ achieved in Iran, predicts deal ‘soon’
 - The US president hints at a looming deal even as thousands of US marines arrive in the region, reportedly for ground operations.
-- Banking & Finance
-- BOCHK reports 5% net profit growth for 2025 on bad debt exposure
+- Politics
+- Taiwan KMT leader to visit mainland China to aid ‘peaceful’ relations: Beijing
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -169,13 +167,12 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 加密货币: Benzinga (EN)
 - 就业数据: Yahoo Finance (EN)
-- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
