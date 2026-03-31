@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026033114
+抓取时间: 2026033116
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,7 +44,7 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 6h 39m
+- U.S. markets open in 5h 27m
 - Musk escalates feud with Delaware judge over 'heart' on a LinkedIn post
 - Powell: No threat of private credit 'contagion,' rates in a 'good place'
 - Trump tells aides he is willing to end Iran war without reopening Hormuz
@@ -56,13 +56,13 @@
 - US stock futures soar as Trump states war may end with Hormuz shut
 - Crypto exchange KuCoin pays CFTC $500,000 to end civil case
 - Spice giant McCormick nears huge deal with Hellmann's maker Unilever
+- Helium stocks of South Korea's chipmakers to last until June, sources say
+- Nebius furthers European expansion with $10 billion AI data centre in Finland
 - Big Tech's $635 billion AI spending faces energy shock test, S&P Global says
 - Raspberry Pi reports better-than-expected 25% rise in full-year earnings
 - Iran Strikes Fully Laden Kuwait Oil Tanker in Dubai Port
 - Chinese satellite maker GalaxySpace starts IPO process
 - Soaring fuel prices drive German far-right calls for a turn back to Russia
-- Japan brands yen falls as 'speculative' as Iran war ignites sell-off
-- Microsoft plans $1 billion investment in Thailand, Thai government says
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,11 +77,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- 'Tiger King' Fame Joe Exotic's Appeal Turned Down By Supreme Court — Here's What Happened To His Namesake TKING Crypto
-- Australia Flags Instagram, TikTok And Google For Potential Violations Of World's-First Under 16 Social Media Ban: 'Some May Not Be Doing Enough…'
-- Pentagon Denies 'Fabricated' Report Of Pete Hegseth Considering Multimillion-Dollar Defense Investment Before Iran War
-- TSMC's Supply Squeeze Through 2028 Could Be This Chipmaker's Big Break As AI Demand From Nvidia, Apple Surges
-- Nio CEO William Li Sits Down With Qualcomm China Chair: Cars Are the 'Core Engine' Pushing AI Forward — Here's Why
+- Iran War Pushes Pump Prices Over $4 On Average: What Would Federal Gas Tax Suspension Mean For Drivers?
+- Crypto Exchange KuCoin Settles Case With CFTC— $500,000 Fine, No Unregistered Users In US Allowed
+- US-Iran War Updates March 31: No Oil Spill From Kuwait Tanker, Iran Arrests Two Over Data Leak, Pakistan Flags Complex Peace Talks
+- Nasdaq Dips 150 Points Amid Gain In Oil Prices: Fear & Greed Index Remains In 'Extreme Fear' Zone
+- McCormick, Allbirds And 3 Stocks To Watch Heading Into Tuesday
 - Dow Futures Down 106 Points, Oil Prices Cross $105; US Paratroopers Reportedly Arrive In Middle East While Iran Calls Ceasefire Terms 'Unrealistic'
 - Mark Cuban
 - Donald Trump
@@ -90,57 +90,58 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 霍尔木兹航运受阻，大量日本二手车被困海上
-- 四川发行10年期一般债地方债，规模20.9048亿元，发行利率1.9200%，边际倍数1.23倍，倍数预期1.98；
-四川发行5年期其他专项地方债，规模1.65
-- 提高准入门槛 强制性产品认证管理办法征求意见
-- 法国2月PPI环比 -0.2%，前值 0.5%。
-- 法国2月PPI同比 -2.4%，前值 -2.3%。
-- 法国2月家庭消费支出环比 -1.4%，预期 -0.3%，前值 0.5%。
-- 法国3月CPI环比初值 0.9%，预期 0.9%，前值 0.6%。
-- 法国3月CPI同比初值 1.7%，预期 1.6%，前值 0.9%。
-- 法国3月调和CPI环比初值 1.1%，预期 1%，前值 0.7%。
-- 法国3月调和CPI同比初值 1.9%，预期 1.9%，前值 1.1%。
-- 法国2月家庭消费支出同比 -1.5%，前值 0.4%。
-- A股锂电池板块震荡走弱，亿纬锂能跌超10%，蔚蓝锂芯、维科技术、欣旺达、博力威、派能科技跌幅居前。
+- 日本央行在第二季度按计划减少债券购买规模。
+- 伦敦金属交易所(LME)：铜库存减少175吨，镍库存减少48吨，铝库存减少1900吨，锡库存增加35吨，锌库存减少775吨，铅库存减少1300吨。
+- 巴基斯坦KSE-100指数涨2%，报149838.80点。
+- 前德意志银行经理起诉该行 索赔至少6.24亿美元
+- 欧洲央行管委Muller：未来几季利率可能上升。
+若能源价格长期居高不下，欧洲央行就必须采取行动。
+欧洲央行的基准情景目前可能偏向乐观。
+- 日本金属生产商三菱材料株式会社将收购美国印第安纳州ReElement Technologies Corp.的股份，旨在使稀土成为自己的一个核心业务。（彭博）
+- 德国3月失业率 6.3%，预期 6.3%，前值 6.3%。
+- 德国3月失业人数变动 0万人，预期 0.2万人，前值 0.1万人。
+- 自伊朗冲突爆发以来 全球央行已抛售815亿美元的美债
+- 南非主要股指涨1%，报113,546.40点。
+- 新加坡航空取消5月31日前所有新加坡往返迪拜的航班。
+- 以媒称以色列决定停止从法国采购安全装备
 其他:
-- 成都5宗宅地26.23亿元成交
-- 截至当地时间下午3:30，韩元兑美元在境内交易中收于1530.1，这是自2009年3月9日以来的最弱水平。
-- 日经225指数、韩国首尔综指3月跌幅均创下自2008年10月以来最大月度跌幅
-- 沪指再度失守3900点，下跌0.60%，创业板指跌超2%，深成指跌超1.4%，全市场超4200家个股下跌，煤炭、风电、化工板块领跌。
-- 高盛仍看涨黄金 预计年底前金价将达到5400美元
-- 伊朗称已击落146架敌方无人机
-- 韩国首尔综指一度跌4.4%，自2月份高点已回落约20%
-- 浙江三澳核电项目二期排水隧洞工程进入主体掘进阶段
-- 以军称完成对德黑兰新一轮空袭，打击伊朗政权设施
-- 迪拜方面称，涉及科威特油轮的事故已得到控制。
+- 美国汽车协会称，美国平均零售汽油价格上涨至每加仑4美元以上。
+- 集邦咨询：AI服务器需求支撑第二季度存储器合约价上行，CSP借长期协议锁定供货
+- 大商所：修改豆油、棕榈油期货合约以及期货业务细则
+- 上期所公布2026年清明节期间有关工作安排
+- 上期能源公布2026年清明节期间有关工作安排
+- 欧洲议会一代表团访华，外交部：将推动中欧立法机构交流合作
+- 以军称伊朗发射携带集束弹头的导弹 伊朗方面暂无回应
+- 外交部谈美以袭击伊朗重水工厂：坚决反对武装攻击接受国际原子能机构保障监督的和平核设施
+- 阿联酋迪拜传出爆炸声
+- 美军中央司令部司令访问以色列
 
 ## SCMP (EN/中)
 头版/首屏:
-- China and Kenya partner to finish ‘most consequential’ rail project
-- EU’s flagship Africa project under fire over ties to Chinese state-owned firms
+- Europe urged to ‘learn to fight for itself’ in case US-China truce collapses
+- Europe’s crisis tourism: how the Iran war swallowed the EU’s geopolitical agenda
+- Diplomacy
 - China Economy
 - Amid soaring airfares, Chinese bookings up 20% ahead of Ching Ming holiday
-- Diplomacy
-- Born in the USA? China targeted in Trump’s birthright citizenship fight
-- Tai Po fire hearing: management company unaware of alarm system shutdown notice
-- Europe’s crisis tourism: how the Iran war swallowed the EU’s geopolitical agenda
+- Tai Po fire hearing: contractor failed to conduct inspections since March 2025
+- China and Kenya partner to finish ‘most consequential’ rail project
+- Middle East
 其他:
-- New financing breathes life into long-stalled Standard Gauge Railway extension across African country at estimated cost of US$5.4 billion.
+- European Council on Foreign Relations calls for Brussels to be prepared and ‘not wait until the next crisis hits’.
+- From trade with China to the Middle East conflict and resulting energy shock, Brussels’ agenda has been repeatedly knocked off course.
 - Global instability fails to deter Chinese holidaymakers with airlines selling 2.04 million tickets in the lead-up to Ching Ming Festival.
-- As Supreme Court decision looms, Chinese nationals find themselves at the centre of disputed core constitutional issue: who is an American?
-- Technical officer at ISS EastPoint told fire services contractor it was under pressure by authorities to issue certificate for new equipment.
-- Asia
-- Cambodia’s scam industry exodus, Jollibee’s diaspora effect: 7 Asia highlights
-- From Cambodia’s scam industry exodus to Jollibee’s meaning to overseas Filipinos, here are a few highlights from SCMP’s recent Asia reporting.
-- Politics
-- Names and games: Taipei hits back over ‘China’ label, but will it pay off?
-- Taiwan retaliates against countries that have changed its name in official systems, but analysts and lawmakers warn measures could backfire.
+- Contract between Victory Fire and property management company ISS EastPoint stipulated that the safety system had to be inspected quarterly.
+- After early anger, Gulf allies press Trump for final blow to Iran
+- The UAE, Kuwait and Bahrain are pushing hard for Trump to order a ground invasion of Tehran, according to a diplomat.
+- Banking & Finance
+- Hong Kong tycoon-backed start-up raises US$300 million to scale battery push
+- The California-based firm will use new funding to scale manufacturing and expand globally, with Hong Kong anchoring its regional push.
+- Economics
 
 ## 经济通 (繁中)
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
-- 多间内银减派末期息却逆市造好，波动市下防守性仍强
+- 中银香港去年业绩符预期增派息，大行升目标股价飙半成
 - 消博会下月海南举行 逾3400个品牌参展
 - 科威特发电厂严重损坏 控伊侵略
 - 解压饺子奇袭Labubu，内存压缩狙击美光
@@ -152,9 +153,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数24598.62-152.17(-0.61%)
+- 恒生指数24747.51-3.28(-0.01%)
                     etnet.com.hk@copyright
-- 国企指数8324.42-74.70(-0.89%)
+- 国企指数8365.21-33.91(-0.40%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -164,17 +165,17 @@
 - 吃喝玩乐
 
 ## 智通财经 (简中)
-（抓取失败: curl exit 0, len=498）
+（抓取失败: curl exit 28, len=0）
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
 - 加密货币: Yahoo Finance (EN), Benzinga (EN)
 - 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), Benzinga (EN)
 - 就业数据: SCMP (EN/中)
-- 美联储: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
