@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026033023
+抓取时间: 2026033112
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 4h 10m
-- US stocks rise ahead of shortened week and jobs report
-- Trump threatens Iran energy sites, Kharg Island amid war
-- Ducati's $165K 'no limits' Superleggera motorcycle has sold out
-- Bessent: US to 'retake' Hormuz Strait control
-- Americans have spent an extra $8B in gasoline since the start of Iran war
-- Why Nvidia has the most important stock chart in the world
-- Why Goldman Sachs says China's better than the US in handling oil shock
+- U.S. markets open in 9h 15m
+- Musk escalates feud with Delaware judge over 'heart' on a LinkedIn post
+- Powell: No threat of private credit 'contagion,' rates in a 'good place'
+- Trump tells aides he is willing to end Iran war without reopening Hormuz
+- Gold boosted by Fed rate-cut bets, report on Trump war comments
+- Oil turns lower on report US may end war without Hormuz opening
+- Crypto exchange KuCoin pays CFTC $500,000 to end civil case
+- Spice giant McCormick nears huge deal with Hellmann's maker Unilever
 其他:
-- 2 reasons oil prices are surging as Iran war enters 5th week
-- Oil, markets jittery after Trump floats idea to 'take the oil in Iran'
-- Trump to take steps in opening retirement funds to private markets
-- Italy data protection agency fines Intesa Sanpaolo $36 million over data breach
-- Americans’ expectations for inflation will shape Fed’s response to Iran war, Powell says
-- Tax refunds up nearly 11%, with over 37 million Americans cashing in on new tax breaks
-- 7 things to know about Schwab's new brokerage account for teenagers
-- US Department of Labor issues 401k guidelines on private assets
-- Bessent says nearly half of US tax filers claim new deductions in Republican tax law
-- GM to increase heavy-duty truck production, WSJ reports
+- US stock futures soar as Trump states war may end with Hormuz shut
+- Crypto stocks at 'big discounts,' may be near bottom: Bernstein analysts
+- Big Tech sports broadcast rights could hurt local TV news: Stations
+- US vows to seek WTO alternatives after Cameroon meeting fails to renew e-commerce moratorium
+- JPMorgan Sees Australia IPO Demand Resilient to Stock Turmoil
+- Air Canada CEO will retire this year after his English-only crash message was criticized
+- Iran Strikes Fully Laden Kuwait Oil Tanker in Dubai Port
+- China establishes data organisation aimed at global industry consensus
+- Samsung SDI to lend $1.05 billion to Stellantis JV StarPlus Energy
+- Australia central bank uncertain on path for rates after March hike
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,79 +77,76 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Tonix Pharmaceuticals Stock Hits New 52-Week Low: What's Driving The Action?
-- MoonLake Says Lead Drug Shows Durable Response, Eyes FDA Filing
-- Alcoa Surges 11% After Iran Claims Aluminum Plant Attacks
-- Legence Analysts Boost Their Forecasts After Q4 Results
-- Ripple CEO Brad Garlinghouse Warns Against Another 'Gary Gensler Moment'
-- Trump's Iran War Just Triggered A Second Shockwave — This One Is In The Bond Market
+- Adam Schiff Says 'ICE Agents Shouldn't Be At Our Airports,' Launches Senate Inquiry After Woman And Daughter Detained At San Francisco Airport
+- Iran, Russia Using Crypto To Buy Military Drones? Report Reveals E-Commerce Platforms Used To Sell Equipment To 'Opaque' Identities
+- Ron DeSantis Signs Bill To Rename Palm Beach Airport After Trump, Florida Republicans Hail 'Landmark Tribute' Near Mar-a-Lago
+- Mark Gurman Dismisses Apple Intelligence China Launch As Error, Points To Missing Approval And Unusual Timing
+- TikTok Founder Zhang Yiming Once Shared What Led Him To Do More In Life: Second-Richest Man In China Reveals Connection With 'Sense Of Responsibility'
+- Dow Futures Down 106 Points, Oil Prices Cross $105; US Paratroopers Reportedly Arrive In Middle East While Iran Calls Ceasefire Terms 'Unrealistic'
 - Mark Cuban
 - Donald Trump
-- After 33% Plunge, First Solar Stock Faces A Death Cross — And Here Comes Tesla
-- Why Is Viridian Therapeutics Stock Falling Monday?
+- Robinhood Reports Monthly Metrics For March With Shares Down 42% YTD
+- EXCLUSIVE: AI Turns 'Bad Leavers' Into Bigger Security Threats, RFA CRO Says
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 通用汽车美国密歇根工厂将增加加班时数，以提升燃油皮卡产量
-- 特朗普：对伊朗袭击以色列炼油厂的回应“很快到来”
-- IMF称伊朗战争将推高全球价格并拖累经济增长，或引发不对称冲击
-- 七国集团召开跨部门会议，拟在必要时协同稳定能源市场
-- 明晟公司MSCI北欧国家指数涨1.2%，创3月10日以来最大单日涨幅，报359.19点。
-在十个板块中，北欧金融板块涨幅最大。
-挪威海德鲁涨9.5%，在一众北欧
-- 伊朗指责乌克兰参与对伊军事行动
-- 美国财政部拍卖三个月期国债，得标利率3.620%，投标倍数2.66。
-拍卖六个月期国债，得标利率3.605%，投标倍数2.83。
-- 伊朗德黑兰东部发生爆炸
-- 德国DAX 30指数初步收涨0.79%，报22477.07点。
-法国股指初步收涨0.71%，意大利股指初步收涨0.78%、银行指数跌0.65%，英国股指初步收涨
-- 欧洲STOXX 600指数初步收涨0.82%，报579.99点。
-欧元区STOXX 50指数初步收涨0.35%，报5525.01点。
-富时泛欧绩优300指数初步
-- 提醒：美联储主席鲍威尔讲话结束。
-- 鲍威尔：所有人都忽视我对美国赤字问题的警告。
+- 国泰海通：华安和海富通基金整合方案正在推进，将产生很好的协同效应
+- 富力地产发布盈利预警公告，全年净亏损初步数据大约166亿元人民币。
+- 九部门：到2028年，物联网核心产业规模突破3.5万亿元
+- 台湾证交所加权股价指数下跌2%至31,865.53点。
+- 伊朗首都德黑兰东部已恢复电力供应
+- 两艘中国巨轮顺利通过霍尔木兹海峡
+- 日本拍卖两年期国债，认购倍数3.54，过去12个月均值3.59。
+- 韩国提议追加26.2万亿韩元预算，应对伊朗战争冲击。
+- 以军称4名士兵在黎巴嫩南部死亡
+- 上证指数早盘收报3908.28点，跌0.38%。
+深证成指早盘收报13526.96点，跌1.45%。
+创业板指早盘收报3196.23点，跌2.36%。
+沪深30
+- 英国对华挖掘机发起反吸收调查
+- 3月31日午间收评：创业板指半日跌超2%，算力硬件股集体调整
 其他:
-- 鲍威尔：目前，美联储的货币政策适合保持观望立场。
-- 3月30日，vivo发布vivo X300系列全新旗舰手机——vivo X300 Ultra、vivo X300s，其中vivo X300 Ultra起售价为6
-- 彭博美元指数涨幅扩大，创11月26日以来新高。
-- 欧元/美元日内跌幅达0.5%，报1.145。
-- 鲍威尔：美国经济依然充满活力且富有生产力。
-对中长期前景持乐观态度。
-目前劳动力市场面临挑战。
-- 鲍威尔：美联储是一个“伟大的美国机构”。
-- 内盘期货夜市涨跌各异，棕榈油收涨超2.1%，低硫燃油跌约3.4%，焦煤跌超2.2%
-- 伊朗谴责美以袭击运载医疗物资的民用飞机
-- Boston Scientific跌幅扩大至10%。
-- 以军称打击1600公里外的伊朗防空设施
+- 国债期货早盘收盘，30年期主力合约涨0.11%，10年期主力合约涨0.06%，5年期主力合约涨0.03%，2年期主力合约涨0.00%。
+- 印度尼西亚总统： 印尼邀请日本在关键矿产、稀土、可再生能源及核能领域开展合作。
+- 复星国际郭广昌为公司亏损致歉：并非经营基本面恶化
+- 日本首相高市早苗：与印度尼西亚签署了关键矿产协议。
+印度尼西亚是重要的合作伙伴，双方已就加强经济和安全合作达成一致。
+与印度尼西亚达成一致，将在能源安全方面保持
+- 创业板指跌超2%，沪指跌0.2%。煤炭、油气、农业、化工、半导体等方向跌幅居前，个股跌多涨少，沪深京三市下跌个股超3500只。
+- 韩国将为炼油企业进行石油储备互换
+- 伊朗官员：没有为敌对国家运送货物的船只通过霍尔木兹海峡
+- 农发行发行5年期债券，规模60亿元，发行利率1.6195%，预期1.6100%，投标倍数3.93倍，边际倍数5.70倍。
+- 伊朗首都德黑兰部分地区停电
+- 美一颗“星链”卫星失联 太空碎片监测中
 
 ## SCMP (EN/中)
 头版/首屏:
-- Will Iran’s strikes on Gulf smelters strengthen China’s aluminium dominance?
-- How the Iran war could pave the way for the rise of China’s ‘petroyuan’
-- Big Tech
-- Xiaomi, Alibaba ramp up AI recruitment amid global talent war
+- Amid soaring airfares, Chinese bookings up 20% ahead of Ching Ming holiday
+- Luxury brands bet on growth as well-heeled tourists flock to Hong Kong events
 - Diplomacy
-- Why Trump needs a short-term win in Iran before he visits Xi in China
-- Tech Trends
-- Biren, Iluvatar CoreX post triple-digit revenue growth as AI chip race heats up
+- Born in the USA? China targeted in Trump’s birthright citizenship fight
+- Politics
+- Names and games: Taipei hits back over ‘China’ label, but will it pay off?
+- Tai Po hearing: contractor asked to reactivate safety system 5 days before blaze
+- Europe’s crisis tourism: how the Iran war swallowed the EU’s geopolitical agenda
 其他:
-- Analysts say disruption at plants could shift more output to China, which already produces more than half of global supply.
-- AI-related positions account for more than 80 per cent of Alibaba’s open roles, up from around 60 per cent last year.
-- A surge in US service members in the Middle East suggests the makings of a protracted and low-intensity conflict, analysts say.
-- Other Chinese AI chipmakers, including Cambricon, Moore Threads and MetaX, also posted stellar revenue growth for 2025.
-- ‘Lighthouses in space’: the Chinese jam-proof satellite network to fill GPS gaps
-- China steps up North Korea connections as regular Pyongyang flights resume
-- Air China flight arrives in North Korea days after passenger train services between the neighbours were restored.
-- Science
-- From Mach 0 to 6: this engine may power China’s future fighter jets and missiles
-- Revolutionary engine prototype three decades in the making could replace combined turbine-ramjet systems in high-speed flight.
+- Global instability fails to deter Chinese holidaymakers with airlines selling 2.04 million tickets in the lead-up to Ching Ming Festival.
+- As Supreme Court decision looms, Chinese nationals find themselves at the centre of disputed core constitutional issue: who is an American?
+- Taiwan retaliates against countries that have changed its name in official systems, but analysts and lawmakers warn measures could backfire.
+- Fire services equipment contractor tells committee he filed certificate with authorities that failed to flag Wang Fuk Court’s faulty water tanks.
+- Chinese culture
+- The origin of triads, from secret societies to global criminal networks
+- While Hong Kong triads are now known for their criminal enterprises, their roots lie in secret societies that stretch back hundreds of years.
+- China and Kenya partner to finish ‘most consequential’ rail project
+- New financing breathes life into long-stalled Standard Gauge Railway extension across African country at estimated cost of US$5.4 billion.
+- Ahead of first Philippine visit since WWII, Japan’s past catches up with troops
 
 ## 经济通 (繁中)
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
-- 去年业绩逊预期惟海外销量倍增，比亚迪股价先急跌后升
-- 专家劝青年买房 惹社会各方热议
-- 美国反特示威再起 号称800万参与
+- 多间内银减派末期息却逆市造好，波动市下防守性仍强
+- 消博会下月海南举行 逾3400个品牌参展
+- 科威特发电厂严重损坏 控伊侵略
 - 解压饺子奇袭Labubu，内存压缩狙击美光
 - 指数环球商品外汇
 - 国金观点
@@ -159,9 +156,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数24750.79-201.09(-0.81%)
+- 恒生指数24690.83-59.96(-0.24%)
                     etnet.com.hk@copyright
-- 国企指数8399.12-54.65(-0.65%)
+- 国企指数8353.31-45.81(-0.55%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -175,14 +172,13 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 美国关税: Yahoo Finance (EN)
-- 加密货币: Yahoo Finance (EN)
-- 就业数据: Yahoo Finance (EN)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 就业数据: Benzinga (EN), SCMP (EN/中)
 - 黄金/大宗: Yahoo Finance (EN)
+- 美联储: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
