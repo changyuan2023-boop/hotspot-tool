@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026033122
+抓取时间: 2026033123
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 5h 40m
-- Powell issues an 'essential' reminder about inflation expectations
-- Brent oil pacing for record monthly rally
-- Dimon plans small business lending, hiring push to shore up American Dream
-- Will $6 gas in California send Costco stock ripping higher?
-- Micron continues slide, despite massive data center demand
-- Rotate European portfolios to prepare for stagflation risk: Goldman
-- Amazon, Delta team up for in-flight Wi-Fi, challenging Musk's Starlink
+- U.S. markets close in 4h 14m
+- Warren Buffett says he's still making investments for Berkshire Hathaway
+- Employers haven't hired this slowly since the depths of the pandemic
+- 'Uninvestable' Super Micro sends investors racing to the exits
+- Amazon inks satellite internet deal with Delta in major win over SpaceX
+- Bitcoin on the brink of its longest losing streak on record
+- Consumer confidence posts surprise gain despite inflation concerns
+- Lagarde calls Bessent out on Iran damage during G-7 video talks
 其他:
-- Stocks rise after Trump indicates flexibility on Hormuz
-- Home prices rose in January, before the Iran War pushed rates higher
-- Surging gas prices from Iran war may 'eat up' Trump tax refund checks
+- Stocks surge after Trump indicates flexibility on Hormuz
+- Virgin Galactic is booking space trips at $750,000 apiece
+- Will $6 gas in California send Costco stock ripping higher?
+- Gold alternatives? How to invest in silver, platinum, and palladium.
+- Gold Advances on Report of Trump Weighing End to Iran War
+- US Gasoline Tops $4 for First Time Since 2022 on Iran War
+- Tether cuts two gold traders hired three months ago, source says
+- Trump Tax Law’s Affordable Housing Boost Hits Snag
+- US appeals court upholds decision to dismiss Boeing criminal case
 - Meta to limit PG-13 rating use for teen accounts in Motion Picture Association deal
-- Lagarde Calls Bessent Out on Iran Damage During G-7 Video Talks
-- Virgin Galactic Is Booking Space Trips at $750,000 Apiece
-- ‘Uninvestable’ Super Micro Sends Investors Racing to the Exits
-- Barclays Predicts Growing Treasury Market Will Need Bailouts
-- Private Equity Racks Up $94 Billion Debt in 2025 to Fund Payouts
-- Infinimmune, Merck enter into antibody discovery pact
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,44 +42,51 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- M-Tron's War-Tech Boom Draws Smart Money — But Gabelli Just Cashed Out
-- Biogen Lands Two Fast-Growing Drugs In Blockbuster Apellis Deal
-- Bitcoin Holds $60K–$70K Range As Analysts Warn Gold's Rally Is Over And Worse Is Coming
-- Kevin O' Leary Was Asked Why He Wears Such 'Ridiculous Outfits' — His Response? 'I Look So Good Someone Should Put A Tariff On Me'
-- What's Going On With CrowdStrike Stock Tuesday?
-- Stock Market Today: S&P 500, Nasdaq Futures Up As Trump Hints At Iran War End Even If Hormuz Remains Closed— Allbirds, Rocket Labs, In Focus (UPDATED)
+- Amazon Stock Is Climbing Tuesday — What's Going On?
+- Apple Turns 50 — From Near Bankruptcy To $3.6T, Now The AI Test Begins
+- AT&T Aims To Boost Customer Retention With Single Billing
+- Google Billionaire Sergey Brin Has Been Quietly Spending $200M on Real Estate — Three Homes on the Same Malibu Street Is Just the Start
+- Snowflake Veteran Jonathan Beaulier Takes Reins As Revenue Chief
+- Nike Earnings Prediction Market Preview: What Will Elliott Hill Say On The Earnings Call?
 - Gas Prices
 - Gavin Newsom
-- Will Stock Market Open Up Or Down Today?
-- The 9-Minute Threat: Why Google's Bitcoin Quantum Warning Is a Wake-Up Call for Investors
+- Anthony Scaramucci Warns American Dream 'Impaired' As Mortgage Rates Hit 6-Month High
+- Amazon Stock Is Priced For A Crisis — But Is It 2008 All Over Again?
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 据港交所文件，3月31日，名创优品旗下潮玩公司TOP TOY（大潮玩国际集团有限公司）重新向港交所递交上市申请书，联席保荐人为摩根大通、瑞银集团。
-- 阿富汗过去24小时遭强降雨侵袭 致14死17伤
-- 现货白银日内涨幅达5.5%，报73.96美元/盎司。
-纽约银日内涨幅达5.0%，报74.15美元/盎司。
-- 联合利华食品业务将与味好美合并，交易额达448亿美元
-- 据美国纽约联储数据，上个交易日（3月30日，鲍威尔讲话当天）担保隔夜融资利率（SOFR）报3.63%，之前一天报3.63%。
-上个交易日有效的联邦基金利率报3.
-- 李书磊出席朝鲜劳动党九大庆祝招待会
-- 俄油轮抵港古巴
-- 美国2月JOLTS职位空缺 688.2万人，预期 689万人，前值 694.6万人。
-- 美国3月谘商会消费者预期指数 70.9，预期 68.4，前值 72。
-- 美国3月谘商会消费者现况指数 123.3，预期 118，前值 120。
-- 美国3月谘商会消费者信心指数 91.8，预期 87.9，前值 91.2。
-- Mistral融资8.3亿美元，拟在数据中心部署英伟达芯片
+- 伊朗驻俄大使称已准备好“迎接”美军到来
+- 甲骨文裁员（至少）数千人。
+- 报道：拉加德在视频会议上向贝森特发难，质疑其对战争影响过于乐观
+- 明晟公司MSCI北欧国家指数涨0.9%，报362.26点。
+在十个板块中，北欧工业板块涨幅最大。
+应用工具制造商Sandvik AB（山特维克）涨3.4%，对指
+- 美国财政部拍卖六周期国债，得标利率3.645%，投标倍数2.89。
+- 德国DAX 30指数初步收涨0.75%，报22731.41点，3月份累跌约10%。
+法国股指初步收涨0.77%，意大利股指初步收涨1.23%、银行指数涨1.40
+- 欧洲STOXX 600指数初步收涨0.66%，报584.55点，3月份累跌约7.8%。
+欧元区STOXX 50指数初步收涨0.84%，报5588.14点，3月份
+- 以军称摧毁黎巴嫩境内180个真主党发射装置
+- 美元兑日元跌0.5%，报158.91。
+- 铠侠再发停产通知
+- 伊朗称使用无人机打击以色列境内科技公司
+- Prosus于3月23日当周按均价40.2522欧元回购股票264.3733万股，合计1.064亿欧元（折合超1.230亿美元）。
+Naspers同期按均价88
 其他:
-- 美股涨幅扩大，纳指涨超2%，标普500指数涨1.6%，道指涨1.4%。
-- 美以袭击伊朗最大岛屿
-- 提醒：北京时间22:00，将公布美国3月谘商会消费者信心指数、美国2月JOLTS职位空缺。
-- 美军称摧毁伊朗海军序列中所有“贾马兰”级护卫舰
-- 中信证券首席经济学家明明：原油等商品的输入性通胀对我国物价管理也有一定挑战
-- 美国3月芝加哥PMI 52.8，预期 55，前值 57.7。
-- 中基协：2月ABS新增备案96只，新增备案规模合计950.52亿元
-- 伊拉克宣布领空关闭时间再延长72小时
-- 北美科技软件股指数ETF美股盘初涨0.9%。
-- 英国国王查尔斯三世将于4月底访问美国
+- 美国总统特朗普宣称，对伊朗的战争不会持续“太久”。
+其他国家可以让霍尔木兹海峡重新开放。
+美国撤离后霍尔木兹海峡将自动开放。
+拒绝透露副总统万斯与特使Witko
+- 根据斯坦福大学经济政策研究所Ryan Cummings和Neale Mahoney的研究，即使考虑了其他经济影响，每当油价上涨1美元，美国密歇根大学消费者信心指
+- 低硫燃油夜盘收涨约2.9%，合成橡胶涨约2.6%，橡胶涨超1.9%。
+瓶片、塑料、螺纹钢、豆粕、热卷、苯乙烯、烧碱、PVC、沥青、菜粕、乙二醇、纸浆、焦炭夜盘至
+- 抖音发布“未来导演扶持计划”
+- 最新调查结果显示，OPEC 3月石油产量较2月下降730万桶/日，降至2020年6月以来最低水平。（路透）
+- 思科系统股价迅速转跌。
+- 爆料：美军使用“未经实战检验”导弹击中伊朗小学
+- Snap Inc.股价短线拉升，日内涨幅迅速扩大至超过9.5%，彭博援引知情人士报道称，维权投资者Irenic建仓Snap。
+- 苹果、微软、谷歌等回吐涨幅，伊朗对18家美国科技公司发出打击警告
+- 伊朗称将打击中东地区与美高科技公司有关的企业，包括惠普、苹果、谷歌、特斯拉、微软等公司
 
 ## SCMP (EN/中)
 头版/首屏:
@@ -89,19 +96,19 @@
 - China has ‘room’ for imported inflation, but economic risks rising: PBOC adviser
 - Military
 - China tests ‘heaviest cargo drone’ suited to high-altitude and island operations
-- Diplomacy
-- China pledges ‘strategic coordination’ with Pakistan to help end US war on Iran
+- Society
+- Tai Po blaze hearing: property management worker unaware fire alarms deactivated
 其他:
 - Beijing could see its regional leverage grow as the Iran war hits supply, though weaponisation of exports is unlikely, analysts say.
 - As US-Israel war with Iran sends prices up, a monetary expert says impact on China depends on conflict’s severity, while higher energy costs are worrying.
 - Designed for both military and civilian use, it has 7-tonne take-off weight and is the world’s heaviest cargo drone in full-scale flight.
-- Pakistani foreign minister arrives in Beijing amid speculation that Tehran is seeking security guarantees from China.
+- Clerk tells hearing she knew hose reel system had been shut down for months but did not know alarms would also be deactivated.
 - China and Kenya partner to finish ‘most consequential’ rail project
 - Politics
 - No deals on mainland China visit, Taiwan’s opposition KMT chairwoman warned
 - Kuomintang chair Cheng Li-wun is expected to lead a delegation to mainland China from April 7 to 12.
-- 3 Chinese ships exit Strait of Hormuz as PetroChina stresses operations stable
-- PetroChina chairman addresses annual results conference as three Chinese vessels transit Strait of Hormuz and Iran passes law on transit fees.
+- Diplomacy
+- China pledges ‘strategic coordination’ with Pakistan to help end US war on Iran
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -133,13 +140,14 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), Benzinga (EN), 经济通 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
-- 加密货币: Benzinga (EN)
-- 中国政策/两会: SCMP (EN/中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
+- 中国政策/两会: 华尔街见闻 (简中), SCMP (EN/中)
+- 就业数据: Yahoo Finance (EN)
 
 --- 粘贴结束 ---
