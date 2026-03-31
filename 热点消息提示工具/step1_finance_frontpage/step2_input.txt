@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026033118
+抓取时间: 2026033119
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,30 +9,29 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 3h 29m
-- Oil swings as report on war end and tanker attack jolt market
-- US gas prices rise above $4 for the first time since August 2022
-- Big Tech's AI spending faces energy shock test
-- Gold heads for biggest monthly drop in more than 17 years
-- Iran's attacks on Mideast aluminum plants threaten supply crisis
-- Helium stocks of South Korea's chipmakers to last until June
-- Allbirds is selling for $39 million after huge IPO
-其他:
+- U.S. markets open in 1h 48m
 - US stock futures rise after Trump indicates flexibility on Hormuz
-- Microsoft plans $1B investment in Thailand
-- Powell: No threat of private credit 'contagion,' rates in a 'good place'
-- Drone ship builder Saronic valuation more than doubles to $9 billion after funding round
-- China Seeks Better EU Ties as Lawmakers Return After Eight Years
-- US gas prices hit $4 per gallon for first time since 2022
-- Oil May Spike to $200 If Hormuz Remains Shut, Fesharaki Says
-- Dollar Wraps Up Best Month Since 2024 Amid War in Middle East
-- Exclusive-Eutelsat in talks with India's space agency to boost satellite launch options
-- Nebius furthers European expansion with $10 billion AI data centre in Finland
+- Powell issues an 'essential' reminder about inflation expectations
+- Oil swings as report on war end and tanker attack jolt market
+- Amazon, Delta team up for in-flight Wi-Fi, challenging Musk's Starlink
+- Eli Lilly to buy Centessa Pharma in $6.3 billion deal
+- JPMorgan plans to lend $80 billion to US small businesses, hire 1,000 bankers
+- Big Tech's AI spending faces energy shock test
+其他:
+- US gas prices rise above $4 for the first time since August 2022
+- Big Tech stocks struggle for safe haven appeal in Iran market fallout
+- Eurozone inflation jumps most since '22 on energy costs
+- UK to launch antitrust probe into Microsoft's business software
+- China's Zhipu posts 132% rise in annual revenue on AI boom
+- China Welcomes EU Lawmakers for First Time in Eight Years
+- FX payments startup OpenFX raises $94 million amid cross-border stablecoin push
+- Pakistan Weighs Hormuz Options After Iran Clears 20 Ships
+- Apple watch rival Whoop is raising $575 million from investors including Cristiano Ronaldo, LeBron James
+- Morning Brief: Americans paid $8 billion extra for gas this month
 
 ## Benzinga (EN)
 头版/首屏:
 - Latest News
-- Top Stories
 - QUICK LINKS
 - Markets Pulse
 - Why Is It Moving?™
@@ -41,67 +40,67 @@
 - Expert Ideas
 - UPCOMING EVENTS
 - INSIDER TRADES
+- PVH Likely To Report Higher Q4 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
 其他:
-- Why PDD Shares Rallied Even After A Mediocre Earnings Report
-- Trump's Ambassador Says Chinese EVs Will Not 'Cross The Border' Into US: 'Not Going To Open The Floodgates'
-- Stock Market Today: S&P 500, Dow Futures Jump As Trump Hints At Ending Iran War Even If Hormuz Remains Closed—Allbirds, Rocket Labs, Nebius In Focus
-- Nebius Plans One Of Europe's Biggest AI Factories In Finland
-- 'Pharma Bro' Martin Shkreli Demands Michael Saylor's Arrest for Pitching Strategy's Preferred Stock As Retirement Gold
+- EXCLUSIVE: ZenaTech Unveils 'IQ Aqua' Underwater Drone To Fight Undersea Mines
+- Why Is PepGen Stock Sinking Tuesday?
+- Why Is Hycroft Mining Stock Surging Tuesday?
+- US-Iran War Updates March 31: US-Israeli strikes In Iran's Isfahan Province Hits Military Sites, Israel Eyes Buffer Zone In Lebanon (UPDATED)
 - Mark Cuban
 - Donald Trump
-- Bitcoin, Ethereum Rally, While XRP, Dogecoin Flat Amid Trump's 'Serious' Iran Discussions: Analyst Says 'Ideal' Time To Buy Larger BTC Positions
-- 'Bad Things Happen': Market Expert Highlights Importance Of Market Falling Below 200-Day Moving Average
-- Is Bitcoin Bottoming Out?
+- 'Pharma Bro' Martin Shkreli Demands Michael Saylor's Arrest for Pitching Strategy's Preferred Stock As Retirement Gold
+- Ares Capital's Dividend Buffer Looks Intact, But Rate Sensitivity Could Shift The Narrative
+- Top Wall Street Forecasters Revamp RH Expectations Ahead Of Q4 Earnings
+- Top 3 Tech And Telecom Stocks You'll Regret Missing In March
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 工信部：1-2月份，我国规模以上互联网和相关服务企业完成互联网业务收入3179亿元，同比增长9%。
-- 2025年我国保险行业承保新能源汽车同比增长40.1%
-- 深市公司2026年一季报预约披露时间出炉 沃华医药拔得头筹
-- 全球首艘能装一万多辆汽车的运输船今天试航
-- 海亮股份：控股子公司拟投资50.5亿元建设年产6.75万吨铜箔生产线项目
-- B站AI创作产品“updream”已开启内测
-- 欧洲央行管委Muller：不能排除4月加息的可能。
-如果能源价格持续高企，可能需要加息。
-正在密切监控工资和劳动力市场。
-- 阿里通义：CoPaw 1.0正式发布
-- 英国首相：无论谁施压 我们不会被卷入中东的战争
-- 据港交所文件，腾讯控股3月31日耗资3亿60万港元回购621,000股。
-- 中国证监会主席吴清会见澳门金融管理局行政管理委员会主席黄善文
-- 美以对伊朗实施空袭，造成霍尔木兹海峡一处岛屿上的海水淡化厂受损。 (央视新闻)
+- 欧洲央行官员Radev：外部冲击正传导至价格预期。
+- 税务部门回应鞠婧祎涉税事项
+- 卡塔尔敦促中东冲突各方不要攻击能源和核基础设施
+- 特朗普：美国会记住法国“极不配合”对伊军事行动
+- 以色列防长：以将在冲突结束后继续控制黎巴嫩南部“缓冲区”
+- 我国首部政务服务领域的区域协同立法将于5月1日起施行
+- 特朗普：各国应自行去霍尔木兹海峡“抢石油”
+- 伊朗伊斯兰革命卫队称已为消耗美以实力制定长远计划
+- 一汽大众全新速腾S上市，售价7.98万元起
+- 长鑫科技、蓝箭航天等多家拟IPO公司因财报更新IPO按下“中止键”
+- 以军称将在4月1日打击伊朗“所有关键军事生产设施”
+- 中国卫通：2025年净利润4.41亿元，同比下降2.92%
 其他:
-- 智谱：2025年净亏损47.18亿元，上年同期净亏损29.58亿元
-- 波兰国防部长：不会将“爱国者”防空系统转移至中东
-- 国内航线燃油附加费4月5日起上涨5倍
-- 原油LOF易方达：将于2026年4月1日开市起至当日10:30停牌，自2026年4月1日10:30复牌，停牌期间赎回业务照常办理。
-- 伊朗称击落一架美制“卢卡斯”型无人机
-- 中国央行：要继续实施适度宽松的货币政策 促进经济稳定增长和物价合理回升
-- 中国央行：维护金融市场稳定运行，提高开放条件下经济金融管理能力和风险防控能力
-- 中国央行：发挥增量政策和存量政策集成效应，加强货币政策调控
-- 消息人士：意大利国防部拒绝美军机使用其空军基地
-- 联合国研究预计伊朗冲突恐对阿拉伯国家造成近2000亿美元经济损失
+- 沃尔核材：2025年度净利润11.44亿元 同比增长34.96%
+- 欧美股市短线走高，道指期货涨1%，欧洲斯托克600指数涨1%
+- 特朗普告诉盟国要么从美国买航空燃油，要么去霍尔木兹海峡“拿”
+- 鼎龙股份：拟发行境外上市股份（H股）并申请在香港联合交易所有限公司主板挂牌上市。
+- 山东墨龙：2025年净利润515.56万元 同比增长111.80%
+- 英国竞争与市场管理局（CMA）：CMA将针对微软的商业软件生态系统启动一项市场调查（SMS调查），将于5月开始征求意见。
+将继续与微软、亚马逊保持积极接触，以确
+- 【阳光电源：2025年净利润134.61亿元，同比增长21.97%】据阳光电源公告，2025年公司实现营业收入891.84亿元，同比增加14.55%；实现归属于
+- 以军称空袭德黑兰多处武器生产设施
+- 乌称已做好复活节停火准备 俄方回应：未见明确倡议
+- Centessa Pharmaceuticals美股盘前涨超54%，报道称礼来（Lilly）将以每股38美元加CVR（或有价值权）收购Centessa Phar
 
 ## SCMP (EN/中)
 头版/首屏:
-- South Korea turns to Russia for naphtha as Asia’s chip industry feels squeeze
-- BASF launches biggest overseas project in China with green-powered mega-site
-- Diplomacy
-- Europe urged to ‘learn to fight for itself’ in case US-China truce collapses
+- China tests ‘heaviest cargo drone’ suited to high-altitude and island operations
+- Quieter, stealthier, further: new hybrid unit to power China’s small battle drones
+- China Economy
+- 3 Chinese ships exit Strait of Hormuz as PetroChina stresses operations stable
+- Big Tech
+- Shenzhen activates China’s first 10,000-card AI cluster with domestic chips
+- Banking & Finance
+- Hong Kong retains IPO crown but may lose to US mega listings over full year
+其他:
+- Designed for both military and civilian use, it has 7-tonne take-off weight and is the world’s heaviest cargo drone in full-scale flight.
+- PetroChina chairman addresses annual results conference as three Chinese vessels transit Strait of Hormuz and Iran passes law on transit fees.
+- Hub launches new cluster built with Huawei advanced chips, delivering 11,000 petaflops of computing power in push for home-grown tech.
+- Second place for IPO funds raised is Nasdaq, with US$5.65 billion from 18 listings, while the New York Stock Exchange ranks third.
+- China and Kenya partner to finish ‘most consequential’ rail project
+- Politics
+- No deals on mainland China visit, Taiwan’s opposition KMT chairwoman warned
+- Kuomintang chair Cheng Li-wun is expected to lead a delegation to mainland China from April 7 to 12.
 - Military
 - Japan has enough plutonium to make 5,500 nuclear warheads, PLA Daily says
-- Law and Crime
-- 13 parents, businessman get up to 14 months in jail for bribing ESF employee
-其他:
-- South Korea’s return to Russian naphtha – vital for semiconductor manufacturing – highlights Asia’s fragile supply chain amid Iran conflict.
-- European Council on Foreign Relations calls for Brussels to be prepared and ‘not wait until the next crisis hits’.
-- China’s military mouthpiece claims Tokyo has ‘astonishing’ stockpile of nuclear materials and the tech to produce weapons.
-- ‘It is understandable to have high expectations for their children. But the premise is that [parents] have to obey the law,’ judge says.
-- China and Kenya partner to finish ‘most consequential’ rail project
-- China Economy
-- China sails into AI era with ambitious smart shipping targets
-- Pilot zones and more than 100 smart vessels are part of Beijing’s strategy to bolster maritime operations and address bottlenecks.
-- Middle East
-- After early anger, Gulf allies press Trump for final blow to Iran
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -134,13 +133,11 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), SCMP (EN/中)
 - 美国关税: 经济通 (繁中)
-- 加密货币: Benzinga (EN)
-- 就业数据: SCMP (EN/中)
+- 黄金/大宗: Benzinga (EN)
 - 美联储: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
