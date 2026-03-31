@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026033113
+抓取时间: 2026033114
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,7 +9,7 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 8h 28m
+- U.S. markets open in 6h 39m
 - Musk escalates feud with Delaware judge over 'heart' on a LinkedIn post
 - Powell: No threat of private credit 'contagion,' rates in a 'good place'
 - Trump tells aides he is willing to end Iran war without reopening Hormuz
@@ -21,13 +21,13 @@
 - US stock futures soar as Trump states war may end with Hormuz shut
 - Crypto exchange KuCoin pays CFTC $500,000 to end civil case
 - Spice giant McCormick nears huge deal with Hellmann's maker Unilever
+- Big Tech's $635 billion AI spending faces energy shock test, S&P Global says
+- Raspberry Pi reports better-than-expected 25% rise in full-year earnings
 - Iran Strikes Fully Laden Kuwait Oil Tanker in Dubai Port
+- Chinese satellite maker GalaxySpace starts IPO process
+- Soaring fuel prices drive German far-right calls for a turn back to Russia
 - Japan brands yen falls as 'speculative' as Iran war ignites sell-off
 - Microsoft plans $1 billion investment in Thailand, Thai government says
-- Trump helped build the Middle East’s AI ambitions. Could his war break them?
-- US vows to seek WTO alternatives after Cameroon meeting fails to renew e-commerce moratorium
-- JPMorgan Sees Australia IPO Demand Resilient to Stock Turmoil
-- Air Canada CEO will retire this year after his English-only crash message was criticized
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,11 +42,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Fully Loaded Kuwaiti Oil Tanker Hit Off Dubai Coast Amid Iran War, Fire Breaks Out
-- Nasdaq Rule Changes Could Let SpaceX Join Index Just 15 Days After IPO—Here's How
-- Adam Schiff Says 'ICE Agents Shouldn't Be At Our Airports,' Launches Senate Inquiry After Woman And Daughter Detained At San Francisco Airport
-- Iran, Russia Using Crypto To Buy Military Drones? Report Reveals E-Commerce Platforms Used To Sell Equipment To 'Opaque' Identities
-- Ron DeSantis Signs Bill To Rename Palm Beach Airport After Trump, Florida Republicans Hail 'Landmark Tribute' Near Mar-a-Lago
+- 'Tiger King' Fame Joe Exotic's Appeal Turned Down By Supreme Court — Here's What Happened To His Namesake TKING Crypto
+- Australia Flags Instagram, TikTok And Google For Potential Violations Of World's-First Under 16 Social Media Ban: 'Some May Not Be Doing Enough…'
+- Pentagon Denies 'Fabricated' Report Of Pete Hegseth Considering Multimillion-Dollar Defense Investment Before Iran War
+- TSMC's Supply Squeeze Through 2028 Could Be This Chipmaker's Big Break As AI Demand From Nvidia, Apple Surges
+- Nio CEO William Li Sits Down With Qualcomm China Chair: Cars Are the 'Core Engine' Pushing AI Forward — Here's Why
 - Dow Futures Down 106 Points, Oil Prices Cross $105; US Paratroopers Reportedly Arrive In Middle East While Iran Calls Ceasefire Terms 'Unrealistic'
 - Mark Cuban
 - Donald Trump
@@ -55,29 +55,30 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 缅甸人民院推选敏莱昂参加总统选举
-- 恒生科技指数午后跌幅扩大至1%。
-- 日本2月新屋开工年化户数 75.1万户，预期 75.6万户，前值 75.5万户。
-- 日本2月新屋开工同比 -4.9%，预期 -4.5%，前值 -0.4%。
-- 全球最大吨位增程式旋挖钻机在湖南长沙下线首发
-- 泰国政府：微软计划在泰国投资10亿美元，用于人工智能和云计算领域。
-- 国家医保局副局长李滔会见多家跨国医药企业及行业协会负责人
-- 巴基斯坦KSE-100指数高开1.1%。
-- 早间要闻汇总
-- 提醒：日内请重点关注（以下均为北京时间）
-- 联想控股公告，2025年收入6059.45亿元；2025年净利润97.99亿元，同比增长28%。
-- 巴基斯坦副总理兼外长达尔来华
+- 霍尔木兹航运受阻，大量日本二手车被困海上
+- 四川发行10年期一般债地方债，规模20.9048亿元，发行利率1.9200%，边际倍数1.23倍，倍数预期1.98；
+四川发行5年期其他专项地方债，规模1.65
+- 提高准入门槛 强制性产品认证管理办法征求意见
+- 法国2月PPI环比 -0.2%，前值 0.5%。
+- 法国2月PPI同比 -2.4%，前值 -2.3%。
+- 法国2月家庭消费支出环比 -1.4%，预期 -0.3%，前值 0.5%。
+- 法国3月CPI环比初值 0.9%，预期 0.9%，前值 0.6%。
+- 法国3月CPI同比初值 1.7%，预期 1.6%，前值 0.9%。
+- 法国3月调和CPI环比初值 1.1%，预期 1%，前值 0.7%。
+- 法国3月调和CPI同比初值 1.9%，预期 1.9%，前值 1.1%。
+- 法国2月家庭消费支出同比 -1.5%，前值 0.4%。
+- A股锂电池板块震荡走弱，亿纬锂能跌超10%，蔚蓝锂芯、维科技术、欣旺达、博力威、派能科技跌幅居前。
 其他:
-- 高校“航天热”延续：西安交大成立太空制造研究院
-- 西班牙禁止涉美以打击伊朗飞机飞越领空，白宫、鲁比奥回应
-- 以总理称美以对伊朗的行动“已过半程”
-- 印尼附近海域倾覆船只失踪人员全部获救
-- 国泰海通：华安和海富通基金整合方案正在推进，将产生很好的协同效应
-- 富力地产发布盈利预警公告，全年净亏损初步数据大约166亿元人民币。
-- 九部门：到2028年，物联网核心产业规模突破3.5万亿元
-- 台湾证交所加权股价指数下跌2%至31,865.53点。
-- 伊朗首都德黑兰东部已恢复电力供应
-- 两艘中国巨轮顺利通过霍尔木兹海峡
+- 成都5宗宅地26.23亿元成交
+- 截至当地时间下午3:30，韩元兑美元在境内交易中收于1530.1，这是自2009年3月9日以来的最弱水平。
+- 日经225指数、韩国首尔综指3月跌幅均创下自2008年10月以来最大月度跌幅
+- 沪指再度失守3900点，下跌0.60%，创业板指跌超2%，深成指跌超1.4%，全市场超4200家个股下跌，煤炭、风电、化工板块领跌。
+- 高盛仍看涨黄金 预计年底前金价将达到5400美元
+- 伊朗称已击落146架敌方无人机
+- 韩国首尔综指一度跌4.4%，自2月份高点已回落约20%
+- 浙江三澳核电项目二期排水隧洞工程进入主体掘进阶段
+- 以军称完成对德黑兰新一轮空袭，打击伊朗政权设施
+- 迪拜方面称，涉及科威特油轮的事故已得到控制。
 
 ## SCMP (EN/中)
 头版/首屏:
@@ -87,15 +88,15 @@
 - Amid soaring airfares, Chinese bookings up 20% ahead of Ching Ming holiday
 - Diplomacy
 - Born in the USA? China targeted in Trump’s birthright citizenship fight
-- Tai Po hearing: contractor asked to reactivate safety system 5 days before blaze
+- Tai Po fire hearing: management company unaware of alarm system shutdown notice
 - Europe’s crisis tourism: how the Iran war swallowed the EU’s geopolitical agenda
 其他:
 - New financing breathes life into long-stalled Standard Gauge Railway extension across African country at estimated cost of US$5.4 billion.
 - Global instability fails to deter Chinese holidaymakers with airlines selling 2.04 million tickets in the lead-up to Ching Ming Festival.
 - As Supreme Court decision looms, Chinese nationals find themselves at the centre of disputed core constitutional issue: who is an American?
-- Fire services equipment contractor tells committee he filed certificate with authorities that failed to flag Wang Fuk Court’s faulty water tanks.
+- Technical officer at ISS EastPoint told fire services contractor it was under pressure by authorities to issue certificate for new equipment.
 - Asia
-- Takaichi slammed for sycophancy, haze returns to Singapore: 7 Asia highlights
+- Cambodia’s scam industry exodus, Jollibee’s diaspora effect: 7 Asia highlights
 - From Cambodia’s scam industry exodus to Jollibee’s meaning to overseas Filipinos, here are a few highlights from SCMP’s recent Asia reporting.
 - Politics
 - Names and games: Taipei hits back over ‘China’ label, but will it pay off?
@@ -116,9 +117,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数24624.55-126.24(-0.51%)
+- 恒生指数24598.62-152.17(-0.61%)
                     etnet.com.hk@copyright
-- 国企指数8328.96-70.16(-0.84%)
+- 国企指数8324.42-74.70(-0.89%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -132,12 +133,13 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
 - 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 就业数据: SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN)
 - 美联储: Yahoo Finance (EN)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
