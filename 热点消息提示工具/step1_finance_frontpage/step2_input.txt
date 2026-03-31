@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026033112
+抓取时间: 2026033113
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 9h 15m
+- U.S. markets open in 8h 28m
 - Musk escalates feud with Delaware judge over 'heart' on a LinkedIn post
 - Powell: No threat of private credit 'contagion,' rates in a 'good place'
 - Trump tells aides he is willing to end Iran war without reopening Hormuz
+- China factory activity rebounds in March as Iran war looms over growth
+- US Bank extends loan terms in bid to address affordability
 - Gold boosted by Fed rate-cut bets, report on Trump war comments
 - Oil turns lower on report US may end war without Hormuz opening
-- Crypto exchange KuCoin pays CFTC $500,000 to end civil case
-- Spice giant McCormick nears huge deal with Hellmann's maker Unilever
 其他:
 - US stock futures soar as Trump states war may end with Hormuz shut
-- Crypto stocks at 'big discounts,' may be near bottom: Bernstein analysts
-- Big Tech sports broadcast rights could hurt local TV news: Stations
+- Crypto exchange KuCoin pays CFTC $500,000 to end civil case
+- Spice giant McCormick nears huge deal with Hellmann's maker Unilever
+- Iran Strikes Fully Laden Kuwait Oil Tanker in Dubai Port
+- Japan brands yen falls as 'speculative' as Iran war ignites sell-off
+- Microsoft plans $1 billion investment in Thailand, Thai government says
+- Trump helped build the Middle East’s AI ambitions. Could his war break them?
 - US vows to seek WTO alternatives after Cameroon meeting fails to renew e-commerce moratorium
 - JPMorgan Sees Australia IPO Demand Resilient to Stock Turmoil
 - Air Canada CEO will retire this year after his English-only crash message was criticized
-- Iran Strikes Fully Laden Kuwait Oil Tanker in Dubai Port
-- China establishes data organisation aimed at global industry consensus
-- Samsung SDI to lend $1.05 billion to Stellantis JV StarPlus Energy
-- Australia central bank uncertain on path for rates after March hike
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,11 +42,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
+- Fully Loaded Kuwaiti Oil Tanker Hit Off Dubai Coast Amid Iran War, Fire Breaks Out
+- Nasdaq Rule Changes Could Let SpaceX Join Index Just 15 Days After IPO—Here's How
 - Adam Schiff Says 'ICE Agents Shouldn't Be At Our Airports,' Launches Senate Inquiry After Woman And Daughter Detained At San Francisco Airport
 - Iran, Russia Using Crypto To Buy Military Drones? Report Reveals E-Commerce Platforms Used To Sell Equipment To 'Opaque' Identities
 - Ron DeSantis Signs Bill To Rename Palm Beach Airport After Trump, Florida Republicans Hail 'Landmark Tribute' Near Mar-a-Lago
-- Mark Gurman Dismisses Apple Intelligence China Launch As Error, Points To Missing Approval And Unusual Timing
-- TikTok Founder Zhang Yiming Once Shared What Led Him To Do More In Life: Second-Richest Man In China Reveals Connection With 'Sense Of Responsibility'
 - Dow Futures Down 106 Points, Oil Prices Cross $105; US Paratroopers Reportedly Arrive In Middle East While Iran Calls Ceasefire Terms 'Unrealistic'
 - Mark Cuban
 - Donald Trump
@@ -55,56 +55,51 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
+- 缅甸人民院推选敏莱昂参加总统选举
+- 恒生科技指数午后跌幅扩大至1%。
+- 日本2月新屋开工年化户数 75.1万户，预期 75.6万户，前值 75.5万户。
+- 日本2月新屋开工同比 -4.9%，预期 -4.5%，前值 -0.4%。
+- 全球最大吨位增程式旋挖钻机在湖南长沙下线首发
+- 泰国政府：微软计划在泰国投资10亿美元，用于人工智能和云计算领域。
+- 国家医保局副局长李滔会见多家跨国医药企业及行业协会负责人
+- 巴基斯坦KSE-100指数高开1.1%。
+- 早间要闻汇总
+- 提醒：日内请重点关注（以下均为北京时间）
+- 联想控股公告，2025年收入6059.45亿元；2025年净利润97.99亿元，同比增长28%。
+- 巴基斯坦副总理兼外长达尔来华
+其他:
+- 高校“航天热”延续：西安交大成立太空制造研究院
+- 西班牙禁止涉美以打击伊朗飞机飞越领空，白宫、鲁比奥回应
+- 以总理称美以对伊朗的行动“已过半程”
+- 印尼附近海域倾覆船只失踪人员全部获救
 - 国泰海通：华安和海富通基金整合方案正在推进，将产生很好的协同效应
 - 富力地产发布盈利预警公告，全年净亏损初步数据大约166亿元人民币。
 - 九部门：到2028年，物联网核心产业规模突破3.5万亿元
 - 台湾证交所加权股价指数下跌2%至31,865.53点。
 - 伊朗首都德黑兰东部已恢复电力供应
 - 两艘中国巨轮顺利通过霍尔木兹海峡
-- 日本拍卖两年期国债，认购倍数3.54，过去12个月均值3.59。
-- 韩国提议追加26.2万亿韩元预算，应对伊朗战争冲击。
-- 以军称4名士兵在黎巴嫩南部死亡
-- 上证指数早盘收报3908.28点，跌0.38%。
-深证成指早盘收报13526.96点，跌1.45%。
-创业板指早盘收报3196.23点，跌2.36%。
-沪深30
-- 英国对华挖掘机发起反吸收调查
-- 3月31日午间收评：创业板指半日跌超2%，算力硬件股集体调整
-其他:
-- 国债期货早盘收盘，30年期主力合约涨0.11%，10年期主力合约涨0.06%，5年期主力合约涨0.03%，2年期主力合约涨0.00%。
-- 印度尼西亚总统： 印尼邀请日本在关键矿产、稀土、可再生能源及核能领域开展合作。
-- 复星国际郭广昌为公司亏损致歉：并非经营基本面恶化
-- 日本首相高市早苗：与印度尼西亚签署了关键矿产协议。
-印度尼西亚是重要的合作伙伴，双方已就加强经济和安全合作达成一致。
-与印度尼西亚达成一致，将在能源安全方面保持
-- 创业板指跌超2%，沪指跌0.2%。煤炭、油气、农业、化工、半导体等方向跌幅居前，个股跌多涨少，沪深京三市下跌个股超3500只。
-- 韩国将为炼油企业进行石油储备互换
-- 伊朗官员：没有为敌对国家运送货物的船只通过霍尔木兹海峡
-- 农发行发行5年期债券，规模60亿元，发行利率1.6195%，预期1.6100%，投标倍数3.93倍，边际倍数5.70倍。
-- 伊朗首都德黑兰部分地区停电
-- 美一颗“星链”卫星失联 太空碎片监测中
 
 ## SCMP (EN/中)
 头版/首屏:
+- China and Kenya partner to finish ‘most consequential’ rail project
+- EU’s flagship Africa project under fire over ties to Chinese state-owned firms
+- China Economy
 - Amid soaring airfares, Chinese bookings up 20% ahead of Ching Ming holiday
-- Luxury brands bet on growth as well-heeled tourists flock to Hong Kong events
 - Diplomacy
 - Born in the USA? China targeted in Trump’s birthright citizenship fight
-- Politics
-- Names and games: Taipei hits back over ‘China’ label, but will it pay off?
 - Tai Po hearing: contractor asked to reactivate safety system 5 days before blaze
 - Europe’s crisis tourism: how the Iran war swallowed the EU’s geopolitical agenda
 其他:
+- New financing breathes life into long-stalled Standard Gauge Railway extension across African country at estimated cost of US$5.4 billion.
 - Global instability fails to deter Chinese holidaymakers with airlines selling 2.04 million tickets in the lead-up to Ching Ming Festival.
 - As Supreme Court decision looms, Chinese nationals find themselves at the centre of disputed core constitutional issue: who is an American?
-- Taiwan retaliates against countries that have changed its name in official systems, but analysts and lawmakers warn measures could backfire.
 - Fire services equipment contractor tells committee he filed certificate with authorities that failed to flag Wang Fuk Court’s faulty water tanks.
-- Chinese culture
-- The origin of triads, from secret societies to global criminal networks
-- While Hong Kong triads are now known for their criminal enterprises, their roots lie in secret societies that stretch back hundreds of years.
-- China and Kenya partner to finish ‘most consequential’ rail project
-- New financing breathes life into long-stalled Standard Gauge Railway extension across African country at estimated cost of US$5.4 billion.
-- Ahead of first Philippine visit since WWII, Japan’s past catches up with troops
+- Asia
+- Takaichi slammed for sycophancy, haze returns to Singapore: 7 Asia highlights
+- From Cambodia’s scam industry exodus to Jollibee’s meaning to overseas Filipinos, here are a few highlights from SCMP’s recent Asia reporting.
+- Politics
+- Names and games: Taipei hits back over ‘China’ label, but will it pay off?
+- Taiwan retaliates against countries that have changed its name in official systems, but analysts and lawmakers warn measures could backfire.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -121,9 +116,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数24690.83-59.96(-0.24%)
+- 恒生指数24624.55-126.24(-0.51%)
                     etnet.com.hk@copyright
-- 国企指数8353.31-45.81(-0.55%)
+- 国企指数8328.96-70.16(-0.84%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -137,13 +132,12 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
 - 加密货币: Yahoo Finance (EN), Benzinga (EN)
-- 就业数据: Benzinga (EN), SCMP (EN/中)
+- 就业数据: SCMP (EN/中)
 - 黄金/大宗: Yahoo Finance (EN)
 - 美联储: Yahoo Finance (EN)
-- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
