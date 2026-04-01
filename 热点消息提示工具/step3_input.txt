@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040115
+抓取时间: 2026040116
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 6h 30m
-- Trump says US will leave Iran within two to three weeks
+- U.S. markets open in 5h 19m
 - US stock futures climb as potential peace sparks rally to close out Q1
-- 'There's no other choice': war-hit Asian buyers grab Russian oil
-- 7 common tax-filing mistakes Americans make and how to avoid them
-- AT&T signs deal worth $2 billion to upgrade emergency cellular network
-- 3 reasons the Iran war could send this overlooked energy stock soaring
-- Dollar declines as President Trump signals he may end Iran war
+- Trump: US will leave Iran within two to three weeks
+- Big Tech promised AI would disrupt labor — just not like this
+- Record number of megadeals agreed in first quarter of the year
+- Samsung's best day since 2001 drives rebound in Korean stocks
+- Trump to give speech Wednesday on Iran war: White House
+- Gold extends three-day gain after Trump signals end to Iran war
 其他:
 - The highlights and lowlights of a tumultuous Q1
-- This scenario could tip the US into recession. Here's how to prepare.
-- Lagarde calls Bessent out on Iran damage during G-7 video talks
+- 'There's no other choice': war-hit Asian buyers grab Russian oil
+- 7 common tax-filing mistakes Americans make and how to avoid them
+- Microsoft on track to invest $5.5 billion in Singapore by 2029, WSJ reports
+- Oil Slides Below $100 on Optimism Over Iran War Resolution
+- Walking away from the Strait of Hormuz won’t make gas cheap again
 - China's CAS Space targets $607 million IPO for reusable rocket R&D
 - TSMC plans 3-nanometre chip production launch in Japan in 2028
 - Apple's 50-year journey from garage to tech titan
 - New Zealand's Fonterra admits 'grass-fed' label may mislead shoppers after Greenpeace lawsuit
-- Insider trading in prediction markets is among CFTC priorities, top cop says
-- Anthropic to sign deal with Australia on AI safety and economic data tracking
-- Big Tech promised AI would disrupt labor — just not like this
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,11 +77,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Jamie Dimon Calls Capitalism Critiques 'Dead Wrong,' Blames Policy Failures As Economic Growth Staggers— 'Some People Are Selfish...'
-- Google's Research On Quantum Threat 'Reasonable,' Crypto Community Should Start Preparing For Resistant Systems, Says Chamath Palihapitiya
-- ORIC Pharmaceuticals Stock Nosedives 25% After Hours: What Is Going On?
-- Lindsey Graham Defends Disney World Trip: 'Call A Democrat' As Federal Workers Remain Unpaid
-- Sow Good (SOWG) Stock Plunges 59% After Hours — Here's Why
+- US-Iran War Updates April 1: Trump To Address Nation, US Strikes Iran's Underground Military Sites, IDF Kills Top IRGC Official
+- MSC Industrial Direct Likely To Report Higher Q2 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- Lamb Weston Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- Elon Musk Says Outsider Status Key To SpaceX, Tesla's 'Radical' Breakthroughs: Insiders 'Would Have If They Could Have'
+- Cathie Wood Adds OpenAI To These 3 Ark ETFs As ChatGPT-Parent's Valuation Rises To $852 Billion — Flags No Compute, No Revenue Reality
 - Trump Signs Executive Order To Crack Down On Mail-In Voting, Saying Its About 'Voter Integrity': Gavin Newsom, Chuck Schumer Say 'See You In Court'
 - Gas Prices
 - Jamie Dimon
@@ -90,56 +90,53 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 布伦特原油日内跌幅达5.0%，报98.69美元/桶；WTI原油日内跌幅达4.5%，报96.72美元/桶。
-- A股油气股震荡回落，科力股份尾盘跌超7%，通源石油、中曼石油、中国海油、潜能恒信、蓝焰控股跌超3%。
-- Geely Vision Investment据悉寻求为25.7亿欧元贷款进行再融资
-- 寒武纪成交额达100亿元，现涨超7%。
-- 国家税务总局：继续不折不扣落实好税费支持政策，持续严防严查骗享优惠政策
-- 河南发行7年期一般债地方债，规模159.1201亿元，发行利率1.7700%，边际倍数55.41倍，倍数预期1.74；
-河南发行7年期一般债地方债，规模143.
-- 也门胡塞武装称对以色列南部发起新一轮弹道导弹袭击
-- 布伦特原油失守100美元/桶
-- 国际油价走低，布油跌超3%，报100.74美元/桶；WTI原油跌超3%，报98.33美元/桶。
-原油期货主力合约跌近12%，燃油期货主力合约跌近11%，低硫燃料
-- 欧股期货、美股期货走高，纳斯达克100指数期货涨1%，标普500指数期货涨0.7%，道指期货涨0.6%；欧洲斯托克50指数期货涨2.8%，德国DAX指数期货涨2
-- 广期所碳酸锂主力合约大跌5%，报154720元/吨。
-- 国投白银LOF短线拉升，涨超8%。
+- 巴基斯坦KSE-100指数上涨5.1%，报156,582.50点。
+- 日本央行新任审议委员浅田统一郎：希望避免就具体立场发表评论。
+政策组合能够克服严峻的经济形势。
+毫无疑问，高油价将推高通胀。
+- 恒生指数收盘涨2.04%，恒生科技指数涨2.29%
+- 瑞穗证券：如果伊朗局势趋稳 美债收益率的风险溢价有望进一步收窄
+- 耐克美股盘前跌超9%，此前公司意外下调第四财季销售额预期。
+- 伦敦金属交易所(LME)：锌库存减少275吨，锡库存减少25吨，铝库存减少2600吨，铜库存减少1000吨，镍库存减少6吨，铅库存持平。
+- 意大利2月失业率 5.3%，预期 5.2%，前值 5.1%。
+- 外交部：中国将始终是全球发展的确定性基石和稳定性港湾
+- 欧元区3月制造业PMI终值 51.6，预期 51.4，初值 51.4。
+- 德国3月制造业PMI终值 52.2，预期 51.7，初值 51.7。
+- 美债及欧洲国债全线上扬 市场猜测伊朗冲突或将很快结束
+- 法国3月制造业PMI终值 50，预期 50.2，初值 50.2。
 其他:
-- 日经225指数收涨5.2%，报53739.68点。
-日本东证指数收涨4.9%，报3670.90点。
-韩国首尔综指收涨8.4%，报5478.70点。
-- 联想集团CFO郑孝明：两年后净利润率将翻倍至5%以上
-- 报告：脑机接口有望进入大规模商业化“黄金窗口期”
-- 燃油主力合约日内大跌10%，现报4053.00元/吨。
-甲醇主力合约日内跌7%，现报3048.00元/吨。
-- WTI原油日内跌幅达2%，报99.25美元/桶。
-- 瑞士2月实际零售销售同比 0.9%，前值 -1.1%。
-- MSCI亚太指数上涨5%至237.81点。
-- 阳光电源成交额达200亿元，现跌超11%。
-- 伊朗外长：收到美国总统特使“私信”，但不意味着谈判
-- 美国纽约市宣布撤销政府设备使用TikTok禁令
+- 美载人绕月飞行任务进入最后准备阶段
+- 意大利3月制造业PMI 51.3，预期 50.9，前值 50.6。
+- 南向资金净卖出额达100亿港元。
+- 卡塔尔能源公司证实旗下一艘油轮遭导弹袭击
+- 税务部门将依法依规加力纠治“开票经济”
+- 现货黄金日内涨幅达1.5%，报4737.51美元/盎司。
+- 雅典证券交易所指数上涨4.2%。
+- 上海金融法院去年收案量增长29.75%，证券虚假陈述排名第一
+- 阿里巴巴图像生成与编辑统一模型Wan2.7-Image发布
+- 马斯克：FSD 14.3版本现已进入特斯拉员工测试阶段。
 
 ## SCMP (EN/中)
 头版/首屏:
-- China’s far west site of a new bulwark against Mideast-induced resource woes
-- As US-Iran war threatens oil supplies, will China speed up its green transition?
-- Diplomacy
-- Trump-Xi summit: US trade chief casts doubt on pre-meeting Beijing visit
-- China gains ground in DR Congo’s mining sector as Australian firm loses permits
-- Tai Po fire: estate management staff tearfully reject failure to help claims
-- China builds record-breaking underwater tunnels to unite eastern, western hubs
+- Australia and Japan face jet fuel supply crunch as China cuts exports
+- 3 Chinese ships exit Strait of Hormuz as PetroChina stresses operations stable
 - Science
+- China’s far west site of a new bulwark against Mideast-induced resource woes
+- Diplomacy
+- China gains ground in DR Congo’s mining sector as Australian firm loses permits
+- Society
+- HKTVmall parent firm under fire for testing how long animal heads can survive
 其他:
+- Both Australia and Japan are heavily reliant on Chinese jet fuel, but shipments have plunged in recent weeks amid the Iran war.
 - Ethylene glycol plant in Xinjiang is equipped with tech that includes green electricity coupling, carbon capture and storage.
-- Trade Representative Jamieson Greer says key Trump officials unlikely to meet Chinese counterparts, in a break from usual practice for talks.
 - Chinese firms emerge as preferred partners as African nations seek bigger returns on critical mineral extraction.
-- ISS EastPoint clerk also says authorised votes used in ballots deciding major issues at housing estate were never verified.
-- As Mandarin dominates Cantonese, this Hong Kong AI firm is pushing back
-- Hong Kong-based tech firm Votee AI aims to replicate its model for other low-resource languages in Southeast Asia and Africa.
-- Politics
-- What Pakistan gains by playing peacemaker in Iran war
-- If Islamabad can successfully carry off the talks, it stands a chance of bringing in much-needed investments and weapon sales, analysts say.
-- China Business
+- Hong Kong Technology Venture Company slammed in open letter from Peta, but refutes media claims of pet animals involved.
+- China builds record-breaking underwater tunnels to unite eastern, western hubs
+- Middle East
+- ‘Iran doesn’t have to make a deal’: Trump says US could end war in 2 to 3 weeks
+- The declaration was the US president’s clearest so far that he intends to soon end a conflict that has disrupted global energy markets.
+- Tech
+- UBTech powers up as humanoid robot sales jump 23-fold
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -156,9 +153,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25383.37+595.23(+2.40%)
+- 恒生指数25358.84+570.70(+2.30%)
                     etnet.com.hk@copyright
-- 国企指数8538.38+164.08(+1.96%)
+- 国企指数8526.47+152.17(+1.82%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -171,15 +168,14 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), SCMP (EN/中)
-- 就业数据: Benzinga (EN), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN)
-- 加密货币: Benzinga (EN)
-- 黄金/大宗: 华尔街见闻 (简中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 就业数据: Yahoo Finance (EN)
+- 美联储: Yahoo Finance (EN)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
