@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040116
+抓取时间: 2026040118
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 5h 19m
+- U.S. markets open in 3h 28m
 - US stock futures climb as potential peace sparks rally to close out Q1
+- The highlights and lowlights of a tumultuous Q1
 - Trump: US will leave Iran within two to three weeks
 - Big Tech promised AI would disrupt labor — just not like this
-- Record number of megadeals agreed in first quarter of the year
-- Samsung's best day since 2001 drives rebound in Korean stocks
-- Trump to give speech Wednesday on Iran war: White House
-- Gold extends three-day gain after Trump signals end to Iran war
+- Bitcoin holds modest gains after five-month losing streak ends
+- Nvidia lead squeezed by China rivals
+- Nike stock falls as company takes steps to tackle weakness in China
 其他:
-- The highlights and lowlights of a tumultuous Q1
-- 'There's no other choice': war-hit Asian buyers grab Russian oil
-- 7 common tax-filing mistakes Americans make and how to avoid them
-- Microsoft on track to invest $5.5 billion in Singapore by 2029, WSJ reports
-- Oil Slides Below $100 on Optimism Over Iran War Resolution
+- Consumer spending powers US growth. But Iran war 'tests resilience.'
+- Microsoft on track to invest $5.5B in Singapore by 2029: WSJ
+- Apple at 50: The roots of a tech revolution
+- Morning Brief: Stocks roar back, plus our giant, action-packed Q1 roundup
+- Oil Slips Near $100 on Optimism Over Iran War Resolution
+- Anthropic Accidentally Posts Source Code of Claude AI Agent
+- Amazon Fuels Record First Quarter for Company Bond Sales in EMEA
+- Nvidia investors just had a surprising first quarter
 - Walking away from the Strait of Hormuz won’t make gas cheap again
 - China's CAS Space targets $607 million IPO for reusable rocket R&D
-- TSMC plans 3-nanometre chip production launch in Japan in 2028
-- Apple's 50-year journey from garage to tech titan
-- New Zealand's Fonterra admits 'grass-fed' label may mislead shoppers after Greenpeace lawsuit
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,12 +77,12 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- US-Iran War Updates April 1: Trump To Address Nation, US Strikes Iran's Underground Military Sites, IDF Kills Top IRGC Official
-- MSC Industrial Direct Likely To Report Higher Q2 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
-- Lamb Weston Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
-- Elon Musk Says Outsider Status Key To SpaceX, Tesla's 'Radical' Breakthroughs: Insiders 'Would Have If They Could Have'
-- Cathie Wood Adds OpenAI To These 3 Ark ETFs As ChatGPT-Parent's Valuation Rises To $852 Billion — Flags No Compute, No Revenue Reality
-- Trump Signs Executive Order To Crack Down On Mail-In Voting, Saying Its About 'Voter Integrity': Gavin Newsom, Chuck Schumer Say 'See You In Court'
+- Several Baidu Apollo Go Robotaxis Freeze In China, Raising Concerns About AV Safety: Report
+- Healthcare Reclaims No. 1 Spot On Americans' List Of Worries As Financial Strain Grows
+- Eric Trump-Linked JFB Construction Rises Pre-Market On XTEND Drone Approval
+- How Soaring Memory Costs Are Rewiring The Smartphone Market
+- Marc Andreessen Says 'Every Large Company Is Overstaffed:' AI Layoffs Are Just An Excuse, Not Job Loss Reality
+- Stock Market Today: Dow Jones, S&P 500 Futures Rise As Trump Says Iran War May End 'Within Two Weeks'—Nike, RH, nCino, Beyond Meat In Focus
 - Gas Prices
 - Jamie Dimon
 - Michael Burry
@@ -90,53 +90,56 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 巴基斯坦KSE-100指数上涨5.1%，报156,582.50点。
-- 日本央行新任审议委员浅田统一郎：希望避免就具体立场发表评论。
-政策组合能够克服严峻的经济形势。
-毫无疑问，高油价将推高通胀。
-- 恒生指数收盘涨2.04%，恒生科技指数涨2.29%
-- 瑞穗证券：如果伊朗局势趋稳 美债收益率的风险溢价有望进一步收窄
-- 耐克美股盘前跌超9%，此前公司意外下调第四财季销售额预期。
-- 伦敦金属交易所(LME)：锌库存减少275吨，锡库存减少25吨，铝库存减少2600吨，铜库存减少1000吨，镍库存减少6吨，铅库存持平。
-- 意大利2月失业率 5.3%，预期 5.2%，前值 5.1%。
-- 外交部：中国将始终是全球发展的确定性基石和稳定性港湾
-- 欧元区3月制造业PMI终值 51.6，预期 51.4，初值 51.4。
-- 德国3月制造业PMI终值 52.2，预期 51.7，初值 51.7。
-- 美债及欧洲国债全线上扬 市场猜测伊朗冲突或将很快结束
-- 法国3月制造业PMI终值 50，预期 50.2，初值 50.2。
+- 欧盟提议调整碳储备，以限制价格波动。
+- 上汽集团：2025年净利润101.06亿元，同比增长506.45%
+- 美国官员在讨论油价达到每桶150美元的可能性，美国财政部预计油价将在一段时间内维持在100美元/桶上方，特朗普政府将财政部的预期视为“基线情境”。（Politi
+- 深蓝汽车3月全球销量31742辆，同比提升30%
+- 比亚迪：3月份销售300222辆，乘用车及皮卡海外销售119591辆，新能源汽车累计销售超1580万辆。
+- 伊朗穆巴拉凯钢铁厂遭严重破坏。（法尔斯通讯社）
+- 日本首相高市早苗：已同意加强与法国的防务关系。
+将与法国在包括聚变反应堆研发在内的民用核能领域开展合作。
+已同意与法国密切合作，共同致力于霍尔木兹海峡的开放。
+- 英国首相回应特朗普退出北约言论
+- 广期所：调整多晶硅期货相关合约交易指令每次最小开仓下单数量、交易手续费标准、交易限额及交易保证金标准
+- 据德国商业杂志Capital报道，尽管伊朗冲突爆发，首批来自阿曼的液化天然气已开始运往德国。
+- 国际能源署署长：由于中东危机，迄今已有超过1200万桶/日的石油供应损失。
+这场危机比1970年代两次石油危机和2022年俄罗斯天然气供应中断加起来还要严重。
+- 国家金融监管总局局长李云泽会见澳门金管局行政管理委员会主席黄善文
 其他:
-- 美载人绕月飞行任务进入最后准备阶段
-- 意大利3月制造业PMI 51.3，预期 50.9，前值 50.6。
-- 南向资金净卖出额达100亿港元。
-- 卡塔尔能源公司证实旗下一艘油轮遭导弹袭击
-- 税务部门将依法依规加力纠治“开票经济”
-- 现货黄金日内涨幅达1.5%，报4737.51美元/盎司。
-- 雅典证券交易所指数上涨4.2%。
-- 上海金融法院去年收案量增长29.75%，证券虚假陈述排名第一
-- 阿里巴巴图像生成与编辑统一模型Wan2.7-Image发布
-- 马斯克：FSD 14.3版本现已进入特斯拉员工测试阶段。
+- 蔚来公司3月交付同比增长136%，蔚来ES9产品技术发布会将于4月9日举行
+- 吉利汽车：3月的汽车总销量为23.3万辆，与去年同期持平。
+- 泽连斯基：俄对乌发动大规模无人机袭击
+- 英国央行：金融体系迄今表现出韧性，但风险上升，多项脆弱性可能同时暴露。
+中东冲突已对全球经济造成“重大负面供应冲击”。
+主权债务市场、高风险资产估值、私募信贷领
+- 【伊朗副议长：“目前最高领袖未批准任何谈判”】据伊朗法尔斯通讯社4月1日报道，伊朗伊斯兰议会副议长阿里·尼克扎德当天在伊朗塔夫雷什一场公众集会上发表公开讲话。他
+- 长城汽车：3月销量10.62万台，同比增8.38%
+- 意大利：正努力将燃油税减免政策延长至4月7日之后。
+- 国航、厦航、中联航等多家航司发布公告 上调国内燃油附加费
+- 马斯克：特斯拉Model S和Model X已停止接受新的定制订单，目前仅剩部分库存现车可供选购。
+- 台积电：将日本厂生产制程变更为3纳米，月产能15,000片，2028年将安装设备并开始量产。
 
 ## SCMP (EN/中)
 头版/首屏:
+- Chinese navy arrives in Sea of Japan just as Tokyo deploys long-range missiles
+- China slams Japan’s ‘kill network’ as long-range missile deployment looms
+- China Economy
+- US lawmakers call for major crackdown on China’s alleged sanctioned oil imports
 - Australia and Japan face jet fuel supply crunch as China cuts exports
-- 3 Chinese ships exit Strait of Hormuz as PetroChina stresses operations stable
-- Science
-- China’s far west site of a new bulwark against Mideast-induced resource woes
+- Hong Kong Economy
+- Hong Kong retail sales jump nearly 12% in first 2 months of year
+- China builds record-breaking underwater tunnels to unite eastern, western hubs
+其他:
+- Five ships transited Tsushima Strait and were tracked heading northeast after China warned of strong response to ‘neo-militarism’.
+- Bipartisan panel argues sanctions have concentrated discounted oil in Beijing's hands – charges the Chinese government denies.
+- Both Australia and Japan are heavily reliant on Chinese jet fuel, but shipments have plunged in recent weeks amid the Iran war.
+- Retail sales hit HK$35 billion in February, according to provisional figures from Census and Statistics Department.
+- Politics
+- Beijing says cremated spy remains returned from Taiwan remind of ‘heroic deeds’
+- Mainland China spokeswoman says Communist Party ’patriots’ who died decades ago inspire towards ‘complete reunification’.
 - Diplomacy
 - China gains ground in DR Congo’s mining sector as Australian firm loses permits
-- Society
-- HKTVmall parent firm under fire for testing how long animal heads can survive
-其他:
-- Both Australia and Japan are heavily reliant on Chinese jet fuel, but shipments have plunged in recent weeks amid the Iran war.
-- Ethylene glycol plant in Xinjiang is equipped with tech that includes green electricity coupling, carbon capture and storage.
 - Chinese firms emerge as preferred partners as African nations seek bigger returns on critical mineral extraction.
-- Hong Kong Technology Venture Company slammed in open letter from Peta, but refutes media claims of pet animals involved.
-- China builds record-breaking underwater tunnels to unite eastern, western hubs
-- Middle East
-- ‘Iran doesn’t have to make a deal’: Trump says US could end war in 2 to 3 weeks
-- The declaration was the US president’s clearest so far that he intends to soon end a conflict that has disrupted global energy markets.
-- Tech
-- UBTech powers up as humanoid robot sales jump 23-fold
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -153,9 +156,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25358.84+570.70(+2.30%)
+- 恒生指数25294.03+505.89(+2.04%)
                     etnet.com.hk@copyright
-- 国企指数8526.47+152.17(+1.82%)
+- 国企指数8504.81+130.51(+1.56%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -171,10 +174,10 @@
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 就业数据: Yahoo Finance (EN)
-- 美联储: Yahoo Finance (EN)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 就业数据: Yahoo Finance (EN), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), Benzinga (EN)
+- 加密货币: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
