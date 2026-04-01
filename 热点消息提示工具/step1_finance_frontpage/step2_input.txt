@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040122
+抓取时间: 2026040123
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 5h 37m
+- U.S. markets close in 4h 7m
+- US stocks climb as de-escalation talk in Iran sparks rally
+- Anthropic does damage control after leak, Iran threatens Big Tech
+- SpaceX confidentially files for IPO
+- Nike stock plunges to 11-year low
+- Oracle reportedly joins tech peers in layoff spree
 - Fed's Musalem cautions about looking through oil price shock
 - Private employer job growth held steady with 62,000 new roles
-- The bond market is helping resolve the Fed's interest rate dilemma
-- Apple at 50: From Apple I to the iPhone to AI and beyond
-- Anthropic does damage control after leak, Iran threatens Big Tech
-- Intel shares rise as it rebuys Apollo's Ireland stake for $14.2B
-- OpenAI raised an historic amount of money. Here are 2 numbers to know.
 其他:
-- US stock climb as de-escalation talk in Iran sparks rally
-- 3 things Nike investors need to watch as stock falls after earnings
-- Consumer spending powers US growth. But Iran war 'tests resilience.'
+- Trump: US will consider Iran ceasefire when Hormuz opens
+- OpenAI raised an historic amount of money. Here are 2 numbers to know.
+- Apple at 50: From Apple I to the iPhone to AI and beyond
 - Trump to give speech Wednesday on Iran war, White House Says
-- Belgian court orders Poland, Romania to buy $2.2 billion of Pfizer COVID vaccines
-- Franklin Templeton to acquire CoinFund spinoff to expand crypto push
-- US manufacturing sector grows in March; supplier delivery performance deteriorates
-- Nike stock tumbles more than 13%, hits 11-year low as weakness in China, high oil prices weigh on outlook
-- Kia to sell lower-priced electric vehicle in US
-- Retail sales rose more than expected in February
+- 6 things borrowers should know as Treasury takes over defaulted student loans
+- Factbox-SpaceX's business and finances: rockets, satellite communications and budding AI
+- SpaceX registers to take rocket maker public in blockbuster IPO, Bloomberg News reports
+- Factbox-Mega IPOs loom on Wall Street as Elon Musk's SpaceX confidentially files paperwork
+- The road to SpaceX's juggernaut IPO
+- US Gulf Coast tanker market tightens as Asia seeks to replace lost supply
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,67 +42,73 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Why Are SanDisk Shares Surging Wednesday?
-- These Analysts Slash Their Forecasts On RH After Downbeat Q4 Results
-- Diabetes Focused MiniMed Recovery Story Builds As Pipeline Improves
-- This PPG Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Wednesday
-- SoundHound Stock Tests $7 Support — Will It Hold Or Break?
-- Oil Could Spike To $372 Per Barrel In Worst Case Scenario, Says Paul Krugman: 'Crisis Is About To Get Physical'
+- PVH, Micron, Intel And Other Big Stocks Moving Higher On Wednesday
+- Why Is Conagra Brands Stock Falling Wednesday?
+- M-Tron's War-Tech Boom Draws Smart Money — But Not Every Billionaire Is Buying More (CORRECTED)
+- Axe Compute (AGPU) Stock Soars After Executed GPU Agreements
+- Retirement Portfolios May Expand To Include Crypto Under New US Rule
+- Trade the Moon: Firefly, Rocket Lab and More Stocks Poised for NASA's Artemis Launch
 - Gas Prices
-- Healthcare Reclaims No. 1 Spot On Americans' List Of Worries As Financial Strain Grows
+- Nike Takes 'Intentional' Hit To Clear 'Unhealthy Inventory' In Q3 As CEO Eyes Turnaround By Year-End
+- Diabetes Focused MiniMed Recovery Story Builds As Pipeline Improves
 - Top 2 Health Care Stocks That May Implode In April
-- How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, TSLA, Using Technical Analysis
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 据美国纽约联储数据，上个交易日（3月31日，月末叠加季度末）担保隔夜融资利率（SOFR）报3.68%，之前一天报3.63%。
-上个交易日有效的联邦基金利率报3.
-- 美联储Musalem：政策准备就绪。
-- 提醒：北京时间22:30，美国能源信息署（EIA）将发布政府版原油库存周报。
-- 美国参议员Warren抨击特朗普政府施压欧盟放宽技术监管
-- 王毅赴人类命运共同体研究中心调研
-- 克罗地亚决定释放储备柴油
+- 美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。
+- 北约担忧美国总统特朗普会削弱这个联盟，此前美国威胁要退出北约。
+- 礼来口服减肥药Foundayo获美国FDA批准，正面挑战诺和诺德
+- New Hampshire Business Finance Authority计划发行由特币担保的市政债，已经获得穆迪Ba2评级。
+- 明晟公司MSCI北欧国家指数涨2.1%，创3月4日（收涨2.2%）一来最佳单日表现，报369.79点。
+在十个板块中，北欧工业板块涨幅最大。
+军工股萨博Saab
+- 美国官员：美伊讨论以重开霍尔木兹海峡为条件的停火协议
+- 【伊朗重申将封锁霍尔木兹海峡作为反制手段】伊朗最高领袖办公室4月1日在社交媒体上摘发最高领袖穆杰塔巴·哈梅内伊首次讲话内容，重申继续将封锁霍尔木兹海峡作为反制手
 - 俄罗斯表示将继续推进火箭核发动机研究
-- 德国回应特朗普“退约”威胁 称将继续支持北约
-- 伊朗称已击落150架美以无人机
-- 美国3月ISM制造业指数52.7，扩张速度创2022年以来最大，输入成本激增，预期52.3。
-- 美国1月商业库存环比 -0.1%，预期 0%，前值 0.1%。
-- 伊朗外长：只有伊朗和阿曼才能决定霍尔木兹海峡的未来
+- 美国财政部拍卖四个月期国债，得标利率3.615%，投标倍数2.95。
+- 德国DAX 30指数初步收涨2.66%，报23282.96点。
+法国股指初步收涨2.03%，意大利股指初步收涨3.04%、银行指数涨4.40%，英国股指初步收涨
+- 欧洲STOXX 600指数初步收涨2.39%，报597.09点。
+欧元区STOXX 50指数初步收涨2.76%，报5723.96点。
+富时泛欧绩优300指数初步
+- 标普涨幅收窄至不足1%，道指维持0.9%的涨幅，纳指涨幅收窄至不足1.5%。
+据路透报道，美国副总统万斯在巴基斯坦与调停方讨论伊朗问题。
+万斯最近一次谈论伊朗问
 其他:
-- 伊朗最高领袖致信黎真主党领导人
-- 诺和诺德减肥药Wegovy获英国药物价格监管机构批准用于心脏病，受益人群将增加120万
-- 特朗普称当霍尔木兹海峡开放才会“考虑”停火，伊朗最新表态：霍尔木兹海峡不会对伊朗的“敌人”开放
-- 提醒：北京时间22:00，将公布美国3月ISM制造业指数。
-- 伊朗首都德黑兰发生爆炸
-- 美国圣路易斯联储主席Musalem：若伊朗冲突结束，将关注持续存在的风险溢价。
-冲突结束后需要一段时间才能恢复生产能力。
-人工智能目前对经济的影响主要体现在资本
-- 美国3月标普全球制造业PMI终值 52.3，预期 52.4，初值 52.4。
-- 布油短线小幅拉升，伊朗称鉴于特朗普的“荒谬”表现，海峡不会重新开放。
-- 美股涨幅扩大，纳指涨超1%。
-- 美股盘初，主要行业ETF普涨，全球航空业ETF、半导体ETF涨超2%，全球科技股指数ETF涨1.6%。
+- 【以色列遭开战以来最大规模导弹袭击】当地时间今天（4月1日）傍晚，以色列军方再次宣布防空警报解除。有以色列媒体统计显示，刚刚过去的一个小时，伊朗对以色列的导弹袭
+- 据伊朗总统办公室信息部门高级官员透露：伊朗在战争问题上的立场未变，将继续保卫国家。（伊朗媒体Tasnim）
+- 礼来减肥药GLP-1 Foundayo获得美国食品药品管理局（FDA）批准，在减肥药市场打开新的篇章。
+礼来制药涨幅迅速扩大至4%，诺和诺德ADR迅速下跌。
+- 报道：SpaceX已经秘密递交美国IPO申请
+- 伊朗称逮捕8名分裂组织成员及1名外国间谍
+- 纳斯达克100指数涨幅扩大至1.5%。
+- 美国得州寻求提高先进核建筑。
+- 标普500指数涨幅扩大至1%，工业板块目前涨2.1%，电信、科技、可选消费、原材料板块至少涨1.3%，能源板块重挫3.8%。
+道指目前涨418点、涨幅0.9%，
+- 华纳音乐集团（Warner Music Group）同意收购Revelator。
+- 以色列多地遭伊朗导弹袭击
 
 ## SCMP (EN/中)
 头版/首屏:
-- Is China’s commercial rocket now cheaper than Elon Musk’s SpaceX Falcon 9?
-- A missile launch pad on the seabed? Chinese simulation suggests it’s possible
-- Diplomacy
+- How Trump could reframe US goals in the Iran war to justify finishing it
 - What does the China-Pakistan plan for the Iran crisis mean for a post-war order?
+- Economy
+- Canada’s finance minister visits China as both countries seek to bolster ties
+- Diplomacy
 - Global Economy
 - Qiushi reaffirms China’s trade push, calls old export-led growth ‘unsustainable’
-- Economics
-- ‘Matter of survival’: Philippines seeks safe Hormuz passage for vessels
+- China builds record-breaking underwater tunnels to unite eastern, western hubs
 其他:
-- Using the measure of cost per kilogram of payload capacity, CAS Space compares its Kinetica-2 to a US reusable rocket.
+- But America’s differences with Israel over the conflict’s endgame could hinder a swift exit, Chinese analysts say.
+- Francois-Philippe Champagne’s four-day trip comes close on the heels of Canadian Prime Minister Mark Carney’s visit to Beijing in January.
 - Diplomatic initiative comes as long-standing US-dominated security framework faces growing strain and uncertainty, analysts say.
 - Global tensions, weak high-end exports, and record trade surpluses are spurring a strategic shift to boost imports, develop services trade and deepen market integration.
+- Science
+- Is China’s commercial rocket now cheaper than Elon Musk’s SpaceX Falcon 9?
+- Using the measure of cost per kilogram of payload capacity, CAS Space compares its Kinetica-2 to a US reusable rocket.
+- Economics
+- ‘Matter of survival’: Philippines seeks safe Hormuz passage for vessels
 - Philippine and Iranian officials met on Wednesday to discuss ‘key avenues for cooperation’, amid Tehran’s blockade of the strait.
-- China builds record-breaking underwater tunnels to unite eastern, western hubs
-- Military
-- Chinese navy arrives in Sea of Japan just as Tokyo deploys long-range missiles
-- Five ships transit Tsushima Strait and are tracked heading northeast after China warned of strong response to ‘neo-militarism’.
-- Politics
-- China orders national museum audit after Nanjing’s US$12m Ming artwork scandal
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -134,14 +140,15 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 就业数据: 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 加密货币: Yahoo Finance (EN)
-- 黄金/大宗: Yahoo Finance (EN)
+- 中国/欧盟: Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 美国关税: 华尔街见闻 (简中)
+- 就业数据: SCMP (EN/中)
+- 黄金/大宗: 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
