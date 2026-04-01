@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040113
+抓取时间: 2026040115
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,19 +44,19 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 8h 15m
-- Oil plunges after Iranian president shows willingness to end war
+- U.S. markets open in 6h 30m
 - Trump says US will leave Iran within two to three weeks
 - US stock futures climb as potential peace sparks rally to close out Q1
+- 'There's no other choice': war-hit Asian buyers grab Russian oil
+- 7 common tax-filing mistakes Americans make and how to avoid them
 - AT&T signs deal worth $2 billion to upgrade emergency cellular network
 - 3 reasons the Iran war could send this overlooked energy stock soaring
 - Dollar declines as President Trump signals he may end Iran war
-- This scenario could tip the US into recession. Here's how to prepare.
 其他:
 - The highlights and lowlights of a tumultuous Q1
+- This scenario could tip the US into recession. Here's how to prepare.
 - Lagarde calls Bessent out on Iran damage during G-7 video talks
-- Microsoft, Chevron and Engine No. 1 sign exclusive deal for power supply
-- ‘There’s No Other Choice’: War-Hit Asian Buyers Grab Russian Oil
+- China's CAS Space targets $607 million IPO for reusable rocket R&D
 - TSMC plans 3-nanometre chip production launch in Japan in 2028
 - Apple's 50-year journey from garage to tech titan
 - New Zealand's Fonterra admits 'grass-fed' label may mislead shoppers after Greenpeace lawsuit
@@ -77,11 +77,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Elizabeth Warren Criticizes Trump As Gas Hits $4/Gallon Amid Iran War: 'Prices Are Skyrocketing'
-- Trump Weighs Ground Operation To Seize Iran's Uranium As Experts Warn, 'Not Going To Be Like Swinging By A Warehouse'
-- Tiger Woods Says He Is 'Stepping Away' To Seek Treatment After DUI Rollover Crash: 'Understand The Seriousness Of The Situation'
-- Binah Capital Group (BCG) Stock Surges 59% After Hours — Here's Why
-- Microsoft Reportedly Explores $7 Billion Texas Power Deal With Chevron, Engine No. 1 To Fuel AI Data Center Expansion (UPDATED)
+- Jamie Dimon Calls Capitalism Critiques 'Dead Wrong,' Blames Policy Failures As Economic Growth Staggers— 'Some People Are Selfish...'
+- Google's Research On Quantum Threat 'Reasonable,' Crypto Community Should Start Preparing For Resistant Systems, Says Chamath Palihapitiya
+- ORIC Pharmaceuticals Stock Nosedives 25% After Hours: What Is Going On?
+- Lindsey Graham Defends Disney World Trip: 'Call A Democrat' As Federal Workers Remain Unpaid
+- Sow Good (SOWG) Stock Plunges 59% After Hours — Here's Why
 - Trump Signs Executive Order To Crack Down On Mail-In Voting, Saying Its About 'Voter Integrity': Gavin Newsom, Chuck Schumer Say 'See You In Court'
 - Gas Prices
 - Jamie Dimon
@@ -90,29 +90,34 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 港股汽车股午后走强，蔚来、岚图汽车涨超10%，零跑汽车涨超6%。
-- 韩国交易所启动KOSDAQ指数熔断机制 ，此前KOSDAQ150指数期货上涨6％，程序化交易暂停5分钟。
-- 美国纽约市宣布撤销政府设备使用TikTok禁令
-- A股高铁轨交板块持续调整，交大铁发跌超9%，通业科技、日月明、金鹰重工、中铁工业、雷尔伟跌逾5%。
-- 海南离岛免税“即购即提”“担保即提”实施三周年 购物金额超100亿元
-- 日本40年期国债收益率下行12个基点至3.795%。
-- 拉普拉斯午后涨幅缩窄至8%，此前回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单。
-- 以色列上调燃油价格约15%
-- 日本30年期和40年期国债收益率均下行8.5个基点。
-- 韩国首尔综指涨幅扩大至8%，现报5456.73点。
-- 上海市科委召开在沪外资研发机构圆桌交流会
-- 巴基斯坦KSE-100指数日内涨幅扩大至2.1%。
+- 布伦特原油日内跌幅达5.0%，报98.69美元/桶；WTI原油日内跌幅达4.5%，报96.72美元/桶。
+- A股油气股震荡回落，科力股份尾盘跌超7%，通源石油、中曼石油、中国海油、潜能恒信、蓝焰控股跌超3%。
+- Geely Vision Investment据悉寻求为25.7亿欧元贷款进行再融资
+- 寒武纪成交额达100亿元，现涨超7%。
+- 国家税务总局：继续不折不扣落实好税费支持政策，持续严防严查骗享优惠政策
+- 河南发行7年期一般债地方债，规模159.1201亿元，发行利率1.7700%，边际倍数55.41倍，倍数预期1.74；
+河南发行7年期一般债地方债，规模143.
+- 也门胡塞武装称对以色列南部发起新一轮弹道导弹袭击
+- 布伦特原油失守100美元/桶
+- 国际油价走低，布油跌超3%，报100.74美元/桶；WTI原油跌超3%，报98.33美元/桶。
+原油期货主力合约跌近12%，燃油期货主力合约跌近11%，低硫燃料
+- 欧股期货、美股期货走高，纳斯达克100指数期货涨1%，标普500指数期货涨0.7%，道指期货涨0.6%；欧洲斯托克50指数期货涨2.8%，德国DAX指数期货涨2
+- 广期所碳酸锂主力合约大跌5%，报154720元/吨。
+- 国投白银LOF短线拉升，涨超8%。
 其他:
-- 拉普拉斯回应“中标特斯拉光伏项目第二期”传闻：截至目前公司并未取得相关订单
-- 早间要闻汇总
-- 提醒：日内请重点关注（以下均为北京时间）
-- 以色列总理称伊朗已不构成生存威胁
-- 新加坡国家航天局正式成立
-- 特朗普：美军离开伊朗油价就能跌，伊朗政权更迭不是最初目标
-- 原特斯拉中国区总经理孔艳双已入职小米，将接替原小米汽车总监李晓锐负责汽车销售方面工作。（界面）
-- 中柬执法合作再获重大战果 陈志犯罪集团核心骨干成员李雄被从柬埔寨押解回国
-- 美媒称阿联酋准备协助美国通过武力控制霍尔木兹海峡
-- 以军监测到自也门发射的导弹
+- 日经225指数收涨5.2%，报53739.68点。
+日本东证指数收涨4.9%，报3670.90点。
+韩国首尔综指收涨8.4%，报5478.70点。
+- 联想集团CFO郑孝明：两年后净利润率将翻倍至5%以上
+- 报告：脑机接口有望进入大规模商业化“黄金窗口期”
+- 燃油主力合约日内大跌10%，现报4053.00元/吨。
+甲醇主力合约日内跌7%，现报3048.00元/吨。
+- WTI原油日内跌幅达2%，报99.25美元/桶。
+- 瑞士2月实际零售销售同比 0.9%，前值 -1.1%。
+- MSCI亚太指数上涨5%至237.81点。
+- 阳光电源成交额达200亿元，现跌超11%。
+- 伊朗外长：收到美国总统特使“私信”，但不意味着谈判
+- 美国纽约市宣布撤销政府设备使用TikTok禁令
 
 ## SCMP (EN/中)
 头版/首屏:
@@ -120,26 +125,26 @@
 - As US-Iran war threatens oil supplies, will China speed up its green transition?
 - Diplomacy
 - Trump-Xi summit: US trade chief casts doubt on pre-meeting Beijing visit
-- Science
-- As Mandarin dominates Cantonese, this Hong Kong AI firm is pushing back
+- China gains ground in DR Congo’s mining sector as Australian firm loses permits
 - Tai Po fire: estate management staff tearfully reject failure to help claims
 - China builds record-breaking underwater tunnels to unite eastern, western hubs
+- Science
 其他:
 - Ethylene glycol plant in Xinjiang is equipped with tech that includes green electricity coupling, carbon capture and storage.
 - Trade Representative Jamieson Greer says key Trump officials unlikely to meet Chinese counterparts, in a break from usual practice for talks.
-- Hong Kong-based tech firm Votee AI aims to replicate its model for other low-resource languages in Southeast Asia and Africa.
+- Chinese firms emerge as preferred partners as African nations seek bigger returns on critical mineral extraction.
 - ISS EastPoint clerk also says authorised votes used in ballots deciding major issues at housing estate were never verified.
-- Inside the shadowy practices plaguing China’s science awards
-- Beijing has rolled out new rules for investigating violations in scientific activities. So why are critics still pessimistic?
-- China Business
-- Hong Kong, mainland China join Asia stock rally amid Iran war optimism
-- Hang Seng Index heads for its biggest gain in a week after Trump says Iran could strike a deal, boosting hopes the war is close to ending.
+- As Mandarin dominates Cantonese, this Hong Kong AI firm is pushing back
+- Hong Kong-based tech firm Votee AI aims to replicate its model for other low-resource languages in Southeast Asia and Africa.
 - Politics
+- What Pakistan gains by playing peacemaker in Iran war
+- If Islamabad can successfully carry off the talks, it stands a chance of bringing in much-needed investments and weapon sales, analysts say.
+- China Business
 
 ## 经济通 (繁中)
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
-- 煤炭股去年盈利倒退股价急挫，或可趁机吸纳
+- 优必选去年亏损收窄收入升53%，股价飙近一成半
 - 3月制造业PMI升至50.4 重返扩张
 - 美油价飙升 逾3年首破每加仑4美元
 - 解压饺子奇袭Labubu，内存压缩狙击美光
@@ -151,9 +156,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25276.65+488.51(+1.97%)
+- 恒生指数25383.37+595.23(+2.40%)
                     etnet.com.hk@copyright
-- 国企指数8503.98+129.68(+1.55%)
+- 国企指数8538.38+164.08(+1.96%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -167,12 +172,14 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中), 经济通 (繁中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 就业数据: SCMP (EN/中)
-- 美联储: Yahoo Finance (EN)
+- 美国关税: Yahoo Finance (EN), SCMP (EN/中)
+- 就业数据: Benzinga (EN), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), Benzinga (EN)
+- 加密货币: Benzinga (EN)
+- 黄金/大宗: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
