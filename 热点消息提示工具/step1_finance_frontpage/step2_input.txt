@@ -9,7 +9,7 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 2h 30m
+- U.S. markets close in 2h 28m
 - Twin cybersecurity incidents leave AI industry shaken
 - Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks
 - Mortgage rates rise for 5th straight week above 6%
@@ -42,11 +42,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Ford Sales Fall 8.8% As EV Demand Collapses
-- Coinbase Stock Slides As Bitcoin Faces Selling Pressure
-- GSAT's 18-Year High Isn't Just About Amazon - Soros, AQR, Millennium Saw It Coming
-- 4 Tech Stocks That Still Have Strong Fundamentals
-- Why Is Biodexa Pharmaceuticals (BDRX) Stock Skyrocketing Today?
+- Crude Oil Rises Sharply; Acuity Shares Fall After Q2 Results
+- Why Are Viasat Shares Trading Higher On Thursday?
+- AI Bot Will Refill Your Antidepressants For Just $20 a Month, Skipping 67 Day Waits And Co-Pays — But 'AI Doctor' Won't Do Everything
+- Swarmer Rallies After Explosive IPO As Investors Bet On Drone AI Future
+- Tesla Expands EV and Energy Reach in Q1
 - Oil Prices Soar To $112, Tesla Tumbles To 7-Month Lows: What's Moving Markets Thursday?
 - Gas Prices
 - US Crude Oil Just Flipped Above Brent By The Most Since 2009 – Why Is This Happening?
@@ -140,7 +140,7 @@ LME期铅收跌8美元
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
 - 美国关税: Yahoo Finance (EN), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 加密货币: Yahoo Finance (EN)
 - 黄金/大宗: 华尔街见闻 (简中)
 - 美联储: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
