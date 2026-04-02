@@ -3,22 +3,20 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 2h 51m | Twin cybersecurity incidents leave AI industry shaken | Trump is overlooking how global energy markets work | Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks
-  - 其他: US stocks rise off lows as good news on Iran war emerges | Oil surges after Trump offers no clear timeline to end war in Iran | Coinbase locks in conditional approval to become a bank | Is the stock market closed on Good Friday and Easter Monday? | Coinbase gets conditional US approval for trust charter, Bloomberg News reports
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 2h 37m | Twin cybersecurity incidents leave AI industry shaken | Trump is overlooking how global energy markets work | Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks
+  - 其他: US stocks rise off lows as good news on Iran war emerges | Oil surges after Trump offers no clear timeline to end war in Iran | Coinbase locks in conditional approval to become a bank | US Lawmakers Propose Crackdown on Sales of Chip Tools to China | Is the stock market closed on Good Friday and Easter Monday?
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Gas Prices Searches Hit Four-Year High On Google: Uber Offers Drivers $4,000 To Switch To EVs | AST SpaceMobile Stock Surges Thursday: Here's Why | Ares Raises More Than $9.8 Billion For Opportunistic Credit Fund | What's Going On With Intel Stock Thursday? | Kalshi Labels Itself 'Gambling' In Federal Filing As California AG Challenges Prediction Market Oversight
+  - 其他: GSAT's 18-Year High Isn't Just About Amazon - Soros, AQR, Millennium Saw It Coming | 4 Tech Stocks That Still Have Strong Fundamentals | Why Is Biodexa Pharmaceuticals (BDRX) Stock Skyrocketing Today? | Cramer Dunks on Microsoft — Meme Traders Reply, 'Thank You for Saving MSFT' | Oil Prices Soar To $112, Tesla Tumbles To 7-Month Lows: What's Moving Markets Thursday?
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 美国总统特朗普宣称，司法部长Bondi被免职。（福克斯新闻） | 国际铜夜盘收跌0.01%，沪铜收跌0.08%，沪铝收跌0.58%，沪锌收跌0.38%，沪铅收涨0.21%，沪镍收涨0.04%，沪锡收跌0.69%。
-氧化铝夜盘收 | 美国4月3日当周石油钻井数 411，前值 409。 | 美国4月3日当周总钻井数 548，前值 543。 | 美国4月3日当周天然气钻井数 130，前值 127。 | 数字货币市场跌约3%，Solana跌超5.2%，以太币跌超3.3% | 伊朗外长：美以军事行动是局势紧张主因 伊朗仍在“防御” | LME期铜收跌75美元，报12360美元/吨。
+  - 头版/首屏: 阿根廷总统重申对马岛主权，承诺提高部队薪资 | 俄罗斯总统助理乌沙科夫：霍尔木兹海峡对俄罗斯开放。 | 周四（4月2日），美联储隔夜逆回购协议（RRP）使用规模为3.27亿美元（交易对手3家），上个交易日报21.07亿美元。 | 以色列能源部：Leviathan钻井恢复运营。 | 特朗普解职美国司法部长邦迪 | 美国总统特朗普宣称，司法部长Bondi被免职。（福克斯新闻） | 国际铜夜盘收跌0.01%，沪铜收跌0.08%，沪铝收跌0.58%，沪锌收跌0.38%，沪铅收涨0.21%，沪镍收涨0.04%，沪锡收跌0.69%。
+氧化铝夜盘收 | 美国4月3日当周石油钻井数 411，前值 409。
+  - 其他: 伊朗外长：美以军事行动是局势紧张主因 伊朗仍在“防御” | LME期铜收跌75美元，报12360美元/吨。
 LME期铝收跌62美元，报3470美元/吨。
 LME期锌收跌25美元，报3264美元/吨。
-LME期铅收跌8美元
-  - 其他: 德债收益率周四上扬“高台跳水行情”，本周已跌10个基点 | 埃及央行维持基准利率在19%不变，符合预期。 | 意大利自6月份开始将从卡塔尔QatarEnergy与埃克森美孚的Golden Pass获取液化天然气（LNG）。（路透） | 美国总统特朗普相信，一旦伊朗战争结束，利率将会下降。（DC Examiner） | 谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。
-英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。
-英伟达为本地智能体人工智能（Ag
+LME期铅收跌8美元 | 美国商品期货交易委员会（CFTC）就预测市场（的监管权）起诉亚利桑那（AZ）、康涅狄格（CT）、伊利诺伊（IL）三个州。 | 伊朗向以色列特拉维夫发动新一轮导弹袭击 | 全球主要原油现货价格飙升至 2008 年以来最高水平
 
 - **SCMP (EN/中)** ✓
   - 头版/首屏: What will the US do next in its war on Iran? Chinese pundits point to a likely path | How Trump could reframe US goals in the Iran war to justify finishing it | US-China direct trade continues shrinking trend ahead of Xi-Trump summit | Diplomacy | How Trump’s plan to take Iran’s Kharg Island could come unhinged | Global Economy | Trump’s ex-China mineral-alliance plan faces cost surge amid Iran war oil shock | ‘Impossible for Chinese’: Yale scientist Zhang Kai leaves US for China
@@ -38,11 +36,11 @@ LME期铅收跌8美元
 - **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
 - **美国关税（15%等）** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
-- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **中国/欧盟** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
 - **加密货币** — 出现于: Yahoo Finance (EN) (1 站)
-- **美联储/利率** — 出现于: Benzinga (EN) (1 站)
+- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
+- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、重要性结论（综合头版+多站+股市相关）
