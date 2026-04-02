@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040216
+抓取时间: 2026040217
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 5h 30m
+- U.S. markets open in 3h 34m
 - US stock futures slump after Trump's national address on Iran
-- SpaceX confidentially files for IPO
-- Oil surges after Trump offers no clear timeline to end war in Iran
+- The central question from President Trump's Iran speech
+- President says US will complete war in Iran 'very shortly'
+- US set to roll out tiered tariffs on steel, aluminum imports
+- BofA rips up forecasts, braces for $100 oil all year
 - The SpaceX IPO is great — but it won't deliver 100x returns
 - Gulf states consider new pipelines to avoid Strait of Hormuz
+其他:
+- Oil surges after Trump offers no clear timeline to end war in Iran
 - Bitcoin tumbles with stocks as Trump signals harder Iran strikes
 - Treasurys fall as Trump's Iran threats add to inflation concern
-其他:
-- President says US will complete war in Iran 'very shortly'
-- Gold plunges as Trump gives mixed signals on Iran war resolution
-- Anthropic does damage control after leak, Iran threatens Big Tech
+- Immunovant's treatment for eye disease fails late-stage trial
+- $200 oil isn’t as crazy as it sounds
+- Why sky-high oil prices haven't shaken Wall Street's confidence in Delta stock
+- Foreign Selling of Japan Stocks Hits 18-Month High on Iran Risk
 - France to announce measures to favour data centres in coming weeks, Finance Minister says
 - China says it supports law-abiding transnational deals after reports of Meta deal review
-- Sweden to buy air defence systems for 8.7 billion crowns, defence minister says
 - UAE Asks UN to Approve Measures, Including Force, to Open Hormuz
-- 'Mild stagflation': Bank of America rips up economic forecasts, braces for $100 oil all year on Iran war disruptions
-- Private Equity Sales Slump as AI, War Bring New Stress Fractures
-- Trump declares other countries need to 'take the lead' on the Strait of Hormuz in national address
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,68 +77,64 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- More Than 200 Child Advocacy Groups Urge YouTube To Ban AI 'Slop' From Kids Platform
-- US-Iran War Updates April 2: US Warns Of Possible Baghdad Attacks, Iran Strikes Israel On Passover, Large Explosions Seen Near Isfahan
-- Trump's Speech Skipped 'Ceasefire' And 'Peace', Leaving Polymarket Traders Who Bet Against These Words Profiting Big Time
-- Trump Vows Strikes For 'Two To Three Weeks' More On Iran: Crude ETFs USO, BNO Surge As Oil Futures-SPY Divergence Hit 20-Year Record
-- Axe Compute Is Trending — Here Is Why AGPU Stock Jumped Overnight Following 117% Intraday Gain
-- Trump Threatens To 'Hit' Iran's Electric Plants And Oil In Live Address: 'We Haven't Hit Their Oil… But We Could'
+- Every Major Hyperscaler Is Moving To Arm — Here's Why It Matters
+- TotalEnergies Bets On Asia's Clean Energy Boom With Masdar Joint Venture
+- Doug Ford Opposes Stellantis Deal With Tesla Rival Leapmotor To Manufacture In Canada's Ontario: 'Dead Against It'
+- Vlad Tenev Pushed Hard Early Proving Robinhood Could Build 'Meaningful' Products—Now Chases This Goal
+- US To Loan 10 Million Barrels Of Oil From Strategic Reserve Amid Iran War Supply Crunch
+- Stock Market Today: S&P 500, Dow Futures Plunge As Trump 'Re-Escalates' War With Iran—Micron Technology, IBM, General Motors In Focus
 - Gas Prices
-- Why Wingstop Stock Hit A New 52-Week Low Wednesday
-- Exxon Just Overtook Nvidia — In A Twist Unthinkable Three Months Ago
+- Artemis II Crew Head Toward Moon On Historic First NASA Crewed Lunar Mission In More Than 50 Years: Rocket Lab And Other Stocks To Watch Tonight
 - Warren Buffett, Dan Ives Bet On The Same 3 Stocks — Some Might Surprise You
+- Meta Shares Rise Nearly 3% After Key Trading Signal
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 伊拉克石油部：已开始通过叙利亚出口石油。
-正在与叙利亚合作，以确保石油能够运抵出口终端。
-- 一架以色列“竞技神-900”型无人机被伊朗击落
-- 商务部：持续深化中国与东盟国家在云基础设施、人工智能、绿色电源等前沿领域合作
-- 受印度央行反投机措施提振，印度卢比兑美元涨幅扩大至2%。
-- 高市早苗：不排除因能源价格高企要求民众节电节能
-- 460家沪市公司已披露年报分红方案 总额超8000亿元
-- 伊朗外长与越南外长通电话 就地区局势及双边关系交换意见
-- 中方是否正与相关国家讨论燃油援助？外交部回应
-- 法航荷航集团提交对葡萄牙航空的股份竞购提议
-- 国开行发行1年期债券，规模60亿元，发行利率1.3334%，预期1.3400%，投标倍数3.72倍，边际倍数1.01倍；
-国开行发行10年期债券，规模160亿元
-- 伊朗传话中方称若获安全保障愿意停火？外交部：支持一切有利于和平的努力
-- 欧洲央行管委SIMKUS：鉴于形势正在变化，利率方面需保持谨慎。
-现在判断四月份需要采取什么行动还为时过早。
+- 行业组织发布声明严禁AI换脸合成
+- 伊朗称渗透以防空指挥系统支持公司 获取机密资料
+- 乘联分会：2026年3月全国乘用车厂商新能源批发预估112万辆，同比去年持平，环比2月增长55%。3月特斯拉中国批发销量85,670辆。
+- 国务院任免国家工作人员
+- 2连板北大医药：公司不存在创新药业务
+- 中国央行：3月公开市场国债买卖净投放500亿元
+- 上交所：2026年3月A股新开户460.14万户，同比增长50.10%
+- 伊朗称特朗普宣布虚假胜利
+- 美国加州发生4.9级地震
+- 工信部：鼓励设立中小企业专属算力池
+- 我国科研团队在新一代集成显示技术领域取得突破
+- 工信部：探索“算力银行”“算力超市”等创新业务 支持中小企业存入闲置算力资源
 其他:
-- 国开行发行3年期债券，规模30亿元，发行利率1.4173%，预期1.4400%，投标倍数3.40倍，边际倍数3.00倍；
-国开行发行5年期债券，规模90亿元，发
-- 报道：伊朗冲突导致股市大幅下跌后，越南政府计划采取股市支持措施
-- “十四五”期间，我国发布物流领域国家标准210项
-- 外交部：中国和库克群岛关系不针对第三方 也不应受第三方干扰和制约
-- 中巴关于中东局势五点倡议是否已通报伊朗？外交部：各方应都注意到了
-- 外交部：中方始终支持阿巴双方通过对话谈判妥善解决矛盾分歧
-- 特朗普鼓动他国“抢石油” 外交部：海峡通航受阻根源是美以对伊朗非法军事行动
-- 外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动
-- 商务部：进一步发挥中美经贸磋商机制作用加强对话沟通
-- 伊朗最高领袖顾问：霍尔木兹海峡对伊朗人民的敌人将永远关闭
+- 工信部：到2028年底显著降低中小企业获取、使用算力门槛 为推动中小企业专精特新发展提供坚实算力支撑
+- 依法严惩芯片制造等领域侵权犯罪 检察机关这样服务新质生产力发展
+- 美银全球研究：预计英国央行将在2026年6月和7月各加息25个基点，而此前预期为今年6月和9月降息。
+- 商务部部长王文涛主持召开第139届广交会筹备工作会
+- 乌方否认俄军完全占领卢甘斯克地区 称仍控制部分战略要地
+- 华钰矿业：控股股东筹划控制权变更事项 股票停牌
+- 国务院办公厅：支持符合条件的征信机构参与融资信用服务平台运营
+- 中央网信办、工业和信息化部、公安部开展2026年个人信息保护系列专项行动
+- 中东铝厂接连遇袭 全球铝市场或现明显供需缺口
+- 伊朗国防部发言人：敌人在多个关键领域遭受挫败
 
 ## SCMP (EN/中)
 头版/首屏:
-- ‘China shock 2.0’ is a false narrative born of Western anxiety: Chinese media
-- Qiushi reaffirms China’s trade push, calls old export-led growth ‘unsustainable’
+- Why China and Vietnam are shifting from confrontation to calm in South China Sea
+- Will Paracels dispute overshadow China-Vietnam drive for closer strategic ties?
 - China Economy
+- ‘False proposition’: state media hits ‘China shock’ as cover for Western anxiety
 - Premier Li Qiang pushes AI-powered, next-gen energy system amid global shocks
-- Science
-- ‘Impossible for Chinese’: Yale scientist Zhang Kai leaves US for China
-- Tai Po fire hearing: ISS may have breached duty to ensure safety
+- Business
+- Hong Kong’s property market resilient despite small setback last month: analysts
 - How to take down a US F-35 over Iran? Chinese engineer’s tutorial goes viral
 其他:
+- Disagreements continue, but the two sides are showing notable restraint in contrast with Beijing’s fierce exchanges with Manila.
 - The state-run Economic Daily says the real problem with the global economy is not China’s strong exports, but rising protectionism.
 - Beijing is moving to modernise the power grid, putting innovation and flexibility at the heart of its strategy.
+- Hong Kong property deals to reach 8,000 this month after staying above 7,000 for six consecutive months, real estate agencies say.
+- Entertainment
+- ‘Like a TikTok trend’: how micro dramas leave big studios in their dust
+- The head of a Chinese micro drama company shares how studios behind short-form shows for phones use data to keep viewers hooked.
+- Science
+- ‘Impossible for Chinese’: Yale scientist Zhang Kai leaves US for China
 - Pioneering work involves observing proteins inside the body during exercise, effectively capturing their activity in a natural state.
-- Property officer agrees with committee lawyer’s contention that management company failed to meet contractual obligation to owners’ corporation.
-- Tech
-- Countdown starts for Chinese rocket maker CAS Space’s Shanghai listing
-- China’s commercial rocket champion plans to raise US$600 million on the Star Market after its listing application is accepted.
-- Controlled escalation? Trump hails ‘victories’ in Iran but vows more strikes
-- US president tells anxious Americans that the conflict’s core objectives are ‘nearing completion’ but fails to lay out a clear timeline to end the war.
-- Economics
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -155,9 +151,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25075.87-218.16(-0.86%)
+- 恒生指数25116.53-177.50(-0.70%)
                     etnet.com.hk@copyright
-- 国企指数8442.43-62.38(-0.73%)
+- 国企指数8456.92-47.89(-0.56%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -173,10 +169,12 @@
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN)
 - 加密货币: Yahoo Finance (EN)
 - 就业数据: SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN)
+- 黄金/大宗: 华尔街见闻 (简中)
+- 美联储: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
