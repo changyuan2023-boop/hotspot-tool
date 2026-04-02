@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040123
+抓取时间: 2026040212
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 4h 7m
-- US stocks climb as de-escalation talk in Iran sparks rally
+- U.S. markets open in 9h 23m
+- US stock futures slump after Trump's national address on Iran
 - Anthropic does damage control after leak, Iran threatens Big Tech
 - SpaceX confidentially files for IPO
-- Nike stock plunges to 11-year low
-- Oracle reportedly joins tech peers in layoff spree
-- Fed's Musalem cautions about looking through oil price shock
-- Private employer job growth held steady with 62,000 new roles
+- Is the stock market open on Good Friday and Easter Monday?
+- Oil surges after Trump offers no clear timeline to end war in Iran
+- The central question from President Trump's Iran speech
+- OpenAI is falling out of favor with secondary buyers
 其他:
-- Trump: US will consider Iran ceasefire when Hormuz opens
-- OpenAI raised an historic amount of money. Here are 2 numbers to know.
-- Apple at 50: From Apple I to the iPhone to AI and beyond
-- Trump to give speech Wednesday on Iran war, White House Says
-- 6 things borrowers should know as Treasury takes over defaulted student loans
-- Factbox-SpaceX's business and finances: rockets, satellite communications and budding AI
-- SpaceX registers to take rocket maker public in blockbuster IPO, Bloomberg News reports
-- Factbox-Mega IPOs loom on Wall Street as Elon Musk's SpaceX confidentially files paperwork
-- The road to SpaceX's juggernaut IPO
-- US Gulf Coast tanker market tightens as Asia seeks to replace lost supply
+- President says US will complete war in Iran 'very shortly'
+- US set to roll out tiered tariffs on steel, aluminum imports
+- Amazon in talks to buy $9 billion satellite group Globalstar
+- S&P 500’s War Pattern: The Wipeout Begins Every Thursday
+- Pop Mart Suffers $33 Billion Rout as Labubu Craze Unravels
+- Trump says US has plenty of jet fuel for Europe, market disagrees
+- Australian State Triggers Emergency Powers Amid Fuel Crisis
+- Exclusive-Intel looks to put millions more into SambaNova startup chaired by CEO Tan
+- Australia to offer businesses $693 million in cheap loans to ease fuel cost pressure
+- US Treasury to meet with insurance regulators to discuss private credit markets
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,80 +42,77 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- PVH, Micron, Intel And Other Big Stocks Moving Higher On Wednesday
-- Why Is Conagra Brands Stock Falling Wednesday?
-- M-Tron's War-Tech Boom Draws Smart Money — But Not Every Billionaire Is Buying More (CORRECTED)
-- Axe Compute (AGPU) Stock Soars After Executed GPU Agreements
-- Retirement Portfolios May Expand To Include Crypto Under New US Rule
-- Trade the Moon: Firefly, Rocket Lab and More Stocks Poised for NASA's Artemis Launch
+- Trump Declares 'We Are Winning' As Artemis II Launch Marks Historic Return To The Moon: 'America Doesn't Just Compete, We Dominate'
+- Why Did Visionary Holdings (GV) Stock Soar 36% After Hours
+- Trump's Approval Slips To New Low As Poll Suggests Support Slipping Among Core Voters Amid Iran War, Partial Government Shutdown
+- Artemis-Named Crypto Rallies Over 200%, But Unlike NASA's Historic Mission, These Coins Face Slimmer Odds Of Rocketing 'To The Moon'
+- Dow Sinks 421 Points, Oil Surges To $104 As Donald Trump Threatens To 'Hit' Iran 'Extremely Hard' Within Weeks
+- Trump Threatens To 'Hit' Iran's Electric Plants And Oil In Live Address: 'We Haven't Hit Their Oil… But We Could'
 - Gas Prices
-- Nike Takes 'Intentional' Hit To Clear 'Unhealthy Inventory' In Q3 As CEO Eyes Turnaround By Year-End
-- Diabetes Focused MiniMed Recovery Story Builds As Pipeline Improves
-- Top 2 Health Care Stocks That May Implode In April
+- Why Wingstop Stock Hit A New 52-Week Low Wednesday
+- Exxon Just Overtook Nvidia — In A Twist Unthinkable Three Months Ago
+- Warren Buffett, Dan Ives Bet On The Same 3 Stocks — Some Might Surprise You
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。
-- 北约担忧美国总统特朗普会削弱这个联盟，此前美国威胁要退出北约。
-- 礼来口服减肥药Foundayo获美国FDA批准，正面挑战诺和诺德
-- New Hampshire Business Finance Authority计划发行由特币担保的市政债，已经获得穆迪Ba2评级。
-- 明晟公司MSCI北欧国家指数涨2.1%，创3月4日（收涨2.2%）一来最佳单日表现，报369.79点。
-在十个板块中，北欧工业板块涨幅最大。
-军工股萨博Saab
-- 美国官员：美伊讨论以重开霍尔木兹海峡为条件的停火协议
-- 【伊朗重申将封锁霍尔木兹海峡作为反制手段】伊朗最高领袖办公室4月1日在社交媒体上摘发最高领袖穆杰塔巴·哈梅内伊首次讲话内容，重申继续将封锁霍尔木兹海峡作为反制手
-- 俄罗斯表示将继续推进火箭核发动机研究
-- 美国财政部拍卖四个月期国债，得标利率3.615%，投标倍数2.95。
-- 德国DAX 30指数初步收涨2.66%，报23282.96点。
-法国股指初步收涨2.03%，意大利股指初步收涨3.04%、银行指数涨4.40%，英国股指初步收涨
-- 欧洲STOXX 600指数初步收涨2.39%，报597.09点。
-欧元区STOXX 50指数初步收涨2.76%，报5723.96点。
-富时泛欧绩优300指数初步
-- 标普涨幅收窄至不足1%，道指维持0.9%的涨幅，纳指涨幅收窄至不足1.5%。
-据路透报道，美国副总统万斯在巴基斯坦与调停方讨论伊朗问题。
-万斯最近一次谈论伊朗问
+- 布伦特原油期货涨超6%，报107.39美元/桶；WTI涨超5%，报105.30美元/桶。
+- IBM宣布与ARM达成战略合作，将为企业开发灵活且可扩展的计算平台。
+- 海湾国家考虑新的输油管道以绕过霍尔木兹海峡。（英国金融时报）
+- 美元指数重返100.00关口上方，日内涨超0.4%。
+- 可灵AI全球用户规模领先，成Sora关停后最受关注视频模型
+- 豆包大模型日均Token使用量超120万亿，Seedance 2.0 API开启公测
+- 印度股指Sensex、Nifty指数下跌2%。
+- 日本10年期国债收益率上行5个基点至2.35%。
+日本30年期国债收益率上行9个基点至3.705%。
+- 美国参议院民主党领袖猛批特朗普讲话
+- 日本拍卖10年期国债，认购倍数2.57，过去12个月均值为3.28。
+- 继美国土安全部长被解职后，美媒爆料：特朗普曾私下讨论并考虑解雇司法部长
+- 印度卢比兑美元上涨1.7%，之前印度央行采取措施抑制投机。
 其他:
-- 【以色列遭开战以来最大规模导弹袭击】当地时间今天（4月1日）傍晚，以色列军方再次宣布防空警报解除。有以色列媒体统计显示，刚刚过去的一个小时，伊朗对以色列的导弹袭
-- 据伊朗总统办公室信息部门高级官员透露：伊朗在战争问题上的立场未变，将继续保卫国家。（伊朗媒体Tasnim）
-- 礼来减肥药GLP-1 Foundayo获得美国食品药品管理局（FDA）批准，在减肥药市场打开新的篇章。
-礼来制药涨幅迅速扩大至4%，诺和诺德ADR迅速下跌。
-- 报道：SpaceX已经秘密递交美国IPO申请
-- 伊朗称逮捕8名分裂组织成员及1名外国间谍
-- 纳斯达克100指数涨幅扩大至1.5%。
-- 美国得州寻求提高先进核建筑。
-- 标普500指数涨幅扩大至1%，工业板块目前涨2.1%，电信、科技、可选消费、原材料板块至少涨1.3%，能源板块重挫3.8%。
-道指目前涨418点、涨幅0.9%，
-- 华纳音乐集团（Warner Music Group）同意收购Revelator。
-- 以色列多地遭伊朗导弹袭击
+- 上证指数早盘收报3927.60点，跌0.53%。
+深证成指早盘收报13548.46点，跌1.15%。
+创业板指早盘收报3189.72点，跌1.78%。
+沪深30
+- 4月2日午间收评：创业板指半日跌1.78%，油气、医药股逆势走强
+- 国债期货早盘收盘，30年期主力合约跌0.12%，10年期主力合约跌0.02%，5年期主力合约跌0.03%，2年期主力合约跌0.02%。
+- 重庆发行10年期普通专项地方债，规模201.6000亿元，发行利率1.9900%，边际倍数1.55倍，倍数预期1.96；
+重庆发行20年期普通专项地方债，规模9
+- 进出口行发行66月期债券，规模50亿元，发行利率1.6436%，预期1.6300%，投标倍数3.01倍，边际倍数1.10倍；
+进出口行发行1年期债券，规模120
+- 霍尔木兹海峡封锁期间，韩国增加了从美国的石油进口。（韩联社）
+- 据韩国媒体，韩国将在伊朗战争结束后继续维持燃油价格上限。
+- 澳大利亚S&P/ASX 200指数下跌1%。
+- 特朗普：伊朗政权更迭不是美国目标
+- 京东携手超100个品牌推出家电家居“百亿双补”计划
 
 ## SCMP (EN/中)
 头版/首屏:
-- How Trump could reframe US goals in the Iran war to justify finishing it
-- What does the China-Pakistan plan for the Iran crisis mean for a post-war order?
-- Economy
-- Canada’s finance minister visits China as both countries seek to bolster ties
-- Diplomacy
-- Global Economy
-- Qiushi reaffirms China’s trade push, calls old export-led growth ‘unsustainable’
-- China builds record-breaking underwater tunnels to unite eastern, western hubs
-其他:
-- But America’s differences with Israel over the conflict’s endgame could hinder a swift exit, Chinese analysts say.
-- Francois-Philippe Champagne’s four-day trip comes close on the heels of Canadian Prime Minister Mark Carney’s visit to Beijing in January.
-- Diplomatic initiative comes as long-standing US-dominated security framework faces growing strain and uncertainty, analysts say.
-- Global tensions, weak high-end exports, and record trade surpluses are spurring a strategic shift to boost imports, develop services trade and deepen market integration.
+- Controlled escalation? Trump hails ‘victories’ in Iran but vows more strikes
+- Iran’s Islamic republic will ‘collapse internally’, says Netanyahu
 - Science
-- Is China’s commercial rocket now cheaper than Elon Musk’s SpaceX Falcon 9?
-- Using the measure of cost per kilogram of payload capacity, CAS Space compares its Kinetica-2 to a US reusable rocket.
-- Economics
-- ‘Matter of survival’: Philippines seeks safe Hormuz passage for vessels
-- Philippine and Iranian officials met on Wednesday to discuss ‘key avenues for cooperation’, amid Tehran’s blockade of the strait.
+- ‘Impossible for Chinese’: Yale scientist Zhang Kai leaves US for China
+- Tech Trends
+- What Zhipu and MiniMax’s first post-IPO earnings say about the 2 AI start-ups
+- Society
+- Is it time to call an end to Hong Kong’s boar war?
+其他:
+- US president tells anxious Americans that the conflict’s core objectives are ‘nearing completion’ but fails to lay out a clear timeline to end the war.
+- Pioneering work involves observing proteins inside the body during exercise, effectively capturing their activity in a natural state.
+- The two Chinese start-ups show promising commercialisation of AI models, which are reflected in rising demand and revenue.
+- Wild boar numbers have dropped by half in recent years, prompting calls from experts for an end to aggressive control measures such as culling.
+- How to take down a US F-35 over Iran? Chinese engineer’s tutorial goes viral
+- Politics
+- Why Japan’s advanced fighter project may get Canadian tailwinds
+- With Ottawa’s interest in the stealth fighter, Tokyo hopes the multinational project for its air force’s modernisation can regain momentum.
+- Diplomacy
+- How Trump could reframe US goals in the Iran war to justify finishing it
 
 ## 经济通 (繁中)
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
-- 优必选去年亏损收窄收入升53%，股价飙近一成半
-- 3月制造业PMI升至50.4 重返扩张
-- 美油价飙升 逾3年首破每加仑4美元
+- 东方电气去年盈利及末期息同增31%，电力设备股急弹
+- 3月二手房价跌幅 连续3个月收窄
+- 特朗普斥北约“纸老虎” 认真考虑退出
 - 解压饺子奇袭Labubu，内存压缩狙击美光
 - 指数环球商品外汇
 - 国金观点
@@ -125,9 +122,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25294.03+505.89(+2.04%)
+- 恒生指数25016.36-277.67(-1.10%)
                     etnet.com.hk@copyright
-- 国企指数8504.81+130.51(+1.56%)
+- 国企指数8420.66-84.15(-0.99%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -137,18 +134,15 @@
 - 吃喝玩乐
 
 ## 智通财经 (简中)
-（抓取失败: curl exit 0, len=498）
+（抓取失败: curl exit 28, len=0）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 中国/欧盟: Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
-- 美国关税: 华尔街见闻 (简中)
-- 就业数据: SCMP (EN/中)
-- 黄金/大宗: 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 加密货币: Benzinga (EN), 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
