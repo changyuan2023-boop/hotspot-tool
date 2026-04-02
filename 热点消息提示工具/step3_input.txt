@@ -44,19 +44,19 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 9h 23m
+- U.S. markets open in 8h 34m
 - US stock futures slump after Trump's national address on Iran
 - Anthropic does damage control after leak, Iran threatens Big Tech
 - SpaceX confidentially files for IPO
+- S&P 500's war pattern: the wipeout begins every Thursday
+- De-fi platform Drift suspends transactions after millions stolen in hack
 - Is the stock market open on Good Friday and Easter Monday?
 - Oil surges after Trump offers no clear timeline to end war in Iran
-- The central question from President Trump's Iran speech
-- OpenAI is falling out of favor with secondary buyers
 其他:
 - President says US will complete war in Iran 'very shortly'
-- US set to roll out tiered tariffs on steel, aluminum imports
-- Amazon in talks to buy $9 billion satellite group Globalstar
-- S&P 500’s War Pattern: The Wipeout Begins Every Thursday
+- The central question from President Trump's Iran speech
+- OpenAI is falling out of favor with secondary buyers
+- Private Equity Sales Slump as AI, War Bring New Stress Fractures
 - Pop Mart Suffers $33 Billion Rout as Labubu Craze Unravels
 - Trump says US has plenty of jet fuel for Europe, market disagrees
 - Australian State Triggers Emergency Powers Amid Fuel Crisis
@@ -77,11 +77,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
+- Gavin Newsom Says Americans 'Paying The Price' For Trump's Iran War: 'Gas, Food And Air Fares…'
 - Trump Declares 'We Are Winning' As Artemis II Launch Marks Historic Return To The Moon: 'America Doesn't Just Compete, We Dominate'
 - Why Did Visionary Holdings (GV) Stock Soar 36% After Hours
 - Trump's Approval Slips To New Low As Poll Suggests Support Slipping Among Core Voters Amid Iran War, Partial Government Shutdown
 - Artemis-Named Crypto Rallies Over 200%, But Unlike NASA's Historic Mission, These Coins Face Slimmer Odds Of Rocketing 'To The Moon'
-- Dow Sinks 421 Points, Oil Surges To $104 As Donald Trump Threatens To 'Hit' Iran 'Extremely Hard' Within Weeks
 - Trump Threatens To 'Hit' Iran's Electric Plants And Oil In Live Address: 'We Haven't Hit Their Oil… But We Could'
 - Gas Prices
 - Why Wingstop Stock Hit A New 52-Week Low Wednesday
@@ -90,6 +90,19 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
+- 欧洲斯托克50指数期货跌幅扩大至2%。
+- 北上广深二手房成交集体井喷 喜提“小阳春”
+- 王毅同巴林外交大臣扎耶尼通电话
+- 以军称再次监测到伊方发射的导弹
+- 礼来口服GLP-1减肥药在美获批上市 已提交中国上市礼来口服GLP-1减肥药在美获批上市 已提交中国上市申请
+- 巴基斯坦KSE-100指数下跌3.2%。
+- 早间要闻汇总
+- 提醒：日内请重点关注（以下均为北京时间）
+- 中国金融时报：央行连续两日地量操作，不改资金面宽松态势
+- 联合国机构：霍尔木兹海峡“梗阻”加剧全球经济压力
+- 阿里发布国产最强编程模型Qwen3.6-Plus
+- 工信部原副部长王江平谈“龙虾”：要关注AI发展的一体两面
+其他:
 - 布伦特原油期货涨超6%，报107.39美元/桶；WTI涨超5%，报105.30美元/桶。
 - IBM宣布与ARM达成战略合作，将为企业开发灵活且可扩展的计算平台。
 - 海湾国家考虑新的输油管道以绕过霍尔木兹海峡。（英国金融时报）
@@ -100,47 +113,29 @@
 - 日本10年期国债收益率上行5个基点至2.35%。
 日本30年期国债收益率上行9个基点至3.705%。
 - 美国参议院民主党领袖猛批特朗普讲话
-- 日本拍卖10年期国债，认购倍数2.57，过去12个月均值为3.28。
 - 继美国土安全部长被解职后，美媒爆料：特朗普曾私下讨论并考虑解雇司法部长
-- 印度卢比兑美元上涨1.7%，之前印度央行采取措施抑制投机。
-其他:
-- 上证指数早盘收报3927.60点，跌0.53%。
-深证成指早盘收报13548.46点，跌1.15%。
-创业板指早盘收报3189.72点，跌1.78%。
-沪深30
-- 4月2日午间收评：创业板指半日跌1.78%，油气、医药股逆势走强
-- 国债期货早盘收盘，30年期主力合约跌0.12%，10年期主力合约跌0.02%，5年期主力合约跌0.03%，2年期主力合约跌0.02%。
-- 重庆发行10年期普通专项地方债，规模201.6000亿元，发行利率1.9900%，边际倍数1.55倍，倍数预期1.96；
-重庆发行20年期普通专项地方债，规模9
-- 进出口行发行66月期债券，规模50亿元，发行利率1.6436%，预期1.6300%，投标倍数3.01倍，边际倍数1.10倍；
-进出口行发行1年期债券，规模120
-- 霍尔木兹海峡封锁期间，韩国增加了从美国的石油进口。（韩联社）
-- 据韩国媒体，韩国将在伊朗战争结束后继续维持燃油价格上限。
-- 澳大利亚S&P/ASX 200指数下跌1%。
-- 特朗普：伊朗政权更迭不是美国目标
-- 京东携手超100个品牌推出家电家居“百亿双补”计划
 
 ## SCMP (EN/中)
 头版/首屏:
-- Controlled escalation? Trump hails ‘victories’ in Iran but vows more strikes
-- Iran’s Islamic republic will ‘collapse internally’, says Netanyahu
-- Science
 - ‘Impossible for Chinese’: Yale scientist Zhang Kai leaves US for China
+- ‘To do something nobody’s done’: physicist Zhu Zijie leaves Europe for China
+- Controlled escalation? Trump hails ‘victories’ in Iran but vows more strikes
 - Tech Trends
 - What Zhipu and MiniMax’s first post-IPO earnings say about the 2 AI start-ups
-- Society
-- Is it time to call an end to Hong Kong’s boar war?
-其他:
-- US president tells anxious Americans that the conflict’s core objectives are ‘nearing completion’ but fails to lay out a clear timeline to end the war.
-- Pioneering work involves observing proteins inside the body during exercise, effectively capturing their activity in a natural state.
-- The two Chinese start-ups show promising commercialisation of AI models, which are reflected in rising demand and revenue.
-- Wild boar numbers have dropped by half in recent years, prompting calls from experts for an end to aggressive control measures such as culling.
+- Tai Po fire hearing: management company may have breached duty to ensure safety
 - How to take down a US F-35 over Iran? Chinese engineer’s tutorial goes viral
-- Politics
-- Why Japan’s advanced fighter project may get Canadian tailwinds
-- With Ottawa’s interest in the stealth fighter, Tokyo hopes the multinational project for its air force’s modernisation can regain momentum.
-- Diplomacy
-- How Trump could reframe US goals in the Iran war to justify finishing it
+- China Economy
+其他:
+- Pioneering work involves observing proteins inside the body during exercise, effectively capturing their activity in a natural state.
+- US president tells anxious Americans that the conflict’s core objectives are ‘nearing completion’ but fails to lay out a clear timeline to end the war.
+- The two Chinese start-ups show promising commercialisation of AI models, which are reflected in rising demand and revenue.
+- Property officer agrees with committee lawyer’s contention that ISS EastPoint may have failed to meet contractual obligation to owners’ corporation.
+- Chinese airline regulator faces dilemma as Iran war sends fuel costs soaring
+- Pending announcement from regulator, two airlines reveal plans for sixfold increase in surcharges.
+- China Business
+- China’s JD.com returns to dim sum bond market with 10b yuan offering
+- The e-commerce giant is issuing the yuan-denominated notes in two tranches of 7.5 billion yuan and 2.5 billion yuan.
+- Economics
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -157,9 +152,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25016.36-277.67(-1.10%)
+- 恒生指数25016.78-277.25(-1.10%)
                     etnet.com.hk@copyright
-- 国企指数8420.66-84.15(-0.99%)
+- 国企指数8420.04-84.77(-1.00%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -169,15 +164,15 @@
 - 吃喝玩乐
 
 ## 智通财经 (简中)
-（抓取失败: curl exit 28, len=0）
+（抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
 - 加密货币: Benzinga (EN), 华尔街见闻 (简中)
+- 美国关税: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
