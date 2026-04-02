@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040223
+抓取时间: 2026040301
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 4h 25m
+- U.S. markets close in 2h 54m
 - Twin cybersecurity incidents leave AI industry shaken
 - Trump is overlooking how global energy markets work
 - Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks
+- Microsoft building its own AI models to cut OpenAI dependence
+- Starbucks offering baristas, managers bonuses in push to boost sales
+- Jet fuel and oil prices are up and airlines are paying the price
+- Trump's obesity drug plan for Medicare would cost insurers billions
+其他:
+- US stocks rise off lows as good news on Iran war emerges
 - Oil surges after Trump offers no clear timeline to end war in Iran
 - Coinbase locks in conditional approval to become a bank
-- Ford Q1 sales dip as last year's tariff-fueled buying set a high bar
-- Card spending a department stores falls as gas station sales surge: BofA
-其他:
-- US stocks steady on hopes Iran could reopen the Strait of Hormuz
-- Blue Owl falls as private debt manager caps major withdrawals requests
-- Gold slides as Trump gives mixed signals on Iran war resolution
+- Is the stock market closed on Good Friday and Easter Monday?
+- Coinbase gets conditional US approval for trust charter, Bloomberg News reports
+- Trump to reduce steel, aluminum tariff rates for derivative products, sources say
+- Mortgage rates rise for 5th straight week above 6%: Mortgage and refinance interest rates today
 - Bonds’ Oil-Driven Selloff Stalls as Growth Concerns Return
-- SpaceX confidentially files for IPO
-- Iranians Reel From US-Israeli Attacks on Civilian Infrastructure
-- Oil prices jump on fresh fears of escalation in Iran war
-- Bitcoin Plunges With Stocks as Trump Signals Harder Iran Strikes
-- IRS Fresh Start may expand tax payment options, but there's one thing to watch out for
-- Bitcoin tumbles, crypto momentum fades as Trump extends Iran timeline
+- Chime CEO Sees Consumers’ Fuel Spending Rise 25% Amid Iran War
+- US mortgage rates climb for fifth-straight week, pushed up by Iran war worries
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,71 +42,70 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- This Nutanix Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Thursday
-- Bear Cave Raises Red Flag On Yelp Stock, Shares Slump
-- What's Going On With Western Digital Stock Thursday?
-- This Brinker Analyst Turns Bullish; Here Are Top 5 Upgrades For Thursday
-- Braiin Stock Edges Higher On New Partnership And Growth Strategy
+- AST SpaceMobile Stock Surges Thursday: Here's Why
+- Ares Raises More Than $9.8 Billion For Opportunistic Credit Fund
+- What's Going On With Intel Stock Thursday?
+- Kalshi Labels Itself 'Gambling' In Federal Filing As California AG Challenges Prediction Market Oversight
+- SpaceX IPO Puts Sam Bankman Fried/FTX Stake In Musk Company Back In Spotlight: Here's The Missed Profits
 - Are Fed Rate Hikes Coming After Oil Spikes? Goldman Says Don't Bet On It
 - Gas Prices
-- Ross Gerber Compares Artemis 2 To Apollo Mission As NASA Returns To The Moon
-- Which Stocks Are Best Positioned When The Iran War Ends
-- Europe's AI Push Faces Major Roadblock: High Energy Costs Threaten Industrial Competitiveness
+- Trump Vows Strikes For 'Two To Three Weeks' More On Iran: Crude ETFs USO, BNO Surge As Oil Futures-SPY Divergence Hit 20-Year Record
+- Top 2 Industrials Stocks You May Want To Dump In Q2
+- Top 3 Defensive Stocks That Could Lead To Your Biggest Gains This Month
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 伊朗媒体Fars News列出科威特、沙特阿拉伯、阿布扎比和约旦的多座桥梁，称其为伊朗军事行动的潜在目标。
-布伦特原油5分钟内下跌0.54美元/桶，报106.9
-- 美国财政部拍卖四周期国债，得标利率3.620%，投标倍数3.15。
-拍卖八周期国债，得标利率3.620%，投标倍数3.26。
-- 德国DAX 30指数初步收跌0.72%，报23130.32点。
-法国股指初步收跌0.15%，意大利股指初步收跌0.30%、银行指数跌1.84%，英国股指初步收涨
-- 欧洲STOXX 600指数初步收跌0.22%，报596.39点。
-欧元区STOXX 50指数初步收跌0.81%，报5686.38点。
-富时泛欧绩优300指数初步
-- 阿盟呼吁对以色列“巴勒斯坦人死刑法”展开紧急国际刑事调查
-- 阿联酋表示愿参与霍尔木兹海峡航道安全保障
-- 奥地利拒绝美国使用其领空对伊行动
-- 伊朗：打击亚马逊位于巴林的计算中心
-- 伊朗警告称敢发动地面战绝不留活口
-- 伊朗副外长：将为途经霍尔木兹海峡的船只征收通行费。
-- 内盘期货夜市涨跌各异，燃油涨3.3%，焦煤、铁矿石、焦炭至多跌超0.7%
-- 伊朗伊斯兰革命卫队称重创美以相关工业及军事目标
+- 美国总统特朗普宣称，司法部长Bondi被免职。（福克斯新闻）
+- 国际铜夜盘收跌0.01%，沪铜收跌0.08%，沪铝收跌0.58%，沪锌收跌0.38%，沪铅收涨0.21%，沪镍收涨0.04%，沪锡收跌0.69%。
+氧化铝夜盘收
+- 美国4月3日当周石油钻井数 411，前值 409。
+- 美国4月3日当周总钻井数 548，前值 543。
+- 美国4月3日当周天然气钻井数 130，前值 127。
+- 数字货币市场跌约3%，Solana跌超5.2%，以太币跌超3.3%
+- 伊朗外长：美以军事行动是局势紧张主因 伊朗仍在“防御”
+- LME期铜收跌75美元，报12360美元/吨。
+LME期铝收跌62美元，报3470美元/吨。
+LME期锌收跌25美元，报3264美元/吨。
+LME期铅收跌8美元
+- 美国商品期货交易委员会（CFTC）就预测市场（的监管权）起诉亚利桑那（AZ）、康涅狄格（CT）、伊利诺伊（IL）三个州。
+- 伊朗向以色列特拉维夫发动新一轮导弹袭击
+- 全球主要原油现货价格飙升至 2008 年以来最高水平
+- 特朗普演说后，美油价差飙升至历史纪录水平
 其他:
-- 美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：在达拉斯联储辖区，私人信用并非头等风险。
-- 小米集团调整子公司股东，雷军持股比例增加
-- 海湾合作委员会（GCC）秘书长告诉联合国安理会，海湾地区诸国寻求与伊朗实现正常关系。
-海湾多国希望，在安全问题上与伊朗保持透明度。
-WTI原油5分钟内上涨0.6
-- 特朗普预算案为中期选举铺路：强化国防开支，削减其他项目
-- 滨会生物科技递表港交所
-- 美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：对（剔除住房的）核心服务的通胀感到忧心忡忡。
-- 伊朗与阿曼起草霍尔木兹海峡通行协议，标普转涨，新兴市场货币走高
-- 以防长称黎巴嫩真主党领导人将“付出沉重代价”
-- 美国总统特朗普宣称，很快将签署命令，从而对国土安全部（DHS）所有雇员支付薪资。
-- 伊朗一道路工程代表作遭美以袭击受损
+- 德债收益率周四上扬“高台跳水行情”，本周已跌10个基点
+- 埃及央行维持基准利率在19%不变，符合预期。
+- 意大利自6月份开始将从卡塔尔QatarEnergy与埃克森美孚的Golden Pass获取液化天然气（LNG）。（路透）
+- 美国总统特朗普相信，一旦伊朗战争结束，利率将会下降。（DC Examiner）
+- 谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。
+英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。
+英伟达为本地智能体人工智能（Ag
+- 城堡旗下全球固定收益基金3月下挫8.2%，Wellington基金下跌1.9%
+- 俄罗斯外长与沙特外交大臣通电话，讨论中东局势。
+- 欧洲央行管委兼法国央行行长Villeroy：某些金融条件趋紧已经显现出来。
+- 房地美：美国上周30年期按揭贷款/抵押贷款利率6.46%，连续第五周上涨，之前一周报6.38%。
+- 内盘期货夜市涨跌各异，燃油涨3.3%，焦煤、铁矿石、焦炭至多跌超0.7%
 
 ## SCMP (EN/中)
 头版/首屏:
 - What will the US do next in its war on Iran? Chinese pundits point to a likely path
 - How Trump could reframe US goals in the Iran war to justify finishing it
+- US-China direct trade continues shrinking trend ahead of Xi-Trump summit
 - Diplomacy
 - How Trump’s plan to take Iran’s Kharg Island could come unhinged
 - Global Economy
 - Trump’s ex-China mineral-alliance plan faces cost surge amid Iran war oil shock
-- Big Tech
-- Chinese AI giants pivot toward proprietary models to drive revenue, performance
+- ‘Impossible for Chinese’: Yale scientist Zhang Kai leaves US for China
 其他:
 - With no truce in sight, American forces might be preparing for a short, sharp option, analysts say.
+- Deficit with mainland hits two-decade low as trade shifts to Taiwan, Mexico and Vietnam amid tariff fallout and efforts to stabilise ties.
 - US President Donald Trump has repeatedly threatened to seize the key Iranian oil hub, with latest speech heightening fears.
 - Analysts say Middle East turmoil is elevating commodity input costs, affecting processing efforts and prompting push for ‘friendshoring’ to secure resources.
-- This week, Alibaba released three proprietary models that were all accessible only via its official cloud platform or chatbot website.
-- ‘Impossible for Chinese’: Yale scientist Zhang Kai leaves US for China
 - Science
 - How to take down a US F-35 over Iran? Chinese engineer’s tutorial goes viral
 - Striking phenomenon emerges from China as technically skilled civilians volunteer expertise online to help Iran counter US military might.
 - Tech Trends
 - Anthropic’s AI code leak ignites frenzy among Chinese developers
+- Chinese developers have been having a field day, scrambling to download copies of the leaked code and poring over files to learn detail.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -135,14 +134,14 @@ WTI原油5分钟内上涨0.6
 - 吃喝玩乐
 
 ## 智通财经 (简中)
-（抓取失败: curl exit 28, len=0）
+（抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN)
+- 美国关税: Yahoo Finance (EN), SCMP (EN/中)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
 - 中国/欧盟: Benzinga (EN), SCMP (EN/中)
 - 加密货币: Yahoo Finance (EN)
 - 美联储: Benzinga (EN)
