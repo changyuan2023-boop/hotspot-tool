@@ -3,7 +3,7 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 2h 37m | Twin cybersecurity incidents leave AI industry shaken | Trump is overlooking how global energy markets work | Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 2h 35m | Twin cybersecurity incidents leave AI industry shaken | Trump is overlooking how global energy markets work | Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks
   - 其他: US stocks rise off lows as good news on Iran war emerges | Oil surges after Trump offers no clear timeline to end war in Iran | Coinbase locks in conditional approval to become a bank | US Lawmakers Propose Crackdown on Sales of Chip Tools to China | Is the stock market closed on Good Friday and Easter Monday?
 
 - **Benzinga (EN)** ✓
