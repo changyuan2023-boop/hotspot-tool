@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040217
+抓取时间: 2026040219
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 3h 34m
-- US stock futures slump after Trump's national address on Iran
-- The central question from President Trump's Iran speech
-- President says US will complete war in Iran 'very shortly'
-- US set to roll out tiered tariffs on steel, aluminum imports
-- BofA rips up forecasts, braces for $100 oil all year
-- The SpaceX IPO is great — but it won't deliver 100x returns
-- Gulf states consider new pipelines to avoid Strait of Hormuz
-其他:
+- U.S. markets open in 1h 51m
+- Trump is overlooking how global energy markets work
+- What's changed (and what hasn't) in the year since 'Liberation Day'
+- The stock market has trust issues right now
 - Oil surges after Trump offers no clear timeline to end war in Iran
-- Bitcoin tumbles with stocks as Trump signals harder Iran strikes
-- Treasurys fall as Trump's Iran threats add to inflation concern
-- Immunovant's treatment for eye disease fails late-stage trial
-- $200 oil isn’t as crazy as it sounds
-- Why sky-high oil prices haven't shaken Wall Street's confidence in Delta stock
-- Foreign Selling of Japan Stocks Hits 18-Month High on Iran Risk
-- France to announce measures to favour data centres in coming weeks, Finance Minister says
-- China says it supports law-abiding transnational deals after reports of Meta deal review
-- UAE Asks UN to Approve Measures, Including Force, to Open Hormuz
+- How much money will we need in retirement?
+- From Lockheed to start-ups, arms makers jostle for Iran war orders
+- The central question from President Trump's Iran speech
+其他:
+- US stock futures tumble after Trump's national address on Iran
+- President says US will complete war in Iran 'very shortly'
+- BofA rips up forecasts, braces for $100 oil all year
+- Wall Street sees multi-billion dollar debut for Lilly's obesity pill despite Novo lead
+- Kraft Heinz’s post-split future: More protein, less sugar
+- Trump Budget to Frame Midterms With Defense Boost, Domestic Cuts
+- Exclusive-Russian oil output cuts are unavoidable as drone attacks shrink exports, sources say
+- Tariff-struck companies exploring loans backed by refund claims​
+- Morning Brief: Labor market data vs. anecdotes
+- Oil prices jump on fresh fears of escalation in Iran war
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,64 +77,64 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Every Major Hyperscaler Is Moving To Arm — Here's Why It Matters
-- TotalEnergies Bets On Asia's Clean Energy Boom With Masdar Joint Venture
-- Doug Ford Opposes Stellantis Deal With Tesla Rival Leapmotor To Manufacture In Canada's Ontario: 'Dead Against It'
-- Vlad Tenev Pushed Hard Early Proving Robinhood Could Build 'Meaningful' Products—Now Chases This Goal
-- US To Loan 10 Million Barrels Of Oil From Strategic Reserve Amid Iran War Supply Crunch
+- Why Is Globalstar Stock Soaring Thursday?
+- What's Going On With CoreWeave Stock Thursday?
+- Anthony Scaramucci Says He's 'Huge Fan' Of Michael Saylor, Breaks Down MSTR's 11% Yield Play
+- As Trump Threatens NATO Exit, Schumer Reminds Marco Rubio Of His Own Law Blocking Any Quick Withdrawal— 'Couldn't Act On A Whim'
+- US-Iran War Updates April 2: IDF Hits IRGC Sites As Mobile Units Targeted, Russia Offers Help To Ease Iran War (UPDATED)
 - Stock Market Today: S&P 500, Dow Futures Plunge As Trump 'Re-Escalates' War With Iran—Micron Technology, IBM, General Motors In Focus
 - Gas Prices
 - Artemis II Crew Head Toward Moon On Historic First NASA Crewed Lunar Mission In More Than 50 Years: Rocket Lab And Other Stocks To Watch Tonight
-- Warren Buffett, Dan Ives Bet On The Same 3 Stocks — Some Might Surprise You
-- Meta Shares Rise Nearly 3% After Key Trading Signal
+- Copper-Aluminum Divergence Unveils The Complex Iran War Impact
+- Samsung Still Leads — But Foldable Rivals Are Closing In Fast
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 行业组织发布声明严禁AI换脸合成
-- 伊朗称渗透以防空指挥系统支持公司 获取机密资料
-- 乘联分会：2026年3月全国乘用车厂商新能源批发预估112万辆，同比去年持平，环比2月增长55%。3月特斯拉中国批发销量85,670辆。
-- 国务院任免国家工作人员
-- 2连板北大医药：公司不存在创新药业务
-- 中国央行：3月公开市场国债买卖净投放500亿元
-- 上交所：2026年3月A股新开户460.14万户，同比增长50.10%
-- 伊朗称特朗普宣布虚假胜利
-- 美国加州发生4.9级地震
-- 工信部：鼓励设立中小企业专属算力池
-- 我国科研团队在新一代集成显示技术领域取得突破
-- 工信部：探索“算力银行”“算力超市”等创新业务 支持中小企业存入闲置算力资源
+- 美股期货走低，纳斯达克100指数期货跌2%，标普500指数期货跌1.5%，道指期货跌1.4%。
+- Challenger报告：美国雇主3月宣布的裁员人数同比下降78%
+- 伊朗伊斯兰革命卫队特种部队指挥官遇袭身亡
+- WTI原油日内涨幅达9.0%，报109.14美元/桶。
+- 美国3月挑战者企业裁员人数同比 -78%，前值 -71.9%。
+- 伊朗武装部队称美以无法企及伊朗的关键军备中心
+- 高瓴投资在阿布扎比开设新办事处。（彭博）
+- 伊朗卡拉季一桥梁遭袭多人受伤
+- 中海油副总汪剑波履新国家能源局副局长，曾在中石化工作30余年
+- 美国参议院否决了众议院版本的国土安全部拨款法案。（彭博）
+- 国务院食安办、市场监管总局、海关总署约谈3家平台企业
+- 中国人民银行召开2026年会计财务工作会议
 其他:
-- 工信部：到2028年底显著降低中小企业获取、使用算力门槛 为推动中小企业专精特新发展提供坚实算力支撑
-- 依法严惩芯片制造等领域侵权犯罪 检察机关这样服务新质生产力发展
-- 美银全球研究：预计英国央行将在2026年6月和7月各加息25个基点，而此前预期为今年6月和9月降息。
-- 商务部部长王文涛主持召开第139届广交会筹备工作会
-- 乌方否认俄军完全占领卢甘斯克地区 称仍控制部分战略要地
-- 华钰矿业：控股股东筹划控制权变更事项 股票停牌
-- 国务院办公厅：支持符合条件的征信机构参与融资信用服务平台运营
-- 中央网信办、工业和信息化部、公安部开展2026年个人信息保护系列专项行动
-- 中东铝厂接连遇袭 全球铝市场或现明显供需缺口
-- 伊朗国防部发言人：敌人在多个关键领域遭受挫败
+- 俄罗斯石油出口能力因无人机袭击而减少100万桶/日。（路透）
+- 英国2年期国债下跌，收益率上涨10个基点至4.40%。
+- 俄媒：普京与埃及外长会晤，俄外长等人参与会谈
+- 伊朗德黑兰和卡拉季传出爆炸声
+- 消息人士称，由于能源设施遭到无人机袭击，俄罗斯面临石油产量下降。（路透）
+- 机构：2025年中国新能源产业投资金额约2.8万亿元，同比下降24.1%
+- 两位OPEC+消息人士称，OPEC+可能在周日的会议上考虑进一步提高石油产量配额，为霍尔木兹海峡出口限制可能出现的任何缓解做好准备。（路透）
+- 【伊朗实施“真实承诺-4”第90波打击行动 袭击美相关金属产业设施】当地时间4月2日，伊朗伊斯兰革命卫队发布声明称，已实施“真实承诺-4”第90波打击行动，对地
+- 伊拉克武装组织：美军不会有安全避风港
+- 伊朗称本轮冲突爆发以来累计击落154架无人机
 
 ## SCMP (EN/中)
 头版/首屏:
+- PLA upgrades ageing tanks with protection system for potential Taiwan operation
+- New Type 055 destroyers for PLA East China Fleet tested in first live-fire drill
+- China Business
+- China EV makers surge back in March as subsidies and financing spur demand
+- Diplomacy
 - Why China and Vietnam are shifting from confrontation to calm in South China Sea
-- Will Paracels dispute overshadow China-Vietnam drive for closer strategic ties?
+- Transport
+- 40,000 taxi drivers sign up for e-payment systems as new rules come into force
+其他:
+- Type 96A main battle tanks from Eastern Theatre Command now have APS to counter drones and anti-tank missiles, according to state media.
+- Carmakers report strong month-on-month gains as policy support and new financing schemes lift buyer sentiment.
+- Disagreements continue, but the two sides are showing notable restraint in contrast with Beijing’s fierce exchanges with Manila.
+- Widespread coverage is good news ahead of coming holiday for mainland visitors who have solely been using e-wallets for years.
+- ‘Impossible for Chinese’: Yale scientist Zhang Kai leaves US for China
 - China Economy
 - ‘False proposition’: state media hits ‘China shock’ as cover for Western anxiety
-- Premier Li Qiang pushes AI-powered, next-gen energy system amid global shocks
-- Business
-- Hong Kong’s property market resilient despite small setback last month: analysts
-- How to take down a US F-35 over Iran? Chinese engineer’s tutorial goes viral
-其他:
-- Disagreements continue, but the two sides are showing notable restraint in contrast with Beijing’s fierce exchanges with Manila.
 - The state-run Economic Daily says the real problem with the global economy is not China’s strong exports, but rising protectionism.
-- Beijing is moving to modernise the power grid, putting innovation and flexibility at the heart of its strategy.
-- Hong Kong property deals to reach 8,000 this month after staying above 7,000 for six consecutive months, real estate agencies say.
-- Entertainment
-- ‘Like a TikTok trend’: how micro dramas leave big studios in their dust
-- The head of a Chinese micro drama company shares how studios behind short-form shows for phones use data to keep viewers hooked.
-- Science
-- ‘Impossible for Chinese’: Yale scientist Zhang Kai leaves US for China
-- Pioneering work involves observing proteins inside the body during exercise, effectively capturing their activity in a natural state.
+- Tech Trends
+- OpenClaw deepens China footprint through native Tencent, ByteDance integrations
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -167,15 +167,12 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 美国关税: Yahoo Finance (EN)
-- 加密货币: Yahoo Finance (EN)
 - 就业数据: SCMP (EN/中)
 - 黄金/大宗: 华尔街见闻 (简中)
-- 美联储: 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中)
+- 中国/欧盟: SCMP (EN/中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
