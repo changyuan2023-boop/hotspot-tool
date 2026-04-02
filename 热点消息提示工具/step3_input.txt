@@ -36,7 +36,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040219
+抓取时间: 2026040222
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -44,25 +44,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 51m
+- U.S. markets close in 5h 45m
 - Trump is overlooking how global energy markets work
+- US trade deficit rose by almost 5%, another 'Liberation Day' zigzag
+- Tesla Q1 deliveries miss estimates in challenging EV landscape
+- Initial jobless claims unexpectedly fall as labor market holds steady
 - What's changed (and what hasn't) in the year since 'Liberation Day'
-- The stock market has trust issues right now
-- Oil surges after Trump offers no clear timeline to end war in Iran
-- How much money will we need in retirement?
-- From Lockheed to start-ups, arms makers jostle for Iran war orders
-- The central question from President Trump's Iran speech
+- Want to move to a bigger home? It's probably owned by empty nesters.
+- US bonds fall as Trump's Iran threats add to inflation angst
 其他:
-- US stock futures tumble after Trump's national address on Iran
-- President says US will complete war in Iran 'very shortly'
-- BofA rips up forecasts, braces for $100 oil all year
-- Wall Street sees multi-billion dollar debut for Lilly's obesity pill despite Novo lead
-- Kraft Heinz’s post-split future: More protein, less sugar
-- Trump Budget to Frame Midterms With Defense Boost, Domestic Cuts
-- Exclusive-Russian oil output cuts are unavoidable as drone attacks shrink exports, sources say
-- Tariff-struck companies exploring loans backed by refund claims​
-- Morning Brief: Labor market data vs. anecdotes
-- Oil prices jump on fresh fears of escalation in Iran war
+- US stocks tumble after Trump's national address on Iran
+- Layoff plans ticked up last month, with employers citing AI
+- Walmart shoppers aren't breaking under the weight of $4 gas (yet)
+- Exclusive-Russia's Primorsk oil terminal lost 40% of storage to drone attacks, satellite images show
+- US trade deficit widens in February as imports offset record exports
+- Blue Owl Limits Redemptions on Private Credit Funds After Massive Exit Requests
+- Walgreens’ Private Equity Owner Plans to Double Pharmacy Chain’s Profits
+- Starbucks Dangles $1,200 Bonuses for Friendlier, Faster Baristas
+- 3 predictions about silver prices in the next decade
+- US weekly jobless claims fall as layoffs remain low
 
 ## Benzinga (EN)
 头版/首屏:
@@ -77,64 +77,68 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Why Is Globalstar Stock Soaring Thursday?
-- What's Going On With CoreWeave Stock Thursday?
-- Anthony Scaramucci Says He's 'Huge Fan' Of Michael Saylor, Breaks Down MSTR's 11% Yield Play
-- As Trump Threatens NATO Exit, Schumer Reminds Marco Rubio Of His Own Law Blocking Any Quick Withdrawal— 'Couldn't Act On A Whim'
-- US-Iran War Updates April 2: IDF Hits IRGC Sites As Mobile Units Targeted, Russia Offers Help To Ease Iran War (UPDATED)
-- Stock Market Today: S&P 500, Dow Futures Plunge As Trump 'Re-Escalates' War With Iran—Micron Technology, IBM, General Motors In Focus
+- Oil, Eggs And Crypto Define Q1's Market Rotation
+- US Crude Oil Just Flipped Above Brent By The Most Since 2009 – Why Is This Happening?
+- Cocrystal Pharma Shares Soar After FDA Grants Fast Track Status To CDI-988
+- What's Going On With Rivian Stock Thursday?
+- 'Take 20% Of Your $69,000 Salary And Invest It Every Week. Don't touch it,' Kevin O'Leary Advises to Become a Millionaire
+- United States Oil Fund (USO) Hits New 52-Week High As Iran War Escalation Lifts Oil
 - Gas Prices
-- Artemis II Crew Head Toward Moon On Historic First NASA Crewed Lunar Mission In More Than 50 Years: Rocket Lab And Other Stocks To Watch Tonight
-- Copper-Aluminum Divergence Unveils The Complex Iran War Impact
-- Samsung Still Leads — But Foldable Rivals Are Closing In Fast
+- Stock Market Today: S&P 500, Nasdaq Futures Plunge As Trump 'Re-Escalates' War With Iran— Micron Technology, IBM, General Motors In Focus (UPDATED)
+- Europe's AI Push Faces Major Roadblock: High Energy Costs Threaten Industrial Competitiveness
+- How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, TSLA Using Technical Analysis
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 美股期货走低，纳斯达克100指数期货跌2%，标普500指数期货跌1.5%，道指期货跌1.4%。
-- Challenger报告：美国雇主3月宣布的裁员人数同比下降78%
-- 伊朗伊斯兰革命卫队特种部队指挥官遇袭身亡
-- WTI原油日内涨幅达9.0%，报109.14美元/桶。
-- 美国3月挑战者企业裁员人数同比 -78%，前值 -71.9%。
-- 伊朗武装部队称美以无法企及伊朗的关键军备中心
-- 高瓴投资在阿布扎比开设新办事处。（彭博）
-- 伊朗卡拉季一桥梁遭袭多人受伤
-- 中海油副总汪剑波履新国家能源局副局长，曾在中石化工作30余年
-- 美国参议院否决了众议院版本的国土安全部拨款法案。（彭博）
-- 国务院食安办、市场监管总局、海关总署约谈3家平台企业
-- 中国人民银行召开2026年会计财务工作会议
+- 伊朗副外长：正研究对通过霍尔木兹海峡的船只收费
+- 微软：三款世界级MAI模型现已上线FOUNDRY。
+- 据美国纽约联储数据，上个交易日（4月1日）担保隔夜融资利率（SOFR）报3.65%，之前一天报3.68%。
+上个交易日有效的联邦基金利率报3.64%，之前一天报
+- 王毅同沙特外交大臣费萨尔通电话
+- 新希望乳业股份有限公司递表港交所
+- 2026年度中央安全生产考核巡查季度明查暗访正式启动
+- IMF：美联储今年降息空间有限
+- Blue Owl股价下跌7.6%，创盘中历史新低。
+在赎回请求激增后，该公司通过4月2日发布的致股东信将私人信用基金赎回比例限制在5%。
+- 俄罗斯正装载第二艘向古巴运送石油的船只
+- 阿波罗全球管理为私募信贷行业辩护 称其只是经历成长中的阵痛
+- 2026款小鹏MONA M03上市，起售价为11.98万元
+- WTI原油日内涨幅超13%，报113.26美元/桶。
 其他:
-- 俄罗斯石油出口能力因无人机袭击而减少100万桶/日。（路透）
-- 英国2年期国债下跌，收益率上涨10个基点至4.40%。
-- 俄媒：普京与埃及外长会晤，俄外长等人参与会谈
-- 伊朗德黑兰和卡拉季传出爆炸声
-- 消息人士称，由于能源设施遭到无人机袭击，俄罗斯面临石油产量下降。（路透）
-- 机构：2025年中国新能源产业投资金额约2.8万亿元，同比下降24.1%
-- 两位OPEC+消息人士称，OPEC+可能在周日的会议上考虑进一步提高石油产量配额，为霍尔木兹海峡出口限制可能出现的任何缓解做好准备。（路透）
-- 【伊朗实施“真实承诺-4”第90波打击行动 袭击美相关金属产业设施】当地时间4月2日，伊朗伊斯兰革命卫队发布声明称，已实施“真实承诺-4”第90波打击行动，对地
-- 伊拉克武装组织：美军不会有安全避风港
-- 伊朗称本轮冲突爆发以来累计击落154架无人机
+- 美股跌幅扩大，纳指跌超2%。
+- 腾讯云ClawPro正式发布，企业版龙虾10分钟上线
+- 美股盘初，主要行业ETF普跌，全球航空业ETF跌超4%，全球科技股ETF、半导体ETF跌近3%，能源业ETF涨超2%。
+- 特斯拉股价下跌4.6%，创2月4日以来最大跌幅。
+- 美股盘初大跌：纳指跌1.7%，特斯拉跌约4%，Blue Owl跌约6%
+- 标普500指数低开62.71点，跌幅0.95%，报6512.61点；
+道琼斯工业平均指数低开96.38点，跌幅0.21%，报46469.36点；
+纳斯达克综合指
+- 美银和高盛先后遭炸弹威胁后，巴黎警方加强美资银行安保措施。（彭博）
+- 诺和诺德：跨临床研究对比显示，Wegovy口服片剂表现优于礼来的口服GLP-1药物
+- Spire Global涨幅扩大至16%。
+- 可口可乐发布新版市场营销策略，希望借机在餐厅行业提振苏打水的销售。
 
 ## SCMP (EN/中)
 头版/首屏:
-- PLA upgrades ageing tanks with protection system for potential Taiwan operation
-- New Type 055 destroyers for PLA East China Fleet tested in first live-fire drill
-- China Business
-- China EV makers surge back in March as subsidies and financing spur demand
-- Diplomacy
-- Why China and Vietnam are shifting from confrontation to calm in South China Sea
-- Transport
-- 40,000 taxi drivers sign up for e-payment systems as new rules come into force
+- How Trump’s plan to take Iran’s Kharg Island could come unhinged
+- What if US ground forces march into Iran? Chinese experts weigh the risks
+- Global Economy
+- Trump’s ex-China mineral-alliance plan faces cost surge amid Iran war oil shock
+- Big Tech
+- Chinese AI giants pivot toward proprietary models to drive revenue, performance
+- Society
+- Call to close loopholes in Hong Kong’s child sexual offence bill
 其他:
-- Type 96A main battle tanks from Eastern Theatre Command now have APS to counter drones and anti-tank missiles, according to state media.
-- Carmakers report strong month-on-month gains as policy support and new financing schemes lift buyer sentiment.
-- Disagreements continue, but the two sides are showing notable restraint in contrast with Beijing’s fierce exchanges with Manila.
-- Widespread coverage is good news ahead of coming holiday for mainland visitors who have solely been using e-wallets for years.
+- US President Donald Trump has repeatedly threatened to seize the key Iranian oil hub, with latest speech heightening fears.
+- Analysts say Middle East turmoil is elevating commodity input costs, affecting processing efforts and prompting push for ‘friendshoring’ to secure resources.
+- This week, Alibaba released three proprietary models that were all accessible only via its official cloud platform or chatbot website.
+- NGOs say amendment bill should offer better protections for young victims giving evidence in court and create new offences for persistant abuse.
 - ‘Impossible for Chinese’: Yale scientist Zhang Kai leaves US for China
 - China Economy
 - ‘False proposition’: state media hits ‘China shock’ as cover for Western anxiety
 - The state-run Economic Daily says the real problem with the global economy is not China’s strong exports, but rising protectionism.
-- Tech Trends
-- OpenClaw deepens China footprint through native Tencent, ByteDance integrations
+- Military
+- PLA upgrades ageing tanks with protection system for potential Taiwan operation
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -167,12 +171,13 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 美国关税: Yahoo Finance (EN)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
+- 加密货币: Benzinga (EN)
 - 就业数据: SCMP (EN/中)
-- 黄金/大宗: 华尔街见闻 (简中)
-- 中国/欧盟: SCMP (EN/中)
+- 美联储: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
