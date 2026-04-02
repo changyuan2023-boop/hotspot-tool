@@ -9,7 +9,7 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 2h 37m
+- U.S. markets close in 2h 40m
 - Twin cybersecurity incidents leave AI industry shaken
 - Trump is overlooking how global energy markets work
 - Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks
@@ -25,9 +25,9 @@
 - Is the stock market closed on Good Friday and Easter Monday?
 - Coinbase gets conditional US approval for trust charter, Bloomberg News reports
 - Trump to reduce steel, aluminum tariff rates for derivative products, sources say
-- Mortgage rates rise for 5th straight week above 6%: Mortgage and refinance interest rates today
-- Bonds’ Oil-Driven Selloff Stalls as Growth Concerns Return
-- Chime CEO Sees Consumers’ Fuel Spending Rise 25% Amid Iran War
+- Starbucks offering baristas, managers $1,200 bonuses in a push to boost sales and make customers happy
+- Gold Slides as Trump Gives Mixed Signals on Iran War Resolution
+- Jet fuel prices are up 100%, oil prices keep surging, and airlines are paying the price
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,20 +42,19 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- GSAT's 18-Year High Isn't Just About Amazon - Soros, AQR, Millennium Saw It Coming
-- 4 Tech Stocks That Still Have Strong Fundamentals
 - Why Is Biodexa Pharmaceuticals (BDRX) Stock Skyrocketing Today?
 - Cramer Dunks on Microsoft — Meme Traders Reply, 'Thank You for Saving MSFT'
 - Oil Prices Soar To $112, Tesla Tumbles To 7-Month Lows: What's Moving Markets Thursday?
+- Gas Prices Searches Hit Four-Year High On Google: Uber Offers Drivers $4,000 To Switch To EVs
+- AST SpaceMobile Stock Surges Thursday: Here's Why
 - Gas Prices
-- US Crude Oil Just Flipped Above Brent By The Most Since 2009 – Why Is This Happening?
+- SpaceX At $1.75 Trillion Could Expose How Overpriced Some Space Stocks Really Are
 - Top 2 Industrials Stocks You May Want To Dump In Q2
 - Top 3 Defensive Stocks That Could Lead To Your Biggest Gains This Month
 - Which Stocks Are Best Positioned When The Iran War Ends
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 阿根廷总统重申对马岛主权，承诺提高部队薪资
 - 俄罗斯总统助理乌沙科夫：霍尔木兹海峡对俄罗斯开放。
 - 周四（4月2日），美联储隔夜逆回购协议（RRP）使用规模为3.27亿美元（交易对手3家），上个交易日报21.07亿美元。
 - 以色列能源部：Leviathan钻井恢复运营。
@@ -68,8 +67,8 @@
 - 美国4月3日当周天然气钻井数 130，前值 127。
 - 伊朗石油价格自2022年以来首次转为溢价
 - 数字货币市场跌约3%，Solana跌超5.2%，以太币跌超3.3%
-其他:
 - 伊朗外长：美以军事行动是局势紧张主因 伊朗仍在“防御”
+其他:
 - LME期铜收跌75美元，报12360美元/吨。
 LME期铝收跌62美元，报3470美元/吨。
 LME期锌收跌25美元，报3264美元/吨。
@@ -82,6 +81,9 @@ LME期铅收跌8美元
 - 埃及央行维持基准利率在19%不变，符合预期。
 - 意大利自6月份开始将从卡塔尔QatarEnergy与埃克森美孚的Golden Pass获取液化天然气（LNG）。（路透）
 - 美国总统特朗普相信，一旦伊朗战争结束，利率将会下降。（DC Examiner）
+- 谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。
+英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。
+英伟达为本地智能体人工智能（Ag
 
 ## SCMP (EN/中)
 头版/首屏:
@@ -132,17 +134,38 @@ LME期铅收跌8美元
 - 吃喝玩乐
 
 ## 智通财经 (简中)
-（抓取失败: curl exit 0, len=498）
+头版/首屏:
+- 商务部：进一步发挥中美经贸磋商机制作用加强对话沟通
+- 特朗普一番狠话颠覆市场预期! 刚刚上演大反攻的风险资产遭重创 原油与美元再度起舞
+- 金价狂飙逼近4800美元：当“战争风险”退场，衰退恐慌能否点燃黄金二次高峰？
+- 油价下挫、全球股债携手反弹、黄金重回4700美元！停火预期点燃乐观情绪 但高油价阴影未散
+- 伊朗外长：收到美国总统特使“私信”，但不意味着谈判
+- AI尽头真就是电力!微软(MSFT.US)70亿美元豪赌奏响“自供电时代”号角
+- 特朗普撤军信号引爆乐观情绪！美股三大股指创近一年最大单日涨幅 华尔街押注中东战事“提前收场”
+- 中国和巴基斯坦关于恢复海湾和中东地区和平稳定的五点倡议
+- 央行：继续实施适度宽松的货币政策 加大逆周期和跨周期调节力度
+其他:
+- 美国拟对医药行业实施新关税政策 最高可达100%
+- 美股异动 | 光通信板块普涨 Applied Optoelectronics(AAOI.US)大涨近18%
+- 传伊朗、阿曼起草霍尔木兹海峡通行协议 美股三大指数一度转涨
+- 美股异动 | 霸王茶姬(CHA.US)涨逾7% 同店销售数据环比改善
+- 美联储缩表新思路！洛根提议“降需求”替代收紧流动性
+- A股晚间热点 | 重大突破！中国首个原创核药获批 医药板块做多良机来了？
+- 特斯拉(TSLA.US)销售“失速” 交付量连续两个季度不及预期 股价一度跌4.6%
+- 进出口齐增长 美国2月贸易逆差扩大幅度低于预期
+- 美国初请失业金人数降至近两年低点 就业市场“低招聘、低裁员”格局未变
+- 欧洲股债预期“严重割裂”：债市押注加息三次压通胀 股市仍寄望于降息救经济
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 智通财经 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 智通财经 (简中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 智通财经 (简中)
+- 美国关税: Yahoo Finance (EN), SCMP (EN/中), 智通财经 (简中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中), 智通财经 (简中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), SCMP (EN/中)
+- 美联储: 华尔街见闻 (简中), 智通财经 (简中)
+- 中国政策/两会: 华尔街见闻 (简中), 智通财经 (简中)
 - 加密货币: Yahoo Finance (EN)
-- 黄金/大宗: 华尔街见闻 (简中)
-- 美联储: 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中)
+- 就业数据: 智通财经 (简中)
 
 --- 粘贴结束 ---
