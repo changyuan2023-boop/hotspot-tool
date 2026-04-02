@@ -61,6 +61,11 @@ jobs:
         run: echo "subject=热点消息提示 $(date '+%Y-%m-%d %H:%M')" >> $GITHUB_OUTPUT
 
       # 需在仓库 Settings → Secrets 中配置：SMTP_SERVER, SMTP_PORT, SMTP_USERNAME, SMTP_PASSWORD, MAIL_FROM
+      - name: 读取摘要内容
+        if: success()
+        id: read_output
+        run: echo "body=$(cat 热点消息提示工具/step3_output.txt)" >> $GITHUB_OUTPUT
+
       - name: 发送到邮箱（Slack 入站邮箱）
         if: success()
         uses: dawidd6/action-send-mail@v3
@@ -72,4 +77,4 @@ jobs:
           subject: ${{ steps.prepare_mail.outputs.subject }}
           to: aaaaqqxkdpmxet4xfgyjhylvxq@longbridge-group.org.slack.com
           from: ${{ secrets.MAIL_FROM }}
-          body_path: 热点消息提示工具/step3_output.txt
+          body: ${{ steps.read_output.outputs.body }}

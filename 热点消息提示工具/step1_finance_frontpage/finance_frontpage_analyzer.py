@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+from __future__ import annotations
 """
 财经新闻头版分析工具
 从多个财经网站首页抓取头版/要闻，按重要性排序：

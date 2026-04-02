@@ -162,7 +162,7 @@ def _call_llm_once(client, model: str, prompt: str) -> str:
                 )},
                 {"role": "user", "content": prompt},
             ],
-            max_tokens=2000,
+            max_tokens=800,
         )
         if isinstance(r, str):
             out = r.strip()
