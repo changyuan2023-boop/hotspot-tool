@@ -3,12 +3,12 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 2h 54m | Twin cybersecurity incidents leave AI industry shaken | Trump is overlooking how global energy markets work | Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 2h 51m | Twin cybersecurity incidents leave AI industry shaken | Trump is overlooking how global energy markets work | Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks
   - 其他: US stocks rise off lows as good news on Iran war emerges | Oil surges after Trump offers no clear timeline to end war in Iran | Coinbase locks in conditional approval to become a bank | Is the stock market closed on Good Friday and Easter Monday? | Coinbase gets conditional US approval for trust charter, Bloomberg News reports
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: AST SpaceMobile Stock Surges Thursday: Here's Why | Ares Raises More Than $9.8 Billion For Opportunistic Credit Fund | What's Going On With Intel Stock Thursday? | Kalshi Labels Itself 'Gambling' In Federal Filing As California AG Challenges Prediction Market Oversight | SpaceX IPO Puts Sam Bankman Fried/FTX Stake In Musk Company Back In Spotlight: Here's The Missed Profits
+  - 其他: Gas Prices Searches Hit Four-Year High On Google: Uber Offers Drivers $4,000 To Switch To EVs | AST SpaceMobile Stock Surges Thursday: Here's Why | Ares Raises More Than $9.8 Billion For Opportunistic Credit Fund | What's Going On With Intel Stock Thursday? | Kalshi Labels Itself 'Gambling' In Federal Filing As California AG Challenges Prediction Market Oversight
 
 - **华尔街见闻 (简中)** ✓
   - 头版/首屏: 美国总统特朗普宣称，司法部长Bondi被免职。（福克斯新闻） | 国际铜夜盘收跌0.01%，沪铜收跌0.08%，沪铝收跌0.58%，沪锌收跌0.38%，沪铅收涨0.21%，沪镍收涨0.04%，沪锡收跌0.69%。
