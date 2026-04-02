@@ -69,6 +69,7 @@ jobs:
           {
             echo "body<<$delim"
             cat 热点消息提示工具/step3_output.txt
+            echo
             echo "$delim"
           } >> $GITHUB_OUTPUT
 
