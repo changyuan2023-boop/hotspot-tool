@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040222
+抓取时间: 2026040223
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 5h 45m
+- U.S. markets close in 4h 25m
+- Twin cybersecurity incidents leave AI industry shaken
 - Trump is overlooking how global energy markets work
-- US trade deficit rose by almost 5%, another 'Liberation Day' zigzag
-- Tesla Q1 deliveries miss estimates in challenging EV landscape
-- Initial jobless claims unexpectedly fall as labor market holds steady
-- What's changed (and what hasn't) in the year since 'Liberation Day'
-- Want to move to a bigger home? It's probably owned by empty nesters.
-- US bonds fall as Trump's Iran threats add to inflation angst
+- Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks
+- Oil surges after Trump offers no clear timeline to end war in Iran
+- Coinbase locks in conditional approval to become a bank
+- Ford Q1 sales dip as last year's tariff-fueled buying set a high bar
+- Card spending a department stores falls as gas station sales surge: BofA
 其他:
-- US stocks tumble after Trump's national address on Iran
-- Layoff plans ticked up last month, with employers citing AI
-- Walmart shoppers aren't breaking under the weight of $4 gas (yet)
-- Exclusive-Russia's Primorsk oil terminal lost 40% of storage to drone attacks, satellite images show
-- US trade deficit widens in February as imports offset record exports
-- Blue Owl Limits Redemptions on Private Credit Funds After Massive Exit Requests
-- Walgreens’ Private Equity Owner Plans to Double Pharmacy Chain’s Profits
-- Starbucks Dangles $1,200 Bonuses for Friendlier, Faster Baristas
-- 3 predictions about silver prices in the next decade
-- US weekly jobless claims fall as layoffs remain low
+- US stocks steady on hopes Iran could reopen the Strait of Hormuz
+- Blue Owl falls as private debt manager caps major withdrawals requests
+- Gold slides as Trump gives mixed signals on Iran war resolution
+- Bonds’ Oil-Driven Selloff Stalls as Growth Concerns Return
+- SpaceX confidentially files for IPO
+- Iranians Reel From US-Israeli Attacks on Civilian Infrastructure
+- Oil prices jump on fresh fears of escalation in Iran war
+- Bitcoin Plunges With Stocks as Trump Signals Harder Iran Strikes
+- IRS Fresh Start may expand tax payment options, but there's one thing to watch out for
+- Bitcoin tumbles, crypto momentum fades as Trump extends Iran timeline
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,68 +42,71 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Oil, Eggs And Crypto Define Q1's Market Rotation
-- US Crude Oil Just Flipped Above Brent By The Most Since 2009 – Why Is This Happening?
-- Cocrystal Pharma Shares Soar After FDA Grants Fast Track Status To CDI-988
-- What's Going On With Rivian Stock Thursday?
-- 'Take 20% Of Your $69,000 Salary And Invest It Every Week. Don't touch it,' Kevin O'Leary Advises to Become a Millionaire
-- United States Oil Fund (USO) Hits New 52-Week High As Iran War Escalation Lifts Oil
+- This Nutanix Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Thursday
+- Bear Cave Raises Red Flag On Yelp Stock, Shares Slump
+- What's Going On With Western Digital Stock Thursday?
+- This Brinker Analyst Turns Bullish; Here Are Top 5 Upgrades For Thursday
+- Braiin Stock Edges Higher On New Partnership And Growth Strategy
+- Are Fed Rate Hikes Coming After Oil Spikes? Goldman Says Don't Bet On It
 - Gas Prices
-- Stock Market Today: S&P 500, Nasdaq Futures Plunge As Trump 'Re-Escalates' War With Iran— Micron Technology, IBM, General Motors In Focus (UPDATED)
+- Ross Gerber Compares Artemis 2 To Apollo Mission As NASA Returns To The Moon
+- Which Stocks Are Best Positioned When The Iran War Ends
 - Europe's AI Push Faces Major Roadblock: High Energy Costs Threaten Industrial Competitiveness
-- How To Trade SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, TSLA Using Technical Analysis
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 伊朗副外长：正研究对通过霍尔木兹海峡的船只收费
-- 微软：三款世界级MAI模型现已上线FOUNDRY。
-- 据美国纽约联储数据，上个交易日（4月1日）担保隔夜融资利率（SOFR）报3.65%，之前一天报3.68%。
-上个交易日有效的联邦基金利率报3.64%，之前一天报
-- 王毅同沙特外交大臣费萨尔通电话
-- 新希望乳业股份有限公司递表港交所
-- 2026年度中央安全生产考核巡查季度明查暗访正式启动
-- IMF：美联储今年降息空间有限
-- Blue Owl股价下跌7.6%，创盘中历史新低。
-在赎回请求激增后，该公司通过4月2日发布的致股东信将私人信用基金赎回比例限制在5%。
-- 俄罗斯正装载第二艘向古巴运送石油的船只
-- 阿波罗全球管理为私募信贷行业辩护 称其只是经历成长中的阵痛
-- 2026款小鹏MONA M03上市，起售价为11.98万元
-- WTI原油日内涨幅超13%，报113.26美元/桶。
+- 伊朗媒体Fars News列出科威特、沙特阿拉伯、阿布扎比和约旦的多座桥梁，称其为伊朗军事行动的潜在目标。
+布伦特原油5分钟内下跌0.54美元/桶，报106.9
+- 美国财政部拍卖四周期国债，得标利率3.620%，投标倍数3.15。
+拍卖八周期国债，得标利率3.620%，投标倍数3.26。
+- 德国DAX 30指数初步收跌0.72%，报23130.32点。
+法国股指初步收跌0.15%，意大利股指初步收跌0.30%、银行指数跌1.84%，英国股指初步收涨
+- 欧洲STOXX 600指数初步收跌0.22%，报596.39点。
+欧元区STOXX 50指数初步收跌0.81%，报5686.38点。
+富时泛欧绩优300指数初步
+- 阿盟呼吁对以色列“巴勒斯坦人死刑法”展开紧急国际刑事调查
+- 阿联酋表示愿参与霍尔木兹海峡航道安全保障
+- 奥地利拒绝美国使用其领空对伊行动
+- 伊朗：打击亚马逊位于巴林的计算中心
+- 伊朗警告称敢发动地面战绝不留活口
+- 伊朗副外长：将为途经霍尔木兹海峡的船只征收通行费。
+- 内盘期货夜市涨跌各异，燃油涨3.3%，焦煤、铁矿石、焦炭至多跌超0.7%
+- 伊朗伊斯兰革命卫队称重创美以相关工业及军事目标
 其他:
-- 美股跌幅扩大，纳指跌超2%。
-- 腾讯云ClawPro正式发布，企业版龙虾10分钟上线
-- 美股盘初，主要行业ETF普跌，全球航空业ETF跌超4%，全球科技股ETF、半导体ETF跌近3%，能源业ETF涨超2%。
-- 特斯拉股价下跌4.6%，创2月4日以来最大跌幅。
-- 美股盘初大跌：纳指跌1.7%，特斯拉跌约4%，Blue Owl跌约6%
-- 标普500指数低开62.71点，跌幅0.95%，报6512.61点；
-道琼斯工业平均指数低开96.38点，跌幅0.21%，报46469.36点；
-纳斯达克综合指
-- 美银和高盛先后遭炸弹威胁后，巴黎警方加强美资银行安保措施。（彭博）
-- 诺和诺德：跨临床研究对比显示，Wegovy口服片剂表现优于礼来的口服GLP-1药物
-- Spire Global涨幅扩大至16%。
-- 可口可乐发布新版市场营销策略，希望借机在餐厅行业提振苏打水的销售。
+- 美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：在达拉斯联储辖区，私人信用并非头等风险。
+- 小米集团调整子公司股东，雷军持股比例增加
+- 海湾合作委员会（GCC）秘书长告诉联合国安理会，海湾地区诸国寻求与伊朗实现正常关系。
+海湾多国希望，在安全问题上与伊朗保持透明度。
+WTI原油5分钟内上涨0.6
+- 特朗普预算案为中期选举铺路：强化国防开支，削减其他项目
+- 滨会生物科技递表港交所
+- 美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：对（剔除住房的）核心服务的通胀感到忧心忡忡。
+- 伊朗与阿曼起草霍尔木兹海峡通行协议，标普转涨，新兴市场货币走高
+- 以防长称黎巴嫩真主党领导人将“付出沉重代价”
+- 美国总统特朗普宣称，很快将签署命令，从而对国土安全部（DHS）所有雇员支付薪资。
+- 伊朗一道路工程代表作遭美以袭击受损
 
 ## SCMP (EN/中)
 头版/首屏:
+- What will the US do next in its war on Iran? Chinese pundits point to a likely path
+- How Trump could reframe US goals in the Iran war to justify finishing it
+- Diplomacy
 - How Trump’s plan to take Iran’s Kharg Island could come unhinged
-- What if US ground forces march into Iran? Chinese experts weigh the risks
 - Global Economy
 - Trump’s ex-China mineral-alliance plan faces cost surge amid Iran war oil shock
 - Big Tech
 - Chinese AI giants pivot toward proprietary models to drive revenue, performance
-- Society
-- Call to close loopholes in Hong Kong’s child sexual offence bill
 其他:
+- With no truce in sight, American forces might be preparing for a short, sharp option, analysts say.
 - US President Donald Trump has repeatedly threatened to seize the key Iranian oil hub, with latest speech heightening fears.
 - Analysts say Middle East turmoil is elevating commodity input costs, affecting processing efforts and prompting push for ‘friendshoring’ to secure resources.
 - This week, Alibaba released three proprietary models that were all accessible only via its official cloud platform or chatbot website.
-- NGOs say amendment bill should offer better protections for young victims giving evidence in court and create new offences for persistant abuse.
 - ‘Impossible for Chinese’: Yale scientist Zhang Kai leaves US for China
-- China Economy
-- ‘False proposition’: state media hits ‘China shock’ as cover for Western anxiety
-- The state-run Economic Daily says the real problem with the global economy is not China’s strong exports, but rising protectionism.
-- Military
-- PLA upgrades ageing tanks with protection system for potential Taiwan operation
+- Science
+- How to take down a US F-35 over Iran? Chinese engineer’s tutorial goes viral
+- Striking phenomenon emerges from China as technically skilled civilians volunteer expertise online to help Iran counter US military might.
+- Tech Trends
+- Anthropic’s AI code leak ignites frenzy among Chinese developers
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -132,16 +135,17 @@
 - 吃喝玩乐
 
 ## 智通财经 (简中)
-（抓取失败: curl exit 0, len=498）
+（抓取失败: curl exit 28, len=0）
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN)
 - 中国/欧盟: Benzinga (EN), SCMP (EN/中)
-- 加密货币: Benzinga (EN)
-- 就业数据: SCMP (EN/中)
-- 美联储: 华尔街见闻 (简中)
+- 加密货币: Yahoo Finance (EN)
+- 美联储: Benzinga (EN)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
