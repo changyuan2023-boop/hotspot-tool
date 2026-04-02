@@ -3,12 +3,12 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 2h 30m | Twin cybersecurity incidents leave AI industry shaken | Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks | Mortgage rates rise for 5th straight week above 6%
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets close in 2h 28m | Twin cybersecurity incidents leave AI industry shaken | Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks | Mortgage rates rise for 5th straight week above 6%
   - 其他: US stocks rise off lows as good news on Iran war emerges | Trump's obesity drug plan for Medicare would cost insurers billions | Oil surges after Trump offers no clear timeline to end war in Iran | US Lawmakers Propose Crackdown on Sales of Chip Tools to China | Is the stock market closed on Good Friday and Easter Monday?
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Ford Sales Fall 8.8% As EV Demand Collapses | Coinbase Stock Slides As Bitcoin Faces Selling Pressure | GSAT's 18-Year High Isn't Just About Amazon - Soros, AQR, Millennium Saw It Coming | 4 Tech Stocks That Still Have Strong Fundamentals | Why Is Biodexa Pharmaceuticals (BDRX) Stock Skyrocketing Today?
+  - 其他: Crude Oil Rises Sharply; Acuity Shares Fall After Q2 Results | Why Are Viasat Shares Trading Higher On Thursday? | AI Bot Will Refill Your Antidepressants For Just $20 a Month, Skipping 67 Day Waits And Co-Pays — But 'AI Doctor' Won't Do Everything | Swarmer Rallies After Explosive IPO As Investors Bet On Drone AI Future | Tesla Expands EV and Energy Reach in Q1
 
 - **华尔街见闻 (简中)** ✓
   - 头版/首屏: OpenAI收购科技行业脱口秀TBPN。（华尔街日报） | 亚马逊对众多在线商家征收3.5%的燃油附加费 | 阿根廷总统重申对马岛主权，承诺提高部队薪资 | 俄罗斯总统助理乌沙科夫：霍尔木兹海峡对俄罗斯开放。 | 周四（4月2日），美联储隔夜逆回购协议（RRP）使用规模为3.27亿美元（交易对手3家），上个交易日报21.07亿美元。 | 以色列能源部：Leviathan钻井恢复运营。 | 特朗普解职美国司法部长邦迪 | 美国总统特朗普宣称，司法部长Bondi被免职。（福克斯新闻）
@@ -37,7 +37,7 @@ LME期铅收跌8美元 | 美国商品期货交易委员会（CFTC）就预测市
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
 - **美国关税（15%等）** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **加密货币** — 出现于: Yahoo Finance (EN) (1 站)
 - **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
 - **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
