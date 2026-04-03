@@ -32,6 +32,7 @@ jobs:
         run: pip install requests beautifulsoup4 openai python-dotenv
 
       - name: 运行热点消息提示工具
+        id: run_llm
         run: |
           cd 热点消息提示工具
           python run_hotspot_workflow.py --llm --timeout 30
@@ -50,13 +51,13 @@ jobs:
           git push
 
       - name: 准备邮件主题
-        if: success()
+        if: steps.run_llm.outcome == 'success'
         id: prepare_mail
         run: echo "subject=热点消息提示 $(date '+%Y-%m-%d %H:%M')" >> $GITHUB_OUTPUT
 
       # 需在仓库 Settings → Secrets 中配置：SMTP_SERVER, SMTP_PORT, SMTP_USERNAME, SMTP_PASSWORD, MAIL_FROM
       - name: 读取摘要内容
-        if: success()
+        if: steps.run_llm.outcome == 'success'
         id: read_output
         run: |
           delim="BODY_DELIM_$(date +%s%N)"
@@ -68,7 +69,7 @@ jobs:
           } >> $GITHUB_OUTPUT
 
       - name: 发送到邮箱（Slack 入站邮箱）
-        if: success()
+        if: steps.run_llm.outcome == 'success'
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{ secrets.SMTP_SERVER }}
