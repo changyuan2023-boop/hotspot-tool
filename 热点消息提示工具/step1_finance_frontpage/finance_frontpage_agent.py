@@ -20,11 +20,12 @@ def main():
     ap.add_argument("--timeout", type=int, default=20, help="抓取超时秒数")
     ap.add_argument("--out", "-o", default="", help="完整报告写入路径（默认 agent_report.md）")
     ap.add_argument("--prompt-only", action="store_true", help="只打印「资讯来源」粘贴块，不打印完整报告")
+    ap.add_argument("--hours-back", type=int, default=12, help="抓取最近 N 小时内的快讯（默认 12）")
     args = ap.parse_args()
 
     sites = DEFAULT_SITES
     print("Agent 抓取站点:", [s[0] for s in sites])
-    results, theme_to_sources = analyze(sites, timeout=args.timeout)
+    results, theme_to_sources = analyze(sites, timeout=args.timeout, hours_back=args.hours_back)
 
     # 完整报告
     report_path = args.out or "agent_report.md"

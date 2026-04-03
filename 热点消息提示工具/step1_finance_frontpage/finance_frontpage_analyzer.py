@@ -143,9 +143,10 @@ def extract_zhitongcaijing(html: str) -> tuple[list[str], list[str]]:
     return headlines[:15], other[:25]
 
 
-def fetch_wallstreetcn_lives(timeout: int = 15) -> tuple[list[str], list[str], str]:
+def fetch_wallstreetcn_lives(timeout: int = 15, hours_back: int = 12) -> tuple[list[str], list[str], str]:
     """华尔街见闻为 SPA，首页无 HTML 正文；改调快讯 API 取头条。返回 (headlines, other, error)。"""
-    api = "https://api-prod.wallstreetcn.com/apiv1/content/lives/pc?limit=20"
+    import time as _time
+    api = "https://api-prod.wallstreetcn.com/apiv1/content/lives/pc?limit=100"
     try:
         r = requests.get(api, timeout=timeout, headers={"User-Agent": USER_AGENT})
         r.raise_for_status()
@@ -157,26 +158,31 @@ def fetch_wallstreetcn_lives(timeout: int = 15) -> tuple[list[str], list[str], s
     raw = data.get("data")
     if not isinstance(raw, dict):
         return [], [], "no data in response"
-    # API 按频道返回：global / us_stock / a_stock 等，每频道有 items
+    cutoff = _time.time() - hours_back * 3600
+    # API 按频道返回：us_stock 优先，再 global / a_stock 等
     items = []
-    for ch in ("global", "us_stock", "a_stock", "commodity", "forex"):
+    for ch in ("us_stock", "global", "a_stock", "commodity", "forex"):
         sub = raw.get(ch)
         if isinstance(sub, dict) and isinstance(sub.get("items"), list):
-            items.extend(sub["items"])
+            for item in sub["items"]:
+                if not isinstance(item, dict):
+                    continue
+                ts = item.get("created_at") or item.get("display_time") or 0
+                if ts and isinstance(ts, (int, float)) and ts < cutoff:
+                    continue
+                items.append(item)
     seen = set()
     headlines, other = [], []
-    for i, item in enumerate(items):
-        if not isinstance(item, dict):
-            continue
-        title = (item.get("title") or (item.get("content_text") or "")[:80] or "").strip()
+    for item in items:
+        title = (item.get("title") or (item.get("content_text") or "")[:120] or "").strip()
         if not title or len(title) < 2 or title in seen:
             continue
         seen.add(title)
-        if len(headlines) < 12:
+        if len(headlines) < 40:
             headlines.append(title)
-        elif len(other) < 25:
+        elif len(other) < 60:
             other.append(title)
-    return headlines[:15], other[:25], ""
+    return headlines, other, ""
 
 
 def extract_generic(html: str) -> tuple[list[str], list[str]]:
@@ -234,7 +240,7 @@ def match_theme(text: str) -> list[str]:
     return themes
 
 
-def analyze(sites: list[tuple[str, str]], timeout: int = 15) -> tuple[list[SiteResult], dict]:
+def analyze(sites: list[tuple[str, str]], timeout: int = 15, hours_back: int = 12) -> tuple[list[SiteResult], dict]:
     results = []
     theme_to_sources = {t: [] for t in THEME_KEYWORDS}
 
@@ -242,7 +248,7 @@ def analyze(sites: list[tuple[str, str]], timeout: int = 15) -> tuple[list[SiteR
         domain = urlparse(url).netloc.lower()
         # 华尔街见闻：SPA 无首屏 HTML，改用快讯 API
         if "wallstreetcn" in domain:
-            head, other, err = fetch_wallstreetcn_lives(timeout=timeout)
+            head, other, err = fetch_wallstreetcn_lives(timeout=timeout, hours_back=hours_back)
             if err and not head:
                 results.append(SiteResult(name=name, url=url, title="华尔街见闻", headlines=[], other_items=[], fetch_ok=False, error=err))
             else:

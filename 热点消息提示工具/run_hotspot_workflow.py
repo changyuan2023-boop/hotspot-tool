@@ -14,7 +14,7 @@ import argparse
 import re
 import subprocess
 import sys
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 # 默认路径：本目录即「热点消息提示工具」；Step1 在 step1_finance_frontpage，Step2/3 产出在根目录
@@ -31,14 +31,25 @@ MARKER_START = "<!-- 资讯来源开始 -->"
 MARKER_END = "<!-- 资讯来源结束 -->"
 
 
-def step1_fetch(timeout: int = 25, dry_run: bool = False) -> bool:
+def detect_mode() -> tuple[str, str, int]:
+    """根据北京时间判断早间/晚间模式。返回 (mode_label, time_range, hours_back)。"""
+    beijing_now = datetime.now(timezone.utc) + timedelta(hours=8)
+    hour = beijing_now.hour
+    if hour < 14:
+        return "早间", "昨日22:00 - 今日09:00（美股隔夜收盘）", 11
+    else:
+        return "晚间", "今日08:00 - 20:00（美股开盘前）", 12
+
+
+def step1_fetch(timeout: int = 25, dry_run: bool = False, hours_back: int = 12) -> bool:
     """步骤 1：运行 finance_frontpage_agent，生成 step2_input.txt 与 step1_output.md"""
     print("[Step 1] 抓取财经头版 → 生成 step1_finance_frontpage/step2_input.txt、step1_output.md")
     if dry_run:
         print("  (dry-run) 将执行: python3", AGENT_SCRIPT, "-o", REPORT_FILE)
         return True
     ret = subprocess.run(
-        [sys.executable, str(AGENT_SCRIPT), "--timeout", str(timeout), "-o", "step1_output.md"],
+        [sys.executable, str(AGENT_SCRIPT), "--timeout", str(timeout), "-o", "step1_output.md",
+         "--hours-back", str(hours_back)],
         cwd=str(STEP1_DIR),
         capture_output=False,
     )
@@ -52,9 +63,9 @@ def step1_fetch(timeout: int = 25, dry_run: bool = False) -> bool:
     return True
 
 
-def step2_fill(dry_run: bool = False) -> bool:
+def step2_fill(dry_run: bool = False, mode: str = "晚间", time_range: str = "") -> bool:
     """步骤 2：将 step2_input.txt 填入 step2_总结摘要用Prompt.md 占位符，输出 step3_input.txt"""
-    print("[Step 2] 将 step2_input.txt 填入总结摘要 Prompt 模板 → step3_input.txt")
+    print(f"[Step 2] 将 step2_input.txt 填入总结摘要 Prompt 模板（{mode}模式）→ step3_input.txt")
     if not PROMPT_INPUT_FILE.exists():
         print("[Step 2] 失败：缺少", PROMPT_INPUT_FILE, "请先执行 Step 1")
         return False
@@ -69,12 +80,16 @@ def step2_fill(dry_run: bool = False) -> bool:
     if dry_run:
         print("  (dry-run) 将替换占位符之间的内容，写入", PROMPT_READY_FILE)
         return True
+    # 替换资讯来源块
     pattern = re.compile(
         re.escape(MARKER_START) + r"\n.*?" + re.escape(MARKER_END),
         re.DOTALL,
     )
     new_block = MARKER_START + "\n" + content.strip() + "\n" + MARKER_END
     prompt_body = pattern.sub(new_block, template_text)
+    # 替换模式和时间段占位符
+    prompt_body = prompt_body.replace("{{MODE}}", mode)
+    prompt_body = prompt_body.replace("{{TIME_RANGE}}", time_range)
     if prompt_body == template_text:
         print("[Step 2] 警告：未替换到任何内容，请检查占位符")
     PROMPT_READY_FILE.write_text(prompt_body, encoding="utf-8")
@@ -212,13 +227,16 @@ def main():
         else:
             print("[提示] 已从 .env 读到 OPENAI_API_KEY（前 8 位: %s...）" % key[:8])
 
+    mode, time_range, hours_back = detect_mode()
+    print(f"[提示] 当前模式：{mode}（时间段：{time_range}，抓取最近 {hours_back} 小时）")
+
     steps = [args.step] if args.step else [1, 2, 3]
     ok = True
     for s in steps:
         if s == 1:
-            ok = step1_fetch(timeout=args.timeout, dry_run=args.dry_run)
+            ok = step1_fetch(timeout=args.timeout, dry_run=args.dry_run, hours_back=hours_back)
         elif s == 2:
-            ok = step2_fill(dry_run=args.dry_run)
+            ok = step2_fill(dry_run=args.dry_run, mode=mode, time_range=time_range)
         elif s == 3:
             ok = step3_summary(use_llm=args.llm, dry_run=args.dry_run)
         if not ok and not args.dry_run:
