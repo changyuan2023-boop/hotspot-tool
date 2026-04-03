@@ -8,15 +8,15 @@
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Why Did Vivos Therapeutics (VVOS) Stock Jump Over 21% After Hours | Dogecoin Admits Its A Joke Alright, But You Can Take The 16100% Gains Seriously | Tiger Woods Reportedly Told Cops 'I Was Just Talking' To President Donald Trump After DUI Crash | Gary Black Says Exiting Tesla Position Last Year Was The 'Right Call' Amid Q1 Delivery Miss: Took A Lot Of 'Grief' From The Bulls | Hock Tan Says Google Executive Amie Thuener Will 'Bring Deep Experience' To Broadcom As New CFO Amid $100 Billion AI Chip Revenue Push
+  - 其他: Why zSpace (ZSPC) Stock Jumps Over 11% After Hours | Elizabeth Warren Says She Has A 'Question' For MrBeast: Here's What She's Asking | Visionary Holdings (GV) Stock Slides Over 21% Overnight As $20 Million Deal Rally Fades | Iranian Leader Tracked The Money Behind US-Iran War Policy — Then Asks If He Should Expose The Wall Street Players | BT Brands (BTBD) Stock Jumps 18% After Hours: Here's Why
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 知情人士称美将延迟交付日本订购的“战斧”导弹 | 天龙三号运载火箭发射失利 | 伊朗再称击落美军F35战机 | 宏明电子：公司部分电子元器件已应用于商业航天领域 | Xiaomi MiMo Token Plan正式上线 | 美国ITC发布对具有视频功能的笔记本电脑等的337部分终裁 | 工信部：引导各类创新资源向企业集聚 带动产业向前沿和高端领域迈进 | 中国代表呼吁国际社会支持阿拉伯国家加强团结协作
-  - 其他: 巴基斯坦KSE-100指数下跌2%。 | 亚马逊对使用其物流服务的在线商家加收3.5%燃油附加费 | 法国总统马克龙邀请韩国参加定于6月份举行的G7峰会。 | 山东：实施十二条举措护航汽车出海 | 美军沙特基地一萨德反导雷达在伊朗袭击中受损
+  - 头版/首屏: 法国2月制造业产出同比 0.8%，前值 2.7%。 | 法国2月工业产出环比 -0.7%，预期 -0.1%，前值 0.5%。 | 法国2月工业产出同比 -0.3%，预期 1.6%，前值 2.4%。 | 法国2月制造业产出环比 0%，前值 0.6%。 | 以色列称美以伊冲突已致以方超6500人受伤 | 西太平洋银行CEO警告称伊朗冲突可能引发澳大利亚经济衰退 | 沪深京三市成交额超1.5万亿元，较上日此时缩量1895亿元。 | 阿里发布Wan2.7-Video视频生成模型
+  - 其他: 中东冲突不确定性阻碍日本央行发出明确利率信号 | 国产医疗机器人在港完成首例临床心脏瓣膜手术 | 敏昂莱高票当选缅甸新任总统 | 因湃首发587Ah半固态储能大电芯及6.5GWh专属量产线 | 科创板逾百家公司披露“提质增效重回报”行动方案，现金分红超140亿元
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: How a proposed composite in China could strengthen drones, planes and rockets | China tests ‘heaviest cargo drone’ suited to high-altitude and island operations | Diplomacy | What will the US do next in its war on Iran? Chinese pundits point to a likely path | Politics | Trump fires Pam Bondi as US president’s frustration with bad news grows | Hong Kong Economy | More Hongkongers to travel over long Easter break despite higher costs
-  - 其他: Next-generation fighter jets and spacecraft stand to see performance gains from weight reduction and structural resilience. | With no truce in sight, American forces might be preparing for a short, sharp option, analysts say. | Attorney general’s removal follows the ouster of homeland security and border patrol chiefs amid a wave of negative headlines. | 60 per cent of outbound travellers expected to head to mainland cities, with high-speed rail continuing to gain popularity as the preferred mode of transport. | The US-China trade war 1 year on: who really holds the upper hand?
+  - 头版/首屏: China launches heavyweight rocket to challenge SpaceX’s Falcon 9. It fails | Is China’s commercial rocket now cheaper than Elon Musk’s SpaceX Falcon 9? | Politics | Trump fires Pam Bondi as US president’s frustration with bad news grows | Education | University town to be fast-tracked, Eric Chan says after mainland China visit | Myanmar’s junta chief wins parliamentary vote to become president | How a proposed composite in China could strengthen drones, planes and rockets
+  - 其他: Flight anomaly delays ambitions for Tianlong-3 to start delivering satellites for Chinese megaconstellations. | Attorney general’s removal follows the ouster of Trump’s homeland security and border patrol chiefs amid a wave of negative headlines. | Hong Kong’s No 2 official also says authorities will devise plan to attract top institutions from across border and overseas to take part. | His transition from top general to civilian president follows a recent lopsided election won overwhelmingly by an army-backed party. | Middle East
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 油价再飙升航企上调燃油附加费，航空股仍未宜沾手？ | 猪价续跌 3部门再展中央冻肉收储 | 伊分5级筛选船只 收霍尔木兹通行费 | 解压饺子奇袭Labubu，内存压缩狙击美光 | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -30,12 +30,12 @@
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **油价/能源/霍尔木兹** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (3 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
 - **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
 - **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN) (1 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
 - **黄金/大宗商品** — 出现于: Benzinga (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
