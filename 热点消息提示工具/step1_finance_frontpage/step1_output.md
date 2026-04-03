@@ -4,19 +4,19 @@
 
 - **Yahoo Finance (EN)** ✓
   - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Twin cybersecurity incidents leave AI industry shaken | Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks | Mortgage rates rise for 5th straight week above 6%
-  - 其他: Jobs report to show updated view of fragile labor market as war unfolded | OpenAI buys tech news show TBPN in AI giant's biggest media push yet | Trump is overlooking how global energy markets work | Microsoft to invest $10 billion in Japan for AI and cyber defence expansion | A year after 'Liberation Day,' Trump sets new drug tariffs, adjusts metals duties
+  - 其他: Jobs report to show updated view of fragile labor market as war unfolded | OpenAI buys tech news show TBPN in AI giant's biggest media push yet | Trump is overlooking how global energy markets work | Hyundai Motor flags export disruptions as Middle East conflict hits shipping | Microsoft to invest $10 billion in Japan for AI and cyber defence expansion
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Why zSpace (ZSPC) Stock Jumps Over 11% After Hours | Elizabeth Warren Says She Has A 'Question' For MrBeast: Here's What She's Asking | Visionary Holdings (GV) Stock Slides Over 21% Overnight As $20 Million Deal Rally Fades | Iranian Leader Tracked The Money Behind US-Iran War Policy — Then Asks If He Should Expose The Wall Street Players | BT Brands (BTBD) Stock Jumps 18% After Hours: Here's Why
+  - 其他: Former Trump Aide Alleges $400 Million Market Manipulation Tied To Trump: 'A Financial Operation' | Cheer Holding (CHR) Stock Jumps Over 9% After Hours: Here's Why | Kash Patel To Face The Ax After Pam Bondi Fired By Trump? Prediction Market Says This | Meta's Ray-Ban Meta Smart Glasses Power Blind Runner's Marathon Bid, All Clarke Reynolds Has To Do Is Say 'Be My Eyes' | US-Iran War Updates April 3: Trump Declares 'Next' Targets In Iran, US Army Chief Retires, UAE Denies Oracle Data Center Hit
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 法国2月制造业产出同比 0.8%，前值 2.7%。 | 法国2月工业产出环比 -0.7%，预期 -0.1%，前值 0.5%。 | 法国2月工业产出同比 -0.3%，预期 1.6%，前值 2.4%。 | 法国2月制造业产出环比 0%，前值 0.6%。 | 以色列称美以伊冲突已致以方超6500人受伤 | 西太平洋银行CEO警告称伊朗冲突可能引发澳大利亚经济衰退 | 沪深京三市成交额超1.5万亿元，较上日此时缩量1895亿元。 | 阿里发布Wan2.7-Video视频生成模型
-  - 其他: 中东冲突不确定性阻碍日本央行发出明确利率信号 | 国产医疗机器人在港完成首例临床心脏瓣膜手术 | 敏昂莱高票当选缅甸新任总统 | 因湃首发587Ah半固态储能大电芯及6.5GWh专属量产线 | 科创板逾百家公司披露“提质增效重回报”行动方案，现金分红超140亿元
+  - 头版/首屏: 上汽集团：今年将在不同品牌逐步推出搭载半固态电池的量产车型 | 小米金融旗下上海融资租赁公司增资至8亿 增幅约33% | 蚂蚁数科“龙虾”产品DTClaw开启内测 | 事关数字虚拟人信息服务 国家网信办公开征求意见 | 宁波发行15年期普通专项地方债，规模25.0800亿元，发行利率2.2500%，边际倍数1.32倍，倍数预期2.28。 | 美方指责中方骚扰扣押悬挂巴拿马国旗船只，外交部：无中生有，颠倒黑白 | 外交部：中美双方在禁毒执法等领域保持沟通合作 取得显著成效 | 中方斡旋促谈巴阿冲突，外交部回应外媒提问
+  - 其他: 中国欧盟商会与欧洲议会代表团举行会见 | 国债期货收盘，30年期主力合约涨0.21%，10年期主力合约涨0.05%，5年期主力合约涨0.01%，2年期主力合约跌0.00%。 | 工信部电子信息司与中兴通讯、小米集团对接电子信息制造业“十五五”发展规划 | 商务部等9部门：针对性支持家政、养老、托育等民生领域发展，促进消费和投资、供给和需求良性互动 | 小米线下策略调整，手机销量预计下降13%
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: China launches heavyweight rocket to challenge SpaceX’s Falcon 9. It fails | Is China’s commercial rocket now cheaper than Elon Musk’s SpaceX Falcon 9? | Politics | Trump fires Pam Bondi as US president’s frustration with bad news grows | Education | University town to be fast-tracked, Eric Chan says after mainland China visit | Myanmar’s junta chief wins parliamentary vote to become president | How a proposed composite in China could strengthen drones, planes and rockets
-  - 其他: Flight anomaly delays ambitions for Tianlong-3 to start delivering satellites for Chinese megaconstellations. | Attorney general’s removal follows the ouster of Trump’s homeland security and border patrol chiefs amid a wave of negative headlines. | Hong Kong’s No 2 official also says authorities will devise plan to attract top institutions from across border and overseas to take part. | His transition from top general to civilian president follows a recent lopsided election won overwhelmingly by an army-backed party. | Middle East
+  - 头版/首屏: Chinese airlines shed weight, add flights over Russia to trim fuel costs | Chinese airline regulator faces dilemma as Iran war sends fuel costs soaring | Science | China launches heavyweight rocket to challenge SpaceX’s Falcon 9. It fails | Politics | Trump fires Pam Bondi as US president’s frustration with bad news grows | Transport | Revamped transport fare scheme triggers concerns about cost for working elderly
+  - 其他: Some carriers have even removed unessential items like in-flight magazines from their planes. | Flight anomaly delays ambitions for Tianlong-3 to start delivering satellites for Chinese megaconstellations. | Attorney general’s removal follows the ouster of Trump’s homeland security and border patrol chiefs amid a wave of negative headlines. | Hong Kong’s revised scheme now requires elderly and people with disabilities to pay 20 per cent of fares for trips costing over HK$10. | How a proposed composite in China could strengthen drones, planes and rockets
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 油价再飙升航企上调燃油附加费，航空股仍未宜沾手？ | 猪价续跌 3部门再展中央冻肉收储 | 伊分5级筛选船只 收霍尔木兹通行费 | 解压饺子奇袭Labubu，内存压缩狙击美光 | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -34,8 +34,8 @@
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
 - **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
 - **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
 - **美国关税（15%等）** — 出现于: Yahoo Finance (EN) (1 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
 - **黄金/大宗商品** — 出现于: Benzinga (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
