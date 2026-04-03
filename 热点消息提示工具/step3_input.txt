@@ -14,11 +14,16 @@
 
 ## 输出格式（严格遵守）
 
-1. 标题行：`**晚间热点线索 · YYYY年M月D日**`
-2. 分 **S级** 和 **A级** 两组，每组用加粗标题行
-3. 每条一个无序列表项（`-`），格式：`消息摘要 → **标的代码** → 影响/原因`
-4. 全文总计 **10条以内**，能少则少，宁缺毋滥
-5. 不写任何前言、背景铺垫、结尾说明
+第一行输出标题，格式固定为：
+`晚间热点线索 · YYYY年M月D日`
+
+空一行后，输出正文条目，每条格式：
+`* 一句话描述事件，**加粗关键标的或数字**，结尾点出对港美股的影响或运营价值。`
+
+要求：
+- 全文 **10 条以内**，能少则少
+- 每条控制在 40 字以内，言简意赅
+- 不分级别，不写前言，不写结尾说明，直接输出
 
 ---
 
@@ -26,39 +31,38 @@
 
 聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
-按优先级重点关注：
-1. 美股三大指数昨夜涨跌幅及核心驱动
-2. 个股重大异动（财报超/低预期、重大消息驱动涨跌 5% 以上）
-3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态等）
-4. 今日影响港股开盘的中国政策/央行动态
+重点关注（按重要性排序写入）：
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态）
+4. 影响今日港股开盘的中国政策/央行动态
 
 ## 晚间模式指令（晚间 = 晚间）
 
-聚焦：今晚美股开盘前的关注清单。
+聚焦：今晚美股开盘前的运营清单。
 
-按优先级重点关注：
+重点关注（按重要性排序写入）：
 1. 盘前重要财报及初步反应（EPS/营收 vs 预期）
-2. 盘前个股异动（涨跌 5% 以上 + 原因）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据发布）
-4. 今日港股异动标的中，今晚美股是否有联动机会
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据）
+4. 今日港股异动标的中，今晚是否有联动机会
 
 ---
 
-## S/A 分级标准
+## 什么内容值得写入
 
-**S级**（必追，今日运营重点）：
+值得写（必须有明确标的或板块）：
 - 美联储利率决议 / FOMC / 主席讲话
-- 标普或纳斯达克单日 ±2% 以上
-- 七大科技股（AAPL / MSFT / NVDA / GOOGL / META / AMZN / TSLA）财报或重大消息
+- 七大科技股（AAPL / MSFT / NVDA / GOOGL / META / AMZN / TSLA）的财报或重大消息
 - 中美关税 / 贸易政策重大变化
-- 中国重大政策（两会 / 央行重大动作）影响港股 A 股
-- 地缘冲突重大升降级（油价剧烈波动）
+- 中国政策影响港股（两会 / 央行 / 重要部委表态）
+- 个股异动 5% 以上 + 有明确原因
+- 行业板块整体联动（多股同向）
 
-**A级**（值得关注，有运营价值）：
-- 市值 500 亿美元以上知名股财报
-- 行业板块整体异动（同赛道多股联动）
-- 盘前异动 5% 以上的可运营标的
-- 影响港股次日走势的港股通重点标的
+不要写：
+- 泛泛的市场情绪描述
+- 没有标的的宏观背景铺垫
+- 已持续多日的旧闻（除非有新进展）
 
 ---
 
@@ -77,24 +81,24 @@
 - Sports
 - New on Yahoo
 - U.S. markets closed
+- US economy adds 178,000 jobs, unemployment rate falls
+- March jobs report shows surprise turnaround
 - Hope for Hormuz lifts markets
 - SpaceX reportedly targets $2T valuation, Microsoft invests in Japan
 - Americans nearing retirement plan to take Social Security 'as soon as eligible'
 - Bounce-back in hiring likely to keep Fed on hold in the midst of oil shock
 - What we've learned in year since 'Liberation Day'
+其他:
 - Best markets for first-time homebuyers almost all in South, Midwest
 - Hyundai's Boulder concept previews its truck future, built in America
-其他:
-- US economy adds 178,000 jobs, unemployment rate falls
 - Twin cybersecurity incidents leave AI industry shaken
-- Mortgage rates rise for 5th straight week above 6%
+- Deepseek’s V4 model will run on Huawei chips, The Information reports
 - Rent, debt, and groceries: How Americans are spending their tax refunds
 - Treasury Bonds Fall on Strength in March Payrolls: Markets Wrap
 - The US economy added a higher-than-expected 178,000 jobs last month
 - SpaceX confidentially files to public, seeking $2 trillion valuation in monster IPO
 - Trump Budget Pits Spending Cuts Against Massive Defense Push
 - US targets Chinese chipmaking with proposed export restrictions on ASML and others
-- Bond Traders Set Up for Jobs Data With Iran War Still Main Focus
 
 ## Benzinga (EN)
 头版/首屏:
@@ -109,19 +113,22 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
+- US-Iran War Updates April 3: Trump Says US Could 'Easily' Open Hormuz, Tehran Lets First EU, Japan Ships Transit And More (UPDATED)
 - How A Crypto Journalist Fell For A Sophisticated North Korean Phishing Attack: 'Giving Me Scam Vibes'
 - Trump Sons-Backed Drone Company Is Pitching Gulf States Under Iranian Attack — And Ethics Questions Are Starting To Mount
 - US Adds 178,000 Jobs In Sharp Rebound After February Shock
 - Google Rival DuckDuckGo Roasts Jeff Bezos' Tall Beverly Hills Fence And Mark Zuckerberg's Multi-Million Dollar Property Spree
-- Anthropic, OpenAI's Next Models Could Be A 'Watershed' Event For Cybersecurity, Warns Expert—'Agentic Attackers Are Coming'
-- Gas Prices
+- Elon Musk
+- Mark Zuckerberg
 - Nebius Group Stock Jumps Thursday: What Investors Need To Know
-- Applied Optoelectronics (AAOI) Stock Is Trending Overnight After Popping Over 20% On Thursday: What's Going On?
+- Anthropic, OpenAI's Next Models Could Be A 'Watershed' Event For Cybersecurity, Warns Expert—'Agentic Attackers Are Coming'
 - Thursday Troubles: S&P 500's Weakest Day Has Cost Investors In Recent Months
-- Is April The Turning Point Crypto Bulls Have Been Waiting For?
 
 ## 华尔街见闻 (简中)
 头版/首屏:
+- 伊朗媒体称美方营救飞行员未能成功
+- 美国3月标普全球综合PMI终值 50.3，预期 51.4，初值 51.4。
+- 美国3月标普全球服务业PMI终值 49.8，预期 51.1，初值 51.1。
 - 胡塞武装强调不会袖手旁观
 - 提醒：美股因耶稣受难日休市。
 - 以军称伊朗向以色列发动新一轮导弹袭击
@@ -130,7 +137,7 @@
 认为这将在几周内结束，而非几个月。
 伊朗并未损害美国经济，美国经济依然稳健。
 担忧亚洲可能减少向美国出口的石油供应。
-我密切关注期货市场。
+（谈就业报告）这对市
 - 美国管理和预算办公室（OMB）：特朗普政府预算案提议投入100亿美元用于美化华盛顿特区。
 特朗普在2027财年的预算申请中要求采购85架F-35战机，这一数量较去年的47架有所增加。
 特朗普政府预算计划采购2艘“弗吉尼亚”级潜艇，与去年的计
@@ -138,10 +145,10 @@
 - 当地时间4月3日16时，伊朗首都德黑兰遭袭。（央视新闻）
 - 特朗普再提打开霍尔木兹海峡“抢石油”
 - 美国3月非农就业报告公布后，美元指数短线逾10点，现报100.12。美国10年期国债收益率短线拉升，现报4.351%。数据显示，美国3月非农就业人数增幅远程预期，失业率下降，交易员降低了对美联储2026年降息的押注。
-- 美国1月和2月非农就业人数合计下修0.7万人
-- 美国3月平均每小时工资同比 3.5%，预期 3.7%，前值 3.8%。
-- 美国3月平均每小时工资环比 0.2%，预期 0.3%，前值 0.4%。
 其他:
+- 阿联酋否认其领土被用于对伊朗发动袭击
+- 伊朗发动第92波打击
+- 伊朗警告称将把敌军士兵“打回石器时代之前”
 - 阿联酋天然气设施因起火暂停运营
 - 航运追踪数据显示，法国所有的达飞轮船集团集装箱船已经通过霍尔木兹海峡。（路透）
 - 乌称基辅州遭大规模袭击 已致人员伤亡
@@ -149,9 +156,6 @@
 - 伊朗警告将摧毁美以在中东所有资产
 - 伯克希尔据悉就考虑发行的多期限日元债券评估投资者兴趣
 - 乘联分会：2026年1-2月中国汽车出口155万辆，同比增长61%
-- 伊朗称摧毁以色列先进隐形巡航导弹
-- 乘联分会：初步统计，3月1-31日，全国乘用车新能源市场零售78.4万辆，同比去年3月下降21%，较上月增长69%，今年以来累计零售184.4万辆，同比下降24%；3月1-31日，全国乘用车厂商新能源批发112.6万辆，同比去年3月增长0%
-- 乘联分会： 初步统计，3月1-31日，全国乘用车市场零售165.7万辆，同比去年3月下降15%，较上月同期增长60%，今年以来累计零售423.6万辆，同比下降17%。
 
 ## SCMP (EN/中)
 头版/首屏:
@@ -205,12 +209,12 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 就业数据: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
 - 美国关税: 华尔街见闻 (简中)
 - 加密货币: Benzinga (EN)
 - 黄金/大宗: Benzinga (EN)
@@ -221,4 +225,4 @@
 
 ---
 
-请严格按格式直接输出，不加任何额外说明：
+请直接输出，不加任何额外说明：
