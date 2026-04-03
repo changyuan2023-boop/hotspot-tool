@@ -4,19 +4,19 @@
 
 - **Yahoo Finance (EN)** ✓
   - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Twin cybersecurity incidents leave AI industry shaken | Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks | Mortgage rates rise for 5th straight week above 6%
-  - 其他: Jobs report to show updated view of fragile labor market as war unfolded | OpenAI buys tech news show TBPN in AI giant's biggest media push yet | Trump is overlooking how global energy markets work | Hyundai Motor flags export disruptions as Middle East conflict hits shipping | Microsoft to invest $10 billion in Japan for AI and cyber defence expansion
+  - 其他: Jobs report to show updated view of fragile labor market as war unfolded | OpenAI buys tech news show TBPN in AI giant's biggest media push yet | Trump is overlooking how global energy markets work | What to expect from the jobs report today — and when the war could hit hiring | Samsung Elec likely to report stupendous surge in quarterly profit to record level
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Former Trump Aide Alleges $400 Million Market Manipulation Tied To Trump: 'A Financial Operation' | Cheer Holding (CHR) Stock Jumps Over 9% After Hours: Here's Why | Kash Patel To Face The Ax After Pam Bondi Fired By Trump? Prediction Market Says This | Meta's Ray-Ban Meta Smart Glasses Power Blind Runner's Marathon Bid, All Clarke Reynolds Has To Do Is Say 'Be My Eyes' | US-Iran War Updates April 3: Trump Declares 'Next' Targets In Iran, US Army Chief Retires, UAE Denies Oracle Data Center Hit
+  - 其他: Elon Musk Denies SpaceX Quietly Lifted IPO Target Toward $2 Trillion: 'Don't Believe Everything…' | Trump Team Reportedly Moves To Slash Staff At Post-2008 Financial Risk Watchdog — Elizabeth Warren Warns It Could Cause 'Another Crash' | Stabilis Solutions (SLNG) Stock Spiked On Thursday, Here's Why It Fell 11% Overnight | MSTR Stock May Bottom After 'Final Shakeout' Toward $90-$100, Says Analyst: '...A Buy Signal' | Trump Hails Key Approval Win For His $400 Million Ballroom, Despite Court Halt: 'An Extraordinarily Difficult Vote'
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 上汽集团：今年将在不同品牌逐步推出搭载半固态电池的量产车型 | 小米金融旗下上海融资租赁公司增资至8亿 增幅约33% | 蚂蚁数科“龙虾”产品DTClaw开启内测 | 事关数字虚拟人信息服务 国家网信办公开征求意见 | 宁波发行15年期普通专项地方债，规模25.0800亿元，发行利率2.2500%，边际倍数1.32倍，倍数预期2.28。 | 美方指责中方骚扰扣押悬挂巴拿马国旗船只，外交部：无中生有，颠倒黑白 | 外交部：中美双方在禁毒执法等领域保持沟通合作 取得显著成效 | 中方斡旋促谈巴阿冲突，外交部回应外媒提问
-  - 其他: 中国欧盟商会与欧洲议会代表团举行会见 | 国债期货收盘，30年期主力合约涨0.21%，10年期主力合约涨0.05%，5年期主力合约涨0.01%，2年期主力合约跌0.00%。 | 工信部电子信息司与中兴通讯、小米集团对接电子信息制造业“十五五”发展规划 | 商务部等9部门：针对性支持家政、养老、托育等民生领域发展，促进消费和投资、供给和需求良性互动 | 小米线下策略调整，手机销量预计下降13%
+  - 头版/首屏: 潍柴动力：2025年数据中心用发动机销售约1400台 同比上涨259% | 伊朗警告称将把敌军士兵“打回石器时代之前” | 招商轮船：公司股价和成交量未来可能继续面临剧烈波动的风险 | 阿联酋天然气设施因起火暂停运营 | 航运追踪数据显示，法国所有的达飞轮船集团集装箱船已经通过霍尔木兹海峡。（路透） | 乌称基辅州遭大规模袭击 已致人员伤亡 | 工信部：关于及时更新iOS特定版本 防范漏洞攻击利用的风险提示 | 伊朗警告将摧毁美以在中东所有资产
+  - 其他: 殡葬领域6项行业标准出台 | 中证指数修订中证华福福建100指数编制方案 | 以军称伊朗发射集束弹头导弹 击中以北部地区 | 十部门：人工智能产品和服务应采取充分措施确保隐私数据得到有效保护 | 十部门：开展人工智能科技活动应将科技伦理要求贯穿全过程
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Chinese airlines shed weight, add flights over Russia to trim fuel costs | Chinese airline regulator faces dilemma as Iran war sends fuel costs soaring | Science | China launches heavyweight rocket to challenge SpaceX’s Falcon 9. It fails | Politics | Trump fires Pam Bondi as US president’s frustration with bad news grows | Transport | Revamped transport fare scheme triggers concerns about cost for working elderly
-  - 其他: Some carriers have even removed unessential items like in-flight magazines from their planes. | Flight anomaly delays ambitions for Tianlong-3 to start delivering satellites for Chinese megaconstellations. | Attorney general’s removal follows the ouster of Trump’s homeland security and border patrol chiefs amid a wave of negative headlines. | Hong Kong’s revised scheme now requires elderly and people with disabilities to pay 20 per cent of fares for trips costing over HK$10. | How a proposed composite in China could strengthen drones, planes and rockets
+  - 头版/首屏: China to boost frozen pork reserves as hog prices tumble to multi-year troughs | How China’s massive pig farms created a serious pork supply glut | Diplomacy | Beijing hails US cooperation as ICE returns suspected drug smuggler to China | China Economy | Chinese airlines shed weight, add flights over Russia to trim fuel costs | Economics | Helium supply shock threatens Asian chipmakers as economic slowdown fears mount
+  - 其他: The national average hog price fell to an eight-year low of 10.68 yuan per kg in the fourth week of March. | With Xi and Trump set to meet next month, Beijing says handoff signals ‘progress in bilateral counternarcotics law enforcement’. | Some carriers have even removed non-essential items like in-flight magazines from their planes. | Iranian attacks on Qatar’s LNG facilities are curbing the supply of helium, a crucial gas used in chipmaking. | China launches heavyweight rocket to challenge SpaceX’s Falcon 9. It fails
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 油价再飙升航企上调燃油附加费，航空股仍未宜沾手？ | 猪价续跌 3部门再展中央冻肉收储 | 伊分5级筛选船只 收霍尔木兹通行费 | 解压饺子奇袭Labubu，内存压缩狙击美光 | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -29,13 +29,13 @@
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
 - **油价/能源/霍尔木兹** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (3 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
-- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
 - **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN) (1 站)
+- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
 - **黄金/大宗商品** — 出现于: Benzinga (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
