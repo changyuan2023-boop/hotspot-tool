@@ -3,20 +3,20 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Twin cybersecurity incidents leave AI industry shaken | Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks | Mortgage rates rise for 5th straight week above 6%
-  - 其他: Jobs report to show updated view of fragile labor market as war unfolded | OpenAI buys tech news show TBPN in AI giant's biggest media push yet | Trump is overlooking how global energy markets work | What to expect from the jobs report today — and when the war could hit hiring | Samsung Elec likely to report stupendous surge in quarterly profit to record level
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | What we've learned in a year since 'Liberation Day' | Hope for Hormuz lifts markets | Best markets for first-time homebuyers almost all in South, Midwest
+  - 其他: Jobs report to show updated view of labor market | Mortgage rates rise for 5th straight week above 6% | Toyota bets big on EVs and US manufacturing as tariff costs mount | Moscow shoppers and travellers hit by payment system problem | What to expect from the jobs report today — and when the war could hit hiring
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Elon Musk Denies SpaceX Quietly Lifted IPO Target Toward $2 Trillion: 'Don't Believe Everything…' | Trump Team Reportedly Moves To Slash Staff At Post-2008 Financial Risk Watchdog — Elizabeth Warren Warns It Could Cause 'Another Crash' | Stabilis Solutions (SLNG) Stock Spiked On Thursday, Here's Why It Fell 11% Overnight | MSTR Stock May Bottom After 'Final Shakeout' Toward $90-$100, Says Analyst: '...A Buy Signal' | Trump Hails Key Approval Win For His $400 Million Ballroom, Despite Court Halt: 'An Extraordinarily Difficult Vote'
+  - 其他: 'It Would've Set The Earth On Fire': GOP Rep Says Secret UFO Files He Saw Could Have 'Unglued' America If Released | Did Someone Trade On Iran War Secrets? Senators Demand Probe After Suspicious Stock Bets Appeared Just Before Trump Policy Moves | US-Iran War Updates April 3: Trump Declares 'Next' Targets In Iran, Doubts Cast Over Iran's F-35 Attack Claim, Tehran Hits Gulf Utilities (UPDATED) | Tesla Delivers 358K Vehicles In Q1 — But Growth Story Loses Speed | Tesla's Delivery Miss Also Showed Elon Musk-Led EV Giant Hitting This Worrying Record
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 潍柴动力：2025年数据中心用发动机销售约1400台 同比上涨259% | 伊朗警告称将把敌军士兵“打回石器时代之前” | 招商轮船：公司股价和成交量未来可能继续面临剧烈波动的风险 | 阿联酋天然气设施因起火暂停运营 | 航运追踪数据显示，法国所有的达飞轮船集团集装箱船已经通过霍尔木兹海峡。（路透） | 乌称基辅州遭大规模袭击 已致人员伤亡 | 工信部：关于及时更新iOS特定版本 防范漏洞攻击利用的风险提示 | 伊朗警告将摧毁美以在中东所有资产
-  - 其他: 殡葬领域6项行业标准出台 | 中证指数修订中证华福福建100指数编制方案 | 以军称伊朗发射集束弹头导弹 击中以北部地区 | 十部门：人工智能产品和服务应采取充分措施确保隐私数据得到有效保护 | 十部门：开展人工智能科技活动应将科技伦理要求贯穿全过程
+  - 头版/首屏: 日本商船三井发言人：一艘我们共同拥有的LNG运输船已通过霍尔木兹海峡。 | 乌方称俄发动大规模导弹和无人机袭击 | 美战机飞行员或被伊朗军方俘虏 | 伊朗称以色列袭击科威特海水淡化设施 | 往期年报存在虚假记载被责令改正 菲林格尔：修正后的往期年报会先于2025年年报披露 | 以色列最大天然气田在关闭一个月后恢复生产 | 吉利博越REV 10.79万起售，A+级增程实现纯电续航375km | 市场监管总局通报44批次食品抽检不合格情况
+  - 其他: 东岳硅材：预计2026年第一季度预计实现净利润同比增长397.02%-451.34% | 俄方称停止热战前提是乌方从顿巴斯撤军 | 以军称解除黎真主党武装仍为“长期目标” | 市场监管总局召开外卖平台企业行政指导会：要求三大外卖平台尽快开展自查整改 | 抓获41人 中泰越三国联合破获一起跨国制造毒品案
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: China to boost frozen pork reserves as hog prices tumble to multi-year troughs | How China’s massive pig farms created a serious pork supply glut | Diplomacy | Beijing hails US cooperation as ICE returns suspected drug smuggler to China | China Economy | Chinese airlines shed weight, add flights over Russia to trim fuel costs | Economics | Helium supply shock threatens Asian chipmakers as economic slowdown fears mount
-  - 其他: The national average hog price fell to an eight-year low of 10.68 yuan per kg in the fourth week of March. | With Xi and Trump set to meet next month, Beijing says handoff signals ‘progress in bilateral counternarcotics law enforcement’. | Some carriers have even removed non-essential items like in-flight magazines from their planes. | Iranian attacks on Qatar’s LNG facilities are curbing the supply of helium, a crucial gas used in chipmaking. | China launches heavyweight rocket to challenge SpaceX’s Falcon 9. It fails
+  - 头版/首屏: China watching ‘like a hawk’ as US Artemis 2 crew fixes toilet on moon trip | ‘Lighthouses in space’: the Chinese jam-proof satellite network to fill GPS gaps | Politics | Ma Xingrui the third Politburo member investigated by China’s graft-busters | Former KMT chairwoman calls for ‘profound mutual trust’ with mainland China | Health & Environment | Rats versus pets: Hong Kong dog owners want rodent poison in boxes, not bags | China launches heavyweight rocket to challenge SpaceX’s Falcon 9. It fails
+  - 其他: Eyeing a lunar landing by 2030, Beijing will be ‘looking attentively at everything they can glean’ from the American mission, expert says. | Former party chief of Xinjiang is under investigation for ‘serious violations of discipline and law’, according to state news agency Xinhua. | Social media post from Hung Hsiu-chu comes days ahead of sitting KMT chairwoman Cheng Li-wun’s visit to mainland. | Pet owners call for environmental authorities to improve rat extermination methods after one dog accidentally consumes poison three times. | China Economy
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 油价再飙升航企上调燃油附加费，航空股仍未宜沾手？ | 猪价续跌 3部门再展中央冻肉收储 | 伊分5级筛选船只 收霍尔木兹通行费 | 解压饺子奇袭Labubu，内存压缩狙击美光 | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -25,16 +25,16 @@
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
-- **智通财经 (简中)** ✗ (curl exit 0, len=498)
+- **智通财经 (简中)** ✗ (HTTPSConnectionPool(host='www.zhitongcaijing.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.zhitongcaijing.com', port=443) at 0x7fb7b19a7080>, 'Connection to www.zhitongcaijing.com timed out. (connect timeout=30)')))
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
-- **油价/能源/霍尔木兹** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中) (4 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
 - **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN) (1 站)
+- **加密货币** — 出现于: Benzinga (EN) (1 站)
 - **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
 - **黄金/大宗商品** — 出现于: Benzinga (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)

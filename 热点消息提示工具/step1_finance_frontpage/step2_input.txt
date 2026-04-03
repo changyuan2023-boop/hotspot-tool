@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040317
+抓取时间: 2026040319
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -10,24 +10,24 @@
 - Sports
 - New on Yahoo
 - U.S. markets closed
-- Twin cybersecurity incidents leave AI industry shaken
+- What we've learned in a year since 'Liberation Day'
+- Hope for Hormuz lifts markets
+- Best markets for first-time homebuyers almost all in South, Midwest
+- Hyundai's Boulder concept previews its truck future, built in America
+- Americans nearing retirement say they plan to take Social Security 'as soon as eligible'
 - Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks
+- Twin cybersecurity incidents leave AI industry shaken
+其他:
+- Jobs report to show updated view of labor market
 - Mortgage rates rise for 5th straight week above 6%
 - Toyota bets big on EVs and US manufacturing as tariff costs mount
-- Trump administration sues states to block prediction market regulation
-- Hedge funds bail from globals stocks at fastest pace in 13 years
-- SpaceX held talks with Saudi fund fo $5B investment in IPO: reports
-其他:
-- Jobs report to show updated view of fragile labor market as war unfolded
-- OpenAI buys tech news show TBPN in AI giant's biggest media push yet
-- Trump is overlooking how global energy markets work
+- Moscow shoppers and travellers hit by payment system problem
 - What to expect from the jobs report today — and when the war could hit hiring
 - Samsung Elec likely to report stupendous surge in quarterly profit to record level
 - Shocked by gas at $4 in America? Try $15 in this city
 - Hyundai Motor flags export disruptions as Middle East conflict hits shipping
 - Microsoft to invest $10 billion in Japan for AI and cyber defence expansion
 - A year after 'Liberation Day,' Trump sets new drug tariffs, adjusts metals duties
-- Bitcoin Lingers Near Lower Bound of Trading Range Amid Conflict
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,65 +42,64 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Elon Musk Denies SpaceX Quietly Lifted IPO Target Toward $2 Trillion: 'Don't Believe Everything…'
-- Trump Team Reportedly Moves To Slash Staff At Post-2008 Financial Risk Watchdog — Elizabeth Warren Warns It Could Cause 'Another Crash'
-- Stabilis Solutions (SLNG) Stock Spiked On Thursday, Here's Why It Fell 11% Overnight
-- MSTR Stock May Bottom After 'Final Shakeout' Toward $90-$100, Says Analyst: '...A Buy Signal'
-- Trump Hails Key Approval Win For His $400 Million Ballroom, Despite Court Halt: 'An Extraordinarily Difficult Vote'
+- 'It Would've Set The Earth On Fire': GOP Rep Says Secret UFO Files He Saw Could Have 'Unglued' America If Released
+- Did Someone Trade On Iran War Secrets? Senators Demand Probe After Suspicious Stock Bets Appeared Just Before Trump Policy Moves
+- US-Iran War Updates April 3: Trump Declares 'Next' Targets In Iran, Doubts Cast Over Iran's F-35 Attack Claim, Tehran Hits Gulf Utilities (UPDATED)
+- Tesla Delivers 358K Vehicles In Q1 — But Growth Story Loses Speed
+- Tesla's Delivery Miss Also Showed Elon Musk-Led EV Giant Hitting This Worrying Record
 - Stock Market Closed For Good Friday: What Other Services Are Open And Shut On April 3?
 - Gas Prices
 - Nebius Group Stock Jumps Thursday: What Investors Need To Know
-- SpaceX Charts Path Toward $2 Trillion IPO
+- Oil Futures Soar To $112 — Jim Cramer Flags Historic Sell-Off Risk During  Trump–Iran Tensions: 'Here We Go Again'
 - Thursday Troubles: S&P 500's Weakest Day Has Cost Investors In Recent Months
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 潍柴动力：2025年数据中心用发动机销售约1400台 同比上涨259%
-- 伊朗警告称将把敌军士兵“打回石器时代之前”
-- 招商轮船：公司股价和成交量未来可能继续面临剧烈波动的风险
-- 阿联酋天然气设施因起火暂停运营
-- 航运追踪数据显示，法国所有的达飞轮船集团集装箱船已经通过霍尔木兹海峡。（路透）
-- 乌称基辅州遭大规模袭击 已致人员伤亡
-- 工信部：关于及时更新iOS特定版本 防范漏洞攻击利用的风险提示
-- 伊朗警告将摧毁美以在中东所有资产
-- 伯克希尔据悉就考虑发行的多期限日元债券评估投资者兴趣
-- 金钼股份：2025年净利润31.55亿元，同比增长5.77%
-- 意大利2025年赤字占GDP的3.1%，突破欧盟上限。
-- 金融监管总局：推动构建与未来产业全生命周期融资需求相适应的金融服务体系
+- 日本商船三井发言人：一艘我们共同拥有的LNG运输船已通过霍尔木兹海峡。
+- 乌方称俄发动大规模导弹和无人机袭击
+- 美战机飞行员或被伊朗军方俘虏
+- 伊朗称以色列袭击科威特海水淡化设施
+- 往期年报存在虚假记载被责令改正 菲林格尔：修正后的往期年报会先于2025年年报披露
+- 以色列最大天然气田在关闭一个月后恢复生产
+- 吉利博越REV 10.79万起售，A+级增程实现纯电续航375km
+- 市场监管总局通报44批次食品抽检不合格情况
+- 上海：完善校园食品安全协同管理机制，依法查处涉及学校食品安全违法行为
+- *ST观典：收到中国证券监督管理委员会《立案告知书》，因公司涉嫌信息披露违法违规等，中国证监会决定对公司立案。
+- 上交所：本周对中韩半导体ETF、南方原油LOF、标普油气ETF等溢价较高的基金，*ST正平等异常波动退市风险警示股票进行重点监控。
+- 伊朗情报部门逮捕28名与美以有关人员
 其他:
-- 殡葬领域6项行业标准出台
-- 中证指数修订中证华福福建100指数编制方案
-- 以军称伊朗发射集束弹头导弹 击中以北部地区
-- 十部门：人工智能产品和服务应采取充分措施确保隐私数据得到有效保护
-- 十部门：开展人工智能科技活动应将科技伦理要求贯穿全过程
-- 深圳发行5年期棚改专项地方债，规模0.4500亿元，发行利率1.5600%，边际倍数1.56倍，倍数预期1.57；
-深圳发行10年期轨交专项地方债，规模38.0
-- 梅德韦杰夫：欧盟正考虑组建一支完整军事力量
-- 清明假期全国水路发送旅客预计403.5万人次
-- 乘联分会：2026年1-2月中国汽车出口155万辆，同比增长61%
-- 伊朗称摧毁以色列先进隐形巡航导弹
+- 东岳硅材：预计2026年第一季度预计实现净利润同比增长397.02%-451.34%
+- 俄方称停止热战前提是乌方从顿巴斯撤军
+- 以军称解除黎真主党武装仍为“长期目标”
+- 市场监管总局召开外卖平台企业行政指导会：要求三大外卖平台尽快开展自查整改
+- 抓获41人 中泰越三国联合破获一起跨国制造毒品案
+- 全国首个！广州上线“词元（Token）”级城市综合算力运行服务平台
+- 霍尔木兹海峡航运受阻全球航运成本急剧飙升 目前运费已涨了11倍到12倍
+- 京东团购上线
+- 伊朗导弹击中以色列一无人机工厂
+- 马克龙批评特朗普，呼吁中等国家团结以制衡美国。（彭博）
 
 ## SCMP (EN/中)
 头版/首屏:
-- China to boost frozen pork reserves as hog prices tumble to multi-year troughs
-- How China’s massive pig farms created a serious pork supply glut
-- Diplomacy
-- Beijing hails US cooperation as ICE returns suspected drug smuggler to China
-- China Economy
-- Chinese airlines shed weight, add flights over Russia to trim fuel costs
-- Economics
-- Helium supply shock threatens Asian chipmakers as economic slowdown fears mount
-其他:
-- The national average hog price fell to an eight-year low of 10.68 yuan per kg in the fourth week of March.
-- With Xi and Trump set to meet next month, Beijing says handoff signals ‘progress in bilateral counternarcotics law enforcement’.
-- Some carriers have even removed non-essential items like in-flight magazines from their planes.
-- Iranian attacks on Qatar’s LNG facilities are curbing the supply of helium, a crucial gas used in chipmaking.
-- China launches heavyweight rocket to challenge SpaceX’s Falcon 9. It fails
+- China watching ‘like a hawk’ as US Artemis 2 crew fixes toilet on moon trip
+- ‘Lighthouses in space’: the Chinese jam-proof satellite network to fill GPS gaps
 - Politics
-- Trump fires Pam Bondi as US president’s frustration with bad news grows
-- Attorney general’s removal follows the ouster of Trump’s homeland security and border patrol chiefs amid a wave of negative headlines.
-- Indonesia and Malaysia require geo-tracking for civil servants working from home
-- As governments roll out work-from-home policies to cut fuel use, civil servants face location tracking and other productivity measures.
+- Ma Xingrui the third Politburo member investigated by China’s graft-busters
+- Former KMT chairwoman calls for ‘profound mutual trust’ with mainland China
+- Health & Environment
+- Rats versus pets: Hong Kong dog owners want rodent poison in boxes, not bags
+- China launches heavyweight rocket to challenge SpaceX’s Falcon 9. It fails
+其他:
+- Eyeing a lunar landing by 2030, Beijing will be ‘looking attentively at everything they can glean’ from the American mission, expert says.
+- Former party chief of Xinjiang is under investigation for ‘serious violations of discipline and law’, according to state news agency Xinhua.
+- Social media post from Hung Hsiu-chu comes days ahead of sitting KMT chairwoman Cheng Li-wun’s visit to mainland.
+- Pet owners call for environmental authorities to improve rat extermination methods after one dog accidentally consumes poison three times.
+- China Economy
+- Washington launches export initiative to ensure ‘future of AI’ is led by US
+- Chinese competitors targeted as US companies invited to form consortiums to offer full-stack AI solutions around the world.
+- Military
+- With an eye on China, Japan looks to kamikaze drones and low-cost missiles
+- Tokyo plans to introduce loitering munitions with a range of more than 1,000km, according to Japanese media reports citing official sources.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -129,15 +128,15 @@
 - 吃喝玩乐
 
 ## 智通财经 (简中)
-（抓取失败: curl exit 0, len=498）
+（抓取失败: HTTPSConnectionPool(host='www.zhitongcaijing.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.zhitongcaijing.com', port=443) at 0x7fb7b19a7080>, 'Connection to www.zhitongcaijing.com timed out. (connect timeout=30)'))）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 油价/霍尔木兹: 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
 - 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN)
+- 加密货币: Benzinga (EN)
 - 就业数据: Yahoo Finance (EN)
 - 黄金/大宗: Benzinga (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
