@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040301
+抓取时间: 2026040319
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 2h 28m
-- Twin cybersecurity incidents leave AI industry shaken
+- U.S. markets closed
+- What we've learned in a year since 'Liberation Day'
+- Hope for Hormuz lifts markets
+- Best markets for first-time homebuyers almost all in South, Midwest
+- Hyundai's Boulder concept previews its truck future, built in America
+- Americans nearing retirement say they plan to take Social Security 'as soon as eligible'
 - Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks
-- Mortgage rates rise for 5th straight week above 6%
-- Trump is overlooking how global energy markets work
-- Microsoft building its own AI models to cut OpenAI dependence
-- Starbucks offering baristas, managers bonuses in push to boost sales
-- Jet fuel and oil prices are up and airlines are paying the price
+- Twin cybersecurity incidents leave AI industry shaken
 其他:
-- US stocks rise off lows as good news on Iran war emerges
-- Trump's obesity drug plan for Medicare would cost insurers billions
-- Oil surges after Trump offers no clear timeline to end war in Iran
-- US Lawmakers Propose Crackdown on Sales of Chip Tools to China
-- Is the stock market closed on Good Friday and Easter Monday?
-- Coinbase gets conditional US approval for trust charter, Bloomberg News reports
-- Trump to reduce steel, aluminum tariff rates for derivative products, sources say
-- Bonds’ Oil-Driven Selloff Stalls as Growth Concerns Return
-- Chime CEO Sees Consumers’ Fuel Spending Rise 25% Amid Iran War
-- US mortgage rates climb for fifth-straight week, pushed up by Iran war worries
+- Jobs report to show updated view of labor market
+- Mortgage rates rise for 5th straight week above 6%
+- Toyota bets big on EVs and US manufacturing as tariff costs mount
+- Moscow shoppers and travellers hit by payment system problem
+- What to expect from the jobs report today — and when the war could hit hiring
+- Samsung Elec likely to report stupendous surge in quarterly profit to record level
+- Shocked by gas at $4 in America? Try $15 in this city
+- Hyundai Motor flags export disruptions as Middle East conflict hits shipping
+- Microsoft to invest $10 billion in Japan for AI and cyber defence expansion
+- A year after 'Liberation Day,' Trump sets new drug tariffs, adjusts metals duties
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,75 +42,71 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Crude Oil Rises Sharply; Acuity Shares Fall After Q2 Results
-- Why Are Viasat Shares Trading Higher On Thursday?
-- AI Bot Will Refill Your Antidepressants For Just $20 a Month, Skipping 67 Day Waits And Co-Pays — But 'AI Doctor' Won't Do Everything
-- Swarmer Rallies After Explosive IPO As Investors Bet On Drone AI Future
-- Tesla Expands EV and Energy Reach in Q1
-- Oil Prices Soar To $112, Tesla Tumbles To 7-Month Lows: What's Moving Markets Thursday?
+- 'It Would've Set The Earth On Fire': GOP Rep Says Secret UFO Files He Saw Could Have 'Unglued' America If Released
+- Did Someone Trade On Iran War Secrets? Senators Demand Probe After Suspicious Stock Bets Appeared Just Before Trump Policy Moves
+- US-Iran War Updates April 3: Trump Declares 'Next' Targets In Iran, Doubts Cast Over Iran's F-35 Attack Claim, Tehran Hits Gulf Utilities (UPDATED)
+- Tesla Delivers 358K Vehicles In Q1 — But Growth Story Loses Speed
+- Tesla's Delivery Miss Also Showed Elon Musk-Led EV Giant Hitting This Worrying Record
+- Stock Market Closed For Good Friday: What Other Services Are Open And Shut On April 3?
 - Gas Prices
-- US Crude Oil Just Flipped Above Brent By The Most Since 2009 – Why Is This Happening?
-- Top 2 Industrials Stocks You May Want To Dump In Q2
-- Top 3 Defensive Stocks That Could Lead To Your Biggest Gains This Month
+- Nebius Group Stock Jumps Thursday: What Investors Need To Know
+- Oil Futures Soar To $112 — Jim Cramer Flags Historic Sell-Off Risk During  Trump–Iran Tensions: 'Here We Go Again'
+- Thursday Troubles: S&P 500's Weakest Day Has Cost Investors In Recent Months
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- OpenAI收购科技行业脱口秀TBPN。（华尔街日报）
-- 亚马逊对众多在线商家征收3.5%的燃油附加费
-- 阿根廷总统重申对马岛主权，承诺提高部队薪资
-- 俄罗斯总统助理乌沙科夫：霍尔木兹海峡对俄罗斯开放。
-- 周四（4月2日），美联储隔夜逆回购协议（RRP）使用规模为3.27亿美元（交易对手3家），上个交易日报21.07亿美元。
-- 以色列能源部：Leviathan钻井恢复运营。
-- 特朗普解职美国司法部长邦迪
-- 美国总统特朗普宣称，司法部长Bondi被免职。（福克斯新闻）
-- 国际铜夜盘收跌0.01%，沪铜收跌0.08%，沪铝收跌0.58%，沪锌收跌0.38%，沪铅收涨0.21%，沪镍收涨0.04%，沪锡收跌0.69%。
-氧化铝夜盘收
-- 美国4月3日当周石油钻井数 411，前值 409。
-- 美国4月3日当周总钻井数 548，前值 543。
-- 美国4月3日当周天然气钻井数 130，前值 127。
+- 日本商船三井发言人：一艘我们共同拥有的LNG运输船已通过霍尔木兹海峡。
+- 乌方称俄发动大规模导弹和无人机袭击
+- 美战机飞行员或被伊朗军方俘虏
+- 伊朗称以色列袭击科威特海水淡化设施
+- 往期年报存在虚假记载被责令改正 菲林格尔：修正后的往期年报会先于2025年年报披露
+- 以色列最大天然气田在关闭一个月后恢复生产
+- 吉利博越REV 10.79万起售，A+级增程实现纯电续航375km
+- 市场监管总局通报44批次食品抽检不合格情况
+- 上海：完善校园食品安全协同管理机制，依法查处涉及学校食品安全违法行为
+- *ST观典：收到中国证券监督管理委员会《立案告知书》，因公司涉嫌信息披露违法违规等，中国证监会决定对公司立案。
+- 上交所：本周对中韩半导体ETF、南方原油LOF、标普油气ETF等溢价较高的基金，*ST正平等异常波动退市风险警示股票进行重点监控。
+- 伊朗情报部门逮捕28名与美以有关人员
 其他:
-- 伊朗石油价格自2022年以来首次转为溢价
-- 数字货币市场跌约3%，Solana跌超5.2%，以太币跌超3.3%
-- 伊朗外长：美以军事行动是局势紧张主因 伊朗仍在“防御”
-- LME期铜收跌75美元，报12360美元/吨。
-LME期铝收跌62美元，报3470美元/吨。
-LME期锌收跌25美元，报3264美元/吨。
-LME期铅收跌8美元
-- 美国商品期货交易委员会（CFTC）就预测市场（的监管权）起诉亚利桑那（AZ）、康涅狄格（CT）、伊利诺伊（IL）三个州。
-- 伊朗向以色列特拉维夫发动新一轮导弹袭击
-- 全球主要原油现货价格飙升至 2008 年以来最高水平
-- 特朗普演说后，美油价差飙升至历史纪录水平
-- 据知情人士透露，巴里克矿业为旗下北美资产IPO计划而接触高盛。（彭博）
-- 德债收益率周四上扬“高台跳水行情”，本周已跌10个基点
+- 东岳硅材：预计2026年第一季度预计实现净利润同比增长397.02%-451.34%
+- 俄方称停止热战前提是乌方从顿巴斯撤军
+- 以军称解除黎真主党武装仍为“长期目标”
+- 市场监管总局召开外卖平台企业行政指导会：要求三大外卖平台尽快开展自查整改
+- 抓获41人 中泰越三国联合破获一起跨国制造毒品案
+- 全国首个！广州上线“词元（Token）”级城市综合算力运行服务平台
+- 霍尔木兹海峡航运受阻全球航运成本急剧飙升 目前运费已涨了11倍到12倍
+- 京东团购上线
+- 伊朗导弹击中以色列一无人机工厂
+- 马克龙批评特朗普，呼吁中等国家团结以制衡美国。（彭博）
 
 ## SCMP (EN/中)
 头版/首屏:
-- What will the US do next in its war on Iran? Chinese pundits point to a likely path
-- How Trump could reframe US goals in the Iran war to justify finishing it
-- US-China direct trade continues shrinking trend ahead of Xi-Trump summit
-- Diplomacy
-- How Trump’s plan to take Iran’s Kharg Island could come unhinged
-- Global Economy
-- Trump’s ex-China mineral-alliance plan faces cost surge amid Iran war oil shock
-- ‘Impossible for Chinese’: Yale scientist Zhang Kai leaves US for China
+- China watching ‘like a hawk’ as US Artemis 2 crew fixes toilet on moon trip
+- ‘Lighthouses in space’: the Chinese jam-proof satellite network to fill GPS gaps
+- Politics
+- Ma Xingrui the third Politburo member investigated by China’s graft-busters
+- Former KMT chairwoman calls for ‘profound mutual trust’ with mainland China
+- Health & Environment
+- Rats versus pets: Hong Kong dog owners want rodent poison in boxes, not bags
+- China launches heavyweight rocket to challenge SpaceX’s Falcon 9. It fails
 其他:
-- With no truce in sight, American forces might be preparing for a short, sharp option, analysts say.
-- Deficit with mainland hits two-decade low as trade shifts to Taiwan, Mexico and Vietnam amid tariff fallout and efforts to stabilise ties.
-- US President Donald Trump has repeatedly threatened to seize the key Iranian oil hub, with latest speech heightening fears.
-- Analysts say Middle East turmoil is elevating commodity input costs, affecting processing efforts and prompting push for ‘friendshoring’ to secure resources.
-- Science
-- How to take down a US F-35 over Iran? Chinese engineer’s tutorial goes viral
-- Striking phenomenon emerges from China as technically skilled civilians volunteer expertise online to help Iran counter US military might.
-- Tech Trends
-- Anthropic’s AI code leak ignites frenzy among Chinese developers
-- Chinese developers have been having a field day, scrambling to download copies of the leaked code and poring over files to learn detail.
+- Eyeing a lunar landing by 2030, Beijing will be ‘looking attentively at everything they can glean’ from the American mission, expert says.
+- Former party chief of Xinjiang is under investigation for ‘serious violations of discipline and law’, according to state news agency Xinhua.
+- Social media post from Hung Hsiu-chu comes days ahead of sitting KMT chairwoman Cheng Li-wun’s visit to mainland.
+- Pet owners call for environmental authorities to improve rat extermination methods after one dog accidentally consumes poison three times.
+- China Economy
+- Washington launches export initiative to ensure ‘future of AI’ is led by US
+- Chinese competitors targeted as US companies invited to form consortiums to offer full-stack AI solutions around the world.
+- Military
+- With an eye on China, Japan looks to kamikaze drones and low-cost missiles
+- Tokyo plans to introduce loitering munitions with a range of more than 1,000km, according to Japanese media reports citing official sources.
 
 ## 经济通 (繁中)
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
-- 新能源车按月销量回升出口成亮点，车股怎么选？
-- 3月二手房价跌幅 连续3个月收窄
-- 特朗普斥北约“纸老虎” 认真考虑退出
+- 油价再飙升航企上调燃油附加费，航空股仍未宜沾手？
+- 猪价续跌 3部门再展中央冻肉收储
+- 伊分5级筛选船只 收霍尔木兹通行费
 - 解压饺子奇袭Labubu，内存压缩狙击美光
 - 指数环球商品外汇
 - 国金观点
@@ -132,17 +128,17 @@ LME期铅收跌8美元
 - 吃喝玩乐
 
 ## 智通财经 (简中)
-（抓取失败: curl exit 0, len=498）
+（抓取失败: HTTPSConnectionPool(host='www.zhitongcaijing.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.zhitongcaijing.com', port=443) at 0x7fb7b19a7080>, 'Connection to www.zhitongcaijing.com timed out. (connect timeout=30)'))）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN)
-- 黄金/大宗: 华尔街见闻 (简中)
-- 美联储: 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN)
+- 加密货币: Benzinga (EN)
+- 就业数据: Yahoo Finance (EN)
+- 黄金/大宗: Benzinga (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
