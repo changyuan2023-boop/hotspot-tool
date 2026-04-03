@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040301
+抓取时间: 2026040312
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 2h 28m
+- U.S. markets closed
 - Twin cybersecurity incidents leave AI industry shaken
 - Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks
 - Mortgage rates rise for 5th straight week above 6%
-- Trump is overlooking how global energy markets work
-- Microsoft building its own AI models to cut OpenAI dependence
-- Starbucks offering baristas, managers bonuses in push to boost sales
-- Jet fuel and oil prices are up and airlines are paying the price
+- Toyota bets big on EVs and US manufacturing as tariff costs mount
+- Trump administration sues states to block prediction market regulation
+- Hedge funds bail from globals stocks at fastest pace in 13 years
+- SpaceX held talks with Saudi fund fo $5B investment in IPO: reports
 其他:
-- US stocks rise off lows as good news on Iran war emerges
-- Trump's obesity drug plan for Medicare would cost insurers billions
-- Oil surges after Trump offers no clear timeline to end war in Iran
-- US Lawmakers Propose Crackdown on Sales of Chip Tools to China
-- Is the stock market closed on Good Friday and Easter Monday?
-- Coinbase gets conditional US approval for trust charter, Bloomberg News reports
-- Trump to reduce steel, aluminum tariff rates for derivative products, sources say
-- Bonds’ Oil-Driven Selloff Stalls as Growth Concerns Return
-- Chime CEO Sees Consumers’ Fuel Spending Rise 25% Amid Iran War
-- US mortgage rates climb for fifth-straight week, pushed up by Iran war worries
+- Jobs report to show updated view of fragile labor market as war unfolded
+- OpenAI buys tech news show TBPN in AI giant's biggest media push yet
+- Trump is overlooking how global energy markets work
+- Microsoft to invest $10 billion in Japan for AI and cyber defence expansion
+- A year after 'Liberation Day,' Trump sets new drug tariffs, adjusts metals duties
+- Bitcoin Lingers Near Lower Bound of Trading Range Amid Conflict
+- More investors flee Blue Owl funds as private credit fears deepen
+- Starbucks Dangles $1,200 Bonuses for Fast, Friendly Baristas
+- Broadcom taps Alphabet executive Amie Thuener as next CFO
+- Dem senators query gov't watchdogs over well-timed Wall Street bets
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,75 +42,79 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Crude Oil Rises Sharply; Acuity Shares Fall After Q2 Results
-- Why Are Viasat Shares Trading Higher On Thursday?
-- AI Bot Will Refill Your Antidepressants For Just $20 a Month, Skipping 67 Day Waits And Co-Pays — But 'AI Doctor' Won't Do Everything
-- Swarmer Rallies After Explosive IPO As Investors Bet On Drone AI Future
-- Tesla Expands EV and Energy Reach in Q1
-- Oil Prices Soar To $112, Tesla Tumbles To 7-Month Lows: What's Moving Markets Thursday?
+- Hock Tan Says Google Executive Amie Thuener Will 'Bring Deep Experience' To Broadcom As New CFO Amid $100 Billion AI Chip Revenue Push
+- China Warns Of 'Serious Consequences' And 'Further Escalation' As Beijing Resists UN Resolution To Protect Hormuz Strait Shipping
+- Coinbase Receives Conditional Nod To Operate As National Trust Company—CEO Brian Armstrong Says 'We're Not Becoming A Bank'
+- Applied Optoelectronics (AAOI) Stock Is Trending Overnight After Popping Over 20% On Thursday: What's Going On?
+- Bitcoin, Ethereum, XRP, Dogecoin Extend Losses Amid Trump's Hawkish Iran War Address: Analyst Says BTC Could Be In For 'Final Shakeout'
 - Gas Prices
-- US Crude Oil Just Flipped Above Brent By The Most Since 2009 – Why Is This Happening?
-- Top 2 Industrials Stocks You May Want To Dump In Q2
-- Top 3 Defensive Stocks That Could Lead To Your Biggest Gains This Month
+- Nebius Group Stock Jumps Thursday: What Investors Need To Know
+- Cramer Calls Out Trump's 'Mind-Boggling Misdirection' ― Warns Stock Market Could Sink 20%
+- Thursday Troubles: S&P 500's Weakest Day Has Cost Investors In Recent Months
+- Is April The Turning Point Crypto Bulls Have Been Waiting For?
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- OpenAI收购科技行业脱口秀TBPN。（华尔街日报）
-- 亚马逊对众多在线商家征收3.5%的燃油附加费
-- 阿根廷总统重申对马岛主权，承诺提高部队薪资
-- 俄罗斯总统助理乌沙科夫：霍尔木兹海峡对俄罗斯开放。
-- 周四（4月2日），美联储隔夜逆回购协议（RRP）使用规模为3.27亿美元（交易对手3家），上个交易日报21.07亿美元。
-- 以色列能源部：Leviathan钻井恢复运营。
-- 特朗普解职美国司法部长邦迪
-- 美国总统特朗普宣称，司法部长Bondi被免职。（福克斯新闻）
-- 国际铜夜盘收跌0.01%，沪铜收跌0.08%，沪铝收跌0.58%，沪锌收跌0.38%，沪铅收涨0.21%，沪镍收涨0.04%，沪锡收跌0.69%。
-氧化铝夜盘收
-- 美国4月3日当周石油钻井数 411，前值 409。
-- 美国4月3日当周总钻井数 548，前值 543。
-- 美国4月3日当周天然气钻井数 130，前值 127。
+- 美军沙特基地一萨德反导雷达在伊朗袭击中受损
+- 欧盟警告称，欧洲必须为“长期性”的能源冲击做好准备。欧盟能源专员表示，欧盟正在评估“所有可能性”，包括燃油配给制以及从战略储备中释放更多石油。（英国《金融时报》
+- 公安部、国家金融监督管理总局联合部署新一轮金融领域“黑灰产”违法犯罪集群打击工作
+- 中国财政部发行2年期债券，规模1700亿元，发行利率1.2402%，边际利率1.2641%，预期1.2700%，投标倍数2.67倍，边际倍数1.50倍；
+中国财
+- 中国常驻联合国代表傅聪：中方不认同伊朗对海合会国家的攻击 航道安全不应受扰
+- 优必选科技招募首席科学家 年薪最高可达1.24亿元人民币
+- 上证指数早盘收报3882.69点，跌0.93%。
+深证成指早盘收报13387.92点，跌0.73%。
+创业板指早盘收报3166.06点，跌0.21%。
+沪深30
+- 4月3日午间收评：沪指半日跌近1%，全市场超4700股飘绿
+- 国债期货早盘收盘，30年期主力合约涨0.20%，10年期主力合约涨0.03%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。
+- 印度对部分黄金、白银、铂金制品实施进口限制。
+- 特朗普再次威胁打击伊朗设施
+- 卡拉季大桥两次遭袭 伊朗媒体列出反击目标
 其他:
-- 伊朗石油价格自2022年以来首次转为溢价
-- 数字货币市场跌约3%，Solana跌超5.2%，以太币跌超3.3%
-- 伊朗外长：美以军事行动是局势紧张主因 伊朗仍在“防御”
-- LME期铜收跌75美元，报12360美元/吨。
-LME期铝收跌62美元，报3470美元/吨。
-LME期锌收跌25美元，报3264美元/吨。
-LME期铅收跌8美元
-- 美国商品期货交易委员会（CFTC）就预测市场（的监管权）起诉亚利桑那（AZ）、康涅狄格（CT）、伊利诺伊（IL）三个州。
-- 伊朗向以色列特拉维夫发动新一轮导弹袭击
-- 全球主要原油现货价格飙升至 2008 年以来最高水平
-- 特朗普演说后，美油价差飙升至历史纪录水平
-- 据知情人士透露，巴里克矿业为旗下北美资产IPO计划而接触高盛。（彭博）
-- 德债收益率周四上扬“高台跳水行情”，本周已跌10个基点
+- 进出口行发行3年期债券，规模60亿元，发行利率1.4741%，预期1.4800%，投标倍数4.84倍，边际倍数1.45倍。
+- 渝万高铁全线进入铺轨阶段
+- 沪深京三市成交额突破1万亿，较上日此时缩量超1200亿，预计全天成交不足1.7万亿。
+- 智元将于4月7日开启 “智元AI发布周”
+- 武汉公积金新政：取消户籍限制，调整贷款套数认定
+- 隔夜SHIBOR报1.2380%，下降3.30个基点。
+7天SHIBOR报1.3380%，下降6.60个基点。
+3个月SHIBOR报1.4930%，下降0.65
+- 中美禁毒执法合作新成果 美方向中方遣返移交一名涉毒逃犯
+- 日本财务大臣片山皋月：石油市场正在冲击日元汇率。
+果断行动可能包括干预。
+如有必要，将根据日美协议采取行动。
+- 橡树资本联席CEO认为私募信贷领域存在“过度冒险”行为
+- 美媒：美情报部门评估伊朗约半数导弹发射装置完好无损
 
 ## SCMP (EN/中)
 头版/首屏:
-- What will the US do next in its war on Iran? Chinese pundits point to a likely path
-- How Trump could reframe US goals in the Iran war to justify finishing it
-- US-China direct trade continues shrinking trend ahead of Xi-Trump summit
+- How a proposed composite in China could strengthen drones, planes and rockets
+- China tests ‘heaviest cargo drone’ suited to high-altitude and island operations
 - Diplomacy
-- How Trump’s plan to take Iran’s Kharg Island could come unhinged
-- Global Economy
-- Trump’s ex-China mineral-alliance plan faces cost surge amid Iran war oil shock
-- ‘Impossible for Chinese’: Yale scientist Zhang Kai leaves US for China
+- What will the US do next in its war on Iran? Chinese pundits point to a likely path
+- Politics
+- Trump fires Pam Bondi as US president’s frustration with bad news grows
+- Hong Kong Economy
+- More Hongkongers to travel over long Easter break despite higher costs
 其他:
+- Next-generation fighter jets and spacecraft stand to see performance gains from weight reduction and structural resilience.
 - With no truce in sight, American forces might be preparing for a short, sharp option, analysts say.
-- Deficit with mainland hits two-decade low as trade shifts to Taiwan, Mexico and Vietnam amid tariff fallout and efforts to stabilise ties.
-- US President Donald Trump has repeatedly threatened to seize the key Iranian oil hub, with latest speech heightening fears.
-- Analysts say Middle East turmoil is elevating commodity input costs, affecting processing efforts and prompting push for ‘friendshoring’ to secure resources.
-- Science
-- How to take down a US F-35 over Iran? Chinese engineer’s tutorial goes viral
-- Striking phenomenon emerges from China as technically skilled civilians volunteer expertise online to help Iran counter US military might.
-- Tech Trends
-- Anthropic’s AI code leak ignites frenzy among Chinese developers
-- Chinese developers have been having a field day, scrambling to download copies of the leaked code and poring over files to learn detail.
+- Attorney general’s removal follows the ouster of homeland security and border patrol chiefs amid a wave of negative headlines.
+- 60 per cent of outbound travellers expected to head to mainland cities, with high-speed rail continuing to gain popularity as the preferred mode of transport.
+- The US-China trade war 1 year on: who really holds the upper hand?
+- United States & Canada
+- Update | Nasa’s Artemis astronauts zoom towards moon after fixing toilet malfunction
+- After troubleshooting minor technical glitches, the four-person crew leave Earth’s orbit for a journey further into deep space than ever before.
+- Middle East
+- Trump hails destruction of Iran’s tallest bridge, warns of ‘much more to follow’
 
 ## 经济通 (繁中)
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
-- 新能源车按月销量回升出口成亮点，车股怎么选？
-- 3月二手房价跌幅 连续3个月收窄
-- 特朗普斥北约“纸老虎” 认真考虑退出
+- 油价再飙升航企上调燃油附加费，航空股仍未宜沾手？
+- 猪价续跌 3部门再展中央冻肉收储
+- 伊分5级筛选船只 收霍尔木兹通行费
 - 解压饺子奇袭Labubu，内存压缩狙击美光
 - 指数环球商品外汇
 - 国金观点
@@ -135,14 +139,14 @@ LME期铅收跌8美元
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 美国关税: Yahoo Finance (EN), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN)
-- 黄金/大宗: 华尔街见闻 (简中)
-- 美联储: 华尔街见闻 (简中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 就业数据: Yahoo Finance (EN), SCMP (EN/中)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
