@@ -98,10 +98,8 @@ def step2_fill(dry_run: bool = False, mode: str = "晚间", time_range: str = ""
 
 
 def _write_step3_output(body: str, dry_run: bool = False) -> None:
-    """写入 Step 3 产出 step3_output.txt，格式：热点消息提示工具-YYYYMMDDHH + 正文 + 摘要"""
-    ts = datetime.now().strftime("%Y%m%d%H")
-    lines = [f"热点消息提示工具-{ts}", "正文", "", body.strip()]
-    text = "\n".join(lines)
+    """写入 Step 3 产出 step3_output.txt，直接写入 LLM 输出内容"""
+    text = body.strip()
     if dry_run:
         print("  (dry-run) 将写入", STEP3_OUTPUT_FILE)
         return
