@@ -21,13 +21,13 @@
 - Best markets for first-time homebuyers almost all in South, Midwest
 - Hyundai's Boulder concept previews its truck future, built in America
 - Twin cybersecurity incidents leave AI industry shaken
+- OpenAI buys tech news show TBPN in AI giant's biggest media push yet
 - Deepseek’s V4 model will run on Huawei chips, The Information reports
-- Rent, debt, and groceries: How Americans are spending their tax refunds
 - Treasury Bonds Fall on Strength in March Payrolls: Markets Wrap
+- Rent, debt, and groceries: How Americans are spending their tax refunds
 - The US economy added a higher-than-expected 178,000 jobs last month
 - SpaceX confidentially files to public, seeking $2 trillion valuation in monster IPO
 - Trump Budget Pits Spending Cuts Against Massive Defense Push
-- US targets Chinese chipmaking with proposed export restrictions on ASML and others
 
 ## Benzinga (EN)
 头版/首屏:
@@ -55,6 +55,7 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏:
+- 小米法务部：已帮助66位车主向法院成功立案，民事诉讼案取得首个胜诉判决
 - 伊朗媒体称美方营救飞行员未能成功
 - 美国3月标普全球综合PMI终值 50.3，预期 51.4，初值 51.4。
 - 美国3月标普全球服务业PMI终值 49.8，预期 51.1，初值 51.1。
@@ -73,8 +74,8 @@
 - 美国3月非农就业报告速评
 - 当地时间4月3日16时，伊朗首都德黑兰遭袭。（央视新闻）
 - 特朗普再提打开霍尔木兹海峡“抢石油”
-- 美国3月非农就业报告公布后，美元指数短线逾10点，现报100.12。美国10年期国债收益率短线拉升，现报4.351%。数据显示，美国3月非农就业人数增幅远程预期，失业率下降，交易员降低了对美联储2026年降息的押注。
 其他:
+- 特朗普夸耀的“战绩”被美情报部门“打脸”
 - 阿联酋否认其领土被用于对伊朗发动袭击
 - 伊朗发动第92波打击
 - 伊朗警告称将把敌军士兵“打回石器时代之前”
@@ -84,7 +85,6 @@
 - 工信部：关于及时更新iOS特定版本 防范漏洞攻击利用的风险提示
 - 伊朗警告将摧毁美以在中东所有资产
 - 伯克希尔据悉就考虑发行的多期限日元债券评估投资者兴趣
-- 乘联分会：2026年1-2月中国汽车出口155万辆，同比增长61%
 
 ## SCMP (EN/中)
 头版/首屏:
