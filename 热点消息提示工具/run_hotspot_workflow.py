@@ -169,13 +169,15 @@ def _call_llm_once(client, model: str, prompt: str) -> str:
             model=model,
             messages=[
                 {"role": "system", "content": (
-                    "你是港美股市场的晚间热点编辑，只输出「晚间关注」摘要，不输出其他解释。\n"
-                    "注意：中国两会/人大/政协、政府工作报告、央行与监管部委重大表态等政策事件，"
-                    "对港股和中概股影响极大，若资讯中出现必须在摘要中单独体现，不可省略或合并到其他条目中。"
+                    "你是港美股热点运营助手，只输出摘要正文，不输出任何解释或前言。\n"
+                    "语言铁律：所有描述性文字必须用中文，包括动词、形容词、连接词。"
+                    "仅允许保留股票代码（如 NVDA、TSLA）和无中文译名的公司简称（如 SpaceX、OpenAI）。"
+                    "不得将英文单词混入中文句子中，例如不能出现 reportedly、targets、likely、surges 等英文词语。\n"
+                    "注意：中国两会/人大/政协、央行与监管部委重大表态、中美贸易政策等，对港股和中概股影响极大，若资讯中出现必须单独体现，不可省略。"
                 )},
                 {"role": "user", "content": prompt},
             ],
-            max_tokens=800,
+            max_tokens=2000,
         )
         if isinstance(r, str):
             out = r.strip()
