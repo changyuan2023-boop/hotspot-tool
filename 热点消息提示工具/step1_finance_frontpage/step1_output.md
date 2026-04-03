@@ -3,25 +3,21 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | US economy adds 178,000 jobs, unemployment rate falls | March jobs report shows surprise turnaround | Hope for Hormuz lifts markets
-  - 其他: Best markets for first-time homebuyers almost all in South, Midwest | Hyundai's Boulder concept previews its truck future, built in America | Twin cybersecurity incidents leave AI industry shaken | OpenAI buys tech news show TBPN in AI giant's biggest media push yet | Deepseek’s V4 model will run on Huawei chips, The Information reports
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Hope for Hormuz lifts markets | SpaceX reportedly targets $2T valuation, Microsoft invests in Japan | Americans nearing retirement plan to take Social Security 'as soon as eligible'
+  - 其他: March jobs report shows surprise turnaround | What we've learned in year since 'Liberation Day' | Best markets for first-time homebuyers almost all in South, Midwest | Where’s my tax refund? 4 reasons your refund might be delayed. | OpenAI buys tech news show TBPN in AI giant's biggest media push yet
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: US-Iran War Updates April 3: Trump Says US Could 'Easily' Open Hormuz, Tehran Lets First EU, Japan Ships Transit And More (UPDATED) | How A Crypto Journalist Fell For A Sophisticated North Korean Phishing Attack: 'Giving Me Scam Vibes' | Trump Sons-Backed Drone Company Is Pitching Gulf States Under Iranian Attack — And Ethics Questions Are Starting To Mount | US Adds 178,000 Jobs In Sharp Rebound After February Shock | Google Rival DuckDuckGo Roasts Jeff Bezos' Tall Beverly Hills Fence And Mark Zuckerberg's Multi-Million Dollar Property Spree
+  - 其他: Risk-On In A Risk-Off Month: $32 Billion Floods Into International ETFs During March Turmoil | Billionaire 'Bond King' Warns Investors, 'Rules Can Be Changed' | US-Iran War Updates April 3: Trump Says US Could 'Easily' Open Hormuz, Tehran Lets First EU, Japan Ships Transit And More (UPDATED) | How A Crypto Journalist Fell For A Sophisticated North Korean Phishing Attack: 'Giving Me Scam Vibes' | Trump Sons-Backed Drone Company Is Pitching Gulf States Under Iranian Attack — And Ethics Questions Are Starting To Mount
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 小米法务部：已帮助66位车主向法院成功立案，民事诉讼案取得首个胜诉判决 | 伊朗媒体称美方营救飞行员未能成功 | 美国3月标普全球综合PMI终值 50.3，预期 51.4，初值 51.4。 | 美国3月标普全球服务业PMI终值 49.8，预期 51.1，初值 51.1。 | 胡塞武装强调不会袖手旁观 | 提醒：美股因耶稣受难日休市。 | 以军称伊朗向以色列发动新一轮导弹袭击 | 白宫经济顾问哈塞特：（谈伊朗）油轮已开始通过海峡。
-（谈伊朗）我们非常乐观地认为，这将在短期内结束。
-认为这将在几周内结束，而非几个月。
-伊朗并未损害美国经济，美国经济依然稳健。
-担忧亚洲可能减少向美国出口的石油供应。
-（谈就业报告）这对市
-  - 其他: 特朗普夸耀的“战绩”被美情报部门“打脸” | 阿联酋否认其领土被用于对伊朗发动袭击 | 伊朗发动第92波打击 | 伊朗警告称将把敌军士兵“打回石器时代之前” | 阿联酋天然气设施因起火暂停运营
+  - 头版/首屏: 克里姆林宫：俄罗斯总统普京与土耳其总统埃尔多安通电话。（国际文传电讯社IFX） | 意大利总理梅洛妮意外地出访海湾地区，目的地包括沙特，希望巩固意大利自身的能源（供应）安全。 | 伊朗总统回应特朗普：“炸回石器时代”言论意味着大规模战争罪 | 美元指数目前涨0.07%，在清淡行情中持稳于100.100点下方，北京时间20:30披露非农就业报告时从100整数位心理关口下方瞬间拉升至100.160刷新日高。
+美国官员称，一架美军F-15战斗机在伊朗被击落，美方在搜寻被击落的F-15战 | 美媒：美国去年以安全原因驱逐一名伊朗常驻联合国副代表 | 特朗普2027财年预算案拟为美国政府部门拨款将近2.2万亿美元 | 美官员证实一架美军战斗机在伊朗境内被击落 | 白宫提交2027财年预算 国防开支飙升至1.5万亿美元
+  - 其他: 以色列最大天然气田在关闭一个月后恢复生产 | 伊朗情报部门逮捕28名与美以有关人员 | 以军称解除黎真主党武装仍为“长期目标” | 市场监管总局召开外卖平台企业行政指导会：要求三大外卖平台尽快开展自查整改 | 霍尔木兹海峡航运受阻全球航运成本急剧飙升 目前运费已涨了11倍到12倍
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: China, Europe and why Beijing took a swing at Iran over the Strait of Hormuz | Europe urged to ‘learn to fight for itself’ in case US-China truce collapses | Politics | Ma Xingrui becomes China’s third Politburo member investigated for corruption | Science | China watching ‘like a hawk’ as US Artemis 2 crew embarks on moon trip | Health & Environment | Rats versus pets: Hong Kong dog owners want rodent poison in boxes, not bags
-  - 其他: Beijing takes a stand at the United Nations at the closure of shipping lanes. | Former Communist Party chief of Xinjiang is under investigation for ‘serious violations of discipline and law’, according to state news agency Xinhua. | Eyeing a lunar landing by 2030, Beijing will be ‘looking attentively at everything they can glean’ from the American mission, expert says. | Pet owners call for environmental authorities to improve rat extermination methods after one dog accidentally consumes poison three times. | China launches heavyweight rocket to challenge SpaceX’s Falcon 9. It fails
+  - 头版/首屏: China’s gravity-detecting SQUID gets closer to spotting US nuclear submarines | Chinese scientists’ new gravity detector could be used in submarine navigation | Diplomacy | China, Europe and why Beijing took a swing at Iran over the Strait of Hormuz | Politics | Ma Xingrui becomes China’s third Politburo member investigated for corruption | Health & Environment | Rats versus pets: Hong Kong dog owners want rodent poison in boxes, not bags
+  - 其他: Device can spot objects by measuring tiny shifts in gravity, and its compact design means it can be used outside a lab. | Beijing takes a stand at the United Nations at the closure of shipping lanes. | Former Communist Party chief of Xinjiang is under investigation for ‘serious violations of discipline and law’, according to state news agency Xinhua. | Pet owners call for environmental authorities to improve rat extermination methods after one dog accidentally consumes poison three times. | China launches heavyweight rocket to challenge SpaceX’s Falcon 9. It fails
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 油价再飙升航企上调燃油附加费，航空股仍未宜沾手？ | 猪价续跌 3部门再展中央冻肉收储 | 伊分5级筛选船只 收霍尔木兹通行费 | 解压饺子奇袭Labubu，内存压缩狙击美光 | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -36,11 +32,11 @@
 
 - **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
 - **伊朗/中东局势** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
 - **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
 - **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
 - **加密货币** — 出现于: Benzinga (EN) (1 站)
 - **黄金/大宗商品** — 出现于: Benzinga (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
