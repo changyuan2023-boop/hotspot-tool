@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040319
+抓取时间: 2026040321
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -10,24 +10,24 @@
 - Sports
 - New on Yahoo
 - U.S. markets closed
-- What we've learned in a year since 'Liberation Day'
 - Hope for Hormuz lifts markets
+- SpaceX reportedly targets $2T valuation, Microsoft invests in Japan
+- Americans nearing retirement plan to take Social Security 'as soon as eligible'
+- Bounce-back in hiring likely to keep Fed on hold in the midst of oil shock
+- What we've learned in year since 'Liberation Day'
 - Best markets for first-time homebuyers almost all in South, Midwest
 - Hyundai's Boulder concept previews its truck future, built in America
-- Americans nearing retirement say they plan to take Social Security 'as soon as eligible'
-- Tesla leads 'Mag 7' stocks lower, AI leaks highlight cyber risks
-- Twin cybersecurity incidents leave AI industry shaken
 其他:
-- Jobs report to show updated view of labor market
+- US economy adds 178,000 jobs, unemployment rate falls
+- Twin cybersecurity incidents leave AI industry shaken
 - Mortgage rates rise for 5th straight week above 6%
-- Toyota bets big on EVs and US manufacturing as tariff costs mount
-- Moscow shoppers and travellers hit by payment system problem
-- What to expect from the jobs report today — and when the war could hit hiring
-- Samsung Elec likely to report stupendous surge in quarterly profit to record level
-- Shocked by gas at $4 in America? Try $15 in this city
-- Hyundai Motor flags export disruptions as Middle East conflict hits shipping
-- Microsoft to invest $10 billion in Japan for AI and cyber defence expansion
-- A year after 'Liberation Day,' Trump sets new drug tariffs, adjusts metals duties
+- Rent, debt, and groceries: How Americans are spending their tax refunds
+- Treasury Bonds Fall on Strength in March Payrolls: Markets Wrap
+- The US economy added a higher-than-expected 178,000 jobs last month
+- SpaceX confidentially files to public, seeking $2 trillion valuation in monster IPO
+- Trump Budget Pits Spending Cuts Against Massive Defense Push
+- US targets Chinese chipmaking with proposed export restrictions on ASML and others
+- Bond Traders Set Up for Jobs Data With Iran War Still Main Focus
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,64 +42,71 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- 'It Would've Set The Earth On Fire': GOP Rep Says Secret UFO Files He Saw Could Have 'Unglued' America If Released
-- Did Someone Trade On Iran War Secrets? Senators Demand Probe After Suspicious Stock Bets Appeared Just Before Trump Policy Moves
-- US-Iran War Updates April 3: Trump Declares 'Next' Targets In Iran, Doubts Cast Over Iran's F-35 Attack Claim, Tehran Hits Gulf Utilities (UPDATED)
-- Tesla Delivers 358K Vehicles In Q1 — But Growth Story Loses Speed
-- Tesla's Delivery Miss Also Showed Elon Musk-Led EV Giant Hitting This Worrying Record
-- Stock Market Closed For Good Friday: What Other Services Are Open And Shut On April 3?
+- How A Crypto Journalist Fell For A Sophisticated North Korean Phishing Attack: 'Giving Me Scam Vibes'
+- Trump Sons-Backed Drone Company Is Pitching Gulf States Under Iranian Attack — And Ethics Questions Are Starting To Mount
+- US Adds 178,000 Jobs In Sharp Rebound After February Shock
+- Google Rival DuckDuckGo Roasts Jeff Bezos' Tall Beverly Hills Fence And Mark Zuckerberg's Multi-Million Dollar Property Spree
+- Anthropic, OpenAI's Next Models Could Be A 'Watershed' Event For Cybersecurity, Warns Expert—'Agentic Attackers Are Coming'
 - Gas Prices
 - Nebius Group Stock Jumps Thursday: What Investors Need To Know
-- Oil Futures Soar To $112 — Jim Cramer Flags Historic Sell-Off Risk During  Trump–Iran Tensions: 'Here We Go Again'
+- Applied Optoelectronics (AAOI) Stock Is Trending Overnight After Popping Over 20% On Thursday: What's Going On?
 - Thursday Troubles: S&P 500's Weakest Day Has Cost Investors In Recent Months
+- Is April The Turning Point Crypto Bulls Have Been Waiting For?
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 日本商船三井发言人：一艘我们共同拥有的LNG运输船已通过霍尔木兹海峡。
-- 乌方称俄发动大规模导弹和无人机袭击
-- 美战机飞行员或被伊朗军方俘虏
-- 伊朗称以色列袭击科威特海水淡化设施
-- 往期年报存在虚假记载被责令改正 菲林格尔：修正后的往期年报会先于2025年年报披露
-- 以色列最大天然气田在关闭一个月后恢复生产
-- 吉利博越REV 10.79万起售，A+级增程实现纯电续航375km
-- 市场监管总局通报44批次食品抽检不合格情况
-- 上海：完善校园食品安全协同管理机制，依法查处涉及学校食品安全违法行为
-- *ST观典：收到中国证券监督管理委员会《立案告知书》，因公司涉嫌信息披露违法违规等，中国证监会决定对公司立案。
-- 上交所：本周对中韩半导体ETF、南方原油LOF、标普油气ETF等溢价较高的基金，*ST正平等异常波动退市风险警示股票进行重点监控。
-- 伊朗情报部门逮捕28名与美以有关人员
+- 胡塞武装强调不会袖手旁观
+- 提醒：美股因耶稣受难日休市。
+- 以军称伊朗向以色列发动新一轮导弹袭击
+- 白宫经济顾问哈塞特：（谈伊朗）油轮已开始通过海峡。
+（谈伊朗）我们非常乐观地认为，这将在短期内结束。
+认为这将在几周内结束，而非几个月。
+伊朗并未损害美国经济，美国经济依然稳健。
+担忧亚洲可能减少向美国出口的石油供应。
+我密切关注期货市场。
+- 美国管理和预算办公室（OMB）：特朗普政府预算案提议投入100亿美元用于美化华盛顿特区。
+特朗普在2027财年的预算申请中要求采购85架F-35战机，这一数量较去年的47架有所增加。
+特朗普政府预算计划采购2艘“弗吉尼亚”级潜艇，与去年的计
+- 美国3月非农就业报告速评
+- 当地时间4月3日16时，伊朗首都德黑兰遭袭。（央视新闻）
+- 特朗普再提打开霍尔木兹海峡“抢石油”
+- 美国3月非农就业报告公布后，美元指数短线逾10点，现报100.12。美国10年期国债收益率短线拉升，现报4.351%。数据显示，美国3月非农就业人数增幅远程预期，失业率下降，交易员降低了对美联储2026年降息的押注。
+- 美国1月和2月非农就业人数合计下修0.7万人
+- 美国3月平均每小时工资同比 3.5%，预期 3.7%，前值 3.8%。
+- 美国3月平均每小时工资环比 0.2%，预期 0.3%，前值 0.4%。
 其他:
-- 东岳硅材：预计2026年第一季度预计实现净利润同比增长397.02%-451.34%
-- 俄方称停止热战前提是乌方从顿巴斯撤军
-- 以军称解除黎真主党武装仍为“长期目标”
-- 市场监管总局召开外卖平台企业行政指导会：要求三大外卖平台尽快开展自查整改
-- 抓获41人 中泰越三国联合破获一起跨国制造毒品案
-- 全国首个！广州上线“词元（Token）”级城市综合算力运行服务平台
-- 霍尔木兹海峡航运受阻全球航运成本急剧飙升 目前运费已涨了11倍到12倍
-- 京东团购上线
-- 伊朗导弹击中以色列一无人机工厂
-- 马克龙批评特朗普，呼吁中等国家团结以制衡美国。（彭博）
+- 阿联酋天然气设施因起火暂停运营
+- 航运追踪数据显示，法国所有的达飞轮船集团集装箱船已经通过霍尔木兹海峡。（路透）
+- 乌称基辅州遭大规模袭击 已致人员伤亡
+- 工信部：关于及时更新iOS特定版本 防范漏洞攻击利用的风险提示
+- 伊朗警告将摧毁美以在中东所有资产
+- 伯克希尔据悉就考虑发行的多期限日元债券评估投资者兴趣
+- 乘联分会：2026年1-2月中国汽车出口155万辆，同比增长61%
+- 伊朗称摧毁以色列先进隐形巡航导弹
+- 乘联分会：初步统计，3月1-31日，全国乘用车新能源市场零售78.4万辆，同比去年3月下降21%，较上月增长69%，今年以来累计零售184.4万辆，同比下降24%；3月1-31日，全国乘用车厂商新能源批发112.6万辆，同比去年3月增长0%
+- 乘联分会： 初步统计，3月1-31日，全国乘用车市场零售165.7万辆，同比去年3月下降15%，较上月同期增长60%，今年以来累计零售423.6万辆，同比下降17%。
 
 ## SCMP (EN/中)
 头版/首屏:
-- China watching ‘like a hawk’ as US Artemis 2 crew fixes toilet on moon trip
-- ‘Lighthouses in space’: the Chinese jam-proof satellite network to fill GPS gaps
+- China, Europe and why Beijing took a swing at Iran over the Strait of Hormuz
+- Europe urged to ‘learn to fight for itself’ in case US-China truce collapses
 - Politics
-- Ma Xingrui the third Politburo member investigated by China’s graft-busters
-- Former KMT chairwoman calls for ‘profound mutual trust’ with mainland China
+- Ma Xingrui becomes China’s third Politburo member investigated for corruption
+- Science
+- China watching ‘like a hawk’ as US Artemis 2 crew embarks on moon trip
 - Health & Environment
 - Rats versus pets: Hong Kong dog owners want rodent poison in boxes, not bags
-- China launches heavyweight rocket to challenge SpaceX’s Falcon 9. It fails
 其他:
+- Beijing takes a stand at the United Nations at the closure of shipping lanes.
+- Former Communist Party chief of Xinjiang is under investigation for ‘serious violations of discipline and law’, according to state news agency Xinhua.
 - Eyeing a lunar landing by 2030, Beijing will be ‘looking attentively at everything they can glean’ from the American mission, expert says.
-- Former party chief of Xinjiang is under investigation for ‘serious violations of discipline and law’, according to state news agency Xinhua.
-- Social media post from Hung Hsiu-chu comes days ahead of sitting KMT chairwoman Cheng Li-wun’s visit to mainland.
 - Pet owners call for environmental authorities to improve rat extermination methods after one dog accidentally consumes poison three times.
+- China launches heavyweight rocket to challenge SpaceX’s Falcon 9. It fails
+- Former KMT chairwoman calls for ‘profound mutual trust’ with mainland China
+- Social media post from Hung Hsiu-chu comes days ahead of sitting KMT chairwoman Cheng Li-wun’s visit to mainland.
 - China Economy
 - Washington launches export initiative to ensure ‘future of AI’ is led by US
 - Chinese competitors targeted as US companies invited to form consortiums to offer full-stack AI solutions around the world.
-- Military
-- With an eye on China, Japan looks to kamikaze drones and low-cost missiles
-- Tokyo plans to introduce loitering munitions with a range of more than 1,000km, according to Japanese media reports citing official sources.
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -128,16 +135,17 @@
 - 吃喝玩乐
 
 ## 智通财经 (简中)
-（抓取失败: HTTPSConnectionPool(host='www.zhitongcaijing.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.zhitongcaijing.com', port=443) at 0x7fb7b19a7080>, 'Connection to www.zhitongcaijing.com timed out. (connect timeout=30)'))）
+（抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 就业数据: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN)
+- 美国关税: 华尔街见闻 (简中)
 - 加密货币: Benzinga (EN)
-- 就业数据: Yahoo Finance (EN)
 - 黄金/大宗: Benzinga (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
