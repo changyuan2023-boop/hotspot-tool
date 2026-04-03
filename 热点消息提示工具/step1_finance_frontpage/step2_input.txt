@@ -10,24 +10,24 @@
 - Sports
 - New on Yahoo
 - U.S. markets closed
+- US economy adds 178,000 jobs, unemployment rate falls
+- March jobs report shows surprise turnaround
 - Hope for Hormuz lifts markets
 - SpaceX reportedly targets $2T valuation, Microsoft invests in Japan
 - Americans nearing retirement plan to take Social Security 'as soon as eligible'
 - Bounce-back in hiring likely to keep Fed on hold in the midst of oil shock
 - What we've learned in year since 'Liberation Day'
+其他:
 - Best markets for first-time homebuyers almost all in South, Midwest
 - Hyundai's Boulder concept previews its truck future, built in America
-其他:
-- US economy adds 178,000 jobs, unemployment rate falls
 - Twin cybersecurity incidents leave AI industry shaken
-- Mortgage rates rise for 5th straight week above 6%
+- Deepseek’s V4 model will run on Huawei chips, The Information reports
 - Rent, debt, and groceries: How Americans are spending their tax refunds
 - Treasury Bonds Fall on Strength in March Payrolls: Markets Wrap
 - The US economy added a higher-than-expected 178,000 jobs last month
 - SpaceX confidentially files to public, seeking $2 trillion valuation in monster IPO
 - Trump Budget Pits Spending Cuts Against Massive Defense Push
 - US targets Chinese chipmaking with proposed export restrictions on ASML and others
-- Bond Traders Set Up for Jobs Data With Iran War Still Main Focus
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,19 +42,22 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
+- US-Iran War Updates April 3: Trump Says US Could 'Easily' Open Hormuz, Tehran Lets First EU, Japan Ships Transit And More (UPDATED)
 - How A Crypto Journalist Fell For A Sophisticated North Korean Phishing Attack: 'Giving Me Scam Vibes'
 - Trump Sons-Backed Drone Company Is Pitching Gulf States Under Iranian Attack — And Ethics Questions Are Starting To Mount
 - US Adds 178,000 Jobs In Sharp Rebound After February Shock
 - Google Rival DuckDuckGo Roasts Jeff Bezos' Tall Beverly Hills Fence And Mark Zuckerberg's Multi-Million Dollar Property Spree
-- Anthropic, OpenAI's Next Models Could Be A 'Watershed' Event For Cybersecurity, Warns Expert—'Agentic Attackers Are Coming'
-- Gas Prices
+- Elon Musk
+- Mark Zuckerberg
 - Nebius Group Stock Jumps Thursday: What Investors Need To Know
-- Applied Optoelectronics (AAOI) Stock Is Trending Overnight After Popping Over 20% On Thursday: What's Going On?
+- Anthropic, OpenAI's Next Models Could Be A 'Watershed' Event For Cybersecurity, Warns Expert—'Agentic Attackers Are Coming'
 - Thursday Troubles: S&P 500's Weakest Day Has Cost Investors In Recent Months
-- Is April The Turning Point Crypto Bulls Have Been Waiting For?
 
 ## 华尔街见闻 (简中)
 头版/首屏:
+- 伊朗媒体称美方营救飞行员未能成功
+- 美国3月标普全球综合PMI终值 50.3，预期 51.4，初值 51.4。
+- 美国3月标普全球服务业PMI终值 49.8，预期 51.1，初值 51.1。
 - 胡塞武装强调不会袖手旁观
 - 提醒：美股因耶稣受难日休市。
 - 以军称伊朗向以色列发动新一轮导弹袭击
@@ -63,7 +66,7 @@
 认为这将在几周内结束，而非几个月。
 伊朗并未损害美国经济，美国经济依然稳健。
 担忧亚洲可能减少向美国出口的石油供应。
-我密切关注期货市场。
+（谈就业报告）这对市
 - 美国管理和预算办公室（OMB）：特朗普政府预算案提议投入100亿美元用于美化华盛顿特区。
 特朗普在2027财年的预算申请中要求采购85架F-35战机，这一数量较去年的47架有所增加。
 特朗普政府预算计划采购2艘“弗吉尼亚”级潜艇，与去年的计
@@ -71,10 +74,10 @@
 - 当地时间4月3日16时，伊朗首都德黑兰遭袭。（央视新闻）
 - 特朗普再提打开霍尔木兹海峡“抢石油”
 - 美国3月非农就业报告公布后，美元指数短线逾10点，现报100.12。美国10年期国债收益率短线拉升，现报4.351%。数据显示，美国3月非农就业人数增幅远程预期，失业率下降，交易员降低了对美联储2026年降息的押注。
-- 美国1月和2月非农就业人数合计下修0.7万人
-- 美国3月平均每小时工资同比 3.5%，预期 3.7%，前值 3.8%。
-- 美国3月平均每小时工资环比 0.2%，预期 0.3%，前值 0.4%。
 其他:
+- 阿联酋否认其领土被用于对伊朗发动袭击
+- 伊朗发动第92波打击
+- 伊朗警告称将把敌军士兵“打回石器时代之前”
 - 阿联酋天然气设施因起火暂停运营
 - 航运追踪数据显示，法国所有的达飞轮船集团集装箱船已经通过霍尔木兹海峡。（路透）
 - 乌称基辅州遭大规模袭击 已致人员伤亡
@@ -82,9 +85,6 @@
 - 伊朗警告将摧毁美以在中东所有资产
 - 伯克希尔据悉就考虑发行的多期限日元债券评估投资者兴趣
 - 乘联分会：2026年1-2月中国汽车出口155万辆，同比增长61%
-- 伊朗称摧毁以色列先进隐形巡航导弹
-- 乘联分会：初步统计，3月1-31日，全国乘用车新能源市场零售78.4万辆，同比去年3月下降21%，较上月增长69%，今年以来累计零售184.4万辆，同比下降24%；3月1-31日，全国乘用车厂商新能源批发112.6万辆，同比去年3月增长0%
-- 乘联分会： 初步统计，3月1-31日，全国乘用车市场零售165.7万辆，同比去年3月下降15%，较上月同期增长60%，今年以来累计零售423.6万辆，同比下降17%。
 
 ## SCMP (EN/中)
 头版/首屏:
@@ -138,12 +138,12 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 就业数据: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
 - 美国关税: 华尔街见闻 (简中)
 - 加密货币: Benzinga (EN)
 - 黄金/大宗: Benzinga (EN)
