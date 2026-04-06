@@ -3,20 +3,20 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 9h 20m | Wall Street aims to look past Iran conflict | Trump admin signals it will offer broad tariff refunds | Polymarket took down wagers tied to rescue of downed Air Force officer
-  - 其他: Inflation readings, oil volatility, and airline earnings: Week ahead | 10 investing lessons I learned over the last 20 years | What is a crypto wallet? A beginner's guide to crypto storage. | Stock market today: Oil surges, futures fall as Trump ratchets up threats against Iran | Chinese Bonds Near Inflection Point as Inflation Path Shifts
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 5m | SpaceX IPO could supercharge the entire space industry | Stock futures rise amid glimmer of Iran war hope | Trump's new deadline looms amid ceasefire push
+  - 其他: Dimon warns on sticky inflation: The 'skunk at the party' | Trump admin signals it will offer broad tariff refunds | Wall Street aims to look past Iran conflict | Ulta CEO talks the hottest beauty trends, store growth plans, and AI | What to know about X Money, Elon Musk's fintech app that claims to pay 6% on savings
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Trump Says 'Evil And Wickedness Will Not Prevail' In Easter Message, Chuck Schumer Calls Him 'Unhinged Madman' Over Controversial Iran Post | EXCLUSIVE: Trump's Move To End EV Credit A 'Cruel Irony,' Auto Industry Expert Says As EV Sales Fall, Gas Prices Soar Past $4/Gallon Amid Iran War | Bitcoin, Ethereum, XRP, Dogecoin Rally Amid Trump's Fiery Iran Warning: Analyst Says 'No Point In Buying' BTC Until This Happens | Dow Futures Drop 164 Points As Oil Jumps Above $112; Trump Sets Tuesday Deadline On Iran Over Strait Of Hormuz, Tehran Says 'Never Refused' Talks | World Cup Gets a Prediction Market Twist as FIFA Signs Deal With Adi Predictstreet
+  - 其他: What's Going On With Nokia Stock Monday? | Kevin O'Leary Says Anyone Making $68K Can Take 15% And Let The Market 'Do Its Thing' — You'll End Up A Millionaire | Top Wall Street Forecasters Revamp Delta Air Lines Expectations Ahead Of Q1 Earnings | Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA | Netflix To Rally Around 22%? Here Are 10 Top Analyst Forecasts For Monday
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 以军称打击了德黑兰的伊朗国家机构目标 | Neurocrine即将达成一项斥资超过25亿美元收购Soleno Therapeutics的交易。（英国金融时报） | 中国AI大模型调用量环比增逾31%，连续五周超越美国 | 伊朗媒体：美以空袭伊朗谢里夫理工大学 | 特朗普发帖发了一个时间 媒体：暗示再次推迟“最后通牒”时限 | 伊朗司法部长：轰炸居民区和平民属于战争罪 | 美股期货转涨，纳斯达克100指数期货日内涨0.7%。 | WTI日内转跌，报道称美伊调解方为争取45天停火做最后努力
-  - 其他: 日本经济再生担当大臣木内康弘：疲软日元有利有弊。 | 商务部等6部门发布《关于更好服务实体经济 推进电子商务高质量发展的指导意见》 | 日本政府考虑5月追加释放国家石油储备 | 三月深圳楼市“量涨价稳”，一二手房网签量创近11个月新高 | 富时中国A50指数期货盘初涨0.28%，上一个交易日夜盘收涨0.31%。
+  - 头版/首屏: 国际原子能机构说伊朗布什尔核电站未在打击中受损 | 伊朗媒体称又一石油化工设施遭袭 | 富国银行投资研究所将标普500信息技术板块评级从中性上调至“有利”。 | 摩根大通CEO戴蒙敦促美国“变得更强” | 周一美股盘前你需要了解的全球要闻 | 花旗：预计美联储将于9月降息，此前预期为6月降息。 | 甲骨文任命希Hilary Maxson为首席财务官。 | 伊朗原子能组织主席：袭击核电站构成战争罪
+  - 其他: 韩国总理：与经济基本面的其他指标相比，韩元的走势过度疲软。 | 苹果首款折叠屏手机已在试产 | 韩国考虑避开霍尔木兹海峡“找油” | 外媒：少量油轮和货船通过霍尔木兹海峡 | 提醒：日内请重点关注（以下均为北京时间）
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Return of overseas hires meets tighter supply, driving up Hong Kong luxury rents | Hong Kong’s property market resilient despite small setback last month: analysts | Diplomacy | Orban on the brink: could Hungary’s election dent China’s influence in Europe? | Tech War | Chip, AI talent race heats up as Taiwan tightens crackdown on alleged poaching | Law and Crime | Warning issued after university student loses HK$190,000 in internship scam
-  - 其他: Repulse Bay is at the centre of a rebound, with leasing activity surging and high-end homes drawing multiple rental offers. | ‘Most consequential’ vote is being pitched as a referendum on whether the country should move towards the East or West. | The latest probes are part of Taiwan’s crackdown on mainland Chinese talent poaching, with 100 cases handled since 2020, according to MJIB. | Police say fraudsters held a 40-minute online orientation and communicated with the victim entirely in fluent English. | Andrew Tilton on China’s economic trajectory in wake of Iran war
+  - 头版/首屏: Why KMT leader’s planned Beijing visit is under scrutiny in Taiwan | Is Taiwan’s opposition KMT splitting into pro-US and pro-Beijing camps? | Military | As Trump hails airman rescue in Iran, Chinese experts count US wins and losses | Diplomacy | Pakistan plan a ‘critical opportunity’ for US-Iran talks as Trump deadline looms | Hong Kong Economy | Hong Kong restaurant revenues drop over Easter as departures outnumber arrivals
+  - 其他: Meeting with Xi Jinping is expected on six-day trip, the first such encounter between the two parties’ leaders in a decade. | Former PLA personnel say Iranian success in shooting down military aircraft boosts morale and shows it remains a threat to US and Israel. | Islamabad has put forward proposals for a ceasefire as the US president threatened ‘hell’ if the Strait of Hormuz does not reopen. | Estimated 6 to 7 per cent year-on-year dip in catering sector business over long weekend amid exodus of locals, F&B trade representative says. | China’s electric truck revolution: powerful painkiller for the Iran war?
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 油价再飙升航企上调燃油附加费，航空股仍未宜沾手？ | 猪价续跌 3部门再展中央冻肉收储 | 伊分5级筛选船只 收霍尔木兹通行费 | 解压饺子奇袭Labubu，内存压缩狙击美光 | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -30,14 +30,15 @@
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中) (4 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **加密货币** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
+- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、重要性结论（综合头版+多站+股市相关）
 
