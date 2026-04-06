@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040322
+抓取时间: 2026040612
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets closed
-- Hope for Hormuz lifts markets
-- SpaceX reportedly targets $2T valuation, Microsoft invests in Japan
-- Americans nearing retirement plan to take Social Security 'as soon as eligible'
-- Turkey launches investigation into Google over advertising, billing practices
-- Hyundai's Boulder concept previews its truck future, built in America
-- Rent, debt, and groceries: How Americans are spending their tax refunds
-- Bounce-back in hiring likely to keep Fed on hold in the midst of oil shock
+- U.S. markets open in 9h 20m
+- Wall Street aims to look past Iran conflict
+- Trump admin signals it will offer broad tariff refunds
+- Polymarket took down wagers tied to rescue of downed Air Force officer
+- Trading open shadowed by Trump escalation threats
+- The K-shaped economy: Income and costs affect everyone differently
+- 3 predictions about silver prices in the next decade
+- Trump vows to destroy Iran's power plants and bridges unless it reopens Strait of Hormuz
 其他:
-- March jobs report shows surprise turnaround
-- What we've learned in year since 'Liberation Day'
-- Best markets for first-time homebuyers almost all in South, Midwest
-- Where’s my tax refund? 4 reasons your refund might be delayed.
-- OpenAI buys tech news show TBPN in AI giant's biggest media push yet
-- Deepseek’s V4 model will run on Huawei chips, The Information reports
-- Trump Budget Pits Spending Cuts Against Massive Defense Push
-- The US economy added a higher-than-expected 178,000 jobs last month
-- Treasury Bonds Fall on Strength in March Payrolls: Markets Wrap
-- SpaceX confidentially files to public, seeking $2 trillion valuation in monster IPO
+- Inflation readings, oil volatility, and airline earnings: Week ahead
+- 10 investing lessons I learned over the last 20 years
+- What is a crypto wallet? A beginner's guide to crypto storage.
+- Stock market today: Oil surges, futures fall as Trump ratchets up threats against Iran
+- Chinese Bonds Near Inflection Point as Inflation Path Shifts
+- How one factory in China learned to live with Trump, tariffs and turmoil
+- Oil prices climb after Trump threatens Iran over Strait of Hormuz
+- US inflation seen spiking in first snapshot since Iran war
+- The bond market is helping resolve the Fed's interest rate dilemma
+- US Rescues Missing Airman as Iran Strikes Gulf Arab States
 
 ## Benzinga (EN)
 头版/首屏:
@@ -42,66 +42,64 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Risk-On In A Risk-Off Month: $32 Billion Floods Into International ETFs During March Turmoil
-- Billionaire 'Bond King' Warns Investors, 'Rules Can Be Changed'
-- US-Iran War Updates April 3: Trump Says US Could 'Easily' Open Hormuz, Tehran Lets First EU, Japan Ships Transit And More (UPDATED)
-- How A Crypto Journalist Fell For A Sophisticated North Korean Phishing Attack: 'Giving Me Scam Vibes'
-- Trump Sons-Backed Drone Company Is Pitching Gulf States Under Iranian Attack — And Ethics Questions Are Starting To Mount
-- US Adds 178,000 Jobs In Sharp Rebound After February Shock
+- Trump Says 'Evil And Wickedness Will Not Prevail' In Easter Message, Chuck Schumer Calls Him 'Unhinged Madman' Over Controversial Iran Post
+- EXCLUSIVE: Trump's Move To End EV Credit A 'Cruel Irony,' Auto Industry Expert Says As EV Sales Fall, Gas Prices Soar Past $4/Gallon Amid Iran War
+- Bitcoin, Ethereum, XRP, Dogecoin Rally Amid Trump's Fiery Iran Warning: Analyst Says 'No Point In Buying' BTC Until This Happens
+- Dow Futures Drop 164 Points As Oil Jumps Above $112; Trump Sets Tuesday Deadline On Iran Over Strait Of Hormuz, Tehran Says 'Never Refused' Talks
+- World Cup Gets a Prediction Market Twist as FIFA Signs Deal With Adi Predictstreet
+- Trump Warns Iran Of Attacks Of Power Plants, Bridges If It Does Not Open Strait Of Hormuz Before Deadline
 - Elon Musk
-- Mark Zuckerberg
-- Nebius Group Stock Jumps Thursday: What Investors Need To Know
-- Anthropic, OpenAI's Next Models Could Be A 'Watershed' Event For Cybersecurity, Warns Expert—'Agentic Attackers Are Coming'
+- Donald Trump
+- VinFast, Alcoa, And Regencell Are Among the Top 10 Large-Cap Gainers Last Week (March 30-April 2): Are the Others in Your Portfolio?
+- S&P 500 Snaps Losing Streak, Logs Best Weekly Rally In 5 Month: This Week On Wall Street
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 克里姆林宫：俄罗斯总统普京与土耳其总统埃尔多安通电话。（国际文传电讯社IFX）
-- 意大利总理梅洛妮意外地出访海湾地区，目的地包括沙特，希望巩固意大利自身的能源（供应）安全。
-- 伊朗总统回应特朗普：“炸回石器时代”言论意味着大规模战争罪
-- 美元指数目前涨0.07%，在清淡行情中持稳于100.100点下方，北京时间20:30披露非农就业报告时从100整数位心理关口下方瞬间拉升至100.160刷新日高。
-美国官员称，一架美军F-15战斗机在伊朗被击落，美方在搜寻被击落的F-15战
-- 美媒：美国去年以安全原因驱逐一名伊朗常驻联合国副代表
-- 特朗普2027财年预算案拟为美国政府部门拨款将近2.2万亿美元
-- 美官员证实一架美军战斗机在伊朗境内被击落
-- 白宫提交2027财年预算 国防开支飙升至1.5万亿美元
-- 美国3月标普全球服务业PMI终值49.8，自2023年以来首次萎缩
-- 周五（4月3日），美国股指期货提前结束交易，标普500股指期货（在非农就业报告发布后）最终跌0.32%，道指期货跌0.23%，纳斯达克100股指期货跌0.38%。
-罗素2000股指期货跌0.52%。
-- 小米法务部：已帮助66位车主向法院成功立案，民事诉讼案取得首个胜诉判决
-- 伊朗媒体称美方营救飞行员未能成功
+- 以军称打击了德黑兰的伊朗国家机构目标
+- Neurocrine即将达成一项斥资超过25亿美元收购Soleno Therapeutics的交易。（英国金融时报）
+- 中国AI大模型调用量环比增逾31%，连续五周超越美国
+- 伊朗媒体：美以空袭伊朗谢里夫理工大学
+- 特朗普发帖发了一个时间 媒体：暗示再次推迟“最后通牒”时限
+- 伊朗司法部长：轰炸居民区和平民属于战争罪
+- 美股期货转涨，纳斯达克100指数期货日内涨0.7%。
+- WTI日内转跌，报道称美伊调解方为争取45天停火做最后努力
+- 伊称向以发射三轮导弹 以称其中至少10枚导弹携带集束弹头
+- 伊朗军方：特朗普和美军遭遇的尴尬难以补救
+- 伊朗媒体：一枚炮弹击中位于伊拉克的美国领事馆
+- 伊朗最高领袖顾问警告美国：或将封锁曼德海峡作为反制
 其他:
-- 以色列最大天然气田在关闭一个月后恢复生产
-- 伊朗情报部门逮捕28名与美以有关人员
-- 以军称解除黎真主党武装仍为“长期目标”
-- 市场监管总局召开外卖平台企业行政指导会：要求三大外卖平台尽快开展自查整改
-- 霍尔木兹海峡航运受阻全球航运成本急剧飙升 目前运费已涨了11倍到12倍
-- 京东团购上线
-- 伊朗导弹击中以色列一无人机工厂
-- 马克龙批评特朗普，呼吁中等国家团结以制衡美国。（彭博）
-- 以军延长预备役人员作战部署期限，从7周增至9周
-- 伊朗革命卫队确认海军情报局高官身亡
+- 日本经济再生担当大臣木内康弘：疲软日元有利有弊。
+- 商务部等6部门发布《关于更好服务实体经济 推进电子商务高质量发展的指导意见》
+- 日本政府考虑5月追加释放国家石油储备
+- 三月深圳楼市“量涨价稳”，一二手房网签量创近11个月新高
+- 富时中国A50指数期货盘初涨0.28%，上一个交易日夜盘收涨0.31%。
+- 日经225指数涨幅扩大至1%。
+- 日本20年期国债收益率上升4.0个基点，至3.305%。
+- 日本5年期国债收益率上升2.0个基点，至1.815%。
+- 韩国首尔综指涨幅扩大至1%，三星电子涨3%。
+- 日经225指数高开0.4%，韩国首尔综指高开0.9%。
 
 ## SCMP (EN/中)
 头版/首屏:
-- China’s gravity-detecting SQUID gets closer to spotting US nuclear submarines
-- Chinese scientists’ new gravity detector could be used in submarine navigation
+- Return of overseas hires meets tighter supply, driving up Hong Kong luxury rents
+- Hong Kong’s property market resilient despite small setback last month: analysts
 - Diplomacy
-- China, Europe and why Beijing took a swing at Iran over the Strait of Hormuz
-- Politics
-- Ma Xingrui becomes China’s third Politburo member investigated for corruption
-- Health & Environment
-- Rats versus pets: Hong Kong dog owners want rodent poison in boxes, not bags
+- Orban on the brink: could Hungary’s election dent China’s influence in Europe?
+- Tech War
+- Chip, AI talent race heats up as Taiwan tightens crackdown on alleged poaching
+- Law and Crime
+- Warning issued after university student loses HK$190,000 in internship scam
 其他:
-- Device can spot objects by measuring tiny shifts in gravity, and its compact design means it can be used outside a lab.
-- Beijing takes a stand at the United Nations at the closure of shipping lanes.
-- Former Communist Party chief of Xinjiang is under investigation for ‘serious violations of discipline and law’, according to state news agency Xinhua.
-- Pet owners call for environmental authorities to improve rat extermination methods after one dog accidentally consumes poison three times.
-- China launches heavyweight rocket to challenge SpaceX’s Falcon 9. It fails
-- Former KMT chairwoman calls for ‘profound mutual trust’ with mainland China
-- Social media post from Hung Hsiu-chu comes days ahead of sitting KMT chairwoman Cheng Li-wun’s visit to mainland.
-- Science
-- China watching ‘like a hawk’ as US Artemis 2 crew embarks on moon trip
-- Eyeing a lunar landing by 2030, Beijing will be ‘looking attentively at everything they can glean’ from the American mission, expert says.
+- Repulse Bay is at the centre of a rebound, with leasing activity surging and high-end homes drawing multiple rental offers.
+- ‘Most consequential’ vote is being pitched as a referendum on whether the country should move towards the East or West.
+- The latest probes are part of Taiwan’s crackdown on mainland Chinese talent poaching, with 100 cases handled since 2020, according to MJIB.
+- Police say fraudsters held a 40-minute online orientation and communicated with the victim entirely in fluent English.
+- Andrew Tilton on China’s economic trajectory in wake of Iran war
+- Global Economy
+- South Korea opens door wider to Chinese travellers – but will they come?
+- Higher airfares and fierce regional competition may blunt impact of new policy, analysts say.
+- Middle East
+- Trump draws criticism with fiery, foul-mouthed message threatening Iran
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -133,15 +131,14 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 就业数据: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 加密货币: Benzinga (EN)
-- 黄金/大宗: Benzinga (EN)
-- 中国政策/两会: 华尔街见闻 (简中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 就业数据: SCMP (EN/中)
+- 美联储: Yahoo Finance (EN)
 
 --- 粘贴结束 ---
