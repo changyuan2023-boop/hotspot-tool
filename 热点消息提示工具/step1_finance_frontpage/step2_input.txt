@@ -9,7 +9,7 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 6h 48m
+- U.S. markets open in 6h 38m
 - Trump backs away from seizing Iran's oil: 'The American people would like to see us come home'
 - Red lights are flashing on the scarcity of oil
 - Qatar LNG ships appear to abort bid to exit Strait of Hormuz
@@ -21,13 +21,13 @@
 - US stock futures fall as Trump deadline for Iran deal nears
 - Is the housing market going to crash? Here's what experts say.
 - Samsung profit up eight-fold as AI chip sales defy war fears
-- Ackman's Pershing Square offers to buy Universal Music for nearly $65 billion
+- Vietnam's MoMo weighs options including new investors at valuation above $2 billion, sources say
 - Bitcoin Slides With Risk Assets as Trump’s Iran Ultimatum Looms
+- Ackman's Pershing Square offers to buy Universal Music for nearly $65 billion
 - Nvidia-Backed Data Center Builder Firmus Raises $505 Million
 - Samsung flags eightfold jump in quarterly profit as AI chip demand pumps prices
 - Broadcom signs long-term deal to develop Google’s custom AI chips
 - Trump's shipping waiver does not boost oil flows within US; fuel exports soar
-- US finalizes 2.48% Medicare Advantage payment hike, above near-flat January proposal
 
 ## Benzinga (EN)
 头版/首屏:
@@ -54,32 +54,7 @@
 - CVS, UnitedHealth, Humana, Elevance Shares Surge: Here's Why
 
 ## 华尔街见闻 (简中)
-头版/首屏:
-- 消息人士称以军将对伊朗铁路相关设施发动打击
-- 伊朗外长与卡塔尔外交大臣通电话 讨论地区局势
-- 潘兴广场（Pershing Square）提出以94亿欧元现金加股票的方式收购环球音乐集团（UMG）。（彭博）
-- 特朗普自曝威胁退出北约真相：“想要格陵兰岛 但他们不给 那就说‘拜拜’”
-- 全球首款纯内存芯片ETF近日在美股上市
-- 连接沙特和巴林的关键桥梁交通中断
-- 早间要闻汇总
-- 提醒：日内请重点关注（以下均为北京时间）
-- 网易有道推出中国版 “NotebookLM” 有道宝库
-- 产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布
-- 美媒称美伊达成停火协议“希望渐灭”
-- 苹果公司首款折叠屏iPhone在工程测试阶段遭遇挫折，这可能导致其量产计划和产品出货时间表被迫推迟。（日经新闻）
-其他:
-- 伊朗军方：美方威胁无法弥补美国所受“羞辱”
-- Anthropic年化收入突破300亿美元
-- Citrini的研报又火了，“战地分析师”亲赴霍尔木兹海峡调研
-- 4名伊朗军官对抗美军搜救行动时阵亡
-- 伊朗教育部：美以袭击致310名师生死亡
-- 博通确认将向Anthropic供应谷歌TPU芯片，提供英伟达技术的替代方案
-- 标普道琼斯指数公司：Casey’s General Stores Inc.（CASY）将被纳入标普500指数。
-- 周一（4月6日）纽约尾盘，标普500股指期货最终涨0.42%，道指期货涨0.59%，纳斯达克100股指期货涨0.55%。
-罗素2000股指期货涨0.36%。
-- 周一（4月6日）纽约尾盘，现货黄金跌0.54%，报4651.24美元/盎司，北京时间08:27跌至4600.95美元刷新日低，随后逐步回升，17:43涨至4706.65美元刷新日高。
-COMEX黄金期货涨0.01%，报4680.30美元/盎
-- 联合国秘书长发言人：对美方威胁空袭伊朗民用基础设施表震惊
+（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f6f5997c860>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
 
 ## SCMP (EN/中)
 头版/首屏:
@@ -133,12 +108,11 @@ COMEX黄金期货涨0.01%，报4680.30美元/盎
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), SCMP (EN/中), 经济通 (繁中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
 - 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
 - 就业数据: SCMP (EN/中)
-- 黄金/大宗: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
