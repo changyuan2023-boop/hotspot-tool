@@ -3,25 +3,21 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | US economy adds 178,000 jobs, unemployment rate falls | March jobs report shows surprise turnaround | Hope for Hormuz lifts markets
-  - 其他: Best markets for first-time homebuyers almost all in South, Midwest | Hyundai's Boulder concept previews its truck future, built in America | Twin cybersecurity incidents leave AI industry shaken | OpenAI buys tech news show TBPN in AI giant's biggest media push yet | Deepseek’s V4 model will run on Huawei chips, The Information reports
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Trump backs away from seizing Iran's oil: 'The American people would like to see us come home' | Spring homebuying picking up despite mortgage rate volatility | JPMorgan: Gas could top $5 per gallon if Strait of Hormuz stays closed
+  - 其他: US stock futures fall as Trump deadline for Iran deal nears | Oil rises a third day as Trump threats escalate before deadline | OpenAI urges states to investigate Musk's 'anti-competitive behavior' | Apple's foldable iPhone faces engineering snags, potential shipment delays, Nikkei Asia reports | Exclusive-SpaceX lays out IPO details, targets early June roadshow, sources say
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: US-Iran War Updates April 3: Trump Says US Could 'Easily' Open Hormuz, Tehran Lets First EU, Japan Ships Transit And More (UPDATED) | How A Crypto Journalist Fell For A Sophisticated North Korean Phishing Attack: 'Giving Me Scam Vibes' | Trump Sons-Backed Drone Company Is Pitching Gulf States Under Iranian Attack — And Ethics Questions Are Starting To Mount | US Adds 178,000 Jobs In Sharp Rebound After February Shock | Google Rival DuckDuckGo Roasts Jeff Bezos' Tall Beverly Hills Fence And Mark Zuckerberg's Multi-Million Dollar Property Spree
+  - 其他: Elizabeth Warren Says 'Endless Shrimp' Wasn't Red Lobster's 'Real Downfall' — Here's What She Blames | Nvidia's Slurm Acquisition Sparks Fresh Fears Over Fairness In AI Chip Race: Report | Steve Jobs Once Warned Google Risked Becoming Microsoft Without Focus — Larry Page Later Said, 'He Was Right,' But Explained Why They Did It Anyway | NASA Artemis II Astronauts Reaches Farthest Point From Earth Ever Traveled By Humans During Historic Moon Flyby | Cathie Wood Buys The Tesla Dip: Ark Snaps Up $14 Million Of TSLA Stock Across These 3 ETFs
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 小米法务部：已帮助66位车主向法院成功立案，民事诉讼案取得首个胜诉判决 | 伊朗媒体称美方营救飞行员未能成功 | 美国3月标普全球综合PMI终值 50.3，预期 51.4，初值 51.4。 | 美国3月标普全球服务业PMI终值 49.8，预期 51.1，初值 51.1。 | 胡塞武装强调不会袖手旁观 | 提醒：美股因耶稣受难日休市。 | 以军称伊朗向以色列发动新一轮导弹袭击 | 白宫经济顾问哈塞特：（谈伊朗）油轮已开始通过海峡。
-（谈伊朗）我们非常乐观地认为，这将在短期内结束。
-认为这将在几周内结束，而非几个月。
-伊朗并未损害美国经济，美国经济依然稳健。
-担忧亚洲可能减少向美国出口的石油供应。
-（谈就业报告）这对市
-  - 其他: 特朗普夸耀的“战绩”被美情报部门“打脸” | 阿联酋否认其领土被用于对伊朗发动袭击 | 伊朗发动第92波打击 | 伊朗警告称将把敌军士兵“打回石器时代之前” | 阿联酋天然气设施因起火暂停运营
+  - 头版/首屏: 美媒称美伊达成停火协议“希望渐灭” | 苹果公司首款折叠屏iPhone在工程测试阶段遭遇挫折，这可能导致其量产计划和产品出货时间表被迫推迟。（日经新闻） | 特朗普与还在执行阿尔忒弥斯II号任务的宇航员通话，邀请宇航员作客白宫。 | 伊朗红新月会：德黑兰一居民区遭美以空袭 | 利比亚国家最高委员会否决美国提出的权力分享方案 | 特朗普：我将于今晚10点与“阿耳忒弥斯”登月计划的宇航员进行通话。 | 美军称已打击伊朗超1.3万个目标 | 伊朗革命卫队称以色列海法已被“全面打击“
+  - 其他: 联合国秘书长发言人：对美方威胁空袭伊朗民用基础设施表震惊 | 伊朗外交部发言人：美方言论与行动不符 | 美国芝加哥期权交易所（CBOE）3月期货日均成交量增长18.4%。
+3月期权日均成交量增长30.5%。 | 周一（4月6日），彭博电动汽车价格回报指数涨0.31%，报3599.75点。 | 英海事分析公司：霍尔木兹海峡通行出现南北“双通道”
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: China, Europe and why Beijing took a swing at Iran over the Strait of Hormuz | Europe urged to ‘learn to fight for itself’ in case US-China truce collapses | Politics | Ma Xingrui becomes China’s third Politburo member investigated for corruption | Science | China watching ‘like a hawk’ as US Artemis 2 crew embarks on moon trip | Health & Environment | Rats versus pets: Hong Kong dog owners want rodent poison in boxes, not bags
-  - 其他: Beijing takes a stand at the United Nations at the closure of shipping lanes. | Former Communist Party chief of Xinjiang is under investigation for ‘serious violations of discipline and law’, according to state news agency Xinhua. | Eyeing a lunar landing by 2030, Beijing will be ‘looking attentively at everything they can glean’ from the American mission, expert says. | Pet owners call for environmental authorities to improve rat extermination methods after one dog accidentally consumes poison three times. | China launches heavyweight rocket to challenge SpaceX’s Falcon 9. It fails
+  - 头版/首屏: China reports 99% cost cut on military-grade infrared chips | China’s gravity-detecting SQUID gets closer to spotting US nuclear submarines | Banking & Finance | Stricter Chinese scrutiny of offshore vehicles a blow for tech IPO candidates | ‘Keep bombing’: Trump claims Iranians want more US strikes for ‘freedom’ | Education | ESF among 8 school operators that failed to meet non-local student targets | ‘Damage control’? Behind France, Germany’s bid to contain Iran war oil fallout
+  - 其他: Researchers have developed a new way to make high-end infrared chips that could slash their cost and boost smartphone cameras, self-driving cars. | Mainland’s stock market watchdog is discouraging establishment of ‘red-chip-structured’ companies in sensitive industries. | US leader said he was unsure if the war was escalating or easing, but warned of sweeping strikes if no deal is reached by Tuesday at 8pm EST. | Education Bureau says non-local enrolment at some schools dropped to as low as 39 per cent, well below required targets of 50 to 98 per cent. | Military
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 油价再飙升航企上调燃油附加费，航空股仍未宜沾手？ | 猪价续跌 3部门再展中央冻肉收储 | 伊分5级筛选船只 收霍尔木兹通行费 | 解压饺子奇袭Labubu，内存压缩狙击美光 | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -34,25 +30,20 @@
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
-- **伊朗/中东局势** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
-- **加密货币** — 出现于: Benzinga (EN) (1 站)
-- **黄金/大宗商品** — 出现于: Benzinga (EN) (1 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
+- **中国/欧盟** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
+- **就业/经济数据** — 出现于: Benzinga (EN) (1 站)
+- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
+- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、重要性结论（综合头版+多站+股市相关）
 
 ### 非常重要（多站头版且影响股市）
 
 - **伊朗/中东局势**：影响油价、避险资产、全球风险偏好，多站头版。
-- **美国 15% 全球关税**：财长称本周或落地，影响贸易与通胀预期。
 - **油价/霍尔木兹海峡**：特朗普护航表态后美油转跌，航运与能源股敏感。
-- **加密货币**：比特币破 7 万、Coinbase 等个股大涨，多站提及。
 - **就业数据**：ADP 等超预期，支撑美股与利率预期。
 
 ### 重要（头版或单站重点）
