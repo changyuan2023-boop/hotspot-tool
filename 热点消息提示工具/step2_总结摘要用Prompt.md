@@ -62,8 +62,7 @@
 
 值得写（必须有明确标的或板块）：
 - 美联储利率决议 / FOMC / 主席讲话
-- 七大科技股（AAPL / MSFT / NVDA / GOOGL / META / AMZN / TSLA）的财报或重大消息
-- 中美关税 / 贸易政策重大变化
+- 七大科技股（AAPL / MSFT / NVDA / GOOGL / META / AMZN / TSLA）、全球科技巨头的财报或重大消息
 - 个股异动 5% 以上 + 有明确原因
 - 行业板块整体联动（多股同向）
 
