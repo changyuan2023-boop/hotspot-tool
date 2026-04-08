@@ -79,7 +79,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040801
+抓取时间: 2026040812
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -87,25 +87,21 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets close in 3h 1m
-- Stocks sink in countdown to Trump's Iran deadline
-- SpaceX: How to buy in before the IPO
-- US stock buyers are uniquely vulnerable to Iran war
-- How much does a millionaire actually owe the IRS on Tax Day?
-- The dividend yield on the S&P 500 is now at 50-year lows
-- Delta hikes bag fees, following United and JetBlue
-- Universal Music soars as Ackman plans $64B acquisition
+- U.S. markets closed
+- Vietnam Stocks Rise After FTSE Upgrade Nod, US-Iran Ceasefire
+- Exclusive-TikTok to build a second billion-euro data centre in Finland
+- Oil prices drop and stocks rally after Trump’s ceasefire announcement
+- Oil slides below $100 after Trump announces two-week ceasefire
+- CK Hutchison's Panama unit files arbitration against Maersk over ports takeover
+- China's Sigenergy Technology aims to raise $562 million in Hong Kong IPO
+- US SEC says it filed 456 enforcement actions during fiscal year 2025
 其他:
-- US strikes Kharg Island as Trump repeats threat to destroy Iran
-- UnitedHealth stock jumps after Medicare agrees to lift payments
-- US households see their finances deteriorating amid rising gas prices
-- Tax refunds are running higher than last year. Here’s how to make the most of yours
-- The 7 best crypto exchanges in 2026: Our top picks after hands-on testing
-- Your flight is about to get more expensive. These tips could save you.
-- Report: Losing your job to AI doesn’t just lead to unemployment, it leaves lasting scars
-- NY Fed March survey finds jump in near-term inflation expectations
-- US core capital goods orders, shipments increase in February
-- The sneaky — and not-so-sneaky — ways that companies are raising prices due to the Iran war
+- Why potential OpenAI investors need to read the NYer's Altman piece
+- 3 ways investors can buy into SpaceX now
+- Why Kharg Island is a critical region in the US–Iran war
+- Spring homebuying is perking up, but don't get excited just yet
+- Delta hikes its baggage fees to offset rising jet fuel costs
+- More News
 
 ## Benzinga (EN)
 头版/首屏:
@@ -120,71 +116,74 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Why Globalstar Shares Are Holding Up After Amazon-Fueled Surge
-- Bitcoin Remains Below $70,000, But Key Metrics Flash Optimism
-- What's Going On With Merck Stock Tuesday?
-- What's Behind The Rise In Paramount Skydance Stock?
-- Broadcom TPU Deals Extend 'Multi-Year AI Supply Visibility': Analyst
-- Iran's Kharg Island Hit By Strikes: Has Trump Just Ignited The $130 Oil Trade?
+- Rivian Stock Spikes Nearly 3% After-Hours: What's Going On?
+- Palo Alto (PANW) Stock Is Trending Overnight: Here's What Is Happening
+- Elon Musk Seeks Ouster Of OpenAI CEO Sam Altman, President Greg Brockman — ChatGPT Parent Calls It 'Nothing More Than A Harassment Campaign'
+- Cathie Wood Isn't Flinching, Purchases Tesla Dip Again — Ark Also Loads Up On Robinhood Shares
+- Trump-Endorsed Republican Clay Fuller Holds Marjorie Taylor Greene's Former House Seat, Gives GOP A Bit More Breathing Room
+- Dow Futures Shoot Up 900 Points, Oil Crashes 13% As Trump Agrees To 'Suspend' Bombing Iran For 2 Weeks In Return For Hormuz Strait Opening
 - Elon Musk
 - Donald Trump
-- Trump Warns 'Whole Civilization Will Die Tonight' As Iran Deadline Looms
-- Bullish Stock Market Positioning Confronts 'A Whole Civilization Will Probably Die Tonight'
+- Avis Budget Stock Soars 160% In Violent Short Squeeze Melt-Up
+- Here's Why Bitcoin's Q2 Rally Will Probably Not Happen
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 标普500指数维持0.4%的跌幅。据纽约时报，美国、以色列、伊朗在最后期限之前加快互相打击的行动。
-- 内部通讯显示，美国西南航空公司将在航班上限制充电宝。（华尔街日报）
-- 数字货币市场跌超2%
-- 黑石机会型信贷基金募资达到100亿美元上限
-- 白宫否认美国正考虑在伊朗使用核武器
-- 伊朗战争升级，贝莱德印度ETF遭遇数十亿美元资金外流
-- 两年期德债收益率涨超10个基点，投资者关注特朗普威胁论调对于油价的影响
-- 标普500指数跌幅收窄至0.4%，Axios援引美国和以色列官员的讲话报道称，伊朗谈判在过去24小时出现些许进展，美国总统特朗普所谓的最后期限正不断临近。
-- 挪威首相说特朗普针对伊朗的威胁言论令人担忧
-- 微软开源面向智能体Web的嵌入模型
-- 万斯称对伊朗军事行动目标基本实现，敦促伊朗回应谈判
-- 美国能源信息署（EIA）：预计中东国家将在4月关闭900万桶/日的石油产量。
+- TIKTOK计划投资11.6亿美元建设第二个芬兰数据中心。（路透）
+- 特朗普认为，就伊朗问题达成长期协议已经具备了强大的框架。
+特朗普拒绝透露如果协议破裂，他是否会重新执行最初的威胁，即摧毁伊朗的民用发电厂和桥梁。
+特朗普坚称，任何和平协议都将涵盖核材料相关问题。（法新社）
+- 小马智行开启新加坡Robotaxi载客运营
+- 美载人绕月飞船开始返回地球之旅
+- 联合国秘书长欢迎美伊停火两周
+- 以军空袭黎巴嫩南部提尔地区
+- 伊朗媒体披露全部10项停战条款
+- 内塔尼亚胡：支持特朗普对伊朗停火决定 但不包括黎巴嫩
+- 美媒：特朗普宣布停火前与巴基斯坦、以色列高层通话
+- 特朗普说伊朗铀浓缩问题将“得到完美处理”
+- 美参议院民主党领袖：特朗普退缩了
+- 美称获以色列总理尊重停火口头承诺
 其他:
-- 加拿大总理卡尼：政府正研究如何应对偏高的天然气价格。
-- 特斯拉下跌4.4%，恐将使得2026年至4月7日收盘的累计跌幅达到25%。
-- 美国贸易代表格里尔谈论所谓的美国墨西哥加拿大贸易协议（USMCA），声称：美方告知加拿大和墨西哥关于7月1日若干行动的计划。
-- 美国原油期货涨超4%，突破117美元
-- 美联储：调查显示短期通胀预期创一年来最大升幅
-- 伊朗终止同美国直接外交联系
-- 媒体调查：OPEC上月石油产量锐减超750万桶，降幅创数十年来最大
-- CFA三级考试通过率维持在50%，低于十年平均水平
-- 外媒称美国否认正考虑在伊朗使用核武器
-- 比尔·盖茨将于6月10日出席美国众议院听证会。（PunchBowl）
+- 罗素2000股指期货涨3.1%，纳指期货涨2.4%，标普股指期货、道指期货涨超2%。
+- 韩国2月商品贸易盈余扩大至233.64亿美元，经常帐顺差扩大至231.93亿美元。
+- 纽约银日内涨幅达6.0%，报76.36美元/盎司。
+- 伊朗接受巴基斯坦提出的停火提议
+- 商品货币走高，纽元兑美元涨幅扩大至1%，澳元兑美元涨幅扩大至1%。
+现货白银日内涨幅达4.0%，报75.85美元/盎司；纽约银日内涨幅达5.5%，报75.98美元/盎司。
+- 白宫官员称以色列已同意临时停火
+- 纳斯达克100股指期货涨超2%，投资者关注关于伊朗战争停火协议的消息。
+- 美元/瑞郎日内跌幅达0.5%，报0.7937。
+- WTI原油期货跌穿98美元，目前跌10.7%。
+- 日元兑美元走强，特朗普同意为期两周的伊朗停火
 
 ## SCMP (EN/中)
 头版/首屏:
-- US and Iran near brink of escalation as Trump deadline for deal looms
-- ‘Keep bombing’: Trump claims Iranians want more US strikes for ‘freedom’
-- Diplomacy
+- Trump says China helped get Iran to the negotiating table for ceasefire deal
 - ‘A whole civilisation will die tonight’: Donald Trump heightens Iran threats
-- ‘Paper tiger’: what’s behind Trump’s renewed Greenland threat?
-- Science
-- Chinese embassy in US confirms death of semiconductor researcher Wang Danhao
-- China reports 99% cost cut on military-grade infrared chips
+- China Business
+- Global drug makers face pricing pressure as China targets affordable healthcare
+- World
+- Russia and China veto UN resolution aimed at reopening Strait of Hormuz
+- Tai Po probe: fire contractor admits it was ‘not ideal’ to skip on-site checks
+- What is the war on Iran teaching China about the United States’ resilience?
 其他:
-- With hours to go, US leader threatens strikes as Iran signals mobilisation and Pakistan presses last-ditch mediation efforts.
-- Ahead of ‘complete demolition’ deadline, two sides face trust deficit and see no acceptable guarantor between them, analysts say.
-- Europe is likely to stay neutral in the Iran war and could even benefit if America fares poorly in its military campaign, analyst says.
-- Scientist described by dean as a ‘promising and brilliant young mind’ took own life after questioning by US federal law enforcement.
-- Politics
-- Taiwanese opposition leader Cheng Li-wun begins ‘journey of peace’ in Shanghai
-- Kuomintang chairwoman is leading a delegation on a six-day visit to mainland China, during which she is expected to meet Xi Jinping.
-- China Economy
-- Beyond Russian oil, China also increases appetite for Ukrainian wheat flour
-- Chinese and Ukrainian officials sign a protocol in Kyiv on inspection, quarantine and sanitary requirements for exports.
+- Washington receives ‘10-point proposal from Iran’ with US president claiming it could serve as ‘a workable basis on which to negotiate’.
+- As pharmaceutical firms navigate China’s aggressive pricing reforms, their profits could be squeezed further this year.
+- Beijing and Moscow blocked Gulf-backed resolution hours before the US and Iran agreed to a two-week ceasefire.
+- Director and engineer of contractor responsible for estate’s fire service equipment suspects renovation workers drew water from tanks, calling it a serious problem.
+- Military
+- Indonesian fisherman nets surprise catch – a Chinese underwater drone
+- The device was discovered near the Lombok Strait, a strategically vital deepwater passage closely watched by the US and Australia.
+- Hong Kong stocks jump as risk appetite returns after US, Iran agree on ceasefire
+- Hang Seng Index rose 2.7 per cent after a two-week ceasefire was reached, subject to Tehran’s vow to completely reopen the Strait of Hormuz.
+- People
 
 ## 经济通 (繁中)
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
 - 油价再飙升航企上调燃油附加费，航空股仍未宜沾手？
-- 猪价续跌 3部门再展中央冻肉收储
-- 伊分5级筛选船只 收霍尔木兹通行费
+- 内地油价再上调 发改委续出手调控
+- 新加坡推61亿支援措施 遏能源成本涨
 - 解压饺子奇袭Labubu，内存压缩狙击美光
 - 指数环球商品外汇
 - 国金观点
@@ -194,9 +193,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25116.53-177.50(-0.70%)
+- 恒生指数25840.86+724.33(+2.88%)
                     etnet.com.hk@copyright
-- 国企指数8456.92-47.89(-0.56%)
+- 国企指数8660.18+203.26(+2.40%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -209,15 +208,16 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 就业数据: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
-- 美国关税: 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 美国关税: 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
+- 加密货币: Benzinga (EN)
+- 就业数据: Benzinga (EN)
+- 美联储: 华尔街见闻 (简中)
+- 中国政策/两会: 经济通 (繁中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
