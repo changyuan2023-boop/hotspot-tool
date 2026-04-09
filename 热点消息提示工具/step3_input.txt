@@ -79,7 +79,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040915
+抓取时间: 2026040920
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -87,25 +87,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 5h 40m
-- China tankers join line to test Hormuz exit and Iran truce
-- The New York Times may have found Bitcoin's founder
-- US stock futures pause rally after Iran claims ceasefire broken
-- Bessent urges Congress to pass crypto regulation bill
-- FedEx reaches tentative wage deal with pilots after years of talks
-- If you lose your job to AI the setback might be permanent
-- Anthropic completes tender offer, but employees hold onto shares
+- U.S. markets open in 1h 31m
+- Stock futures fall as Iran says truce has been broken
+- CoreWeave signs $21 billion AI cloud deal with Meta
+- Investors are looking at the wrong tech stocks: Chart of the Day
+- China tankers join line to test Hormuz exit, Iran truce
+- Meta's Musk Spark model gets lavished with Wall Street praise
+- Amazon to stock Lilly's new weight-loss pill at US kiosks
+- Trump vows to keep US troops in place until Iran 'complies'
 其他:
 - Strait of Hormuz is the first major flash point of 'fragile' ceasefire
-- Deutsche Bank declares China energy 'winner' in new era of war
-- Oil rises after biggest drop since 2020 as Hormuz stays blocked
-- Hormuz Stays Blocked for Now as Hundreds of Ships Seek Exit
-- China's March bank lending seen surging on post-holiday rebound: Reuters poll
-- South Korea's Kia cuts 2030 EV target over 20%, plans humanoid robots at U.S. factory
-- OVHcloud launches new unit to meet demand from European militaries
-- Arm CEO Haas in line to lead much of parent SoftBank's international business, FT reports
-- Russia Offers Sanctioned LNG to Energy-Hungry Asia at a Discount
-- US court declines to block Pentagon's Anthropic blacklisting for now
+- Nvidia shares near level where technical traders see a breakout
+- BlackBerry jumps after revenue beat, declares turnaround complete
+- Brazil to release $1.37 billion from severance fund for 10 million workers, O Globo reports
+- Swiss-based Terra Quantum plans to list on Nasdaq via SPAC at $3.25 billion valuation
+- Gold Advances as Traders Weigh Fragile Ceasefire in Iran War
+- Xi Helps Trump on Iran War as China Assists With Ceasefire Bid
+- Iran Deputy Minister Says Ships Need Army Consent to Pass Hormuz
+- Pentagon's ouster of Anthropic opens doors for small AI rivals
+- Microsoft & Oracle have a 'tremendous opportunity' in the AI boom
 
 ## Benzinga (EN)
 头版/首屏:
@@ -120,23 +120,35 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Mark Kelly Says 46% Defense Budget Increase Is 'Irresponsible And Ridiculous' As Americans Struggle With Rising Costs
-- Why Did STAAR Surgical (STAA) Stock Jump 20% After Hours?
-- Fed Shifting Focus? Job Market Risks May Be Outweighing Inflation Fears, Highlights El-Erian Citing Fed Minutes
-- Nasdaq Surges Over 600 Points Following Iran Ceasefire: Investor Fear Eases, Fear & Greed Index Remains In 'Fear' Zone
-- Meta Bets Big On Superintelligence With Muse Spark Launch— Analyst Sees 'Significant' Monetization Potential
-- Bitcoin's Elusive Creator Satoshi Nakamoto Might Have Been Identified — Here's What The Man At The Centre Of Storm Has To Say
+- US Hits High-Cost Wall Attacking Iran's Cheap Drones: 10 Stocks To Watch
+- ISS Backs Warner Bros-Paramount Deal But Rejects CEO David Zaslav's $886 Million 'Extraordinary' Golden Parachute
+- Bitcoin Holds $71,000 As Ethereum, XRP, Dogecoin Slip 3% On Geopolitical Uncertainty
+- Johnson & Johnson Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- Nvidia Pushes Telcos Into AI Era With New Grid Vision
+- Stock Market Today: S&P 500 Futures Drop As Iran Flags Ceasefire Violation, Trump Says Arms 'Will Remain In Place'—Arrive AI, Costco In Focus
 - Elon Musk
 - Donald Trump
-- New Era Energy & Digital (NUAI) Stock Is Moving After Hours: Here's Why
-- 5 Precious Metal Stocks to Buy as Gold and Silver Rebound
+- Why Are Applied Digital Shares Sliding Thursday?
+- Bitcoin's Elusive Creator Satoshi Nakamoto Might Have Been Identified — Here's What The Man At The Centre Of Storm Has To Say
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 美股三大股指期货短线走低，纳指期货跌幅扩大至0.4%，标普500指数期货跌0.41%，道指期货跌0.38%。
-- 伊朗军方发言人：“已做好长期战争的准备”
-- 以军称黎真主党领导人纳伊姆·卡西姆死亡
-- 中方在伊朗问题上坦坦荡荡
+- 伊朗议长：黎巴嫩在停火安排中不可分割
+- 三星将在越南建设价值40亿美元的芯片封装工厂
+- CoreWeave提议发行30亿美元可转换优先票据。
+- 印度外交部：印度没有与伊朗就支付霍尔木兹海峡通行费一事进行过讨论。
+- 李斌：蔚来在充换电领域累计投入超200亿元，充换电站达8751座
+- 伊朗议会议长：违反停火协议会带来明确的代价和回应。
+- 伊朗副外长称想要通过霍尔木兹海峡的船只须先与军方取得联系
+- 印度批准部分船只运送伊朗货物。（路透）
+- 意大利总理：伊朗局势若恶化 欧洲应考虑集体应对方式
+- 全球能源咽喉再关闭油轮紧急返航，美媒曝超级油轮过海峡需缴200万美元
+- 伊朗治安部队：国内总体已恢复正常秩序
+- 黑莓预计2027年营收5.84亿美元至6.11亿美元，市场预估5.769亿美元。
+预计2027年经调整基本每股收益0.15美元至0.19美元，市场预估0.17美元。
+预计第一季度营收1.32亿美元至1.40亿美元，市场预估1.307亿美元。
+其他:
+- 以军称黎真主党领导人纳伊姆·卡西姆死亡 真主党暂未证实
 - 黎真主党称向以色列发射火箭弹 以回应其“违反停火协议”行为
 - 美拟全面禁止中国实验室测试美国电子产品，外交部：坚决反对
 - 淘宝闪购推出“外卖接力”新模式，已落地全国20多个城市
@@ -145,40 +157,29 @@
 - 关税战没有赢家！外交部回应特朗普关税言论
 - 美国就伊朗战争问题是否与中国举行了高层会谈？外交部回应
 - 伊朗议长称停火条款遭破坏，外交部表态
-其他:
-- 莫德罗与科罗娜美方生产商Constellation Brands因不确定性撤回2028财年指引
-- 中信建投：若美股出现又一波下跌 建议积极增持
-- 华尔街见闻早餐 | 2026年4月9日
-- 新型高性能二维半导体材料研发获突破
-- 微软开发者工具部门总裁Julia Liuson将离职，她已经在该公司工作34年。
-- 马克龙与伊美黎领导人通话，呼吁停火范围应包括黎巴嫩
-- 澳大利亚国债价格下跌，10年期澳债收益率悉尼盘初涨7个基点。
-- 以色列空袭黎巴嫩首都贝鲁特南郊
-- 北约秘书长吕特：已经告知美国总统特朗普，欧洲大多数国家一直以来都是有帮助的。
-与特朗普进行了非常开诚布公的讨论。（CNN）
-- 朝鲜进行一系列重要武器系统试验
+- 外交部：黎巴嫩的主权和安全不应受到侵犯
 
 ## SCMP (EN/中)
 头版/首屏:
-- More Chinese banks claw back bonuses, cut salaries despite mixed profit recovery
-- China adds 12 banks to digital yuan system, expanding e-CNY’s economic presence
-- Military
-- Xi tells senior officers to ‘stay pure’ after Chinese military’s anti-graft drive
-- Science
-- Is a leading US AI-robot scholar about to join China’s tech talent pool?
+- Taiwan should learn from mainland AI, KMT head Cheng Li-wun says
+- Japan’s ‘imperialist forces’ divided Taiwan from mainland, KMT’s Cheng Li-wun says
+- Diplomacy
+- The Strait of Hormuz is closed again. Is this the end of the Iran-US ceasefire?
+- Global Economy
+- As Iran war jolts global oil, can China’s energy storage tech blunt the impact?
 - Hong Kong Economy
-- Hong Kong to roll out subsidies, fee waivers for transport sector amid fuel crisis
+- Japanese band One OK Rock cancels Hong Kong concerts in May
 其他:
-- Some lenders are also deferring bonuses and cutting headcount as they tighten their purse strings.
-- Speech live-streamed to PLA’s high-level units calls for resolute political loyalty with no room for self-interest or corruption.
-- Su Hao, of UC San Diego, appears on Fudan University faculty list as professor in electronic information specialising in AI.
-- Task force being established to cope with local impact of Middle East conflict, insider says, with further details expected soon.
-- The US could be moving away from precision strikes in the Iran war. Here’s why
+- The Taiwanese opposition leader was delivered milk tea by a drone at the headquarters of internet giant Meituan.
+- Maybe not, analysts say, but much of what happens next rests on ‘wild card’ Israel.
+- Strong overseas demand, fuelled by the rise of AI-powered systems, could continue amid Iran war pressures, analysts say.
+- Axing of shows on May 2 and 3 due to ‘unforeseen circumstances’ follows cancellation of May 9 concert in Shanghai.
+- China’s 500-tonne ‘underground carrier’ tunnels a kilometre to mine ore
+- China Economy
+- China strengthens oversight of state-owned assets overseas amid global tensions
+- A new department will guide state-owned enterprises expanding overseas, as China’s firms look outwards for growth opportunities.
 - Tech
 - Unitree to debut cheapest humanoid robot globally via Alibaba: sources
-- The international launch of the company’s cheapest humanoid robot next week is expected to cover North America, Europe, Japan and Singapore.
-- Politics
-- Singapore’s refusal to negotiate over Hormuz creates waves in Malaysia
 
 ## 经济通 (繁中)
 头版/首屏:
@@ -195,9 +196,9 @@
 - 环球基金：
 - ETF：
 其他:
-- 恒生指数25737.19-155.83(-0.60%)
+- 恒生指数25752.40-140.62(-0.54%)
                     etnet.com.hk@copyright
-- 国企指数8612.52-64.79(-0.75%)
+- 国企指数8611.83-65.48(-0.75%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -215,9 +216,8 @@
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 加密货币: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 黄金/大宗: Benzinga (EN)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 美国关税: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
