@@ -316,44 +316,27 @@ def build_report(results: list[SiteResult], theme_to_sources: dict, out_path: st
     lines.append("")
 
     lines.extend([
-        "## 三、重要性结论（综合头版+多站+股市相关）",
-        "",
-        "### 非常重要（多站头版且影响股市）",
+        "## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）",
         "",
     ])
-    # 根据主题与关键词生成结论
-    high = []
-    if theme_to_sources.get("iran_war"):
-        high.append("**伊朗/中东局势**：影响油价、避险资产、全球风险偏好，多站头版。")
-    if theme_to_sources.get("tariffs"):
-        high.append("**美国 15% 全球关税**：财长称本周或落地，影响贸易与通胀预期。")
-    if theme_to_sources.get("oil_energy"):
-        high.append("**油价/霍尔木兹海峡**：特朗普护航表态后美油转跌，航运与能源股敏感。")
-    if theme_to_sources.get("crypto"):
-        high.append("**加密货币**：比特币破 7 万、Coinbase 等个股大涨，多站提及。")
-    if theme_to_sources.get("jobs_economy"):
-        high.append("**就业数据**：ADP 等超预期，支撑美股与利率预期。")
-    for h in high:
-        lines.append("- " + h)
-    lines.append("")
-
-    lines.append("### 重要（头版或单站重点）")
-    lines.append("")
-    mid = []
-    if theme_to_sources.get("gold_commodity"):
-        mid.append("黄金/白银、伦铝等大宗商品波动。")
-    if theme_to_sources.get("fed_rates"):
-        mid.append("美联储表态（如米兰：伊朗风险不阻碍继续降息）。")
-    if theme_to_sources.get("tech_stocks"):
-        mid.append("苹果 MacBook Neo、Moderna 和解、Meta 与新闻集团合作等个股与科技新闻。")
-    if theme_to_sources.get("china_eu"):
-        mid.append("中国/欧盟产业政策与贸易关系。")
-    if theme_to_sources.get("china_policy"):
-        high.append("**中国重大政策/两会**：人大/政协会议、政府工作报告、央行/证监会表态等，影响港股及中概股走势。")
-    for m in mid:
-        lines.append("- " + m)
-    if not mid:
-        lines.append("- （由上方主题与各站头版自行判断）")
+    if theme_to_sources:
+        theme_labels = {
+            "iran_war": "伊朗/中东局势",
+            "tariffs": "关税/贸易政策",
+            "oil_energy": "油价/能源",
+            "crypto": "加密货币",
+            "jobs_economy": "就业/经济数据",
+            "gold_commodity": "黄金/大宗商品",
+            "fed_rates": "美联储/利率",
+            "tech_stocks": "科技股/个股",
+            "china_eu": "中国/欧盟",
+            "china_policy": "中国政策",
+        }
+        for theme_id, srcs in sorted(theme_to_sources.items(), key=lambda x: -len(x[1])):
+            label = theme_labels.get(theme_id, theme_id)
+            lines.append(f"- {label}（{len(srcs)} 站）")
+    else:
+        lines.append("- （未检测到明确主题）")
     lines.append("")
 
     report = "\n".join(lines)
