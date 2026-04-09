@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026040820
+抓取时间: 2026040909
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -9,108 +9,99 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 31m
-- Delta stock jumps after Q1 earnings beat
-- US, Iran agree 2-week truce to reopen Strait of Hormuz
-- Oil prices crater after Trump announces two-week ceasefire
-- Exxon sees 6% of its worldwide output shut on Mideast conflict
-- Retail investors are buying the dip in Tesla stock
-- The AI industry knows it has a massive image problem
-- Dollar hits four-week low as truce lifts appetite for risk
+- U.S. markets closed
+- Hormuz stays blocked for now as hundreds of ships seek exit
+- The New York Times may have found Bitcoin's founder
+- US stock futures pause rally after Iran claims ceasefire broken
+- Bitcoin jumps as Iran demands crypto toll for ships passing Hormuz
+- Meta launches Muse Spark AI model as part of its AI turnaround
+- Bond rally fades as Iranian official says ceasefire violated
+- Fed officials saw war increasing inflation, delaying rate cuts: Minutes
 其他:
-- Stock futures surge as US-Iran truce spurs relief rally
-- How the math works on a $1.75 trillion SpaceX valuation
-- Fed vice chair: Oil price shock complicates inflation outlook
-- Russia sees China's WeChat, Douyin as models for its homegrown Max messenger
-- Global Bonds Jump as Ceasefire Sows Doubts Over Steep Rate Hikes
-- High Dividends Turn Telecom Stocks Into Market’s New Haven Play
-- Grab to lean on scale, AI to navigate rising fuel costs, CEO says
-- Tecto plans new Brazil data centers, part of $2 billion investment
-- Morning Brief: Chicago Fed's Goolsbee 'nervous' about impact of oil shock on economy
-- Oil prices plunge and markets surge on Iran war ceasefire but ‘significant hurdles remain’
+- Strait of Hormuz is the first major flash point of 'fragile' ceasefire
+- Will gold hit $6,000 this year? Top 3 predictions about gold prices.
+- Will Social Security really go broke in 2035? Here's what's happening.
+- Disney plans to cut 1,000 jobs, WSJ reports
+- US court declines to block Pentagon's Anthropic blacklisting for now
+- OpenAI will reserve portion of IPO shares for retail investors, CFO tells CNBC
+- US set to ease power limits on space-based broadband
+- Vance to Lead Iran Talks as Tehran Says Ceasefire Violated
+- Bitcoin Climbs to Three-Week High on US-Iran Ceasefire Plan
+- Novo-Backed Respiratory Drugmaker Avalyn Pharma Files for US IPO
 
 ## Benzinga (EN)
 头版/首屏:
 - Latest News
-- Top Stories
 - QUICK LINKS
 - Markets Pulse
 - Why Is It Moving?™
 - Trending Stories
-- Sponsored Content
 - Expert Ideas
 - UPCOMING EVENTS
 - INSIDER TRADES
-其他:
-- Why Is Sony Group Stock Gaining Today?
-- This Soleno Therapeutics Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Wednesday
-- Making President Or Stock Market 'Happy' Isn't Fed's Job, Says Goolsbee, Cautions War-Driven 'Stagflationary Outbreak'
-- Hershey, PepsiCo, Alphabet, Netflix And A Key Financial Stock On CNBC's 'Final Trades'
-- How To Earn $500 A Month From Goldman Sachs Stock Ahead Of Q1 Earnings
-- Stock Market Today: S&P 500, Dow Futures Surge As Trump Declares Ceasefire On Iran Strikes—SoFi Technologies, Uber, Levi Strauss In Focus
 - Elon Musk
 - Donald Trump
-- Dow Futures Shoot Up 900 Points, Oil Crashes 13% As Trump Agrees To 'Suspend' Bombing Iran For 2 Weeks In Return For Hormuz Strait Opening
-- Wall Street's Most Accurate Analysts Give Their Take On 3 Utilities Stocks Delivering High-Dividend Yields
+其他:
+- New Era Energy & Digital (NUAI) Stock Is Moving After Hours: Here's Why
+- Why Are Hut 8 Shares Surging On Wednesday?
+- CREATE A WATCHLIST TO KEEP UP WITH YOUR STOCKS
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 特朗普称伊朗将不会进行铀浓缩活动
-- 伊朗高级官员：如果达成停火框架，伊朗可能会在周四或周五，在与美国于巴基斯坦会谈前，开放霍尔木兹海峡。
-重新开放将是有限的，所有船只仍需与伊朗军方协调。
-- 美国高收益债券信用风险指标创2025年5月以来最大改善。（彭博）
-- 白宫：美伊双方正讨论举行面对面谈判的可能性，但尚未最终确定
-- 伊朗要求在停火期间对通过霍尔木兹海峡的船只收取通行费。（英国金融时报）
-- 以军对真主党发动本轮冲突以来最大空袭
-- 黎巴嫩首都贝鲁特遭以军密集空袭
-- 伊朗海军警告霍尔木兹海峡附近船只：须获许可才能通过
-- 特朗普：美国正在与伊朗讨论制裁和关税减免。
-美国正与伊朗合作，清除埋藏的核材料。
-- 特朗普：美国将与伊朗密切合作。
-不会允许伊朗进行铀浓缩。
-- 白宫发言人：关于面对面会谈的讨论尚未最终敲定，需等待总统或白宫官方公告。
-- 大型基金纷纷涌入美债和AI概念股，押注战争最动荡阶段已过
+- 美国驻伊拉克大使馆敦促美国公民尽快撤离
+- 美媒爆料美国未就涉伊朗临时停火协议及时与以色列协商，内塔尼亚胡否认
+- 迪士尼计划裁员多达1000人，计划在未来几周内进行。此次裁员的大部分岗位将集中在市场营销部门。（华尔街日报）
+- 特朗普不满北约：还记得格陵兰岛吗
+- 莫德罗与科罗娜美方生产商Constellation Brands因不确定性撤回2028财年指引
+- 中信建投：若美股出现又一波下跌 建议积极增持
+- 华尔街见闻早餐 | 2026年4月9日
+- 微软开发者工具部门总裁Julia Liuson将离职，她已经在该公司工作34年。
+- 马克龙与伊美黎领导人通话，呼吁停火范围应包括黎巴嫩
+- 澳大利亚国债价格下跌，10年期澳债收益率悉尼盘初涨7个基点。
+- 以色列空袭黎巴嫩首都贝鲁特南郊
+- 北约秘书长吕特：已经告知美国总统特朗普，欧洲大多数国家一直以来都是有帮助的。
+与特朗普进行了非常开诚布公的讨论。（CNN）
 其他:
-- 据巴基斯坦Geo电视台报道，巴基斯坦总理与伊朗总统进行了长达45分钟的电话交流。
-- 阿联酋天然气设施因拦截导弹碎片坠落起火
-- 卡塔尔：伊朗不得再次对海湾地区发动袭击。
-- 消息人士称黎真主党已停火 以军却继续空袭黎巴嫩
-- 伊拉克总统欢迎美伊临时停火 呼吁加强外交对话
-- 阿里新设集团技术委员会，升级通义大模型事业部
-- 欧盟：欢迎美伊停火 呼吁达成冲突解决持久方案
-- 伊朗一炼油厂发生爆炸
-- 乌克兰总统泽连斯基欢迎伊朗停火，表示如果俄罗斯停止攻击，乌克兰也准备以同样方式回应。
-- 波罗的海国际航运公会：船东在等待通行霍尔木兹海峡的技术指引。
-不建议未经与美国和伊朗协商离开霍尔木兹海峡。
+- 以总理：与伊朗停火只是以方实现所有目标的一个阶段
+- 南亚股市收盘播报｜印度股市收涨约3.8%，卢比持续脱离历史最低位
+- 美政府被曝考虑从部分北约国家撤出军事部署
+- 新兴市场股市创2020年3月份以来最大单日涨幅，投资者关注美伊停火
+- 三个新创建账户通过押注4月7日前达成停火并在高点抛售头寸，获利超过48万美元
+- Polymarket伊朗赌约引发新纠纷与内幕交易审查
+- 白宫经济顾问哈塞特：周五公布的CPI数据将反映能源价格飙升
+- 周三（4月8日），纳斯达克网络安全ETF收涨0.63%，ETFMG网络安全ETF涨0.33%，北美科技软件股指数ETF跌0.93%。
+- 周三（4月8日），美股行业ETF普遍收涨，半导体ETF涨5.76%，全球航空业ETF涨5.65%，全球科技股指数ETF、科技行业ETF、区域银行ETF、银行业ETF、可选消费ETF、金融业ETF、网络股指数ETF至少涨2.46%，能源业ET
+- 开市客3月同店销售总额增长9.4%。
+3月美国同店销售（剔除汽油、剔除外汇）增长6.2%。
 
 ## SCMP (EN/中)
 头版/首屏:
-- PLA troops facing Taiwan Strait and Japan simulate response to nuclear attack
-- Open Questions | Why Iran war may drive East Asia nuclear race, hit China in Mideast: Zhao Tong
+- Iran war: is the US shifting away from its strategy of precision strikes?
+- How lessons from Iran war could shape mainland China’s Taiwan calculus
 - Diplomacy
-- Iran vows to make US ‘regret’ any ceasefire break, sees China as a guarantor
-- Politics
-- Japan’s ‘imperialist forces’ divided Taiwan from mainland, KMT’s Cheng Li-wun says
+- Trump lauds Beijing role in Iran truce, but clouds ceasefire with tariff threat
+- Strait of Hormuz: is a Trump‑Iran joint venture really possible?
 - Hong Kong Economy
-- Easter box office takings twice that of 2025 break despite exodus of Hongkongers
+- US-Iran ceasefire unlikely to cause big fuel price drop: Hong Kong economists
+- Why the US-Iran ceasefire is seen as a failure for Donald Trump
 其他:
-- Eastern Theatre Command, which has several nuclear power plants within its geographic coverage, holds decontamination drill.
-- Envoy to China talks to media hours after Trump’s two-week suspension of bombings, says no detailed plan on Strait of Hormuz transit fees yet.
-- In a speech delivered at Sun Yat-sen Mausoleum in Nanjing, Kuomintang chair says cross-strait divisions are rooted in historical wounds.
-- Local cinemas earn HK$25.93 million in first four days of holiday, double the figure year on year from the 2025 Easter break.
-- What is the war on Iran teaching China about the United States’ resilience?
-- Policy
-- China’s DeepSeek adds expert chatbot mode ahead of much-awaited V4 release
-- The Hangzhou start-up’s latest chatbot update sparks speculation over whether the expert mode is linked to the long-delayed V4 model.
-- China Economy
-- China enforces new supply chain security rules as Iran war shakes markets
+- As the conflict has intensified, more energy and civilian sites have been targeted in what is seen as a broader approach.
+- Markets rise on fragile pause in fighting, as Tehran keeps Hormuz shut and warns it may abandon deal if Israeli strikes on Lebanon continue.
+- With regime change increasingly out of reach, the US president may pivot towards a business deal with Tehran’s fractured leadership.
+- ‘It will take several months for prices to gradually decline after the war ends completely,’ expert says.
+- Global Economy
+- China powers up major Southeast Asian solar project amid Iran war shock
+- The installation boasts more than two million solar panels and comes online as global fossil fuels face unprecedented disruption.
+- Banking & Finance
+- Everest’s US$250 million buy signals rising global appetite for China biotech
+- Sovereign wealth funds from Singapore and Abu Dhabi join Chinese state capital as cross-border biotech licensing reaches record highs.
 
 ## 经济通 (繁中)
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
-- 苹果折叠iPhone仍有望9月发布，苹概股连日反弹
+- 美伊同意停火两周油价急挫，国际金融股急弹可再吼？
 - 内地油价再上调 发改委续出手调控
-- 新加坡推61亿支援措施 遏能源成本涨
+- 航空燃油复常需时 短期料难减价
 - 解压饺子奇袭Labubu，内存压缩狙击美光
 - 指数环球商品外汇
 - 国金观点
@@ -135,14 +126,15 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN)
-- 美国关税: 华尔街见闻 (简中)
-- 加密货币: 华尔街见闻 (简中)
-- 黄金/大宗: Benzinga (EN)
-- 中国政策/两会: 经济通 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 就业数据: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国政策/两会: 华尔街见闻 (简中), 经济通 (繁中)
+- 加密货币: Yahoo Finance (EN)
+- 中国/欧盟: SCMP (EN/中)
 
 --- 粘贴结束 ---
