@@ -7,15 +7,15 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**本次模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**本次模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
 ## 输出格式（严格遵守）
 
 第一行输出标题，格式固定为：
-`晚间热点线索 · YYYY年M月D日`
+`早间热点线索 · YYYY年M月D日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据），点明对哪些标的/板块的影响（涨跌方向/幅度），结尾标注核心标的代码或板块名称。`
@@ -36,7 +36,7 @@
 
 ---
 
-## 早间模式指令（晚间 = 早间）
+## 早间模式指令（早间 = 早间）
 
 聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
@@ -46,7 +46,7 @@
 3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态）
 4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等在港股有联动标的的板块；若有明确利好/利空驱动，须点明对应港股板块或个股
 
-## 晚间模式指令（晚间 = 晚间）
+## 晚间模式指令（早间 = 晚间）
 
 聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
@@ -79,7 +79,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026041020
+抓取时间: 2026041309
 
 ## Yahoo Finance (EN)
 头版/首屏:
@@ -87,25 +87,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 30m
-- Stock futures stall as CPI data, Iran war talks loom
-- US consumer inflation expected to have surged amid Iran war
-- TSMC sales smash record as war fails to dent AI demand
-- EU, US near a minerals deal in bid to break China's grip
-- Chips are still where the AI trade rubber meets the road
-- Oil rises after attacks slash Saudi production capacity
-- This is where US home buyers or sellers have the upper hand
+- U.S. markets closed
+- Trump says US will blockade Hormuz Strait after Iran talks fail
+- Wall Street strategists say it's time to 'jump in' with tech stocks
+- Bank earnings, US-Iran talks, and signs of stability for stocks: Week ahead
+- Wary investors eye another escalation in Iran war
+- Bond traders snap back to inflation as higher-for-longer sets in
+- Iran nuclear stand-off hardens after two decades of failed deals
+- How US states compare when it comes to the average credit score
 其他:
-- Has Hormuz reopened after Trump's demands? Where things stand.
-- The S&P 500 just edged bulls back in control: Chart of the Day
-- As airfares spiral, cruise lines are offering summer deals
-- Big Tech puts financial heft behind next-gen nuclear power as AI demand surges
-- Shippers weigh unusual routes as high air cargo rates, ocean gridlock persist
-- Analysis-Crypto giant Kraken's Fed payment account sparks concerns about risks
-- Morning Brief: A big day for inflation
-- US consumer inflation expected to have surged in March amid Iran war
-- Apple leads smartphone market even as overall shipments decline, Counterpoint says
-- What to expect from the first US inflation report since the Iran war began
+- US stock futures fall as US and Iran talk fails, Hormuz blockaded
+- Home sales are up and down so far in housing market's busiest season
+- UK financial regulators rush to assess risks of Anthropic's Mythos
+- China's Victory Giant seeks $2.2 billion in Hong Kong listing amid market turmoil
+- Oil Rallies With Gas as US Blockade of Hormuz Escalates Crisis
+- US FTC in settlement talks with ad companies in boycott probe, WSJ reports
+- Oil prices rise after Trump threatens to block passage through Strait of Hormuz
+- End of the Orban Era: The Party Is Just Starting for Hungarians
+- US to blockade ships entering and leaving Iranian ports Monday
+- UK won't take part in Trump’s planned blockade of Hormuz Strait
 
 ## Benzinga (EN)
 头版/首屏:
@@ -120,72 +120,78 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他:
-- Bank of America Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
-- What's Going On With Amazon Stock Friday?
-- Constellation Brands To Rally More Than 13%? Here Are 10 Top Analyst Forecasts For Friday
-- Record Household Equity Exposure Raises Passive-Investing Risks
-- Bitcoin, Ethereum, XRP, Dogecoin Trade Flat Despite Over $400M In ETF Inflows
-- Stock Market Today: S&P 500 Futures Fall Ahead Of March CPI As Trump Says Iran Isn't Upholding Ceasefire—Taiwan Semiconductor, Rocket Lab In Focus
-- Pete Hegseth
-- Elon Musk
-- Gilead Expands Partnership With Tempus AI To Power Cancer Discoveries
-- Move Over Nvidia: Citron Sees 28% Upside In Amazon's Hidden Trillion-Dollar Chip Empire
+- Pennsylvania Teen Wanted An Electric Skateboard, But Built His Own For Half The Money And Turned It Into A $500,000 Side Hustle
+- Saudi Arabia's East-West Pipeline Back at Full Steam After Iran Disruptions
+- Crypto Billionaire Changpeng Zhao Swears By This Principle And Believes Adopting It Could 'Magically' Improve Work Results
+- Anthony Scaramucci Reveals $10,000 Amazon Investment Would Be Worth $16.5 Million Today
+- Musk Slams South Africa Over Starlink License Dispute: 'Shame on the Racist Politicians in South Africa'
+- Trump: US 'Will Begin the Process of BLOCKADING' Strait of Hormuz
+- Jensen Huang
+- Donald Trump
+- Intel, Nebius, And Applied Optoelectronics Are Among the Top 10 Large-Cap Gainers Last Week (April 6-April 10): Are the Others in Your Portfolio?
+- Trump Warns China Of 'Big Problems' Over Reported Plan To Supply Iran With Anti-Air Missiles
 
 ## 华尔街见闻 (简中)
 头版/首屏:
-- 特斯拉3月国内新车环比增长47% 上海超级工厂3月交付同比增长8.7%
-- 中国人民银行行长潘功胜会见桥水投资公司创始人瑞·达利欧
-- 美方为何派出副总统万斯参与美伊谈判 专家解读
-- Anthropic同意租用CoreWeave的AI算力以支持Claude
-- 巴基斯坦和法国外长对黎巴嫩境内违反停火表示关切
-- 伊朗副外长：各方已达成共识 伊方十点计划将作为谈判基础
-- 淘宝闪购加码医药，携手九州通打造“玛上就送”仓店新模式
-- 霍尔木兹海峡继续“限流” 通行量和停火前几无差别
-- 阿里视频生成大模型Wan2.7登顶DesignArena榜单
-- 马来西亚总理：有6艘驶向马来西亚的运油船通过霍尔木兹海峡
-- 一艘悬挂俄罗斯国旗的超级油轮穿过霍尔木兹海峡进入波斯湾。（彭博）
-- 欧盟和美国即将达成关键矿产协议。（彭博）
+- 伊朗外长：伊美谈判距离达成协议仅“一步之遥”
+- 美军称在东太平洋打击所谓“贩毒船” 致多人死亡
+- 英国首相和法国总统通话讨论中东局势
+- VanEck：布伦特原油飙升反映市场重定价更为持久的霍尔木兹海峡冲击
+- 台积电加速拓展在美国和中国台湾的先进封装业务。（台湾经济日报）
+- 中金：从中长期看，美元“货币锚”弱化可能继续主导市场前景，美元贬值趋势未变
+- 美国10年期国债收益率上行4个基点。
+- 华尔街见闻早餐 | 2026年4月13日
+- 美学者：伊朗仍有大量快速攻击艇
+- 提醒：日内请重点关注（以下均为北京时间）
+- 谈判破裂后，特朗普考虑对伊朗进行有限打击，这可能成为打破美伊和平谈判僵局的一种方式。（华尔街日报）
+- 国际油价开盘跳涨，美股期货跌超1%
 其他:
-- 京东正内测“Open出行”新业务，高度对标打车平台，将于近期开放服务
-- 俄副外长：俄罗斯不会抛弃古巴
-- 特朗普将于美东周五下午6:30参加“MAGA Inc.”（特朗普超级政治行动委员会）的会议。
-- 美国财长贝森特召集华尔街CEO们讨论Anthropic的AI模型Mythos
-- SpaceX去年亏损近50亿美元。
-SpaceX去年总营收突破185亿美元。（The Information）
-- 中信证券：目前通胀上行风险在挤压美联储降息空间
-- 阿里巴巴领投对AI视频生成公司生数科技的一轮3亿美元融资
-- 缅因州将成为全美首个实施数据中心禁令的州
-- 广安爱众：收到广安市纪律检查委员会、监察委员会的通知，公司董事李常兵被立案调查并实施留置，同时，公司董事会收到董事李常兵的辞职申请书，李常兵因个人原因申请辞去公司第八届董事会董事职务。
-- 李强主持召开经济形势专家和企业家座谈会：要进一步提高宏观政策实施效能，增强前瞻性、针对性、协同性
+- 古巴国家主席：有可能与美国对话并达成协议但很困难
+- 伊朗称美军舰试图“渗透”霍尔木兹海峡，制造“成功通行”假象
+- “21小时内打了十几次电话”，万斯称：在伊斯兰堡美伊谈判期间与特朗普保持密切联系
+- 葛兰素史克（GSK Plc.）：针对卵巢癌的mocertatug rezetecan（简称 Mo-Rez）药物临床试验结果偏正面。
+- 美国总统特朗普：石油价格一开始可能降不下来，但最终还是会跌的。
+原油价格与汽油价格可能会在中期选举之前下跌，也可能会略微更高。
+坦率来说，汽油价格涨势并没有我（原来）想象的那么多。
+（美国和以色列发动的伊朗）战争爆发以来，股市跌幅并不是非常
+- 美国总统特朗普：最高法院在关税问题上对我“并不友好”。
+- 伊朗伊斯兰革命卫队警告称：（美国）在霍尔木兹海峡的任何“错误举动”都将遭到报复。（伊朗媒体Tasnim）
+- 伊朗：霍尔木兹海峡在严密监控与完全掌控之下
+- 美国总统特朗普：伊朗谈判代表们还没有离开谈判桌。
+我预计伊朗将回来，满足“我们想要的”。
+（谈及未来可能进行的会谈）我想要一切。
+一个小时之内，我就能摧毁伊朗的全部能源。
+（谈及摧毁伊朗的可能性）若他们不放弃，美国就会这么做。
+- 特朗普：封锁霍尔木兹海峡“需要一点时间”
 
 ## SCMP (EN/中)
 头版/首屏:
-- Move over, Hercules: China’s new Y-30 aims to outmuscle America’s best
-- Xi tells senior officers to ‘stay pure’ after Chinese military’s anti-graft drive
-- Politics
-- Takeaways from Cheng Li-wun’s press conference about meeting with Xi Jinping
-- China Economy
-- Chinese firms in Hungary face a post-election reckoning – no matter who wins
-- Diplomacy
-- As the clock ticks down to US-Iran talks, 2 big factors stand in the way of progress
+- ‘Blown to hell’: Trump announces US blockade of Strait of Hormuz
+- ‘You cannot lose if you do not have a goal’: the viral wisdom of ‘Don Tzu’
+- Open Questions | What an ancient Chinese map reveals about global history: Sheng-Wei Wang
+- Military
+- How a Chinese company said it used AI to track US bomber movements over Iran
+- Hong Kong Economy
+- From toilet paper to travel: why inflation could soon hit Hongkongers hard
+- Turning walnuts into ‘jade’? Social media goes nuts over old Chinese tradition
 其他:
-- PLA’s four-engine turboprop described as outperforming US counterpart in engine power, payload capacity, structure and material.
-- KMT chairwoman says that with talks in Beijing, her party has taken the first step to defuse tensions across the Taiwan Strait.
-- With opposition Tisza party leading in the polls, businesses ponder implications if Orban’s Fidesz party loses 16-year grip on power.
-- Discussions in Islamabad will aim to preserve a fragile truce in a Middle East conflict well into its second month.
-- What Trump’s Iran war ‘loyalty test’ may mean for Nato’s long-standing alliance
-- Health & Environment
-- Health chief hails tobacco control efforts as smoking rate falls to 8.5%
-- Prevalence of daily cigarette smokers aged 15 and older fell from 9.1 per cent in 2023.
-- Science
-- Is China about to launch a rocket from South China Sea international waters?
+- The US plans to block ‘all maritime traffic entering and exiting Iranian ports’ starting on Monday.
+- Kunyu Wanguo Quantu and maritime artefacts prove China explored the world earlier than Eurocentric accounts suggest, scholar argues.
+- MizarVision tried to determine bomber movements based on aerial tanker positions and US attacks on key strategic sites.
+- Continuing uncertainty because of the Middle East war-linked oil shock will intensify inflationary pressures, analysts warn.
+- Diplomacy
+- Viktor Orban concedes defeat as Hungarian voters end his 16-year rule
+- Record turnout hands opposition Tisza Party a decisive victory in Hungary.
+- China EVs
+- How China’s EV battery king CATL powers up profits while EV makers struggle
+- Consolidation, scale and technology advantages enhance pricing power as firm’s domestic market share hits 18-month high.
 
 ## 经济通 (繁中)
 头版/首屏:
 - 沪深港通 热点观察国际动态【FOCUS】
-- 中信证券首季多赚55%股价飙一成，券商股有望翻生
+- 腾讯首季续遭Prosus减持，可趁股价低迷吸纳？
 - 世行维持中国今年经济增4.2%预测
-- 特朗普批北约无助攻伊 “背弃美国人民”
+- 万斯：美诚意谈判 惟伊朗拒弃寻求核武
 - 解压饺子奇袭Labubu，内存压缩狙击美光
 - 指数环球商品外汇
 - 国金观点
@@ -210,14 +216,13 @@ SpaceX去年总营收突破185亿美元。（The Information）
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
-- 就业数据: 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
 - 美国关税: 华尔街见闻 (简中)
+- 加密货币: Benzinga (EN)
+- 黄金/大宗: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
