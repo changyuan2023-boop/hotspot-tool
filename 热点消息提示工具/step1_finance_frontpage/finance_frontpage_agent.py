@@ -49,11 +49,11 @@ def main():
             paste_block.append(f"（抓取失败: {r.error}）")
         else:
             if r.headlines:
-                paste_block.append("头版/首屏:")
+                paste_block.append("头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):")
                 for h in r.headlines[:12]:
                     paste_block.append(f"- {h}")
             if r.other_items:
-                paste_block.append("其他:")
+                paste_block.append("其他 (首页其他位置，按重要性排序，仅标题无摘要):")
                 for o in r.other_items[:10]:
                     paste_block.append(f"- {o}")
         paste_block.append("")
