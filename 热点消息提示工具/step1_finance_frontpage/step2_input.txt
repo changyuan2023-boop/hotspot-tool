@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026041409
+抓取时间: 2026041420
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets closed
-- Home sales sank in March, as low rates didn't bring back buyers
-- Trump threatens to destroy Iran ships near US blockade in Strait of Hormuz
-- Dow, S&P 500, Nasdaq futures hold steady as US-Iran deal discussed
-- Younger Americans 'stretched thin' are making big credit card mistakes
-- 10 oil stock picks for a prolonged Middle East conflict: Goldman Sachs
-- Silver vs. gold: Which metal made investors more money in the last 50 years?
-- Tesla's Full Self-Driving gets Dutch sign-off, paving the way for EU approval
+- U.S. markets open in 1h 31m
+- US stock futures mixed amid Iran deal hopes
+- Goldman rakes it in, but issues a warning
+- A US-blacklisted tanker is putting Trump's blockade to the test
+- Fed nominee Warsh takes step closer to confirmation
+- Amazon nears Globalstar deal in push to rival Starlink
+- US, Iran weigh restarting talks to extend the ceasefire
+- J&J profit beats estimates even as Stelara sales disappoint
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Wall Street delusion about Mideast conflict, in 3 charts
-- Prices are beginning to rise faster than Americans' wages
-- Conagra stock falls after the company names new CEO
-- Exclusive-United CEO Kirby raised potential tie-up with American in Trump meeting
-- Trump Begins Hormuz Blockade Even as US, Iran Eye More Talks
-- Oil Declines as US, Iran Weigh More Talks With Blockade in Place
-- Swalwell, Gonzales to Quit Congress After Sex Misconduct Claims
-- Blue Owl Private Credit Fund Raises $400 Million in Bond Market
-- Houston Is Facing $110 Million Security-Funds Cut After ICE Vote
-- Qantas lifts fuel cost forecast as Middle East war jolts oil markets
+- JPMorgan profits rise as Dimon warns of 'complex' risks ahead
+- US small business sentiment falls to 11-month low
+- Treasury yields fall as Iran deal hopes weigh on oil
+- Younger Americans 'stretched thin' are making serious credit card mistakes
+- ASML investors bet on 'picks and shovels' of AI revolution
+- Nissan reveals return of Xterra SUV, Rogue e‐POWER hybrid as part of new ' long-term vision'
+- Analysis-Investors size up landmark new chapter for Hungary post-Orban
+- Deutsche Boerse buys $200 million stake in crypto giant Kraken
+- AIP to take Avanos Medical private in a deal valued at about $1.27 billion
+- Millions of Floridians Will Bear the Brunt of Trump’s Health Cuts
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,82 +42,85 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Super Mario Dominates Box Office: Will Nintendo, Comcast Or AMC Stock Be The Biggest Winner?
-- Elon Musk Once Called Instagram A 'Thirst Trap,' Deleted His Account: Billionaire Could Be Back To Promote SpaceX IPO
-- Anthropic's Mythos Triggers Cybersecurity Race — CrowdStrike, Rubrik, Cloudflare Stand To Gain
-- Congressman Buys Oil Stock After Iran Strikes: Should Investors Take Note?
-- US–Iran Ceasefire Ignites EM ETF Rally With A Twist: Brazil In, India Out
-- 'Boy Who Cried Wolf': David Sacks Questions Whether Anthropic's Mythos Scare Is Just A Sales Pitch
+- This Tesla Analyst Is No Longer Bearish; Here Are Top 5 Upgrades For Tuesday
+- Wall Street's Most Accurate Analysts Weigh In On 3 Financial Stocks With Over 10% Dividend Yields
+- Apple To Rally More Than 25%? Here Are 10 Top Analyst Forecasts For Tuesday
+- Novo Nordisk Expands AI Push With ChatGPT Parent OpenAI
+- War, Oil, Chaos—Still Stocks Climb. Jim Cramer Explains Why
+- Stock Market Today: Dow Jones, S&P 500 Futures Rise As JD Vance Touts 'Good Deal' If Iran Meets US 'Red Lines'—Sana, Chevron In Focus
 - Jensen Huang
 - Donald Trump
-- Bloom Energy Stock Surges On Expanded Oracle Partnership
-- Software Stocks Were Called Dead – They Just Had Their Best Day In A Year
+- Jeff Bezos Posts Night-Time Photo Of Blue Origin's New Glenn Rocket Ahead Of Its Third Test Flight, SpaceX CEO Elon Musk Said This
+- AI Arms Race Triggers $143 Billion Explosion In Chip Gear Spending
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
+- 纳指期货涨0.5%，触及盘中高点，标普500指数期货涨幅扩大至0.3%。
+- 消息人士说巴基斯坦提议在伊斯兰堡举行美伊下一轮谈判
+- 美国电动汽车制造商Lucid任命新首席执行官，沙特公共投资基金（PIF）和Uber承诺投资7.5亿美元。Lucid盘前大涨逾12%。
+- 工信部等三部门：要稳妥有序开展智能网联汽车道路测试与示范应用
+- 摩根大通美股盘前跌超3%，此前公布了一季度财报。
+- 摩根大通首席执行官：我们拥有充足的资本和流动性。
+希望监管机构优先考虑制定完善的监管措施。
+本季度美国经济表现依然强劲。多股有利因素共同支撑了这种韧性。
+消费者仍在赚钱并进行消费。
+目前存在着一系列日益复杂的风险因素。
+- 富国银行第一季度营收为214.5亿美元，预期217.6亿美元。
+第一季度每股收益1.6美元。
+第一季度净利息收入121亿美元，预期122.7亿美元。
+富国银行美股盘前跌近3%。
+- 美国小企业乐观指数降至近一年来最低水平
+- 强生第一季度销售额240.6亿美元，预估236.6亿美元。
+第一季度调整后每股收益2.70美元，预估2.69美元。
+强生预计全年销售额1,003亿美元至1,013亿美元，市场预估1,006.3亿美元。
+强生预计全年调整后每股收益11.45美
+- 多家快递公司回应涨价，专家：快递今年或涨价多次
+- 中国政府中东问题特使翟隽会见巴西总统外事顾问，重点就伊朗局势交换意见
+- 贝莱德第一季度管理资产规模13.89万亿美元，同比增长20%，预期13.92万亿美元。
+第一季度调整后每股收益12.53美元，去年同期为11.30美元，预期11.48美元。
+第一季度股票类净流入718.4亿美元。
+第一季度固定收益类净流入3
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- 巴基斯坦呼吁美伊停火延长45天
+- 美国财长贝森特：美国在降息之前应“观望并等待”；有信心近期的价格上涨不会“植入通胀预期之中”。（美国财经媒体Semafor）
+- 亚马逊据称接近收购GlobalStar，试图与星链竞争。（彭博）
+- 斯塔默：英法将组织召开霍尔木兹海峡航运安全会议
+- 美能源部长：霍尔木兹海峡通航前 美国能源将持续涨价
+- 军事专家：美军难以控制霍尔木兹海峡 或被拖入持久战
+- 美媒：沙特施压美国放弃封锁霍尔木兹海峡
 - 美国务卿将主持以黎大使会谈 讨论停火可能性等议题
 - 摩根大通和摩根士丹利建议抓住机会低吸买盘，称美企盈利仍具韧性。
 - 花旗集团表示，即便霍尔木兹海峡供应若长期中断将导致油价升向每桶100美元，如今全球经济也比以往更有能力吸收石油冲击，因为家庭和企业的抗压能力增强，使得全球经济陷入衰退的门槛提高。
-- 美媒：伊朗称最多暂停铀浓缩5年 特朗普拒绝
-- 美国总统特朗普将于美东时间周二下午1:30会见众议院议长。
-特朗普将于美东时间周二下午5:30会见美国驻华大使。
-- 美国国务院官员：美国将于周二主持以色列与黎巴嫩的会谈，该会谈将是高层级别的。
-- 万斯声称美伊谈判“球在伊朗一边”
-- 俄总统新闻秘书：美国封锁伊朗海上交通将损害国际市场
-- 花旗集团将美国股票评级从中性上调至超配，将新兴市场股票评级下调至中性。
-- 美军称在东太平洋打击“贩毒船” 致两人死亡
-- 伊朗男足主帅：是否参加世界杯将听从伊足协决定
-- 华尔街见闻早餐 | 2026年4月14日
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 美官员：美军在中东地区部署了16艘军舰
-- 报道：智利矿商Codelco与承包商因致命性矿场坍塌事故而被惩罚
-- 周一（4月13日）纽约尾盘，标普500股指期货最终涨1.06%，道指期货涨0.66%，纳斯达克100股指期货涨1.21%。
-罗素2000股指期货涨1.51%。
-- 凯文·沃什的美联储主席提名人资格在美国参议院听证会安排方面扫清一道障碍。
-据知情人士透露，沃什在4月13日向参议院提交了被对方要求的证词文件。（CNBC）
-- 周一（4月13日）纽约尾盘，现货白银跌0.34%，报75.62美元/盎司，亚太盘初地雷低走，北京时间06:23跌至72.6369美元，00:00过后曾跌幅迅速收窄。
-COMEX白银期货跌1.06%，报75.670美元/盎司，06:23刷新日
-- 雪佛龙对PetroIndependenCIA合资公司的持股增加13.21%。
-雪佛龙同意，与PetroLeos de Venezuela置换资产。
-- 周一（4月13日）纽约尾盘，现货黄金跌0.21%，报4739.75美元/盎司，跳空低开之后、在亚太早盘呈现出V形走势——北京时间07:21刷新日低至4644.50美元，09:00以来持续交投于4720美元附近。
-COMEX黄金期货跌0.48
-- 美国能源部长Wright：美国能源价格可能会上涨，直至霍尔木兹海峡的船只通行量“实质性地”恢复。
-预计“未来几周”将发生这样的事。
-委内瑞拉石油产量超过120万桶/日，三个月增长了25%。
-1月3日以来，销售了1.5亿桶委内瑞拉石油。
-- 雪佛龙与委内瑞拉石油公司PDVSA签署协议，计划通过合资公司提高在委的石油产量。（委内瑞拉国家电视台）
-- 美股七巨头收盘播报｜周一（4月13日），美国科技股七巨头（Magnificent 7）指数涨0.91%，报197.22点，尾盘加速上涨，收于日高附近。
-“超大”市值科技股指数涨1.66%，报381.51点，整体持续走高，也收于日高附近。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- US begins blockade of Iranian ports amid fragile ceasefire
+- China hits out at ‘dangerous and irresponsible’ US blockade of Iran’s ports
 - China says open Hormuz key to global interests as Trump blockade looms
 - Diplomacy
-- Why the US may need more than just fixing gaps to rival China on rare earths
-- Economy
-- Hungary’s PM-elect Magyar sends warm overture to China, vows fair play for firms
-- Hong Kong Economy
-- Hong Kong taxpayers face HK$28 billion Covid bad-loan burden from SMEs
+- Exclusive | EU to cut funding for Chinese inverters amid change of tack towards Beijing
+- China Economy
+- Kazakh sovereign fund issues Central Asia’s first panda bond in ‘milestone’ sale
+- Education
+- Public universities admit 65 non-local DSE pupils last year, a fivefold jump since 2022
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Trump says Beijing ‘would like to see this ended’ as the US moves to stop vessels transiting to and from Iranian ports.
-- Washington’s mining ambitions may be complicated by the erosion of industrial know-how and a weak education pipeline, experts say.
-- Peter Magyar pledges reforms to restore transparency and fiscal stability as Hungary shifts from Viktor Orban’s investment model.
-- Of 67,189 loan applications approved under government’s Special 100% Loan Guarantee scheme, 13,231 had defaulted by end of February.
-- Could Trump’s Hormuz blockade derail China summit with Xi Jinping?
-- Big Tech
-- How prolonged Iran war could disrupt Asia tech from chipmaking to data centres
-- LNG and helium shortages risk crippling Asia’s semiconductor supply chain and delaying AI infrastructure expansion, experts say.
-- BYD made Brazil’s slave labour list. The man behind the decision lost his job
-- Union said sacking is part of pattern of political meddling in slavery cases.
+- Beijing says American move will ‘inflame tensions, escalate the situation and undermine an already fragile ceasefire’.
+- Without fanfare, Brussels will stop funding for projects that use the Chinese-made devices as part of a ‘do more, say less’ strategy.
+- Samruk-Kazyna chairman says issuance marks ‘an important milestone in strengthening the strategic partnership between Kazakhstan and China’.
+- By contrast, number of local DSE candidates who qualified for Hong Kong public universities fell by 5 per cent over same period, Education Bureau says.
+- Chinese team shows quantum tech can disrupt AI in a real-world task
+- Xi calls on Spain to jointly resist ‘law of the jungle’ in a turbulent world
+- Chinese leader meets visiting Spanish PM who is in Beijing looking to strengthen bilateral ties amid tensions with US.
+- Tech Trends
+- China’s Dishan Technology nears 2nm AI chip breakthrough, reports say
+- The Shanghai-based start-up says its chip design is likely to improve energy efficiency by 40 per cent compared with its predecessor.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 美伊谈判破裂油价飙近一成，三桶油逆市造好仍可追入？
-- 沪二手房单日成交1632套 创5年高
+- 绩前传趁高配股抽水50亿美元，宁德时代股价曾跌逾半成
+- 3月新贷2.99万亿逊预期 M2增速放缓至8.5%
 - 匈牙利大选 在野党夺逾三分二议席
-- “反向”封锁霍尔木兹，川普之意不在油
+- 出口骤降未为忧，进口激增或非福
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -126,9 +129,9 @@ COMEX黄金期货跌0.48
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25660.85-232.69(-0.90%)
+- 恒生指数25872.32+211.47(+0.82%)
                     etnet.com.hk@copyright
-- 国企指数8602.06-52.98(-0.61%)
+- 国企指数8671.61+69.55(+0.81%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -141,15 +144,15 @@ COMEX黄金期货跌0.48
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 加密货币: Benzinga (EN)
-- 就业数据: 华尔街见闻 (简中)
-- 美联储: 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美国关税: 华尔街见闻 (简中)
+- 加密货币: Yahoo Finance (EN)
+- 就业数据: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
