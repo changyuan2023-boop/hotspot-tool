@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026041320
+抓取时间: 2026041409
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 31m
-- Goldman Sachs profits rise on stock trading, M&A surge
-- Prices are beginning to rise faster than Americans' wages
-- Iran threatens to hit Gulf ports after US 'act of piracy'
-- Why Starlink is so important to SpaceX's IPO
-- Gold falls as US plan to block Hormuz ups inflation risks
-- Intel's $100 billion April rally makes it the hottest stock
-- Blockade of Iran ports risks wider war on high seas
+- U.S. markets closed
+- Home sales sank in March, as low rates didn't bring back buyers
+- Trump threatens to destroy Iran ships near US blockade in Strait of Hormuz
+- Dow, S&P 500, Nasdaq futures hold steady as US-Iran deal discussed
+- Younger Americans 'stretched thin' are making big credit card mistakes
+- 10 oil stock picks for a prolonged Middle East conflict: Goldman Sachs
+- Silver vs. gold: Which metal made investors more money in the last 50 years?
+- Tesla's Full Self-Driving gets Dutch sign-off, paving the way for EU approval
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- US stock futures fall as Trump gets ready to block Hormuz
-- These tools may help GM escape an economic slowdown
-- Big banks' profit machine dogged by looming worries
-- Oil jumps more than 7% to above $102 ahead of US blockade on Iran
-- EU Aims to Unblock €90 Billion Ukraine Loan After Orban Loss
-- IDEAYA eye cancer drug combo meets main goal of mid-to-late-stage trial
-- Morgan Stanley Says Earnings Shield S&P 500 From Iran War
-- China’s Victory Giant Seeks Up to $2.2 Billion in Hong Kong Listing
-- UK Not Supporting Trump’s Planned Hormuz Blockade, Starmer Says
-- Oil prices jump on US plans to blockade Iranian ports in Strait of Hormuz
+- Wall Street delusion about Mideast conflict, in 3 charts
+- Prices are beginning to rise faster than Americans' wages
+- Conagra stock falls after the company names new CEO
+- Exclusive-United CEO Kirby raised potential tie-up with American in Trump meeting
+- Trump Begins Hormuz Blockade Even as US, Iran Eye More Talks
+- Oil Declines as US, Iran Weigh More Talks With Blockade in Place
+- Swalwell, Gonzales to Quit Congress After Sex Misconduct Claims
+- Blue Owl Private Credit Fund Raises $400 Million in Bond Market
+- Houston Is Facing $110 Million Security-Funds Cut After ICE Vote
+- Qantas lifts fuel cost forecast as Middle East war jolts oil markets
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,78 +42,81 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- What's Going On With TotalEnergies Stock Monday?
-- IDEAYA Eye Cancer Trial Data Beats Standard Therapy, Stock Soars
-- Capital One Financial, Amazon, Nvidia And More On CNBC's 'Final Trades'
-- How To Earn $500 A Month From Wells Fargo Stock Ahead Of Q1 Earnings
-- Why Is Sky Quarry Stock Surging Monday?
-- Stock Market Today: Dow Futures Fall As Trump Announces Strait Of Hormuz Blockade—Goldman Sachs, Fastenal In Focus
+- Super Mario Dominates Box Office: Will Nintendo, Comcast Or AMC Stock Be The Biggest Winner?
+- Elon Musk Once Called Instagram A 'Thirst Trap,' Deleted His Account: Billionaire Could Be Back To Promote SpaceX IPO
+- Anthropic's Mythos Triggers Cybersecurity Race — CrowdStrike, Rubrik, Cloudflare Stand To Gain
+- Congressman Buys Oil Stock After Iran Strikes: Should Investors Take Note?
+- US–Iran Ceasefire Ignites EM ETF Rally With A Twist: Brazil In, India Out
+- 'Boy Who Cried Wolf': David Sacks Questions Whether Anthropic's Mythos Scare Is Just A Sales Pitch
 - Jensen Huang
 - Donald Trump
-- Mohamed El-Erian Sounds Warning On 'Blockade Of The Blockade' In Strait Of Hormuz: 'Households Worldwide Are Facing The Burden…
-- Taiwan Semiconductor Set To Smash Records Again As AI Mania Fuels Profit Surge
+- Bloom Energy Stock Surges On Expanded Oracle Partnership
+- Software Stocks Were Called Dead – They Just Had Their Best Day In A Year
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美军：将封锁霍尔木兹海峡 未经授权船只不允许通过
-- Pershing Square USAIPO预计将于4月28日定价。
-- 高盛财报公布后，盘前股价跌幅扩大至2.7%，摩根大通盘前跌超1%。
-- 法英将共同组织霍尔木兹海峡航运安全会议
-- 不做MPV、不卷同类9系！蔚来李斌：今年的经营目标是“全年盈利”
-- 高盛第一财季净利息收入35.6亿美元，预估35.2亿美元。
-第一财季净营收172.3亿美元，每股收益17.55美元。
-第一财季FICC业务销售和交易营收40.1亿美元，预估48.7亿美元。
-第一财季股票销售和交易业务营收53.3亿美元，预估
-- 以色列总理内塔尼亚胡：以色列方面支持特朗普总统对伊朗的封锁。
-周日曾与美国副总统万斯通话。
-万斯称主要问题是移除浓缩铀。
-- 伊朗和沙特外长通话 就伊美在巴基斯坦的会见交换意见
-- 伊朗副议长：伊朗曾准备稀释450公斤浓缩铀以示善意
-- 伊朗向国际海事组织提交法律文件 否认“封锁霍尔木兹海峡”说法
-- 机构：苹果入局折叠手机可望拿下近两成市占
-- 英媒：至少3艘伊朗船舶在美“封锁令”实施前通过霍尔木兹海峡
+- 美国务卿将主持以黎大使会谈 讨论停火可能性等议题
+- 摩根大通和摩根士丹利建议抓住机会低吸买盘，称美企盈利仍具韧性。
+- 花旗集团表示，即便霍尔木兹海峡供应若长期中断将导致油价升向每桶100美元，如今全球经济也比以往更有能力吸收石油冲击，因为家庭和企业的抗压能力增强，使得全球经济陷入衰退的门槛提高。
+- 美媒：伊朗称最多暂停铀浓缩5年 特朗普拒绝
+- 美国总统特朗普将于美东时间周二下午1:30会见众议院议长。
+特朗普将于美东时间周二下午5:30会见美国驻华大使。
+- 美国国务院官员：美国将于周二主持以色列与黎巴嫩的会谈，该会谈将是高层级别的。
+- 万斯声称美伊谈判“球在伊朗一边”
+- 俄总统新闻秘书：美国封锁伊朗海上交通将损害国际市场
+- 花旗集团将美国股票评级从中性上调至超配，将新兴市场股票评级下调至中性。
+- 美军称在东太平洋打击“贩毒船” 致两人死亡
+- 伊朗男足主帅：是否参加世界杯将听从伊足协决定
+- 华尔街见闻早餐 | 2026年4月14日
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 伊朗：任何军事船只靠近霍尔木兹海峡将遭到强硬应对
-- 特朗普重申将封锁进出伊朗港口船只
-- 东盟敦促美国和伊朗继续进行谈判以结束冲突
-- 早间要闻汇总
-- 提醒：日内请重点关注（以下均为北京时间）
-- 加拿大皇家银行（RBC）将特斯拉目标价从500美元下调至480美元。
-- 伊朗官员删除“美国三个过分要求”帖文
-- 英媒：特朗普“封锁令”后，霍尔木兹海峡“所有交通似乎都已停止”
-- 杰富瑞：将闪迪目标股价从700美元上调至1000美元。
-将英特尔目标股价从45美元上调至60美元。
-将Marvell Technology目标股价从120美元上调至149美元。
-- 以色列防长称在以黎边境启动新一轮拆除行动
+- 美官员：美军在中东地区部署了16艘军舰
+- 报道：智利矿商Codelco与承包商因致命性矿场坍塌事故而被惩罚
+- 周一（4月13日）纽约尾盘，标普500股指期货最终涨1.06%，道指期货涨0.66%，纳斯达克100股指期货涨1.21%。
+罗素2000股指期货涨1.51%。
+- 凯文·沃什的美联储主席提名人资格在美国参议院听证会安排方面扫清一道障碍。
+据知情人士透露，沃什在4月13日向参议院提交了被对方要求的证词文件。（CNBC）
+- 周一（4月13日）纽约尾盘，现货白银跌0.34%，报75.62美元/盎司，亚太盘初地雷低走，北京时间06:23跌至72.6369美元，00:00过后曾跌幅迅速收窄。
+COMEX白银期货跌1.06%，报75.670美元/盎司，06:23刷新日
+- 雪佛龙对PetroIndependenCIA合资公司的持股增加13.21%。
+雪佛龙同意，与PetroLeos de Venezuela置换资产。
+- 周一（4月13日）纽约尾盘，现货黄金跌0.21%，报4739.75美元/盎司，跳空低开之后、在亚太早盘呈现出V形走势——北京时间07:21刷新日低至4644.50美元，09:00以来持续交投于4720美元附近。
+COMEX黄金期货跌0.48
+- 美国能源部长Wright：美国能源价格可能会上涨，直至霍尔木兹海峡的船只通行量“实质性地”恢复。
+预计“未来几周”将发生这样的事。
+委内瑞拉石油产量超过120万桶/日，三个月增长了25%。
+1月3日以来，销售了1.5亿桶委内瑞拉石油。
+- 雪佛龙与委内瑞拉石油公司PDVSA签署协议，计划通过合资公司提高在委的石油产量。（委内瑞拉国家电视台）
+- 美股七巨头收盘播报｜周一（4月13日），美国科技股七巨头（Magnificent 7）指数涨0.91%，报197.22点，尾盘加速上涨，收于日高附近。
+“超大”市值科技股指数涨1.66%，报381.51点，整体持续走高，也收于日高附近。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- ‘Doctor Doom’ Roubini turns ‘Doctor Boom’, predicting huge economic growth in US
-- China launches national plan to boost AI education
-- Science
-- 3 satellites to track all? Chinese radar images confirm US military fears
-- Society
-- Hong Kong school hits back at filmmaker in row over Italian festival screening
+- US begins blockade of Iranian ports amid fragile ceasefire
+- China says open Hormuz key to global interests as Trump blockade looms
 - Diplomacy
-- ‘Blown to hell’: Trump announces US blockade of Strait of Hormuz
+- Why the US may need more than just fixing gaps to rival China on rare earths
+- Economy
+- Hungary’s PM-elect Magyar sends warm overture to China, vows fair play for firms
+- Hong Kong Economy
+- Hong Kong taxpayers face HK$28 billion Covid bad-loan burden from SMEs
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Nouriel Roubini predicted the 2008 financial crisis – now he says an explosion of hi-tech will be unlike anything mankind has ever seen, trivialising near-term headwinds.
-- Breakthrough suggests ability to achieve global, 24/7, all-weather reconnaissance coverage of high-value targets.
-- Supervisor of Ying Wa Girls’ School says principal did not lie in negotiations over showing To My Nineteen-Year-Old Self at coming festival.
-- The US plans to block ‘all maritime traffic entering and exiting Iranian ports’ starting on Monday.
-- Chinese AI solves decade-old maths problem in hours, with no human intervention
-- Politics
-- Safety and quality ‘top priorities’ for China’s highly sensitive Tibet mega dam
-- Vice-Premier Zhang Gouqing stresses Beijing’s commitment to the ‘landmark project’ when visiting the Yarlung Tsangpo construction site.
+- Trump says Beijing ‘would like to see this ended’ as the US moves to stop vessels transiting to and from Iranian ports.
+- Washington’s mining ambitions may be complicated by the erosion of industrial know-how and a weak education pipeline, experts say.
+- Peter Magyar pledges reforms to restore transparency and fiscal stability as Hungary shifts from Viktor Orban’s investment model.
+- Of 67,189 loan applications approved under government’s Special 100% Loan Guarantee scheme, 13,231 had defaulted by end of February.
+- Could Trump’s Hormuz blockade derail China summit with Xi Jinping?
 - Big Tech
-- ‘Common ignorance’: how China took the lead in global efforts to govern AI
+- How prolonged Iran war could disrupt Asia tech from chipmaking to data centres
+- LNG and helium shortages risk crippling Asia’s semiconductor supply chain and delaying AI infrastructure expansion, experts say.
+- BYD made Brazil’s slave labour list. The man behind the decision lost his job
+- Union said sacking is part of pattern of political meddling in slavery cases.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 国泰因应油价飙升削减航班，股价下挫未宜沾手？
+- 美伊谈判破裂油价飙近一成，三桶油逆市造好仍可追入？
 - 沪二手房单日成交1632套 创5年高
-- 万斯：美诚意谈判 惟伊朗拒弃寻求核武
+- 匈牙利大选 在野党夺逾三分二议席
 - “反向”封锁霍尔木兹，川普之意不在油
 - 指数环球商品外汇
 - 国金观点
@@ -138,12 +141,15 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN)
-- 美国关税: 华尔街见闻 (简中)
+- 美国关税: 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 加密货币: Benzinga (EN)
+- 就业数据: 华尔街见闻 (简中)
+- 美联储: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
