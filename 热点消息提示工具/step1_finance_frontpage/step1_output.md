@@ -3,53 +3,58 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | US set to launch tariff refund system on April 20 | Restaurants closures are coming if inflation doesn't get under control | Meta extends custom chips deal with Broadcom to power AI ambitions
-  - 其他: S&P 500, Nasdaq, Dow futures hover amid renewed hopes for US-Iran talks | Bessent dismisses IMF, World Bank forecasts, says high prices will pass | Amazon to buy Globalstar to take on Musk's Starlink | Anthropic draws VC interest at up to $800 billion valuation, Business Insider reports | US, Iran Seek More Ceasefire Talks as Blockade Stops Ships
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 31m | US stock futures steady amid earnings rush, peace hopes | Trump hints that an end to the US-Iran war is in sight | Bank of America posts profit beat, flags 'resilient' economy
+  - 其他: Bulls are back, but this isn't a 'close-eyes-and-buy' market | Tax Day is here. You can still get an extension from the IRS. | Amazon's Globalstar deal gets flying approval from Wall Street | Nutella-maker Ferrero aware of EU inspections, says it is cooperating | Robots, drones could slash global food delivery costs to $1 per order, Barclays says
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: 24-Year-Old Turns $875 Million Into $2.2 Billion Via Bloom Energy Stock | Trump's Oldest Sons Promised Made In America, $499 Phone In 2025: One Year Later, Here's The Update | Michael Dell Among Top Net Wealth Gainers In 2026 — Back In Top 10 Richest, Even After Giving Away $6.25 Billion To Trump Accounts | OpenAI Expands Financial AI Push With Acquisition Of Hiro Finance | Meta, Broadcom Extend Multi-Year AI Chip Partnership, Stocks Climb
+  - 其他: Why Is Navan Stock Gaining Wednesday? | Bitmine Holds $20 Support After $3.8B Loss—Is A Bottom Finally Forming? | Eric Jackson Thinks AI Is Eroding Software Giants And The Pain Will Only Intensify In 6–12 Months: 'They're Overcompensating…' | Citizens Financial Likely To Report Higher Q1 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call | ChatGPT And Copilot Are Becoming Americans' First Stop For Medical Questions— But Trust Still Lags
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 俄媒：延长美伊停火的讨论正在进行中 | 万斯：美伊间有很多互不信任之处　不可能“一夜之间”解决 | 苹果官微发文提醒iPhone用户立即更新设备 | 美国私募股权巨头KKR宣布，将通过收购可转换债券向三星SDS投资1.22万亿韩元（约合8.2亿美元）。 | 《华尔街日报》援引美国参议员Chris Coons称，五角大楼可能会削减伊朗战争的拨款申请。 | 伊媒：伊美或重返伊斯兰堡继续谈判 | 特朗普称伊朗战事“接近结束” | 华尔街见闻早餐 | 2026年4月15日
-  - 其他: 白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。 | 瑞生（Latham & Watkins）主席兼管理合伙人Rich Trobman：我为我们以自律、专注和驱动力执行战略的方式感到无比自豪，全所上下继续保持着强劲的发展势头。
-对我们而言，目标始终是打造一个完全不同的平台：一个高度集成、规模化 | 全球营收第二大律所斩获83亿美元收入，创历史新高 | 文件显示，意大利能源巨头埃尼集团Eni在委内瑞拉装载重油货物，将运送到欧洲。（路透） | 行业周报：美国上周API原油库存增超600万桶
+  - 头版/首屏: 摩根士丹利盘前涨幅扩大至2.5%，触及日内高点。 | 伊朗外交部发言人Esmail Baghaei：核浓缩的水平和类型是可以协商的。 | 伊朗：与美国的信息往来仍在继续 | 特朗普再次威胁袭击伊朗民用基础设施 | 摩根士丹利第一季度净利息收入27.0亿美元，预估26.7亿美元。
+第一季度净营收205.8亿美元，预估197.1亿美元。
+第一财季股票交易收入51.5亿美元，预期47.8亿美元。
+第一财季固定收益、外汇和大宗商品业务销售和交易营收33.6亿 | 伊朗称该国南部航运活动正常进行 无任何中断 | 美伊原则上同意延长停火 | 美国总统特朗普：Anthropic的威胁并非系统性的。
+希望沃什能得到确认成为美联储主席。
+不打算放弃对鲍威尔的调查。
+如果鲍威尔不按时离职，他将被解雇。
+  - 其他: 伊朗将使用替代港口绕开美国对霍尔木兹海峡的封锁 | 日本将释放3600万桶石油储备，具体细节将在4月底前确定。（路透） | 外交部：日方在毗邻中国地区加强导弹部署威胁地区和平稳定 | 俄外长称将帮中国弥补能源短缺 中方回应 | 外交部谈中东局势：当务之急是全力避免战端重启
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Russian and Chinese envoys meet in Beijing to discuss Iran, Ukraine and Taiwan | Trump-Xi summit shaped by uncertainty, not strategy: experts | Diplomacy | Is the US trying to pressure China with Hormuz blockade? | Global Economy | Which countries are most vulnerable as US imposes Persian Gulf blockade? | Society | Call to check tech trends when drafting policies after basketball betting U-turn
-  - 其他: Chinese readout warns of rising turmoil in veiled swipe at Washington and Trump as Beijing strengthens ties with Moscow. | Speculation has been circulating that Washington’s aim is to force Beijing to put pressure on Tehran to strike a peace deal. | Nomura says more than 90 per cent of the crude oil imported by Japan and the Philippines comes from the Middle East. | Development of technology is faster than the pace of legislation, ex-lawmaker notes. | After ‘wonderful’ talks with Lebanon, Israel envoy says more dialogue coming
+  - 头版/首屏: Xi tells Vietnamese counterpart they should ‘jointly oppose unilateralism’ | As Xi-Trump summit approaches, tariffs continue to choke direct trade | Diplomacy | Developing | Trump dismisses concern Iran war will derail China trip next month: interview | Big Tech | Lightelligence on track with IPO plans as China’s AI photonics race gathers pace | Hong Kong Economy | Exclusive | Jockey Club to channel HK$1 billion basketball betting investment into football
+  - 其他: On To Lam’s state visit, Chinese president also urges keeping ‘supply chains stable and unimpeded’ as Iran war deepens global energy crisis. | Trump says war is ‘very close to over’ but also ‘we’re not finished. We’ll see what happens. I think they want to make a deal very badly’. | Shanghai-based company aims to become Hong Kong’s first listed AI photonics chipmaker as AI infrastructure buildout drives momentum. | Source says club’s main concern is illegal wagering and that it will work with government to solve crisis over basketball betting pause. | China tests submarine cable cutter at 3,500-metre depth
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 行业高景气迭加政策利好，赣锋天齐六连升仍可追入？ | 3月新贷2.99万亿逊预期 M2增速放缓至8.5% | 油价续波动 澳航燃料支出高预期32% | 出口骤降未为忧，进口激增或非福 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25872.32+211.47(+0.82%)
-                    etnet.com.hk@copyright | 国企指数8671.61+69.55(+0.81%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 内地优化创新药价格机制，医药股普遍造好可以怎部署？ | 恒大集资诈骗案 许家印当庭认罪 | 油价续波动 澳航燃料支出高预期32% | 减肥利器“地板价”，创新药新政布大局 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25947.32+75.00(+0.29%)
+                    etnet.com.hk@copyright | 国企指数8718.26+46.65(+0.54%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✗ (curl exit 0, len=498)
 
+- **富途资讯 (繁中)** ✓
+  - 头版/首屏: App Store | Google Play | Windows
+
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **油价/能源/霍尔木兹** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中) (3 站)
+- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
 - **中国/欧盟** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
-- **加密货币** — 出现于: Yahoo Finance (EN) (1 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
 - **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 油价/能源（4 站）
 - 科技股/个股（4 站）
 - 伊朗/中东局势（3 站）
+- 油价/能源（3 站）
 - 关税/贸易政策（2 站）
-- 黄金/大宗商品（2 站）
+- 就业/经济数据（2 站）
 - 中国/欧盟（2 站）
-- 加密货币（1 站）
-- 就业/经济数据（1 站）
 - 美联储/利率（1 站）
-- 中国政策（1 站）
+- 加密货币（0 站）
+- 黄金/大宗商品（0 站）
+- 中国政策（0 站）

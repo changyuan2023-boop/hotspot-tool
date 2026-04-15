@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026041509
+抓取时间: 2026041520
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets closed
-- US set to launch tariff refund system on April 20
-- Restaurants closures are coming if inflation doesn't get under control
-- Meta extends custom chips deal with Broadcom to power AI ambitions
-- OpenAI releases cyber model to limited group in race with Mythos
-- Goldman Sachs files for its first bitcoin ETF product
-- 7-Eleven expects to close hundreds of its stores this year
-- The Walt Disney Co. begins laying off 1,000 employees
+- U.S. markets open in 1h 31m
+- US stock futures steady amid earnings rush, peace hopes
+- Trump hints that an end to the US-Iran war is in sight
+- Bank of America posts profit beat, flags 'resilient' economy
+- Nvidia's stock is suddenly on a roll: Two factors in play
+- COVID-era homeowners hanging onto ultra-low-rate mortgages
+- Snap to lay off 1,000 amid AI push, activist pressure
+- China eyes export curbs on solar panel making gear to US
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- S&P 500, Nasdaq, Dow futures hover amid renewed hopes for US-Iran talks
-- Bessent dismisses IMF, World Bank forecasts, says high prices will pass
-- Amazon to buy Globalstar to take on Musk's Starlink
-- Anthropic draws VC interest at up to $800 billion valuation, Business Insider reports
-- US, Iran Seek More Ceasefire Talks as Blockade Stops Ships
-- China's Huaqin seeks to raise nearly $581 million in HK listing amid market volatility
-- Powerball is going international in an effort to build larger jackpots that draw more players
-- Google sued by rival app store Aptoide over alleged monopoly
-- Gold Rises as Traders Weigh Renewed Push for US-Iran Talks
-- Exclusive-Chilean copper miner Codelco, contractors fined after deadly mine collapse
+- Bulls are back, but this isn't a 'close-eyes-and-buy' market
+- Tax Day is here. You can still get an extension from the IRS.
+- Amazon's Globalstar deal gets flying approval from Wall Street
+- Nutella-maker Ferrero aware of EU inspections, says it is cooperating
+- Robots, drones could slash global food delivery costs to $1 per order, Barclays says
+- Iranian Oil Arrives in India Just Ahead of US Waiver Expiry
+- Leidos, Analogic to form security tech joint venture
+- Trump Isolation Deepens on World Stage as Allies Rebuff, Condemn
+- Trump Hormuz Blockade Risks Showdown With Xi Before Summit
+- Trump Urges ‘Slim’ Spending Package, Downplays New Tax Cuts
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,76 +42,78 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 24-Year-Old Turns $875 Million Into $2.2 Billion Via Bloom Energy Stock
-- Trump's Oldest Sons Promised Made In America, $499 Phone In 2025: One Year Later, Here's The Update
-- Michael Dell Among Top Net Wealth Gainers In 2026 — Back In Top 10 Richest, Even After Giving Away $6.25 Billion To Trump Accounts
-- OpenAI Expands Financial AI Push With Acquisition Of Hiro Finance
-- Meta, Broadcom Extend Multi-Year AI Chip Partnership, Stocks Climb
+- Why Is Navan Stock Gaining Wednesday?
+- Bitmine Holds $20 Support After $3.8B Loss—Is A Bottom Finally Forming?
+- Eric Jackson Thinks AI Is Eroding Software Giants And The Pain Will Only Intensify In 6–12 Months: 'They're Overcompensating…'
+- Citizens Financial Likely To Report Higher Q1 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- ChatGPT And Copilot Are Becoming Americans' First Stop For Medical Questions— But Trust Still Lags
+- Stock Market Today: S&P 500, Nasdaq Futures Gain As Trump Fuels De-Escalation Hopes—ASML Holding, Gitlab, Broadcom In Focus
 - Jensen Huang
 - Donald Trump
-- Ken Griffin Says Hormuz Staying Shut Means Recession: 'No Way To Avoid That'
-- Chamath Palihapitiya Says A 'Digital Super-God' Is Coming For Tech Stocks—And Could Expose A Debt Bomb
-- Netflix Q1 Preview: Streamer Can 'Focus On Growing' After Walking From Warner Bros. Deal, Expert Says
+- Chuck Schumer, Kathy Hochul Slam FIFA For $100 Train Tickets To MetLife Stadium, Urge Covering Transport For Fans Amid '$11 Billion Windfall'
+- Amazon's $11.6 Billion Globalstar Buy Is 'Strategic Positive' For Satellite Dominance
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 俄媒：延长美伊停火的讨论正在进行中
-- 万斯：美伊间有很多互不信任之处　不可能“一夜之间”解决
-- 苹果官微发文提醒iPhone用户立即更新设备
-- 美国私募股权巨头KKR宣布，将通过收购可转换债券向三星SDS投资1.22万亿韩元（约合8.2亿美元）。
-- 《华尔街日报》援引美国参议员Chris Coons称，五角大楼可能会削减伊朗战争的拨款申请。
-- 伊媒：伊美或重返伊斯兰堡继续谈判
-- 特朗普称伊朗战事“接近结束”
-- 华尔街见闻早餐 | 2026年4月15日
-- 知情人士称，美国检察官皮罗办公室的检察官突访美联储总部，视察翻新工地现场。（华尔街日报）
-- 美媒：若美伊重返谈判桌，万斯将再次率团
-- 战争导致供应中断，英国首相、荷兰首相会见能源领袖
-- 欧洲加速制定美国退出情况下的北约替代方案。（华尔街日报）
+- 摩根士丹利盘前涨幅扩大至2.5%，触及日内高点。
+- 伊朗外交部发言人Esmail Baghaei：核浓缩的水平和类型是可以协商的。
+- 伊朗：与美国的信息往来仍在继续
+- 特朗普再次威胁袭击伊朗民用基础设施
+- 摩根士丹利第一季度净利息收入27.0亿美元，预估26.7亿美元。
+第一季度净营收205.8亿美元，预估197.1亿美元。
+第一财季股票交易收入51.5亿美元，预期47.8亿美元。
+第一财季固定收益、外汇和大宗商品业务销售和交易营收33.6亿
+- 伊朗称该国南部航运活动正常进行 无任何中断
+- 美伊原则上同意延长停火
+- 美国总统特朗普：Anthropic的威胁并非系统性的。
+希望沃什能得到确认成为美联储主席。
+不打算放弃对鲍威尔的调查。
+如果鲍威尔不按时离职，他将被解雇。
+- 阿里云：对大模型服务平台百炼部分MU（Model Unit）模型单元的服务价格进行上调
+- 李力耘将加入众擎机器人，曾是小鹏智驾负责人
+- 美国4月10日当周MBA抵押贷款申请活动指数周环比 1.8%，前值 -0.8%。
+- Stellantis据悉考虑与东风汽车在欧洲和中国的汽车生产协议。（彭博）
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。
-- 瑞生（Latham & Watkins）主席兼管理合伙人Rich Trobman：我为我们以自律、专注和驱动力执行战略的方式感到无比自豪，全所上下继续保持着强劲的发展势头。
-对我们而言，目标始终是打造一个完全不同的平台：一个高度集成、规模化
-- 全球营收第二大律所斩获83亿美元收入，创历史新高
-- 文件显示，意大利能源巨头埃尼集团Eni在委内瑞拉装载重油货物，将运送到欧洲。（路透）
-- 行业周报：美国上周API原油库存增超600万桶
-- 白宫顾问哈塞特：美国民众的实际收入增速非常高。
-相信今年经济将保持强劲增速。
-预计今年肯定能实现4%的增长。
-- 纳斯达克网络安全ETF收跌0.63%，ETFMG网络安全ETF跌1.08%，整体高开低走，OpenAI发布网络AI模型后跌幅略微收窄。
-- Gitlab宣布，与谷歌云合作。
-- 英国财政大臣Reeves提议，未来四年的国防开支增幅不超过100亿英镑。（泰晤士报）
-- 美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。
-“超大”市值科技股指数涨2.73%，报391.92点。
+- 伊朗将使用替代港口绕开美国对霍尔木兹海峡的封锁
+- 日本将释放3600万桶石油储备，具体细节将在4月底前确定。（路透）
+- 外交部：日方在毗邻中国地区加强导弹部署威胁地区和平稳定
+- 俄外长称将帮中国弥补能源短缺 中方回应
+- 外交部谈中东局势：当务之急是全力避免战端重启
+- 美财长称中国“不可靠”会影响特朗普访华吗？外交部回应
+- 美国缅因州议会通过法案暂缓大型数据中心建设
+- 阿里ATH事业群发布首款AI开发工具秒悟
+- 报道：一艘伊朗油轮突破了美国海军的封锁
+- 美参院民主党领袖：每周强制发起投票 限制特朗普“战争权力”
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Russian and Chinese envoys meet in Beijing to discuss Iran, Ukraine and Taiwan
-- Trump-Xi summit shaped by uncertainty, not strategy: experts
+- Xi tells Vietnamese counterpart they should ‘jointly oppose unilateralism’
+- As Xi-Trump summit approaches, tariffs continue to choke direct trade
 - Diplomacy
-- Is the US trying to pressure China with Hormuz blockade?
-- Global Economy
-- Which countries are most vulnerable as US imposes Persian Gulf blockade?
-- Society
-- Call to check tech trends when drafting policies after basketball betting U-turn
+- Developing | Trump dismisses concern Iran war will derail China trip next month: interview
+- Big Tech
+- Lightelligence on track with IPO plans as China’s AI photonics race gathers pace
+- Hong Kong Economy
+- Exclusive | Jockey Club to channel HK$1 billion basketball betting investment into football
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Chinese readout warns of rising turmoil in veiled swipe at Washington and Trump as Beijing strengthens ties with Moscow.
-- Speculation has been circulating that Washington’s aim is to force Beijing to put pressure on Tehran to strike a peace deal.
-- Nomura says more than 90 per cent of the crude oil imported by Japan and the Philippines comes from the Middle East.
-- Development of technology is faster than the pace of legislation, ex-lawmaker notes.
-- After ‘wonderful’ talks with Lebanon, Israel envoy says more dialogue coming
-- Sides commit to more engagement as Trump urges disarming Hezbollah, but analysts warn a durable Israel-Lebanon deal remains unlikel.
-- Banking & Finance
-- From renters to owners: how mainland buyers are reshaping the Hong Kong market
-- Mainland buyers return in force as a stronger yuan, talent inflows and demand for new homes lift Hong Kong’s property market.
-- Lifestyle & Culture
+- On To Lam’s state visit, Chinese president also urges keeping ‘supply chains stable and unimpeded’ as Iran war deepens global energy crisis.
+- Trump says war is ‘very close to over’ but also ‘we’re not finished. We’ll see what happens. I think they want to make a deal very badly’.
+- Shanghai-based company aims to become Hong Kong’s first listed AI photonics chipmaker as AI infrastructure buildout drives momentum.
+- Source says club’s main concern is illegal wagering and that it will work with government to solve crisis over basketball betting pause.
+- China tests submarine cable cutter at 3,500-metre depth
+- China Economy
+- Chinese steelmakers team up to adjust to EU’s carbon-linked import imposts
+- Industry insiders say carbon costs are expected to cascade through supply chains, adding to compliance costs for Chinese exporters.
+- Strong China-Russia ties are stabilising force in ‘turbulent’ world: Xi Jinping
+- In Beijing, Chinese president tells Russian Foreign Minister Sergey Lavrov ‘both sides should maintain strategic resolve’.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 行业高景气迭加政策利好，赣锋天齐六连升仍可追入？
-- 3月新贷2.99万亿逊预期 M2增速放缓至8.5%
+- 内地优化创新药价格机制，医药股普遍造好可以怎部署？
+- 恒大集资诈骗案 许家印当庭认罪
 - 油价续波动 澳航燃料支出高预期32%
-- 出口骤降未为忧，进口激增或非福
+- 减肥利器“地板价”，创新药新政布大局
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -120,9 +122,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25872.32+211.47(+0.82%)
+- 恒生指数25947.32+75.00(+0.29%)
                     etnet.com.hk@copyright
-- 国企指数8671.61+69.55(+0.81%)
+- 国企指数8718.26+46.65(+0.54%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -134,16 +136,19 @@
 ## 智通财经 (简中)
 （抓取失败: curl exit 0, len=498）
 
+## 富途资讯 (繁中)
+头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
+- App Store
+- Google Play
+- Windows
+
 --- 跨站重点主题（多站出现=更重要）---
-- 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中)
+- 美国关税: 华尔街见闻 (简中), SCMP (EN/中)
+- 就业数据: Yahoo Finance (EN), SCMP (EN/中)
 - 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN)
-- 就业数据: Yahoo Finance (EN)
 - 美联储: 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
