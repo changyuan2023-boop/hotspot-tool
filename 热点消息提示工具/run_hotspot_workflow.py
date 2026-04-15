@@ -31,6 +31,26 @@ MARKER_START = "<!-- 资讯来源开始 -->"
 MARKER_END = "<!-- 资讯来源结束 -->"
 
 
+MODE_INSTRUCTIONS = {
+    "早间": """\
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
+
+重点关注（按重要性排序写入）：
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股""",
+    "晚间": """\
+聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+
+重点关注（按重要性排序写入）：
+1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
+4. 其他值得今晚关注的美股消息""",
+}
+
+
 def detect_mode() -> tuple[str, str, int]:
     """根据北京时间判断早间/晚间模式。返回 (mode_label, time_range, hours_back)。"""
     beijing_now = datetime.now(timezone.utc) + timedelta(hours=8)
@@ -87,9 +107,14 @@ def step2_fill(dry_run: bool = False, mode: str = "晚间", time_range: str = ""
     )
     new_block = MARKER_START + "\n" + content.strip() + "\n" + MARKER_END
     prompt_body = pattern.sub(new_block, template_text)
-    # 替换模式和时间段占位符
+    # 替换模式、时间段、日期、模式指令占位符（由 Python 注入，不留给 LLM 判断）
+    beijing_now = datetime.now(timezone.utc) + timedelta(hours=8)
+    date_str = f"{beijing_now.year}年{beijing_now.month}月{beijing_now.day}日"
+    mode_instructions = MODE_INSTRUCTIONS.get(mode, "")
     prompt_body = prompt_body.replace("{{MODE}}", mode)
     prompt_body = prompt_body.replace("{{TIME_RANGE}}", time_range)
+    prompt_body = prompt_body.replace("{{DATE}}", date_str)
+    prompt_body = prompt_body.replace("{{MODE_INSTRUCTIONS}}", mode_instructions)
     if prompt_body == template_text:
         print("[Step 2] 警告：未替换到任何内容，请检查占位符")
     PROMPT_READY_FILE.write_text(prompt_body, encoding="utf-8")

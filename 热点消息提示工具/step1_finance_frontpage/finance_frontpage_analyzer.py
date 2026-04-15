@@ -27,6 +27,7 @@ DEFAULT_SITES = [
     ("SCMP (EN/中)", "https://www.scmp.com/"),
     ("经济通 (繁中)", "https://www.etnetchina.cn/"),
     ("智通财经 (简中)", "https://www.zhitongcaijing.com/"),
+    ("富途资讯 (繁中)", "https://news.futunn.com/hk/main"),
 ]
 
 # 主题关键词：英文与简中/繁中，用于跨站聚合
@@ -185,6 +186,83 @@ def fetch_wallstreetcn_lives(timeout: int = 15, hours_back: int = 12) -> tuple[l
     return headlines, other, ""
 
 
+def fetch_futunn(timeout: int = 15) -> tuple[list[str], list[str], str]:
+    """富途资讯：优先调 API，fallback 到 curl HTML 抓取。返回 (headlines, other, error)。"""
+    # 尝试富途快讯 API（港股新闻流）
+    api_urls = [
+        "https://news.futunn.com/news-flow/list?market_id=1&lang=zh-hk&page_size=20",
+        "https://news.futunn.com/api/news-flow/list?market_id=1&lang=zh-hk&page_size=20",
+    ]
+    for api in api_urls:
+        try:
+            r = requests.get(api, timeout=timeout, headers={
+                "User-Agent": USER_AGENT,
+                "Accept": "application/json, text/plain, */*",
+                "Referer": "https://news.futunn.com/hk/main",
+            })
+            if r.status_code == 200:
+                data = r.json()
+                # 兼容多种响应结构
+                items = (
+                    (data.get("data") or {}).get("list")
+                    or (data.get("data") or {}).get("items")
+                    or data.get("list")
+                    or []
+                )
+                if items:
+                    headlines, other = [], []
+                    for item in items:
+                        if not isinstance(item, dict):
+                            continue
+                        title = (item.get("title") or item.get("headline") or "").strip()
+                        if title and len(title) > 4 and title not in headlines:
+                            if len(headlines) < 12:
+                                headlines.append(title)
+                            elif len(other) < 10:
+                                other.append(title)
+                    if headlines:
+                        return headlines, other, ""
+        except Exception:
+            continue
+
+    # Fallback：curl 抓取 HTML（绕过 WAF）
+    html, ok, err = _fetch_via_curl("https://news.futunn.com/hk/main", timeout)
+    if not ok or len(html) < 500:
+        # 再试一次 requests
+        html, ok, err = fetch_text("https://news.futunn.com/hk/main", timeout)
+    if not ok:
+        return [], [], err
+
+    soup = BeautifulSoup(html, "html.parser")
+    headlines, other = [], []
+
+    # 富途常见 CSS 结构（Next.js 渲染）
+    for sel in [
+        "[class*='title'][class*='news']",
+        "[class*='newsTitle']",
+        "[class*='article-title']",
+        "[class*='item-title']",
+        ".news-list a",
+        "article h3",
+        "article h2",
+    ]:
+        for tag in soup.select(sel):
+            t = (tag.get_text() or "").strip()
+            if t and len(t) > 4 and t not in headlines and t not in other:
+                if len(headlines) < 12:
+                    headlines.append(t)
+                elif len(other) < 10:
+                    other.append(t)
+        if headlines:
+            return headlines, other, ""
+
+    # 最终 fallback：通用 h 标签
+    head, other_items = extract_generic(html)
+    if not head:
+        return [], [], "未能从富途页面提取标题，可能为 SPA 动态渲染"
+    return head, other_items, ""
+
+
 def extract_generic(html: str) -> tuple[list[str], list[str]]:
     soup = BeautifulSoup(html, "html.parser")
     headlines, other = [], []
@@ -246,6 +324,20 @@ def analyze(sites: list[tuple[str, str]], timeout: int = 15, hours_back: int = 1
 
     for name, url in sites:
         domain = urlparse(url).netloc.lower()
+        # 富途资讯：优先 API，fallback curl HTML
+        if "futunn" in domain:
+            head, other, err = fetch_futunn(timeout=timeout)
+            if err and not head:
+                results.append(SiteResult(name=name, url=url, title="富途资讯", headlines=[], other_items=[], fetch_ok=False, error=err))
+            else:
+                sr = SiteResult(name=name, url=url, title="富途资讯", headlines=head, other_items=other, fetch_ok=True)
+                results.append(sr)
+                for line in sr.headlines + sr.other_items:
+                    for theme in match_theme(line):
+                        if sr.name not in theme_to_sources[theme]:
+                            theme_to_sources[theme].append(sr.name)
+            continue
+
         # 华尔街见闻：SPA 无首屏 HTML，改用快讯 API
         if "wallstreetcn" in domain:
             head, other, err = fetch_wallstreetcn_lives(timeout=timeout, hours_back=hours_back)
