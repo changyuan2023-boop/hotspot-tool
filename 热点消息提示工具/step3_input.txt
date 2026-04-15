@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**本次模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**本次模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -25,7 +25,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，格式固定为：
-`晚间热点线索 · YYYY年M月D日`
+`早间热点线索 · YYYY年M月D日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据），点明对哪些标的/板块的影响（涨跌方向/幅度），结尾标注核心标的代码或板块名称。`
@@ -46,7 +46,7 @@
 
 ---
 
-## 早间模式指令（晚间 = 早间）
+## 早间模式指令（早间 = 早间）
 
 聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
@@ -56,7 +56,7 @@
 3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态）
 4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等在港股有联动标的的板块；若有明确利好/利空驱动，须点明对应港股板块或个股
 
-## 晚间模式指令（晚间 = 晚间）
+## 晚间模式指令（早间 = 晚间）
 
 聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
@@ -89,7 +89,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026041420
+抓取时间: 2026041509
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -97,25 +97,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 31m
-- US stock futures mixed amid Iran deal hopes
-- Goldman rakes it in, but issues a warning
-- A US-blacklisted tanker is putting Trump's blockade to the test
-- Fed nominee Warsh takes step closer to confirmation
-- Amazon nears Globalstar deal in push to rival Starlink
-- US, Iran weigh restarting talks to extend the ceasefire
-- J&J profit beats estimates even as Stelara sales disappoint
+- U.S. markets closed
+- US set to launch tariff refund system on April 20
+- Restaurants closures are coming if inflation doesn't get under control
+- Meta extends custom chips deal with Broadcom to power AI ambitions
+- OpenAI releases cyber model to limited group in race with Mythos
+- Goldman Sachs files for its first bitcoin ETF product
+- 7-Eleven expects to close hundreds of its stores this year
+- The Walt Disney Co. begins laying off 1,000 employees
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- JPMorgan profits rise as Dimon warns of 'complex' risks ahead
-- US small business sentiment falls to 11-month low
-- Treasury yields fall as Iran deal hopes weigh on oil
-- Younger Americans 'stretched thin' are making serious credit card mistakes
-- ASML investors bet on 'picks and shovels' of AI revolution
-- Nissan reveals return of Xterra SUV, Rogue e‐POWER hybrid as part of new ' long-term vision'
-- Analysis-Investors size up landmark new chapter for Hungary post-Orban
-- Deutsche Boerse buys $200 million stake in crypto giant Kraken
-- AIP to take Avanos Medical private in a deal valued at about $1.27 billion
-- Millions of Floridians Will Bear the Brunt of Trump’s Health Cuts
+- S&P 500, Nasdaq, Dow futures hover amid renewed hopes for US-Iran talks
+- Bessent dismisses IMF, World Bank forecasts, says high prices will pass
+- Amazon to buy Globalstar to take on Musk's Starlink
+- Anthropic draws VC interest at up to $800 billion valuation, Business Insider reports
+- US, Iran Seek More Ceasefire Talks as Blockade Stops Ships
+- China's Huaqin seeks to raise nearly $581 million in HK listing amid market volatility
+- Powerball is going international in an effort to build larger jackpots that draw more players
+- Google sued by rival app store Aptoide over alleged monopoly
+- Gold Rises as Traders Weigh Renewed Push for US-Iran Talks
+- Exclusive-Chilean copper miner Codelco, contractors fined after deadly mine collapse
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -130,84 +130,75 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- This Tesla Analyst Is No Longer Bearish; Here Are Top 5 Upgrades For Tuesday
-- Wall Street's Most Accurate Analysts Weigh In On 3 Financial Stocks With Over 10% Dividend Yields
-- Apple To Rally More Than 25%? Here Are 10 Top Analyst Forecasts For Tuesday
-- Novo Nordisk Expands AI Push With ChatGPT Parent OpenAI
-- War, Oil, Chaos—Still Stocks Climb. Jim Cramer Explains Why
-- Stock Market Today: Dow Jones, S&P 500 Futures Rise As JD Vance Touts 'Good Deal' If Iran Meets US 'Red Lines'—Sana, Chevron In Focus
+- 24-Year-Old Turns $875 Million Into $2.2 Billion Via Bloom Energy Stock
+- Trump's Oldest Sons Promised Made In America, $499 Phone In 2025: One Year Later, Here's The Update
+- Michael Dell Among Top Net Wealth Gainers In 2026 — Back In Top 10 Richest, Even After Giving Away $6.25 Billion To Trump Accounts
+- OpenAI Expands Financial AI Push With Acquisition Of Hiro Finance
+- Meta, Broadcom Extend Multi-Year AI Chip Partnership, Stocks Climb
 - Jensen Huang
 - Donald Trump
-- Jeff Bezos Posts Night-Time Photo Of Blue Origin's New Glenn Rocket Ahead Of Its Third Test Flight, SpaceX CEO Elon Musk Said This
-- AI Arms Race Triggers $143 Billion Explosion In Chip Gear Spending
+- Ken Griffin Says Hormuz Staying Shut Means Recession: 'No Way To Avoid That'
+- Chamath Palihapitiya Says A 'Digital Super-God' Is Coming For Tech Stocks—And Could Expose A Debt Bomb
+- Netflix Q1 Preview: Streamer Can 'Focus On Growing' After Walking From Warner Bros. Deal, Expert Says
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 纳指期货涨0.5%，触及盘中高点，标普500指数期货涨幅扩大至0.3%。
-- 消息人士说巴基斯坦提议在伊斯兰堡举行美伊下一轮谈判
-- 美国电动汽车制造商Lucid任命新首席执行官，沙特公共投资基金（PIF）和Uber承诺投资7.5亿美元。Lucid盘前大涨逾12%。
-- 工信部等三部门：要稳妥有序开展智能网联汽车道路测试与示范应用
-- 摩根大通美股盘前跌超3%，此前公布了一季度财报。
-- 摩根大通首席执行官：我们拥有充足的资本和流动性。
-希望监管机构优先考虑制定完善的监管措施。
-本季度美国经济表现依然强劲。多股有利因素共同支撑了这种韧性。
-消费者仍在赚钱并进行消费。
-目前存在着一系列日益复杂的风险因素。
-- 富国银行第一季度营收为214.5亿美元，预期217.6亿美元。
-第一季度每股收益1.6美元。
-第一季度净利息收入121亿美元，预期122.7亿美元。
-富国银行美股盘前跌近3%。
-- 美国小企业乐观指数降至近一年来最低水平
-- 强生第一季度销售额240.6亿美元，预估236.6亿美元。
-第一季度调整后每股收益2.70美元，预估2.69美元。
-强生预计全年销售额1,003亿美元至1,013亿美元，市场预估1,006.3亿美元。
-强生预计全年调整后每股收益11.45美
-- 多家快递公司回应涨价，专家：快递今年或涨价多次
-- 中国政府中东问题特使翟隽会见巴西总统外事顾问，重点就伊朗局势交换意见
-- 贝莱德第一季度管理资产规模13.89万亿美元，同比增长20%，预期13.92万亿美元。
-第一季度调整后每股收益12.53美元，去年同期为11.30美元，预期11.48美元。
-第一季度股票类净流入718.4亿美元。
-第一季度固定收益类净流入3
+- 俄媒：延长美伊停火的讨论正在进行中
+- 万斯：美伊间有很多互不信任之处　不可能“一夜之间”解决
+- 苹果官微发文提醒iPhone用户立即更新设备
+- 美国私募股权巨头KKR宣布，将通过收购可转换债券向三星SDS投资1.22万亿韩元（约合8.2亿美元）。
+- 《华尔街日报》援引美国参议员Chris Coons称，五角大楼可能会削减伊朗战争的拨款申请。
+- 伊媒：伊美或重返伊斯兰堡继续谈判
+- 特朗普称伊朗战事“接近结束”
+- 华尔街见闻早餐 | 2026年4月15日
+- 知情人士称，美国检察官皮罗办公室的检察官突访美联储总部，视察翻新工地现场。（华尔街日报）
+- 美媒：若美伊重返谈判桌，万斯将再次率团
+- 战争导致供应中断，英国首相、荷兰首相会见能源领袖
+- 欧洲加速制定美国退出情况下的北约替代方案。（华尔街日报）
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 巴基斯坦呼吁美伊停火延长45天
-- 美国财长贝森特：美国在降息之前应“观望并等待”；有信心近期的价格上涨不会“植入通胀预期之中”。（美国财经媒体Semafor）
-- 亚马逊据称接近收购GlobalStar，试图与星链竞争。（彭博）
-- 斯塔默：英法将组织召开霍尔木兹海峡航运安全会议
-- 美能源部长：霍尔木兹海峡通航前 美国能源将持续涨价
-- 军事专家：美军难以控制霍尔木兹海峡 或被拖入持久战
-- 美媒：沙特施压美国放弃封锁霍尔木兹海峡
-- 美国务卿将主持以黎大使会谈 讨论停火可能性等议题
-- 摩根大通和摩根士丹利建议抓住机会低吸买盘，称美企盈利仍具韧性。
-- 花旗集团表示，即便霍尔木兹海峡供应若长期中断将导致油价升向每桶100美元，如今全球经济也比以往更有能力吸收石油冲击，因为家庭和企业的抗压能力增强，使得全球经济陷入衰退的门槛提高。
+- 白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。
+- 瑞生（Latham & Watkins）主席兼管理合伙人Rich Trobman：我为我们以自律、专注和驱动力执行战略的方式感到无比自豪，全所上下继续保持着强劲的发展势头。
+对我们而言，目标始终是打造一个完全不同的平台：一个高度集成、规模化
+- 全球营收第二大律所斩获83亿美元收入，创历史新高
+- 文件显示，意大利能源巨头埃尼集团Eni在委内瑞拉装载重油货物，将运送到欧洲。（路透）
+- 行业周报：美国上周API原油库存增超600万桶
+- 白宫顾问哈塞特：美国民众的实际收入增速非常高。
+相信今年经济将保持强劲增速。
+预计今年肯定能实现4%的增长。
+- 纳斯达克网络安全ETF收跌0.63%，ETFMG网络安全ETF跌1.08%，整体高开低走，OpenAI发布网络AI模型后跌幅略微收窄。
+- Gitlab宣布，与谷歌云合作。
+- 英国财政大臣Reeves提议，未来四年的国防开支增幅不超过100亿英镑。（泰晤士报）
+- 美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。
+“超大”市值科技股指数涨2.73%，报391.92点。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- China hits out at ‘dangerous and irresponsible’ US blockade of Iran’s ports
-- China says open Hormuz key to global interests as Trump blockade looms
+- Russian and Chinese envoys meet in Beijing to discuss Iran, Ukraine and Taiwan
+- Trump-Xi summit shaped by uncertainty, not strategy: experts
 - Diplomacy
-- Exclusive | EU to cut funding for Chinese inverters amid change of tack towards Beijing
-- China Economy
-- Kazakh sovereign fund issues Central Asia’s first panda bond in ‘milestone’ sale
-- Education
-- Public universities admit 65 non-local DSE pupils last year, a fivefold jump since 2022
+- Is the US trying to pressure China with Hormuz blockade?
+- Global Economy
+- Which countries are most vulnerable as US imposes Persian Gulf blockade?
+- Society
+- Call to check tech trends when drafting policies after basketball betting U-turn
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Beijing says American move will ‘inflame tensions, escalate the situation and undermine an already fragile ceasefire’.
-- Without fanfare, Brussels will stop funding for projects that use the Chinese-made devices as part of a ‘do more, say less’ strategy.
-- Samruk-Kazyna chairman says issuance marks ‘an important milestone in strengthening the strategic partnership between Kazakhstan and China’.
-- By contrast, number of local DSE candidates who qualified for Hong Kong public universities fell by 5 per cent over same period, Education Bureau says.
-- Chinese team shows quantum tech can disrupt AI in a real-world task
-- Xi calls on Spain to jointly resist ‘law of the jungle’ in a turbulent world
-- Chinese leader meets visiting Spanish PM who is in Beijing looking to strengthen bilateral ties amid tensions with US.
-- Tech Trends
-- China’s Dishan Technology nears 2nm AI chip breakthrough, reports say
-- The Shanghai-based start-up says its chip design is likely to improve energy efficiency by 40 per cent compared with its predecessor.
+- Chinese readout warns of rising turmoil in veiled swipe at Washington and Trump as Beijing strengthens ties with Moscow.
+- Speculation has been circulating that Washington’s aim is to force Beijing to put pressure on Tehran to strike a peace deal.
+- Nomura says more than 90 per cent of the crude oil imported by Japan and the Philippines comes from the Middle East.
+- Development of technology is faster than the pace of legislation, ex-lawmaker notes.
+- After ‘wonderful’ talks with Lebanon, Israel envoy says more dialogue coming
+- Sides commit to more engagement as Trump urges disarming Hezbollah, but analysts warn a durable Israel-Lebanon deal remains unlikel.
+- Banking & Finance
+- From renters to owners: how mainland buyers are reshaping the Hong Kong market
+- Mainland buyers return in force as a stronger yuan, talent inflows and demand for new homes lift Hong Kong’s property market.
+- Lifestyle & Culture
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 绩前传趁高配股抽水50亿美元，宁德时代股价曾跌逾半成
+- 行业高景气迭加政策利好，赣锋天齐六连升仍可追入？
 - 3月新贷2.99万亿逊预期 M2增速放缓至8.5%
-- 匈牙利大选 在野党夺逾三分二议席
+- 油价续波动 澳航燃料支出高预期32%
 - 出口骤降未为忧，进口激增或非福
 - 指数环球商品外汇
 - 国金观点
@@ -232,15 +223,15 @@
 （抓取失败: curl exit 0, len=498）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 美国关税: 华尔街见闻 (简中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
 - 加密货币: Yahoo Finance (EN)
 - 就业数据: Yahoo Finance (EN)
+- 美联储: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
