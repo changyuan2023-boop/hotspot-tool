@@ -3,27 +3,35 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Netflix to report earnings after price hike, failed Warner Bros. bid | Live Nation illegally monopolized live events, jury says | Most tariff refunds facing denial if importers don't opt in
-  - 其他: US stock futures rise after record closes, Q1 earnings roll in | Trump's $1.5 trillion Pentagon budget raises some GOP eyebrows | Avis's 200% surge lures new shorts eyeing trip 'back to reality' | TSMC set to post 50% quarterly profit jump, extend record earnings on insatiable AI demand | Pentagon approaches automakers, manufacturers to boost weapons production, WSJ reports
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 30m | Stock futures hold near records as bets on Iran truce grow | Musk asks suppliers to move at 'light speed' on chipmaking plan | Strong ASML, TSMC forecasts signal AI spending boom is intact
+  - 其他: It's our 'Long Island AI' era as Allbirds goes full in on pivot | Some companies are pulling back on hiring thanks to AI | Netflix earnings on deck: Price hike, failed WBD bid in focus | Louis Vuitton, Gucci, Hermes luxury sales decline as Iran war hits crucial Middle East demand | PepsiCo may be leaving behind $7 Doritos with price cuts
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Tesla Launches FSD Streaks: Is Self-Driving Software Being 'Gamified?' | Anthropic's $800 Billion Buzz Threatens To Dethrone OpenAI | Ford CEO Draws Line In Sand: Keep Chinese EVs Out Of US – 'Should Not Let Them Into Our Country' | Voyager Technologies Stock Surges After The Close: Here's Why | Ticketmaster, Live Nation Has Illegal Monopoly Over Concert Venues, Jury Finds
+  - 其他: Gold Advances As Iran Truce Hopes Weigh On Dollar And Bond Yields— Is $5,000 Back in Play? | Dell To Rally More Than 21%? Here Are 10 Top Analyst Forecasts For Thursday | What's Going On With CBRE Group Stock Thursday? | Wall Street's Most Accurate Analysts Weigh In On 3 Industrials Stocks With Over 3% Dividend Yields | Circle CEO Flags 'Tremendous Opportunity' For Yuan Stablecoin
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 巴基斯坦总理重申致力于推动美伊达成持久和平协议 | 烧烤季热度上升，美国肉牛价格飙升至历史新高 | 白宫预算局长在证词中拒绝估算发动美伊战争的成本 | 中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链 | 华尔街见闻早餐 | 2026年4月16日 | 杜克能源公司寻求提高美国北卡的电价，以收回冬季电力成本 | 白宫将敦促油气公司首席执行官们增加钻探。
-白宫将于周四在电话会议中与美国石油高管进行对话。（Politico） | 理想汽车发年终奖了，有部门全员无年终奖
-  - 其他: 周三（4月15日），美股行业ETF涨跌各异，网络股指数ETF收涨2.16%，科技行业ETF涨1.60%，可选消费ETF、全球科技股指数ETF至少涨1.28%。
-区域银行ETF则跌0.17%，能源业ETF跌0.34%，医疗业ETF跌0.71% | 标普500指数的11个板块多数收跌，原材料板块收跌1.3%，工业板块跌1.24%，能源板块跌0.28%，电信、可选消费板块则至多收涨1.37%，信息技术/科技板块涨2.08%。 | 欧盟委员会初步认定元宇宙平台公司调整政策后仍违规 | 福特电动汽车负责人因公司启动新一轮重组离职 | 报道：超大规模IPO临近，SpaceX计划邀请大额投资者实地考察
+  - 头版/首屏: 黎巴嫩总统：不会与以色列总理通话 | 美国军方公告：扩大对伊朗航运封锁范围，涵盖军火、武器等违禁品。
+违禁品还包括石油、精炼产品、铁、钢、铝。
+被怀疑向伊朗运送违禁品的船只，无论位置如何，都将被行使“交战权利进行登船检查和扣押”。 | 雅培第一季度调整后每股收益为1.15美元，市场预期为1.15美元
+预计第二季度调整后每股收益为1.25至1.31美元，市场预期为1.37美元。 | 嘉信理财（Schwab）第一季度净新增资产为1399亿美元，预估为1234.9亿美元。 | 伊朗恢复部分国际互联网服务 | 京东发布具身数据全链路基础设施 | 伊朗议会议长卡利巴夫：在黎巴嫩停火与在伊朗停火同样重要。 | 台积电美股盘前跌近3%，此前公布了一季度财报。
+  - 其他: 台积电：客户对前景持乐观态度。
+我们必须加快无尘室建设和设备采购。
+建设新厂房需要2到3年。
+我们正在努力确保能够满足客户需求。 | 台积电：预计中东危机可能影响公司盈利能力。
+氦气和氢气采购来自多个地区。
+预计短期内原材料供应不会受到影响。 | 台积电美股夜盘涨近2%，第一季度净利润超市场预期。 | 台积电第一季度净利润5,725亿元台币，同比增长58%，预估5,423.8亿元台币。
+第一季度营业利润6,589.7亿元台币，同比增长62%，预估6,238.2亿元台币。
+第一季度销售额1.13万亿元台币，同比增长35%，预估1.12万亿元 | 早间要闻汇总
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Record-setting Canton Fair under Middle East cloud as costs hit China’s exports | ‘Cancelling orders’ in China: Hormuz oil crisis hits transport and manufacturing | Diplomacy | US warns of China’s ‘invasion rehearsals’ as Trump seeks record military budget | Science | China doubles ‘AI for science’ computing scale in 2 months using no US chips | Hong Kong Economy | Are special laws a quick fix for speeding up Hong Kong’s Northern Metropolis?
-  - 其他: Manufacturers and buyers offer on-the-ground perspectives at China’s largest trade exhibition, swapping stories and predictions amid massive turnout. | Washington puts spotlight on Beijing’s Taiwan, space operations during hearing on US military’s combat readiness for next year. | The Zhengzhou core node becomes the country’s most powerful scientific intelligent computing infrastructure, CCTV says. | Syncing megaproject with key infrastructure and turning it into a ‘living laboratory’ are equally important to its success, tech experts say. | Trump says the Iran war is ‘close to over’. Is he just out of options?
+  - 头版/首屏: Geopolitics to drive Hong Kong mining fundraising amid ‘supercycle’, experts say | China’s Zijin Mining clinches US$2.6b Chifeng Gold takeover in expansion drive | Diplomacy | China says embassy intrusion, bomb threat are among ‘grave violations’ in Japan | China Economy | China fast-tracks hydrogen strategy to ‘scale-up’ phase to boost energy security | Markets | Hong Kong, mainland China equities see largest US investor inflows in 3 years
+  - 其他: Hong Kong could see more mining IPOs as global demand for resources accelerates, though national security issues may slow deals: experts. | Acting head of embassy lists incidents he describes as ‘a threat to the safety of Chinese diplomatic personnel and premises’. | China targets ‘bold innovation’ as falling renewable-energy costs allow it to leverage 50 per cent share of global green hydrogen production capacity. | Asia now accounts for 24 per cent of all US investors’ foreign holdings – the highest share in over a decade. | China warns travellers to avoid Seattle airport after academics denied entry to US
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 憧憬美伊重启谈判科技股造好，京东获大行唱好 | 恒大集资诈骗案 许家印当庭认罪 | 美下周一起退还关税 涉1660亿美元 | 减肥利器“地板价”，创新药新政布大局 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25947.32+75.00(+0.29%)
-                    etnet.com.hk@copyright | 国企指数8718.26+46.65(+0.54%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 宁德时代首季多赚49%获大行升目标，股价飙一成破顶 | 航空燃油价飙 国际航班大规模取消 | 美下周一起退还关税 涉1660亿美元 | 拆解首季5%增速：AI狂奔、车市骤冷、老破小抢筹 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数26394.26+446.94(+1.72%)
+                    etnet.com.hk@copyright | 国企指数8905.11+186.85(+2.14%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
@@ -34,24 +42,25 @@
 
 ## 二、跨站主题（多站出现 = 更重要）
 
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
 - **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中) (3 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 经济通 (繁中) (2 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
+- 科技股/个股（5 站）
 - 伊朗/中东局势（4 站）
-- 科技股/个股（4 站）
-- 关税/贸易政策（3 站）
-- 油价/能源（3 站）
-- 美联储/利率（3 站）
-- 中国/欧盟（3 站）
+- 油价/能源（4 站）
+- 黄金/大宗商品（4 站）
+- 中国/欧盟（4 站）
+- 关税/贸易政策（2 站）
 - 就业/经济数据（1 站）
+- 美联储/利率（1 站）
 - 中国政策（1 站）
 - 加密货币（0 站）
-- 黄金/大宗商品（0 站）

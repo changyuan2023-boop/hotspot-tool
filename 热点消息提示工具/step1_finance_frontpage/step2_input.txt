@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026041609
+抓取时间: 2026041620
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets closed
-- Netflix to report earnings after price hike, failed Warner Bros. bid
-- Live Nation illegally monopolized live events, jury says
-- Most tariff refunds facing denial if importers don't opt in
-- SpaceX plans site visits for large investors as mega-IPO nears
-- D-Wave CEO: Quantum computing is already past its ChatGPT moment
-- Phillips 66 CEO says oil supply won't snap back after Iran conflict
-- Trump threatens to fire Powell if he stays on after his term ends
+- U.S. markets open in 1h 30m
+- Stock futures hold near records as bets on Iran truce grow
+- Musk asks suppliers to move at 'light speed' on chipmaking plan
+- Strong ASML, TSMC forecasts signal AI spending boom is intact
+- US, Iran consider prolonging truce amid Hormuz deadlock
+- New retirees' top regret: Not saving more money
+- PepsiCo's sales jump after price cuts boost demand
+- S&P 500's rare bullish signal comes with a dot-com catch
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- US stock futures rise after record closes, Q1 earnings roll in
-- Trump's $1.5 trillion Pentagon budget raises some GOP eyebrows
-- Avis's 200% surge lures new shorts eyeing trip 'back to reality'
-- TSMC set to post 50% quarterly profit jump, extend record earnings on insatiable AI demand
-- Pentagon approaches automakers, manufacturers to boost weapons production, WSJ reports
-- Japan finance chief says agreed with US to intensify FX communication
-- Trump Risks Showdown With Xi Before Summit Over Hormuz Move
-- More Japanese firms say no to rate hikes as Iran war clouds outlook: Reuters poll
-- Allbirds shares soar on a very 2026 pivot to AI
-- US, Iran Weigh Truce Extension With Hormuz Still Shuttered
+- It's our 'Long Island AI' era as Allbirds goes full in on pivot
+- Some companies are pulling back on hiring thanks to AI
+- Netflix earnings on deck: Price hike, failed WBD bid in focus
+- Louis Vuitton, Gucci, Hermes luxury sales decline as Iran war hits crucial Middle East demand
+- PepsiCo may be leaving behind $7 Doritos with price cuts
+- Roche launches new Elevidys study after feedback from European regulator
+- India's Wipro unveils record buyback after slight quarterly revenue miss
+- Gold Climbs as Push for US-Iran Diplomacy Eases Inflation Risks
+- Samsung asks court to block illegal strike activities by unions
+- Google should allow third-party search engines access to data, EU says
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,74 +42,84 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Tesla Launches FSD Streaks: Is Self-Driving Software Being 'Gamified?'
-- Anthropic's $800 Billion Buzz Threatens To Dethrone OpenAI
-- Ford CEO Draws Line In Sand: Keep Chinese EVs Out Of US – 'Should Not Let Them Into Our Country'
-- Voyager Technologies Stock Surges After The Close: Here's Why
-- Ticketmaster, Live Nation Has Illegal Monopoly Over Concert Venues, Jury Finds
-- Nasdaq 100's Historical Move: Tech Stocks Log Fastest Snapback Rally In 40-Year History
+- Gold Advances As Iran Truce Hopes Weigh On Dollar And Bond Yields— Is $5,000 Back in Play?
+- Dell To Rally More Than 21%? Here Are 10 Top Analyst Forecasts For Thursday
+- What's Going On With CBRE Group Stock Thursday?
+- Wall Street's Most Accurate Analysts Weigh In On 3 Industrials Stocks With Over 3% Dividend Yields
+- Circle CEO Flags 'Tremendous Opportunity' For Yuan Stablecoin
+- Stock Market Today: Futures Tick Up After Record Day For S&P 500, Nasdaq On Growing Hopes Of Iran Deal— Allbirds, TSMC, PepsiCo In Focus
 - Jensen Huang
 - Donald Trump
-- Trump Reiterates Threat To Fire Powell If He Doesn't Step Down Once Terms Ends, Vows To Continue Fed Probe— 'I Hate To Be Controversial'
-- PepsiCo Q1 Preview: Food Changes May Please Robert Kennedy Jr. — Will Shareholders Rejoice Too?
+- Will S&P 500 Open Up Or Down On Wednesday? Potential Iran Deal Talks And Bank Earnings On Deck
+- FNB Likely To Report Higher Q1 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 巴基斯坦总理重申致力于推动美伊达成持久和平协议
-- 烧烤季热度上升，美国肉牛价格飙升至历史新高
-- 白宫预算局长在证词中拒绝估算发动美伊战争的成本
-- 中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链
-- 华尔街见闻早餐 | 2026年4月16日
-- 杜克能源公司寻求提高美国北卡的电价，以收回冬季电力成本
-- 白宫将敦促油气公司首席执行官们增加钻探。
-白宫将于周四在电话会议中与美国石油高管进行对话。（Politico）
-- 理想汽车发年终奖了，有部门全员无年终奖
-- 报道：美国向汽车制造商询问武器生产事宜
-- 摩根士丹利一季度业绩报告要点总结
-- 机构估计：美伊战争已造成高达580亿美元能源基础设施损毁
-- 报道：美国航司Spirit Airlines最早可能在本周开始清算
+- 黎巴嫩总统：不会与以色列总理通话
+- 美国军方公告：扩大对伊朗航运封锁范围，涵盖军火、武器等违禁品。
+违禁品还包括石油、精炼产品、铁、钢、铝。
+被怀疑向伊朗运送违禁品的船只，无论位置如何，都将被行使“交战权利进行登船检查和扣押”。
+- 雅培第一季度调整后每股收益为1.15美元，市场预期为1.15美元
+预计第二季度调整后每股收益为1.25至1.31美元，市场预期为1.37美元。
+- 嘉信理财（Schwab）第一季度净新增资产为1399亿美元，预估为1234.9亿美元。
+- 伊朗恢复部分国际互联网服务
+- 京东发布具身数据全链路基础设施
+- 伊朗议会议长卡利巴夫：在黎巴嫩停火与在伊朗停火同样重要。
+- 台积电美股盘前跌近3%，此前公布了一季度财报。
+- 巴基斯坦总理与卡塔尔埃米尔会面，强调缓和局势重要性
+- 伊朗副总统：绝不会屈服于任何外部势力的过度要求
+- KeyCorp第一季度营收19.5亿美元；第一季度调整后每股收益44美分，预期41美分。
+- 纽约梅隆银行第一季度调整后营收54.1亿美元，预期51.8亿美元。
+第一季度调整后每股收益2.25美元，预期1.92美元。
+纽约梅隆银行美股盘前涨1%。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 周三（4月15日），美股行业ETF涨跌各异，网络股指数ETF收涨2.16%，科技行业ETF涨1.60%，可选消费ETF、全球科技股指数ETF至少涨1.28%。
-区域银行ETF则跌0.17%，能源业ETF跌0.34%，医疗业ETF跌0.71%
-- 标普500指数的11个板块多数收跌，原材料板块收跌1.3%，工业板块跌1.24%，能源板块跌0.28%，电信、可选消费板块则至多收涨1.37%，信息技术/科技板块涨2.08%。
-- 欧盟委员会初步认定元宇宙平台公司调整政策后仍违规
-- 福特电动汽车负责人因公司启动新一轮重组离职
-- 报道：超大规模IPO临近，SpaceX计划邀请大额投资者实地考察
-- 美民主党对防长赫格塞思发起弹劾
-- 梅德韦杰夫：乌克兰在欧洲的无人机生产点是俄军“合法打击目标”
-- 美国2月长期资本净流入 585.78亿美元，前值 155亿美元。
-- 美国2月国际资本净流入 1845.02亿美元，前值 -250亿美元。
-- Carrier Global Corp.（CARR）收跌9.5%，创7月份以来最大单日跌幅。
+- 台积电：客户对前景持乐观态度。
+我们必须加快无尘室建设和设备采购。
+建设新厂房需要2到3年。
+我们正在努力确保能够满足客户需求。
+- 台积电：预计中东危机可能影响公司盈利能力。
+氦气和氢气采购来自多个地区。
+预计短期内原材料供应不会受到影响。
+- 台积电美股夜盘涨近2%，第一季度净利润超市场预期。
+- 台积电第一季度净利润5,725亿元台币，同比增长58%，预估5,423.8亿元台币。
+第一季度营业利润6,589.7亿元台币，同比增长62%，预估6,238.2亿元台币。
+第一季度销售额1.13万亿元台币，同比增长35%，预估1.12万亿元
+- 早间要闻汇总
+- 提醒：日内请重点关注（以下均为北京时间）
+- 去哪儿：今年五一假期热门三线及以下城市酒店预订量同比翻番
+- 2026年全国电影工作会议要求大力提升优质影片供给能力
+- 阿里发布世界模型HappyOyster
+- 特朗普称以黎领导人将对话
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Record-setting Canton Fair under Middle East cloud as costs hit China’s exports
-- ‘Cancelling orders’ in China: Hormuz oil crisis hits transport and manufacturing
+- Geopolitics to drive Hong Kong mining fundraising amid ‘supercycle’, experts say
+- China’s Zijin Mining clinches US$2.6b Chifeng Gold takeover in expansion drive
 - Diplomacy
-- US warns of China’s ‘invasion rehearsals’ as Trump seeks record military budget
-- Science
-- China doubles ‘AI for science’ computing scale in 2 months using no US chips
-- Hong Kong Economy
-- Are special laws a quick fix for speeding up Hong Kong’s Northern Metropolis?
+- China says embassy intrusion, bomb threat are among ‘grave violations’ in Japan
+- China Economy
+- China fast-tracks hydrogen strategy to ‘scale-up’ phase to boost energy security
+- Markets
+- Hong Kong, mainland China equities see largest US investor inflows in 3 years
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Manufacturers and buyers offer on-the-ground perspectives at China’s largest trade exhibition, swapping stories and predictions amid massive turnout.
-- Washington puts spotlight on Beijing’s Taiwan, space operations during hearing on US military’s combat readiness for next year.
-- The Zhengzhou core node becomes the country’s most powerful scientific intelligent computing infrastructure, CCTV says.
-- Syncing megaproject with key infrastructure and turning it into a ‘living laboratory’ are equally important to its success, tech experts say.
-- Trump says the Iran war is ‘close to over’. Is he just out of options?
-- Middle East
-- US cites optimism over a deal even as Iran threatens to close Red Sea shipping
-- US Treasury to end Iran oil waivers, warning China – top buyer – that banks risk secondary sanctions as American pressure intensifies.
-- China
-- Exclusive | Quad summit plan turns uneasy as India pushes ahead without top leaders: sources
+- Hong Kong could see more mining IPOs as global demand for resources accelerates, though national security issues may slow deals: experts.
+- Acting head of embassy lists incidents he describes as ‘a threat to the safety of Chinese diplomatic personnel and premises’.
+- China targets ‘bold innovation’ as falling renewable-energy costs allow it to leverage 50 per cent share of global green hydrogen production capacity.
+- Asia now accounts for 24 per cent of all US investors’ foreign holdings – the highest share in over a decade.
+- China warns travellers to avoid Seattle airport after academics denied entry to US
+- Politics
+- Chinese drone exposes Indonesia’s ‘insufficient’ undersea capabilities
+- Indonesia is likely to resolve the drone issue through ‘quiet diplomacy’ and not escalate it into a major row, analysts say.
+- Big Tech
+- TSMC targets over 30% revenue surge in 2026, ramps up capex amid AI boom
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 憧憬美伊重启谈判科技股造好，京东获大行唱好
-- 恒大集资诈骗案 许家印当庭认罪
+- 宁德时代首季多赚49%获大行升目标，股价飙一成破顶
+- 航空燃油价飙 国际航班大规模取消
 - 美下周一起退还关税 涉1660亿美元
-- 减肥利器“地板价”，创新药新政布大局
+- 拆解首季5%增速：AI狂奔、车市骤冷、老破小抢筹
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -118,9 +128,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25947.32+75.00(+0.29%)
+- 恒生指数26394.26+446.94(+1.72%)
                     etnet.com.hk@copyright
-- 国企指数8718.26+46.65(+0.54%)
+- 国企指数8905.11+186.85(+2.14%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -139,13 +149,14 @@
 - Windows
 
 --- 跨站重点主题（多站出现=更重要）---
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 就业数据: SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN), 经济通 (繁中)
+- 就业数据: Yahoo Finance (EN)
+- 美联储: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
