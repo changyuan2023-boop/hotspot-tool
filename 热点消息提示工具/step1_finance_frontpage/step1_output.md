@@ -3,25 +3,25 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Trump says deal with Iran 'looking very good' amid ceasefire | Apple, Google offer 'Nudify' apps despite policies against them | Europe faces severe jet fuel shortage
-  - 其他: Netflix stock slides after forecast disappoints | White House works to give US agencies Anthropic Mythos AI | PepsiCo CEO on $7 chips: We are committed to lower prices | IMF, World Bank say they are resuming dealings with Venezuela | California gasoline stocks fall to record lows as Hormuz disruption bites
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 31m | US stock futures climb as Israel-Lebanon agree to 10-day ceasefire | Apple's iPhone shipments in China surge 20% in Q1, data shows | Netflix stock slides after forecast disappoints
+  - 其他: Stock market notches one of its fastest turnarounds in years | Henry Paulson suggests US make a break-glass Treasuries plan | New leaders, new fund: Sequoia has raised $7B to expand its AI bets | Anthropic CEO to meet White House chief of staff amid Pentagon AI dispute, Axios reports | Factbox-Airlines cancel flights amid Middle East conflict
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Cramer Highlights Nike, Amazon, Nvidia Stock To Investors: 'Why Would You Sell It?' | Oklo CEO Says Nuclear Powers Everything 'That's Cool In Space' | Amazon, Built On Keeping Customers Inside Homes, Now Wants To Send Audiences To Movie Theaters: 'A Reason To Leave The House' | Apollo CEO Rowan Calls Private Credit Lenders Who Can't Meet 5% Redemptions 'Idiots' | How Michael Saylor's Bitcoin Buys Could Fuel A Supply Squeeze
+  - 其他: Wall Street's Most Accurate Analysts Give Their Take On 3 Tech Stocks Delivering High-Dividend Yields | Madison Air Stock Gains Premarket After Strong NYSE Debut | Is Netflix Still A Buy? Experts Dismiss 'Front-Loaded' Costs, Predict A $10 Billion Ad Goldmine | Bitcoin Holds $75,000 As Ethereum, XRP, Dogecoin Gain 2% | What's Going On With Charter Communications Stock On Friday?
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 黎军方称停火后仍有以军袭击发生 | 特朗普：美伊可能本周末谈 如达成协议或亲自去巴基斯坦签 | WTI维持日内逾1%的跌幅。特朗普称伊朗战争应该很快就会结束，重申伊朗不能拥有核武器。 | 华尔街见闻早餐 | 2026年4月17日 | 国际货币基金组织宣布与委内瑞拉恢复关系 | 据知情人士透露，国际货币基金组织（IMF）将正式接触委内瑞拉政府。（彭博） | 据知情人士透露，Wonder Group Inc.希望按110亿美元估值实施新一轮融资。（The Information） | 提醒：日内请重点关注（以下均为北京时间）
-  - 其他: Upscale AI洽谈获得20亿美元估值，该公司的投资者包括老虎环球。 | 美国总统特朗普提名Erica Schwartz为疾控中心（CDC）主任。 | 美国官员们告知欧洲多个国家：（美国和以色列发动）伊朗战争之际，推迟武器交付。（路透） | 法国财长：G7财长已准备采取行动，缓解伊朗战争的影响 | 芝加哥小麦期货涨约1.1%，大豆油张约2.5%
+  - 头版/首屏: 台积电、中芯国际等多家半导体厂商回应海外氦气供应短缺影响 | 高盛：近期股市涨势若要延续 需要央行重新转向降息 | 美国因伊朗战事或推迟向欧洲国家交付武器 | 道富银行盘前涨2.2%，此前公布的第一季度调整后每股收益超预期。 | 伊朗副外长：伊朗要求彻底结束整个地区的冲突 | 阿里云：受短信服务综合成本显著上涨影响，5月20日起调整国内短信服务产品价格 | 以防长：以黎临时停火结束后 将继续解除利塔尼河以南真主党武装 | 特斯拉准备在印度推出六座版Model Y。
+  - 其他: WTI维持日内逾1%的跌幅。特朗普称伊朗战争应该很快就会结束，重申伊朗不能拥有核武器。 | 匈牙利蒂萨党主席：“友谊”输油管道可能于下周重启 | 佩斯科夫：俄仍愿接收伊朗浓缩铀 但美方未予采纳 | 乌外长：乌方愿在土耳其与俄方举行领导人层级会晤 | 用友网络：2025年净亏损13.89亿元
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Israel and Lebanon begin 10-day ceasefire as US pushes broader deal | After ‘wonderful’ talks with Lebanon, Israel envoy says more dialogue coming | Science | Diamond coating nearly doubles Chinese AI data centre’s cooling efficiency | Diplomacy | ‘Buy what they can, steal what they can’t’: US lawmakers slam China’s AI tactics | Hong Kong Economy | Bars gearing up for bumper Hong Kong Sevens weekend
-  - 其他: Pause may ease tensions with Iran, with Trump eyeing White House talks, though doubts linger over prospects for a lasting peace deal. | Chinese scientists are combining diamond and copper, both of which are effective heat conductors, in a bid to leap the ‘thermal wall’. | US lawmakers, experts accused Beijing of buying ‘what they can’ and stealing ‘what they cannot’ from America to advance their AI technology. | Bar operators dismiss concerns that higher airfares because of Middle East war will deter rugby fans from visiting city. | Trade tensions dim foreign investment outlook in US and China, survey finds
+  - 头版/首屏: China slams Japan for sending warship through Taiwan Strait | What does Japan’s role in a US-Philippine military drill mean for Taiwan? | China Economy | China focuses on car standards to put industry in global driving seat | Science | China’s space station crew to ‘maximise opportunities’ with extra month in orbit | Society | Tai Po fire: owners’ group repeatedly complained about use of flammable materials
+  - 其他: Beijing calls move a ‘deliberate provocation’ that undermines peace and stability in the strait. | New five-year plan also emphasised importance of stronger standards in boosting Chinese manufacturers’ competitiveness. | The Shenzhou-21 astronauts were embroiled in drama last year after their probe was used in an emergency mission for the previous crew. | Former management committee chair says ‘we couldn’t find anything in Hong Kong law to justify our demands. We were very helpless.’. | Hong Kong-flagged tanker passes through Strait of Hormuz in test of US blockade
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 宁德时代首季多赚49%获大行升目标，股价飙一成破顶 | 航空燃油价飙 国际航班大规模取消 | 美下周一起退还关税 涉1660亿美元 | 拆解首季5%增速：AI狂奔、车市骤冷、老破小抢筹 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数26394.26+446.94(+1.72%)
-                    etnet.com.hk@copyright | 国企指数8905.11+186.85(+2.14%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 人形机器人半马周日开跑，机器人概念股可以怎部署？ | 内地首季GDP增5%胜预期 近3季最高 | 美续锁霍尔木兹 称拦截挂伊旗货船 | 茅台翻车，中际封神：爱“老登”还是爱“追光”？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数26160.33-233.93(-0.89%)
+                    etnet.com.hk@copyright | 国企指数8845.02-60.09(-0.67%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
@@ -32,26 +32,26 @@
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中) (4 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中), 经济通 (繁中) (2 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
+- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
 - **就业/经济数据** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
 - **加密货币** — 出现于: Benzinga (EN) (1 站)
-- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
 - **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 科技股/个股（5 站）
-- 油价/能源（4 站）
-- 伊朗/中东局势（3 站）
+- 伊朗/中东局势（5 站）
+- 科技股/个股（4 站）
+- 中国/欧盟（4 站）
+- 黄金/大宗商品（3 站）
 - 关税/贸易政策（2 站）
+- 油价/能源（2 站）
 - 就业/经济数据（2 站）
-- 中国/欧盟（2 站）
 - 加密货币（1 站）
-- 黄金/大宗商品（1 站）
 - 美联储/利率（1 站）
 - 中国政策（1 站）

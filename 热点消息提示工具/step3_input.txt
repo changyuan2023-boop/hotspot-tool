@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：早间**
-**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
+**当前模式：晚间**
+**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
 
 ---
 
@@ -25,7 +25,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`早间热点线索 · 2026年4月17日`
+`晚间热点线索 · 2026年4月17日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据），点明对哪些标的/板块的影响（涨跌方向），结尾标注核心标的代码或板块名称。`
@@ -46,15 +46,15 @@
 
 ---
 
-## 早间模式操作指令
+## 晚间模式操作指令
 
-聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
+聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
 重点关注（按重要性排序写入）：
-1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
-2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
-3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
-4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
+1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
+4. 其他值得今晚关注的美股消息
 
 ---
 
@@ -80,7 +80,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026041709
+抓取时间: 2026041720
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -88,25 +88,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets closed
-- Trump says deal with Iran 'looking very good' amid ceasefire
-- Apple, Google offer 'Nudify' apps despite policies against them
-- Europe faces severe jet fuel shortage
+- U.S. markets open in 1h 31m
 - US stock futures climb as Israel-Lebanon agree to 10-day ceasefire
-- Trump's top prediction markets regulator pledges crackdown
-- SpaceX moves up vesting schedule for employee shares before IPO
-- Mortgage rates fall to 4-week low as war worries fade
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- Apple's iPhone shipments in China surge 20% in Q1, data shows
 - Netflix stock slides after forecast disappoints
-- White House works to give US agencies Anthropic Mythos AI
-- PepsiCo CEO on $7 chips: We are committed to lower prices
-- IMF, World Bank say they are resuming dealings with Venezuela
-- California gasoline stocks fall to record lows as Hormuz disruption bites
-- Trump Officials Urge Oil Industry to Boost Output Amid War
-- NiSource signs long-term power deal with Alphabet, expands Amazon agreement
-- Netflix chairman and co-founder to step down from board in June
-- Google, CoreWeave Fuel AI Funding Frenzy With $6.7 Billion Bonds
-- Madison Air Jumps After Biggest US Industrial IPO Since 1999
+- As commodities reshape geopolitics, currency pecking order gets a reset
+- The stock market's big breakout still needs an under-the-hood check
+- Could United and American airlines really merge?
+- Wall Street turns gloomy on the dollar
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- Stock market notches one of its fastest turnarounds in years
+- Henry Paulson suggests US make a break-glass Treasuries plan
+- New leaders, new fund: Sequoia has raised $7B to expand its AI bets
+- Anthropic CEO to meet White House chief of staff amid Pentagon AI dispute, Axios reports
+- Factbox-Airlines cancel flights amid Middle East conflict
+- Siemens plans shareholder vote on Siemens Healthineers spin-off in February 2027
+- US equity funds extend inflows on Iran de-escalation hopes
+- Yield Bets Pay Off for Traders Willing to Tune Out War Risks
+- Ally Earnings Top Estimates With Auto-Loan Demand Staying Strong
+- Goldman Warns Continued Market Recovery Hinges on Rates Relief
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -121,73 +121,72 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Cramer Highlights Nike, Amazon, Nvidia Stock To Investors: 'Why Would You Sell It?'
-- Oklo CEO Says Nuclear Powers Everything 'That's Cool In Space'
-- Amazon, Built On Keeping Customers Inside Homes, Now Wants To Send Audiences To Movie Theaters: 'A Reason To Leave The House'
-- Apollo CEO Rowan Calls Private Credit Lenders Who Can't Meet 5% Redemptions 'Idiots'
-- How Michael Saylor's Bitcoin Buys Could Fuel A Supply Squeeze
-- Employment 'Apocalypse' Fears Are Overblown, Scale AI CEO Says
+- Wall Street's Most Accurate Analysts Give Their Take On 3 Tech Stocks Delivering High-Dividend Yields
+- Madison Air Stock Gains Premarket After Strong NYSE Debut
+- Is Netflix Still A Buy? Experts Dismiss 'Front-Loaded' Costs, Predict A $10 Billion Ad Goldmine
+- Bitcoin Holds $75,000 As Ethereum, XRP, Dogecoin Gain 2%
+- What's Going On With Charter Communications Stock On Friday?
+- Stock Market Today: Wall Street Set To Extend Rally As Trump Says Iran War Should End 'Pretty Soon'— Netflix, State Street, Truist Financial In Focus
 - Jensen Huang
 - Donald Trump
-- Netflix Beats Q1 Earnings, Shares Slide On Soft Guidance, Co-Founder Exit
-- Wall Street Hits New Records, Oil Surges On Hormuz Toll Drama: What's Moving Markets Thursday?
+- Bitcoin, Ethereum Flat, XRP, Dogecoin Gain Amid Trump's 'Nuclear Dust' Claim, Lebanon Ceasefire: Analyst Says BTC In For 'Good' Q2
+- Top 2 Health Care Stocks That May Fall Off A Cliff In Q2
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 黎军方称停火后仍有以军袭击发生
-- 特朗普：美伊可能本周末谈 如达成协议或亲自去巴基斯坦签
-- WTI维持日内逾1%的跌幅。特朗普称伊朗战争应该很快就会结束，重申伊朗不能拥有核武器。
-- 华尔街见闻早餐 | 2026年4月17日
-- 国际货币基金组织宣布与委内瑞拉恢复关系
-- 据知情人士透露，国际货币基金组织（IMF）将正式接触委内瑞拉政府。（彭博）
-- 据知情人士透露，Wonder Group Inc.希望按110亿美元估值实施新一轮融资。（The Information）
-- 提醒：日内请重点关注（以下均为北京时间）
-- 美国国务卿卢比奥与英国官员Cooper谈论霍尔木兹海峡问题。
-- 美国前财长保尔森：建议美国制定美债“打破玻璃”紧急预案
-- 美财长贝森特承诺支持日本推进投资审查机制
-- 淡水河谷：阿曼Pellet工厂将于三季度末之前恢复运营。
+- 台积电、中芯国际等多家半导体厂商回应海外氦气供应短缺影响
+- 高盛：近期股市涨势若要延续 需要央行重新转向降息
+- 美国因伊朗战事或推迟向欧洲国家交付武器
+- 道富银行盘前涨2.2%，此前公布的第一季度调整后每股收益超预期。
+- 伊朗副外长：伊朗要求彻底结束整个地区的冲突
+- 阿里云：受短信服务综合成本显著上涨影响，5月20日起调整国内短信服务产品价格
+- 以防长：以黎临时停火结束后 将继续解除利塔尼河以南真主党武装
+- 特斯拉准备在印度推出六座版Model Y。
+- 雷军：5年内不会造房车和卡车
+- Xiaomi miclaw通过首批中国信通院可信AI手机端智能助手（Claw）评测
+- 英媒：至少有8艘船突破美方针对伊朗港口的封锁
+- 伊朗军队总司令：时刻扣住扳机迎击敌人
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Upscale AI洽谈获得20亿美元估值，该公司的投资者包括老虎环球。
-- 美国总统特朗普提名Erica Schwartz为疾控中心（CDC）主任。
-- 美国官员们告知欧洲多个国家：（美国和以色列发动）伊朗战争之际，推迟武器交付。（路透）
-- 法国财长：G7财长已准备采取行动，缓解伊朗战争的影响
-- 芝加哥小麦期货涨约1.1%，大豆油张约2.5%
-- 欧洲央行管委Dolenc：能源价格下跌可能让加息变得没必要。
-欧洲现在更加接近央行基准假设，而不是接近假设的糟糕场景。（彭博）
-- 美国投资公司协会（ICI）：美国货币市场资产缩水1758.1万亿美元，创历史上最大降幅，至7.64万亿美元。
-- 报道：特朗普能源主管将与各CEO们就美伊战争举行电话会议
-- 美国执法部门突击搜查休斯顿燃料贸易商Ikon Midstream办公室
-- OpenAI推出旨在药物研发的新AI模型，向谷歌发起挑战
+- WTI维持日内逾1%的跌幅。特朗普称伊朗战争应该很快就会结束，重申伊朗不能拥有核武器。
+- 匈牙利蒂萨党主席：“友谊”输油管道可能于下周重启
+- 佩斯科夫：俄仍愿接收伊朗浓缩铀 但美方未予采纳
+- 乌外长：乌方愿在土耳其与俄方举行领导人层级会晤
+- 用友网络：2025年净亏损13.89亿元
+- 北证50指数基金规模上限将提升
+- 浪潮软件：2025年净利润为亏损2.67亿元，上年同期盈利1362.7万元
+- 人社部：截至2025年年底全国职业年金基金投资运营规模3.78万亿元
+- 涉及环境监测、食品检验、机动车检验等，28家机构涉嫌违法违规
+- 证监会：将境内子公司开展的金融业务全部收归期货公司经营，强化股东、实际控制人的监管
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Israel and Lebanon begin 10-day ceasefire as US pushes broader deal
-- After ‘wonderful’ talks with Lebanon, Israel envoy says more dialogue coming
+- China slams Japan for sending warship through Taiwan Strait
+- What does Japan’s role in a US-Philippine military drill mean for Taiwan?
+- China Economy
+- China focuses on car standards to put industry in global driving seat
 - Science
-- Diamond coating nearly doubles Chinese AI data centre’s cooling efficiency
-- Diplomacy
-- ‘Buy what they can, steal what they can’t’: US lawmakers slam China’s AI tactics
-- Hong Kong Economy
-- Bars gearing up for bumper Hong Kong Sevens weekend
+- China’s space station crew to ‘maximise opportunities’ with extra month in orbit
+- Society
+- Tai Po fire: owners’ group repeatedly complained about use of flammable materials
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Pause may ease tensions with Iran, with Trump eyeing White House talks, though doubts linger over prospects for a lasting peace deal.
-- Chinese scientists are combining diamond and copper, both of which are effective heat conductors, in a bid to leap the ‘thermal wall’.
-- US lawmakers, experts accused Beijing of buying ‘what they can’ and stealing ‘what they cannot’ from America to advance their AI technology.
-- Bar operators dismiss concerns that higher airfares because of Middle East war will deter rugby fans from visiting city.
-- Trade tensions dim foreign investment outlook in US and China, survey finds
-- Rugby
-- Cathay/HSBC Hong Kong Sevens event planner: your guide to the ultimate sports party
-- From Hong Kong’s men and women tackling the Melrose Claymores competition, to K-pop and Eurodance, there’s something for everyone.
-- Economy, Trade & Business
-- Why biggest threat to US’ global dollar dominance may well be Washington itself
+- Beijing calls move a ‘deliberate provocation’ that undermines peace and stability in the strait.
+- New five-year plan also emphasised importance of stronger standards in boosting Chinese manufacturers’ competitiveness.
+- The Shenzhou-21 astronauts were embroiled in drama last year after their probe was used in an emergency mission for the previous crew.
+- Former management committee chair says ‘we couldn’t find anything in Hong Kong law to justify our demands. We were very helpless.’.
+- Hong Kong-flagged tanker passes through Strait of Hormuz in test of US blockade
+- Diplomacy
+- China complains of ‘harassment’ from New Zealand aerial patrols near coastline
+- Beijing said the plane had been operating over the Yellow and East China Seas and urged Wellington not to put civilian aircraft in danger.
+- Policy
+- Chinese platforms fined 3.6b yuan over ‘ghost’ takeaways amid cutthroat rivalry
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 宁德时代首季多赚49%获大行升目标，股价飙一成破顶
-- 航空燃油价飙 国际航班大规模取消
-- 美下周一起退还关税 涉1660亿美元
-- 拆解首季5%增速：AI狂奔、车市骤冷、老破小抢筹
+- 人形机器人半马周日开跑，机器人概念股可以怎部署？
+- 内地首季GDP增5%胜预期 近3季最高
+- 美续锁霍尔木兹 称拦截挂伊旗货船
+- 茅台翻车，中际封神：爱“老登”还是爱“追光”？
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -196,9 +195,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数26394.26+446.94(+1.72%)
+- 恒生指数26160.33-233.93(-0.89%)
                     etnet.com.hk@copyright
-- 国企指数8905.11+186.85(+2.14%)
+- 国企指数8845.02-60.09(-0.67%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -217,14 +216,14 @@
 - Windows
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: 华尔街见闻 (简中), 经济通 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 美国关税: 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: 华尔街见闻 (简中), SCMP (EN/中)
 - 就业数据: Benzinga (EN), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
 - 加密货币: Benzinga (EN)
-- 黄金/大宗: 华尔街见闻 (简中)
 - 美联储: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
