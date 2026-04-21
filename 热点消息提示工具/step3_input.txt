@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：早间**
-**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
+**当前模式：晚间**
+**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
 
 ---
 
@@ -25,16 +25,24 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`早间热点线索 · 2026年4月21日`
+`晚间热点线索 · 2026年4月21日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据），点明对哪些标的/板块的影响（涨跌方向），结尾标注核心标的代码或板块名称。`
 
-**条目排列顺序（从上到下）：**
+**条目排列顺序（从上到下，严格遵守）：**
 1. 宏观/政策（关税、地缘冲突、重大政策、美联储——仅限资讯来源中有明确内容时）
-2. 科技股相关（七大科技股及半导体/AI板块）
-3. 其他板块与个股（能源、医药、消费等）
-4. 其他值得关注的消息
+2. **大盘与板块概览**（见下方"强制合并规则"）
+3. 科技股相关（七大科技股及半导体/AI板块）
+4. 其他板块与个股（能源、医药、消费等）
+5. 其他值得关注的消息
+
+**强制合并规则——大盘与板块概览：**
+以下类型的消息**必须合并为一条**，不得拆成多条：
+- 主要指数涨跌（标普500、纳斯达克100、道指、中概股指数、恒生指数等）
+- 行业/板块 ETF 涨跌、板块分化
+- 国债收益率、汇率的有意义变动
+合并后以"大盘与板块概览"为主题，放在宏观之后、科技股之前。若当日来源中这类信息很少或均为"持平/无变化"，可不写此条。
 
 要求：
 - **全文使用中文**，无论资讯来源是英文还是中文，一律用中文概括
@@ -46,15 +54,15 @@
 
 ---
 
-## 早间模式操作指令
+## 晚间模式操作指令
 
-聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
+聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
 重点关注（按重要性排序写入）：
-1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
-2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
-3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
-4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
+1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
+4. 其他值得今晚关注的美股消息
 
 ---
 
@@ -66,11 +74,14 @@
 - 个股异动 5% 以上 + 有明确原因
 - 行业板块整体联动（多股同向）
 
-不要写：
+不要写（以下三类直接删除，不得保留，不得自行补写原因）：
 - 泛泛的市场情绪描述
 - 没有标的的宏观背景铺垫
 - 已持续多日的旧闻（除非有新进展）
 - **任何在「资讯来源」中找不到原文依据的内容**
+- **空话原因**：标题给出的"原因"若为 `Key Trading Signal` / `technical signal` / `关键交易信号` / `市场情绪` / `关注度上升` 等无具体催化剂的表述，整条删除（不要自己去猜测或补写真实原因）
+- **低股价相关性事件**：单一民事诉讼和解、普通高管行程、一般性媒体报道等历史上股价反应有限的事件不入选，除非涉及重大金额、监管后果或核心业务影响
+- **无变化的宏观数据**：指数/收益率/汇率若来源描述为"持平""无变化""微幅波动"（国债收益率日内变动<5bp、指数<0.3%、汇率<0.2%）时，不得单独成条；可并入"大盘与板块概览"但须如实写"持平"，不得夸大为"波动""影响市场情绪"
 
 ---
 
@@ -80,7 +91,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026042109
+抓取时间: 2026042120
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -88,25 +99,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets closed
-- Apple stock slips after CEO Cook announces exit plan
-- Why Apple's leadership shift is happening this September
-- US stock futures inch up amid Apple CEO change and US-Iran tensions
-- Everything we know about Apple's new CEO John Ternus
-- 7 big challenges for new Apple CEO John Ternus
+- U.S. markets open in 1h 30m
+- Stock futures rise with Iran talks, Apple CEO change in focus
+- US waits for Iran to signal it's ready for new round of talks
 - Apple investors are $4 trillion richer because of CEO Cook
-- Anthropic to spend over $100B over a decade on Amazon's cloud tech
+- Why Goldman Sachs thinks stocks will rip even higher
+- Qualcomm's best run in years barely puts a dent in brutal sell-off
+- Wall Street fears 'too much optimism' about Iran war
+- Morning Brief: Mr. Warsh goes to Washington
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Apple CEO Tim Cook steps down, Ternus to take role
-- Target stock is on fire in April. Here's why.
-- Warsh says president expressing views on rates isn't a threat
-- Snap names Doug Hott as new CFO
-- Who is John Ternus, the incoming CEO of Apple?
-- Texas environmental network plans to protest SpaceX analyst meetings
-- What is a W-2 form? How to read one and file it correctly.
-- Factbox-Who is John Ternus, Apple's new CEO?
-- Tesla settles wrongful death lawsuit over crash that killed Florida teenager
-- Labor Chief Chavez-DeRemer Leaving Cabinet Amid Investigation
+- 7 big challenges for new Apple CEO John Ternus
+- UnitedHealth ups profit forecast after Q1 earnings beat
+- Money worries are hurting Americans' health
+- Sam Bankman-Fried says bitcoin creator Satoshi Nakamoto could be Paul Le Roux in 2021 interview
+- Quest Diagnostics raises full-year forecast, posts strong quarter on testing demand
+- Goldman Sachs warns US consumers could have a challenging few months
+- Danaher beats first-quarter profit estimates on strong bioprocessing demand
+- RTX lifts profit, revenue forecasts amid strong demand for weapons
+- Apple's post-Cook future hinges on whether Ternus can ignite AI growth
+- Pompliano's Procap, Kalshi launch prediction market research for investors
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -121,74 +132,76 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Tim Cook's Apple CEO Exit Is Finally Here — And It Changes Everything
-- Trump Labor Secretary Lori Chavez-DeRemer Resigns During Misconduct Probe, Third Cabinet Exit
-- Meet John Ternus: Tim Cook's Successor — And What Could Be Next For Apple
-- Eminent Financial Writer Sam Ro On Investing: I Took No Pleasure In That
-- Apple CEO Tim Cook To Step Down In September, John Ternus Will Take Over
+- Arrowhead Pharmaceuticals To Rally Over 44%? Here Are 10 Top Analyst Forecasts For Tuesday
+- Gold Slump Fails To Deter Betting On Currency Debasement
+- What's Going With Energy Focus Stock On Tuesday?
+- Reddit Co-Founder Alexis Ohanian Calls Sports The 'Last One Standing' That AI Cannot Replace: 'Folks Are Finally Starting...'
+- Why Wall Street Is Betting Big On Apple's New 'Hardware Guy' CEO
+- Stock Market Today: Dow Jones, S&P 500 Futures Edge Higher With Eyes On Iran Talks—Apple, UnitedHealth, 3M In Focus
 - Elon Musk
 - Donald Trump
-- 5 Defense Stocks In Focus With Earnings This Week: War Premium Meets Wall Street Expectations
-- This Week's Wolf Pick - ON Semiconductor; ON Gets 11x More Silicon Per Nvidia Rack
-- Credo Technology Shares Climb 6% After Key Trading Signal
+- Cathie Wood's ARK Invest Backs SpaceX's $1.75 Trillion Valuation Ahead Of IPO: 'Grounded In Plausible…'
+- Wall Street's Most Accurate Analysts Spotlight On 3 Real Estate Stocks Delivering High-Dividend Yields
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 墨西哥总统要求调查美墨官员车祸死亡事故
-- 美媒：美国副总统万斯21日前往巴基斯坦
-- 黎以第二轮大使会谈前 美驻黎大使先行会见黎总统及议长
-- 巴基斯坦高官：有信心促成伊朗参加谈判
-- 特朗普连发4帖辩解对伊动武，抨击民主党和“假新闻”
-- 日经225指数高开0.4%，韩国首尔综指高开1.3%。
-- 马斯克缺席法国检方听证会
-- 报道：英国计划将风电场纳入新补贴体系以削减成本
-- 华尔街见闻早餐 | 2026年4月21日
-- 美国海关启动第一阶段关税退款
-- 美军三个航母打击群或将同时部署中东
-- 美国贸易办公室：美国和墨西哥将于5月25日当周启动USMCA正式谈判
+- 伊朗方面称霍尔木兹海峡进出通道仍处于封锁状态 任何船只都无权通行
+- OpenAI正与顾问合作销售Codex。（华尔街日报）
+- 京东17.57亿摘得北京亦庄商业地 两日内24.2亿拿地
+- 特朗普称伊朗已多次违反停火协议
+- 特朗普：伊朗已多次违反停火协议。
+- 美国军方登上了无国籍受制裁的TIFANI号油轮。美国军方称在印太地区登上该船只。（彭博）
+- 特朗普敦促敦促弗吉尼亚州选民今天前往投票站，对一项将使民主党在众议院获得更多席位的重新划分选区议案投“反对”票。（彭博）
+- 特朗普称赞蒂姆·库克 并吹嘘自己帮助了苹果公司
+- 美军计划延长A10攻击机服役期
+- 3M一季度净销售额60亿元。
+经调整后每股收益2.14美元，预估2.0美元。
+3M仍预计全财年调整后总销售额约增长4%，仍预计全财年调整后有机销售额增长约3%。
+- 通用电气公司第一季度调整后每股收益1.86美元，上年同期1.49美元，预估1.60美元。
+第一季度经调整营收116.1亿美元，同比增长29%，预估106.9亿美元。
+第一季度调整后自由现金流16.6亿美元，同比增长14%，预估12.8亿美元
+- “我们不会再被蒙蔽” 美退伍军人在国会抗议对伊战争
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 周一（4月20日），美股行业ETF涨跌各异，全球航空业ETF收跌1.33%，医疗业ETF、公用事业ETF跌超0.9%，半导体ETF跌0.04%，能源业ETF、科技行业ETF、金融业ETF至多涨0.38%，银行业ETF涨0.42%。
-- 标普500指数的11个板块中，涨跌各异，电信板块收跌1.41%，保健板块跌超0.9%，可选消费板块跌超0.6%，信息技术/科技板块大致收平。
-能源、房地产、金融板块至多涨超0.3%，原材料板块涨超0.5%。
-- 周一（4月20日），彭博电动汽车价格回报指数跌0.24%，报4000.88点。
-- Fermi Inc.（FRMI）收跌18%，创12月12日以来最差单日表现。
-- Aevex Corp.（AVEX）美国IPO以来累计上涨67%。
-- 中概指数收跌超0.3%，KWEB跌超0.5%，蔚来跌约2.5%，阿里跌0.6%
-- 纳斯达克100指数收跌0.3%，半导体指数创2014年以来最长连涨天数
-- 古巴：与美国代表团会晤，要求取消能源封锁
-- 伊朗外长：将综合评估决定下一步行动方向
-- 周一（4月20日）纽约尾盘，美国10年期国债收益率持平，报4.2480%，北京时间08:07高开至4.2796%，随后持稳于4.2650%附近，21:29刷新日低至4.2431%。
-两年期美债收益率涨0.81个基点，报3.7163%；30年
+- 早间要闻汇总
+- 提醒：日内请重点关注（以下均为北京时间）
+- 据报道，SpaceX本周将在得州发射场及田纳西州数据中心举行分析师见面会，分析师见面会活动包括三天闭门会议。
+- 美空军计划将A－10“疣猪”攻击机服役期延长至2030年
+- 国际油价跌超1%，报道称伊朗将出席巴基斯坦的第二轮和平谈判
+- 美国防部：415名美军人员在对伊朗军事行动中受伤
+- 伊朗要求美国立即释放被扣押船只及人员
+- 特朗普在美国中期选举前已囤积5.5亿美元竞选资金
+- 英海事分析公司：霍尔木兹海峡单日通航量降至3艘
+- 特朗普坚称伊朗“将会谈判”
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- How China is reinforcing its ‘legal shield’ against foreign pressure
-- US lawmakers call for major crackdown on China’s alleged sanctioned oil imports
-- Diplomacy
-- US firms dash to recover tariffs paid on Chinese imports as refund system starts
-- Xi Jinping says Strait of Hormuz should be open in call with Saudi crown prince
-- Hong Kong Economy
-- Hong Kong retailers leverage scale, sourcing to offset war-driven cost pressures
-- Beyond Panama and Hormuz: 8 critical waterways under the global microscope
+- China confronts Middle East supply shock, as State Council mulls energy strategy
+- China’s trade with Iran, Gulf states plunges as Hormuz crisis hits energy flows
+- Military
+- China urges US ‘sincerity’ on Iran, warns of Japan’s nuclear ambitions
+- China Economy
+- China’s vast nuclear power sector now able to build 50 reactors at a time
+- Business
+- Hong Kong property investment soars on lower funding costs, rising demand
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- New rules take aim at sanctions and ‘long-arm jurisdiction’, and the Strait of Hormuz crisis could provide a high-stakes testing ground.
-- Companies scramble on Monday to recover illegally collected tariffs from US government as thousands rush to file claims.
-- Chinese leader says there must be an ‘immediate and comprehensive ceasefire’ and backs diplomatic solution to crisis.
-- Operator of Wellcome, Mannings, 7-Eleven and Ikea tackles crisis with key initiatives but Sa Sa warns of pressure on beauty items derived from petroleum.
+- Premier Li Qiang urges ‘bottom-line mentality’ to secure power as Beijing sees coal and Russian gas among options to offset reliance on imported crude.
+- Beijing also outlines progress in disarmament and its long-standing policies in first such report since 2021.
+- China has more reactors under construction than the rest of the world combined, as it aims to become a global leader in nuclear power.
+- Hong Kong’s commercial property market draws US$1.6 billion in the first quarter, driven by office, retail and hotel demand amid lower Hibor rates.
 - Trump, Iran and the Strait of Hormuz: here’s what happened overnight
-- A two-week ceasefire is about to expire, and it’s not clear if Tehran will show up for a second round of talks.
-- Middle East
-- US and Iran warn they are ready for war as Pakistan ceasefire talks in limbo
-- White House said J.D. Vance was ready to fly back to Islamabad for a second round of talks but Tehran declined to confirm it would take part.
-- Politics
+- Health & Environment
+- Big one coming? Japan issues megaquake advisory after magnitude 7.7 shock
+- The Japan Meteorological Agency has upped the risk of a megaquake to 1 per cent, compared to 0.1 per cent at other times.
+- Companies
+- Sino Land-led consortium clinches Kam Sheung Road Phase Two with US$1.7 billion
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 霍尔木兹海峡开了又关，油价大幅波动，三桶油怎部署？
-- 中国启动首个10万户级 天然气掺氢应用项目
-- 欧洲5月恐现停飞潮 势扰旅游旺季
-- 从王健林梦碎，到《再见UFO》爆冷
+- 库克卸任苹果CEO，苹概股借势回吐可趁机吸纳？
+- 4月贷款市场报价利率 连续11个月持稳
+- 日本青森7.7级地震 本周或有大余震
+- 苹果交棒“硬件派”，解港股难涨之谜
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -197,9 +210,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数26361.07+200.74(+0.77%)
+- 恒生指数26487.48+126.41(+0.48%)
                     etnet.com.hk@copyright
-- 国企指数8899.06+54.04(+0.61%)
+- 国企指数8943.54+44.48(+0.50%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -218,13 +231,14 @@
 - Windows
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 美国关税: 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: 华尔街见闻 (简中)
+- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN)
+- 加密货币: Yahoo Finance (EN)
+- 就业数据: Yahoo Finance (EN)
+- 美联储: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---

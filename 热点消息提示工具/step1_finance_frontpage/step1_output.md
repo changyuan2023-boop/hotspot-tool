@@ -3,26 +3,25 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Apple stock slips after CEO Cook announces exit plan | Why Apple's leadership shift is happening this September | US stock futures inch up amid Apple CEO change and US-Iran tensions
-  - 其他: Apple CEO Tim Cook steps down, Ternus to take role | Target stock is on fire in April. Here's why. | Warsh says president expressing views on rates isn't a threat | Snap names Doug Hott as new CFO | Who is John Ternus, the incoming CEO of Apple?
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 30m | Stock futures rise with Iran talks, Apple CEO change in focus | US waits for Iran to signal it's ready for new round of talks | Apple investors are $4 trillion richer because of CEO Cook
+  - 其他: 7 big challenges for new Apple CEO John Ternus | UnitedHealth ups profit forecast after Q1 earnings beat | Money worries are hurting Americans' health | Sam Bankman-Fried says bitcoin creator Satoshi Nakamoto could be Paul Le Roux in 2021 interview | Quest Diagnostics raises full-year forecast, posts strong quarter on testing demand
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Tim Cook's Apple CEO Exit Is Finally Here — And It Changes Everything | Trump Labor Secretary Lori Chavez-DeRemer Resigns During Misconduct Probe, Third Cabinet Exit | Meet John Ternus: Tim Cook's Successor — And What Could Be Next For Apple | Eminent Financial Writer Sam Ro On Investing: I Took No Pleasure In That | Apple CEO Tim Cook To Step Down In September, John Ternus Will Take Over
+  - 其他: Arrowhead Pharmaceuticals To Rally Over 44%? Here Are 10 Top Analyst Forecasts For Tuesday | Gold Slump Fails To Deter Betting On Currency Debasement | What's Going With Energy Focus Stock On Tuesday? | Reddit Co-Founder Alexis Ohanian Calls Sports The 'Last One Standing' That AI Cannot Replace: 'Folks Are Finally Starting...' | Why Wall Street Is Betting Big On Apple's New 'Hardware Guy' CEO
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 墨西哥总统要求调查美墨官员车祸死亡事故 | 美媒：美国副总统万斯21日前往巴基斯坦 | 黎以第二轮大使会谈前 美驻黎大使先行会见黎总统及议长 | 巴基斯坦高官：有信心促成伊朗参加谈判 | 特朗普连发4帖辩解对伊动武，抨击民主党和“假新闻” | 日经225指数高开0.4%，韩国首尔综指高开1.3%。 | 马斯克缺席法国检方听证会 | 报道：英国计划将风电场纳入新补贴体系以削减成本
-  - 其他: 周一（4月20日），美股行业ETF涨跌各异，全球航空业ETF收跌1.33%，医疗业ETF、公用事业ETF跌超0.9%，半导体ETF跌0.04%，能源业ETF、科技行业ETF、金融业ETF至多涨0.38%，银行业ETF涨0.42%。 | 标普500指数的11个板块中，涨跌各异，电信板块收跌1.41%，保健板块跌超0.9%，可选消费板块跌超0.6%，信息技术/科技板块大致收平。
-能源、房地产、金融板块至多涨超0.3%，原材料板块涨超0.5%。 | 周一（4月20日），彭博电动汽车价格回报指数跌0.24%，报4000.88点。 | Fermi Inc.（FRMI）收跌18%，创12月12日以来最差单日表现。 | Aevex Corp.（AVEX）美国IPO以来累计上涨67%。
+  - 头版/首屏: 伊朗方面称霍尔木兹海峡进出通道仍处于封锁状态 任何船只都无权通行 | OpenAI正与顾问合作销售Codex。（华尔街日报） | 京东17.57亿摘得北京亦庄商业地 两日内24.2亿拿地 | 特朗普称伊朗已多次违反停火协议 | 特朗普：伊朗已多次违反停火协议。 | 美国军方登上了无国籍受制裁的TIFANI号油轮。美国军方称在印太地区登上该船只。（彭博） | 特朗普敦促敦促弗吉尼亚州选民今天前往投票站，对一项将使民主党在众议院获得更多席位的重新划分选区议案投“反对”票。（彭博） | 特朗普称赞蒂姆·库克 并吹嘘自己帮助了苹果公司
+  - 其他: 早间要闻汇总 | 提醒：日内请重点关注（以下均为北京时间） | 据报道，SpaceX本周将在得州发射场及田纳西州数据中心举行分析师见面会，分析师见面会活动包括三天闭门会议。 | 美空军计划将A－10“疣猪”攻击机服役期延长至2030年 | 国际油价跌超1%，报道称伊朗将出席巴基斯坦的第二轮和平谈判
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: How China is reinforcing its ‘legal shield’ against foreign pressure | US lawmakers call for major crackdown on China’s alleged sanctioned oil imports | Diplomacy | US firms dash to recover tariffs paid on Chinese imports as refund system starts | Xi Jinping says Strait of Hormuz should be open in call with Saudi crown prince | Hong Kong Economy | Hong Kong retailers leverage scale, sourcing to offset war-driven cost pressures | Beyond Panama and Hormuz: 8 critical waterways under the global microscope
-  - 其他: New rules take aim at sanctions and ‘long-arm jurisdiction’, and the Strait of Hormuz crisis could provide a high-stakes testing ground. | Companies scramble on Monday to recover illegally collected tariffs from US government as thousands rush to file claims. | Chinese leader says there must be an ‘immediate and comprehensive ceasefire’ and backs diplomatic solution to crisis. | Operator of Wellcome, Mannings, 7-Eleven and Ikea tackles crisis with key initiatives but Sa Sa warns of pressure on beauty items derived from petroleum. | Trump, Iran and the Strait of Hormuz: here’s what happened overnight
+  - 头版/首屏: China confronts Middle East supply shock, as State Council mulls energy strategy | China’s trade with Iran, Gulf states plunges as Hormuz crisis hits energy flows | Military | China urges US ‘sincerity’ on Iran, warns of Japan’s nuclear ambitions | China Economy | China’s vast nuclear power sector now able to build 50 reactors at a time | Business | Hong Kong property investment soars on lower funding costs, rising demand
+  - 其他: Premier Li Qiang urges ‘bottom-line mentality’ to secure power as Beijing sees coal and Russian gas among options to offset reliance on imported crude. | Beijing also outlines progress in disarmament and its long-standing policies in first such report since 2021. | China has more reactors under construction than the rest of the world combined, as it aims to become a global leader in nuclear power. | Hong Kong’s commercial property market draws US$1.6 billion in the first quarter, driven by office, retail and hotel demand amid lower Hibor rates. | Trump, Iran and the Strait of Hormuz: here’s what happened overnight
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 霍尔木兹海峡开了又关，油价大幅波动，三桶油怎部署？ | 中国启动首个10万户级 天然气掺氢应用项目 | 欧洲5月恐现停飞潮 势扰旅游旺季 | 从王健林梦碎，到《再见UFO》爆冷 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数26361.07+200.74(+0.77%)
-                    etnet.com.hk@copyright | 国企指数8899.06+54.04(+0.61%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 库克卸任苹果CEO，苹概股借势回吐可趁机吸纳？ | 4月贷款市场报价利率 连续11个月持稳 | 日本青森7.7级地震 本周或有大余震 | 苹果交棒“硬件派”，解港股难涨之谜 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数26487.48+126.41(+0.48%)
+                    etnet.com.hk@copyright | 国企指数8943.54+44.48(+0.50%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
@@ -33,24 +32,25 @@
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **油价/能源/霍尔木兹** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (3 站)
-- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
-- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
+- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **加密货币** — 出现于: Yahoo Finance (EN) (1 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 伊朗/中东局势（4 站）
 - 科技股/个股（4 站）
-- 油价/能源（3 站）
-- 关税/贸易政策（2 站）
-- 美联储/利率（2 站）
-- 中国/欧盟（2 站）
-- 黄金/大宗商品（1 站）
+- 中国/欧盟（3 站）
+- 油价/能源（2 站）
+- 黄金/大宗商品（2 站）
+- 加密货币（1 站）
+- 就业/经济数据（1 站）
+- 美联储/利率（1 站）
 - 中国政策（1 站）
-- 加密货币（0 站）
-- 就业/经济数据（0 站）
+- 关税/贸易政策（0 站）
