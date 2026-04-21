@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 30m
+- U.S. markets open in 1h 3m
 - Stock futures rise with Iran talks, Apple CEO change in focus
 - US waits for Iran to signal it's ready for new round of talks
+- Fed confirmation: Kevin Warsh to face Senate grilling
+- Sam Bankman-Fried on his pick for bitcoin creator Satoshi
 - Apple investors are $4 trillion richer because of CEO Cook
 - Why Goldman Sachs thinks stocks will rip even higher
 - Qualcomm's best run in years barely puts a dent in brutal sell-off
-- Wall Street fears 'too much optimism' about Iran war
-- Morning Brief: Mr. Warsh goes to Washington
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - 7 big challenges for new Apple CEO John Ternus
-- UnitedHealth ups profit forecast after Q1 earnings beat
-- Money worries are hurting Americans' health
-- Sam Bankman-Fried says bitcoin creator Satoshi Nakamoto could be Paul Le Roux in 2021 interview
+- Wall Street fears 'too much optimism' about Iran war
+- Morning Brief: Mr. Warsh goes to Washington
+- Watch live: Fed chair nominee Kevin Warsh faces confirmation hearing
+- CATL launches lighter flagship battery to meet higher efficiency requirement
+- Australia's Syenta raises $26 million to ease AI chip bottleneck, former Intel CEO joins board
+- Sweden's Einride to deploy 75 electric trucks for Amazon's US freight
+- Volkswagen Group announces AI roadmap in China to equip vehicles with 'agentic AI'
 - Quest Diagnostics raises full-year forecast, posts strong quarter on testing demand
 - Goldman Sachs warns US consumers could have a challenging few months
-- Danaher beats first-quarter profit estimates on strong bioprocessing demand
-- RTX lifts profit, revenue forecasts amid strong demand for weapons
-- Apple's post-Cook future hinges on whether Ternus can ignite AI growth
-- Pompliano's Procap, Kalshi launch prediction market research for investors
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,68 +42,64 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Arrowhead Pharmaceuticals To Rally Over 44%? Here Are 10 Top Analyst Forecasts For Tuesday
-- Gold Slump Fails To Deter Betting On Currency Debasement
-- What's Going With Energy Focus Stock On Tuesday?
-- Reddit Co-Founder Alexis Ohanian Calls Sports The 'Last One Standing' That AI Cannot Replace: 'Folks Are Finally Starting...'
-- Why Wall Street Is Betting Big On Apple's New 'Hardware Guy' CEO
+- PG&E Approves Tesla Cybertruck For First-Of-Its-Kind Grid Program
+- This American Electric Power Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Tuesday
+- World Bank's Chief Has A Five-Sector Playbook For Emerging Markets— And It's Built To Survive A Trade War
+- Vicor, AXT And Other Big Stocks Moving Lower In Tuesday's Pre-Market Session
+- EXCLUSIVE: Avalon GloboCare Gets $125K Conditional Grant For Teaming With AWS For 'Agentic' AI Video Platform
 - Stock Market Today: Dow Jones, S&P 500 Futures Edge Higher With Eyes On Iran Talks—Apple, UnitedHealth, 3M In Focus
 - Elon Musk
 - Donald Trump
+- Why Is Spruce Biosciences Stock Sinking Tuesday?
 - Cathie Wood's ARK Invest Backs SpaceX's $1.75 Trillion Valuation Ahead Of IPO: 'Grounded In Plausible…'
-- Wall Street's Most Accurate Analysts Spotlight On 3 Real Estate Stocks Delivering High-Dividend Yields
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
+- 舆论认为伊朗已为战事重新爆发做好准备
+- 以色列总理再称对伊朗任务尚未结束
+- 提醒：北京时间20:30，将公布美国3月零售销售。
+- ADP：截至4月4日四周，美国私营部门就业人数平均每周增加54750人。
+- 美国参谋长联席会议主席凯恩称准备好恢复作战，可随时恢复对伊行动。（Axios）
+- 美国参议员SCOTT：沃什坚韧，身经百战。
 - 伊朗方面称霍尔木兹海峡进出通道仍处于封锁状态 任何船只都无权通行
 - OpenAI正与顾问合作销售Codex。（华尔街日报）
 - 京东17.57亿摘得北京亦庄商业地 两日内24.2亿拿地
 - 特朗普称伊朗已多次违反停火协议
 - 特朗普：伊朗已多次违反停火协议。
 - 美国军方登上了无国籍受制裁的TIFANI号油轮。美国军方称在印太地区登上该船只。（彭博）
-- 特朗普敦促敦促弗吉尼亚州选民今天前往投票站，对一项将使民主党在众议院获得更多席位的重新划分选区议案投“反对”票。（彭博）
-- 特朗普称赞蒂姆·库克 并吹嘘自己帮助了苹果公司
-- 美军计划延长A10攻击机服役期
-- 3M一季度净销售额60亿元。
-经调整后每股收益2.14美元，预估2.0美元。
-3M仍预计全财年调整后总销售额约增长4%，仍预计全财年调整后有机销售额增长约3%。
-- 通用电气公司第一季度调整后每股收益1.86美元，上年同期1.49美元，预估1.60美元。
-第一季度经调整营收116.1亿美元，同比增长29%，预估106.9亿美元。
-第一季度调整后自由现金流16.6亿美元，同比增长14%，预估12.8亿美元
-- “我们不会再被蒙蔽” 美退伍军人在国会抗议对伊战争
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- 自变量获近20亿元新融资？创始人回应：小米战投领投，感谢雷总支持
+- 伊朗最高领袖重申基本立场
+- 伊朗驻巴基斯坦大使：不会在威胁和强迫下谈判
+- 特朗普称美方从伊朗被炸核设施挖取浓缩铀“漫长且艰难”
+- 航运数据显示 又一伊朗油轮突破美国封锁后返回伊朗
+- 摩根大通上调标普500指数目标位 之前在3月份刚刚下调
 - 早间要闻汇总
 - 提醒：日内请重点关注（以下均为北京时间）
 - 据报道，SpaceX本周将在得州发射场及田纳西州数据中心举行分析师见面会，分析师见面会活动包括三天闭门会议。
 - 美空军计划将A－10“疣猪”攻击机服役期延长至2030年
-- 国际油价跌超1%，报道称伊朗将出席巴基斯坦的第二轮和平谈判
-- 美国防部：415名美军人员在对伊朗军事行动中受伤
-- 伊朗要求美国立即释放被扣押船只及人员
-- 特朗普在美国中期选举前已囤积5.5亿美元竞选资金
-- 英海事分析公司：霍尔木兹海峡单日通航量降至3艘
-- 特朗普坚称伊朗“将会谈判”
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - China confronts Middle East supply shock, as State Council mulls energy strategy
 - China’s trade with Iran, Gulf states plunges as Hormuz crisis hits energy flows
+- Science
+- Can this Chinese plasma mill grind American tech dominance to dust?
 - Military
 - China urges US ‘sincerity’ on Iran, warns of Japan’s nuclear ambitions
-- China Economy
-- China’s vast nuclear power sector now able to build 50 reactors at a time
 - Business
 - Hong Kong property investment soars on lower funding costs, rising demand
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Premier Li Qiang urges ‘bottom-line mentality’ to secure power as Beijing sees coal and Russian gas among options to offset reliance on imported crude.
+- New technology may allow the microscopic powders used in advanced weapon systems to be produced on a much larger scale.
 - Beijing also outlines progress in disarmament and its long-standing policies in first such report since 2021.
-- China has more reactors under construction than the rest of the world combined, as it aims to become a global leader in nuclear power.
 - Hong Kong’s commercial property market draws US$1.6 billion in the first quarter, driven by office, retail and hotel demand amid lower Hibor rates.
 - Trump, Iran and the Strait of Hormuz: here’s what happened overnight
-- Health & Environment
-- Big one coming? Japan issues megaquake advisory after magnitude 7.7 shock
-- The Japan Meteorological Agency has upped the risk of a megaquake to 1 per cent, compared to 0.1 per cent at other times.
-- Companies
-- Sino Land-led consortium clinches Kam Sheung Road Phase Two with US$1.7 billion
+- Policy
+- Hidden office, fractured bone: violent clashes in China’s food safety crackdown
+- Details of secrecy, obstruction and violence emerge from a probe into 67,000 ‘ghost’ bakeries across China’s biggest e-commerce platforms.
+- China Economy
+- China’s vast nuclear power sector now able to build 50 reactors at a time
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -143,11 +139,11 @@
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN)
+- 就业数据: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 加密货币: Yahoo Finance (EN)
-- 就业数据: Yahoo Finance (EN)
+- 黄金/大宗: Yahoo Finance (EN)
 - 美联储: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
