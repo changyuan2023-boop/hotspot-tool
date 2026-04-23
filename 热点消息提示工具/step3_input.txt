@@ -99,7 +99,7 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 30m
+- U.S. markets open in 1h 15m
 - Stock futures slide as Tesla slips, Iran peace push stalls
 - Netflix announces $25 billion share buyback, stock rises
 - US intercepts Iran supertankers as Tehran keeps Hormuz shut
@@ -111,13 +111,13 @@
 - Elon Musk's Optimus dream inches closer to reality
 - Intel lands Tesla as key first customer for '14A' chip tech
 - China's Xpeng expects to start delivering 'flying' cars in 2027
+- Honeywell stock drops 6% as profit forecast misses on Iran war impact
+- Roper Technologies raises 2026 profit forecast as AI demand boosts software sales
+- Tesla's $25 billion spending plan tests investor faith in unproven AI bets
 - Why Tesla investors should love this version of CEO Elon Musk
 - Huawei to invest $2.63 billion on R&D in smart driving technologies
 - Tesla's Robotaxi miles 'nearly double,' Supercharger network grows 19%, and the largest chip plant ever — 5 key updates from Tesla's earnings release
-- NextEra Energy beats first-quarter profit estimates
-- India's Infosys beats quarterly revenue view, pegs fiscal 2027 growth at 1.5%-3.5%
-- More people are turning to AI to help navigate tight finances
-- Mobileye raises annual revenue forecast on strong demand
+- Indian food delivery giant Zomato drops pricing clause after pushback, source says
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,6 +145,9 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
+- 谷歌云与CVC启动人工智能合作伙伴关系。（彭博）
+- Freeport第一季度营收62.3亿美元，预估57.6亿美元。
+第一季度调整后每股收益0.57美元，预估0.45美元。
 - 美方称拦截一艘从伊朗运输石油的油轮
 - 黑石盈利超预期 预计IPO将迎来“史上最佳年份”
 - 美国航空一季度调整后每股亏损40美分，预估每股亏损46美分。
@@ -166,12 +169,10 @@
 霍尼韦尔预计二季度调整后每股收益为2.35至2.45美元，市场预估2.56美元。
 - 特斯拉于2026年4月同意以最高20亿美元的价格收购一家未具名的AI硬件公司。（彭博）
 - 奈飞授权回购额外250亿美元股票。（彭博）
-- 腾讯汤道生：智能汽车真正比拼的，是规模化、系统化的AI落地能力
-- 好未来第四季度净营收8.024亿美元，预估7.79亿美元。
-第四季度调整后每ADS收益 0.45美元，预估0.11美元。
-第四季度毛利率53.2％，预估55.5％。
-好未来美股盘前微涨。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- 沃尔核材：第一季度净利润2.31亿元，同比下降7.63%
+- 欧盟批准对俄罗斯实施第20轮制裁
+- 双杰电气：一季度净利润2.81亿元，同比增长29615.01%
 - 香农芯创：第一季度净利润13.27亿元，同比增长7835.06%
 - 【伊朗消息人士：伊美谈判准备工作“今晚或明天”或取得突破】一名伊朗外交消息人士23日告诉俄新社，伊朗与美国在巴基斯坦谈判的准备工作可能在“今晚或明天”取得突破。(新华社)
 - 五角大楼：美国登上了受制裁的无国籍船只MAJESTIC X号。
@@ -180,29 +181,26 @@
 - 泽连斯基：仍然预计库什纳和威特科夫将访问乌克兰。
 - 海天瑞声：第一季度净利润840.3万元，同比增长2161.14%
 - 永安期货：第一季度净利润1.94亿元，同比增长506.59%
-- 深南电路：拟投46亿元建设高速高密、高多层电子电路产品项目
-- 生益电子：2025年净利润14.73亿元，同比增长343.76%
-- 中微半导：一季度净利润为5124.84万元，同比增长48.89%
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
+- Why Anthropic’s Mythos has energised China’s cybersecurity industry
+- Anthropic’s Mythos is stoking cybersecurity fears. What does it mean for China?
+- Politics
+- China must ‘strengthen education’ of Tibetan Buddhists, Beijing official says
+- Diplomacy
 - Exclusive | China’s Russia ties mean EU trade deal is off the table, Finland says
-- China’s CRRC drops bid for Lisbon metro deal as EU finds ‘billions’ in subsidies
-- Military
-- Chinese military experts take stock of US munitions weak spot exposed by Iran war
-- China Business
-- China’s premium EVs mount tech-powered challenge to BMW, Mercedes-Benz at expo
 - Hong Kong Economy
 - Henderson Land joint venture to operate Central Harbourfront Event Space
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- Following the Mythos announcement on April 7, shares of major Chinese cybersecurity firms rose for several consecutive days.
+- On inspection tour, Li Ganjie urges local authorities to promote new ‘unity’ law to ethnic minority groups.
 - Tough talk from foreign minister shows the nation could provide a de facto veto on China’s efforts to launch a deal.
-- Think tank warns that weapons shortfalls could leave American forces vulnerable in a future conflict – and Chinese observers agree.
-- 10-day show in Beijing, the world’s largest, to feature 1,451 models and exhibition area of 380,000 square metres.
 - Joint venture between property developer and YW Company beat five other bidders for prime site which hosts events such as Clockenflap and Wine and Dine Festival.
 - How fire safety failures worsened Hong Kong’s deadly inferno
-- Science
-- Can Chinese scientists bring Nasa’s ‘space spider’ dream to life?
-- Shenyang team focuses on how to produce strong structural parts efficiently, and how to connect them reliably.
+- Military
+- Chinese military experts take stock of US munitions weak spot exposed by Iran war
+- Think tank warns that weapons shortfalls could leave American forces vulnerable in a future conflict – and Chinese observers agree.
 - Business
 - PwC to pay US$128 million to Evergrande minority shareholders over audit failures
 
@@ -243,12 +241,12 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 黄金/大宗: 华尔街见闻 (简中), SCMP (EN/中)
 - 加密货币: SCMP (EN/中)
 - 就业数据: SCMP (EN/中)
+- 黄金/大宗: 华尔街见闻 (简中)
 - 美联储: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
