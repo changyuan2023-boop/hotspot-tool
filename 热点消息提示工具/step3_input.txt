@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：早间**
-**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
+**当前模式：晚间**
+**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
 
 ---
 
@@ -25,7 +25,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`早间热点线索 · 2026年4月23日`
+`晚间热点线索 · 2026年4月23日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据），点明对哪些标的/板块的影响（涨跌方向），结尾标注核心标的代码或板块名称。`
@@ -54,15 +54,15 @@
 
 ---
 
-## 早间模式操作指令
+## 晚间模式操作指令
 
-聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
+聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
 重点关注（按重要性排序写入）：
-1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
-2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
-3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
-4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
+1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
+4. 其他值得今晚关注的美股消息
 
 ---
 
@@ -91,7 +91,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026042309
+抓取时间: 2026042320
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -99,25 +99,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets closed
-- Tesla's post-earnings moves don't always reflect the bigger picture
-- Elon Musk says Optimus robots will be 'biggest product ever'
-- US stock futures slide on US-Iran uncertainty, Tesla slips after-hours
-- Elon Musk's Optimus dream inches closer to reality
-- Intel lands key first customer for '14A' chip tech with Tesla
-- Oil tops $100 as tensions in the Strait of Hormuz persist
-- Lululemon names Nike veteran Heidi O'Neill as next CEO
+- U.S. markets open in 1h 30m
+- Stock futures slide as Tesla slips, Iran peace push stalls
+- Netflix announces $25 billion share buyback, stock rises
+- US intercepts Iran supertankers as Tehran keeps Hormuz shut
+- Software stocks slide as IBM, ServiceNow revive AI fears
+- TSMC set to make smaller, faster chips without pricey ASML gear
+- CEO turnover is near record highs as veterans like Cook exit
+- AI boom lifts Nokia sales, stock hits 16-year high after earnings beat
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Tesla beats on earnings, signals massive capex push
-- IBM tops quarterly estimates on hybrid cloud growth
-- Trump administration reportedly close to a deal to rescue Spirit
-- ServiceNow flags Middle East deal delays, shares crash
-- US Says No Deadline for Iran Proposal Amid Hormuz Standoff
-- Nvidia supplier SK Hynix's Q1 profit rises five-fold to a record high on AI boom
-- How Avis's short squeeze is hijacking the Dow transports scoreboard: Chart of the Day
-- Unionised Samsung workers to hold rally in South Korea as labour unrest grows
-- Texas Instruments Soars After Data Center Demand Buoys Sales
-- Molina Healthcare beats quarterly profit estimates on controlled medical costs
+- Elon Musk's Optimus dream inches closer to reality
+- Intel lands Tesla as key first customer for '14A' chip tech
+- China's Xpeng expects to start delivering 'flying' cars in 2027
+- Why Tesla investors should love this version of CEO Elon Musk
+- Huawei to invest $2.63 billion on R&D in smart driving technologies
+- Tesla's Robotaxi miles 'nearly double,' Supercharger network grows 19%, and the largest chip plant ever — 5 key updates from Tesla's earnings release
+- NextEra Energy beats first-quarter profit estimates
+- India's Infosys beats quarterly revenue view, pegs fiscal 2027 growth at 1.5%-3.5%
+- More people are turning to AI to help navigate tight finances
+- Mobileye raises annual revenue forecast on strong demand
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -132,82 +132,87 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Tesla CapEx Spike Hits Stock As Intel Pops On Elon Musk Comments
-- Trump Approval Rating Still Underwater: Record Highs For Stock Market Not Enough To Ease Voter Concerns
-- Huntington Ingalls Joins Applied Intuition To Advance Artificial Intelligence For Warships
-- Anduril, Kraken Scale Unmanned Vessels For Naval Dominance
-- 'Horrible Bill': Yusko Says CLARITY Act Could Extend Crypto Bear Market (CORRECTED)
-- Tech Stocks Are Rallying Like It's 2002 Again: Is That A Buy Or A Sell Signal?
+- Why Is IBM Stock Sinking Thursday?
+- Alphabet Gets Street Backing As Cramer Doubles Down On $400 Target
+- Wall Street's Most Accurate Analysts Weigh In On 3 Tech And Telecom Stocks With Over 3% Dividend Yields
+- Vertiv, Northern Trust And More On CNBC's 'Final Trades'
+- EXCLUSIVE: Aduro Clean Targets Waxy Crude Bottlenecks With New US Patent Filing
+- Stock Market Today: Dow Jones, S&P 500 Futures Slide As Iran Peace Efforts Stall— Tesla, ServiceNow, Boeing In Focus
 - Donald Trump
 - Elon Musk
-- Nasdaq 100 Tops Records As Iran Ceasefire Extends, GE Vernova Soars 13%: Stock Market Today
-- EXCLUSIVE: Ryan Detrick Stays Bullish While Others Are Fearful — 'Every Year Has Bad Headlines'
+- Will S&P 500 Open Up Or Down On April 23? Here's How Traders Lean After Record Session
+- Baker Hughes Likely To Report Lower Q1 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 微软承诺投入180亿美元，用于建设澳大利亚的AI能力。
-- 国际油价短线快速冲高回落
-- 经济日报金观平：“反内卷”行业协会商会大有可为
-- 伊朗致信联合国：要求美以对袭击民用空间基础设施担责
-- SK海力士：尽管第一季度通常是季节性淡季，但由于AI基础设施投资的扩大，需求依然强劲。
-- 美媒：美军需6个月才能完成霍尔木兹海峡扫雷
-- 英伟达供应商SK海力士Q1利润增长超五倍，受益于AI芯片销售与存储价格飙升
-- 英特尔美股盘后涨3%，马斯克在电话会议上官宣采用英特14A产品技术的交易。
-- 马斯克：特斯拉打算采用英特尔的14A产品技术。
-- 马斯克透露：特斯拉Terafab项目将采用英特尔14A芯片技术，英特尔斩获关键首单
-- SK海力士一季度运营利润37.61万亿韩元，分析师预期35.7万亿韩元。
-一季度净利润40.33万亿韩元，分析师预期29.39万亿韩元。
-一季度销售52.58万亿韩元。
-预计二季度DRAM B/G季环比将出现较高的个位数百分比增幅。
-预计二
-- 马斯克表示，限制Robotaxi部署的并非安全问题，而是便利性问题。
-“有时候，车子会不敢穿过铁路道口”或者卡在红绿灯前。
-他还提到，有一批Robotaxi被困在左转车道，因为一辆Waymo“撞上了一辆巴士”。
+- 美方称拦截一艘从伊朗运输石油的油轮
+- 黑石盈利超预期 预计IPO将迎来“史上最佳年份”
+- 美国航空一季度调整后每股亏损40美分，预估每股亏损46美分。
+一季度客运收入125.0亿美元，预估124.9亿美元。
+美国航空预计二季度收入增长13.5%至16.5%。
+美国航空预计全年调整后每股亏损40美分至盈利1.10美元，市场预估每股
+- 黑石一季度每股可分配收入1.36美元，预估1.34美元。
+一季度整体收入34.3亿美元，预估33.7亿美元。
+一季度资金流入685.4亿美元，预估554.8亿美元。
+一季度私募股权资产管理规模4299.1亿美元，预估4279.7亿美元。
+一
+- 超微电脑美股盘前跌超12%。
+- 洛克希德马丁一季度净销售额180.2亿美元，预估182.4亿美元。
+第一季度每股收益为6.44 美元，而去年同期为7.28 美元。
+第一季度运营利润20.6亿美元，预估22.6亿美元。
+洛克希德马丁仍预计全年每股收益29.35至30.25美
+- 特斯拉将于6月前在德国超级工厂新增1000个工作岗位。（路透）
+- 霍尼韦尔预计二季度销售额为94亿至96亿美元，市场预估97.3亿美元。
+霍尼韦尔预计二季度调整后每股收益为2.35至2.45美元，市场预估2.56美元。
+- 特斯拉于2026年4月同意以最高20亿美元的价格收购一家未具名的AI硬件公司。（彭博）
+- 奈飞授权回购额外250亿美元股票。（彭博）
+- 腾讯汤道生：智能汽车真正比拼的，是规模化、系统化的AI落地能力
+- 好未来第四季度净营收8.024亿美元，预估7.79亿美元。
+第四季度调整后每ADS收益 0.45美元，预估0.11美元。
+第四季度毛利率53.2％，预估55.5％。
+好未来美股盘前微涨。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Zacks Investment Research分析师Andrew Rocco在一份报告中指出：特斯拉业绩报告证实，虽然传统的电动汽车业务不再快速增长，但它已足够稳定，可以为特斯拉在机器人和自动驾驶技术上的巨额投资提供资金。
-- 特斯拉利润超预期，并指出电动汽车需求正在复苏
-- 报道：特朗普特使企图寻求在世界杯中用意大利取代伊朗
-- 周三（4月22日）纽约尾盘，现货黄金涨0.41%，报4739.31美元/盎司，绝大部分时间处于上涨状态，北京时间06:50微跌至4715.72美元刷新日低，随后持续上扬，15:08刷新日高至4772.38美元，之后逐步回吐涨幅。
-COMEX
-- 周三（4月22日），美股存储芯片与硬件供应链指数涨4.27%，报144.77点，创收盘历史新高。
-信息科技指数涨2.79%，报333.55点，创收盘历史新高。
-人工智能（AI）赢家指数涨3.38%，报351.50点。
-AI软件先驱指数涨2.
-- IBM：现在来看，2026年软件营收将增长超过10%。
-- 受强劲天然气需求推动，管道运营商金德摩根第一季度利润超出预期
-- 哈塞特：如果沃什没能及时被参议院确认为美联储主席，我支持鲍威尔“看守”美联储
-- 白宫顾问哈塞特宣称：在美国和以色列挑起伊朗战争之前，美方获得关于伊朗正（谋求）获取11枚核弹的威胁。
-- 周三（4月22日），美股行业ETF多数收涨，半导体ETF涨2.62%，全球科技股指数ETF、科技行业ETF至少涨2.20%，能源业ETF涨1.20%，银行业ETF跌0.59%，全球航空业ETF跌3.25%。
+- 香农芯创：第一季度净利润13.27亿元，同比增长7835.06%
+- 【伊朗消息人士：伊美谈判准备工作“今晚或明天”或取得突破】一名伊朗外交消息人士23日告诉俄新社，伊朗与美国在巴基斯坦谈判的准备工作可能在“今晚或明天”取得突破。(新华社)
+- 五角大楼：美国登上了受制裁的无国籍船只MAJESTIC X号。
+该船只正在印度洋运输来自伊朗的石油。
+- 美国军方称扣押了一艘与伊朗有关的油轮。（美联社）
+- 泽连斯基：仍然预计库什纳和威特科夫将访问乌克兰。
+- 海天瑞声：第一季度净利润840.3万元，同比增长2161.14%
+- 永安期货：第一季度净利润1.94亿元，同比增长506.59%
+- 深南电路：拟投46亿元建设高速高密、高多层电子电路产品项目
+- 生益电子：2025年净利润14.73亿元，同比增长343.76%
+- 中微半导：一季度净利润为5124.84万元，同比增长48.89%
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- How a Chinese plastics hub shapes Tesla’s supply chain – and moulds the modern world
-- Explaining China’s supply chain security rules
-- Diplomacy
-- Iran latest: Trump has ‘no time frame’ to end war as world waits for peace talks
-- US visa system ‘rolls out red carpet’ for Chinese spies, hearing told
-- Hong Kong Economy
-- Exclusive | Travel scheme could allow Hong Kong, Macau yachts to sail to 6 bay area ports
-- As Iran talks go nowhere, will Donald Trump still go to Beijing?
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- From car components to keyboards, this little-known industrial district in eastern China is crafting the small parts the world relies on.
-- US leader sees ‘no time pressure’ on ceasefire while Iranian president says blockade, threats are ‘main obstacles to genuine negotiations’.
-- US senators pointed to legal channels, including work visas and university research, as potential pathways for China-linked espionage.
-- Guangdong provincial government document also shows several routes recommended for leisure, such as Pearl River Delta, Castle Peak Bay.
-- Science & Technology
-- Zero H200 chips sold to China ‘as of today’, Lutnick tells lawmakers
-- US commerce chief says export curbs remain under review as Washington weighs tech controls against broader ties with Beijing.
+- Exclusive | China’s Russia ties mean EU trade deal is off the table, Finland says
+- China’s CRRC drops bid for Lisbon metro deal as EU finds ‘billions’ in subsidies
+- Military
+- Chinese military experts take stock of US munitions weak spot exposed by Iran war
 - China Business
-- Asian, emerging-market funds rotate into China and Taiwan stocks: HSBC
-- Fund managers shift focus to Chinese and Taiwanese stocks, while reducing exposure to South Korea amid global market turbulence.
+- China’s premium EVs mount tech-powered challenge to BMW, Mercedes-Benz at expo
+- Hong Kong Economy
+- Henderson Land joint venture to operate Central Harbourfront Event Space
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- Tough talk from foreign minister shows the nation could provide a de facto veto on China’s efforts to launch a deal.
+- Think tank warns that weapons shortfalls could leave American forces vulnerable in a future conflict – and Chinese observers agree.
+- 10-day show in Beijing, the world’s largest, to feature 1,451 models and exhibition area of 380,000 square metres.
+- Joint venture between property developer and YW Company beat five other bidders for prime site which hosts events such as Clockenflap and Wine and Dine Festival.
+- How fire safety failures worsened Hong Kong’s deadly inferno
+- Science
+- Can Chinese scientists bring Nasa’s ‘space spider’ dream to life?
+- Shenyang team focuses on how to produce strong structural parts efficiently, and how to connect them reliably.
+- Business
+- PwC to pay US$128 million to Evergrande minority shareholders over audit failures
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 绩佳获大行唱好惟受制金价走弱，金矿股普遍下跌
-- 内地汽油价年内首降 每公升平0.44元
+- 美光游说美国会收紧对华芯片设备出口，芯片股先升后回
+- 沪指重返4100关 创指续刷11年高
 - 特朗普支持续低迷 民众忧精神状态
-- 宁王迪子“神仙打架”，减配 VS PPT藏机锋
+- 谷歌“铲+代理”发力变现，阿里“马+牡蛎”奇袭字节
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -216,9 +221,9 @@ AI软件先驱指数涨2.
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数26163.24-324.24(-1.22%)
+- 恒生指数25915.20-248.04(-0.95%)
                     etnet.com.hk@copyright
-- 国企指数8801.78-141.76(-1.59%)
+- 国企指数8732.63-69.15(-0.79%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -239,12 +244,13 @@ AI软件先驱指数涨2.
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: 华尔街见闻 (简中)
-- 加密货币: Benzinga (EN)
-- 黄金/大宗: 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 黄金/大宗: 华尔街见闻 (简中), SCMP (EN/中)
+- 加密货币: SCMP (EN/中)
+- 就业数据: SCMP (EN/中)
 - 美联储: 华尔街见闻 (简中)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
