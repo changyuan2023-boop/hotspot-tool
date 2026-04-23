@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026042220
+抓取时间: 2026042309
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 31m
-- Stock futures rise after Trump bumps truce, earnings roll in
-- Warsh set to lead Fed as a potentially major crisis looms
-- Boeing's Q1 results beat as deliveries boost turnaround
-- SpaceX seals option to buy AI startup Cursor for $60 billion
-- Bitcoin jumps to $78,000 after Trump extends Iran truce
-- Tesla earnings preview: Robotaxi rollout, mega capex spending in focus
-- Are American consumers finally cracking under the weight of $4 gas?
+- U.S. markets closed
+- Tesla's post-earnings moves don't always reflect the bigger picture
+- Elon Musk says Optimus robots will be 'biggest product ever'
+- US stock futures slide on US-Iran uncertainty, Tesla slips after-hours
+- Elon Musk's Optimus dream inches closer to reality
+- Intel lands key first customer for '14A' chip tech with Tesla
+- Oil tops $100 as tensions in the Strait of Hormuz persist
+- Lululemon names Nike veteran Heidi O'Neill as next CEO
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Best Buy taps insider Bonfig for new CEO, as Barry steps down
-- Gold recovers after two-day drop amid peace talk hopes
-- As health costs surge, CEOs may pass the bill to employees
-- Netflix's next attempt at growth takes on TikTok and Instagram Reels
-- Teledyne lifts annual profit forecast, beats quarterly estimates
-- What Apple's naming of John Ternus as CEO tells us about the future of the company
-- Tencent, Alibaba in talks to invest in DeepSeek at over $20 billion valuation, The Information reports
-- India’s Tata Communications posts quarterly revenue rise on data‑services growth
-- Societe Generale takes on more crypto firms as clients, SG-FORGE CEO says
-- Explainer-How will the EU's 90 billion euro loan to Ukraine work
+- Tesla beats on earnings, signals massive capex push
+- IBM tops quarterly estimates on hybrid cloud growth
+- Trump administration reportedly close to a deal to rescue Spirit
+- ServiceNow flags Middle East deal delays, shares crash
+- US Says No Deadline for Iran Proposal Amid Hormuz Standoff
+- Nvidia supplier SK Hynix's Q1 profit rises five-fold to a record high on AI boom
+- How Avis's short squeeze is hijacking the Dow transports scoreboard: Chart of the Day
+- Unionised Samsung workers to hold rally in South Korea as labour unrest grows
+- Texas Instruments Soars After Data Center Demand Buoys Sales
+- Molina Healthcare beats quarterly profit estimates on controlled medical costs
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,75 +42,81 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- How To Earn $500 A Month From American Express Stock Ahead Of Q1 Earnings
-- IBM Likely To Report Higher Q1 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
-- Aluminum Market Jolted By 'Black Swan' Shock As Middle East Conflict Disrupts Supply
-- Sanofi Eyes First On-Body Injector Cancer Therapy As FDA Delays Decision
-- Accenture, Vodafone, SAP Pilot Humanoid Robots In Warehouse Operation
-- Stock Market Today: Dow Jones, S&P 500 Futures Surge After Trump Extends Iran Ceasefire—Tesla, Boeing, United Airlines In Focus
-- Elon Musk
+- Tesla CapEx Spike Hits Stock As Intel Pops On Elon Musk Comments
+- Trump Approval Rating Still Underwater: Record Highs For Stock Market Not Enough To Ease Voter Concerns
+- Huntington Ingalls Joins Applied Intuition To Advance Artificial Intelligence For Warships
+- Anduril, Kraken Scale Unmanned Vessels For Naval Dominance
+- 'Horrible Bill': Yusko Says CLARITY Act Could Extend Crypto Bear Market (CORRECTED)
+- Tech Stocks Are Rallying Like It's 2002 Again: Is That A Buy Or A Sell Signal?
 - Donald Trump
-- Why Is Amneal Pharmaceuticals Stock Gaining Today?
-- John Bolton Says Trump 'Wants Out Of Iran' Due To Political Reasons And Fears Leaving The Impression He Is 'Cutting And Running'
+- Elon Musk
+- Nasdaq 100 Tops Records As Iran Ceasefire Extends, GE Vernova Soars 13%: Stock Market Today
+- EXCLUSIVE: Ryan Detrick Stays Bullish While Others Are Fearful — 'Every Year Has Bad Headlines'
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 据知情人士透露，随着美国油气巨头埃克森美孚继续在全球范围内缩减零售业务版图，该公司正在研究出售其在香港的加油站网络。（彭博）
-- Robinhood Ventures向OpenAI投资7500万美元。（纽约时报）
-- 意大利财政部长对裕信银行收购德国商业银行的交易持正面看法。（彭博）
-- 黎巴嫩总统：正在推动延长与以色列的停火。
-- 伊朗炮艇在霍尔木兹海峡向船只开火 其本国油轮闯关美国封锁
-- 波音一季度营收222.2亿美元，预估217.9亿美元。
-一季度每股亏损11美分，一季度核心每股亏损20美分。
-一季度调整后自由现金流为负14.5亿美元，预期为负26.1亿美元。
-第一季度商用飞机营收92.0亿美元，预期100.8亿美元。
-波
-- 抵押贷款利率回落 美国购房贷款申请大幅上升
-- 阿里巴巴美股盘前抹去早前跌幅，现上涨1%。
-- 腾讯控股和阿里巴巴集团就投资DeepSeek进行洽谈，后者估值超过200亿美元。（The Information）
-- 美国4月17日当周MBA抵押贷款申请活动指数周环比 7.9%，前值 1.8%。
-- 美国防部公布2027财年1.5万亿美元国防预算案细节
-- 伊朗媒体称革命卫队对一艘希腊船只采取行动
+- 微软承诺投入180亿美元，用于建设澳大利亚的AI能力。
+- 国际油价短线快速冲高回落
+- 经济日报金观平：“反内卷”行业协会商会大有可为
+- 伊朗致信联合国：要求美以对袭击民用空间基础设施担责
+- SK海力士：尽管第一季度通常是季节性淡季，但由于AI基础设施投资的扩大，需求依然强劲。
+- 美媒：美军需6个月才能完成霍尔木兹海峡扫雷
+- 英伟达供应商SK海力士Q1利润增长超五倍，受益于AI芯片销售与存储价格飙升
+- 英特尔美股盘后涨3%，马斯克在电话会议上官宣采用英特14A产品技术的交易。
+- 马斯克：特斯拉打算采用英特尔的14A产品技术。
+- 马斯克透露：特斯拉Terafab项目将采用英特尔14A芯片技术，英特尔斩获关键首单
+- SK海力士一季度运营利润37.61万亿韩元，分析师预期35.7万亿韩元。
+一季度净利润40.33万亿韩元，分析师预期29.39万亿韩元。
+一季度销售52.58万亿韩元。
+预计二季度DRAM B/G季环比将出现较高的个位数百分比增幅。
+预计二
+- 马斯克表示，限制Robotaxi部署的并非安全问题，而是便利性问题。
+“有时候，车子会不敢穿过铁路道口”或者卡在红绿灯前。
+他还提到，有一批Robotaxi被困在左转车道，因为一辆Waymo“撞上了一辆巴士”。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- OpenAI正洽谈向一家私募股权合资企业注资高达15亿美元，该合资企业估值达100亿美元，融资预计于5月初完成。（英国金融时报）
-- 伊朗称弹药补给速度“超过战前”
-- 百度联盟发布“星云计划”，全面开放百度猎户座AI引擎
-- 肯德基糖醋酱和甜辣酱将收费？门店回应：为避免食物浪费，除产品标配外，门店酌情提供
-- 美称自实施封锁以来已有28艘船只掉头或返回伊朗港口
-- 美国已暂停向伊拉克运送美元现钞，美国已冻结与伊拉克军队的安全合作项目。此举标志着美国正加大对伊拉克政府的施压力度，旨在促使其拆解伊拉克境内、由伊朗支持的民兵组织。（华尔街日报）
-- 阿里巴巴发布千问AI数字人形象“千问小酒窝”
-- 南非15周内麻疹确诊病例数破千
-- 沃什向美国参议院和外界展示改革派形象
-- 伊朗敦促联合国责令美国释放伊朗被扣货船
+- Zacks Investment Research分析师Andrew Rocco在一份报告中指出：特斯拉业绩报告证实，虽然传统的电动汽车业务不再快速增长，但它已足够稳定，可以为特斯拉在机器人和自动驾驶技术上的巨额投资提供资金。
+- 特斯拉利润超预期，并指出电动汽车需求正在复苏
+- 报道：特朗普特使企图寻求在世界杯中用意大利取代伊朗
+- 周三（4月22日）纽约尾盘，现货黄金涨0.41%，报4739.31美元/盎司，绝大部分时间处于上涨状态，北京时间06:50微跌至4715.72美元刷新日低，随后持续上扬，15:08刷新日高至4772.38美元，之后逐步回吐涨幅。
+COMEX
+- 周三（4月22日），美股存储芯片与硬件供应链指数涨4.27%，报144.77点，创收盘历史新高。
+信息科技指数涨2.79%，报333.55点，创收盘历史新高。
+人工智能（AI）赢家指数涨3.38%，报351.50点。
+AI软件先驱指数涨2.
+- IBM：现在来看，2026年软件营收将增长超过10%。
+- 受强劲天然气需求推动，管道运营商金德摩根第一季度利润超出预期
+- 哈塞特：如果沃什没能及时被参议院确认为美联储主席，我支持鲍威尔“看守”美联储
+- 白宫顾问哈塞特宣称：在美国和以色列挑起伊朗战争之前，美方获得关于伊朗正（谋求）获取11枚核弹的威胁。
+- 周三（4月22日），美股行业ETF多数收涨，半导体ETF涨2.62%，全球科技股指数ETF、科技行业ETF至少涨2.20%，能源业ETF涨1.20%，银行业ETF跌0.59%，全球航空业ETF跌3.25%。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- China to fuse software and steel with US$14tr sector to enhance manufacturing
-- Xi Jinping backs services sector to power China’s next growth phase
-- Tech
-- DeepSeek isn’t short of cash: so why has it decided to raise funds anyway?
-- China Economy
-- 2,700 China-Japan flights axed in March as rift between Asian powers deepens
-- Markets
-- Hong Kong, Malaysia exchanges to team up on ETFs, listings, Islamic finance
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Beijing is overhauling ‘producer services’ with upgrades and more specialisation to avert deindustrialisation and anchor advanced manufacturing.
-- DeepSeek is raising a small funding round not for cash, but to set a valuation benchmark and retain talent as rivals ramp up poaching.
-- Nearly half of the planned flights between China and Japan were cancelled last month, as Beijing and Tokyo remain locked in a diplomatic feud.
-- Development ‘underscores growing demand from investors for cross-border products and diversified regional exposure’, HKEX CEO says.
-- The Iran war’s unlikely winner: China’s shipyards
-- Science
-- How China’s AI carbon accounting model points the finger at the US
-- The system factors in both production and consumption, lessening the responsibility of exporters such as China.
+- How a Chinese plastics hub shapes Tesla’s supply chain – and moulds the modern world
+- Explaining China’s supply chain security rules
 - Diplomacy
-- Iran war latest: Trump’s new threat, IRGC attacks ship, fuel prices hit flights
+- Iran latest: Trump has ‘no time frame’ to end war as world waits for peace talks
+- US visa system ‘rolls out red carpet’ for Chinese spies, hearing told
+- Hong Kong Economy
+- Exclusive | Travel scheme could allow Hong Kong, Macau yachts to sail to 6 bay area ports
+- As Iran talks go nowhere, will Donald Trump still go to Beijing?
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- From car components to keyboards, this little-known industrial district in eastern China is crafting the small parts the world relies on.
+- US leader sees ‘no time pressure’ on ceasefire while Iranian president says blockade, threats are ‘main obstacles to genuine negotiations’.
+- US senators pointed to legal channels, including work visas and university research, as potential pathways for China-linked espionage.
+- Guangdong provincial government document also shows several routes recommended for leisure, such as Pearl River Delta, Castle Peak Bay.
+- Science & Technology
+- Zero H200 chips sold to China ‘as of today’, Lutnick tells lawmakers
+- US commerce chief says export curbs remain under review as Washington weighs tech controls against broader ties with Beijing.
+- China Business
+- Asian, emerging-market funds rotate into China and Taiwan stocks: HSBC
+- Fund managers shift focus to Chinese and Taiwanese stocks, while reducing exposure to South Korea amid global market turbulence.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 德昌电机料全年少赚逾两成，股价最多跌18%可博反弹？
+- 绩佳获大行唱好惟受制金价走弱，金矿股普遍下跌
 - 内地汽油价年内首降 每公升平0.44元
-- 日本通过改规则 允出口杀伤性武器
+- 特朗普支持续低迷 民众忧精神状态
 - 宁王迪子“神仙打架”，减配 VS PPT藏机锋
 - 指数环球商品外汇
 - 国金观点
@@ -143,12 +149,11 @@
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 加密货币: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中)
+- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
 - 美国关税: 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中)
+- 加密货币: Benzinga (EN)
+- 黄金/大宗: 华尔街见闻 (简中)
+- 美联储: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
