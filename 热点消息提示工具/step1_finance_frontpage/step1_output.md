@@ -3,27 +3,20 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 15m | Stock futures slide as Tesla slips, Iran peace push stalls | Netflix announces $25 billion share buyback, stock rises | US intercepts Iran supertankers as Tehran keeps Hormuz shut
-  - 其他: Elon Musk's Optimus dream inches closer to reality | Intel lands Tesla as key first customer for '14A' chip tech | China's Xpeng expects to start delivering 'flying' cars in 2027 | Honeywell stock drops 6% as profit forecast misses on Iran war impact | Roper Technologies raises 2026 profit forecast as AI demand boosts software sales
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 4m | Stock futures slide as Tesla slips, Iran peace push stalls | Netflix announces $25 billion share buyback, stock rises | US intercepts Iran supertankers as Tehran keeps Hormuz shut
+  - 其他: Why Tesla investors should love this version of CEO Elon Musk | AI boom lifts Nokia sales, stock hits 16-year high after earnings beat | Intel lands Tesla as key first customer for '14A' chip tech | American Q1 results beat, but airline sees $4 billion in added fuel costs this year | US to speed up payments for new medical devices under Medicare, FT reports
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Why Is IBM Stock Sinking Thursday? | Alphabet Gets Street Backing As Cramer Doubles Down On $400 Target | Wall Street's Most Accurate Analysts Weigh In On 3 Tech And Telecom Stocks With Over 3% Dividend Yields | Vertiv, Northern Trust And More On CNBC's 'Final Trades' | EXCLUSIVE: Aduro Clean Targets Waxy Crude Bottlenecks With New US Patent Filing
+  - 其他: 'Best 18–24 Months Ever': Tom Lee Predicts Massive Rally As BMNR Surges 7% | This Texas Instruments Analyst Turns Bullish; Here Are Top 4 Upgrades For Thursday | Bitcoin Holds Near $77,000 As Ethereum, XRP, Dogecoin Go Sideways | ASGN Posts Downbeat Q1 Results, Joins Medpace, ServiceNow And Other Big Stocks Moving Lower In Thursday's Pre-Market Session | Lindsey Graham Says Trump's Iran Oil Blockade Could Go Global, Warns Tehran Allies Of Consequences: 'At Your Own Peril'
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 谷歌云与CVC启动人工智能合作伙伴关系。（彭博） | Freeport第一季度营收62.3亿美元，预估57.6亿美元。
+  - 头版/首屏: 谷歌在阿尔卑斯山地区投资建设首个数据中心。（彭博） | 提醒：北京时间20:30，将公布美国4月18日当周首次申请失业救济人数。 | 美国司法部将医用大麻重新归类为危害性较低的毒品。（美联社） | 谷歌云与CVC启动人工智能合作伙伴关系。（彭博） | Freeport第一季度营收62.3亿美元，预估57.6亿美元。
 第一季度调整后每股收益0.57美元，预估0.45美元。 | 美方称拦截一艘从伊朗运输石油的油轮 | 黑石盈利超预期 预计IPO将迎来“史上最佳年份” | 美国航空一季度调整后每股亏损40美分，预估每股亏损46美分。
 一季度客运收入125.0亿美元，预估124.9亿美元。
 美国航空预计二季度收入增长13.5%至16.5%。
-美国航空预计全年调整后每股亏损40美分至盈利1.10美元，市场预估每股 | 黑石一季度每股可分配收入1.36美元，预估1.34美元。
-一季度整体收入34.3亿美元，预估33.7亿美元。
-一季度资金流入685.4亿美元，预估554.8亿美元。
-一季度私募股权资产管理规模4299.1亿美元，预估4279.7亿美元。
-一 | 超微电脑美股盘前跌超12%。 | 洛克希德马丁一季度净销售额180.2亿美元，预估182.4亿美元。
-第一季度每股收益为6.44 美元，而去年同期为7.28 美元。
-第一季度运营利润20.6亿美元，预估22.6亿美元。
-洛克希德马丁仍预计全年每股收益29.35至30.25美
-  - 其他: 沃尔核材：第一季度净利润2.31亿元，同比下降7.63% | 欧盟批准对俄罗斯实施第20轮制裁 | 双杰电气：一季度净利润2.81亿元，同比增长29615.01% | 香农芯创：第一季度净利润13.27亿元，同比增长7835.06% | 【伊朗消息人士：伊美谈判准备工作“今晚或明天”或取得突破】一名伊朗外交消息人士23日告诉俄新社，伊朗与美国在巴基斯坦谈判的准备工作可能在“今晚或明天”取得突破。(新华社)
+美国航空预计全年调整后每股亏损40美分至盈利1.10美元，市场预估每股
+  - 其他: 伊朗就美国利用中东五国领土领空提出抗议 | 微软承诺投入180亿美元，用于建设澳大利亚的AI能力。 | 国轩高科：控股子公司与新智合能签署增资协议 共同投资用于新型锂离子电池（20GWh）智造基地项目 | 昆仑万维：2025年净亏损15.93亿元 | 广汇能源：第一季度净利润同比下降65.90%
 
 - **SCMP (EN/中)** ✓
   - 头版/首屏: Why Anthropic’s Mythos has energised China’s cybersecurity industry | Anthropic’s Mythos is stoking cybersecurity fears. What does it mean for China? | Politics | China must ‘strengthen education’ of Tibetan Buddhists, Beijing official says | Diplomacy | Exclusive | China’s Russia ties mean EU trade deal is off the table, Finland says | Hong Kong Economy | Henderson Land joint venture to operate Central Harbourfront Event Space
@@ -46,8 +39,8 @@
 - **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **加密货币** — 出现于: SCMP (EN/中) (1 站)
+- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **加密货币** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
 - **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
 - **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
 - **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
@@ -58,8 +51,8 @@
 - 伊朗/中东局势（4 站）
 - 油价/能源（4 站）
 - 科技股/个股（4 站）
-- 中国/欧盟（4 站）
-- 加密货币（1 站）
+- 中国/欧盟（3 站）
+- 加密货币（2 站）
 - 就业/经济数据（1 站）
 - 黄金/大宗商品（1 站）
 - 美联储/利率（1 站）

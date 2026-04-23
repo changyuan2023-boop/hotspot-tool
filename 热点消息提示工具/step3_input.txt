@@ -99,25 +99,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 15m
+- U.S. markets open in 1h 4m
 - Stock futures slide as Tesla slips, Iran peace push stalls
 - Netflix announces $25 billion share buyback, stock rises
 - US intercepts Iran supertankers as Tehran keeps Hormuz shut
+- Elon Musk's Optimus dream inches closer to reality
 - Software stocks slide as IBM, ServiceNow revive AI fears
 - TSMC set to make smaller, faster chips without pricey ASML gear
 - CEO turnover is near record highs as veterans like Cook exit
-- AI boom lifts Nokia sales, stock hits 16-year high after earnings beat
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Elon Musk's Optimus dream inches closer to reality
+- Why Tesla investors should love this version of CEO Elon Musk
+- AI boom lifts Nokia sales, stock hits 16-year high after earnings beat
 - Intel lands Tesla as key first customer for '14A' chip tech
-- China's Xpeng expects to start delivering 'flying' cars in 2027
+- American Q1 results beat, but airline sees $4 billion in added fuel costs this year
+- US to speed up payments for new medical devices under Medicare, FT reports
 - Honeywell stock drops 6% as profit forecast misses on Iran war impact
 - Roper Technologies raises 2026 profit forecast as AI demand boosts software sales
 - Tesla's $25 billion spending plan tests investor faith in unproven AI bets
-- Why Tesla investors should love this version of CEO Elon Musk
+- Intel to report first quarter earnings as CPUs become key to AI growth
 - Huawei to invest $2.63 billion on R&D in smart driving technologies
-- Tesla's Robotaxi miles 'nearly double,' Supercharger network grows 19%, and the largest chip plant ever — 5 key updates from Tesla's earnings release
-- Indian food delivery giant Zomato drops pricing clause after pushback, source says
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -132,19 +132,22 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Why Is IBM Stock Sinking Thursday?
-- Alphabet Gets Street Backing As Cramer Doubles Down On $400 Target
-- Wall Street's Most Accurate Analysts Weigh In On 3 Tech And Telecom Stocks With Over 3% Dividend Yields
-- Vertiv, Northern Trust And More On CNBC's 'Final Trades'
-- EXCLUSIVE: Aduro Clean Targets Waxy Crude Bottlenecks With New US Patent Filing
+- 'Best 18–24 Months Ever': Tom Lee Predicts Massive Rally As BMNR Surges 7%
+- This Texas Instruments Analyst Turns Bullish; Here Are Top 4 Upgrades For Thursday
+- Bitcoin Holds Near $77,000 As Ethereum, XRP, Dogecoin Go Sideways
+- ASGN Posts Downbeat Q1 Results, Joins Medpace, ServiceNow And Other Big Stocks Moving Lower In Thursday's Pre-Market Session
+- Lindsey Graham Says Trump's Iran Oil Blockade Could Go Global, Warns Tehran Allies Of Consequences: 'At Your Own Peril'
 - Stock Market Today: Dow Jones, S&P 500 Futures Slide As Iran Peace Efforts Stall— Tesla, ServiceNow, Boeing In Focus
 - Donald Trump
 - Elon Musk
+- Why Is IBM Stock Sinking Thursday?
 - Will S&P 500 Open Up Or Down On April 23? Here's How Traders Lean After Record Session
-- Baker Hughes Likely To Report Lower Q1 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
+- 谷歌在阿尔卑斯山地区投资建设首个数据中心。（彭博）
+- 提醒：北京时间20:30，将公布美国4月18日当周首次申请失业救济人数。
+- 美国司法部将医用大麻重新归类为危害性较低的毒品。（美联社）
 - 谷歌云与CVC启动人工智能合作伙伴关系。（彭博）
 - Freeport第一季度营收62.3亿美元，预估57.6亿美元。
 第一季度调整后每股收益0.57美元，预估0.45美元。
@@ -165,22 +168,17 @@
 第一季度运营利润20.6亿美元，预估22.6亿美元。
 洛克希德马丁仍预计全年每股收益29.35至30.25美
 - 特斯拉将于6月前在德国超级工厂新增1000个工作岗位。（路透）
-- 霍尼韦尔预计二季度销售额为94亿至96亿美元，市场预估97.3亿美元。
-霍尼韦尔预计二季度调整后每股收益为2.35至2.45美元，市场预估2.56美元。
-- 特斯拉于2026年4月同意以最高20亿美元的价格收购一家未具名的AI硬件公司。（彭博）
-- 奈飞授权回购额外250亿美元股票。（彭博）
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- 伊朗就美国利用中东五国领土领空提出抗议
+- 微软承诺投入180亿美元，用于建设澳大利亚的AI能力。
+- 国轩高科：控股子公司与新智合能签署增资协议 共同投资用于新型锂离子电池（20GWh）智造基地项目
+- 昆仑万维：2025年净亏损15.93亿元
+- 广汇能源：第一季度净利润同比下降65.90%
 - 沃尔核材：第一季度净利润2.31亿元，同比下降7.63%
 - 欧盟批准对俄罗斯实施第20轮制裁
 - 双杰电气：一季度净利润2.81亿元，同比增长29615.01%
 - 香农芯创：第一季度净利润13.27亿元，同比增长7835.06%
 - 【伊朗消息人士：伊美谈判准备工作“今晚或明天”或取得突破】一名伊朗外交消息人士23日告诉俄新社，伊朗与美国在巴基斯坦谈判的准备工作可能在“今晚或明天”取得突破。(新华社)
-- 五角大楼：美国登上了受制裁的无国籍船只MAJESTIC X号。
-该船只正在印度洋运输来自伊朗的石油。
-- 美国军方称扣押了一艘与伊朗有关的油轮。（美联社）
-- 泽连斯基：仍然预计库什纳和威特科夫将访问乌克兰。
-- 海天瑞声：第一季度净利润840.3万元，同比增长2161.14%
-- 永安期货：第一季度净利润1.94亿元，同比增长506.59%
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -243,8 +241,8 @@
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 加密货币: SCMP (EN/中)
+- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 加密货币: Benzinga (EN), SCMP (EN/中)
 - 就业数据: SCMP (EN/中)
 - 黄金/大宗: 华尔街见闻 (简中)
 - 美联储: 华尔街见闻 (简中)
