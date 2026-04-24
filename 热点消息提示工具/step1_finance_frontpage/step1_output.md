@@ -8,7 +8,7 @@
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: This Insulet Analyst Is No Longer Bullish; Here Are Top 4 Downgrades For Friday | Congresswoman Discloses Hundreds Of Thousands In Stock Trades, Here's What She Bought | Wall Street's Most Accurate Analysts Spotlight On 3 Consumer Stocks With Over 6% Dividend Yields | Why Oracle's AI Spending Spree Has Wall Street On Edge | Trump Vows Action On Wells Fargo, Other Banks Over Response To Homeowners Affected By LA Wildfire: 'Very Difficult To Deal…'
+  - 其他: What's Going On With Lockheed Martin Stock Frday? | Elizabeth Warren Sounds Alarm On Eric Trump-Linked Company Getting Pentagon Deal: 'Corruption In Plain Sight' (UPDATED) | This Insulet Analyst Is No Longer Bullish; Here Are Top 4 Downgrades For Friday | Congresswoman Discloses Hundreds Of Thousands In Stock Trades, Here's What She Bought | Wall Street's Most Accurate Analysts Spotlight On 3 Consumer Stocks With Over 6% Dividend Yields
 
 - **华尔街见闻 (简中)** ✓
   - 头版/首屏: 巴基斯坦官员未说明美伊会谈将于何时举行。（彭博） | 纳斯达克100指数期货延续涨势，触及盘中高点。 | 巴基斯坦消息人士：伊朗外长今晚将率团抵达伊斯兰堡 | 以色列国防军称以色列北部两座城镇响起警报。 | 美国后勤与安全团队抵达伊斯兰堡参加和平谈判。（彭博） | 巴基斯坦称伊朗外长预计将于周五抵达伊斯兰堡 | 经济学家上调美国通胀预期 料美联储今年只降息一次 | 油价短线走低，白宫将《琼斯法》航运豁免延长至8月，以确保国内能源供应
@@ -37,9 +37,9 @@
 - **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
 - **油价/能源/霍尔木兹** — 出现于: 华尔街见闻 (简中), 经济通 (繁中) (2 站)
-- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
 - **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
 - **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
+- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
@@ -49,8 +49,8 @@
 - 美联储/利率（3 站）
 - 科技股/个股（3 站）
 - 油价/能源（2 站）
-- 黄金/大宗商品（2 站）
 - 关税/贸易政策（1 站）
 - 就业/经济数据（1 站）
+- 黄金/大宗商品（1 站）
 - 中国政策（1 站）
 - 加密货币（0 站）

@@ -23,11 +23,11 @@
 - US soldier arrested over Polymarket bets on Maduro
 - Charter sheds more broadband customers than expected in first quarter
 - Global Bonds Set for Worst Week in a Month as US-Iran Risks Rise
-- Tide maker P&G beats earnings estimates as Iran war drives up costs
 - HCA Healthcare beats quarterly profit estimates on medical care demand
-- Intel just cleared its dot-com-era ceiling after earnings: Chart of the Day
 - BYD doubles down on fast charging to target China's EV holdouts
-- HR executives report uptick in hiring plans
+- Europe’s markets watchdog warns cyber threats are growing as AI speeds up risks
+- Samsung's chip output drops overnight as workers protest over pay, union says
+- Swedish telecom operator Telia beats first-quarter core profit estimates
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,16 +42,16 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- What's Going On With Lockheed Martin Stock Frday?
+- Elizabeth Warren Sounds Alarm On Eric Trump-Linked Company Getting Pentagon Deal: 'Corruption In Plain Sight' (UPDATED)
 - This Insulet Analyst Is No Longer Bullish; Here Are Top 4 Downgrades For Friday
 - Congresswoman Discloses Hundreds Of Thousands In Stock Trades, Here's What She Bought
 - Wall Street's Most Accurate Analysts Spotlight On 3 Consumer Stocks With Over 6% Dividend Yields
-- Why Oracle's AI Spending Spree Has Wall Street On Edge
-- Trump Vows Action On Wells Fargo, Other Banks Over Response To Homeowners Affected By LA Wildfire: 'Very Difficult To Deal…'
 - Stock Market Today: Dow Jones, S&P 500 Futures Edge Lower Amid Extension Of Israel-Lebanon Ceasefire—Intel, SAP, Lunai Bioworks In Focus
 - Semiconductor Stocks
 - Donald Trump
 - Elon Musk
-- Taiwan Semiconductor Stock Hits 52-Week High - Here's Why
+- Intel Stock Soars Nearly 20% Overnight As Jim Cramer Says 'Paranoid' INTC Is Back, Gene Munster Notes AI Boom Still Early
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -150,9 +150,9 @@
 - 美联储: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
 - 油价/霍尔木兹: 华尔街见闻 (简中), 经济通 (繁中)
-- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
 - 美国关税: 华尔街见闻 (简中)
 - 就业数据: Yahoo Finance (EN)
+- 黄金/大宗: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
