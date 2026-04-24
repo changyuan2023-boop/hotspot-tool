@@ -1,1 +1,123 @@
-（未生成：请配置 OPENAI_API_KEY 后使用 --llm 重跑，或将 step3_input.txt 发给模型，把回复粘贴到本文件「正文」下方。）
+We need to produce summary based on sources. Let's extract relevant info.
+
+Sources list includes:
+
+Yahoo Finance (EN) headlines (headline only). Notable ones:
+
+- "U.S. markets open in 1h 20m" (not a news)
+- "Meta to buy Graviton chips from Amazon as CPU sales soar"
+- "Warsh wants the Fed to adopt a new approach to inflation"
+- "Nasdaq futures rise on tech optimism, while Dow and S&P lag"
+- "Tide maker P&G's earnings beat but Iran war drives up costs"
+- "HR chiefs expect companies to step up hiring in next 6 months"
+- "China to curb US investment in its high-flying AI pioneers"
+- "Behind the 40,000% stock surge that's mystifying traders in Turkey"
+- "Intel just cleared its dot-com-era ceiling"
+- "Global equity fund inflows surge to 17-month high on AI optimism"
+- "US soldier arrested over Polymarket bets on Maduro"
+- "U.S. equity fund inflows rise on earnings optimism, AI boost"
+- "Meta strikes deal with Amazon's cloud unit to use its CPU chips"
+- "Trump grants 90-day Jones Act waiver extension to curb energy costs"
+- "Charter sheds more broadband customers than expected in first quarter"
+- "Global Bonds Set for Worst Week in a Month as US-Iran Risks Rise"
+- "HCA Healthcare beats quarterly profit estimates on medical care demand"
+- "BYD doubles down on fast charging to target China's EV holdouts"
+
+Benzinga headlines:
+
+- "Bitcoin To Hit $145,000 By End Of 2026, Arthur Hayes Predicts"
+- "Boyd Gaming Posts Downbeat Q1 Results, Joins Coursera, Evotec And Other Big Stocks Moving Lower In Friday's Pre-Market Session"
+- "How To Earn $500 A Month From Verizon Stock Ahead Of Q1 Earnings"
+- "What's Going On With Lockheed Martin Stock Frday?"
+- "Elizabeth Warren Sounds Alarm On Eric Trump-Linked Company Getting Pentagon Deal: 'Corruption In Plain Sight' (UPDATED)"
+- "Stock Market Today: Dow Jones, S&P 500 Futures Edge Lower Amid Extension Of Israel-Lebanon Ceasefire—Intel, SAP, Lunai Bioworks In Focus"
+- "Semiconductor Stocks"
+- "Donald Trump"
+- "Elon Musk"
+- "Intel Stock Soars Nearly 20% Overnight As Jim Cramer Says 'Paranoid' INTC Is Back, Gene Munster Notes AI Boom Still Early"
+
+华尔街见闻 (简中) headlines:
+
+- "欧洲理事会主席发出警告 若追随特朗普 欧盟将迷失方向"
+- "美国国防部长赫格塞思：第二艘美国航空母舰将加入（对伊朗的）封锁行动。"
+- "亚马逊美股盘前涨近2%，Meta Platforms已与亚马逊AWS签署一项数十亿美元规模的协议，这家社交媒体巨头将租用亚马逊数十万枚GPU芯片，用于其人工智能研发。"
+- "礼来美股盘前一度跌近4%，公司新型减肥药在追赶诺和诺德的竞争中开局缓慢"
+- "巴基斯坦官员未说明美伊会谈将于何时举行。（彭博）"
+- "纳斯达克100指数期货延续涨势，触及盘中高点。"
+- "巴基斯坦消息人士：伊朗外长今晚将率团抵达伊斯兰堡"
+- "以色列国防军称以色列北部两座城镇响起警报。"
+- "美国后勤与安全团队抵达伊斯兰堡参加和平谈判。（彭博）"
+- "巴基斯坦称伊朗外长预计将于周五抵达伊斯兰堡"
+- "经济学家上调美国通胀预期 料美联储今年只降息一次"
+- "油价短线走低，白宫将《琼斯法》航运豁免延长至8月，以确保国内能源供应"
+Other items: 台积电涨幅扩大至5%，此前台股放宽投资单一公司股票上限。 etc.
+
+SCMP (EN/中) headlines: various, not very relevant to US stocks except maybe "Open Questions | Euro, yuan unlikely to match US dollar..." not needed.
+
+经济通 (繁中): mainly HK indices.
+
+Now we need to produce evening mode, focusing on pre-market US open (8:00-20:00 today). We need macro/policy first, then large market & sector overview (merged), then tech stocks, then other sectors, then other noteworthy.
+
+We must only include items with clear source data.
+
+Let's identify concrete data with numbers:
+
+- Yahoo: "Nasdaq futures rise on tech optimism, while Dow and S&P lag" – no numbers. Just says rise. No specific percent given; can't add numbers. Could mention direction.
+
+- "Meta to buy Graviton chips from Amazon as CPU sales soar" – no numbers.
+
+- "Warsh wants the Fed to adopt a new approach to inflation" – no numbers.
+
+- "Tide maker P&G's earnings beat but Iran war drives up costs" – earnings beat but no numbers.
+
+- "HR chiefs expect companies to step up hiring..." – no numbers.
+
+- "China to curb US investment in its high-flying AI pioneers" – no numbers.
+
+- "Intel just cleared its dot-com-era ceiling" – vague.
+
+- "Global equity fund inflows surge to 17-month high on AI optimism" – number: 17-month high.
+
+- "U.S. equity fund inflows rise on earnings optimism, AI boost" – no numbers.
+
+- "Meta strikes deal with Amazon's cloud unit to use its CPU chips" – no numbers.
+
+- "Trump grants 90-day Jones Act waiver extension to curb energy costs" – specific: 90-day extension.
+
+- "Charter sheds more broadband customers than expected in first quarter" – no numbers.
+
+- "Global Bonds Set for Worst Week in a Month as US-Iran Risks Rise" – no numbers.
+
+- "HCA Healthcare beats quarterly profit estimates on medical care demand" – no numbers.
+
+- "BYD doubles down on fast charging to target China's EV holdouts" – no numbers.
+
+Benzinga:
+
+- "Boyd Gaming Posts Downbeat Q1 Results, Joins Coursera, Evotec And Other Big Stocks Moving Lower In Friday's Pre-Market Session" – indicates downbeat Q1 results, but no numbers.
+
+- "How To Earn $500 A Month From Verizon Stock Ahead Of Q1 Earnings" – not a news.
+
+- "What's Going On With Lockheed Martin Stock Frday?" – no.
+
+- "Elizabeth Warren Sounds Alarm On Eric Trump-Linked Company Getting Pentagon Deal: 'Corruption In Plain Sight' (UPDATED)" – no numbers.
+
+- "Stock Market Today: Dow Jones, S&P 500 Futures Edge Lower Amid Extension Of Israel-Lebanon Ceasefire—Intel, SAP, Lunai Bioworks In Focus" – says futures edge lower, but no percent.
+
+- "Semiconductor Stocks" – generic.
+
+- "Donald Trump" – generic.
+
+- "Elon Musk" – generic.
+
+- "Intel Stock Soars Nearly 20% Overnight As Jim Cramer Says 'Paranoid' INTC Is Back, Gene Munster Notes AI Boom Still Early" – gives nearly 20% overnight increase for Intel. That's a clear data point: Intel stock up ~20% pre-market.
+
+华尔街见闻:
+
+- "亚马逊美股盘前涨近2%，Meta Platforms已与亚马逊AWS签署一项数十亿美元规模的协议，这家社交媒体巨头将租用亚马逊数十万枚GPU芯片，用于其人工智能研发。" – Amazon pre-market up nearly 2%; Meta deal with AWS for billions, renting hundreds of thousands of GPU chips.
+
+- "礼来美股盘前一度跌近4%，公司新型减肥药在追赶诺和诺德的竞争中开局缓慢" – Lilly pre-market down nearly 4%.
+
+- "纳斯达克100指数期货延续涨势，触及盘中高点。" – Nasdaq 100 futures continue rise, hit intraday high. No percent.
+
+- "经济学家上调美国通胀预期 料美联储今年只降息一次" – economists
