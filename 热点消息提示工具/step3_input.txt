@@ -99,7 +99,7 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 20m
+- U.S. markets open in 1h 15m
 - Meta to buy Graviton chips from Amazon as CPU sales soar
 - Warsh wants the Fed to adopt a new approach to inflation
 - Nasdaq futures rise on tech optimism, while Dow and S&P lag
@@ -111,13 +111,13 @@
 - Intel just cleared its dot-com-era ceiling
 - Global equity fund inflows surge to 17-month high on AI optimism
 - US soldier arrested over Polymarket bets on Maduro
+- Why this Tesla bear still sees a 60% crash in the EV maker's stock
 - U.S. equity fund inflows rise on earnings optimism, AI boost
 - Meta strikes deal with Amazon's cloud unit to use its CPU chips
 - Trump grants 90-day Jones Act waiver extension to curb energy costs
 - Charter sheds more broadband customers than expected in first quarter
 - Global Bonds Set for Worst Week in a Month as US-Iran Risks Rise
 - HCA Healthcare beats quarterly profit estimates on medical care demand
-- BYD doubles down on fast charging to target China's EV holdouts
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,9 +145,12 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
+- 巴基斯坦媒体：美国代表团或将于明日抵达伊斯兰堡
 - 欧洲理事会主席发出警告 若追随特朗普 欧盟将迷失方向
 - 美国国防部长赫格塞思：第二艘美国航空母舰将加入（对伊朗的）封锁行动。
-- 亚马逊美股盘前涨近2%，Meta Platforms已与亚马逊AWS签署一项数十亿美元规模的协议，这家社交媒体巨头将租用亚马逊数十万枚GPU芯片，用于其人工智能研发。
+（告诉欧洲和亚洲）“搭便车的时代已经结束了”。
+霍尔木兹海峡更多是欧洲和亚洲的责任，而不是美国的。
+- 亚马逊美股盘前涨近2%，Meta Platforms已与亚马逊AWS签署一项数十亿美元规模的协议，这家社交媒体巨头将租用亚马逊数十万枚芯片，用于其人工智能研发。
 - 礼来美股盘前一度跌近4%，公司新型减肥药在追赶诺和诺德的竞争中开局缓慢
 - 巴基斯坦官员未说明美伊会谈将于何时举行。（彭博）
 - 纳斯达克100指数期货延续涨势，触及盘中高点。
@@ -156,8 +159,8 @@
 - 美国后勤与安全团队抵达伊斯兰堡参加和平谈判。（彭博）
 - 巴基斯坦称伊朗外长预计将于周五抵达伊斯兰堡
 - 经济学家上调美国通胀预期 料美联储今年只降息一次
-- 油价短线走低，白宫将《琼斯法》航运豁免延长至8月，以确保国内能源供应
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- 小鹏集团正与海外企业洽谈合作 并计划在境外新建工厂
 - 台积电涨幅扩大至5%，此前台股放宽投资单一公司股票上限。
 - 早间要闻汇总
 - 提醒：日内请重点关注（以下均为北京时间）
@@ -167,12 +170,11 @@
 - 伊朗驻俄大使说美国没有认真对待伊美谈判
 - 小鹏飞行汽车和人形机器人将于今年量产
 - 城堡投资暗示可能暂停美国纽约扩张计划，以此抨击市长马姆达尼
-- 永辉超市CEO王守诚：调改已步入第二阶段
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - ‘Paradigm shift’: is China’s deal with mining giant BHP a global yuan milestone?
-- Open Questions | Euro, yuan unlikely to match US dollar, Daniel Gros says
+- China set to issue US$2.3b in offshore bonds amid high demand for yuan assets
 - China Economy
 - Why China is spending billions on a robot army to run its power grid
 - Science
@@ -185,11 +187,11 @@
 - Advocacy group holds vigil for scientist who took his own life after being questioned by US federal agents.
 - Merchants taking part in scheme promoting hidden delicacies and goods will offer discounts to residents and tourists.
 - Iran war shows ‘strategic value’ of AI for China’s military, PLA Daily says
+- Politics
+- Chinese drone discovery sharpens focus on Asia’s undersea security race
+- Experts say India is playing ‘steady catch-up’ in boosting undersea surveillance, while Southeast Asian nations’ capabilities differ widely.
 - ‘It’s a tightrope’: why Europe’s wind industry faces a growing China dilemma
 - A debate is swirling in Europe over what role China should play in its wind power push, as the continent confronts the Middle East energy crisis.
-- China Business
-- China opens government bond futures to select foreign investors in reform push
-- Qualified foreign investors can trade government bond futures, enhancing market access and boosting the yuan’s appeal amid global tensions.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
