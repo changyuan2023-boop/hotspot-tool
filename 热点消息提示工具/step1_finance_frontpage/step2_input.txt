@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026042320
+抓取时间: 2026042409
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 4m
-- Stock futures slide as Tesla slips, Iran peace push stalls
-- Netflix announces $25 billion share buyback, stock rises
-- US intercepts Iran supertankers as Tehran keeps Hormuz shut
-- Elon Musk's Optimus dream inches closer to reality
-- Software stocks slide as IBM, ServiceNow revive AI fears
-- TSMC set to make smaller, faster chips without pricey ASML gear
-- CEO turnover is near record highs as veterans like Cook exit
+- U.S. markets closed
+- Brent oil tops $100 as US waits for Iran's peace talks response
+- Meta lays off thousands, Microsoft offers buyouts amid high AI costs
+- US stock futures hold steady after Israel and Lebanon extend ceasefire
+- SpaceX refinanced debt with $20 billion loan before IPO filing
+- Democratic lawmakers urge CEOs to pass tariff refunds to consumers
+- Warner Bros. investors approve $110 billion sale to Paramount
+- IBM stock tanks as quarterly results fail to calm AI concerns
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Why Tesla investors should love this version of CEO Elon Musk
-- AI boom lifts Nokia sales, stock hits 16-year high after earnings beat
-- Intel lands Tesla as key first customer for '14A' chip tech
-- American Q1 results beat, but airline sees $4 billion in added fuel costs this year
-- US to speed up payments for new medical devices under Medicare, FT reports
-- Honeywell stock drops 6% as profit forecast misses on Iran war impact
-- Roper Technologies raises 2026 profit forecast as AI demand boosts software sales
-- Tesla's $25 billion spending plan tests investor faith in unproven AI bets
-- Intel to report first quarter earnings as CPUs become key to AI growth
-- Huawei to invest $2.63 billion on R&D in smart driving technologies
+- Intel soars on earnings beat, strong outlook
+- Blackstone president Jon Gray sees major year for IPOs driven by AI
+- Spirit lawyer confirms airline is in 'advanced' talks with US for rescue package
+- SpaceX would get enhanced protection from Texas laws, filing says
+- Analysis-Singapore emerging as neutral ground as AI firms navigate Sino-US rivalry
+- Trump says he’s considering buying Spirit Airlines ‘at the right price.’ It might still be a bad deal
+- Exclusive-SpaceX warns that inquiries into sexually abusive AI imagery may hurt market access
+- Edwards Lifesciences beats quarterly estimates on robust demand for artificial heart valves
+- Israel and Lebanon Will Extend Their Ceasefire, Trump Says
+- EU Opens Door to Talks With Ukraine on Next Membership Steps
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,75 +42,77 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 'Best 18–24 Months Ever': Tom Lee Predicts Massive Rally As BMNR Surges 7%
-- This Texas Instruments Analyst Turns Bullish; Here Are Top 4 Upgrades For Thursday
-- Bitcoin Holds Near $77,000 As Ethereum, XRP, Dogecoin Go Sideways
-- ASGN Posts Downbeat Q1 Results, Joins Medpace, ServiceNow And Other Big Stocks Moving Lower In Thursday's Pre-Market Session
-- Lindsey Graham Says Trump's Iran Oil Blockade Could Go Global, Warns Tehran Allies Of Consequences: 'At Your Own Peril'
-- Stock Market Today: Dow Jones, S&P 500 Futures Slide As Iran Peace Efforts Stall— Tesla, ServiceNow, Boeing In Focus
+- Elizabeth Warren Sounds Alarm On Eric Trump-Linked Company Getting Pentagon Deal: 'Corruption In Plain Sight'
+- Trump Administration's Intel Stake Is Now Up 290% In Less Than A Year
+- Brain-Health VC Fund Backed By Google Co-Founder Sergey Brin Shuts Down, Merges Into Family Office
+- CVC Credit Raises $1 Billion For CLO Equity Fund
+- Defiance Launches 2X Leveraged Seagate ETF As Storage Stock Rides AI Boom
+- AMD, Arm Stocks Ride Intel's Coattails After Blowout Q1 Report
+- Semiconductor Stocks
 - Donald Trump
 - Elon Musk
-- Why Is IBM Stock Sinking Thursday?
-- Will S&P 500 Open Up Or Down On April 23? Here's How Traders Lean After Record Session
+- SAP Shares Climb After Mixed Q1 Report: Details
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 谷歌在阿尔卑斯山地区投资建设首个数据中心。（彭博）
-- 提醒：北京时间20:30，将公布美国4月18日当周首次申请失业救济人数。
-- 美国司法部将医用大麻重新归类为危害性较低的毒品。（美联社）
-- 谷歌云与CVC启动人工智能合作伙伴关系。（彭博）
-- Freeport第一季度营收62.3亿美元，预估57.6亿美元。
-第一季度调整后每股收益0.57美元，预估0.45美元。
-- 美方称拦截一艘从伊朗运输石油的油轮
-- 黑石盈利超预期 预计IPO将迎来“史上最佳年份”
-- 美国航空一季度调整后每股亏损40美分，预估每股亏损46美分。
-一季度客运收入125.0亿美元，预估124.9亿美元。
-美国航空预计二季度收入增长13.5%至16.5%。
-美国航空预计全年调整后每股亏损40美分至盈利1.10美元，市场预估每股
-- 黑石一季度每股可分配收入1.36美元，预估1.34美元。
-一季度整体收入34.3亿美元，预估33.7亿美元。
-一季度资金流入685.4亿美元，预估554.8亿美元。
-一季度私募股权资产管理规模4299.1亿美元，预估4279.7亿美元。
-一
-- 超微电脑美股盘前跌超12%。
-- 洛克希德马丁一季度净销售额180.2亿美元，预估182.4亿美元。
-第一季度每股收益为6.44 美元，而去年同期为7.28 美元。
-第一季度运营利润20.6亿美元，预估22.6亿美元。
-洛克希德马丁仍预计全年每股收益29.35至30.25美
-- 特斯拉将于6月前在德国超级工厂新增1000个工作岗位。（路透）
+- 赌马杜罗下台赚逾40万美元 美一特种兵遭起诉
+- 纳斯达克100指数期货涨幅扩大至0.5%，此前英特尔发布强劲财报。
+- 华尔街见闻早餐 | 2026年4月24日
+- MaxLinear美股盘后涨幅扩大至33%。
+- 美国总统特朗普谈及洛杉矶野火，称：我们将关注银行业采取的行动。
+很难与富国银行“打交道”。
+- 美团去年收入3648.54746亿元人民币，之前一年3375.91576亿元。
+去年毛利1110.08626亿元人民币，之前一年1297.84594亿元。
+- 伊朗舰艇护送一散货船进入领海
+- 提醒：日内请重点关注（以下均为北京时间）
+- Bob Iger重返Joshua Kushner旗下Thrive Capital，将担任顾问。（华尔街日报）
+- 加拿大总理：解决酒类禁令取决于美方行动，钢铝、汽车、木材关税才让人心烦
+- 美国司法部：指控美军士兵利用“特朗普派兵强行掳走委内瑞拉总统马杜罗”机密信息进行投注一事。
+指控美军士兵从预测市场投注中获利。
+被控诉的士兵使用Polymarket账户。
+- PLS Group（PLS.AU）第三财季锂辉石精矿23.24万吨，第二财季产量为20.8万吨。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 伊朗就美国利用中东五国领土领空提出抗议
-- 微软承诺投入180亿美元，用于建设澳大利亚的AI能力。
-- 国轩高科：控股子公司与新智合能签署增资协议 共同投资用于新型锂离子电池（20GWh）智造基地项目
-- 昆仑万维：2025年净亏损15.93亿元
-- 广汇能源：第一季度净利润同比下降65.90%
-- 沃尔核材：第一季度净利润2.31亿元，同比下降7.63%
-- 欧盟批准对俄罗斯实施第20轮制裁
-- 双杰电气：一季度净利润2.81亿元，同比增长29615.01%
-- 香农芯创：第一季度净利润13.27亿元，同比增长7835.06%
-- 【伊朗消息人士：伊美谈判准备工作“今晚或明天”或取得突破】一名伊朗外交消息人士23日告诉俄新社，伊朗与美国在巴基斯坦谈判的准备工作可能在“今晚或明天”取得突破。(新华社)
+- 伊朗媒体：启动防空系统旨在应对小型无人机
+- 通信片上系统（SOC）供应商MaxLinear美股盘后涨29%，该公司二季度营收指引超过市场预期。
+该公司一季度净营收1.372亿美元，分析师预期1.345亿美元。
+一季度调整后EPS为0.22美元，分析师预期0.18美元。
+一季度调整后毛
+- 德国思爱普Sap一季度非IFRS营收95.6亿欧元，分析师预期95.3亿欧元。
+一季度非IFRS云/软件营收85.5亿欧元，分析师预期84.7亿欧元。
+一季度非IFRS云营收59.6亿欧元，分析师预期59亿欧元。
+一季度云订单积压219亿欧
+- 美国总统特朗普：美联储主席提名人沃什非常不错。
+- 美国总统特朗普：不会对伊朗使用核武器。
+- 英特尔：数据中心CPU需求强劲，期待与马斯克合作
+- 美国总统特朗普：股市今天创历史新高。
+- 特朗普：别催我！
+- 德州仪器收涨超19%创2000年以来最大单日涨幅，股价创收盘历史新高
+- 英特尔一季度营收135.8亿美元，分析师预期123.6亿美元。
+一季度数据中心、AI营收50.5亿美元，分析师预期44.1亿美元。
+一季度客户计算营收77.3亿美元，分析师预期
+一季度英特尔代工（Intel Foundry）营收54.2亿美
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Why Anthropic’s Mythos has energised China’s cybersecurity industry
-- Anthropic’s Mythos is stoking cybersecurity fears. What does it mean for China?
-- Politics
-- China must ‘strengthen education’ of Tibetan Buddhists, Beijing official says
+- What the Iran war could tell China about US focus on maritime chokepoints
+- Iran latest: Trump has ‘no time frame’ to end war as world waits for peace talks
 - Diplomacy
-- Exclusive | China’s Russia ties mean EU trade deal is off the table, Finland says
+- Exclusive | Trump ally to visit China as US turns up pressure before May summit
+- Tech
+- Tech war: US Congress rolls out ‘largest’ export control upgrade against China
 - Hong Kong Economy
-- Henderson Land joint venture to operate Central Harbourfront Event Space
+- Hongkongers find value, space and style in Shenzhen’s new cultural hotspots
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Following the Mythos announcement on April 7, shares of major Chinese cybersecurity firms rose for several consecutive days.
-- On inspection tour, Li Ganjie urges local authorities to promote new ‘unity’ law to ethnic minority groups.
-- Tough talk from foreign minister shows the nation could provide a de facto veto on China’s efforts to launch a deal.
-- Joint venture between property developer and YW Company beat five other bidders for prime site which hosts events such as Clockenflap and Wine and Dine Festival.
+- The Iran war reflects Washington’s greater emphasis on implementing its maritime security strategy, analyst says.
+- Republican senator to lead bipartisan delegation to China next week; visit will begin on May 1, with stops planned in Shanghai and Beijing.
+- US lawmakers push export controls to limit China’s tech access in a bid to protect the US semiconductor industry.
+- Short cross‑border getaways emerging as the ‘quick escape’ of choice, with the newly opened Shenzhen Bay Culture Square adding to appeal.
 - How fire safety failures worsened Hong Kong’s deadly inferno
-- Military
-- Chinese military experts take stock of US munitions weak spot exposed by Iran war
-- Think tank warns that weapons shortfalls could leave American forces vulnerable in a future conflict – and Chinese observers agree.
-- Business
-- PwC to pay US$128 million to Evergrande minority shareholders over audit failures
+- Is the US in decline? Why Iran war might be the surest sign
+- In going from international rule-maker to ‘predatory hegemon’, the US is risking it all, Chinese state media and observers warn.
+- China Business
+- Chinese EV makers bet on in-house chips to make cars smarter and more autonomous
+- Chinese EV makers are showcasing advanced in-house chips at Auto China, powering smarter vehicles and challenging global tech leaders.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -148,12 +150,12 @@
 - Windows
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 加密货币: Benzinga (EN), SCMP (EN/中)
-- 就业数据: SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 加密货币: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 黄金/大宗: 华尔街见闻 (简中)
 - 美联储: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)

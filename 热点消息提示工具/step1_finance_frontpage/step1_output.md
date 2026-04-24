@@ -3,24 +3,28 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 4m | Stock futures slide as Tesla slips, Iran peace push stalls | Netflix announces $25 billion share buyback, stock rises | US intercepts Iran supertankers as Tehran keeps Hormuz shut
-  - 其他: Why Tesla investors should love this version of CEO Elon Musk | AI boom lifts Nokia sales, stock hits 16-year high after earnings beat | Intel lands Tesla as key first customer for '14A' chip tech | American Q1 results beat, but airline sees $4 billion in added fuel costs this year | US to speed up payments for new medical devices under Medicare, FT reports
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Brent oil tops $100 as US waits for Iran's peace talks response | Meta lays off thousands, Microsoft offers buyouts amid high AI costs | US stock futures hold steady after Israel and Lebanon extend ceasefire
+  - 其他: Intel soars on earnings beat, strong outlook | Blackstone president Jon Gray sees major year for IPOs driven by AI | Spirit lawyer confirms airline is in 'advanced' talks with US for rescue package | SpaceX would get enhanced protection from Texas laws, filing says | Analysis-Singapore emerging as neutral ground as AI firms navigate Sino-US rivalry
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: 'Best 18–24 Months Ever': Tom Lee Predicts Massive Rally As BMNR Surges 7% | This Texas Instruments Analyst Turns Bullish; Here Are Top 4 Upgrades For Thursday | Bitcoin Holds Near $77,000 As Ethereum, XRP, Dogecoin Go Sideways | ASGN Posts Downbeat Q1 Results, Joins Medpace, ServiceNow And Other Big Stocks Moving Lower In Thursday's Pre-Market Session | Lindsey Graham Says Trump's Iran Oil Blockade Could Go Global, Warns Tehran Allies Of Consequences: 'At Your Own Peril'
+  - 其他: Elizabeth Warren Sounds Alarm On Eric Trump-Linked Company Getting Pentagon Deal: 'Corruption In Plain Sight' | Trump Administration's Intel Stake Is Now Up 290% In Less Than A Year | Brain-Health VC Fund Backed By Google Co-Founder Sergey Brin Shuts Down, Merges Into Family Office | CVC Credit Raises $1 Billion For CLO Equity Fund | Defiance Launches 2X Leveraged Seagate ETF As Storage Stock Rides AI Boom
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 谷歌在阿尔卑斯山地区投资建设首个数据中心。（彭博） | 提醒：北京时间20:30，将公布美国4月18日当周首次申请失业救济人数。 | 美国司法部将医用大麻重新归类为危害性较低的毒品。（美联社） | 谷歌云与CVC启动人工智能合作伙伴关系。（彭博） | Freeport第一季度营收62.3亿美元，预估57.6亿美元。
-第一季度调整后每股收益0.57美元，预估0.45美元。 | 美方称拦截一艘从伊朗运输石油的油轮 | 黑石盈利超预期 预计IPO将迎来“史上最佳年份” | 美国航空一季度调整后每股亏损40美分，预估每股亏损46美分。
-一季度客运收入125.0亿美元，预估124.9亿美元。
-美国航空预计二季度收入增长13.5%至16.5%。
-美国航空预计全年调整后每股亏损40美分至盈利1.10美元，市场预估每股
-  - 其他: 伊朗就美国利用中东五国领土领空提出抗议 | 微软承诺投入180亿美元，用于建设澳大利亚的AI能力。 | 国轩高科：控股子公司与新智合能签署增资协议 共同投资用于新型锂离子电池（20GWh）智造基地项目 | 昆仑万维：2025年净亏损15.93亿元 | 广汇能源：第一季度净利润同比下降65.90%
+  - 头版/首屏: 赌马杜罗下台赚逾40万美元 美一特种兵遭起诉 | 纳斯达克100指数期货涨幅扩大至0.5%，此前英特尔发布强劲财报。 | 华尔街见闻早餐 | 2026年4月24日 | MaxLinear美股盘后涨幅扩大至33%。 | 美国总统特朗普谈及洛杉矶野火，称：我们将关注银行业采取的行动。
+很难与富国银行“打交道”。 | 美团去年收入3648.54746亿元人民币，之前一年3375.91576亿元。
+去年毛利1110.08626亿元人民币，之前一年1297.84594亿元。 | 伊朗舰艇护送一散货船进入领海 | 提醒：日内请重点关注（以下均为北京时间）
+  - 其他: 伊朗媒体：启动防空系统旨在应对小型无人机 | 通信片上系统（SOC）供应商MaxLinear美股盘后涨29%，该公司二季度营收指引超过市场预期。
+该公司一季度净营收1.372亿美元，分析师预期1.345亿美元。
+一季度调整后EPS为0.22美元，分析师预期0.18美元。
+一季度调整后毛 | 德国思爱普Sap一季度非IFRS营收95.6亿欧元，分析师预期95.3亿欧元。
+一季度非IFRS云/软件营收85.5亿欧元，分析师预期84.7亿欧元。
+一季度非IFRS云营收59.6亿欧元，分析师预期59亿欧元。
+一季度云订单积压219亿欧 | 美国总统特朗普：美联储主席提名人沃什非常不错。 | 美国总统特朗普：不会对伊朗使用核武器。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Why Anthropic’s Mythos has energised China’s cybersecurity industry | Anthropic’s Mythos is stoking cybersecurity fears. What does it mean for China? | Politics | China must ‘strengthen education’ of Tibetan Buddhists, Beijing official says | Diplomacy | Exclusive | China’s Russia ties mean EU trade deal is off the table, Finland says | Hong Kong Economy | Henderson Land joint venture to operate Central Harbourfront Event Space
-  - 其他: Following the Mythos announcement on April 7, shares of major Chinese cybersecurity firms rose for several consecutive days. | On inspection tour, Li Ganjie urges local authorities to promote new ‘unity’ law to ethnic minority groups. | Tough talk from foreign minister shows the nation could provide a de facto veto on China’s efforts to launch a deal. | Joint venture between property developer and YW Company beat five other bidders for prime site which hosts events such as Clockenflap and Wine and Dine Festival. | How fire safety failures worsened Hong Kong’s deadly inferno
+  - 头版/首屏: What the Iran war could tell China about US focus on maritime chokepoints | Iran latest: Trump has ‘no time frame’ to end war as world waits for peace talks | Diplomacy | Exclusive | Trump ally to visit China as US turns up pressure before May summit | Tech | Tech war: US Congress rolls out ‘largest’ export control upgrade against China | Hong Kong Economy | Hongkongers find value, space and style in Shenzhen’s new cultural hotspots
+  - 其他: The Iran war reflects Washington’s greater emphasis on implementing its maritime security strategy, analyst says. | Republican senator to lead bipartisan delegation to China next week; visit will begin on May 1, with stops planned in Shanghai and Beijing. | US lawmakers push export controls to limit China’s tech access in a bid to protect the US semiconductor industry. | Short cross‑border getaways emerging as the ‘quick escape’ of choice, with the newly opened Shenzhen Bay Culture Square adding to appeal. | How fire safety failures worsened Hong Kong’s deadly inferno
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 美光游说美国会收紧对华芯片设备出口，芯片股先升后回 | 沪指重返4100关 创指续刷11年高 | 特朗普支持续低迷 民众忧精神状态 | 谷歌“铲+代理”发力变现，阿里“马+牡蛎”奇袭字节 | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -36,25 +40,25 @@
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **加密货币** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
-- **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **加密货币** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
 - **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
 - **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 伊朗/中东局势（4 站）
-- 油价/能源（4 站）
 - 科技股/个股（4 站）
+- 伊朗/中东局势（3 站）
+- 油价/能源（3 站）
 - 中国/欧盟（3 站）
+- 关税/贸易政策（2 站）
 - 加密货币（2 站）
-- 就业/经济数据（1 站）
 - 黄金/大宗商品（1 站）
 - 美联储/利率（1 站）
 - 中国政策（1 站）
-- 关税/贸易政策（0 站）
+- 就业/经济数据（0 站）
