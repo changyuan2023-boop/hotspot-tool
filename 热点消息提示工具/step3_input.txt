@@ -99,7 +99,7 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 15m
+- U.S. markets open in 47m
 - Meta to buy Graviton chips from Amazon as CPU sales soar
 - Warsh wants the Fed to adopt a new approach to inflation
 - Nasdaq futures rise on tech optimism, while Dow and S&P lag
@@ -111,13 +111,13 @@
 - Intel just cleared its dot-com-era ceiling
 - Global equity fund inflows surge to 17-month high on AI optimism
 - US soldier arrested over Polymarket bets on Maduro
+- Bristol Myers, Pfizer to offer blockbuster blood thinner through Mark Cuban's online pharmacy
+- Collapsing Volatility Turbocharges Returns in Carry Trades
 - Why this Tesla bear still sees a 60% crash in the EV maker's stock
+- Lilly's obesity pill hits nearly 4000 prescriptions in second week after launch
 - U.S. equity fund inflows rise on earnings optimism, AI boost
 - Meta strikes deal with Amazon's cloud unit to use its CPU chips
 - Trump grants 90-day Jones Act waiver extension to curb energy costs
-- Charter sheds more broadband customers than expected in first quarter
-- Global Bonds Set for Worst Week in a Month as US-Iran Risks Rise
-- HCA Healthcare beats quarterly profit estimates on medical care demand
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -132,11 +132,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Bitcoin To Hit $145,000 By End Of 2026, Arthur Hayes Predicts
-- Boyd Gaming Posts Downbeat Q1 Results, Joins Coursera, Evotec And Other Big Stocks Moving Lower In Friday's Pre-Market Session
-- How To Earn $500 A Month From Verizon Stock Ahead Of Q1 Earnings
-- What's Going On With Lockheed Martin Stock Frday?
-- Elizabeth Warren Sounds Alarm On Eric Trump-Linked Company Getting Pentagon Deal: 'Corruption In Plain Sight' (UPDATED)
+- Alibaba's New AI Lets You Book Flights, Order Food by Voice
+- Pony AI Eyes Cheaper Robotaxis, Global Expansion
+- Why Intel Stock Is Skyrocketing Friday
+- Starbucks, Trane Technologies And A Real Estate Stock On CNBC's 'Final Trades'
+- Broadcom's Death Cross Just Died After A 45% Stock Jump
 - Stock Market Today: Dow Jones, S&P 500 Futures Edge Lower Amid Extension Of Israel-Lebanon Ceasefire—Intel, SAP, Lunai Bioworks In Focus
 - Semiconductor Stocks
 - Donald Trump
@@ -145,6 +145,7 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
+- 一支美国后勤和安全小组已抵达巴基斯坦
 - 巴基斯坦媒体：美国代表团或将于明日抵达伊斯兰堡
 - 欧洲理事会主席发出警告 若追随特朗普 欧盟将迷失方向
 - 美国国防部长赫格塞思：第二艘美国航空母舰将加入（对伊朗的）封锁行动。
@@ -158,8 +159,8 @@
 - 以色列国防军称以色列北部两座城镇响起警报。
 - 美国后勤与安全团队抵达伊斯兰堡参加和平谈判。（彭博）
 - 巴基斯坦称伊朗外长预计将于周五抵达伊斯兰堡
-- 经济学家上调美国通胀预期 料美联储今年只降息一次
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- 马斯克在X上发文指出，“Cybercab已开始生产”。
 - 小鹏集团正与海外企业洽谈合作 并计划在境外新建工厂
 - 台积电涨幅扩大至5%，此前台股放宽投资单一公司股票上限。
 - 早间要闻汇总
@@ -169,29 +170,28 @@
 - 千问加速上车！10多家头部车企同日宣布接入
 - 伊朗驻俄大使说美国没有认真对待伊美谈判
 - 小鹏飞行汽车和人形机器人将于今年量产
-- 城堡投资暗示可能暂停美国纽约扩张计划，以此抨击市长马姆达尼
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- ‘Paradigm shift’: is China’s deal with mining giant BHP a global yuan milestone?
-- China set to issue US$2.3b in offshore bonds amid high demand for yuan assets
+- Breaking | Iran’s foreign minister expected in Pakistan, raising hopes for talks with US
 - China Economy
-- Why China is spending billions on a robot army to run its power grid
-- Science
-- Michigan community ‘seeks answers’ to death of Chinese chip scientist Wang Danhao
+- ‘Paradigm shift’: is China’s deal with mining giant BHP a global yuan milestone?
+- Military
+- China stages navy drill as US and Philippines embark on Balikatan 2026
 - Hong Kong Economy
 - Over 50 Central restaurants, shops join drive to boost spending, lure tourists
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- The agreement to partly link iron ore pricing to the yuan is a breakthrough but US dollar dominance in the trade remains entrenched for now, analysts say.
-- China’s grid operators plan to purchase thousands of robots in 2026 alone, including devices to inspect and maintain vital infrastructure.
-- Advocacy group holds vigil for scientist who took his own life after being questioned by US federal agents.
-- Merchants taking part in scheme promoting hidden delicacies and goods will offer discounts to residents and tourists.
 - Iran war shows ‘strategic value’ of AI for China’s military, PLA Daily says
-- Politics
-- Chinese drone discovery sharpens focus on Asia’s undersea security race
-- Experts say India is playing ‘steady catch-up’ in boosting undersea surveillance, while Southeast Asian nations’ capabilities differ widely.
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- Abbas Araghchi will arrive with a small team, a source says.
+- The agreement to partly link iron ore pricing to the yuan is a breakthrough but US dollar dominance in the trade remains entrenched for now, analysts say.
+- The Liaoning aircraft carrier appears to be among 14 large naval vessels snapped on manoeuvres in a satellite image circulating online.
+- Merchants taking part in scheme promoting hidden delicacies and goods will offer discounts to residents and tourists.
+- Science
+- Michigan community ‘seeks answers’ to death of Chinese chip scientist Wang Danhao
+- Advocacy group holds vigil for scientist who took his own life after being questioned by US federal agents.
+- Why China is spending billions on a robot army to run its power grid
+- China’s grid operators plan to purchase thousands of robots in 2026 alone, including devices to inspect and maintain vital infrastructure.
 - ‘It’s a tightrope’: why Europe’s wind industry faces a growing China dilemma
-- A debate is swirling in Europe over what role China should play in its wind power push, as the continent confronts the Middle East energy crisis.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -235,9 +235,7 @@
 - 美联储: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: 华尔街见闻 (简中), 经济通 (繁中)
 - 美国关税: 华尔街见闻 (简中)
-- 加密货币: Benzinga (EN)
 - 就业数据: Yahoo Finance (EN)
-- 黄金/大宗: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
