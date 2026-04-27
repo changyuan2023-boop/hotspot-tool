@@ -3,25 +3,23 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 47m | Meta to buy Graviton chips from Amazon as CPU sales soar | Warsh wants the Fed to adopt a new approach to inflation | Nasdaq futures rise on tech optimism, while Dow and S&P lag
-  - 其他: Intel just cleared its dot-com-era ceiling | Global equity fund inflows surge to 17-month high on AI optimism | US soldier arrested over Polymarket bets on Maduro | Bristol Myers, Pfizer to offer blockbuster blood thinner through Mark Cuban's online pharmacy | Collapsing Volatility Turbocharges Returns in Carry Trades
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | BofA's 'sleep like a baby' portfolio having best year since 1933 | Hormuz tracker: Traffic halted with blockades firmly in place | US stock futures slide with Hormuz closure, Mag 7 earnings in focus
+  - 其他: Mag 7 earnings bonanza and Powell's home stretch: What to watch | BMW CEO calls new 7 Series 'real transformation' for $100K car | Why the Iran war might not raise your grocery bill until next year | Chip toolmaker Tokyo Electron cuts ties with executive linked to Chinese rivals, FT reports | The Iran war has the world buying more clean energy. China stands to benefit the most
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Alibaba's New AI Lets You Book Flights, Order Food by Voice | Pony AI Eyes Cheaper Robotaxis, Global Expansion | Why Intel Stock Is Skyrocketing Friday | Starbucks, Trane Technologies And A Real Estate Stock On CNBC's 'Final Trades' | Broadcom's Death Cross Just Died After A 45% Stock Jump
+  - 其他: Palantir's Joe Lonsdale Once Explained Why You 'Need To Destroy Some Jobs,' But The Human Cost Of The Upcoming AI Era Is Already Becoming Clear | 22-Year Old Without A Degree Discovered Her Forte Cosplaying CEOs While Living Out Of A Subaru: Here's How She Did It | Elon Musk vs. OpenAI: Kalshi Traders Push Odds to 45% as Trial Date Approaches | Warren Buffett Once Said If Your Kids Read Your Will After You're Gone, You've Already Made A 'Terrible Mistake' — Here's Why | Poll Reveals Strong Support For Birthright Citizenship Amid Supreme Court Review
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 一支美国后勤和安全小组已抵达巴基斯坦 | 巴基斯坦媒体：美国代表团或将于明日抵达伊斯兰堡 | 欧洲理事会主席发出警告 若追随特朗普 欧盟将迷失方向 | 美国国防部长赫格塞思：第二艘美国航空母舰将加入（对伊朗的）封锁行动。
-（告诉欧洲和亚洲）“搭便车的时代已经结束了”。
-霍尔木兹海峡更多是欧洲和亚洲的责任，而不是美国的。 | 亚马逊美股盘前涨近2%，Meta Platforms已与亚马逊AWS签署一项数十亿美元规模的协议，这家社交媒体巨头将租用亚马逊数十万枚芯片，用于其人工智能研发。 | 礼来美股盘前一度跌近4%，公司新型减肥药在追赶诺和诺德的竞争中开局缓慢 | 巴基斯坦官员未说明美伊会谈将于何时举行。（彭博） | 纳斯达克100指数期货延续涨势，触及盘中高点。
-  - 其他: 马斯克在X上发文指出，“Cybercab已开始生产”。 | 小鹏集团正与海外企业洽谈合作 并计划在境外新建工厂 | 台积电涨幅扩大至5%，此前台股放宽投资单一公司股票上限。 | 早间要闻汇总 | 提醒：日内请重点关注（以下均为北京时间）
+  - 头版/首屏: 美国方面称26日仅有2艘船只通过霍尔木兹海峡 | 特朗普详述白宫记协晚宴枪击案情况：一度不愿撤离现场 | 巴媒记者披露伊朗外长折返伊斯兰堡内情 | 伊朗外长：与阿曼商讨确保霍尔木兹海峡安全通航 | 华尔街见闻早餐 | 2026年4月27日 | 白宫记协晚宴枪手事发前有“宣言”，自称对特朗普政府不满 | 伊朗提出一项分三阶段解决的谈判方案 | 提醒：日内请重点关注（以下均为北京时间）
+  - 其他: 哥伦比亚考卡省爆炸袭击死亡人数升至20人 | 马里国防部长遭袭遇害 | 以色列两名前总理联组新政党 寻求击败内塔尼亚胡 | 国际油价周一亚市盘初上涨1.5%，周末美伊谈判陷入僵局。 | 日本北海道发生6.1级地震
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Breaking | Iran’s foreign minister expected in Pakistan, raising hopes for talks with US | China Economy | ‘Paradigm shift’: is China’s deal with mining giant BHP a global yuan milestone? | Military | China stages navy drill as US and Philippines embark on Balikatan 2026 | Hong Kong Economy | Over 50 Central restaurants, shops join drive to boost spending, lure tourists | Iran war shows ‘strategic value’ of AI for China’s military, PLA Daily says
-  - 其他: Abbas Araghchi will arrive with a small team, a source says. | The agreement to partly link iron ore pricing to the yuan is a breakthrough but US dollar dominance in the trade remains entrenched for now, analysts say. | The Liaoning aircraft carrier appears to be among 14 large naval vessels snapped on manoeuvres in a satellite image circulating online. | Merchants taking part in scheme promoting hidden delicacies and goods will offer discounts to residents and tourists. | Science
+  - 头版/首屏: Exclusive | Why China’s yuan faces the same ‘illusions’ that stalled the euro: Daniel Gros | Open Questions | ‘Saying you’re a geopolitical actor doesn’t make it so’: Sven Biscop on Europe | Military | Trump factor drives up Asia-Pacific military spending at fastest pace since 2009 | Science | Scientists in China create a predator-like material to hunt for uranium in ocean | Education | ESF reserves reach HK$3.75 billion, even as government subsidies shrink
+  - 其他: Former European economic adviser says Beijing’s bid to build an international currency will hinge on leaders allowing it to fluctuate freely. | Expenditures rose to US$681 billion, as some nations worried that Washington might not be a reliable security partner. | Breakthrough could aid radioactive pollution clean-ups and allow for uranium ion extraction from seawater to power nuclear reactors. | Hong Kong’s largest international school group also says in latest annual report it expects increased competition to bring in new students. | China is poised to reap rewards as energy shock heats up the race for renewables
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 北京车展开幕在即，车股可趁调整吸纳？ | 中东天然气供应受限 粤电价3年高 | 锁霍峡断粮食链 全球餐桌临风暴 | 票房标杆盛极衰，“西游降魔”终成魔 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 北京车展开幕在即，车股可趁调整吸纳？ | 中东天然气供应受限 粤电价3年高 | 白宫记协晚宴传枪声 特朗普紧急撤离 | 票房标杆盛极衰，“西游降魔”终成魔 | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数25978.07+62.87(+0.24%)
                     etnet.com.hk@copyright | 国企指数8775.62+42.99(+0.49%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -34,24 +32,23 @@
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **油价/能源/霍尔木兹** — 出现于: 华尔街见闻 (简中), 经济通 (繁中) (2 站)
-- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中) (4 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中) (4 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **就业/经济数据** — 出现于: Benzinga (EN) (1 站)
+- **黄金/大宗商品** — 出现于: Benzinga (EN) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 伊朗/中东局势（4 站）
-- 科技股/个股（4 站）
-- 中国/欧盟（4 站）
-- 美联储/利率（3 站）
-- 油价/能源（2 站）
-- 关税/贸易政策（1 站）
+- 油价/能源（4 站）
+- 科技股/个股（3 站）
+- 中国/欧盟（3 站）
+- 美联储/利率（2 站）
 - 就业/经济数据（1 站）
-- 中国政策（1 站）
+- 黄金/大宗商品（1 站）
+- 关税/贸易政策（0 站）
 - 加密货币（0 站）
-- 黄金/大宗商品（0 站）
+- 中国政策（0 站）

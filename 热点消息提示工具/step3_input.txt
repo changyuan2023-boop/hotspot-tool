@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -25,7 +25,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年4月24日`
+`早间热点线索 · 2026年4月27日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据），点明对哪些标的/板块的影响（涨跌方向），结尾标注核心标的代码或板块名称。`
@@ -54,15 +54,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -91,7 +91,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026042420
+抓取时间: 2026042709
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -99,25 +99,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 47m
-- Meta to buy Graviton chips from Amazon as CPU sales soar
-- Warsh wants the Fed to adopt a new approach to inflation
-- Nasdaq futures rise on tech optimism, while Dow and S&P lag
-- Tide maker P&G's earnings beat but Iran war drives up costs
-- HR chiefs expect companies to step up hiring in next 6 months
-- China to curb US investment in its high-flying AI pioneers
-- Behind the 40,000% stock surge that's mystifying traders in Turkey
+- U.S. markets closed
+- BofA's 'sleep like a baby' portfolio having best year since 1933
+- Hormuz tracker: Traffic halted with blockades firmly in place
+- US stock futures slide with Hormuz closure, Mag 7 earnings in focus
+- Musk's legal battle with OpenAI and Altman heads to trial on Monday
+- Warsh confirmation set to advance as GOP holdout Tillis backs vote
+- Chevron CEO says Venezuela must do more for oil industry revival
+- Wall Street strategists are bullish on the AI trade
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Intel just cleared its dot-com-era ceiling
-- Global equity fund inflows surge to 17-month high on AI optimism
-- US soldier arrested over Polymarket bets on Maduro
-- Bristol Myers, Pfizer to offer blockbuster blood thinner through Mark Cuban's online pharmacy
-- Collapsing Volatility Turbocharges Returns in Carry Trades
-- Why this Tesla bear still sees a 60% crash in the EV maker's stock
-- Lilly's obesity pill hits nearly 4000 prescriptions in second week after launch
-- U.S. equity fund inflows rise on earnings optimism, AI boost
-- Meta strikes deal with Amazon's cloud unit to use its CPU chips
-- Trump grants 90-day Jones Act waiver extension to curb energy costs
+- Mag 7 earnings bonanza and Powell's home stretch: What to watch
+- BMW CEO calls new 7 Series 'real transformation' for $100K car
+- Why the Iran war might not raise your grocery bill until next year
+- Chip toolmaker Tokyo Electron cuts ties with executive linked to Chinese rivals, FT reports
+- The Iran war has the world buying more clean energy. China stands to benefit the most
+- Oil prices increase after Iran doubles down on Strait of Hormuz closure, accuses US of undermining trust
+- Record-Setting Momentum Rally Is Drawing Doubters
+- Consumers are confusing the hell out of me. What am I missing?
+- Trump Says Gala Attack Shows Security Need for His Ballroom
+- Why CEO of Taco Bell, KFC, and Pizza Hut doesn't plan to go viral
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -132,73 +132,71 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Alibaba's New AI Lets You Book Flights, Order Food by Voice
-- Pony AI Eyes Cheaper Robotaxis, Global Expansion
-- Why Intel Stock Is Skyrocketing Friday
-- Starbucks, Trane Technologies And A Real Estate Stock On CNBC's 'Final Trades'
-- Broadcom's Death Cross Just Died After A 45% Stock Jump
-- Stock Market Today: Dow Jones, S&P 500 Futures Edge Lower Amid Extension Of Israel-Lebanon Ceasefire—Intel, SAP, Lunai Bioworks In Focus
-- Semiconductor Stocks
+- Palantir's Joe Lonsdale Once Explained Why You 'Need To Destroy Some Jobs,' But The Human Cost Of The Upcoming AI Era Is Already Becoming Clear
+- 22-Year Old Without A Degree Discovered Her Forte Cosplaying CEOs While Living Out Of A Subaru: Here's How She Did It
+- Elon Musk vs. OpenAI: Kalshi Traders Push Odds to 45% as Trial Date Approaches
+- Warren Buffett Once Said If Your Kids Read Your Will After You're Gone, You've Already Made A 'Terrible Mistake' — Here's Why
+- Poll Reveals Strong Support For Birthright Citizenship Amid Supreme Court Review
+- Trump Vows 'Large, Safe, and Secure' White House Ballroom in Wake of Correspondents' Dinner Incident
+- Brian Armstrong
 - Donald Trump
-- Elon Musk
-- Intel Stock Soars Nearly 20% Overnight As Jim Cramer Says 'Paranoid' INTC Is Back, Gene Munster Notes AI Boom Still Early
+- Tractor Supply, Lululemon, and Northrop Grumman Are Among Top 10 Large-Cap Losers Last Week (April 20-April 24): Are The Others In Your Portfolio?
+- Trump Warns Republicans Of 'Unrecoverable Death Wish' Over Save America Act
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 一支美国后勤和安全小组已抵达巴基斯坦
-- 巴基斯坦媒体：美国代表团或将于明日抵达伊斯兰堡
-- 欧洲理事会主席发出警告 若追随特朗普 欧盟将迷失方向
-- 美国国防部长赫格塞思：第二艘美国航空母舰将加入（对伊朗的）封锁行动。
-（告诉欧洲和亚洲）“搭便车的时代已经结束了”。
-霍尔木兹海峡更多是欧洲和亚洲的责任，而不是美国的。
-- 亚马逊美股盘前涨近2%，Meta Platforms已与亚马逊AWS签署一项数十亿美元规模的协议，这家社交媒体巨头将租用亚马逊数十万枚芯片，用于其人工智能研发。
-- 礼来美股盘前一度跌近4%，公司新型减肥药在追赶诺和诺德的竞争中开局缓慢
-- 巴基斯坦官员未说明美伊会谈将于何时举行。（彭博）
-- 纳斯达克100指数期货延续涨势，触及盘中高点。
-- 巴基斯坦消息人士：伊朗外长今晚将率团抵达伊斯兰堡
-- 以色列国防军称以色列北部两座城镇响起警报。
-- 美国后勤与安全团队抵达伊斯兰堡参加和平谈判。（彭博）
-- 巴基斯坦称伊朗外长预计将于周五抵达伊斯兰堡
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 马斯克在X上发文指出，“Cybercab已开始生产”。
-- 小鹏集团正与海外企业洽谈合作 并计划在境外新建工厂
-- 台积电涨幅扩大至5%，此前台股放宽投资单一公司股票上限。
-- 早间要闻汇总
+- 美国方面称26日仅有2艘船只通过霍尔木兹海峡
+- 特朗普详述白宫记协晚宴枪击案情况：一度不愿撤离现场
+- 巴媒记者披露伊朗外长折返伊斯兰堡内情
+- 伊朗外长：与阿曼商讨确保霍尔木兹海峡安全通航
+- 华尔街见闻早餐 | 2026年4月27日
+- 白宫记协晚宴枪手事发前有“宣言”，自称对特朗普政府不满
+- 伊朗提出一项分三阶段解决的谈判方案
 - 提醒：日内请重点关注（以下均为北京时间）
-- 以色列驻联合国代表：以黎停火延期“并非百分之百确定”
-- 美官员称伊朗本周已在霍尔木兹海峡布设更多水雷
-- 千问加速上车！10多家头部车企同日宣布接入
-- 伊朗驻俄大使说美国没有认真对待伊美谈判
-- 小鹏飞行汽车和人形机器人将于今年量产
+- 美股期货亚市盘初小幅走低，标普500指数期货、纳斯达克100指数期货均跌0.3%。
+- 巴基斯坦外长：伊斯兰堡会谈核心区解除交通管制
+- 伊朗外长27日将访问俄罗斯，将与普京会面
+- 伊朗外长向巴基斯坦递交停战条件
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- 哥伦比亚考卡省爆炸袭击死亡人数升至20人
+- 马里国防部长遭袭遇害
+- 以色列两名前总理联组新政党 寻求击败内塔尼亚胡
+- 国际油价周一亚市盘初上涨1.5%，周末美伊谈判陷入僵局。
+- 日本北海道发生6.1级地震
+- 阿曼外交大臣：已就霍尔木兹海峡问题与伊朗外长进行“良好讨论”
+- 白宫记协晚宴枪击后 英王室确认查尔斯三世将按原计划访美
+- DeepSeek输入缓存降价
+- 法塔赫赢得巴勒斯坦地方选举，哈马斯未参加
+- 普京：俄罗斯人民铭记俄朝士兵并肩作战的英勇事迹
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Breaking | Iran’s foreign minister expected in Pakistan, raising hopes for talks with US
-- China Economy
-- ‘Paradigm shift’: is China’s deal with mining giant BHP a global yuan milestone?
+- Exclusive | Why China’s yuan faces the same ‘illusions’ that stalled the euro: Daniel Gros
+- Open Questions | ‘Saying you’re a geopolitical actor doesn’t make it so’: Sven Biscop on Europe
 - Military
-- China stages navy drill as US and Philippines embark on Balikatan 2026
-- Hong Kong Economy
-- Over 50 Central restaurants, shops join drive to boost spending, lure tourists
-- Iran war shows ‘strategic value’ of AI for China’s military, PLA Daily says
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Abbas Araghchi will arrive with a small team, a source says.
-- The agreement to partly link iron ore pricing to the yuan is a breakthrough but US dollar dominance in the trade remains entrenched for now, analysts say.
-- The Liaoning aircraft carrier appears to be among 14 large naval vessels snapped on manoeuvres in a satellite image circulating online.
-- Merchants taking part in scheme promoting hidden delicacies and goods will offer discounts to residents and tourists.
+- Trump factor drives up Asia-Pacific military spending at fastest pace since 2009
 - Science
-- Michigan community ‘seeks answers’ to death of Chinese chip scientist Wang Danhao
-- Advocacy group holds vigil for scientist who took his own life after being questioned by US federal agents.
-- Why China is spending billions on a robot army to run its power grid
-- China’s grid operators plan to purchase thousands of robots in 2026 alone, including devices to inspect and maintain vital infrastructure.
-- ‘It’s a tightrope’: why Europe’s wind industry faces a growing China dilemma
+- Scientists in China create a predator-like material to hunt for uranium in ocean
+- Education
+- ESF reserves reach HK$3.75 billion, even as government subsidies shrink
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- Former European economic adviser says Beijing’s bid to build an international currency will hinge on leaders allowing it to fluctuate freely.
+- Expenditures rose to US$681 billion, as some nations worried that Washington might not be a reliable security partner.
+- Breakthrough could aid radioactive pollution clean-ups and allow for uranium ion extraction from seawater to power nuclear reactors.
+- Hong Kong’s largest international school group also says in latest annual report it expects increased competition to bring in new students.
+- China is poised to reap rewards as energy shock heats up the race for renewables
+- East Asia
+- Magnitude 6.2 quake strikes Japan’s Hokkaido, JMA warns of more to come
+- The temblors come less than a week after last Monday’s 7.7 earthquake off northern Iwate prefecture.
+- Diplomacy
+- China warns EU to remove firms and citizens from Russian sanctions list
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
 - 北京车展开幕在即，车股可趁调整吸纳？
 - 中东天然气供应受限 粤电价3年高
-- 锁霍峡断粮食链 全球餐桌临风暴
+- 白宫记协晚宴传枪声 特朗普紧急撤离
 - 票房标杆盛极衰，“西游降魔”终成魔
 - 指数环球商品外汇
 - 国金观点
@@ -229,14 +227,13 @@
 - Windows
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: 华尔街见闻 (简中), 经济通 (繁中)
-- 美国关税: 华尔街见闻 (简中)
-- 就业数据: Yahoo Finance (EN)
-- 中国政策/两会: 华尔街见闻 (简中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 就业数据: Benzinga (EN)
+- 黄金/大宗: Benzinga (EN)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
