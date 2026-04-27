@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：早间**
-**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
+**当前模式：晚间**
+**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
 
 ---
 
@@ -25,7 +25,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`早间热点线索 · 2026年4月27日`
+`晚间热点线索 · 2026年4月27日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据），点明对哪些标的/板块的影响（涨跌方向），结尾标注核心标的代码或板块名称。`
@@ -54,15 +54,15 @@
 
 ---
 
-## 早间模式操作指令
+## 晚间模式操作指令
 
-聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
+聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
 重点关注（按重要性排序写入）：
-1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
-2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
-3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
-4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
+1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
+4. 其他值得今晚关注的美股消息
 
 ---
 
@@ -91,7 +91,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026042709
+抓取时间: 2026042720
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -99,25 +99,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets closed
-- BofA's 'sleep like a baby' portfolio having best year since 1933
-- Hormuz tracker: Traffic halted with blockades firmly in place
-- US stock futures slide with Hormuz closure, Mag 7 earnings in focus
-- Musk's legal battle with OpenAI and Altman heads to trial on Monday
-- Warsh confirmation set to advance as GOP holdout Tillis backs vote
-- Chevron CEO says Venezuela must do more for oil industry revival
-- Wall Street strategists are bullish on the AI trade
+- U.S. markets open in 1h 30m
+- China blocks Meta's acquisition of AI startup Manus
+- Stock futures stall with Big Tech earnings ahead
+- Iran said to offer US a deal to reopen Hormuz, end war
+- Earnings live: Domino's falls as busy 'Magnificent 7' earnings week begins
+- Goldman hikes oil forecasts again as 'Hormuz shock' builds
+- Verizon ups profit forecast on surprise rise in wireless subscribers
+- Americans are underestimating their life spans — and undersaving
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Mag 7 earnings bonanza and Powell's home stretch: What to watch
-- BMW CEO calls new 7 Series 'real transformation' for $100K car
-- Why the Iran war might not raise your grocery bill until next year
-- Chip toolmaker Tokyo Electron cuts ties with executive linked to Chinese rivals, FT reports
-- The Iran war has the world buying more clean energy. China stands to benefit the most
-- Oil prices increase after Iran doubles down on Strait of Hormuz closure, accuses US of undermining trust
-- Record-Setting Momentum Rally Is Drawing Doubters
-- Consumers are confusing the hell out of me. What am I missing?
-- Trump Says Gala Attack Shows Security Need for His Ballroom
-- Why CEO of Taco Bell, KFC, and Pizza Hut doesn't plan to go viral
+- Fed set to stand pat on rates this week amid Iran conflict
+- Meta signs deal with Overview on solar power for data centers
+- BofA's 'sleep like a baby' portfolio is having best year since 1933
+- SpaceX and OpenAI IPOs: 1 warning to not overlook
+- Eli Lilly to buy Ajax Therapeutics for up to $2.3 billion
+- Tech stocks today: Qualcomm stock soars, Nvidia tops $5 trillion again, with Big Tech Q1 updates on deck
+- Qualcomm jumps 12% as analyst points to next big catalyst for chipmaker
+- Samsung Elec to withdraw home appliances, TV sales from China this year, Nikkei reports
+- India-New Zealand trade pact cuts fruit tariffs, boosts exports, visas
+- Medtronic says cyberattack on IT network has not disrupted operations
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -132,72 +132,76 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Palantir's Joe Lonsdale Once Explained Why You 'Need To Destroy Some Jobs,' But The Human Cost Of The Upcoming AI Era Is Already Becoming Clear
-- 22-Year Old Without A Degree Discovered Her Forte Cosplaying CEOs While Living Out Of A Subaru: Here's How She Did It
-- Elon Musk vs. OpenAI: Kalshi Traders Push Odds to 45% as Trial Date Approaches
-- Warren Buffett Once Said If Your Kids Read Your Will After You're Gone, You've Already Made A 'Terrible Mistake' — Here's Why
-- Poll Reveals Strong Support For Birthright Citizenship Amid Supreme Court Review
-- Trump Vows 'Large, Safe, and Secure' White House Ballroom in Wake of Correspondents' Dinner Incident
+- How To Earn $500 A Month From General Motors Stock Ahead Of Q1 Earnings
+- Adagio Medical Heart Ablation System Shows 84% Freedom From Shock
+- Jim Cramer Says No To This Industrial Stock: It Is Up 'Way Too Much'
+- Abbott's Strong AFib, Cardiac Device Data Fuels Heart-Rhythm Device Buzz
+- Pony AI Stock Rises After NVIDIA-Powered Tech Reveal
+- Stock Market Today: Dow Jones, S&P 500 Futures Fall As Trump Halts Iran Talks—Organon, SAP, Cheetah Net Supply Chain Service In Focus
 - Brian Armstrong
 - Donald Trump
-- Tractor Supply, Lululemon, and Northrop Grumman Are Among Top 10 Large-Cap Losers Last Week (April 20-April 24): Are The Others In Your Portfolio?
-- Trump Warns Republicans Of 'Unrecoverable Death Wish' Over Save America Act
+- Robinhood Q1 Earnings Preview: Will The Vlad Tenev-Led Brokerage Firm Feel The Pinch Of Crypto Bear Market?
+- Wall Street's Most Accurate Analysts Spotlight On 3 Risk Off Stocks Delivering High-Dividend Yields
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美国方面称26日仅有2艘船只通过霍尔木兹海峡
-- 特朗普详述白宫记协晚宴枪击案情况：一度不愿撤离现场
-- 巴媒记者披露伊朗外长折返伊斯兰堡内情
-- 伊朗外长：与阿曼商讨确保霍尔木兹海峡安全通航
-- 华尔街见闻早餐 | 2026年4月27日
-- 白宫记协晚宴枪手事发前有“宣言”，自称对特朗普政府不满
-- 伊朗提出一项分三阶段解决的谈判方案
-- 提醒：日内请重点关注（以下均为北京时间）
-- 美股期货亚市盘初小幅走低，标普500指数期货、纳斯达克100指数期货均跌0.3%。
-- 巴基斯坦外长：伊斯兰堡会谈核心区解除交通管制
-- 伊朗外长27日将访问俄罗斯，将与普京会面
-- 伊朗外长向巴基斯坦递交停战条件
+- 白宫贸易顾问纳瓦罗：特朗普政府正在调查肉类价格高企问题。
+- 百济神州：全资子公司与华辉安健签订全球独家开发合作协议
+- 高通美股盘前涨超14%。
+- 威瑞森第一季度调整后EBITDA 134亿美元，预估131.4亿美元。
+第一季度营运收入344.4亿美元，预估348亿美元。
+第一季度调整后每股收益1.28美元，预估1.21美元。
+威瑞森仍然预测全年自由现金流至少215亿美元，市场预估21
+- 礼来将以最高23亿美元现金收购Ajax Therapeutics。（彭博）
+- 阿里HappyHorse开启灰测，720P视频生成低至0.44元/秒
+- 摩根大通据悉将把部分职位从巴黎迁至伦敦。（彭博）
+- 特斯拉：4月21日，马斯克签署实施协议，以行使2018年首席执行官绩效奖励。
+提交S-8表格，为马斯克2018年CEO绩效奖励注册3.0396亿股特斯拉普通股。
+- 达美乐比萨第一季度营收低于预估
+- Meta与Overview Energy等达成合作
+- 高通美股盘前涨超10%
+- 黎巴嫩真主党领导人：坚决拒绝与以色列进行直接谈判
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 哥伦比亚考卡省爆炸袭击死亡人数升至20人
-- 马里国防部长遭袭遇害
-- 以色列两名前总理联组新政党 寻求击败内塔尼亚胡
-- 国际油价周一亚市盘初上涨1.5%，周末美伊谈判陷入僵局。
-- 日本北海道发生6.1级地震
-- 阿曼外交大臣：已就霍尔木兹海峡问题与伊朗外长进行“良好讨论”
-- 白宫记协晚宴枪击后 英王室确认查尔斯三世将按原计划访美
-- DeepSeek输入缓存降价
-- 法塔赫赢得巴勒斯坦地方选举，哈马斯未参加
-- 普京：俄罗斯人民铭记俄朝士兵并肩作战的英勇事迹
+- 协鑫能科：第一季度净利润2.88亿元，同比增长13.50%
+- 千里科技Q1业绩速递：营收同比增长31.37%，归母净利润增长141.31%
+- 伊朗外长说美方过分要求令上一轮谈判无果而终
+- 汇川技术：2026年一季度净利润10.13亿元，同比下降23.39%
+- 工信部等五部门联合开展规范废旧动力电池回收利用执法专项行动
+- 阳光电源：一季度净利润22.91亿元，同比下降40.12%
+- 完美世界：第一季度净利润1.03亿元，同比下降66.02%
+- 天齐锂业：一季度净利润18.76亿元，同比增长1,699.12%
+- 禾盛新材：公司并非熠知电子控股股东，熠知电子处于持续亏损状态，何时实现盈利存在不确定性。
+- 德国总理：暂未看到美方在伊朗战争中的退出战略
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Exclusive | Why China’s yuan faces the same ‘illusions’ that stalled the euro: Daniel Gros
-- Open Questions | ‘Saying you’re a geopolitical actor doesn’t make it so’: Sven Biscop on Europe
+- Exclusive | Territorial integrity is ‘red line’ for Europe, Finland warns after US Greenland threats
+- Exclusive | China’s Russia ties mean EU trade deal is off the table, Finland says
+- China Economy
+- China’s industrial profits hit 6-month high amid Iran war price spikes
 - Military
-- Trump factor drives up Asia-Pacific military spending at fastest pace since 2009
-- Science
-- Scientists in China create a predator-like material to hunt for uranium in ocean
-- Education
-- ESF reserves reach HK$3.75 billion, even as government subsidies shrink
+- PLA showcases YJ-20 anti-ship missiles as US-Japan-Philippines test war moves
+- Law and Crime
+- Hong Kong police arrest 9 men in joint Asia-wide crackdown on child pornography
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Former European economic adviser says Beijing’s bid to build an international currency will hinge on leaders allowing it to fluctuate freely.
-- Expenditures rose to US$681 billion, as some nations worried that Washington might not be a reliable security partner.
-- Breakthrough could aid radioactive pollution clean-ups and allow for uranium ion extraction from seawater to power nuclear reactors.
-- Hong Kong’s largest international school group also says in latest annual report it expects increased competition to bring in new students.
-- China is poised to reap rewards as energy shock heats up the race for renewables
-- East Asia
-- Magnitude 6.2 quake strikes Japan’s Hokkaido, JMA warns of more to come
-- The temblors come less than a week after last Monday’s 7.7 earthquake off northern Iwate prefecture.
-- Diplomacy
-- China warns EU to remove firms and citizens from Russian sanctions list
+- Foreign Minister Elina Valtonen insists on the importance of national sovereignty, saying ‘we react through the means we have’.
+- Fuel-processing sector pivots to profit while tech gains shield margins from modest revenue growth, highlighting an efficiency-led rally over a demand recovery.
+- Video of PLA Navy strike tests emerges as US, allies take part in Balikatan 2026, marking Japan’s first-ever operational role in the drills.
+- Suspects aged between 18 and 61 held in the city as part of coordinated operation involving seven jurisdictions and more than 300 arrests.
+- China blocks Meta’s Manus deal after months-long probe, thwarting purchase
+- China Business
+- China equities set for boost as Trump-Xi meeting raises hopes of thaw
+- Investors are betting a Trump-Xi summit will ease tensions, helping Chinese equities close their long-standing valuation gap.
+- China delivers record LNG carrier – is South Korea losing its shipbuilding edge?
+- The vessel’s completion follows China dominating global shipbuilding orders last year, with South Korea leading in high-value segments.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 北京车展开幕在即，车股可趁调整吸纳？
-- 中东天然气供应受限 粤电价3年高
+- DeepSeek新模型大减价，MINIMAX智谱获大行力撑还急跌
+- 中央促网络平台快递企业 强化保障新就业群体权益
 - 白宫记协晚宴传枪声 特朗普紧急撤离
-- 票房标杆盛极衰，“西游降魔”终成魔
+- 鱼翅VS萝卜，成本降维加持“token经济”
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -206,9 +210,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25978.07+62.87(+0.24%)
+- 恒生指数25925.65-52.42(-0.20%)
                     etnet.com.hk@copyright
-- 国企指数8775.62+42.99(+0.49%)
+- 国企指数8756.32-19.30(-0.22%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -227,13 +231,16 @@
 - Windows
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 就业数据: Benzinga (EN)
-- 黄金/大宗: Benzinga (EN)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 就业数据: SCMP (EN/中), 经济通 (繁中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美国关税: Yahoo Finance (EN)
+- 加密货币: Benzinga (EN)
+- 美联储: Yahoo Finance (EN)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
