@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026042809
+抓取时间: 2026042820
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,109 +9,99 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets closed
-- Microsoft, OpenAI rewrite partnership deal
-- Trump says Iran has 'days left' before it has to halt oil production
-- Microsoft to report earnings amid stock slide, OpenAI deal
-- Alphabet earnings on tap with AI spending updates in focus
-- Bitcoin touches 12-week high as traders weigh progress on Iran
-- Joby Aviation test flight sends electric air taxi from JFK to Manhattan
-- Amazon secures exclusive rights to Oprah Winfrey's podcast
+- U.S. markets open in 1h 30m
+- Stock futures mixed as techs stall, oil jumps
+- OpenAI-linked stocks slump on report of missed targets
+- Trump to address Iran's offer soon, but said not to be happy with it
+- Earnings: Spotify guidance falls short, Coca-Cola rises
+- GM ups profit forecast as earnings top estimates
+- The only number that matters for 'Mag 7' earnings this week
+- SpaceX ties Musk's compensation to Mars colony goal
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- US stock futures inch higher with Iran, Fed, earnings in focus
-- JPMorgan: Oil prices may spike again as 'something is off' with current math
-- Blue Owl fund investors rebuff Boaz Weinstein offer to buy shares
-- Oil Steadies as US Weighs Iran Proposal With Hormuz Still Shut
-- Gold Steadies as Traders Weigh Diplomatic Push to End Iran War
-- Activist Starboard Value takes major stake in AI software maker Dynatrace, WSJ reports
-- UK Retailers Offer Bigger Discounts as Shopper Confidence Wanes
-- Trump Discusses Iran Proposal With Aides, White House Says
-- Box to launch Box Automate to speed up customers' business with AI, CEO says
-- American Airlines Sells $1.14 Billion in Bonds for 32 Planes
+- Why Powell could stick around after his Fed chair term ends
+- Americans' fear of going broke in retirement outweighs fear of death
+- Oil retakes $110 in wait for US to respond to Iran proposal
+- Oracle, CoreWeave shares drop after report flags OpenAI growth worries
+- Profluent, Lilly partner in genetic medicine deal worth up to $2.25 billion
+- UK Retailers Offer Big Discounts as Shopper Confidence Wanes
+- Elon Musk to testify in a case that could change the path of AI
+- Tech’s ‘New Normal’ Trade Pair: Long Chip Stock, Short Software
+- Toyota suppliers feeling profit pressure from Iran war
+- JPMorgan Says Firms Avoid Raising Forecasts Due to War Concerns
 
 ## Benzinga (EN)
-头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Latest News
-- Top Stories
-- QUICK LINKS
-- Markets Pulse
-- Why Is It Moving?™
-- Trending Stories
-- Sponsored Content
-- Expert Ideas
-- UPCOMING EVENTS
-- INSIDER TRADES
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Intel Vs. Nvidia Stock: Which Semiconductor Is Up More Since They Swapped Places In Dow Jones Industrial Average?
-- Sanmina Stock Surges On Q2 Earnings: What To Know
-- Rambus Stock Sinks After Mixed Q1 Earnings Report
-- Tesla Shares Rise 4% After Key Trading Signal
-- Nucor Stock Jumps On Q1 Earnings Beat: Key Details From The Print
-- Brian Armstrong
-- Donald Trump
-- Goldman Just Lifted Its Oil Forecast Again — And It's Not What Trump Expected
-- EXCLUSIVE: Fake-Account Attack On Tesla Exposes Bigger Threat To US Stocks
-- EXCLUSIVE: Ross Gerber's Magnificent Seven Rankings — Plus The Outsider Tech Pick He Says Will 'Be A Trillion Dollar Company'
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美国官员表示，特朗普对伊朗的提议感到不满。
-- 维权投资者、华尔街对冲基金Starboard Value已建仓Dynatrace。（华尔街日报）
-- 华尔街见闻早餐 | 2026年4月28日
-- 美国商务部：苹果CEO与商务部长卢特尼克今日会面。
-- 高盛：AI风险正加剧关于股票估值的争论
-- 美国国务卿卢比奥：现任领导人之下，古巴不可能推进经济改革。
-- 数据显示：一艘LNG运输船似已驶过霍尔木兹海峡
-- 瑞典和平研究所：2025全球军费创历史新高
-- 卢比奥：美国对提交伊朗最新提议的人士存有疑问
-- 提醒：日内请重点关注（以下均为北京时间）
-- 美国财长贝森特谈及伊朗石油行业，宣称：美军实施（霍尔木兹海峡军事）封锁以来，伊朗石油产业开始关闭。
-- 周二亚太盘初，美国三大股指期货、罗素2000股指期货涨约0.2%。
+- 纳斯达克100指数期货跌幅扩大至1%，触及盘中低点。
+- 可口可乐第一季度净营收125亿美元，预估122.5亿美元。
+第一季度可比每股收益0.86美元，预估0.81美元。
+可口可乐仍然预测全年资本支出22亿美元，市场预估22.1亿美元。
+可口可乐预计全年可比每股收益增长8％至9％。
+可口可乐美股盘
+- 通用汽车第一季度调整后每股收益3.70美元，预估2.60美元。
+第一季度净销售额和营收436.2亿美元，预估434亿美元。
+第一季度调整后息税前利润42.5亿美元，预估30.2亿美元。
+第一季度自由现金流12.7亿美元，预估19.2亿美元。
+- 美国能源部长Wright：特朗普专注于与伊朗达成恰当的协议。
+- 报道称OpenAI未达销售目标 相关股票下跌
+- Spotify第一季度营收45.3亿欧元，预估45.3亿欧元。
+第一季度营业利润7.15亿欧元，同比增长40%。
+第一季度每股收益3.45欧元，上年同期1.07欧元。
+第一季度月活跃用户数7.61亿，预估7.5923亿。
+Spotify预计
+- 联合包裹第一季度营收212亿美元，预估209.9亿美元。
+第一季度调整后每股收益1.07美元，预估1.03美元。
+联合包裹仍预计全年营收约897亿美元，市场预估897.1亿美元。
+联合包裹美股盘前跌近3%。
+- 天猫618将于5月21日开启
+- 白宫解除国家科学委员会全体成员职务
+- 顾虑“特朗普因素” 北约考虑结束年度峰会模式
+- 美股盘前，半导体股多数下跌，ARM跌超6%，AMD跌近3%，高通、阿斯麦跌近2%。
+- 巴克莱股票交易营收增长 但整体交易业务表现逊于华尔街同行
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Rambus一季度调整后每股收益（EPS）为0.55美元，运营利润率34%。
-预计二季度产品营收0.95亿-1.01亿美元，合同与其他收入0.19亿-0.25亿美元，许可订单0.76亿-0.82亿美元。
-Rambus美股盘后涨4%。
-- 俄防长会见伊朗副防长
-- 铿腾电子一季度营收14.7亿美元，分析师预期14.6亿美元。
-一季度调整后每股收益（EPS）为1.96美元，分析师预期1.89美元。
-预计全年营收61.3亿-62.3亿美元，公司原本预计59亿-60亿美元。
-- 周一（4月27日），彭博电动汽车价格回报指数涨0.89%，报4002.92点。
-- 中概指数收跌1.2%，KWEB跌超1.6%，世纪互联跌超4.1%，阿里跌超2%
-- 标普、纳指再创收盘历史新高，费城半导体指数连涨18天之后转跌
-- 大摩认为沃什将带来长期机制变革风险，加剧美债市场波动
-- 精神科药物开发商Seaport申请美国IPO，寻求融资超2亿美元
-- 美国财长贝森特对参议院Sanders的AI监管立场颇多微词。
-- 伊朗外交部：美方扣押伊朗油轮是将“海盗行为”合法化
+- 现货黄金日内跌幅达2.0%，报4588.02美元/盎司。
+现货白银日内跌幅达4.0%，报72.45美元/盎司。
+- 乌克兰首都基辅传出爆炸声
+- 中国建筑：第一季度归母净利润138.81亿元，同比下降7.5%
+- 深市主板首单红筹企业华润新能源过会
+- 游族网络：一季度净利润1.04亿元，同比增长 319.99%。
+- WTI原油日内涨幅达4.0%，报100.28美元/桶；布伦特原油涨近3%。
+现货黄金跌破4600美元/盎司关口，日内跌1.8%。
+- 维科技术：公司钠离子电池因产量处于爬坡阶段、生产成本较高，2025年计提存货跌价准备3,537万元。
+- 覆铜板行业龙头建滔上调部分产品价格10%
+- 科大讯飞：一季度营收同比增长13.23%，净亏损1.7亿元
+- 昆仑万维：一季度净亏损8.87亿元，上年同期亏损7.69亿元；报告期公司短剧和AI短剧平台业务、Opera广告业务、AI业务等发展迅速，收入增加。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- China’s DeepSeek prices new V4 AI model at 97% below OpenAI’s GPT-5.5
-- OpenClaw adds DeepSeek V4 models as tech world assesses Huawei tie-up
-- China Economy
-- In China, a France-sized population loss begins to test coastal powerhouses
-- Diplomacy
-- ‘Diplomatic malpractice’: experts warn of thin agenda ahead of Xi-Trump summit
-- Health & Environment
-- Hong Kong to block off parts of Sharp Island shore to protect corals over break
+- Why Moody’s has raised China’s credit outlook amid Iran war shocks
+- China trims US Treasury holdings as global ownership hits record
+- China EVs
+- China’s EV and battery makers race to cut charging times to under 10 minutes
+- Politics
+- Foreign forces pushing ‘lying flat’ credo aim to sabotage ‘future of China’
+- Law and Crime
+- Homeowner at Redhill Peninsula fined nearly HK$1 million for illegal structures
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- DeepSeek’s move aims to attract more enterprise clients, developers and agent-based users, according to an academic.
-- Rising pension burdens and social security subsidies are also straining public finances – though trends remain uneven, analysts say.
-- Former diplomat warns ‘malpractice-like’ lack of preparation for meeting could hollow out potential for productive talks.
-- Authorities expect 1,000 visitors in the area each day during the coming Labour Day ‘golden week’ holiday.
-- Why tougher US visa rules for skilled foreign workers may end in ‘brain drain’
-- Trump’s Golden Dome targets China’s ‘hypersonic weapons, cruise missiles’
-- US president’s US$185 billion missile defence shield to counter Chinese, Russian missile arsenals, a senior Pentagon official told Congress.
-- Trump and Iran trade red lines as Putin enters the diplomatic crossfire
-- Message via Pakistan outlines terms on nuclear work and Strait of Hormuz, as Moscow signals support and Washington considers next move.
-- Economics
+- Ratings agency gives China an A1 long-term rating, citing the economy’s resilience in the face of trade and geopolitical pressures.
+- Fast-charging technology takes centre stage at the Beijing Auto Show as firms unveil batteries promising unprecedented speed.
+- Foreign funding is behind spread of narrative intended to erode young people’s spirit and social values, Ministry of State Security says.
+- Court says defendant showed ‘total disregard for law and safety’ by failing to remove illegal works despite authorities issuing order two years ago.
+- Un-sanctioned: China to welcome Dutch trade minister amid Nexperia, ASML discord
+- BYD, China’s EV king, posts a 55% slump in first-quarter profit
+- The company reports a net profit of nearly 4.09 billion yuan (US$590 million) and revenue of 150.2 billion yuan.
+- Science
+- China upgrades maritime rescue range and depth as ambitions on the seas expand
+- Body responsible for strategically sensitive South China Sea completes ‘formal transition’ after extensive deepwater training.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 洛钼首季多赚近倍股价却曾跌半成，资源股怎么选？
-- 中央促网络平台快递企业 强化保障新就业群体权益
+- 宁德时代拟配股抽水392亿元 股价急跌近7%
+- 内地3月工业利润按年增15.8% 半年高
 - 特朗普：枪手充满仇恨 且痛恨基督徒
-- 鱼翅VS萝卜，成本降维加持“token经济”
+- 北京车展“大车”当道，直指美系利润腹地
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -120,9 +110,9 @@ Rambus美股盘后涨4%。
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25925.65-52.42(-0.20%)
+- 恒生指数25679.78-245.87(-0.95%)
                     etnet.com.hk@copyright
-- 国企指数8756.32-19.30(-0.22%)
+- 国企指数8644.81-111.51(-1.27%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -141,15 +131,14 @@ Rambus美股盘后涨4%。
 - Windows
 
 --- 跨站重点主题（多站出现=更重要）---
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 美国关税: 华尔街见闻 (简中)
-- 就业数据: 经济通 (繁中)
+- 加密货币: Yahoo Finance (EN)
+- 黄金/大宗: 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN)
+- 中国/欧盟: SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---

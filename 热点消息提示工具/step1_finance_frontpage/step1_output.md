@@ -3,29 +3,38 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Microsoft, OpenAI rewrite partnership deal | Trump says Iran has 'days left' before it has to halt oil production | Microsoft to report earnings amid stock slide, OpenAI deal
-  - 其他: US stock futures inch higher with Iran, Fed, earnings in focus | JPMorgan: Oil prices may spike again as 'something is off' with current math | Blue Owl fund investors rebuff Boaz Weinstein offer to buy shares | Oil Steadies as US Weighs Iran Proposal With Hormuz Still Shut | Gold Steadies as Traders Weigh Diplomatic Push to End Iran War
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 30m | Stock futures mixed as techs stall, oil jumps | OpenAI-linked stocks slump on report of missed targets | Trump to address Iran's offer soon, but said not to be happy with it
+  - 其他: Why Powell could stick around after his Fed chair term ends | Americans' fear of going broke in retirement outweighs fear of death | Oil retakes $110 in wait for US to respond to Iran proposal | Oracle, CoreWeave shares drop after report flags OpenAI growth worries | Profluent, Lilly partner in genetic medicine deal worth up to $2.25 billion
 
 - **Benzinga (EN)** ✓
-  - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Intel Vs. Nvidia Stock: Which Semiconductor Is Up More Since They Swapped Places In Dow Jones Industrial Average? | Sanmina Stock Surges On Q2 Earnings: What To Know | Rambus Stock Sinks After Mixed Q1 Earnings Report | Tesla Shares Rise 4% After Key Trading Signal | Nucor Stock Jumps On Q1 Earnings Beat: Key Details From The Print
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 美国官员表示，特朗普对伊朗的提议感到不满。 | 维权投资者、华尔街对冲基金Starboard Value已建仓Dynatrace。（华尔街日报） | 华尔街见闻早餐 | 2026年4月28日 | 美国商务部：苹果CEO与商务部长卢特尼克今日会面。 | 高盛：AI风险正加剧关于股票估值的争论 | 美国国务卿卢比奥：现任领导人之下，古巴不可能推进经济改革。 | 数据显示：一艘LNG运输船似已驶过霍尔木兹海峡 | 瑞典和平研究所：2025全球军费创历史新高
-  - 其他: Rambus一季度调整后每股收益（EPS）为0.55美元，运营利润率34%。
-预计二季度产品营收0.95亿-1.01亿美元，合同与其他收入0.19亿-0.25亿美元，许可订单0.76亿-0.82亿美元。
-Rambus美股盘后涨4%。 | 俄防长会见伊朗副防长 | 铿腾电子一季度营收14.7亿美元，分析师预期14.6亿美元。
-一季度调整后每股收益（EPS）为1.96美元，分析师预期1.89美元。
-预计全年营收61.3亿-62.3亿美元，公司原本预计59亿-60亿美元。 | 周一（4月27日），彭博电动汽车价格回报指数涨0.89%，报4002.92点。 | 中概指数收跌1.2%，KWEB跌超1.6%，世纪互联跌超4.1%，阿里跌超2%
+  - 头版/首屏: 纳斯达克100指数期货跌幅扩大至1%，触及盘中低点。 | 可口可乐第一季度净营收125亿美元，预估122.5亿美元。
+第一季度可比每股收益0.86美元，预估0.81美元。
+可口可乐仍然预测全年资本支出22亿美元，市场预估22.1亿美元。
+可口可乐预计全年可比每股收益增长8％至9％。
+可口可乐美股盘 | 通用汽车第一季度调整后每股收益3.70美元，预估2.60美元。
+第一季度净销售额和营收436.2亿美元，预估434亿美元。
+第一季度调整后息税前利润42.5亿美元，预估30.2亿美元。
+第一季度自由现金流12.7亿美元，预估19.2亿美元。 | 美国能源部长Wright：特朗普专注于与伊朗达成恰当的协议。 | 报道称OpenAI未达销售目标 相关股票下跌 | Spotify第一季度营收45.3亿欧元，预估45.3亿欧元。
+第一季度营业利润7.15亿欧元，同比增长40%。
+第一季度每股收益3.45欧元，上年同期1.07欧元。
+第一季度月活跃用户数7.61亿，预估7.5923亿。
+Spotify预计 | 联合包裹第一季度营收212亿美元，预估209.9亿美元。
+第一季度调整后每股收益1.07美元，预估1.03美元。
+联合包裹仍预计全年营收约897亿美元，市场预估897.1亿美元。
+联合包裹美股盘前跌近3%。 | 天猫618将于5月21日开启
+  - 其他: 现货黄金日内跌幅达2.0%，报4588.02美元/盎司。
+现货白银日内跌幅达4.0%，报72.45美元/盎司。 | 乌克兰首都基辅传出爆炸声 | 中国建筑：第一季度归母净利润138.81亿元，同比下降7.5% | 深市主板首单红筹企业华润新能源过会 | 游族网络：一季度净利润1.04亿元，同比增长 319.99%。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: China’s DeepSeek prices new V4 AI model at 97% below OpenAI’s GPT-5.5 | OpenClaw adds DeepSeek V4 models as tech world assesses Huawei tie-up | China Economy | In China, a France-sized population loss begins to test coastal powerhouses | Diplomacy | ‘Diplomatic malpractice’: experts warn of thin agenda ahead of Xi-Trump summit | Health & Environment | Hong Kong to block off parts of Sharp Island shore to protect corals over break
-  - 其他: DeepSeek’s move aims to attract more enterprise clients, developers and agent-based users, according to an academic. | Rising pension burdens and social security subsidies are also straining public finances – though trends remain uneven, analysts say. | Former diplomat warns ‘malpractice-like’ lack of preparation for meeting could hollow out potential for productive talks. | Authorities expect 1,000 visitors in the area each day during the coming Labour Day ‘golden week’ holiday. | Why tougher US visa rules for skilled foreign workers may end in ‘brain drain’
+  - 头版/首屏: Why Moody’s has raised China’s credit outlook amid Iran war shocks | China trims US Treasury holdings as global ownership hits record | China EVs | China’s EV and battery makers race to cut charging times to under 10 minutes | Politics | Foreign forces pushing ‘lying flat’ credo aim to sabotage ‘future of China’ | Law and Crime | Homeowner at Redhill Peninsula fined nearly HK$1 million for illegal structures
+  - 其他: Ratings agency gives China an A1 long-term rating, citing the economy’s resilience in the face of trade and geopolitical pressures. | Fast-charging technology takes centre stage at the Beijing Auto Show as firms unveil batteries promising unprecedented speed. | Foreign funding is behind spread of narrative intended to erode young people’s spirit and social values, Ministry of State Security says. | Court says defendant showed ‘total disregard for law and safety’ by failing to remove illegal works despite authorities issuing order two years ago. | Un-sanctioned: China to welcome Dutch trade minister amid Nexperia, ASML discord
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 洛钼首季多赚近倍股价却曾跌半成，资源股怎么选？ | 中央促网络平台快递企业 强化保障新就业群体权益 | 特朗普：枪手充满仇恨 且痛恨基督徒 | 鱼翅VS萝卜，成本降维加持“token经济” | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25925.65-52.42(-0.20%)
-                    etnet.com.hk@copyright | 国企指数8756.32-19.30(-0.22%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 宁德时代拟配股抽水392亿元 股价急跌近7% | 内地3月工业利润按年增15.8% 半年高 | 特朗普：枪手充满仇恨 且痛恨基督徒 | 北京车展“大车”当道，直指美系利润腹地 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25679.78-245.87(-0.95%)
+                    etnet.com.hk@copyright | 国企指数8644.81-111.51(-1.27%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
@@ -36,26 +45,25 @@ Rambus美股盘后涨4%。 | 俄防长会见伊朗副防长 | 铿腾电子一季
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
 - **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
-- **就业/经济数据** — 出现于: 经济通 (繁中) (1 站)
+- **加密货币** — 出现于: Yahoo Finance (EN) (1 站)
+- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
+- **中国/欧盟** — 出现于: SCMP (EN/中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 油价/能源（4 站）
-- 黄金/大宗商品（4 站）
-- 科技股/个股（4 站）
 - 伊朗/中东局势（3 站）
-- 美联储/利率（3 站）
-- 中国/欧盟（3 站）
-- 加密货币（2 站）
+- 油价/能源（3 站）
+- 科技股/个股（3 站）
 - 关税/贸易政策（1 站）
-- 就业/经济数据（1 站）
+- 加密货币（1 站）
+- 黄金/大宗商品（1 站）
+- 美联储/利率（1 站）
+- 中国/欧盟（1 站）
 - 中国政策（1 站）
+- 就业/经济数据（0 站）
