@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026042820
+抓取时间: 2026042909
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,91 +9,78 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 30m
-- Stock futures mixed as techs stall, oil jumps
-- OpenAI-linked stocks slump on report of missed targets
-- Trump to address Iran's offer soon, but said not to be happy with it
-- Earnings: Spotify guidance falls short, Coca-Cola rises
-- GM ups profit forecast as earnings top estimates
-- The only number that matters for 'Mag 7' earnings this week
-- SpaceX ties Musk's compensation to Mars colony goal
+- U.S. markets closed
+- Oracle, CoreWeave back OpenAI after reports of trouble at company
+- Musk takes the stand in OpenAI trial
+- US stock futures inch up ahead of Mag 7 earnings, Powell term end
+- Microsoft set to report results as stock slides, OpenAI ties weaken
+- Alphabet earnings loom as investors rally behind AI surge
+- Elizabeth Warren: Trump is wielding a sword over the Fed
+- Walmart eliminates store leads as managers making $400K stay for longer
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Why Powell could stick around after his Fed chair term ends
-- Americans' fear of going broke in retirement outweighs fear of death
-- Oil retakes $110 in wait for US to respond to Iran proposal
-- Oracle, CoreWeave shares drop after report flags OpenAI growth worries
-- Profluent, Lilly partner in genetic medicine deal worth up to $2.25 billion
-- UK Retailers Offer Big Discounts as Shopper Confidence Wanes
-- Elon Musk to testify in a case that could change the path of AI
-- Tech’s ‘New Normal’ Trade Pair: Long Chip Stock, Short Software
-- Toyota suppliers feeling profit pressure from Iran war
-- JPMorgan Says Firms Avoid Raising Forecasts Due to War Concerns
+- Wall Street braces for Fed's next move on interest rates
+- Starbucks stock surges as earnings, revenue top expectations
+- Seagate jumps on upbeat forecast as AI powers data-storage demand
+- Gold Steady After Two-Day Drop as Iran War Fans Inflation Fears
+- Storage stocks jump as Seagate's upbeat forecast fuels confidence in AI spending
+- Panama Canal sees spike in vessel traffic due to war in Middle East
+- Trump’s $1.5 Trillion Defense Plan Draws Rare Republican Pushback
+- King Charles meets with US tech leaders, talks startup challenges
+- Elon Musk testifies in a case that could change the path of AI
+- Teradyne forecasts sequential decline in quarterly revenue and profit, shares fall
 
 ## Benzinga (EN)
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 纳斯达克100指数期货跌幅扩大至1%，触及盘中低点。
-- 可口可乐第一季度净营收125亿美元，预估122.5亿美元。
-第一季度可比每股收益0.86美元，预估0.81美元。
-可口可乐仍然预测全年资本支出22亿美元，市场预估22.1亿美元。
-可口可乐预计全年可比每股收益增长8％至9％。
-可口可乐美股盘
-- 通用汽车第一季度调整后每股收益3.70美元，预估2.60美元。
-第一季度净销售额和营收436.2亿美元，预估434亿美元。
-第一季度调整后息税前利润42.5亿美元，预估30.2亿美元。
-第一季度自由现金流12.7亿美元，预估19.2亿美元。
-- 美国能源部长Wright：特朗普专注于与伊朗达成恰当的协议。
-- 报道称OpenAI未达销售目标 相关股票下跌
-- Spotify第一季度营收45.3亿欧元，预估45.3亿欧元。
-第一季度营业利润7.15亿欧元，同比增长40%。
-第一季度每股收益3.45欧元，上年同期1.07欧元。
-第一季度月活跃用户数7.61亿，预估7.5923亿。
-Spotify预计
-- 联合包裹第一季度营收212亿美元，预估209.9亿美元。
-第一季度调整后每股收益1.07美元，预估1.03美元。
-联合包裹仍预计全年营收约897亿美元，市场预估897.1亿美元。
-联合包裹美股盘前跌近3%。
-- 天猫618将于5月21日开启
-- 白宫解除国家科学委员会全体成员职务
-- 顾虑“特朗普因素” 北约考虑结束年度峰会模式
-- 美股盘前，半导体股多数下跌，ARM跌超6%，AMD跌近3%，高通、阿斯麦跌近2%。
-- 巴克莱股票交易营收增长 但整体交易业务表现逊于华尔街同行
+- 特朗普在白宫举行的国宴上发表讲话：我们目前在中东做得非常好。
+- 专注于AI Web Agent的明星初创公司Parallel Web Systems已完成1亿美元B轮融资 ，本轮融资由红杉资本领投，估值最高达20亿美元。（华尔街日报）
+- 美国财长贝森特在声明中表示，总统特朗普打算提名G·亨特·麦克马斯特二世（G. Hunter McMaster II）担任主管金融市场的助理部长。
+- 潘兴广场宣布Pershing Square USA与Pershing Square Inc.合并IPO的定价，总发行规模为50亿美元，股票将于4月29日开始在纽约证券交易所（NYSE）交易。
+- 据美国警方28日消息，美国首都华盛顿发生两起枪击事件。警方正赶往现场调查。（央视）
+- 白宫发布国宴嘉宾名单，马克·安德森、大卫·埃里森、黄仁勋、罗伯特·卡夫、梅格·奥尼尔、约翰·保尔森、史蒂芬·施瓦茨曼均位列嘉宾名单上。
+- AI基础设施与太阳能双轮驱动，康宁迈入光子学与结构性扩张新纪元
+- 希捷科技绩报告及分析师电话会要点总结：AI推理拐点驱动结构性增长，HAMR技术进入收割期
+- 华尔街见闻早餐 | 2026年4月29日
+- 美国参议院否决限制特朗普对古巴动武的决议
+- 矿业巨头墨西哥集团一季度利润增长57%
+- 巴拿马运河局：预计（运河）通航量将继续增长，直至中东局势得到解决。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 现货黄金日内跌幅达2.0%，报4588.02美元/盎司。
-现货白银日内跌幅达4.0%，报72.45美元/盎司。
-- 乌克兰首都基辅传出爆炸声
-- 中国建筑：第一季度归母净利润138.81亿元，同比下降7.5%
-- 深市主板首单红筹企业华润新能源过会
-- 游族网络：一季度净利润1.04亿元，同比增长 319.99%。
-- WTI原油日内涨幅达4.0%，报100.28美元/桶；布伦特原油涨近3%。
-现货黄金跌破4600美元/盎司关口，日内跌1.8%。
-- 维科技术：公司钠离子电池因产量处于爬坡阶段、生产成本较高，2025年计提存货跌价准备3,537万元。
-- 覆铜板行业龙头建滔上调部分产品价格10%
-- 科大讯飞：一季度营收同比增长13.23%，净亏损1.7亿元
-- 昆仑万维：一季度净亏损8.87亿元，上年同期亏损7.69亿元；报告期公司短剧和AI短剧平台业务、Opera广告业务、AI业务等发展迅速，收入增加。
+- 迪士尼不再打算拆分媒体业务ESPN。（Business Insider）
+- 卫星图像显示：伊朗恰巴哈尔港附近海域出现多艘油轮
+- 美国农业部长Rollins：USDA（农业部）寻求与化肥工厂CF Industries氨工厂相关的许可。
+- 谷歌公司签署协议，允许该公司技术被应用到（美国战争部那些）机密的军事工作。
+- 光伏逆变器供应商Enphase Energy：将欧洲电池价格下调10%。
+- 星巴克：（美国总统特朗普造成的）关税压力和咖啡价格对今年后期的影响将是轻微的。
+- 行业周报：美国上周API汽油库存锐减将近850万桶
+- 光伏逆变器供应商Enphase Energy一季度营收2.829亿美元，分析师预期2.838亿美元。
+一季度美国营收季环比锐减23%，欧洲营收季环比增长36%。
+一季度资本开支0.199亿美元，分析师预期0.13亿美元。
+一季度调整后每股收
+- 光伏逆变器供应商Enphase Energy渠道库存处于正常水平。
+- 美股大类资产类ETF多数收跌，黄金ETF跌超1.8%，布油基金涨超2.7%
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Why Moody’s has raised China’s credit outlook amid Iran war shocks
-- China trims US Treasury holdings as global ownership hits record
-- China EVs
-- China’s EV and battery makers race to cut charging times to under 10 minutes
+- How China’s reported sulphuric acid export ban could have global buyers reeling
+- China, the Iran war and the chemical suddenly stoking global supply fears
+- Diplomacy
+- ‘Wartime’ in Iran, Trump’s fury and the UAE: here’s what happened overnight
 - Politics
-- Foreign forces pushing ‘lying flat’ credo aim to sabotage ‘future of China’
-- Law and Crime
-- Homeowner at Redhill Peninsula fined nearly HK$1 million for illegal structures
+- US lawmakers move to mandate first comprehensive review of China’s AI advances
+- Health & Environment
+- Will Hong Kong vapers go underground as public possession ban kicks in?
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Ratings agency gives China an A1 long-term rating, citing the economy’s resilience in the face of trade and geopolitical pressures.
-- Fast-charging technology takes centre stage at the Beijing Auto Show as firms unveil batteries promising unprecedented speed.
-- Foreign funding is behind spread of narrative intended to erode young people’s spirit and social values, Ministry of State Security says.
-- Court says defendant showed ‘total disregard for law and safety’ by failing to remove illegal works despite authorities issuing order two years ago.
-- Un-sanctioned: China to welcome Dutch trade minister amid Nexperia, ASML discord
-- BYD, China’s EV king, posts a 55% slump in first-quarter profit
-- The company reports a net profit of nearly 4.09 billion yuan (US$590 million) and revenue of 150.2 billion yuan.
-- Science
-- China upgrades maritime rescue range and depth as ambitions on the seas expand
-- Body responsible for strategically sensitive South China Sea completes ‘formal transition’ after extensive deepwater training.
+- Foreign firms fear more halts following reports of a ban on the export of the chemical, crucial for fertiliser and battery production.
+- As the US president hit out at Germany’s chancellor, Iran said it did not consider the war to be over, while the UAE pulled out of Opec.
+- Draft bill would require mapping Beijing’s progress, key firms and risks, with side-by-side comparisons to US systems within 180 days.
+- Survey finds that among 301 alternative tobacco users, 55 per cent intend to continue vaping discreetly, while 35 per cent plan to switch back to traditional cigarettes.
+- China’s calls to open Hormuz show the limits of its ties to Iran, experts say
+- UAE to leave Opec after 6 decades, oil cartel unity questioned
+- Abu Dhabi, long at odds over quotas, says exit will free output as experts point to Saudi rift and push to boost production.
+- Trump urged by Democrats to keep US ban on Chinese cars as Xi meeting looms
+- US lawmakers warn of ‘irreversible’ consequences for industry ahead of Trump’s planned summit with Chinese President ⁠Xi Jinping next month.
+- Banking & Finance
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -132,13 +119,13 @@ Spotify预计
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
 - 美国关税: 华尔街见闻 (简中)
-- 加密货币: Yahoo Finance (EN)
-- 黄金/大宗: 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN)
-- 中国/欧盟: SCMP (EN/中)
+- 加密货币: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
