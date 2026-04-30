@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026042921
+抓取时间: 2026043009
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 15m
-- Stock futures muted in wait for Mag 7 earnings, Fed rate call
-- Trump tells aides to prep for lengthy Hormuz blockade
-- Amazon earnings put the spotlight on AI spending
-- Oil surges as White House signals it will continue Hormuz blockade
-- Wall Street braces for Fed's next move on interest rates
-- Why data storage stocks are a key AI play
-- The bond market is testing Washington again
+- U.S. markets closed
+- Alphabet stock rises after earnings beat on cloud growth
+- Meta stock falls on AI spending plans despite earnings beat
+- Jerome Powell says he's staying on as a Fed governor
+- US stock futures mixed with earnings season in full swing
+- Amazon's AI spending boom is eating into free cash flow
+- Microsoft tops estimates, says AI business up 123% year over year
+- US says first refunds from Trump tariffs expected around May 11
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Fed 'firmly parked' on interest rate pause
-- SoFi stock sinks despite solid earnings as tech platform struggles
-- Yum! Brands CEO reveals bold vision for 75,000 KFCs
-- How the Fed's rate decision affects your bank accounts, loans, credit cards, and investments
-- US core capital goods orders blow past expectations in March
-- Humana reports quarterly beat, unchanged forecast underwhelms market
-- Amphenol forecasts upbeat quarterly results on AI data center demand
-- GE HealthCare cuts annual profit forecast as inflation weighs on costs
-- Italian pharma group Chiesi to buy US peer KalVista for $1.9 billion
-- New Fed chair, same reality: Imminent rate cuts are unlikely, even if Warsh takes the helm
+- 'Mag 7' earnings show AI spending isn't slowing
+- LinkedIn's AI hiring agents on track for $450M in yearly revenue
+- 2 key risks Meta warned investors about in its Q1 earnings report
+- Samsung Electronics sees robust AI demand after Q1 profit surges eightfold to set record
+- Australia calls for stronger AI risk controls at financial firms
+- SoftBank plans to list AI and robotics firm Roze in US, FT reports
+- Anthropic weighs new funding round at valuation exceeding $900 billion, Bloomberg News reports
+- Amazon tops cloud expectations on strong AI demand, shares rise
+- GM earmarks over $1 billion toward gas-engine output in US, Canada
+- Tech stocks today: Big Tech earnings highlight AI strength, Musk battles OpenAI
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,65 +42,68 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Wingstop Stock Slides As Same-Store Sales Guidance Falters
-- US Rejects 15% Of Tariff Refund Claims As Companies Navigate New CAPE Portal
-- Garmin Fitness Sales Soar 42%, But Stock Cools After Record-Breaking Quarter
-- Axil Brands Climbs After Deepening Walmart Partnership
-- Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA
-- Stock Market Today: Dow Futures Drop, Nasdaq Gains Ahead Of Powell's Last Speech As Fed Chair— Robinhood, Starbucks, Alphabet In Focus (UPDATED)
-- Oprah Winfrey
-- Jack Dorsey
-- Private Credit
-- Dow Futures Rise 107 Points, Oil Nears $100: Trump Reportedly Unhappy With Iran Proposal—Senate GOP Pressures White House On War Powers Deadline
+- General Motors Expects $500 Million In Tariff Refunds, Risks Trump's Ire By Requesting Money Back
+- Tesla Just Dropped Big News About Its Electric Semi Truck
+- Bill Ackman's $5B Pershing Square IPO Revives A Question ETFs Already Answered: Do Investors Still Need Hedge Fund Wrappers?
+- Impinj Stock Soars On Strong Q2 Outlook
+- Smart Beta Meets IBD: CapForce Rebrands Innovator's IBD Funds In Rules-Based Push
+- Powell's Last Stand Killed The Rate-Cut Trade: What's The Risk Of A Hike Now?
+- Magnificent 7
+- Jerome Powell
+- Federal Reserve
+- Fed Holds Rates Unchanged: Traders Brace For Powell's Likely Final Presser (UPDATED)
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美国新屋开工量飙升至2024年12月以来的最高水平 高于预期
-- 周三美股盘前你需要了解的全球要闻
-- 美国参议员沃伦：特朗普正在阻碍降低利率。
-特朗普正在限制美联储的行动空间。
-- 美元指数短线小幅拉升，现报98.71。美股期货短线小幅走低，纳斯达克100指数期货涨幅收窄至1%。美国10年期国债收益率短线拉升，现报4.361%。现货黄金短线小幅走低，现报4561.55美元/盎司。
-- 美国3月营建许可环比初值 -10.8%，预期 -0.3%。
-- 美国3月营建许可初值 137.2万户，预期 139万户。
-- 美国3月耐用品订单环比初值 0.8%，预期 0.5%，前值 -1.3%。
-- 美国3月扣除飞机非国防资本耐用品订单环比初值 3.3%，预期 0.5%，前值 0.7%。
-- 美国3月商品贸易帐 -879亿美元，预期 -880亿美元，前值 -835亿美元。
-- 美国3月新屋开工 150.2万户，预期 138万户。
-- 美国3月批发库存环比初值 1.4%，预期 0.4%，前值 0.8%。
-- 美国3月零售库存环比 0.7%，预期 0.1%，前值 0.2%。
+- 纳斯达克100指数期货涨幅扩大至1%，受亚马逊、Alphabet提振。
+- 中金公司：美联储下一次降息或推迟至第四季度
+- 美媒：美政府寻求“没收”两艘与伊朗关联油轮
+- 纳斯达克100指数期货涨幅扩大至0.8%，受大型科技公司财报推动。
+- “特朗普关税”首批退款将于5月11日左右发放
+- 中信建投：2026下半年CPU恐迎新一轮涨价
+- 华尔街见闻早餐 | 2026年4月30日
+- 报道：美国最大公寓业主AvalonBay与EQR商讨合并
+- 软银计划让旗下人工智能与机器人公司Roze在美上市，软银正寻求为该公司争取1000亿美元的估值。（英国金融时报）
+- 伊朗海军司令：将向敌人展示一种“可怕的武器”
+- Meta业绩报告要点总结
+- 美国防部称伊朗战事已耗资250亿美元，赫格塞思接受国会质询遭批
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 美国白宫正在研讨重新引进Anthropic（参与相关项目）的计划。（Axios）
-- 加拿大央行4月决议看点前瞻
-- 夜盘期货开盘，低硫燃油涨逾3%，燃油、乙二醇、原油、液化石油气、沥青涨逾1%；沪银跌逾1%。
-- 数字经济民营企业座谈会在福州召开
-- 抖音上线付费聊天装扮商城，对标QQ首次试水社交商业化
-- 现货黄金日内跌幅达1.0%，报4549.83美元/盎司。
-- 南方航空：一季度净利润14.8亿元，上年同期亏损7.47亿元。
-- 南方航空：拟目录价约213.78亿美元购买137架A320NEO系列飞机
-- 芯原股份：1月1日至4月29日公司新签订单金额提升至82.40亿元
-- 美国3月耐用品订单速评：3月核心耐用品订单创2020年以来最大增幅
+- 纳斯达克生物科技指数收跌超1.2%，成分股Tango Therapeutics跌12.25%，Personalis跌8.36%，PTC Therapeutics跌8.13%，Foghorn跌8.12%，Erasca跌7.98%。
+渤健Bio
+- 美国财政部长贝森特声称：凯文·沃什将及时成为美联储主席。
+美联储主席鲍威尔任期届满后，若继续担任美联储理事将有失体面、违反惯例。
+- 美国财政部长贝森特声称：消费者和股市正在看淡伊朗局势。
+- 美国财政部长贝森特宣称：与伊朗的磋商正冲向终点线。
+（特朗普政府）每天都在加大对伊朗的经济压力。
+- 伊朗外长：美以在40多天内对伊“犯下最严重反人类罪行”
+- 伊朗海军司令警告美军“勿进一步行动”
+- 伊媒：已有6名遭美军扣押伊朗船员获释
+- 高通预计将拿下数据中心客户并且中国手机需求有望复苏，股价盘后飙升
+- 福特汽车一季度调整后每股收益（EPS）为0.66美元，分析师预期0.19美元。
+预计全年调整后EBIT为85亿-105亿美元，公司原本预计80亿-100亿美元。
+- Chipotle一季度营收30.9亿美元，分析师预期30.7亿美元。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Why China may benefit from the UAE’s Opec withdrawal
-- China orders maritime security research as Hormuz crisis exposes trade risks
-- Military
-- Why Beijing’s weaponised cargo ship could be crucial in the Taiwan Strait
-- Tech
-- China taps the brakes on robotaxi licences after Wuhan incident: sources
-- Banking & Finance
-- Airport Authority issues record HK$19b in bonds amid strong investor demand
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Beijing may have access to increased supply – though Strait of Hormuz disruption remains a serious constraint, analysts say.
-- The PLA’s ‘containerised destroyer’ can carry missile launchers and hide within commercial shipping lanes, military magazine says.
-- Licensing curbs follow a Wuhan system failure that stranded passengers, as authorities shift focus from rapid roll-out to safety oversight.
-- Investor participation was predominantly local, with more than 90 per cent from Hong Kong, according to joint bookrunner HSBC.
-- US economic gap over China to widen, but Iran might bring them closer: Mahbubani
-- China Economy
-- Beijing touts mineral dominance, boosts autonomy drive, ahead of Trump’s visit
-- Ministry of Natural Resources boasts world-leading reserves of 14 minerals and vows to keep boosting output and exploration as geopolitical risks weigh on resources.
+- The UAE’s exit from Opec could bring ‘even bigger trouble’: Chinese expert
+- UAE to leave Opec after 6 decades, oil cartel unity questioned
 - Diplomacy
-- ‘Might over right’ imperils international justice, Wang Yi tells UN’s Baerbock
+- Trump-Putin talk Iran and Ukraine, US energy exports up: what happened overnight
+- US lawmakers warn China is top space rival as race to the moon intensifies
+- Politics
+- Will top Hong Kong civil servants pay price for blunders under new system?
+- Chips, oil and Iran: why US is raising pressure on China before Xi-Trump talks
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- While the UAE’s departure from oil cartel is disruptive, it could also further drive apart Gulf Cooperation Council members, observer says.
+- The two conflicts could end on a ‘similar timetable’ US President Donald Trump has said.
+- Beijing is using space for ‘diplomacy and influence’, US lawmakers claim amid growing competition with Washington.
+- Former ministers, senior officials and observers point to practical challenges of attributing responsibility.
+- Banking & Finance
+- HKMA holds base rate at 4%, following Fed amid inflation worries
+- ‘We’re going to have to wait and see,’ Fed chairman Jerome Powell says after hosting his last FOMC meeting.
+- Tech Trends
+- Huawei’s HarmonyOS on 55m phones as China steps up push for domestic software
+- China is seeing a ‘transformative shift’ in the use of domestic software compared with a few years ago, says vice-minister.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -138,13 +141,14 @@
 - Windows
 
 --- 跨站重点主题（多站出现=更重要）---
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 美国关税: Benzinga (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
-- 中国政策/两会: 华尔街见闻 (简中), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 油价/霍尔木兹: 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 伊朗/中东: 华尔街见闻 (简中), SCMP (EN/中)
+- 就业数据: 华尔街见闻 (简中)
 - 黄金/大宗: 华尔街见闻 (简中)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
