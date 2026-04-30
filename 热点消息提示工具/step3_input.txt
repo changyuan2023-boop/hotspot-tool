@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：早间**
-**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
+**当前模式：晚间**
+**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
 
 ---
 
@@ -25,7 +25,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`早间热点线索 · 2026年4月30日`
+`晚间热点线索 · 2026年4月30日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据），点明对哪些标的/板块的影响（涨跌方向）。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -54,15 +54,15 @@
 
 ---
 
-## 早间模式操作指令
+## 晚间模式操作指令
 
-聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
+聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
 重点关注（按重要性排序写入）：
-1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
-2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
-3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
-4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
+1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
+4. 其他值得今晚关注的美股消息
 
 ---
 
@@ -91,7 +91,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026043009
+抓取时间: 2026043020
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -99,25 +99,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets closed
-- Alphabet stock rises after earnings beat on cloud growth
-- Meta stock falls on AI spending plans despite earnings beat
-- Jerome Powell says he's staying on as a Fed governor
-- US stock futures mixed with earnings season in full swing
-- Amazon's AI spending boom is eating into free cash flow
-- Microsoft tops estimates, says AI business up 123% year over year
-- US says first refunds from Trump tariffs expected around May 11
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- U.S. markets open in 1h 30m
+- Stock futures climb as Big Tech earnings buoy AI hopes
+- Oil swings after hitting 4-year high on US military plans
 - 'Mag 7' earnings show AI spending isn't slowing
-- LinkedIn's AI hiring agents on track for $450M in yearly revenue
-- 2 key risks Meta warned investors about in its Q1 earnings report
-- Samsung Electronics sees robust AI demand after Q1 profit surges eightfold to set record
-- Australia calls for stronger AI risk controls at financial firms
-- SoftBank plans to list AI and robotics firm Roze in US, FT reports
-- Anthropic weighs new funding round at valuation exceeding $900 billion, Bloomberg News reports
-- Amazon tops cloud expectations on strong AI demand, shares rise
-- GM earmarks over $1 billion toward gas-engine output in US, Canada
-- Tech stocks today: Big Tech earnings highlight AI strength, Musk battles OpenAI
+- Bill Ackman on stocks: There are lots of reasons to be bullish
+- Berkshire's ailing stock clouds Abel's first annual meeting as CEO
+- China software maker gets rare approval for Nasdaq listing
+- Credit scores — the latest stress signs of a K-shaped economy
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- Nvidia has powered a third of the Mag 7's bull-market gains
+- Meta stock sinks on AI spending plans despite earnings beat
+- Powell says he's staying on as a Fed governor
+- L3Harris lifts 2026 profit forecast on strong weapons demand
+- Stellantis stock drops after reporting Q1 profit but no full-year guidance hike
+- Trane raises annual profit forecast on commercial HVAC demand
+- Japan yen surges 2%; officials issue strongest intervention warning yet
+- AI customer service startup Netomi raises $110 million
+- Banks in Asia brace for complex cyber threats from frontier AI
+- Eli Lilly raises annual profit forecast as GLP-1 drugs fuel growth
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -132,76 +132,91 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- General Motors Expects $500 Million In Tariff Refunds, Risks Trump's Ire By Requesting Money Back
-- Tesla Just Dropped Big News About Its Electric Semi Truck
-- Bill Ackman's $5B Pershing Square IPO Revives A Question ETFs Already Answered: Do Investors Still Need Hedge Fund Wrappers?
-- Impinj Stock Soars On Strong Q2 Outlook
-- Smart Beta Meets IBD: CapForce Rebrands Innovator's IBD Funds In Rules-Based Push
-- Powell's Last Stand Killed The Rate-Cut Trade: What's The Risk Of A Hike Now?
+- Elon Musk Sides With Viral 'Pokémon Economy' Analogy On Free Markets— 'This Is How...'
+- EXCLUSIVE: Telomir Pharmaceuticals Secures FDA Nod For Its Breast Cancer Therapy To Advance Into Human Study
+- Wall Street's Most Accurate Analysts Spotlight On 3 Health Care Stocks Delivering High-Dividend Yields
+- Jamie Dimon Says Markets May Be Too Complacent As Deficits Rise, Warns A 'Bond Crisis' And Even Stagflation Could Be Coming
+- What's Going On With IBM Stock Thursday?
+- Stock Market Today: Dow Jones Futures Drop, Nasdaq Gains As Trump Weighs 'Short And Powerful' Iran Strikes— Alphabet, Meta, Amazon In Focus
 - Magnificent 7
 - Jerome Powell
 - Federal Reserve
-- Fed Holds Rates Unchanged: Traders Brace For Powell's Likely Final Presser (UPDATED)
+- Meta's Massive AI Spending Shows No Signs Of Slowing As CFO Susan Li Warns: 'We Have Continued To Underestimate Our Compute Needs'
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 纳斯达克100指数期货涨幅扩大至1%，受亚马逊、Alphabet提振。
-- 中金公司：美联储下一次降息或推迟至第四季度
-- 美媒：美政府寻求“没收”两艘与伊朗关联油轮
-- 纳斯达克100指数期货涨幅扩大至0.8%，受大型科技公司财报推动。
-- “特朗普关税”首批退款将于5月11日左右发放
-- 中信建投：2026下半年CPU恐迎新一轮涨价
-- 华尔街见闻早餐 | 2026年4月30日
-- 报道：美国最大公寓业主AvalonBay与EQR商讨合并
-- 软银计划让旗下人工智能与机器人公司Roze在美上市，软银正寻求为该公司争取1000亿美元的估值。（英国金融时报）
-- 伊朗海军司令：将向敌人展示一种“可怕的武器”
-- Meta业绩报告要点总结
-- 美国防部称伊朗战事已耗资250亿美元，赫格塞思接受国会质询遭批
+- META启动分为六部分的美国高等级债券发行。
+- 伊朗最高领袖军事顾问：伊朗绝不会失去霍尔木兹海峡
+- 百时美施贵宝第一季度营收114.9亿美元，同比增长2.6%，预估108.6亿美元。
+第一季度调整后每股收益1.58美元，上年同期1.80美元，预估1.40美元。
+百时美施贵宝仍然预测全年经调整毛利率大约69％至70％。
+百时美施贵宝仍然预测
+- 巴基斯坦外交部：巴方与伊美的外交接触仍在进行
+- 伊朗最高领袖顾问：伊朗不畏惧海上封锁
+- 伊朗最高领袖：伊朗将确保波斯湾区域的安全
+- 礼来美股盘前涨超4%，公司一季度营收高于预期，并上调全年业绩指引
+- 伊朗最高领袖：伊朗与海湾邻国命运相连
+- 伊朗最高领袖哈梅内伊：海湾和霍尔木兹海峡正在开启新篇章。
+伊朗将消除美国对霍尔木兹海峡的“剥削”。
+美国在海湾地区的存在是造成不安全的主因。
+霍尔木兹海峡的新管理将惠及该地区。
+- 卡特彼勒第一季度调整后每股收益5.54美元，上年同期4.25美元，预估4.63美元。
+第一季度每股收益5.47美元，上年同期4.20美元。
+第一季度营收174.2亿美元，同比+22%，预估162.4亿美元。
+第一季度调整后运营收益31.3亿
+- 伊朗最高领袖将“很快”发表声明。（伊朗国家电视台）
+- 伊朗最高领袖将就“波斯湾日”发表声明。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 纳斯达克生物科技指数收跌超1.2%，成分股Tango Therapeutics跌12.25%，Personalis跌8.36%，PTC Therapeutics跌8.13%，Foghorn跌8.12%，Erasca跌7.98%。
-渤健Bio
-- 美国财政部长贝森特声称：凯文·沃什将及时成为美联储主席。
-美联储主席鲍威尔任期届满后，若继续担任美联储理事将有失体面、违反惯例。
-- 美国财政部长贝森特声称：消费者和股市正在看淡伊朗局势。
-- 美国财政部长贝森特宣称：与伊朗的磋商正冲向终点线。
-（特朗普政府）每天都在加大对伊朗的经济压力。
-- 伊朗外长：美以在40多天内对伊“犯下最严重反人类罪行”
-- 伊朗海军司令警告美军“勿进一步行动”
-- 伊媒：已有6名遭美军扣押伊朗船员获释
-- 高通预计将拿下数据中心客户并且中国手机需求有望复苏，股价盘后飙升
-- 福特汽车一季度调整后每股收益（EPS）为0.66美元，分析师预期0.19美元。
-预计全年调整后EBIT为85亿-105亿美元，公司原本预计80亿-100亿美元。
-- Chipotle一季度营收30.9亿美元，分析师预期30.7亿美元。
+- 美元兑日元日内跌幅达3%，报155.57。
+- 俄总统新闻秘书：普京未邀请特朗普出席胜利日阅兵活动
+- 乌克兰将战时状态和总动员令再延长90天
+- 英国央行行长贝利：第二轮效应的规模“高度不确定”。
+工资谈判可能引发第二轮效应。
+不确定性可能拖累企业的投资计划。
+何时采取行动是一个“艰难的抉择”。
+在情景C下需要“显著收紧”政策立场，其他情景下则不然。
+所有政策规则都表明当前利率应高于
+- 越剑智能：智能验布机产品仍在市场推广的前期阶段
+- 花旗推出内部智能体AI平台。（AXIOS）
+- 英国央行行长贝利：中东冲突“显著影响”了英国消费者物价指数的走势。
+职责是防止冲击的影响变得根深蒂固。
+预计到年底通胀率略高于3.5%。
+食品价格受到的间接影响可能最为显著。
+冲突持续越久，影响就越严重。
+重新开放霍尔木兹海峡将减轻此次冲击
+- 布伦特原油日内跌幅达3.0%，报107.11美元/桶；WTI原油日内跌幅达3.0%，报103.57美元/桶。
+- 美元兑日元下跌2.5%至156.41，势创2022年以来最大跌幅。
+- WTI原油日内跌幅达2.0%，报104.65美元/桶；布伦特原油日内跌幅达1.5%，报108.59美元/桶。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- The UAE’s exit from Opec could bring ‘even bigger trouble’: Chinese expert
-- UAE to leave Opec after 6 decades, oil cartel unity questioned
+- Back to the factory? China to retrain 1 million jobless graduates as technicians
+- China outlines new labour protection plan for nation’s 200 million gig workers
 - Diplomacy
-- Trump-Putin talk Iran and Ukraine, US energy exports up: what happened overnight
-- US lawmakers warn China is top space rival as race to the moon intensifies
+- Minerals over ideology? US moves to break China’s rare earths grip
 - Politics
-- Will top Hong Kong civil servants pay price for blunders under new system?
-- Chips, oil and Iran: why US is raising pressure on China before Xi-Trump talks
+- Xi urges ‘disruptive innovation’ to boost China amid US tech race
+- Society
+- Wang Fuk Court resident finds charred HK$100,000 inheritance after opening safe
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- While the UAE’s departure from oil cartel is disruptive, it could also further drive apart Gulf Cooperation Council members, observer says.
-- The two conflicts could end on a ‘similar timetable’ US President Donald Trump has said.
-- Beijing is using space for ‘diplomacy and influence’, US lawmakers claim amid growing competition with Washington.
-- Former ministers, senior officials and observers point to practical challenges of attributing responsibility.
-- Banking & Finance
-- HKMA holds base rate at 4%, following Fed amid inflation worries
-- ‘We’re going to have to wait and see,’ Fed chairman Jerome Powell says after hosting his last FOMC meeting.
-- Tech Trends
-- Huawei’s HarmonyOS on 55m phones as China steps up push for domestic software
-- China is seeing a ‘transformative shift’ in the use of domestic software compared with a few years ago, says vice-minister.
+- China aims to solve its graduate jobs crisis by sending academic students to vocational school. But many young people remain sceptical.
+- Washington under Trump is eager to secure alternative supplies, but Beijing’s dominance appears too strong to break soon, observers say.
+- Chinese leader also calls for expanding country’s talent pool and fostering an innovation culture ‘open, inclusive and tolerant of failure’.
+- Another resident of fire-ravaged estate also discovers HK$100,000 in charred banknotes after returning under government scheme.
+- China forges new aviation alliances to fast-track C929 certification
+- Former CSRC chairman Yi Huiman to face trial for taking bribes, abusing power
+- Communist Party’s top anti-graft watchdog wraps up investigation into Yi’s activities with long list of allegations.
+- Education
+- Hong Kong eases enrolment rules for merged schools amid declining student numbers
+- Education Bureau offers relief to merged secondary schools, with three-year waiver on survival plans and additional resources.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 比亚迪首季少赚55%大行却齐唱好，股价曾飙逾4%
-- 五一假期人员流动量 料达15.2亿人次
-- 英王抵美赴国会演说 强调两国合作
-- 阿联酋“反水”沙特，意在“后石油”新轴心
+- 百胜中国首季多赚6%经营利润创季度新高，股价曾逆市升
+- 深圳楼市新政 宽核心区限购
+- 查尔斯调侃：如没英国 美国要说法语
+- 按“量”计费谋止蚀，AI“放题”成追忆？
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -210,9 +225,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数26111.84+432.06(+1.68%)
+- 恒生指数25776.53-335.31(-1.28%)
                     etnet.com.hk@copyright
-- 国企指数8805.60+160.79(+1.86%)
+- 国企指数8681.83-123.77(-1.41%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -231,15 +246,14 @@
 - Windows
 
 --- 跨站重点主题（多站出现=更重要）---
-- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 油价/霍尔木兹: 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 伊朗/中东: 华尔街见闻 (简中), SCMP (EN/中)
-- 就业数据: 华尔街见闻 (简中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 中国政策/两会: 华尔街见闻 (简中), SCMP (EN/中)
+- 就业数据: SCMP (EN/中)
 - 黄金/大宗: 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->

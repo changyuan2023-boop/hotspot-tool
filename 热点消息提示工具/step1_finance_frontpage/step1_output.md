@@ -3,28 +3,33 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Alphabet stock rises after earnings beat on cloud growth | Meta stock falls on AI spending plans despite earnings beat | Jerome Powell says he's staying on as a Fed governor
-  - 其他: 'Mag 7' earnings show AI spending isn't slowing | LinkedIn's AI hiring agents on track for $450M in yearly revenue | 2 key risks Meta warned investors about in its Q1 earnings report | Samsung Electronics sees robust AI demand after Q1 profit surges eightfold to set record | Australia calls for stronger AI risk controls at financial firms
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 30m | Stock futures climb as Big Tech earnings buoy AI hopes | Oil swings after hitting 4-year high on US military plans | 'Mag 7' earnings show AI spending isn't slowing
+  - 其他: Nvidia has powered a third of the Mag 7's bull-market gains | Meta stock sinks on AI spending plans despite earnings beat | Powell says he's staying on as a Fed governor | L3Harris lifts 2026 profit forecast on strong weapons demand | Stellantis stock drops after reporting Q1 profit but no full-year guidance hike
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: General Motors Expects $500 Million In Tariff Refunds, Risks Trump's Ire By Requesting Money Back | Tesla Just Dropped Big News About Its Electric Semi Truck | Bill Ackman's $5B Pershing Square IPO Revives A Question ETFs Already Answered: Do Investors Still Need Hedge Fund Wrappers? | Impinj Stock Soars On Strong Q2 Outlook | Smart Beta Meets IBD: CapForce Rebrands Innovator's IBD Funds In Rules-Based Push
+  - 其他: Elon Musk Sides With Viral 'Pokémon Economy' Analogy On Free Markets— 'This Is How...' | EXCLUSIVE: Telomir Pharmaceuticals Secures FDA Nod For Its Breast Cancer Therapy To Advance Into Human Study | Wall Street's Most Accurate Analysts Spotlight On 3 Health Care Stocks Delivering High-Dividend Yields | Jamie Dimon Says Markets May Be Too Complacent As Deficits Rise, Warns A 'Bond Crisis' And Even Stagflation Could Be Coming | What's Going On With IBM Stock Thursday?
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 纳斯达克100指数期货涨幅扩大至1%，受亚马逊、Alphabet提振。 | 中金公司：美联储下一次降息或推迟至第四季度 | 美媒：美政府寻求“没收”两艘与伊朗关联油轮 | 纳斯达克100指数期货涨幅扩大至0.8%，受大型科技公司财报推动。 | “特朗普关税”首批退款将于5月11日左右发放 | 中信建投：2026下半年CPU恐迎新一轮涨价 | 华尔街见闻早餐 | 2026年4月30日 | 报道：美国最大公寓业主AvalonBay与EQR商讨合并
-  - 其他: 纳斯达克生物科技指数收跌超1.2%，成分股Tango Therapeutics跌12.25%，Personalis跌8.36%，PTC Therapeutics跌8.13%，Foghorn跌8.12%，Erasca跌7.98%。
-渤健Bio | 美国财政部长贝森特声称：凯文·沃什将及时成为美联储主席。
-美联储主席鲍威尔任期届满后，若继续担任美联储理事将有失体面、违反惯例。 | 美国财政部长贝森特声称：消费者和股市正在看淡伊朗局势。 | 美国财政部长贝森特宣称：与伊朗的磋商正冲向终点线。
-（特朗普政府）每天都在加大对伊朗的经济压力。 | 伊朗外长：美以在40多天内对伊“犯下最严重反人类罪行”
+  - 头版/首屏: META启动分为六部分的美国高等级债券发行。 | 伊朗最高领袖军事顾问：伊朗绝不会失去霍尔木兹海峡 | 百时美施贵宝第一季度营收114.9亿美元，同比增长2.6%，预估108.6亿美元。
+第一季度调整后每股收益1.58美元，上年同期1.80美元，预估1.40美元。
+百时美施贵宝仍然预测全年经调整毛利率大约69％至70％。
+百时美施贵宝仍然预测 | 巴基斯坦外交部：巴方与伊美的外交接触仍在进行 | 伊朗最高领袖顾问：伊朗不畏惧海上封锁 | 伊朗最高领袖：伊朗将确保波斯湾区域的安全 | 礼来美股盘前涨超4%，公司一季度营收高于预期，并上调全年业绩指引 | 伊朗最高领袖：伊朗与海湾邻国命运相连
+  - 其他: 美元兑日元日内跌幅达3%，报155.57。 | 俄总统新闻秘书：普京未邀请特朗普出席胜利日阅兵活动 | 乌克兰将战时状态和总动员令再延长90天 | 英国央行行长贝利：第二轮效应的规模“高度不确定”。
+工资谈判可能引发第二轮效应。
+不确定性可能拖累企业的投资计划。
+何时采取行动是一个“艰难的抉择”。
+在情景C下需要“显著收紧”政策立场，其他情景下则不然。
+所有政策规则都表明当前利率应高于 | 越剑智能：智能验布机产品仍在市场推广的前期阶段
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: The UAE’s exit from Opec could bring ‘even bigger trouble’: Chinese expert | UAE to leave Opec after 6 decades, oil cartel unity questioned | Diplomacy | Trump-Putin talk Iran and Ukraine, US energy exports up: what happened overnight | US lawmakers warn China is top space rival as race to the moon intensifies | Politics | Will top Hong Kong civil servants pay price for blunders under new system? | Chips, oil and Iran: why US is raising pressure on China before Xi-Trump talks
-  - 其他: While the UAE’s departure from oil cartel is disruptive, it could also further drive apart Gulf Cooperation Council members, observer says. | The two conflicts could end on a ‘similar timetable’ US President Donald Trump has said. | Beijing is using space for ‘diplomacy and influence’, US lawmakers claim amid growing competition with Washington. | Former ministers, senior officials and observers point to practical challenges of attributing responsibility. | Banking & Finance
+  - 头版/首屏: Back to the factory? China to retrain 1 million jobless graduates as technicians | China outlines new labour protection plan for nation’s 200 million gig workers | Diplomacy | Minerals over ideology? US moves to break China’s rare earths grip | Politics | Xi urges ‘disruptive innovation’ to boost China amid US tech race | Society | Wang Fuk Court resident finds charred HK$100,000 inheritance after opening safe
+  - 其他: China aims to solve its graduate jobs crisis by sending academic students to vocational school. But many young people remain sceptical. | Washington under Trump is eager to secure alternative supplies, but Beijing’s dominance appears too strong to break soon, observers say. | Chinese leader also calls for expanding country’s talent pool and fostering an innovation culture ‘open, inclusive and tolerant of failure’. | Another resident of fire-ravaged estate also discovers HK$100,000 in charred banknotes after returning under government scheme. | China forges new aviation alliances to fast-track C929 certification
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 比亚迪首季少赚55%大行却齐唱好，股价曾飙逾4% | 五一假期人员流动量 料达15.2亿人次 | 英王抵美赴国会演说 强调两国合作 | 阿联酋“反水”沙特，意在“后石油”新轴心 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数26111.84+432.06(+1.68%)
-                    etnet.com.hk@copyright | 国企指数8805.60+160.79(+1.86%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 百胜中国首季多赚6%经营利润创季度新高，股价曾逆市升 | 深圳楼市新政 宽核心区限购 | 查尔斯调侃：如没英国 美国要说法语 | 按“量”计费谋止蚀，AI“放题”成追忆？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25776.53-335.31(-1.28%)
+                    etnet.com.hk@copyright | 国企指数8681.83-123.77(-1.41%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
@@ -35,25 +40,24 @@
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **油价/能源/霍尔木兹** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (3 站)
-- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
-- **就业/经济数据** — 出现于: 华尔街见闻 (简中) (1 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
+- **伊朗/中东局势** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
 - **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 美联储/利率（4 站）
-- 科技股/个股（4 站）
-- 关税/贸易政策（3 站）
+- 科技股/个股（5 站）
+- 伊朗/中东局势（3 站）
 - 油价/能源（3 站）
+- 美联储/利率（3 站）
 - 中国/欧盟（3 站）
-- 伊朗/中东局势（2 站）
+- 中国政策（2 站）
 - 就业/经济数据（1 站）
 - 黄金/大宗商品（1 站）
-- 中国政策（1 站）
+- 关税/贸易政策（0 站）
 - 加密货币（0 站）
