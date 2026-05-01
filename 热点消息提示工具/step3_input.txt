@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：早间**
-**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
+**当前模式：晚间**
+**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
 
 ---
 
@@ -25,7 +25,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`早间热点线索 · 2026年5月1日`
+`晚间热点线索 · 2026年5月1日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据），点明对哪些标的/板块的影响（涨跌方向）。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -54,15 +54,15 @@
 
 ---
 
-## 早间模式操作指令
+## 晚间模式操作指令
 
-聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
+聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
 重点关注（按重要性排序写入）：
-1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
-2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
-3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
-4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
+1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
+4. 其他值得今晚关注的美股消息
 
 ---
 
@@ -91,7 +91,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026050109
+抓取时间: 2026050120
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -99,25 +99,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets closed
-- Ternus makes first comments since being tapped as Apple CEO
-- AI developers snap up Mac minis, triggering shortage
-- US stock futures tick up after gauges close April on record highs
-- Trump signs permit for oil pipeline echoing Keystone XL
-- Sandisk, Western Digital, Seagate results signal strong AI storage demand
-- Meta CEO attributes layoffs to capex, won't rule out more job cuts
-- Trump removes tariffs on Scottish whisky after King Charles visit
+- U.S. markets open in 1h 30m
+- Stock futures hit pause on record-setting rally
+- Trump says Iran blockade 'incredible' as pump prices keep rising
+- Apple stock pops after earnings beat on iPhone sales, China growth
+- Apple's earnings beat is part of 1 amazing trend
+- Roblox plunges as outlook shows safety features taking a toll
+- OpenAI CFO rebuffs target miss talk, sees 'vertical wall of demand'
+- Rivian stock falls after it reports smaller Q1 loss than expected
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Apple tops earnings estimates on strong sales
-- The AI earnings bonanza is splitting investors
-- Trump bets Hormuz blockade will break Iran before triggering a crisis
-- Yen Soars as Japan Likely Intervenes After ‘Final’ Warning Given
-- Spiking central bank dissent risks stoking volatility: McGeever
-- GoDaddy forecasts quarterly revenue above estimates on AI push
-- Mexico Economy Dips in First Quarter, Stoking Recession Fear
-- FCC chair says White House did not pressure him to open Disney review
-- ResMed beats quarterly profit estimates, names new CFO
-- Here's how much interest you'd earn by putting $1,000 in a CD for 1 year
+- The stock market just had its best month since the pandemic rebound
+- AI agents are becoming day traders, but gains are elusive
+- Tesla's sales rebound in Europe continues in April
+- BYD's sales downturn extends to eighth straight month
+- Archimed to take Esperion Therapeutics private in $1.1 billion deal
+- Yen Steadies After First Intervention in Two Years Sparks Rally
+- Tesla sales rebound continues in several European markets in April
+- Lilly's obesity pill hits 5,612 prescriptions in third week after launch
+- It was another wild month for markets. Here’s what it means for you
+- Japan Likely Spent About $34.5 Billion on Yen Intervention
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -132,80 +132,68 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Baidu's Hidden AI Spinoff Is About To Get Priced: This week's Wolf Pick
-- EXCLUSIVE: 'Humans Don't Manage Risk Well,' Says SmartWealth CEO On AI-Driven Future Of Investing
-- Trump's 'The Apprentice' Show May Be Rebooted: Someone New Could Deliver 'You're Fired'
-- Blue Owl Cashes In: Sells Half Its SpaceX Stake At $1.25 Trillion Valuation
-- Apple Stock Pops On Strong Q3 Guidance: Details
+- Netflix, Cisco, Zoom And A Health Care Stock On CNBC's 'Final Trades'
+- Baxter Profit Plunges 35% As Tariffs, Costs Bite
+- LyondellBasell CEO Warns Of Lasting Impact From Middle East Supply Shock
+- How To Earn $500 A Month From Tyson Foods Stock Ahead Of Q2 Earnings
+- Wall Street's Most Accurate Analysts Give Their Take On 3 Industrials Stocks With Over 4% Dividend Yields
+- Stock Market Today: Dow Jones, S&P 500 Futures Gain As Trump Administration Evades War Powers Deadline— Apple, Twilio, Roblox In Focus
 - Inflation
 - Magnificent 7
-- Rivian Q1 Highlights: Double Beat, R2 Customer Deliveries In Coming Weeks
-- Tesla Shares Rise Over 3% After Key Trading Signal
-- Meta's AI Spending Spree: Why the Stock is Diving Despite Record Profits
+- Amazon Accounted For Over 50% Of Rivian's Q1 2026 Revenue: Jim Chanos Says 'Yikes'
+- 5 Stock Picks Last Month From Wall Street's Most Accurate Analysts
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美政府官员：2月28日开始的“敌对行动已结束”
-- 华尔街见闻早餐 | 2026年5月1日
-- 特朗普称已“摧毁”伊朗核能力，仅少数人知晓谈判实际进展
-- 11国外长发表联合声明，谴责以色列袭击“全球坚韧船队”
-- 周四（4月30日），美股降息赢家指数收涨0.70%，报91.53点，4月份劣迹上涨4.92%，4月1日以来持续走高、在4月21日美股开盘时达到98.86点，随后逐步回吐涨幅。
-“特朗普关税输家”指数涨1.30%，报103.40点，4月份累涨
-- 伊朗股市暂停交易至5月4日
-- Anthropic大模型Mythos的扩张包括日本（市场）。（日经新闻）
-- 马斯克2025年特斯拉薪酬总额达1580亿美元
-- 周四（4月30日），美股信息科技指数收涨2.06%，报341.16点，4月份累涨31.48%。
-人工智能（AI）赢家指数涨1.69%，报357.04点，4月份累上涨29.66%。
-AI软件先驱指数跌1.22%，报96.01点，4月份累涨2.
-- 周四（4月30日），美股存储芯片与硬件供应链指数收涨3.96%，报153.43点，4月份累计上涨47.32%，整体持续走高。
-- 据知情人士透露，Hemab Therapeutics（COAG）将IPO融资目标提高至3.015亿美元，将股票发行规模扩大至1675万股。
-该公司料将把IPO股票发行价定在每股18美元，位于发行价指导区间的顶端。
-该公司俄投资者包括诺和诺德
-- 2004年以来首次：美国在商品猪群中发现伪狂犬病病例
+- 苹果美股盘前涨幅扩大至逾4%。
+- CBOE环球市场：预计将减少约20%的员工。
+- 第一季度业绩和裁员报道公布后，CBOE股价盘前上涨3.3%。
+- 美国防部与7家AI公司达成协议
+- 芝加哥期权交易所裁员20%。（华尔街日报）
+- 五角大楼将扩大英伟达和微软人工智能技术在机密网络中的应用。（彭博）
+- 埃克森美孚和雪佛龙顶住美国总统特朗普施压，拒绝提高石油产量。（英国金融时报）
+- 埃克森美孚第一季度收入及其他收益851.4亿美元。
+第一季度调整后每股收益1.16美元，预估0.96美元。
+埃克森美孚美股盘前涨近2%。
+- 雪佛龙第一季度调整后每股收益1.41美元，预估为90美分。
+第一季度营收及其他收入486.1亿美元，预期506.1亿美元。
+雪佛龙美股盘前涨近2%。
+- 报道：SpaceX在星舰项目累计投入超150亿美元
+- 伊朗外长同欧盟外交与安全政策高级代表通话 讨论地区局势
+- 伊朗司法部长：伊方从未离开谈判桌 但也不害怕战争
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 白宫：美国总统特朗普签署国会山移交的预算拨款草案为法律，从而结束国土安全部（DHS）的停摆状态。
-- 苹果公司董事会批准高达1000亿美元的股票回购计划，并提高派息至每股0.27美元。
-- 苹果公司第二财季营收1111.8亿美元，分析师预期1096.6亿美元。
-第二财季产品营收802.1亿美元，分析师预期81.3亿美元。
-第二财季iPhone营收569.9亿美元，创历史新高，分析师预期569.8亿美元；iPhone 17“需求
-- 英特尔股价在4月份超过翻倍，创五十五年前登陆纳斯达克以来最佳单月表现。
-- 美国总统特朗普：我们对霍尔木兹海峡的封锁百分之百有效。
-- 美国防长：对伊朗军事行动“60天期限”已因停火“中止”
-- Roblox美股盘后跌28%，该公司下调全年预定预期。
-- Rivian Automotive一季度电动汽车产量1.0236万辆，分析师预期1.0311万。
-一季度交付1.0365万辆，分析师预期1.0279万。
-一季度营收13.8亿美元，分析师预期13.9亿美元。
-一季度调整后每股亏损0.54美元
-- Reddit一季度营收6.634亿美元，分析师预期6.093亿美元。
-一季度净利润2.04亿美元，分析师预期1.174亿美元。
-一季度ARPU为5.23美元，分析师预期4.87美元。
-一季度日活用户数1.268亿，分析师预期1.2627亿。
-- 西部数据第三财季净营收33.4亿美元，同比增长45%，分析师预期32.3亿美元。
-第三财季GAAP毛利润率50.2%，非GAAP毛利率50.5%。
-预计第四财季营收将同比增长36%-44%。
-预计第四财季运营开支3.85亿-3.95亿美元，
+- “科创板八条”发布以来，科创板公司累计新增产业并购200余单
+- Jane Street2025年薪酬池规模增长一倍多，达到94亿美元。（彭博）
+- 科创板连续七年保持近13%的研发投入强度，稳居A股各板块研发投入强度首位
+- 沪市主板1223家公司2025年累计分红规模达1.82万亿元
+- 俄首次发射新一代运载火箭“联盟-5”号
+- 雅诗兰黛美股盘前涨超10%，公司第三财季财报好于预期
+- 以色列对黎巴嫩南部发动袭击
+- 五一假期，港珠澳大桥珠海公路口岸迎入境高峰
+- 吉利汽车4月销量23.5万辆
+- “五一”假期首日交通出行人数预计超3.4亿人次
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Trip.com aims to bring 200 million tourists to China, buoying GDP growth
-- China braces for record Labour Day travel surge as tourism demand remains robust
-- Diplomacy
-- Iran ‘dying to make a deal’, US war costs soar: here’s what happened overnight
-- From apps to autos: China’s data reach sparks US espionage and sabotage concerns
-- Hong Kong Economy
-- Yacht tourists, hikers drive ‘golden week’ optimism for Hong Kong eateries
-- The big shift in Xi Jinping’s travel plans and what it means for China
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- The company believes China could become the world’s top tourism destination, according to reports.
-- US President Donald Trump says only a few people know the status of talks with Tehran as war enters its third month.
-- Washington accused of not doing enough to counter Beijing’s harvesting of key American data and weaponising it as a strategic asset.
-- Industry leader says 5 per cent year-on-year increase in business expected, adding that operators have ramped up manpower to cope with influx.
-- Why is China warning the UN of a Japanese ‘nuclear breakout’?
-- Beijing asks the international body to prioritise Tokyo’s ‘dangerous tendency to seek nuclear weapons’ as regional row escalates.
+- US and Chinese officials air concerns in build-up to Trump’s Beijing visit
+- Trump urged by Democrats to keep US ban on Chinese cars as Xi meeting looms
 - Science
-- China’s Tiangong space station to double in size as Nasa phases out ISS
-- Plans are under way to add three more modules to the Chinese facility but no timeline has been released to complete the work.
-- Health & Environment
+- Could Chinese mathematicians tip the balance in a  US conference boycott?
+- Diplomacy
+- China cuts tariffs on African goods but is it enough to close the trade gap?
+- Politics
+- Beijing’s Xia Baolong, top energy official meet with CLP’s Michael Kadoorie
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- Despite the latest diplomatic initiatives, Beijing warned the US was threatening ‘hard-won stability’ with new smartphone restrictions.
+- Petition signed by 2,300 scholars from 80 countries urges ‘World Cup’ to be moved due to American policies towards foreign academics.
+- Analysts urge Beijing to invest in Africa’s industrial capacity to reduce its substantial trade deficit and create a more balanced relationship.
+- Beijing’s point man on Hong Kong affairs, National Energy Administration hold separate meetings with energy tycoon.
+- The big shift in Xi Jinping’s travel plans and what it means for China
+- China Business
+- Lights, camera, traction: China’s EV race rolls out film-projecting headlights
+- Ultra-fast charging technology and a wave of smart features are helping Chinese EVs win over overseas buyers.
+- Could a prolonged conflict between the US and Iran threaten another vital link?
+- While countries grapple with the perils of a continuing oil shock, essential internet cables are also at risk.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -244,14 +232,12 @@ AI软件先驱指数跌1.22%，报96.01点，4月份累涨2.
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 就业数据: 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Benzinga (EN), SCMP (EN/中)
+- 油价/霍尔木兹: 华尔街见闻 (简中), SCMP (EN/中)
 - 黄金/大宗: 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 加密货币: 华尔街见闻 (简中)
+- 美联储: SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
