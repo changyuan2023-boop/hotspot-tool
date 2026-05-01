@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -25,7 +25,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年4月30日`
+`早间热点线索 · 2026年5月1日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据），点明对哪些标的/板块的影响（涨跌方向）。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -54,15 +54,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -91,7 +91,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026043020
+抓取时间: 2026050109
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -99,25 +99,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 30m
-- Stock futures climb as Big Tech earnings buoy AI hopes
-- Oil swings after hitting 4-year high on US military plans
-- 'Mag 7' earnings show AI spending isn't slowing
-- Bill Ackman on stocks: There are lots of reasons to be bullish
-- Berkshire's ailing stock clouds Abel's first annual meeting as CEO
-- China software maker gets rare approval for Nasdaq listing
-- Credit scores — the latest stress signs of a K-shaped economy
+- U.S. markets closed
+- Ternus makes first comments since being tapped as Apple CEO
+- AI developers snap up Mac minis, triggering shortage
+- US stock futures tick up after gauges close April on record highs
+- Trump signs permit for oil pipeline echoing Keystone XL
+- Sandisk, Western Digital, Seagate results signal strong AI storage demand
+- Meta CEO attributes layoffs to capex, won't rule out more job cuts
+- Trump removes tariffs on Scottish whisky after King Charles visit
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Nvidia has powered a third of the Mag 7's bull-market gains
-- Meta stock sinks on AI spending plans despite earnings beat
-- Powell says he's staying on as a Fed governor
-- L3Harris lifts 2026 profit forecast on strong weapons demand
-- Stellantis stock drops after reporting Q1 profit but no full-year guidance hike
-- Trane raises annual profit forecast on commercial HVAC demand
-- Japan yen surges 2%; officials issue strongest intervention warning yet
-- AI customer service startup Netomi raises $110 million
-- Banks in Asia brace for complex cyber threats from frontier AI
-- Eli Lilly raises annual profit forecast as GLP-1 drugs fuel growth
+- Apple tops earnings estimates on strong sales
+- The AI earnings bonanza is splitting investors
+- Trump bets Hormuz blockade will break Iran before triggering a crisis
+- Yen Soars as Japan Likely Intervenes After ‘Final’ Warning Given
+- Spiking central bank dissent risks stoking volatility: McGeever
+- GoDaddy forecasts quarterly revenue above estimates on AI push
+- Mexico Economy Dips in First Quarter, Stoking Recession Fear
+- FCC chair says White House did not pressure him to open Disney review
+- ResMed beats quarterly profit estimates, names new CFO
+- Here's how much interest you'd earn by putting $1,000 in a CD for 1 year
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -132,83 +132,80 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Elon Musk Sides With Viral 'Pokémon Economy' Analogy On Free Markets— 'This Is How...'
-- EXCLUSIVE: Telomir Pharmaceuticals Secures FDA Nod For Its Breast Cancer Therapy To Advance Into Human Study
-- Wall Street's Most Accurate Analysts Spotlight On 3 Health Care Stocks Delivering High-Dividend Yields
-- Jamie Dimon Says Markets May Be Too Complacent As Deficits Rise, Warns A 'Bond Crisis' And Even Stagflation Could Be Coming
-- What's Going On With IBM Stock Thursday?
-- Stock Market Today: Dow Jones Futures Drop, Nasdaq Gains As Trump Weighs 'Short And Powerful' Iran Strikes— Alphabet, Meta, Amazon In Focus
+- Baidu's Hidden AI Spinoff Is About To Get Priced: This week's Wolf Pick
+- EXCLUSIVE: 'Humans Don't Manage Risk Well,' Says SmartWealth CEO On AI-Driven Future Of Investing
+- Trump's 'The Apprentice' Show May Be Rebooted: Someone New Could Deliver 'You're Fired'
+- Blue Owl Cashes In: Sells Half Its SpaceX Stake At $1.25 Trillion Valuation
+- Apple Stock Pops On Strong Q3 Guidance: Details
+- Inflation
 - Magnificent 7
-- Jerome Powell
-- Federal Reserve
-- Meta's Massive AI Spending Shows No Signs Of Slowing As CFO Susan Li Warns: 'We Have Continued To Underestimate Our Compute Needs'
+- Rivian Q1 Highlights: Double Beat, R2 Customer Deliveries In Coming Weeks
+- Tesla Shares Rise Over 3% After Key Trading Signal
+- Meta's AI Spending Spree: Why the Stock is Diving Despite Record Profits
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- META启动分为六部分的美国高等级债券发行。
-- 伊朗最高领袖军事顾问：伊朗绝不会失去霍尔木兹海峡
-- 百时美施贵宝第一季度营收114.9亿美元，同比增长2.6%，预估108.6亿美元。
-第一季度调整后每股收益1.58美元，上年同期1.80美元，预估1.40美元。
-百时美施贵宝仍然预测全年经调整毛利率大约69％至70％。
-百时美施贵宝仍然预测
-- 巴基斯坦外交部：巴方与伊美的外交接触仍在进行
-- 伊朗最高领袖顾问：伊朗不畏惧海上封锁
-- 伊朗最高领袖：伊朗将确保波斯湾区域的安全
-- 礼来美股盘前涨超4%，公司一季度营收高于预期，并上调全年业绩指引
-- 伊朗最高领袖：伊朗与海湾邻国命运相连
-- 伊朗最高领袖哈梅内伊：海湾和霍尔木兹海峡正在开启新篇章。
-伊朗将消除美国对霍尔木兹海峡的“剥削”。
-美国在海湾地区的存在是造成不安全的主因。
-霍尔木兹海峡的新管理将惠及该地区。
-- 卡特彼勒第一季度调整后每股收益5.54美元，上年同期4.25美元，预估4.63美元。
-第一季度每股收益5.47美元，上年同期4.20美元。
-第一季度营收174.2亿美元，同比+22%，预估162.4亿美元。
-第一季度调整后运营收益31.3亿
-- 伊朗最高领袖将“很快”发表声明。（伊朗国家电视台）
-- 伊朗最高领袖将就“波斯湾日”发表声明。
+- 美政府官员：2月28日开始的“敌对行动已结束”
+- 华尔街见闻早餐 | 2026年5月1日
+- 特朗普称已“摧毁”伊朗核能力，仅少数人知晓谈判实际进展
+- 11国外长发表联合声明，谴责以色列袭击“全球坚韧船队”
+- 周四（4月30日），美股降息赢家指数收涨0.70%，报91.53点，4月份劣迹上涨4.92%，4月1日以来持续走高、在4月21日美股开盘时达到98.86点，随后逐步回吐涨幅。
+“特朗普关税输家”指数涨1.30%，报103.40点，4月份累涨
+- 伊朗股市暂停交易至5月4日
+- Anthropic大模型Mythos的扩张包括日本（市场）。（日经新闻）
+- 马斯克2025年特斯拉薪酬总额达1580亿美元
+- 周四（4月30日），美股信息科技指数收涨2.06%，报341.16点，4月份累涨31.48%。
+人工智能（AI）赢家指数涨1.69%，报357.04点，4月份累上涨29.66%。
+AI软件先驱指数跌1.22%，报96.01点，4月份累涨2.
+- 周四（4月30日），美股存储芯片与硬件供应链指数收涨3.96%，报153.43点，4月份累计上涨47.32%，整体持续走高。
+- 据知情人士透露，Hemab Therapeutics（COAG）将IPO融资目标提高至3.015亿美元，将股票发行规模扩大至1675万股。
+该公司料将把IPO股票发行价定在每股18美元，位于发行价指导区间的顶端。
+该公司俄投资者包括诺和诺德
+- 2004年以来首次：美国在商品猪群中发现伪狂犬病病例
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 美元兑日元日内跌幅达3%，报155.57。
-- 俄总统新闻秘书：普京未邀请特朗普出席胜利日阅兵活动
-- 乌克兰将战时状态和总动员令再延长90天
-- 英国央行行长贝利：第二轮效应的规模“高度不确定”。
-工资谈判可能引发第二轮效应。
-不确定性可能拖累企业的投资计划。
-何时采取行动是一个“艰难的抉择”。
-在情景C下需要“显著收紧”政策立场，其他情景下则不然。
-所有政策规则都表明当前利率应高于
-- 越剑智能：智能验布机产品仍在市场推广的前期阶段
-- 花旗推出内部智能体AI平台。（AXIOS）
-- 英国央行行长贝利：中东冲突“显著影响”了英国消费者物价指数的走势。
-职责是防止冲击的影响变得根深蒂固。
-预计到年底通胀率略高于3.5%。
-食品价格受到的间接影响可能最为显著。
-冲突持续越久，影响就越严重。
-重新开放霍尔木兹海峡将减轻此次冲击
-- 布伦特原油日内跌幅达3.0%，报107.11美元/桶；WTI原油日内跌幅达3.0%，报103.57美元/桶。
-- 美元兑日元下跌2.5%至156.41，势创2022年以来最大跌幅。
-- WTI原油日内跌幅达2.0%，报104.65美元/桶；布伦特原油日内跌幅达1.5%，报108.59美元/桶。
+- 白宫：美国总统特朗普签署国会山移交的预算拨款草案为法律，从而结束国土安全部（DHS）的停摆状态。
+- 苹果公司董事会批准高达1000亿美元的股票回购计划，并提高派息至每股0.27美元。
+- 苹果公司第二财季营收1111.8亿美元，分析师预期1096.6亿美元。
+第二财季产品营收802.1亿美元，分析师预期81.3亿美元。
+第二财季iPhone营收569.9亿美元，创历史新高，分析师预期569.8亿美元；iPhone 17“需求
+- 英特尔股价在4月份超过翻倍，创五十五年前登陆纳斯达克以来最佳单月表现。
+- 美国总统特朗普：我们对霍尔木兹海峡的封锁百分之百有效。
+- 美国防长：对伊朗军事行动“60天期限”已因停火“中止”
+- Roblox美股盘后跌28%，该公司下调全年预定预期。
+- Rivian Automotive一季度电动汽车产量1.0236万辆，分析师预期1.0311万。
+一季度交付1.0365万辆，分析师预期1.0279万。
+一季度营收13.8亿美元，分析师预期13.9亿美元。
+一季度调整后每股亏损0.54美元
+- Reddit一季度营收6.634亿美元，分析师预期6.093亿美元。
+一季度净利润2.04亿美元，分析师预期1.174亿美元。
+一季度ARPU为5.23美元，分析师预期4.87美元。
+一季度日活用户数1.268亿，分析师预期1.2627亿。
+- 西部数据第三财季净营收33.4亿美元，同比增长45%，分析师预期32.3亿美元。
+第三财季GAAP毛利润率50.2%，非GAAP毛利率50.5%。
+预计第四财季营收将同比增长36%-44%。
+预计第四财季运营开支3.85亿-3.95亿美元，
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Back to the factory? China to retrain 1 million jobless graduates as technicians
-- China outlines new labour protection plan for nation’s 200 million gig workers
+- Trip.com aims to bring 200 million tourists to China, buoying GDP growth
+- China braces for record Labour Day travel surge as tourism demand remains robust
 - Diplomacy
-- Minerals over ideology? US moves to break China’s rare earths grip
-- Politics
-- Xi urges ‘disruptive innovation’ to boost China amid US tech race
-- Society
-- Wang Fuk Court resident finds charred HK$100,000 inheritance after opening safe
+- Iran ‘dying to make a deal’, US war costs soar: here’s what happened overnight
+- From apps to autos: China’s data reach sparks US espionage and sabotage concerns
+- Hong Kong Economy
+- Yacht tourists, hikers drive ‘golden week’ optimism for Hong Kong eateries
+- The big shift in Xi Jinping’s travel plans and what it means for China
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- China aims to solve its graduate jobs crisis by sending academic students to vocational school. But many young people remain sceptical.
-- Washington under Trump is eager to secure alternative supplies, but Beijing’s dominance appears too strong to break soon, observers say.
-- Chinese leader also calls for expanding country’s talent pool and fostering an innovation culture ‘open, inclusive and tolerant of failure’.
-- Another resident of fire-ravaged estate also discovers HK$100,000 in charred banknotes after returning under government scheme.
-- China forges new aviation alliances to fast-track C929 certification
-- Former CSRC chairman Yi Huiman to face trial for taking bribes, abusing power
-- Communist Party’s top anti-graft watchdog wraps up investigation into Yi’s activities with long list of allegations.
-- Education
-- Hong Kong eases enrolment rules for merged schools amid declining student numbers
-- Education Bureau offers relief to merged secondary schools, with three-year waiver on survival plans and additional resources.
+- The company believes China could become the world’s top tourism destination, according to reports.
+- US President Donald Trump says only a few people know the status of talks with Tehran as war enters its third month.
+- Washington accused of not doing enough to counter Beijing’s harvesting of key American data and weaponising it as a strategic asset.
+- Industry leader says 5 per cent year-on-year increase in business expected, adding that operators have ramped up manpower to cope with influx.
+- Why is China warning the UN of a Japanese ‘nuclear breakout’?
+- Beijing asks the international body to prioritise Tokyo’s ‘dangerous tendency to seek nuclear weapons’ as regional row escalates.
+- Science
+- China’s Tiangong space station to double in size as Nasa phases out ISS
+- Plans are under way to add three more modules to the Chinese facility but no timeline has been released to complete the work.
+- Health & Environment
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -247,13 +244,15 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 中国政策/两会: 华尔街见闻 (简中), SCMP (EN/中)
-- 就业数据: SCMP (EN/中)
-- 黄金/大宗: 华尔街见闻 (简中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 就业数据: 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: 华尔街见闻 (简中), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 加密货币: 华尔街见闻 (简中)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
