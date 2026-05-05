@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026050420
+抓取时间: 2026050509
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 30m
-- Why trade deficits under Trump are so confusing
-- eBay stock rises as GameStop pitches $56 billion takeover
-- China's rare defiance of US sanctions risks sparking showdown
-- Musk sought settlement with OpenAI before Oakland trial
-- Oil swings on signs of rising tensions in Strait of Hormuz
-- Morgan Stanley: Tech earnings to eclipse Iran war for stocks
-- Tech latest: Chipmaker earnings amid AI boom, Musk vs. Altman
+- U.S. markets closed
+- AMD to report Q1 earnings as Wall Street eyes data center sales
+- Musk threatened to turn Altman, Brockman into 'most hated men'
+- US stock futures trade flat with investors eyeing US-Iran hostility
+- US-Iran ceasefire at risk as Hormuz tensions flare
+- White House weighs AI working group, model testing, NYT reports
+- OpenAI's cozy partner Cerebras is on track for a blockbuster IPO
+- Spirit Airlines is gone. Here are the low-cost airlines filling the gap.
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Stock futures waver as Hormuz tensions rise
-- Bitcoin tops $80,000 for first time since January
-- Trump: US to start guiding trapped ships through Hormuz
-- Blackstone vehicle aims to raise over $1.7 billion in US IPO for data center bet
-- Bitcoin briefly tops $80,000, the highest level since January
-- Blackstone Data Center REIT Seeks to Raise $1.75 Billion in IPO
-- US Denies Iran Report That Naval Ship Was Hit by Missiles
-- Germany Sees US as Vulnerable to Squeeze on Potash Supplies
-- UAE says it is discussing currency swap line with US
-- Bond Traders Look to Treasury Refunding, Fed Speakers and Jobs
+- Palantir revenue jumps 85% on booming US business
+- Musk settles SEC lawsuit over Twitter disclosures, $1.5M penalty imposed
+- Incoming Fed Chair Warsh won't be a sock puppet: Senator Ted Cruz
+- Venezuela's inflation rate eases to 10.6% in April, cenbank says
+- China's Impact Therapeutics seeks up to $117 million in Hong Kong IPO, term sheet shows
+- Australia's ALS restores most services after cyber incident; data impact under review
+- Inside the complex, secretive business of buying ube, the internet’s new favorite food
+- OpenAI co-founder discloses nearly $30 billion stake, financial ties to Altman
+- Former Walgreens CEO Roz Brewer: Don't 'AI proof' higher education, embrace it
+- Australia's NEXTDC secures $1.3 billion senior debt to fund data center expansion
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,66 +42,65 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Spirit Airlines Shut Down—Then A Fan's 'Packers-Style' Buyout Plan Drew $88 Million In Pledges
-- How To Earn $500 A Month From Pfizer Stock Ahead Of Q1 Earnings
-- Jim Cramer Calls RTX A 'Monster' Right Here, Aurora A 'Worthy' Spec
-- Hedge Funds Launch Biggest Tech Stock Pullback In Over 10 Years— What's Going On?
-- Apollo, Digital Realty Trust And Archer-Daniels-Midland On CNBC's 'Final Trades'
-- Stock Market Today: Dow Futures Tumble, S&P 500 Rises After Trump's 'Project Freedom' To Escort Stranded Vessels At Hormuz— eBay, Nebius In Focus
+- Congressman Buys Defense Stocks As Middle East Tensions Continues: Here Are The Companies
+- Congresswoman Ditches Magnificent Seven Stocks, Including The Year-To-Date Leader
+- Tesla Brand Recovery? New Survey Shows EV Giant Top Rating For US Loyalty – Palihapitiya Says 'Once You Drive A Tesla…'
+- Prediction Market ETFs Delayed As SEC Demands More Disclosure
+- Burry Exits GameStop After Cohen's $56 Billion eBay Bid Shatters Berkshire Thesis
+- Palantir Tops Q1 Estimates, Raises 2026 Guidance As Rule Of 40 Score Hits 140%
 - Warren Buffett
 - Anthony Scaramucci
-- What's Going On With AMD Stock Monday?
-- David Sacks Says AI Could Drive 75% Of US GDP Growth As Morgan Stanley Sees Big Tech AI Capex Surging Past $800 Billion In 2026
+- Amazon's Logistics Bombshell Just Crashed Dow Transports Into A Bear Market
+- Ross Gerber, Dan Ives Bet On The Same 9 Stocks – Some Might Surprise You
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 伊媒：伊朗已为霍尔木兹海峡的各种情况做好准备
-- 美国中央司令部：没有美国海军舰艇遭到袭击。
-- Fervo Energy寻求通过IPO筹集最高13.3亿美元。（彭博）
-- 美股期货跌幅收窄，此前有报道称美国否认军舰遭袭。
-- 美媒：美国高级官员否认美船只被伊朗导弹击中
-- 据伊朗国家电视台报道，伊朗海军称其阻止了美国军舰进入霍尔木兹海峡区域。
-- Cerebras寻求通过IPO筹集最高35亿美元。（彭博）
-- 美股期货短线跳水，纳指期货跌近0.5%；美国国债下跌，2年期国债收益率上升5个基点至3.93%。
-国际原油短线拉升，布油涨幅扩大至3%。
-现货黄金回落至4550美元/盎司下方。
-- 亚马逊宣布面向所有企业推出供应链服务
-- 摩根大通：将埃克森美孚目标价从170美元上调至173美元。
-- 美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。
-- 据知情人士消息，AI芯片制造商Cerebras计划于周一启动IPO路演，IPO定价区间为每股115至125美元。（路透）
+- 特朗普未明言伊朗违反停火协议
+- 华尔街见闻早餐 | 2026年5月5日
+- 洪迪厄斯”号邮轮疫情：发病者增至7人，确诊增至2人
+- 由于上半财年利润不及预期，澳大利亚西太平洋银行警示伊朗战争风险
+- 美国航空飞行员协会主席：美联航CEO的合并构想展现了“大胆的愿景”
+- 受天然气需求增长推动，管道运营商Williams季度利润超出预期
+- 美情报评估显示：本轮军事打击未进一步削弱伊朗核能力
+- 伊朗外长：特朗普的霍尔木兹海峡“自由计划”是“僵局计划”
+- 提醒：日内请重点关注（以下均为北京时间）
+- 特朗普拒绝确认美伊停火协议是否仍然有效
+- 特朗普：美国正从委内瑞拉攫取“数亿桶石油”
+- WTI原油期货跌1.3%，报105.11美元，市场评估霍尔木兹海峡通行对供应面的影响。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 伊朗称2枚导弹击中美军舰
-- 现货白银回落至74美元/盎司下方，日内跌超2%。
-- 伊朗外交部：美对停火的承诺及其他可能安排必须涵盖以色列
-- 英国海上贸易行动办公室：霍尔木兹海峡海域风险依然“极高”
-- 伊朗回应美国“引导”被困船只驶离霍尔木兹海峡
-- 天星医疗港股暗盘涨逾230%。
-- 欧洲央行管委Villeroy：加息需谨慎并做好准备
-- 欧洲央行管委Kazimir：6月加息“几乎不可避免”
-- 伊朗公布伊控制下的霍尔木兹海峡地区新地图
-- 伊朗革命卫队：违规海上活动将面临“强制拦截”
+- 联合包裹服务（UPS）收跌10%，创7月份以来最大单日跌幅。
+- 挪威邮轮收跌8.6%，创2025年5月1日以来收盘新低。
+- 派拉蒙天舞（PSKY）一季度营收73.5亿美元，分析师预期72.6亿美元。
+- 中概指数收跌约0.1%，KWEB跌超0.6%，阿里涨超1.3%，小马智行涨约5.2%
+- 标普跌离历史最高位，半导体指数跌约0.6%，银行指数跌超1.7%，投资者关注中东局势
+- 周一（5月4日）纽约尾盘，彭博电动汽车价格回报指数涨0.53%，报4090.14点，全天处于上涨状态、北京时间21:30曾涨至4109.36点。
+- 美国总统特朗普谈及伊朗问题，宣称：进展非常顺利。
+一旦战争结束，燃油价格就会迅速下跌。
+- 美国总统特朗普：重申伊朗不能拥有核武器。
+- 美国总统特朗普：称赞伊朗战争期间的股市上涨。
+- 2/10年期美债收益率涨约7个基点
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Two worlds collide: the regulatory battlefield hanging over EU-China ties
-- China warns EU to remove firms and citizens from Russian sanctions list
-- Global Economy
-- How China is quietly reshaping Southeast Asia’s payments beyond the US dollar
+- How the Middle East crisis is expanding China’s agrochemical influence
+- How China’s reported sulphuric acid export ban could have global buyers reeling
+- US’ Bessent urges China to help open Strait of Hormuz
 - China Economy
-- China’s critical minerals grip faces test as new Asian financing tool launches
-- Tech Trends
-- Hong Kong puts its own spin on DeepSeek with China-chip AI push abroad
+- Shenzhen’s economic dilemma: soaring GDP, stagnant consumption
+- Society
+- What the public inquiry into deadly Tai Po blaze has revealed so far
+- Iran war could give Xi the upper hand in meeting with Trump: US experts
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- One side crafts regulation out of fear that the other side’s rules may expose its vulnerabilities.
-- New initiative lets consumers use home-grown apps like Alipay for cross-border payments – supporting Beijing’s push to expand regional financial links.
-- Japan, Britain and other nations have pledged millions to the new scheme, as China’s dominance of critical minerals sector faces fresh challenge.
-- Government-backed lab says China-chip compatibility will support secure, local AI use as it explores overseas expansion.
-- Bai Chongen on China’s new economic paradigm and closing the US tech gap
-- Diplomacy
-- Why African leaders value seamless transcontinental links over US-China rivalry
-- Economic ambitions are the priority, says official with project that Washington has framed as de-risking mineral supply chains from Beijing.
-- China’s ‘common prosperity’ push faces reality check as inequality rises: study
-- A leading economist warns widening income and wealth gaps are constraining Beijing’s agenda.
+- China accounts for about a third of global fertiliser production, and 70 per cent of the raw materials for chemical pesticides.
+- Treasury chief says Beijing’s energy buys fund ‘top sponsor of terrorism’, urges action as US asserts ‘absolute control’ over waterway.
+- Shenzhen’s retail sales barely rose in the first quarter despite strong GDP growth, a sign of the Chinese tech hub’s unbalanced development.
+- Ahead of fourth round of hearings that begin on Wednesday, we unpack what has emerged about disaster during independent committee’s 21 sessions.
+- Chinese culture
+- Beautiful, power-hungry: how Wu Zetian became China’s only female emperor
+- A legitimate ruler for 15 years – but de facto leader for years more than that – Wu Zetian is remembered as a complex character.
+- Tech Trends
+- China’s robots step into real-world roles, from cleaning to directing traffic
+- Robots appear in settings from dirty kitchens to dangerous steel mills as country pushes development of embodied AI.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -141,12 +140,11 @@
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 加密货币: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 美国关税: 华尔街见闻 (简中), SCMP (EN/中)
 - 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 美国关税: 华尔街见闻 (简中)
-- 就业数据: Yahoo Finance (EN)
+- 就业数据: SCMP (EN/中)
 - 黄金/大宗: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
