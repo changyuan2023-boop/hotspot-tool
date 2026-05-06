@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026050619
+抓取时间: 2026050620
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 2h 5m
+- U.S. markets open in 1h 30m
 - Disney rises after earnings beat in strong start for new CEO
 - AMD stock soars after earnings beat, rosy outlook
 - US said to near Iran deal as Trump pauses Hormuz plan
-- 3 charts show how Iran war oil shock could hit the economy
-- Samsung hits $1 trillion valuation as AI memory chips boom
-- Oil sinks below $100 amid positive signs for Iran peace
+- Uber stock surges as Q1 results show rising revenue, trips
 - SpaceX isn't public yet, but Wall Street already has ETFs for it
+- Gold, silver jump on report US and Iran near a peace deal
+- 3 charts show how Iran war oil shock could hit the economy
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Stock futures surge on signs US, Iran close in on peace deal
-- AMD forecast sparks AI‑driven rally in US chipmaker stocks
-- US to levy 25% car tariff 'soon' unless EU clears trade deal
-- Oil prices slump after Pakistani source says US and Iran are close to framework peace deal
-- Uber forecasts strong second-quarter bookings despite Middle East woes
-- Hut 8 signs about $10 billion AI data center lease in Texas
-- CVS Health raises 2026 forecast after improving medical cost controls
-- US stock futures rally on Middle East peace hopes, AI optimism
-- Jobs data live updates: Layoffs tick up amid high-profile job cuts at Coinbase, Meta, and other workplaces
-- SpaceX files plan for $55 billion Terafab chip facility in Texas
+- Samsung hits $1 trillion valuation as AI memory chips boom
+- Oil sinks below $100 amid positive signs for Iran peace
+- US dollar to remain stuck in range, dependent on the Strait of Hormuz: Reuters poll
+- Insulet lifts annual revenue forecast after quarterly beat on strong insulin pump demand
+- Cencora raises annual profit forecast despite quarterly miss
+- Global Payments quarterly profit rises on resilient consumer spending
+- EU plan to phase out Chinese tech could cost bloc over $400 billion, Chinese study says
+- Egypt's annual inflation slows to 14.9% in April
+- Bio-Techne misses revenue estimates as US academic funding cuts dent demand
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,11 +42,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Whirlpool Likely To Report Lower Q1 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
-- EXCLUSIVE: Medicus Sees Strongest Efficacy At Higher Dose In Skin Cancer Study
-- What's Going On With NICE Stock Wednesday?
-- Tom Lee Flags Rapid Launching Of Space ETFs As Wall Street Braces For SpaceX IPO— 'Never Seen Anything Like It'
-- ASML CEO Says Jensen Huang 'Totally Right' On Exporting Products With An Eight-Generation Gap— Denies Top Chip Access To China
+- What's Going On With Tesla Stock Wednesday?
+- TotalEnergies Pens AI Supercomputer Deal With Nvidia & Dell
+- White House And Pentagon Clash Over Anthropic AI Use As Trump Says Deal Is 'Possible'
+- Micron Stock Climbs On Cramer's Bullish Take: AI Storage Demand Secular, Not Cyclical
+- Arista Lifts AI Revenue Target To $3.5 Billion After Q1 Beat
 - Stock Market Today: S&P 500, Dow Futures Advance As Trump Pauses 'Project Freedom'—Super Micro Computer, AMD, Intel In Focus
 - Warren Buffett
 - Anthony Scaramucci
@@ -55,32 +55,30 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
+- 特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束
+- 康宁向英伟达发行认股权证，可按每股180美元的价格购入最多1500万股。
+- 诺和诺德预计司美格鲁肽（Ozempic）仿制药在华上市将推迟至明年。（彭博）
+- 苹果多款高性能Mac产品遭下架，疑为内存供应紧张所致
+- 英伟达与康宁宣布建立长期合作伙伴关系 将美国光纤产量提升50%以上
 - “五一”期间高速公路新能源汽车日均充电量同比增长超50%
 - 伊朗称将确保船只安全通过霍尔木兹海峡
 - 巴基斯坦外交部长：我们正努力促使美伊停火协议能够最终实现永久性停战。
 - 阿里巴巴美股盘前涨超5%，百度涨超7%。
-- 迪士尼美股盘前涨近8%，公司第二季度营收251.68美元，同比增长7%
+- 迪士尼美股盘前涨近8%，公司第二财季营收251.68美元，同比增长7%
 - 巴基斯坦消息人士：美伊谈判似已显现希望
 - 美媒：伊朗正“评估”美方提出的停战谅解备忘录
-- 宝马回应LG新能源电池大单传闻：不评论猜测，持续评估供应商阵容
-- 伊朗外交部一位发言人表示，他们正在“评估”华盛顿提出的14点和平方案。（CNBC）
-- 马斯克旗下SpaceX拟在得州Terafab工厂投资550亿美元。
-- 美股股指期货短线拉升，纳指期货涨超1%。欧洲斯托克600指数上涨2.3%。
-国际油价走低，布伦特原油跌破103美元/桶，报102.84美元/桶。
-美元指数日内跌0.68%，报97.82点。
-美国10年期国债收益率下行6个基点，创一周新低；德
-- 报道：美国和伊朗即将达成协议 以结束战争
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 以媒：特朗普近日一度考虑恢复空袭伊朗
-- 法国政府发言人：霍尔木兹海峡局势依然危险
-- 联合国敦促以色列释放援助加沙人士
-- 东方证券：发行股份及支付现金购买上海证券100%股权，股票复牌
-- 近455亿港元！长和拟清仓英国电讯，预期确认收益47亿港元
-- DeepSeek被曝投后估值或达450亿美元
-- 布伦特原油跌破97美元/桶关口，报96.86美元/桶；WTI原油日内跌幅达13.0%，报88.82美元/桶。
-- 以军对黎巴嫩多地真主党目标发动打击
-- 科林电气：本次股票交易异常波动期间，陈贺先生于2026年4月29日以集中竞价方式减持公司40000股股票，于2026年5月6日以集中竞价方式减持公司45500股股票；张成锁先生于2026年4月30日以集中竞价方式减持公司11万股股票，于20
-- 斯洛伐克拟派F-16战机参加北约防空任务
+- 大型医疗保险公司显示出复苏迹象，但关键考验即将到来
+- 电动车企Lucid在新任CEO业务审查期间暂停产量指引
+- 边疆航空预测精神航空的崩溃将推动其营收增长
+- 王毅同伊朗外长阿拉格齐会谈
+- 据伊朗媒体报道，伊朗外长阿拉格齐一行抵达北京。（中新社）
+- 受伊朗停火乐观情绪影响，美元兑谢克尔汇率下跌1.1%至2.90，创1993年10月以来最低水平。
+- 特朗普：如果伊朗同意（协议），“史诗愤怒”将结束，霍尔木兹海峡对所有人开放，包括伊朗。
+如果伊朗不同意，轰炸将以更高强度开始。
+- 三星宣布停止在中国市场销售所有家电产品
+- 采取刑事强制措施！黄金平台杰我睿“跑路”事件，警方最新通报
+- 五粮液：五粮液集团公司拟增持30亿元-50亿元。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -140,14 +138,14 @@
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), Benzinga (EN)
+- 美国关税: 华尔街见闻 (简中)
 - 加密货币: Yahoo Finance (EN)
 - 就业数据: Yahoo Finance (EN)
-- 黄金/大宗: 华尔街见闻 (简中)
-- 美联储: Benzinga (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
