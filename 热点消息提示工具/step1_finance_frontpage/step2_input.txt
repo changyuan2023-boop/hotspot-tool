@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026050520
+抓取时间: 2026050609
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 30m
-- Stock futures edge up with US-Iran truce, earnings in focus
-- AMD to report Q1 earnings as Wall Street eyes data center sales
-- Coinbase to cut about 14% of workforce in AI overhaul
-- Palantir slips as earnings beat fails to impress
-- Musk says saving for retirement 'won't matter.' Really?
-- Apple eyes using Samsung, Intel to build chips in the US
-- JPMorgan bets on the fintech playbook to lure in Gen Z
+- U.S. markets closed
+- AMD stock rises on earnings beat, rosy outlook
+- Anthropic CEO: Some software companies will 'completely go bust'
+- Gas prices climb toward $5 as Strait of Hormuz remains closed
+- Apple settles lawsuit over late Siri AI features for $250 million
+- James Murdoch makes $300M offer for New York magazine, podcasts
+- Anthropic commits to spending $200B on Google's cloud and chips: The Information
+- OpenAI to spend $50 billion on computing in 2026, Brockman says
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- The long bond is back in Wall Street's danger zone
-- Dow transports near a bear market after erasing April breakout
-- Oil slips after clashes around Hormuz strain fragile truce
-- Ferrari reports Q1 earnings beat, affirms guidance despite Middle East war
-- GlobalFoundries forecasts upbeat second quarter on data center demand
-- Alphabet taps euro bond market with six-tranche offering
-- Irish data protection agency launches inquiry into Shein Ireland
-- Henry Schein reaffirms annual profit forecast, beats Q1 estimates on dental strength
-- Schaeffler sees humanoid robotics orders in three-digit million euros by 2030
-- Alphabet Returns to Euro Debt Market for Latest AI Megabond Deal
+- US stock futures rise following index record closes
+- Super Micro forecasts quarterly revenue above estimates, shares climb
+- Freshworks to cut 11% jobs as AI reshapes software sector
+- Exclusive-Rivian mulls making its own lidar sensors, possibly in partnership with Chinese firms
+- New Zealand jobless rate falls to 5.3% in Q1, labour market remains slack
+- Oil prices fall over $2 after Trump pauses Strait opening for possible deal
+- South Korean April consumer inflation highest in nearly two years amid Iran war
+- Best hedges against inflation: 6 ways to protect your purchasing power
+- US Says Offensive Phase of Iran War Over as Ship Hit in Strait
+- Jacobs lifts 2026 profit forecast on strong AI infrastructure demand
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,94 +42,80 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Wall Street's Most Accurate Analysts Give Their Take On 3 Materials Stocks With Over 3% Dividend Yields
-- Jim Cramer Cites AMD Bull Case, Says 'Upside Surprise' Could Defy Wall Street Downgrades
-- Uber, Exxon Mobil, Illumina, Diamondback Energy: CNBC's 'Final Trades'
-- Bitcoin Taps $81,000, Ethereum, XRP, Dogecoin Rise Another 2%
-- AI Funds Soar On Paper Gains While Real Exits Stay Frozen: S&P Analyst
-- Stock Market Today: Dow Jones, S&P 500 Futures Rise As Traders Monitor US-Iran Ceasefire— Duolingo, Pinterest, AMD In Focus
+- She Followed Her Grandma's Advice And Kept Finances Separate. Now She's Upset After Finding Out Her Husband Of 10 Years Was Making More Money
+- Only One Congress Member Has Bought GameStop Stock Since 2022, But She Sold Her eBay Stock Too Soon
+- Are You Wealthy In Your 60s Or Just Comfortable? Here's What It Takes To Be In The Top 10%
+- Why Arista Networks Stock Is Trading Lower After Q1 Financial Results
+- Navitas Semiconductor Q1 Report Beats Expectations
+- Buffett's Legendary Premium Wiped Out — Berkshire Trails S&P 500 By 41 Points Since Retirement News
 - Warren Buffett
 - Anthony Scaramucci
-- Why Is Duolingo Stock Falling Tuesday?
-- Sam Altman's Financial Links To Greg Brockman Face Scrutiny In OpenAI Trial As Elon Musk Alleges Betrayal Of Nonprofit AI Mission
+- Michael Burry
+- These Analysts Revise Their Forecasts On Palantir Following Q1 Earnings
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 谷歌、xAI和微软同意对新人工智能模型进行美国国家安全审查。（英国金融时报）
-- Shopify第一季度GMV为1007.43亿美元。
-第一季度收入为31.7亿美元。
-第一季度自由现金流为4.76亿美元。
-预计2026年第二季度自由现金流利润率将在“十几”百分点的中段水平。
-Shopify美股盘前跌超10%。
-- PAYPAL 预计第二季度调整后每股收益将出现高个位数百分比下滑，或下降约9%。
-预计第二季度每股收益预期为1.34美元。
-预计2026财年每股收益预期为5.32美元，营收预期为340.6亿美元。
-- PAYPAL 第一季度调整后EPS为1.34美元，预期为1.27美元。
-第一季度总支付额为4639.6亿美元，预期为4433.3亿美元。
-第一季度调整后自由现金流为17.2亿美元。
-第一季度净营收为83.5亿美元，预期为80.5亿美元。
-- Coinbase宣布重组计划，以优化运营，迎接AI时代
-- 法拉利第一季度净利润4.13亿欧元，预期4.02亿欧元。
-第一季度净营收18.5亿欧元，预期18.1亿欧元。
-第一季度调整后EBITDA7.22亿欧元，预期7.05亿欧元。
-第一季度交付量3,436辆。
-- 辉瑞：近期关于解决Vyndamax专利侵权的和解协议，有可能显著改变辉瑞2028年之后的增长格局。
-近期比利时法院关于Comirnaty疫苗与欧盟成员国合同的裁决，对公司未来EPS和现金流是利好。
-4月已完成最终TCJA（美国税改法案）海外
-- 辉瑞第一季度净利润26.87亿美元。
-第一季度调整后EPS0.75美元，预期0.72美元。
-第一季度营收144.51亿美元，预期137.85亿美元。
-第一季度内部研发项目投资25亿美元。
-2026年全年EPS预期2.96美元。
-2026年全
-- Duke Energy第一季度调整后EPS为1.93美元，预期1.87美元。
-第一季度每股收益为1.97美元。
-全年调整后EPS展望为6.55至6.8美元，预期为6.7美元。
-Duke Energy重申2026年调整后EPS指引为6.55至
-- 杜邦上调2026年利润和销售预期
-- 据文件显示，Alphabet公司提交六部分欧元计价债券发行申请，具体规模未披露。
-- 加密货币交易所Bullish盘前下跌4.8%，公司计划以42亿美元的价格收购Equiniti。
+- 以媒：特朗普近日一度考虑恢复空袭伊朗
+- AMD一季度分析师电话会要点总结
+- 华尔街见闻早餐 | 2026年5月6日
+- 苹果公司围绕“AI Siri”（开发进度）被推迟而与iPhone买家们达成2.5亿美元虚假广告和解协议，该公司原计划2024年推出新AI功能，但时至今日仍然没能完成开发。（英国金融时报）
+- 特朗普称暂停“自由计划”行动
+- 英媒：被困船只对美国“自由计划”不信任
+- Lumentum分析师电话会要点总结
+- AMD美股盘后涨幅扩大至15.24%，最高达到409.40美元。
+- Meta正在打造一款AI Agent（人工智能智能体），名叫Hatch和一款Instagram内的购物工具代理。（The Information）
+- 提醒：日内请重点关注（以下均为北京时间）
+- 亚太盘初，纳指期货涨超0.4%，标普股指期货涨超0.1%，道指期货跌0.1%。
+伊朗外交部声明称，阿联酋正与美国、以色列共同针对德黑兰。
+- 埃克森美孚：位于美国得州克萨斯州博蒙特的炼油厂报告称，北储罐区49FUG_001区域出现挥发性排放。
+一根管道发生泄漏，导致物料释放。
+泄漏已被制止。未报告有场外影响。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 今年以旧换新带动销售额超6000亿元 消费品以旧换新惠及近8500万人次
-- 伊军方消息人士否认袭击富查伊拉称美方应对此负责
-- 比亚迪：4月新能源汽车产量32.23万辆、销量32.11万辆
-- 长安汽车：4月产量18.09万辆、销量17.93万辆，同比下降
-- 中国香港第一季度GDP同比初值 5.9%，预期3.5%，前值3.80%。
-中国香港第一季度GDP环比初值 2.9%，预期0.9%，前值1.00%。
-- 厄瓜多尔将哥伦比亚输厄商品税率下调至75%
-- 泰国内阁批准废除与柬埔寨的海域备忘录
-- “五一”假期全社会跨区域人员流动量预计超15亿人次 日均比2025年同期增长4%
-- 北汽蓝谷：子公司前4月销量4.67万辆，同比增长22.87%
-- 港股收盘，恒生指数收跌0.76%，恒生科技指数跌0.94%。智谱跌超3%，Minimax跌超2%，中芯国际跌1.87%，华虹半导体跌1.65%。
+- 周二（5月5日）纽约尾盘，美元兑日元涨0.41%，报157.88日元，日内交投区间为157.10-157.92日元。
+日线图上，日元连续三个交易日下探155关口无果而终，在周二显著回落。
+- 周二（5月5日）纽约尾盘，ICE美元指数持平，报98.47点，日内交投区间为98.58-98.31点。
+- 从纪录高点回落：沙特下调6月销往亚洲的阿拉伯轻质原油官方售价
+- 美国国务卿卢比奥：美方将不惜一切地确保双方（挑起战争的美国+以色列、以及伊朗）继续对话，从而能达成“永久性的”停火。
+- 美债收益率走低，因伊朗停火协议得以维持和油价下跌
+- 美国芝加哥BondBloxx投资管理公司合伙人兼高级投资策略师JoAnne Bianco：目前确实缺乏足以推动市场大幅单边波动的重大消息，但我们的利率水平确实已达到年初——即美伊冲突爆发前——未曾预料的高度。
+自3月初以来，这确实是一次大幅
+- Meta计划推出AI助手，对标OpenClaw
+- 高盛策略师：标普500领涨面过窄，发出警示信号
+- 美国国务卿卢比奥：美国特使Witkoff与库什纳在外交途径上付出努力。
+- 美国国务卿卢比奥：已有10名平民海员在霍尔木兹海峡的冲突中丧生。
+美国将继续针对对美国部队构成威胁的无人机和船只采取行动。
+美国正在部署军事资产，以扩大对霍尔木兹海峡商业航运的防御保护。
+美军已在霍尔木兹海峡摧毁7艘伊朗快艇。
+美国将继续清
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- China unveils new naval defence systems as drones change nature of war at sea
-- Trump’s Golden Dome targets China’s ‘hypersonic weapons, cruise missiles’
-- China Economy
-- ‘It’s a new crowd’: how Shanghai’s expat population is recovering – and changing
-- Military
-- Can Korea’s most advanced fighter KF-21 compete with China, the US and Europe?
-- Law and Crime
-- Hong Kong ‘block trade king’ exploited bank lapse to make HK$1.7m, court told
+- Chinese AI stocks are surging. So why is Hong Kong’s tech index still falling?
+- Hype or real: China’s robot boom faces reality check as commercialisation lags
+- China urges US to drop trade probe as key Trump-Xi summit approaches
+- China
+- Panama minister slams China ship crackdown, tells deputies in Beijing: push back
+- Society
+- Will Hong Kong’s lending clampdown wean helpers off debt – and save their dreams?
+- Trump dismisses China friction over Iran war, touts Xi ties before summit
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- The PLA has been working to improve its defences after the wars in Ukraine and the Middle East highlighted the threat of anti-ship drones.
-- Four years ago, Shanghai’s draconian lockdown sparked an exodus of foreigners. Now, there are signs the city’s expat community is slowly bouncing back.
-- Recent roll-out puts South Korea in elite group of countries capable of indigenously developing advanced supersonic combat aircraft.
-- Prosecutors allege Simon Sadler and Daniel La Rocca used confidential information about planned block trade to sell more than 1.7 million Esprit shares.
-- EU sounds out industry over new trade weapon against China’s overcapacity
-- Politics
-- Death toll rises to 26 in China’s latest fireworks factory explosion
-- Six of the 61 people injured are in intensive care, according to the local authority, which apologised for the incident.
-- Brussels bans Chinese inverters from EU-funded power projects
-- EU official says Brussels has identified cybersecurity and dependency risks in Chinese inverters.
+- Hong Kong has seen a string of blockbuster listings by Chinese AI firms in recent months. Yet the Hang Seng Tech Index remains deep in a slump.
+- The White House’s Section 301 investigations were launched to identify structural excess capacity among 16 trading partners, including China.
+- Foreign minister says court ruling must not be used as leverage against Panama’s merchant fleet as ship detentions mount.
+- NGOs say regulations should not be so strict that they deny domestic helpers access to loans since they may have legitimate needs such as family emergencies.
+- Hong Kong
+- Residents passed from pillar to post as warnings before fatal Hong Kong fire went unheeded
+- The third round of Wang Fuk Court fire hearings, held from April 20 to 30, exposed a “regulatory vacuum” in key areas that contributed to the high death toll, as departments said oversight lay elsewhere.
+- 20% of Hongkongers feel ‘lonely’, with 520,000 self-isolating, survey finds
+- Social welfare charity survey highlights unspoken isolation, with many unwilling to confide in family, friends or even AI chatbots.
+- Economics
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 百胜中国首季多赚6%经营利润创季度新高，股价曾逆市升
+- 汇控首季税前盈利跌1%逊预期，股价急跌半成
 - 深圳楼市新政 宽核心区限购
-- 查尔斯调侃：如没英国 美国要说法语
+- 霍峡危机入家门 食衣住行全面涨
 - 按“量”计费谋止蚀，AI“放题”成追忆？
 - 指数环球商品外汇
 - 国金观点
@@ -161,13 +147,14 @@ Duke Energy重申2026年调整后EPS指引为6.55至
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 就业数据: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
 - 美国关税: 华尔街见闻 (简中)
-- 就业数据: 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN)
+- 加密货币: Yahoo Finance (EN)
+- 黄金/大宗: 华尔街见闻 (简中)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---

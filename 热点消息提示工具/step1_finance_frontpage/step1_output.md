@@ -3,43 +3,24 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 30m | Stock futures edge up with US-Iran truce, earnings in focus | AMD to report Q1 earnings as Wall Street eyes data center sales | Coinbase to cut about 14% of workforce in AI overhaul
-  - 其他: The long bond is back in Wall Street's danger zone | Dow transports near a bear market after erasing April breakout | Oil slips after clashes around Hormuz strain fragile truce | Ferrari reports Q1 earnings beat, affirms guidance despite Middle East war | GlobalFoundries forecasts upbeat second quarter on data center demand
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | AMD stock rises on earnings beat, rosy outlook | Anthropic CEO: Some software companies will 'completely go bust' | Gas prices climb toward $5 as Strait of Hormuz remains closed
+  - 其他: US stock futures rise following index record closes | Super Micro forecasts quarterly revenue above estimates, shares climb | Freshworks to cut 11% jobs as AI reshapes software sector | Exclusive-Rivian mulls making its own lidar sensors, possibly in partnership with Chinese firms | New Zealand jobless rate falls to 5.3% in Q1, labour market remains slack
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Wall Street's Most Accurate Analysts Give Their Take On 3 Materials Stocks With Over 3% Dividend Yields | Jim Cramer Cites AMD Bull Case, Says 'Upside Surprise' Could Defy Wall Street Downgrades | Uber, Exxon Mobil, Illumina, Diamondback Energy: CNBC's 'Final Trades' | Bitcoin Taps $81,000, Ethereum, XRP, Dogecoin Rise Another 2% | AI Funds Soar On Paper Gains While Real Exits Stay Frozen: S&P Analyst
+  - 其他: She Followed Her Grandma's Advice And Kept Finances Separate. Now She's Upset After Finding Out Her Husband Of 10 Years Was Making More Money | Only One Congress Member Has Bought GameStop Stock Since 2022, But She Sold Her eBay Stock Too Soon | Are You Wealthy In Your 60s Or Just Comfortable? Here's What It Takes To Be In The Top 10% | Why Arista Networks Stock Is Trading Lower After Q1 Financial Results | Navitas Semiconductor Q1 Report Beats Expectations
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 谷歌、xAI和微软同意对新人工智能模型进行美国国家安全审查。（英国金融时报） | Shopify第一季度GMV为1007.43亿美元。
-第一季度收入为31.7亿美元。
-第一季度自由现金流为4.76亿美元。
-预计2026年第二季度自由现金流利润率将在“十几”百分点的中段水平。
-Shopify美股盘前跌超10%。 | PAYPAL 预计第二季度调整后每股收益将出现高个位数百分比下滑，或下降约9%。
-预计第二季度每股收益预期为1.34美元。
-预计2026财年每股收益预期为5.32美元，营收预期为340.6亿美元。 | PAYPAL 第一季度调整后EPS为1.34美元，预期为1.27美元。
-第一季度总支付额为4639.6亿美元，预期为4433.3亿美元。
-第一季度调整后自由现金流为17.2亿美元。
-第一季度净营收为83.5亿美元，预期为80.5亿美元。 | Coinbase宣布重组计划，以优化运营，迎接AI时代 | 法拉利第一季度净利润4.13亿欧元，预期4.02亿欧元。
-第一季度净营收18.5亿欧元，预期18.1亿欧元。
-第一季度调整后EBITDA7.22亿欧元，预期7.05亿欧元。
-第一季度交付量3,436辆。 | 辉瑞：近期关于解决Vyndamax专利侵权的和解协议，有可能显著改变辉瑞2028年之后的增长格局。
-近期比利时法院关于Comirnaty疫苗与欧盟成员国合同的裁决，对公司未来EPS和现金流是利好。
-4月已完成最终TCJA（美国税改法案）海外 | 辉瑞第一季度净利润26.87亿美元。
-第一季度调整后EPS0.75美元，预期0.72美元。
-第一季度营收144.51亿美元，预期137.85亿美元。
-第一季度内部研发项目投资25亿美元。
-2026年全年EPS预期2.96美元。
-2026年全
-  - 其他: 今年以旧换新带动销售额超6000亿元 消费品以旧换新惠及近8500万人次 | 伊军方消息人士否认袭击富查伊拉称美方应对此负责 | 比亚迪：4月新能源汽车产量32.23万辆、销量32.11万辆 | 长安汽车：4月产量18.09万辆、销量17.93万辆，同比下降 | 中国香港第一季度GDP同比初值 5.9%，预期3.5%，前值3.80%。
-中国香港第一季度GDP环比初值 2.9%，预期0.9%，前值1.00%。
+  - 头版/首屏: 以媒：特朗普近日一度考虑恢复空袭伊朗 | AMD一季度分析师电话会要点总结 | 华尔街见闻早餐 | 2026年5月6日 | 苹果公司围绕“AI Siri”（开发进度）被推迟而与iPhone买家们达成2.5亿美元虚假广告和解协议，该公司原计划2024年推出新AI功能，但时至今日仍然没能完成开发。（英国金融时报） | 特朗普称暂停“自由计划”行动 | 英媒：被困船只对美国“自由计划”不信任 | Lumentum分析师电话会要点总结 | AMD美股盘后涨幅扩大至15.24%，最高达到409.40美元。
+  - 其他: 周二（5月5日）纽约尾盘，美元兑日元涨0.41%，报157.88日元，日内交投区间为157.10-157.92日元。
+日线图上，日元连续三个交易日下探155关口无果而终，在周二显著回落。 | 周二（5月5日）纽约尾盘，ICE美元指数持平，报98.47点，日内交投区间为98.58-98.31点。 | 从纪录高点回落：沙特下调6月销往亚洲的阿拉伯轻质原油官方售价 | 美国国务卿卢比奥：美方将不惜一切地确保双方（挑起战争的美国+以色列、以及伊朗）继续对话，从而能达成“永久性的”停火。 | 美债收益率走低，因伊朗停火协议得以维持和油价下跌
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: China unveils new naval defence systems as drones change nature of war at sea | Trump’s Golden Dome targets China’s ‘hypersonic weapons, cruise missiles’ | China Economy | ‘It’s a new crowd’: how Shanghai’s expat population is recovering – and changing | Military | Can Korea’s most advanced fighter KF-21 compete with China, the US and Europe? | Law and Crime | Hong Kong ‘block trade king’ exploited bank lapse to make HK$1.7m, court told
-  - 其他: The PLA has been working to improve its defences after the wars in Ukraine and the Middle East highlighted the threat of anti-ship drones. | Four years ago, Shanghai’s draconian lockdown sparked an exodus of foreigners. Now, there are signs the city’s expat community is slowly bouncing back. | Recent roll-out puts South Korea in elite group of countries capable of indigenously developing advanced supersonic combat aircraft. | Prosecutors allege Simon Sadler and Daniel La Rocca used confidential information about planned block trade to sell more than 1.7 million Esprit shares. | EU sounds out industry over new trade weapon against China’s overcapacity
+  - 头版/首屏: Chinese AI stocks are surging. So why is Hong Kong’s tech index still falling? | Hype or real: China’s robot boom faces reality check as commercialisation lags | China urges US to drop trade probe as key Trump-Xi summit approaches | China | Panama minister slams China ship crackdown, tells deputies in Beijing: push back | Society | Will Hong Kong’s lending clampdown wean helpers off debt – and save their dreams? | Trump dismisses China friction over Iran war, touts Xi ties before summit
+  - 其他: Hong Kong has seen a string of blockbuster listings by Chinese AI firms in recent months. Yet the Hang Seng Tech Index remains deep in a slump. | The White House’s Section 301 investigations were launched to identify structural excess capacity among 16 trading partners, including China. | Foreign minister says court ruling must not be used as leverage against Panama’s merchant fleet as ship detentions mount. | NGOs say regulations should not be so strict that they deny domestic helpers access to loans since they may have legitimate needs such as family emergencies. | Hong Kong
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 百胜中国首季多赚6%经营利润创季度新高，股价曾逆市升 | 深圳楼市新政 宽核心区限购 | 查尔斯调侃：如没英国 美国要说法语 | 按“量”计费谋止蚀，AI“放题”成追忆？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 汇控首季税前盈利跌1%逊预期，股价急跌半成 | 深圳楼市新政 宽核心区限购 | 霍峡危机入家门 食衣住行全面涨 | 按“量”计费谋止蚀，AI“放题”成追忆？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数25898.61-197.27(-0.76%)
                     etnet.com.hk@copyright | 国企指数8730.49-43.90(-0.50%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -53,24 +34,25 @@ Shopify美股盘前跌超10%。 | PAYPAL 预计第二季度调整后每股收益
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
 - **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
 - **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
-- **就业/经济数据** — 出现于: 华尔街见闻 (简中) (1 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
+- **加密货币** — 出现于: Yahoo Finance (EN) (1 站)
+- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 中国/欧盟（4 站）
-- 伊朗/中东局势（3 站）
-- 加密货币（3 站）
-- 黄金/大宗商品（3 站）
+- 伊朗/中东局势（4 站）
+- 就业/经济数据（3 站）
 - 油价/能源（2 站）
+- 美联储/利率（2 站）
+- 中国/欧盟（2 站）
 - 关税/贸易政策（1 站）
-- 就业/经济数据（1 站）
-- 美联储/利率（1 站）
-- 中国政策（0 站）
+- 加密货币（1 站）
+- 黄金/大宗商品（1 站）
+- 中国政策（1 站）
