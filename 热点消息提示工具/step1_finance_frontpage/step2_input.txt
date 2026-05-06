@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026050609
+抓取时间: 2026050619
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets closed
-- AMD stock rises on earnings beat, rosy outlook
-- Anthropic CEO: Some software companies will 'completely go bust'
-- Gas prices climb toward $5 as Strait of Hormuz remains closed
-- Apple settles lawsuit over late Siri AI features for $250 million
-- James Murdoch makes $300M offer for New York magazine, podcasts
-- Anthropic commits to spending $200B on Google's cloud and chips: The Information
-- OpenAI to spend $50 billion on computing in 2026, Brockman says
+- U.S. markets open in 2h 5m
+- Disney rises after earnings beat in strong start for new CEO
+- AMD stock soars after earnings beat, rosy outlook
+- US said to near Iran deal as Trump pauses Hormuz plan
+- 3 charts show how Iran war oil shock could hit the economy
+- Samsung hits $1 trillion valuation as AI memory chips boom
+- Oil sinks below $100 amid positive signs for Iran peace
+- SpaceX isn't public yet, but Wall Street already has ETFs for it
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- US stock futures rise following index record closes
-- Super Micro forecasts quarterly revenue above estimates, shares climb
-- Freshworks to cut 11% jobs as AI reshapes software sector
-- Exclusive-Rivian mulls making its own lidar sensors, possibly in partnership with Chinese firms
-- New Zealand jobless rate falls to 5.3% in Q1, labour market remains slack
-- Oil prices fall over $2 after Trump pauses Strait opening for possible deal
-- South Korean April consumer inflation highest in nearly two years amid Iran war
-- Best hedges against inflation: 6 ways to protect your purchasing power
-- US Says Offensive Phase of Iran War Over as Ship Hit in Strait
-- Jacobs lifts 2026 profit forecast on strong AI infrastructure demand
+- Stock futures surge on signs US, Iran close in on peace deal
+- AMD forecast sparks AI‑driven rally in US chipmaker stocks
+- US to levy 25% car tariff 'soon' unless EU clears trade deal
+- Oil prices slump after Pakistani source says US and Iran are close to framework peace deal
+- Uber forecasts strong second-quarter bookings despite Middle East woes
+- Hut 8 signs about $10 billion AI data center lease in Texas
+- CVS Health raises 2026 forecast after improving medical cost controls
+- US stock futures rally on Middle East peace hopes, AI optimism
+- Jobs data live updates: Layoffs tick up amid high-profile job cuts at Coinbase, Meta, and other workplaces
+- SpaceX files plan for $55 billion Terafab chip facility in Texas
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,81 +42,75 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- She Followed Her Grandma's Advice And Kept Finances Separate. Now She's Upset After Finding Out Her Husband Of 10 Years Was Making More Money
-- Only One Congress Member Has Bought GameStop Stock Since 2022, But She Sold Her eBay Stock Too Soon
-- Are You Wealthy In Your 60s Or Just Comfortable? Here's What It Takes To Be In The Top 10%
-- Why Arista Networks Stock Is Trading Lower After Q1 Financial Results
-- Navitas Semiconductor Q1 Report Beats Expectations
-- Buffett's Legendary Premium Wiped Out — Berkshire Trails S&P 500 By 41 Points Since Retirement News
+- Whirlpool Likely To Report Lower Q1 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- EXCLUSIVE: Medicus Sees Strongest Efficacy At Higher Dose In Skin Cancer Study
+- What's Going On With NICE Stock Wednesday?
+- Tom Lee Flags Rapid Launching Of Space ETFs As Wall Street Braces For SpaceX IPO— 'Never Seen Anything Like It'
+- ASML CEO Says Jensen Huang 'Totally Right' On Exporting Products With An Eight-Generation Gap— Denies Top Chip Access To China
+- Stock Market Today: S&P 500, Dow Futures Advance As Trump Pauses 'Project Freedom'—Super Micro Computer, AMD, Intel In Focus
 - Warren Buffett
 - Anthony Scaramucci
 - Michael Burry
-- These Analysts Revise Their Forecasts On Palantir Following Q1 Earnings
+- Trump Amplifies Proposal To Rebrand ICE As 'NICE,' Shares Federal-Style Logo Concept
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 以媒：特朗普近日一度考虑恢复空袭伊朗
-- AMD一季度分析师电话会要点总结
-- 华尔街见闻早餐 | 2026年5月6日
-- 苹果公司围绕“AI Siri”（开发进度）被推迟而与iPhone买家们达成2.5亿美元虚假广告和解协议，该公司原计划2024年推出新AI功能，但时至今日仍然没能完成开发。（英国金融时报）
-- 特朗普称暂停“自由计划”行动
-- 英媒：被困船只对美国“自由计划”不信任
-- Lumentum分析师电话会要点总结
-- AMD美股盘后涨幅扩大至15.24%，最高达到409.40美元。
-- Meta正在打造一款AI Agent（人工智能智能体），名叫Hatch和一款Instagram内的购物工具代理。（The Information）
-- 提醒：日内请重点关注（以下均为北京时间）
-- 亚太盘初，纳指期货涨超0.4%，标普股指期货涨超0.1%，道指期货跌0.1%。
-伊朗外交部声明称，阿联酋正与美国、以色列共同针对德黑兰。
-- 埃克森美孚：位于美国得州克萨斯州博蒙特的炼油厂报告称，北储罐区49FUG_001区域出现挥发性排放。
-一根管道发生泄漏，导致物料释放。
-泄漏已被制止。未报告有场外影响。
+- “五一”期间高速公路新能源汽车日均充电量同比增长超50%
+- 伊朗称将确保船只安全通过霍尔木兹海峡
+- 巴基斯坦外交部长：我们正努力促使美伊停火协议能够最终实现永久性停战。
+- 阿里巴巴美股盘前涨超5%，百度涨超7%。
+- 迪士尼美股盘前涨近8%，公司第二季度营收251.68美元，同比增长7%
+- 巴基斯坦消息人士：美伊谈判似已显现希望
+- 美媒：伊朗正“评估”美方提出的停战谅解备忘录
+- 宝马回应LG新能源电池大单传闻：不评论猜测，持续评估供应商阵容
+- 伊朗外交部一位发言人表示，他们正在“评估”华盛顿提出的14点和平方案。（CNBC）
+- 马斯克旗下SpaceX拟在得州Terafab工厂投资550亿美元。
+- 美股股指期货短线拉升，纳指期货涨超1%。欧洲斯托克600指数上涨2.3%。
+国际油价走低，布伦特原油跌破103美元/桶，报102.84美元/桶。
+美元指数日内跌0.68%，报97.82点。
+美国10年期国债收益率下行6个基点，创一周新低；德
+- 报道：美国和伊朗即将达成协议 以结束战争
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 周二（5月5日）纽约尾盘，美元兑日元涨0.41%，报157.88日元，日内交投区间为157.10-157.92日元。
-日线图上，日元连续三个交易日下探155关口无果而终，在周二显著回落。
-- 周二（5月5日）纽约尾盘，ICE美元指数持平，报98.47点，日内交投区间为98.58-98.31点。
-- 从纪录高点回落：沙特下调6月销往亚洲的阿拉伯轻质原油官方售价
-- 美国国务卿卢比奥：美方将不惜一切地确保双方（挑起战争的美国+以色列、以及伊朗）继续对话，从而能达成“永久性的”停火。
-- 美债收益率走低，因伊朗停火协议得以维持和油价下跌
-- 美国芝加哥BondBloxx投资管理公司合伙人兼高级投资策略师JoAnne Bianco：目前确实缺乏足以推动市场大幅单边波动的重大消息，但我们的利率水平确实已达到年初——即美伊冲突爆发前——未曾预料的高度。
-自3月初以来，这确实是一次大幅
-- Meta计划推出AI助手，对标OpenClaw
-- 高盛策略师：标普500领涨面过窄，发出警示信号
-- 美国国务卿卢比奥：美国特使Witkoff与库什纳在外交途径上付出努力。
-- 美国国务卿卢比奥：已有10名平民海员在霍尔木兹海峡的冲突中丧生。
-美国将继续针对对美国部队构成威胁的无人机和船只采取行动。
-美国正在部署军事资产，以扩大对霍尔木兹海峡商业航运的防御保护。
-美军已在霍尔木兹海峡摧毁7艘伊朗快艇。
-美国将继续清
+- 以媒：特朗普近日一度考虑恢复空袭伊朗
+- 法国政府发言人：霍尔木兹海峡局势依然危险
+- 联合国敦促以色列释放援助加沙人士
+- 东方证券：发行股份及支付现金购买上海证券100%股权，股票复牌
+- 近455亿港元！长和拟清仓英国电讯，预期确认收益47亿港元
+- DeepSeek被曝投后估值或达450亿美元
+- 布伦特原油跌破97美元/桶关口，报96.86美元/桶；WTI原油日内跌幅达13.0%，报88.82美元/桶。
+- 以军对黎巴嫩多地真主党目标发动打击
+- 科林电气：本次股票交易异常波动期间，陈贺先生于2026年4月29日以集中竞价方式减持公司40000股股票，于2026年5月6日以集中竞价方式减持公司45500股股票；张成锁先生于2026年4月30日以集中竞价方式减持公司11万股股票，于20
+- 斯洛伐克拟派F-16战机参加北约防空任务
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Chinese AI stocks are surging. So why is Hong Kong’s tech index still falling?
-- Hype or real: China’s robot boom faces reality check as commercialisation lags
-- China urges US to drop trade probe as key Trump-Xi summit approaches
-- China
-- Panama minister slams China ship crackdown, tells deputies in Beijing: push back
-- Society
-- Will Hong Kong’s lending clampdown wean helpers off debt – and save their dreams?
-- Trump dismisses China friction over Iran war, touts Xi ties before summit
+- Foxconn, BYD among top exporters as China-listed firms hit overseas revenue mark
+- From Beijing to Berlin: Chinese EVs turn heads as brands eye European markets
+- Diplomacy
+- China’s Wang Yi and Iranian FM support new regional security framework in Gulf
+- China Economy
+- EU plan to rip out Chinese hardware will cost massive US$430 billion: report
+- Health & Environment
+- Hongkongers to pay only HK$240 a year for leukaemia drug after system shake-up
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Hong Kong has seen a string of blockbuster listings by Chinese AI firms in recent months. Yet the Hang Seng Tech Index remains deep in a slump.
-- The White House’s Section 301 investigations were launched to identify structural excess capacity among 16 trading partners, including China.
-- Foreign minister says court ruling must not be used as leverage against Panama’s merchant fleet as ship detentions mount.
-- NGOs say regulations should not be so strict that they deny domestic helpers access to loans since they may have legitimate needs such as family emergencies.
-- Hong Kong
-- Residents passed from pillar to post as warnings before fatal Hong Kong fire went unheeded
-- The third round of Wang Fuk Court fire hearings, held from April 20 to 30, exposed a “regulatory vacuum” in key areas that contributed to the high death toll, as departments said oversight lay elsewhere.
-- 20% of Hongkongers feel ‘lonely’, with 520,000 self-isolating, survey finds
-- Social welfare charity survey highlights unspoken isolation, with many unwilling to confide in family, friends or even AI chatbots.
-- Economics
+- Companies such as Foxconn and BYD are among the top performers as overseas revenues account for nearly 17 per cent of total income.
+- Separately, Iranian and Saudi foreign ministers in a phone call discuss need to continue diplomatic efforts and regional cooperation.
+- Brussels’ proposed new Cybersecurity Act would require vast amounts of Chinese equipment to be ripped out and replaced in a slew of industries.
+- Hospital Authority says it began subsidising Dasatinib in April, with patients previously paying up to HK$500,000 annually for treatment.
+- China’s new marine buoy says goodbye to classic Western design used since WWII
+- Politics
+- Exclusive | Wounded volunteer tells of risky clean-up at Chinese fireworks blast scene
+- As rescuers and volunteers worked to stabilise scene after deadly explosion, witnesses describe overwhelming smell of burnt gunpowder.
+- China Business
+- CK Hutchison’s VodafoneThree exit sparks dividend speculation
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 汇控首季税前盈利跌1%逊预期，股价急跌半成
-- 深圳楼市新政 宽核心区限购
+- 出售英国电讯业务套现455亿，长和获大行唱好股价破顶
+- ​00后小将吴宜泽 世界斯诺克锦标赛夺冠
 - 霍峡危机入家门 食衣住行全面涨
-- 按“量”计费谋止蚀，AI“放题”成追忆？
+- 人气降温、跑输标指，巴郡古老智慧仍奏效
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -125,9 +119,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25898.61-197.27(-0.76%)
+- 恒生指数26213.78+315.17(+1.22%)
                     etnet.com.hk@copyright
-- 国企指数8730.49-43.90(-0.50%)
+- 国企指数8800.75+70.26(+0.80%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -137,7 +131,6 @@
 - 吃喝玩乐
 
 ## 智通财经 (简中)
-（抓取失败: curl exit 0, len=498）
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -146,15 +139,15 @@
 - Windows
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 就业数据: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: 华尔街见闻 (简中)
 - 加密货币: Yahoo Finance (EN)
+- 就业数据: Yahoo Finance (EN)
 - 黄金/大宗: 华尔街见闻 (简中)
+- 美联储: Benzinga (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
