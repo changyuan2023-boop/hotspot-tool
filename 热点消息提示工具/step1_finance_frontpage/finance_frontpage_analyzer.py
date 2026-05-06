@@ -63,6 +63,9 @@ def fetch_text(url: str, timeout: int = 15) -> tuple[str, bool, str]:
     try:
         r = requests.get(url, timeout=timeout, headers={"User-Agent": USER_AGENT})
         r.raise_for_status()
+        # 内容过短（JS 挑战 / 反爬跳转页）时用 curl 重试
+        if len(r.text) < 1000:
+            return _fetch_via_curl(url, timeout)
         return r.text, True, ""
     except requests.RequestException as e:
         # WAF 拦截（如智通财经 Tengine 405）时 fallback 到 curl（TLS 指纹不同，不会被拦截）
@@ -75,14 +78,14 @@ def _fetch_via_curl(url: str, timeout: int = 15) -> tuple[str, bool, str]:
     """Fallback: 用 curl 抓取，绕过 WAF 的 TLS 指纹检测"""
     try:
         result = subprocess.run(
-            ["curl", "-s", "-m", str(timeout),
-             "-H", f"User-Agent: {USER_AGENT}",
+            ["curl", "-s", "-L", "--compressed", "-m", str(timeout),
+             "-H", "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
              "-H", "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
              "-H", "Accept-Language: zh-CN,zh;q=0.9,en;q=0.8",
              url],
             capture_output=True, text=True, timeout=timeout + 5,
         )
-        if result.returncode == 0 and len(result.stdout) > 500:
+        if result.returncode == 0 and len(result.stdout) > 200:
             return result.stdout, True, ""
         return "", False, f"curl exit {result.returncode}, len={len(result.stdout)}"
     except (subprocess.TimeoutExpired, FileNotFoundError) as e:
@@ -225,10 +228,9 @@ def fetch_futunn(timeout: int = 15) -> tuple[list[str], list[str], str]:
         except Exception:
             continue
 
-    # Fallback：curl 抓取 HTML（绕过 WAF）
+    # Fallback：curl 抓取 HTML（富途为 Next.js SSR，curl 可拿到含新闻标题的 h 标签）
     html, ok, err = _fetch_via_curl("https://news.futunn.com/hk/main", timeout)
-    if not ok or len(html) < 500:
-        # 再试一次 requests
+    if not ok or len(html) < 1000:
         html, ok, err = fetch_text("https://news.futunn.com/hk/main", timeout)
     if not ok:
         return [], [], err
