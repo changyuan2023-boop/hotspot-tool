@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026050720
+抓取时间: 2026050721
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 30m
+- U.S. markets open in 10m
 - McDonald's earnings beat as value meals drive sales
 - AI gold rush leads to big pay hikes for Wall Street bankers
 - The S&P 500 is blowing up earnings estimates. But there's a catch.
+- How Tony Robbins is investing in the AI boom
+- Why Arm Holdings stock is sinking
+- Iran deal might take months, and they won't unconditionally surrender: Esper
 - UAE slips hidden oil tankers through Strait of Hormuz
-- Arm falls as supply worries cloud AI demand hopes
-- Oil falls below $100 on fresh push to end Mideast war
-- US, Iran circle around latest proposal to end the war
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Stocks stall in wait for update on Iran-US deal proposal
-- Wall Street has a new way to chase the AI memory boom
-- The stock market's semi-charmed life: Morning Brief
-- Layoff plans soared in April amid tech job cuts, but remain lower than a year ago
-- Dollar soft as markets hope for best on Middle East
-- How Tony Robbins is investing in the AI boom — and why he likes Anthropic
-- Quant Model Shows Rally in Stocks Is Approaching ‘Manic’ Level
-- S&P 500, Nasdaq futures touch record highs as oil extends losses
+- Arm falls as supply worries cloud AI demand hopes
+- Whirlpool CFO says appliance demand is reaching 'recession-level lows'
+- Meta challenges UK media regulator over online safety fees
+- US startup Lunar Outpost raises $30 million to speed moon rover development
+- Fed’s Collins Favored Changing FOMC Statement With Dissenters
+- US productivity slows further in first quarter
 - Oil falls below $100 a barrel on Middle East peace hopes
-- UK's BT re-focuses on its core brand, with BT Mobile for consumers
+- US Waits on Iran’s Peace Deal Response as Israel Strikes Lebanon
+- Mexico's annual inflation eases in April for the first time in 2026
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,19 +42,26 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Gilead Sciences Likely To Report Higher Q1 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
-- Cardano Co-Founder Hoskinson Claps Back At Criticism: 'Attacking Cardano Is So 2022'
-- Real Home Prices Plunge To Lowest Level Since 2014: Are Luxury Sales 'Inflating' Data?
-- EXCLUSIVE: ENvue Medical Locks In Multi-Year Access To Large US Nonprofit Hospital System Through 2028
-- This Fortinet Analyst Turns Bullish; Here Are Top 5 Upgrades For Thursday
-- Stock Market Today: Dow Jones, S&P 500 Futures Advance As Trump Celebrates Record Gains—Fortinet, Whirlpool, Core Scientific In Focus
+- AppLovin Shares Dip Despite Earnings Beat And Raised Outlook
+- Elon Musk Called Claude 'Evil' — Now Anthropic Runs On His Nvidia Supercomputer
+- Woman, 67, Asks Suze Orman Which Retirement 'Bucket' Do I Spend From First? — Her Advice: Tap Traditional IRA, Then Roth And Leave Cash For Last
+- Cathie Wood's ARK Invest Has 2 Good News And 1 Bad News For Bitcoin
+- Redwire Shares Slide Following Disappointing Earnings, $350M Stock Offering
+- Stock Market Today: Do, S&P 500, Nasdaq Futures Gain As Trump Celebrates Record Gains— Fortinet, Whirlpool, Core Scientific In Focus (UPDATED)
 - Vehicle Recalls
-- Celsius Is Winning The Energy Drink Battle With Pepsi In Its Corner
-- US Airlines Spent $5 Billion On Fuel In March Alone As Energy Crisis Deepens: Here's How Airline Stocks Have Fared Since Iran War Began
-- Wall Street's Most Accurate Analysts Give Their Take On 3 Utilities Stocks Delivering High-Dividend Yields
+- Elizabeth Warren Says Trump Focuses On Self-Promotion As Families Face Higher Costs: 'Wants His Face On Everything But...'
+- Top 2 Materials Stocks That May Keep You Up At Night This Quarter
+- Trade Desk Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
+- 周四美股盘前你需要了解的全球要闻
+- 唯品会入选标普全球《可持续发展年鉴（中国版）》，获评“行业最佳进步企业”称号
+- 美国一季度非农生产力初值 0.8%，预期1%，前值由1.80%修正为1.6%。
+- 美国一季度非农单位劳动力成本初值 2.3%，预期2.6%，前值由4.40%修正为4.6%。
+- 美国4月25日当周续请失业救济人数 176.6万人，预期180万人，前值由178.5万人修正为177.6万人。
+- 美国5月2日当周首次申请失业救济人数 20万人，预期20.5万人，前值由18.9万人修正为19万人。
+- 英监管机构调查三大支付巨头涉嫌垄断行为
 - 伊朗指定两条航道供船只通行霍尔木兹海峡
 - 李强会见美国国会参议员代表团
 - 麦当劳第一季度营收为65.2亿美元，预估64.7亿美元。
@@ -64,48 +71,45 @@
 麦当劳盘前涨近4%。
 - 伊朗总统称近期与最高领袖会面
 - 赵乐际会见美国国会参议员代表团
-- 伊朗官媒称美媒记者疑发假消息操纵市场获利
-- 巴基斯坦官员：巴方正为可能进行的美伊谈判做准备
-- 美国4月挑战者企业裁员人数同比 -20.9%，前值-78.00%。
-- 欧盟考虑限制使用美国云平台来处理敏感政府数据。（CNBC）
-- 乘联分会：根据月度初步乘联数据综合，2026年4月全国乘用车厂商新能源批发预估122万辆，同比增长7%，环比增长7%。其中特斯拉中国批发销量79478辆。
-- 美国检方就企业并购内幕交易起诉30人
-- 伊朗称在霍尔木兹海峡上空击落美军无人机
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 伊朗议长：霍尔木兹海峡新格局正在形成
-- 诺和诺德在分析师电话会议上谨慎地谈及美国政治环境（包括潜在的特朗普政府政策、关税以及医药政策）：
-1、关于“最惠国待遇”（MFN）与医药政策，这是会议中讨论最多的部分，直接关系到政策对价格的影响。
-a、MFN协议的压力：管理层明确提到，诺和
-- 诺和诺德电话会议从四个维度讨论了减肥药市场
-- 诺和诺德分析师电话会议要点回顾
-- 巴西宣布对中国公民免签
-- 德国政府官员：二战结束81周年 正视历史仍然至关重要
-- 中国锂电池出口一季度大增超50%
-- 碧桂园在港交所公告，4月单月共实现归属公司股东权益的合同销售金额约人民币25.0亿元，归属公司股东权益的合同销售建筑面积约34万平方米。
-- 以军称打死数名真主党“精锐部队”指挥官
-- 所罗门群岛议会下周选举新总理
+- 波兰央行行长Glapinski：高燃油价格带来的冲击低于几年前的经历。
+汇率保持稳定。
+看到核心CPI有所上升。
+有多种因素在限制通胀上升。
+劳动力市场的紧张程度有所缓解。
+很难判断最终的通胀规模会是多少。
+外部因素正在推高波兰的通胀。
+- 波兰央行行长：波兰央行目前持有595吨黄金储备，并计划将其增至700吨。
+- 俄罗斯建议乌克兰认真对待胜利日停火举措
+- 夜盘期货开盘，燃油、低硫燃油、原油跌逾4%，纯苯、甲醇、乙二醇、对二甲苯跌逾3%，苯乙烯、PTA、塑料、液化石油气、沥青、聚丙烯跌逾2%；沪银涨逾4%，沪锡涨逾1%。
+- 券商700亿持仓曝光！5600亿光模块巨头遭中信证券减持
+- 韩国派专家组调查船只在霍尔木兹海峡起火原因
+- WTI原油跌破90美元/桶，报89.9美元/桶，日内跌5.4%；布伦特原油日内跌幅达5.0%，报96.18美元/桶。
+- 世界黄金协会：4月全球黄金ETF扭转颓势，录得66亿美元净流入
+- 哈马斯：以军企图通过恐怖手段“动摇抵抗组织意志”
+- 重庆出台智能汽车高速公路测试新规，规范L3级以上自动驾驶测试
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
+- Will Iran war threaten next harvest? Which countries are most at risk?
+- US’ Bessent urges China to help open Strait of Hormuz
+- Global Economy
+- China, US drive global debt to record $353 trillion – what’s behind the surge?
+- Military
+- Private firms can help stop sanctions ‘strangling’ China’s military: general
 - 2 former Chinese defence ministers handed suspended death sentences
-- Xi tells senior officers to ‘stay pure’ after Chinese military’s anti-graft drive
+- Fuel shocks, thin margins: why China’s airlines should ‘heed Spirit’s mistakes’
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- As the Hormuz blockade cuts off vital agricultural inputs, Food and Agriculture Organization official views China as key food security partner.
+- New report warns that rising conflicts, AI spending and energy security push are all expected to further increase global debt levels.
+- The authorities should give companies a greater voice in civilian-military collaboration, PLA Major General Zhang Zhan argues.
+- Sentences for Wei Fenghe and Li Shangfu most severe of senior military officers since Xi Jinping started anti-corruption campaign in 2012.
+- China Business
+- As US stocks hit record highs, will investors keep buying or stay diversified?
+- US equities rally amid easing Middle East tensions, but global investors remain cautious, focusing on diversification and China’s prospects.
 - Diplomacy
 - What did China tell a close Trump ally ahead of the US leader’s Beijing trip?
-- China Economy
-- China sets yuan at strongest level in 3 years as US dollar jitters simmer
-- Property
-- Hong Kong’s secondary luxury home deals rise as business families hunt for value
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Sentences for Wei Fenghe and Li Shangfu most severe of senior military officers since Xi Jinping started anti-corruption campaign in 2012.
 - Top diplomat Wang Yi advises visiting delegation of US senators that the two countries should be ‘partners rather than adversaries’.
-- Beijing is pushing for a stronger yuan to help globalise the currency, but the upswing could create issues for the country’s export giants.
-- Family behind Nameson buys Tai Po flats at prices near 2014 levels, while Tat Ming-linked couple sells Repulse Bay unit for HK$170 million.
-- Fuel shocks, thin margins: why China’s airlines should ‘heed Spirit’s mistakes’
-- Tech
-- Kimi developer Moonshot AI valued at US$20b as it navigates new IPO rules
-- Firm raised US$2 billion from investors including Meituan’s venture and China Mobile, taking total to US$3.9 billion in the last six months.
-- TikTok invests record US$25b to expand digital infrastructure in Thailand
-- The Chinese firm will install additional servers and expand data storage infrastructure to support rising demand for digital services.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -142,14 +146,14 @@ a、MFN协议的压力：管理层明确提到，诺和
 - Windows
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 美国关税: 华尔街见闻 (简中)
+- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: SCMP (EN/中)
 - 加密货币: Benzinga (EN)
-- 就业数据: Benzinga (EN)
+- 就业数据: 华尔街见闻 (简中)
 - 美联储: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
