@@ -100,7 +100,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026050719
+抓取时间: 2026050720
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -108,25 +108,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 57m
+- U.S. markets open in 1h 30m
 - McDonald's earnings beat as value meals drive sales
 - AI gold rush leads to big pay hikes for Wall Street bankers
 - The S&P 500 is blowing up earnings estimates. But there's a catch.
 - UAE slips hidden oil tankers through Strait of Hormuz
 - Arm falls as supply worries cloud AI demand hopes
+- Oil falls below $100 on fresh push to end Mideast war
 - US, Iran circle around latest proposal to end the war
-- Wall Street has a new way to chase the AI memory boom
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Stocks stall in wait for update on Iran-US deal proposal
+- Wall Street has a new way to chase the AI memory boom
 - The stock market's semi-charmed life: Morning Brief
-- Shell profit climbs as Iran war boosts oil price
-- Kenvue beats first-quarter estimates amid pending acquisition by Kimberly-Clark
+- Layoff plans soared in April amid tech job cuts, but remain lower than a year ago
+- Dollar soft as markets hope for best on Middle East
+- How Tony Robbins is investing in the AI boom — and why he likes Anthropic
+- Quant Model Shows Rally in Stocks Is Approaching ‘Manic’ Level
+- S&P 500, Nasdaq futures touch record highs as oil extends losses
 - Oil falls below $100 a barrel on Middle East peace hopes
 - UK's BT re-focuses on its core brand, with BT Mobile for consumers
-- Amazon to carry Ozempic at US kiosks, offer same-day delivery
-- Japan Likely Used $30 Billion in Follow-Up Yen Intervention
-- Swiss-based Terra Quantum lands US Air Force deal ahead of Nasdaq listing
-- S&P 500, Nasdaq futures hit records as oil extends losses
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -141,16 +141,16 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Wall Street's Most Accurate Analysts Give Their Take On 3 Utilities Stocks Delivering High-Dividend Yields
-- Trump Administration Eyes First Official AI Dialogue With China At Beijing Summit With Xi Jinping: Report
-- Ken Griffin Slams Mamdani's Tax Video As 'Creepy And Weird,' Says New York 'Doesn't Welcome Success'
-- Coherent Rides AI Data Center Boom Wave With 20% Revenue Growth
-- EXCLUSIVE: ZenaTech Grows Asia-Pacific Presence With Australian DaaS Acquisition
+- Gilead Sciences Likely To Report Higher Q1 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- Cardano Co-Founder Hoskinson Claps Back At Criticism: 'Attacking Cardano Is So 2022'
+- Real Home Prices Plunge To Lowest Level Since 2014: Are Luxury Sales 'Inflating' Data?
+- EXCLUSIVE: ENvue Medical Locks In Multi-Year Access To Large US Nonprofit Hospital System Through 2028
+- This Fortinet Analyst Turns Bullish; Here Are Top 5 Upgrades For Thursday
 - Stock Market Today: Dow Jones, S&P 500 Futures Advance As Trump Celebrates Record Gains—Fortinet, Whirlpool, Core Scientific In Focus
 - Vehicle Recalls
+- Celsius Is Winning The Energy Drink Battle With Pepsi In Its Corner
 - US Airlines Spent $5 Billion On Fuel In March Alone As Energy Crisis Deepens: Here's How Airline Stocks Have Fared Since Iran War Began
-- Cramer Defends Massive AI Spending Spree: 'The Demand Already Exists'
-- Why Uber May Stay On Top For The Next Several Years
+- Wall Street's Most Accurate Analysts Give Their Take On 3 Utilities Stocks Delivering High-Dividend Yields
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -177,32 +177,32 @@
 a、MFN协议的压力：管理层明确提到，诺和
 - 诺和诺德电话会议从四个维度讨论了减肥药市场
 - 诺和诺德分析师电话会议要点回顾
-- Arm控股分析师电话会要点总结
-- 特朗普谈及伊朗：事情会很快结束。
-- 李强会见乌兹别克斯坦总理阿里波夫
-- 飞书深诺Meetsocial完成对4KMILES的战略并购，补齐跨境电商全链路关键拼图
-- 七部门发布《医药代表管理办法》
-- 金螳螂：公司目前未从事商业航天核心产业（含火箭研制、卫星制造、发射服务等），亦未开展数据中心算力运营业务。公司仅以装饰及机电主业为上述领域提供基础设施配套服务，目前仅承接少量商业航天发射场配套工程及数据中心施工项目，施工范围含办公楼、餐厅、
+- 巴西宣布对中国公民免签
+- 德国政府官员：二战结束81周年 正视历史仍然至关重要
+- 中国锂电池出口一季度大增超50%
+- 碧桂园在港交所公告，4月单月共实现归属公司股东权益的合同销售金额约人民币25.0亿元，归属公司股东权益的合同销售建筑面积约34万平方米。
+- 以军称打死数名真主党“精锐部队”指挥官
+- 所罗门群岛议会下周选举新总理
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Developing | 2 former Chinese defence ministers given death sentence with reprieve
+- 2 former Chinese defence ministers handed suspended death sentences
 - Xi tells senior officers to ‘stay pure’ after Chinese military’s anti-graft drive
 - Diplomacy
 - What did China tell a close Trump ally ahead of the US leader’s Beijing trip?
 - China Economy
 - China sets yuan at strongest level in 3 years as US dollar jitters simmer
-- Society
-- Inspector failed to spot illegal alterations, Hong Kong fire probe hears
+- Property
+- Hong Kong’s secondary luxury home deals rise as business families hunt for value
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Wei Fenghe and Li Shangfu sentenced to death with a two-year reprieve, according to statement published by Xinhua.
+- Sentences for Wei Fenghe and Li Shangfu most severe of senior military officers since Xi Jinping started anti-corruption campaign in 2012.
 - Top diplomat Wang Yi advises visiting delegation of US senators that the two countries should be ‘partners rather than adversaries’.
 - Beijing is pushing for a stronger yuan to help globalise the currency, but the upswing could create issues for the country’s export giants.
-- Senior maintenance surveyor Nick Yung thought wooden boards used to cover temporary openings at Wang Fuk Court designed to protect ‘broken’ windows.
+- Family behind Nameson buys Tai Po flats at prices near 2014 levels, while Tat Ming-linked couple sells Repulse Bay unit for HK$170 million.
 - Fuel shocks, thin margins: why China’s airlines should ‘heed Spirit’s mistakes’
 - Tech
 - Kimi developer Moonshot AI valued at US$20b as it navigates new IPO rules
-- The company raised US$2 billion from investors including Meituan and China Mobile, taking the total to US$3.9 billion in the last six months.
+- Firm raised US$2 billion from investors including Meituan’s venture and China Mobile, taking total to US$3.9 billion in the last six months.
 - TikTok invests record US$25b to expand digital infrastructure in Thailand
 - The Chinese firm will install additional servers and expand data storage infrastructure to support rising demand for digital services.
 
@@ -241,13 +241,15 @@ a、MFN协议的压力：管理层明确提到，诺和
 - Windows
 
 --- 跨站重点主题（多站出现=更重要）---
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中)
 - 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 美国关税: 华尔街见闻 (简中)
 - 加密货币: Benzinga (EN)
+- 就业数据: Benzinga (EN)
+- 美联储: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
