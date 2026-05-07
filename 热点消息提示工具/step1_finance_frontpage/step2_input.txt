@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026050620
+抓取时间: 2026050709
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 30m
-- Disney rises after earnings beat in strong start for new CEO
-- AMD stock soars after earnings beat, rosy outlook
-- US said to near Iran deal as Trump pauses Hormuz plan
-- Uber stock surges as Q1 results show rising revenue, trips
-- SpaceX isn't public yet, but Wall Street already has ETFs for it
-- Gold, silver jump on report US and Iran near a peace deal
-- 3 charts show how Iran war oil shock could hit the economy
+- U.S. markets closed
+- Arm jumps after earnings confirm surging AI data center spending
+- The 'K-shaped economy' has shown up at the gasoline pump
+- US stock futures trade flat as investors watch for US-Iran deal
+- Coinbase to face earnings test after job cuts, crypto market tumult
+- Meta-backed Scale AI wins $500 million Defense Department deal
+- Supermicro stock skyrockets on strong margin, revenue forecast
+- Snap's quarterly revenue rises, daily active users return to growth
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Stock futures surge on signs US, Iran close in on peace deal
-- Samsung hits $1 trillion valuation as AI memory chips boom
-- Oil sinks below $100 amid positive signs for Iran peace
-- US dollar to remain stuck in range, dependent on the Strait of Hormuz: Reuters poll
-- Insulet lifts annual revenue forecast after quarterly beat on strong insulin pump demand
-- Cencora raises annual profit forecast despite quarterly miss
-- Global Payments quarterly profit rises on resilient consumer spending
-- EU plan to phase out Chinese tech could cost bloc over $400 billion, Chinese study says
-- Egypt's annual inflation slows to 14.9% in April
-- Bio-Techne misses revenue estimates as US academic funding cuts dent demand
+- AMD stock soars after earnings show strong AI chip demand
+- Fed's Goolsbee: Fed may need to raise rates if AI boom drives spending but not productivity
+- McDonald's to report earnings amid value push, viral burger launch
+- Space analytics firm HawkEye raises $416 million in US IPO
+- Many BOJ board members saw need to raise rates if energy shock persists, minutes show
+- Quantum computing firm IonQ raises annual revenue forecast
+- UK private sector pay awards held at 3.5% in 3 months to March, IDR survey shows
+- Whirlpool CFO says appliance demand hasn't been this low since 'the great financial crisis'
+- Arm Warns of Phone Market Weakness, With AI Helping Offset Slump
+- Tony Robbins on AI taking jobs: You need to have an honest chat with yourself
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,65 +42,75 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- What's Going On With Tesla Stock Wednesday?
-- TotalEnergies Pens AI Supercomputer Deal With Nvidia & Dell
-- White House And Pentagon Clash Over Anthropic AI Use As Trump Says Deal Is 'Possible'
-- Micron Stock Climbs On Cramer's Bullish Take: AI Storage Demand Secular, Not Cyclical
-- Arista Lifts AI Revenue Target To $3.5 Billion After Q1 Beat
-- Stock Market Today: S&P 500, Dow Futures Advance As Trump Pauses 'Project Freedom'—Super Micro Computer, AMD, Intel In Focus
-- Warren Buffett
-- Anthony Scaramucci
-- Michael Burry
-- Trump Amplifies Proposal To Rebrand ICE As 'NICE,' Shares Federal-Style Logo Concept
+- The National Debt Is Now Bigger Than The Economy And Currency Devaluation Is Part Of The Debate. 'I Don't See A Way Out'
+- Ryan Cohen Is Selling Stuff On eBay To Pay For eBay Deal: Here's What You Can Buy (Including Rare Donald Trump Card)
+- Tesla Semi Lands 370 Unit Order: Is Jay Leno Right About Game Changer For Elon Musk's Company?
+- "I Didn't Remind Him to Kick Me Out," Tenant Says as Landlord Gets Mad Over 5-Year Extension
+- Redwire Stock Sees Heavy Selling After The Close: Here's Why
+- Chip Frenzy Hits Dot-Com Extremes As Record ETF Flows Shrug Off Michael Burry's Short Bets
+- Vehicle Recalls
+- McDonald's Earnings Prediction Market Preview: What Will Chris Kempczinski Say?
+- Qualcomm Shares Rise Over 4% After Key Trading Signal
+- Coinbase Q1 Preview: 'Everything Exchange' Dream Faces First Test After Shock Layoffs
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束
-- 康宁向英伟达发行认股权证，可按每股180美元的价格购入最多1500万股。
-- 诺和诺德预计司美格鲁肽（Ozempic）仿制药在华上市将推迟至明年。（彭博）
-- 苹果多款高性能Mac产品遭下架，疑为内存供应紧张所致
-- 英伟达与康宁宣布建立长期合作伙伴关系 将美国光纤产量提升50%以上
-- “五一”期间高速公路新能源汽车日均充电量同比增长超50%
-- 伊朗称将确保船只安全通过霍尔木兹海峡
-- 巴基斯坦外交部长：我们正努力促使美伊停火协议能够最终实现永久性停战。
-- 阿里巴巴美股盘前涨超5%，百度涨超7%。
-- 迪士尼美股盘前涨近8%，公司第二财季营收251.68美元，同比增长7%
-- 巴基斯坦消息人士：美伊谈判似已显现希望
-- 美媒：伊朗正“评估”美方提出的停战谅解备忘录
+- 伊朗国防部：美国需与以色列划清界限
+- 美国疾控中心（CDC）：政府正密切监测“洪迪厄斯”号邮轮上美国旅客的情况，该邮轮已确诊出现汉坦病毒病例。目前，美国公众面临的风险极低。
+- 消息人士称伊朗预计将于7日回应美国提议
+- 伊朗议长：霍尔木兹海峡新格局正在形成
+- 特朗普谈及伊朗：事情会很快结束。
+- 社交媒体公司Snap收涨0.33%，美股盘后跌9.17%。
+该公司在业绩报告中称，伊朗战争冲击广告收入，Q1业绩受地缘局势拖累。
+一季度营收15.29亿美元，同比增长12%。
+一季度净亏损0.9亿美元，上年同期亏损1.40亿美元。
+一季度调
+- 华尔街见闻早餐 | 2026年5月7日
+- 韩国产业通商资源部长官称，将在6月份过后宣布有关美国投资计划的信息。（NewSis）
+- 朝鲜常驻联合国代表：美国等国无端指责朝拥核国家地位
+- 摩根大通推出新指数，追踪6400家美国私营公司
+- 德国民调：默茨执政一周年，民众满意度跌至新低
+- 伊朗议长：“敌人”施经济压力，官民要团结应对
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 大型医疗保险公司显示出复苏迹象，但关键考验即将到来
-- 电动车企Lucid在新任CEO业务审查期间暂停产量指引
-- 边疆航空预测精神航空的崩溃将推动其营收增长
-- 王毅同伊朗外长阿拉格齐会谈
-- 据伊朗媒体报道，伊朗外长阿拉格齐一行抵达北京。（中新社）
-- 受伊朗停火乐观情绪影响，美元兑谢克尔汇率下跌1.1%至2.90，创1993年10月以来最低水平。
-- 特朗普：如果伊朗同意（协议），“史诗愤怒”将结束，霍尔木兹海峡对所有人开放，包括伊朗。
-如果伊朗不同意，轰炸将以更高强度开始。
-- 三星宣布停止在中国市场销售所有家电产品
-- 采取刑事强制措施！黄金平台杰我睿“跑路”事件，警方最新通报
-- 五粮液：五粮液集团公司拟增持30亿元-50亿元。
+- Arm控股第四财季营收14.9亿美元，创历史新高，同比增长20%，IBES预期14.7亿美元。
+第四财季调整后每股收益（EPS）为0.60美元，IBES预期0.58美元。
+自1990年开始，至第四财季基于Arm的芯片发货量累计达到3500亿
+- 美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%
+- 标普500指数的11个板块多数收涨，工业板块涨2.60%，信息技术/科技板块涨2.56%，电信板块涨2.05%，能源板块重挫4.07%。
+- 美国财政部长贝森特下周将在日本讨论日元疲软问题。
+贝森特将于下周二分别与日本首相高市早苗、外相片山皋月、日本央行行长植田和男会谈。
+除货币问题外，议程还将涵盖稀土和能源采购等经济安全议题。（日经新闻）
+- 苹果研发投入占营收比重突破10%，AI竞赛引发“紧迫感”
+- 美国芝加哥联储主席Goolsbee（2027年FOMC票委）：如果低消费者信心转化为消费支出下降，他将警惕需求“过冷”。
+对思考通胀的新方式持开放态度。
+美联储应尽可能纳入所有数据，但他认为解决通胀问题没有万灵药。
+美联储主席提名人凯文·沃
+- 美联储Goolsbee：伊朗战争的影响正日益显现为通胀冲击
+- 中概指数收涨超3.4%，CQQQ涨超4.9%，百度涨约11.4%，金山云涨8.4%，阿里涨超6.9%
+- 纳指收涨2%，半导体指数涨约4.5%
+- 纳指涨幅扩大至2%。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Foxconn, BYD among top exporters as China-listed firms hit overseas revenue mark
-- From Beijing to Berlin: Chinese EVs turn heads as brands eye European markets
+- Will warming Arctic trigger further chill in US-China relations?
+- Trump dismisses China friction over Iran war, touts Xi ties before summit
 - Diplomacy
-- China’s Wang Yi and Iranian FM support new regional security framework in Gulf
-- China Economy
-- EU plan to rip out Chinese hardware will cost massive US$430 billion: report
-- Health & Environment
-- Hongkongers to pay only HK$240 a year for leukaemia drug after system shake-up
+- Trump-Xi summit hides simmering trade tensions under the surface, experts say
+- US trial opens over alleged Chinese ‘secret police station’ in New York
+- Society
+- Traffic accidents involving animals in Hong Kong surge 11-fold in 4 years
+- Does YJ-20 hypersonic sea-based missile give China an edge over US carriers?
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Companies such as Foxconn and BYD are among the top performers as overseas revenues account for nearly 17 per cent of total income.
-- Separately, Iranian and Saudi foreign ministers in a phone call discuss need to continue diplomatic efforts and regional cooperation.
-- Brussels’ proposed new Cybersecurity Act would require vast amounts of Chinese equipment to be ripped out and replaced in a slew of industries.
-- Hospital Authority says it began subsidising Dasatinib in April, with patients previously paying up to HK$500,000 annually for treatment.
-- China’s new marine buoy says goodbye to classic Western design used since WWII
+- The prospect of opening up new sea lanes presents both challenges and opportunities for the rival powers, analysts say.
+- Despite declarations of cooperation, friendship and respect from both sides, major trade conflict is brewing between the two superpowers.
+- Lawyers of Lu Jianwang, who has lived in the US for decades, said the alleged covert police station was just a community centre.
+- Paws Guardian Rescue Shelter founder Kent Luk says increase in animals involved in accidents stems from worsening economic situation and urban growth.
+- United States & Canada
+- US judge releases note linked to Epstein’s first suspected suicide bid
+- The document, which a former cellmate claims to have found, has been sealed in a court vault for nearly five years.
+- Wang Fuk Court administrator to hold online meetings with displaced residents
+- Residents demand answers on finances, insurance claims and renovation contracts following deadly fire at Hong Kong estate.
 - Politics
-- Exclusive | Wounded volunteer tells of risky clean-up at Chinese fireworks blast scene
-- As rescuers and volunteers worked to stabilise scene after deadly explosion, witnesses describe overwhelming smell of burnt gunpowder.
-- China Business
-- CK Hutchison’s VodafoneThree exit sparks dividend speculation
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -137,15 +147,15 @@
 - Windows
 
 --- 跨站重点主题（多站出现=更重要）---
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN)
+- 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 就业数据: Yahoo Finance (EN), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
 - 美国关税: 华尔街见闻 (简中)
-- 加密货币: Yahoo Finance (EN)
-- 就业数据: Yahoo Finance (EN)
+- 黄金/大宗: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
