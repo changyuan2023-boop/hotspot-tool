@@ -9,7 +9,7 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 10m
+- U.S. markets open in 3m
 - McDonald's earnings beat as value meals drive sales
 - AI gold rush leads to big pay hikes for Wall Street bankers
 - The S&P 500 is blowing up earnings estimates. But there's a catch.
@@ -21,13 +21,13 @@
 - Stocks stall in wait for update on Iran-US deal proposal
 - Arm falls as supply worries cloud AI demand hopes
 - Whirlpool CFO says appliance demand is reaching 'recession-level lows'
+- Datadog raises annual forecast on strong cloud security demand; shares up 29%
 - Meta challenges UK media regulator over online safety fees
 - US startup Lunar Outpost raises $30 million to speed moon rover development
 - Fed’s Collins Favored Changing FOMC Statement With Dissenters
 - US productivity slows further in first quarter
 - Oil falls below $100 a barrel on Middle East peace hopes
 - US Waits on Iran’s Peace Deal Response as Israel Strikes Lebanon
-- Mexico's annual inflation eases in April for the first time in 2026
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,14 +42,14 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- Amazon, Google, Microsoft In Focus As EU Reportedly Mulls Restricting US Cloud Providers' Access To Sensitive Data
 - AppLovin Shares Dip Despite Earnings Beat And Raised Outlook
 - Elon Musk Called Claude 'Evil' — Now Anthropic Runs On His Nvidia Supercomputer
 - Woman, 67, Asks Suze Orman Which Retirement 'Bucket' Do I Spend From First? — Her Advice: Tap Traditional IRA, Then Roth And Leave Cash For Last
 - Cathie Wood's ARK Invest Has 2 Good News And 1 Bad News For Bitcoin
-- Redwire Shares Slide Following Disappointing Earnings, $350M Stock Offering
 - Stock Market Today: Do, S&P 500, Nasdaq Futures Gain As Trump Celebrates Record Gains— Fortinet, Whirlpool, Core Scientific In Focus (UPDATED)
 - Vehicle Recalls
-- Elizabeth Warren Says Trump Focuses On Self-Promotion As Families Face Higher Costs: 'Wants His Face On Everything But...'
+- Arm Faces Questions Over AI CPU Niche Erosion As Competition From AMD, Intel, Nvidia Heats Up, But CEO Says Nice To See 'Rest Of Market' Catch Up
 - Top 2 Materials Stocks That May Keep You Up At Night This Quarter
 - Trade Desk Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
 
@@ -72,6 +72,9 @@
 - 伊朗总统称近期与最高领袖会面
 - 赵乐际会见美国国会参议员代表团
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- 最高检挂牌督办湖南浏阳烟花爆炸重大责任事故案
+- 华泰柏瑞：中韩半导体ETF将于5月8日开市起至当日10:30停牌
+- 预测平台Kalshi完成10亿美元F轮融资，估值达220亿美元
 - 波兰央行行长Glapinski：高燃油价格带来的冲击低于几年前的经历。
 汇率保持稳定。
 看到核心CPI有所上升。
@@ -79,15 +82,13 @@
 劳动力市场的紧张程度有所缓解。
 很难判断最终的通胀规模会是多少。
 外部因素正在推高波兰的通胀。
+关
 - 波兰央行行长：波兰央行目前持有595吨黄金储备，并计划将其增至700吨。
 - 俄罗斯建议乌克兰认真对待胜利日停火举措
 - 夜盘期货开盘，燃油、低硫燃油、原油跌逾4%，纯苯、甲醇、乙二醇、对二甲苯跌逾3%，苯乙烯、PTA、塑料、液化石油气、沥青、聚丙烯跌逾2%；沪银涨逾4%，沪锡涨逾1%。
 - 券商700亿持仓曝光！5600亿光模块巨头遭中信证券减持
 - 韩国派专家组调查船只在霍尔木兹海峡起火原因
 - WTI原油跌破90美元/桶，报89.9美元/桶，日内跌5.4%；布伦特原油日内跌幅达5.0%，报96.18美元/桶。
-- 世界黄金协会：4月全球黄金ETF扭转颓势，录得66亿美元净流入
-- 哈马斯：以军企图通过恐怖手段“动摇抵抗组织意志”
-- 重庆出台智能汽车高速公路测试新规，规范L3级以上自动驾驶测试
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -149,8 +150,8 @@
 - 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
 - 美国关税: SCMP (EN/中)
 - 加密货币: Benzinga (EN)
 - 就业数据: 华尔街见闻 (简中)
