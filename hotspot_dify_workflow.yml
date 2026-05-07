@@ -1,0 +1,524 @@
+app:
+  description: 自动抓取多个财经网站头版，生成早间/晚间热点线索推送到Slack
+  icon: "\U0001F525"
+  icon_background: '#FFEAD5'
+  mode: workflow
+  name: 热点消息提示工具
+  use_icon_as_answer_icon: false
+kind: app
+version: '0.1'
+workflow:
+  conversation_variables: []
+  environment_variables: []
+  features:
+    file_upload:
+      enabled: false
+    opening_statement: ''
+    retriever_resource:
+      enabled: false
+    sensitive_word_avoidance:
+      enabled: false
+    speech_to_text:
+      enabled: false
+    suggested_questions: []
+    suggested_questions_after_answer:
+      enabled: false
+    text_to_speech:
+      enabled: false
+  graph:
+    edges:
+      - data:
+          isInIteration: false
+          sourceType: start
+          targetType: code
+        id: edge-start-to-scraper
+        selected: false
+        source: node-start
+        sourceHandle: source
+        target: node-scraper
+        targetHandle: target
+        type: custom
+        zIndex: 0
+      - data:
+          isInIteration: false
+          sourceType: code
+          targetType: llm
+        id: edge-scraper-to-llm
+        selected: false
+        source: node-scraper
+        sourceHandle: source
+        target: node-llm
+        targetHandle: target
+        type: custom
+        zIndex: 0
+      - data:
+          isInIteration: false
+          sourceType: llm
+          targetType: end
+        id: edge-llm-to-end
+        selected: false
+        source: node-llm
+        sourceHandle: source
+        target: node-end
+        targetHandle: target
+        type: custom
+        zIndex: 0
+    nodes:
+      # ─── 节点1：开始 ───────────────────────────────────────────
+      - data:
+          desc: 选择早间（美股隔夜收盘）或晚间（美股开盘前）模式
+          selected: false
+          title: 开始
+          type: start
+          variables:
+            - label: 运行模式
+              max_length: 10
+              options:
+                - 早间
+                - 晚间
+              required: true
+              type: select
+              variable: mode
+        height: 116
+        id: node-start
+        position:
+          x: 80
+          y: 282
+        positionAbsolute:
+          x: 80
+          y: 282
+        selected: false
+        sourcePosition: right
+        targetPosition: left
+        type: custom
+        width: 244
+
+      # ─── 节点2：抓取财经头版（Code） ───────────────────────────
+      - data:
+          code: |
+            import requests
+            import json
+            import time
+            from datetime import datetime, timezone, timedelta
+
+            def main(mode: str) -> dict:
+                USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+                HEADERS = {
+                    "User-Agent": USER_AGENT,
+                    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                    "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+                }
+
+                tz = timezone(timedelta(hours=8))
+                now = datetime.now(tz)
+                date_str = f"{now.year}年{now.month}月{now.day}日"
+                fetch_time = now.strftime('%Y%m%d%H')
+
+                if mode == '早间':
+                    time_range = '昨日22:00 - 今日09:00（美股隔夜收盘）'
+                    hours_back = 11
+                    mode_instructions = (
+                        "聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。\n\n"
+                        "重点关注（按重要性排序写入）：\n"
+                        "1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）\n"
+                        "2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）\n"
+                        "3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）\n"
+                        "4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；"
+                        "若有明确利好/利空驱动，须点明对应港股板块或个股"
+                    )
+                else:
+                    time_range = '今日08:00 - 20:00（美股开盘前）'
+                    hours_back = 12
+                    mode_instructions = (
+                        "聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。\n\n"
+                        "重点关注（按重要性排序写入）：\n"
+                        "1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）\n"
+                        "2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）\n"
+                        "3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）\n"
+                        "4. 其他值得今晚关注的美股消息"
+                    )
+
+                THEME_KEYWORDS = {
+                    "伊朗/中东": ["iran", "tehran", "hormuz", "以色列", "伊朗", "中东", "霍尔木兹"],
+                    "美国关税": ["tariff", "关税", "贸易战"],
+                    "油价/能源": ["oil", "crude", "brent", "wti", "油价", "石油", "天然气"],
+                    "加密货币": ["bitcoin", "crypto", "btc", "coinbase", "比特币", "加密"],
+                    "就业数据": ["adp", "jobs", "nonfarm", "employment", "非农", "就业"],
+                    "黄金/大宗": ["gold", "silver", "commodity", "黄金", "白银", "铜", "铝"],
+                    "美联储": ["fed", "federal reserve", "powell", "rate cut", "降息", "美联储", "加息"],
+                    "科技/个股": ["apple", "aapl", "meta", "nvda", "nvidia", "amd", "intel", "msft",
+                                  "googl", "tsla", "ai", "半导体", "芯片", "存储", "hbm"],
+                    "中国/欧盟": ["china", "eu", "europe", "欧盟", "中国", "制造业"],
+                    "中国政策": ["两会", "人大", "政协", "央行", "证监会", "发改委", "政治局"],
+                }
+
+                def match_themes(text):
+                    text_lower = text.lower()
+                    matched = []
+                    for theme, keywords in THEME_KEYWORDS.items():
+                        for kw in keywords:
+                            if kw.lower() in text_lower:
+                                matched.append(theme)
+                                break
+                    return matched
+
+                theme_counts = {}
+                all_results = []
+
+                def add_site(name, headlines, other=None):
+                    all_results.append(f"## {name}")
+                    if headlines:
+                        all_results.append("头版/首屏:")
+                        for h in (headlines or [])[:8]:
+                            all_results.append(f"- {h}")
+                    if other:
+                        all_results.append("其他:")
+                        for h in (other or [])[:5]:
+                            all_results.append(f"- {h}")
+                    all_results.append("")
+                    for item in (headlines or []) + (other or []):
+                        for theme in match_themes(item):
+                            if theme not in theme_counts:
+                                theme_counts[theme] = []
+                            if name not in theme_counts[theme]:
+                                theme_counts[theme].append(name)
+
+                def fetch_html(url, extra_headers=None, timeout=20):
+                    h = dict(HEADERS)
+                    if extra_headers:
+                        h.update(extra_headers)
+                    try:
+                        r = requests.get(url, headers=h, timeout=timeout)
+                        if r.status_code == 200 and len(r.text) > 500:
+                            return r.text
+                    except Exception:
+                        pass
+                    return None
+
+                def parse_h_tags(html, min_len=8):
+                    try:
+                        from bs4 import BeautifulSoup
+                        soup = BeautifulSoup(html, "html.parser")
+                        items = []
+                        for tag in soup.find_all(["h1", "h2", "h3"]):
+                            t = (tag.get_text() or "").strip()
+                            if t and len(t) >= min_len and t not in items:
+                                items.append(t)
+                        return items
+                    except Exception:
+                        return []
+
+                # 站点1：Yahoo Finance
+                html = fetch_html("https://finance.yahoo.com/")
+                if html:
+                    items = [x for x in parse_h_tags(html) if len(x) > 15]
+                    add_site("Yahoo Finance (EN)", items[:6], items[6:12])
+                else:
+                    all_results.extend(["## Yahoo Finance (EN)", "（抓取失败）", ""])
+
+                # 站点2：华尔街见闻（调快讯 API，不依赖 HTML）
+                try:
+                    cutoff = time.time() - hours_back * 3600
+                    r = requests.get(
+                        "https://api-prod.wallstreetcn.com/apiv1/content/lives/pc?limit=100",
+                        headers={"User-Agent": USER_AGENT}, timeout=20
+                    )
+                    raw = r.json().get("data", {})
+                    items = []
+                    seen = set()
+                    for ch in ("us_stock", "global", "a_stock", "commodity", "forex"):
+                        sub = raw.get(ch) or {}
+                        if isinstance(sub, dict):
+                            for item in sub.get("items", []):
+                                ts = item.get("created_at") or item.get("display_time") or 0
+                                if ts and ts < cutoff:
+                                    continue
+                                title = (item.get("title") or item.get("content_text", "")[:120]).strip()
+                                if title and len(title) > 2 and title not in seen:
+                                    seen.add(title)
+                                    items.append(title)
+                    add_site("华尔街见闻 (简中)", items[:12], items[12:20])
+                except Exception as e:
+                    all_results.extend(["## 华尔街见闻 (简中)", f"（抓取失败: {str(e)}）", ""])
+
+                # 站点3：SCMP
+                html = fetch_html("https://www.scmp.com/")
+                if html:
+                    items = [x for x in parse_h_tags(html) if len(x) > 15]
+                    add_site("SCMP (EN/中)", items[:6], items[6:10])
+                else:
+                    all_results.extend(["## SCMP (EN/中)", "（抓取失败）", ""])
+
+                # 站点4：经济通
+                html = fetch_html("https://www.etnetchina.cn/")
+                if html:
+                    items = [x for x in parse_h_tags(html, min_len=4) if len(x) > 4]
+                    add_site("经济通 (繁中)", items[:6], items[6:10])
+                else:
+                    all_results.extend(["## 经济通 (繁中)", "（抓取失败）", ""])
+
+                # 站点5：智通财经
+                html = fetch_html("https://www.zhitongcaijing.com/")
+                if html:
+                    try:
+                        from bs4 import BeautifulSoup
+                        soup = BeautifulSoup(html, "html.parser")
+                        items = []
+                        for sel in [".banner-swipe-text-content", ".info-item-content-title a"]:
+                            for tag in soup.select(sel):
+                                t = (tag.get_text() or "").strip()
+                                if t and len(t) > 4 and t not in items:
+                                    items.append(t)
+                        if not items:
+                            items = [x for x in parse_h_tags(html) if len(x) > 8]
+                        add_site("智通财经 (简中)", items[:6], items[6:10])
+                    except Exception:
+                        all_results.extend(["## 智通财经 (简中)", "（解析失败）", ""])
+                else:
+                    all_results.extend(["## 智通财经 (简中)", "（抓取失败）", ""])
+
+                # 站点6：富途资讯
+                html = fetch_html(
+                    "https://news.futunn.com/hk/main",
+                    extra_headers={"Accept-Language": "zh-TW,zh;q=0.9"}
+                )
+                if html:
+                    items = [x for x in parse_h_tags(html) if len(x) > 8]
+                    add_site("富途资讯 (繁中)", items[:6], items[6:10])
+                else:
+                    all_results.extend(["## 富途资讯 (繁中)", "（抓取失败）", ""])
+
+                # 跨站主题汇总
+                all_results.append("--- 跨站重点主题（多站出现=更重要）---")
+                for theme, srcs in sorted(theme_counts.items(), key=lambda x: -len(x[1])):
+                    if srcs:
+                        all_results.append(f"- {theme}: {', '.join(srcs)}")
+                all_results.append("")
+
+                scraped_content = (
+                    f"【财经头版多站汇总】\n抓取时间: {fetch_time}\n\n"
+                    + "\n".join(all_results)
+                )
+
+                return {
+                    "scraped_content": scraped_content,
+                    "date_str": date_str,
+                    "time_range": time_range,
+                    "mode_instructions": mode_instructions,
+                }
+          code_language: python3
+          desc: 抓取6个财经网站头版内容并汇总，返回抓取结果和模式参数
+          outputs:
+            scraped_content:
+              children: null
+              type: string
+            date_str:
+              children: null
+              type: string
+            time_range:
+              children: null
+              type: string
+            mode_instructions:
+              children: null
+              type: string
+          selected: false
+          title: 抓取财经头版
+          type: code
+          variables:
+            - value_selector:
+                - node-start
+                - mode
+              variable: mode
+        height: 54
+        id: node-scraper
+        position:
+          x: 400
+          y: 282
+        positionAbsolute:
+          x: 400
+          y: 282
+        selected: false
+        sourcePosition: right
+        targetPosition: left
+        type: custom
+        width: 244
+
+      # ─── 节点3：LLM 生成热点线索 ──────────────────────────────
+      - data:
+          context:
+            enabled: false
+            variable_selector: []
+          desc: 调用LLM，基于抓取内容生成早间/晚间热点线索
+          model:
+            completion_params:
+              max_tokens: 2000
+              temperature: 0.3
+            mode: chat
+            name: qwen-plus
+            provider: tongyi
+          prompt_template:
+            - id: system-msg
+              role: system
+              text: |
+                你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
+                你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
+
+                当前模式：{{mode}}
+                覆盖时间段：{{time_range}}
+
+                ---
+
+                ## 核心操作规范
+
+                严格区分收盘与期货——禁止混用：
+                - 昨夜收盘（closed/收盘）描述已发生的结果，只能用实际收盘数据
+                - 今日期货（futures/期货）描述今日开盘预期，只能用期货数据
+                - 两类数据不得互相替代：不得用今日期货的涨跌来描述昨夜收盘结果，也不得反过来
+
+                严禁幻觉——每一条必须有原文出处：
+                - 每条输出内容（包括事件描述、股价涨跌幅、具体数字、财报数据）必须能在下方「资讯来源」中找到对应原文，否则直接删除该条，不得保留
+                - 若资讯来源仅提供标题、没有具体数字，则不得补充任何数字，标注「[数据待确认]」
+                - 若某主题在资讯来源中完全没有出现，禁止生成该主题的任何条目
+                - 宁可少写几条，也不能凑数捏造
+
+                ---
+
+                ## 输出格式（严格遵守）
+
+                第一行输出标题（直接复制，不修改任何字）：
+                {{mode}}热点线索 · {{date_str}}
+
+                空一行后，输出正文条目，每条格式：
+                * 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。
+
+                条目排列顺序——按重要度与影响面从高到低：
+                综合以下三个维度为每条打分，得分高的排在前面：
+                1. 影响面（权重最高）：影响多个市场或多板块 > 单一板块 > 单只个股
+                2. 跨站验证：资讯来源末尾标注的主题出现站数越多，优先级越高
+                3. 异动幅度：涨跌幅越大排越前（大于等于10% 最优先，小于5% 靠后）
+
+                三个维度综合判断；若得分相近，宏观/政策类 > 大盘指数类 > 板块 > 个股。
+
+                强制合并规则——大盘与板块概览：
+                以下类型的消息必须全部合并为一条，不得拆成多条：
+                - 主要指数涨跌（标普500、纳斯达克100、道指、中概股指数、恒生指数等）及股指期货
+                - 行业/板块 ETF 涨跌、板块分化
+                - 国债收益率、汇率的有意义变动
+                - 油价、黄金、大宗商品的涨跌（即便有具体数字也必须并入本条，不得单独成条）
+                判断标准：若某数据点描述的是"市场整体环境"而非某公司/板块的独立事件，一律归入本条。
+                合并后以"大盘与板块概览"为主题，放在宏观之后、科技股之前。
+                若当日来源中这类信息很少或均为持平/无变化，可不写此条。
+
+                要求：
+                - 全文使用中文，无论资讯来源是英文还是中文，一律用中文概括
+                - 股票代码（如 NVDA、TSLA）和无中文译名的品牌简称（如 SpaceX、OpenAI）可保留，其余一律中文
+                - 全文 8 条以内，能少则少，无来源的内容不写
+                - 同一主题或同一原因驱动的消息必须合并为一条（例如"地缘冲突→油价上行"不得拆成两条）
+                - 每条 30-60 字为宜
+                - 不分级别，不写前言，不写结尾说明，直接输出
+
+                ---
+
+                ## {{mode}}模式操作指令
+
+                {{mode_instructions}}
+
+                ---
+
+                ## 什么内容值得写入
+
+                值得写（必须有明确标的或板块，且资讯来源中有对应内容）：
+                - 美联储利率决议 / 主席讲话（仅限资讯来源中明确提及）
+                - 七大科技股（AAPL / MSFT / NVDA / GOOGL / META / AMZN / TSLA）财报或重大消息
+                - 个股异动 5% 以上 + 有明确原因
+                - 行业板块整体联动（仅限来源中明确列出多只同向异动的股票，不得自行推断"XX等或受联动"）
+
+                不要写（以下各类直接删除，不得保留，不得自行补写原因）：
+                - 泛泛的市场情绪描述
+                - 没有标的的宏观背景铺垫
+                - 已持续多日的旧闻（除非有新进展）
+                - 任何在资讯来源中找不到原文依据的内容
+                - 空话原因：若标题原因为"关键交易信号/市场情绪/关注度上升"等无具体催化剂的表述，整条删除
+                - 禁止推断联动：不得写"XX 或受联动影响""或带动 XX 板块""情绪传导至 XX"等推断性表述；只写来源中已明确出现涨跌的标的
+                - 低股价相关性事件：单一民事诉讼和解、普通高管行程、一般性媒体报道等不入选，除非涉及重大金额、监管后果或核心业务影响
+                - 无变化的宏观数据：指数/收益率/汇率若描述为"持平""无变化""微幅波动"时，不得单独成条
+                - 油价、黄金、大宗商品单独成条（必须并入大盘与板块概览）
+
+                ---
+
+                ## 资讯来源
+
+                {{scraped_content}}
+
+                ---
+
+                【输出前必读】资讯来源含有英文，但你的输出必须全部用中文。将英文资讯翻译理解后再用中文概括，严禁将英文原句或英文单词混入输出中。股票代码（NVDA、TSLA 等）和品牌简称（SpaceX、OpenAI 等）除外。
+
+                请直接输出，不加任何额外说明：
+            - id: user-msg
+              role: user
+              text: 请生成{{mode}}热点线索。
+          selected: false
+          title: 生成热点线索
+          type: llm
+          variables:
+            - value_selector:
+                - node-start
+                - mode
+              variable: mode
+            - value_selector:
+                - node-scraper
+                - date_str
+              variable: date_str
+            - value_selector:
+                - node-scraper
+                - time_range
+              variable: time_range
+            - value_selector:
+                - node-scraper
+                - mode_instructions
+              variable: mode_instructions
+            - value_selector:
+                - node-scraper
+                - scraped_content
+              variable: scraped_content
+          vision:
+            enabled: false
+        height: 98
+        id: node-llm
+        position:
+          x: 720
+          y: 282
+        positionAbsolute:
+          x: 720
+          y: 282
+        selected: false
+        sourcePosition: right
+        targetPosition: left
+        type: custom
+        width: 244
+
+      # ─── 节点4：结束 ───────────────────────────────────────────
+      - data:
+          desc: ''
+          outputs:
+            - value_selector:
+                - node-llm
+                - text
+              variable: 热点线索
+          selected: false
+          title: 结束
+          type: end
+        height: 98
+        id: node-end
+        position:
+          x: 1040
+          y: 282
+        positionAbsolute:
+          x: 1040
+          y: 282
+        selected: false
+        sourcePosition: right
+        targetPosition: left
+        type: custom
+        width: 244
