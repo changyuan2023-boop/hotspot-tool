@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026050721
+抓取时间: 2026050809
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 3m
-- McDonald's earnings beat as value meals drive sales
-- AI gold rush leads to big pay hikes for Wall Street bankers
-- The S&P 500 is blowing up earnings estimates. But there's a catch.
-- How Tony Robbins is investing in the AI boom
-- Why Arm Holdings stock is sinking
-- Iran deal might take months, and they won't unconditionally surrender: Esper
-- UAE slips hidden oil tankers through Strait of Hormuz
+- U.S. markets closed
+- Trade court strikes down Trump's 10% blanket tariffs
+- What the latest ruling on Trump's tariffs could mean for businesses
+- Markets brace for closely watched jobs report
+- Cloudflare to cut 20% jobs, revenue forecast falls short
+- Carlyle sees market opportunities with a record $96B to invest
+- Coinbase posts second consecutive quarterly loss amid crypto slump
+- Airbnb boosts annual sales outlook while spending picks up
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Stocks stall in wait for update on Iran-US deal proposal
-- Arm falls as supply worries cloud AI demand hopes
-- Whirlpool CFO says appliance demand is reaching 'recession-level lows'
-- Datadog raises annual forecast on strong cloud security demand; shares up 29%
-- Meta challenges UK media regulator over online safety fees
-- US startup Lunar Outpost raises $30 million to speed moon rover development
-- Fed’s Collins Favored Changing FOMC Statement With Dissenters
-- US productivity slows further in first quarter
-- Oil falls below $100 a barrel on Middle East peace hopes
-- US Waits on Iran’s Peace Deal Response as Israel Strikes Lebanon
+- US stock futures slip as Iran and the US ramp up Hormuz aggression
+- Lyft earnings miss estimates after global expansion push
+- Summer airfares set to surge as jet fuel shortage grips market
+- US Fires at Iranian Targets as Trump Demands Tehran Accept Deal
+- Trump-Xi Summit Stays on Track Despite China’s Iran Concerns
+- Australia regulator calls for urgent cybersecurity action to counter Mythos
+- Japan real wages climb for third month in March, backing case for BOJ rate hike
+- Oil jumps and stock futures slip on renewed US-Iran fighting
+- Nvidia funds construction of Corning plants, in addition to equity investment
+- Oil prices jump on renewed US-Iran hostilities
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,75 +42,69 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Amazon, Google, Microsoft In Focus As EU Reportedly Mulls Restricting US Cloud Providers' Access To Sensitive Data
-- AppLovin Shares Dip Despite Earnings Beat And Raised Outlook
-- Elon Musk Called Claude 'Evil' — Now Anthropic Runs On His Nvidia Supercomputer
-- Woman, 67, Asks Suze Orman Which Retirement 'Bucket' Do I Spend From First? — Her Advice: Tap Traditional IRA, Then Roth And Leave Cash For Last
-- Cathie Wood's ARK Invest Has 2 Good News And 1 Bad News For Bitcoin
-- Stock Market Today: Do, S&P 500, Nasdaq Futures Gain As Trump Celebrates Record Gains— Fortinet, Whirlpool, Core Scientific In Focus (UPDATED)
+- They Asked Value Investors Which Stock They'd Put Their Entire Net Worth For 10 Years. One Company Was Mentioned Again And Again
+- Stripe, Spacex, Databricks — And The End Of A Traditional IPO
+- 'I Hate Working 5 Days': Zoom CEO Eric Yuan Says AI Could Shrink Workweeks To 3 Days In A Major Future Shift
+- IREN Stock Spikes On Nvidia Deal, Q3 Results: What To Know
+- Block Shares Climb After Q1 Report — Here's Why
+- TikTok Just Did What Google, ChatGPT And Instagram Couldn't
 - Vehicle Recalls
-- Arm Faces Questions Over AI CPU Niche Erosion As Competition From AMD, Intel, Nvidia Heats Up, But CEO Says Nice To See 'Rest Of Market' Catch Up
-- Top 2 Materials Stocks That May Keep You Up At Night This Quarter
-- Trade Desk Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- Nvidia's $1 Trillion Promise May Just Be The Start — Ask Goldman Sachs
+- Applovin Stock A Buy After Q1 Results, Guidance: Analyst Says 'Valuation Remains Cheap'
+- Tech and Semiconductors Lead As Order Flows Expand Across Sectors
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 周四美股盘前你需要了解的全球要闻
-- 唯品会入选标普全球《可持续发展年鉴（中国版）》，获评“行业最佳进步企业”称号
-- 美国一季度非农生产力初值 0.8%，预期1%，前值由1.80%修正为1.6%。
-- 美国一季度非农单位劳动力成本初值 2.3%，预期2.6%，前值由4.40%修正为4.6%。
-- 美国4月25日当周续请失业救济人数 176.6万人，预期180万人，前值由178.5万人修正为177.6万人。
-- 美国5月2日当周首次申请失业救济人数 20万人，预期20.5万人，前值由18.9万人修正为19万人。
-- 英监管机构调查三大支付巨头涉嫌垄断行为
-- 伊朗指定两条航道供船只通行霍尔木兹海峡
-- 李强会见美国国会参议员代表团
-- 麦当劳第一季度营收为65.2亿美元，预估64.7亿美元。
-第一季度全球可比销售增长3.8%，预估3.95%。
-第一季度调整后每股收益为2.83美元，预估2.74美元。
-第一季度美国可比销售增长3.9%，预估4.21%。
-麦当劳盘前涨近4%。
-- 伊朗总统称近期与最高领袖会面
-- 赵乐际会见美国国会参议员代表团
+- 瑞士表示随时准备斡旋美伊谈判
+- 特朗普表示，他已听取有关汉坦病毒的情况汇报，希望疫情能得到有效控制。
+- 特朗普：我们正在与伊朗进行谈判，伊朗停火协议依然有效。巴基斯坦已请求美国在与伊朗谈判期间不要执行“自由计划”。
+- CoreWeave一季度业绩报告要点总结
+- 华尔街见闻早餐 | 2026年5月8日
+- 据OpenAI：此Chrome浏览器扩展程序进一步扩展了Codex在编程和办公领域的功能。
+从调试浏览器流程到查看仪表板，再到开展调研或更新CRM系统，Codex现在可以承担更多原本就在浏览器中进行的任务。
+该功能即日起在Codex应用程序
+- CoreWeave回顾2026年第一季度业绩：
+1、斩获 AI 实验室、超大规模者及企业级客户。
+与Meta达成了多项新协议，其中包括在3月份签署的一项价值210亿美元的新承诺。
+与Anthropic签署了多年期协议，以支持Anthropi
+- 霍尔木兹海峡附近局势已恢复正常
+- 美伊互指对方先开火
+- 美媒披露：有美国组织高价雇网红抹黑中国AI产业，相关资金来自美AI巨头
+- 美联储卡什卡利：受伊朗战争影响，下一步利率变动尚不确定
+- 各执一词冲突又起，伊朗打击美舰，美袭击伊油轮空袭沿海地区
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 最高检挂牌督办湖南浏阳烟花爆炸重大责任事故案
-- 华泰柏瑞：中韩半导体ETF将于5月8日开市起至当日10:30停牌
-- 预测平台Kalshi完成10亿美元F轮融资，估值达220亿美元
-- 波兰央行行长Glapinski：高燃油价格带来的冲击低于几年前的经历。
-汇率保持稳定。
-看到核心CPI有所上升。
-有多种因素在限制通胀上升。
-劳动力市场的紧张程度有所缓解。
-很难判断最终的通胀规模会是多少。
-外部因素正在推高波兰的通胀。
-关
-- 波兰央行行长：波兰央行目前持有595吨黄金储备，并计划将其增至700吨。
-- 俄罗斯建议乌克兰认真对待胜利日停火举措
-- 夜盘期货开盘，燃油、低硫燃油、原油跌逾4%，纯苯、甲醇、乙二醇、对二甲苯跌逾3%，苯乙烯、PTA、塑料、液化石油气、沥青、聚丙烯跌逾2%；沪银涨逾4%，沪锡涨逾1%。
-- 券商700亿持仓曝光！5600亿光模块巨头遭中信证券减持
-- 韩国派专家组调查船只在霍尔木兹海峡起火原因
-- WTI原油跌破90美元/桶，报89.9美元/桶，日内跌5.4%；布伦特原油日内跌幅达5.0%，报96.18美元/桶。
+- 三艘位于霍尔木兹海峡附近的美国驱逐舰遭到伊朗海军攻击。（伊朗塔斯尼姆通讯社Tasnim）
+- 伊朗Bandar Abbas市再次响起爆炸声。（伊朗媒体NEHR）
+- 美国高级官员：特朗普与伊朗的停火还没有结束。（福克斯新闻）
+- 美媒：美军空袭伊朗港口
+- 英伟达与IREN宣布达成战略合作，以加速部署高达5吉瓦的人工智能基础设施。
+- 当地时间7日夜间，伊朗首都德黑兰西部启动防空系统。（央视）
+- Coinbase连续第二个季度亏损，受累于加密货币交易动能减弱
+- 美股大类资产类ETF普遍收跌，小盘股指ETF、新兴市场ETF至少跌超1.3%
+- Compass递表，有望结束巴西近五年的IPO荒
+- 美联储“三把手”：美债需求依然强劲
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Will Iran war threaten next harvest? Which countries are most at risk?
-- US’ Bessent urges China to help open Strait of Hormuz
-- Global Economy
-- China, US drive global debt to record $353 trillion – what’s behind the surge?
-- Military
-- Private firms can help stop sanctions ‘strangling’ China’s military: general
-- 2 former Chinese defence ministers handed suspended death sentences
-- Fuel shocks, thin margins: why China’s airlines should ‘heed Spirit’s mistakes’
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- As the Hormuz blockade cuts off vital agricultural inputs, Food and Agriculture Organization official views China as key food security partner.
-- New report warns that rising conflicts, AI spending and energy security push are all expected to further increase global debt levels.
-- The authorities should give companies a greater voice in civilian-military collaboration, PLA Major General Zhang Zhan argues.
-- Sentences for Wei Fenghe and Li Shangfu most severe of senior military officers since Xi Jinping started anti-corruption campaign in 2012.
-- China Business
-- As US stocks hit record highs, will investors keep buying or stay diversified?
-- US equities rally amid easing Middle East tensions, but global investors remain cautious, focusing on diversification and China’s prospects.
+- Wrapped in a Boeing: will Trump’s China visit include another aircraft deal?
+- China Southern orders Airbus jets worth US$21b as Boeing waits
 - Diplomacy
-- What did China tell a close Trump ally ahead of the US leader’s Beijing trip?
-- Top diplomat Wang Yi advises visiting delegation of US senators that the two countries should be ‘partners rather than adversaries’.
+- China’s study of Ukraine, Iran wars could sharpen Taiwan propaganda tactics
+- US targets Cuba nickel operation in move affecting China-linked supply chains
+- Society
+- Hong Kong’s pinball wizards and claw fans defend arcade thrills as curbs loom
+- China urged to forge ‘spear’ for cognitive warfare amid great power rivalry
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- After the US$37 billion, 300-plane deal from Trump’s last visit stalled, industry observers say the next one could be more flexible.
+- Beijing’s study of Iran, Ukraine wars could help hone its ability to wage information warfare against the US during a Taiwan Strait crisis.
+- Marco Rubio revealed sanctions on Thursday, escalating Trump administration’s pressure campaign against Havana’s military-controlled economy.
+- Citywide craze in pinball and claw machines has prompted authorities to consider tightening regulations to prevent addiction to these games.
+- Science
+- Will Iran war threaten next harvest? Which countries are most at risk?
+- As the Hormuz blockade cuts off vital agricultural inputs, Food and Agriculture Organization official views China as key food security partner.
+- China Business
+- China’s move to cut EV payment cycles may push weaker carmakers out: S&P
+- China’s weaker EV makers may soon be running on fumes as tighter payment cycles squeeze cash flow and curb price wars.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -149,13 +143,13 @@
 --- 跨站重点主题（多站出现=更重要）---
 - 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 美国关税: SCMP (EN/中)
-- 加密货币: Benzinga (EN)
-- 就业数据: 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 加密货币: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 就业数据: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
+- 美联储: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
