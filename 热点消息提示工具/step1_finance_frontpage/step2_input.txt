@@ -9,7 +9,7 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 6h 42m
+- U.S. markets open in 6h 40m
 - US fires on Iranian targets as Trump demands deal from Tehran
 - Trade court strikes down Trump's 10% blanket tariffs
 - What the latest ruling on Trump's tariffs could mean for businesses
@@ -42,16 +42,16 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- SK Hynix Can't Build AI Memory Chips Fast Enough — And Big Tech Is Reportedly Lining Up To Fund It
+- Cloudflare Cuts 20% Jobs Despite Strong Q1 As It Goes 'Agentic AI-First'
+- Trump Turns Up Heat On EU Trade Deal, Threatens 'Much Higher' Tariffs If July 4 Deadline Isn't Met: 'Been Waiting Patiently...'
 - Akamai Technologies (AKAM) Stock Pops Over 29% Overnight: Why Is The Cloud Computer Company Trending
 - John Bolton Says 'Wrong Time To Lessen Pressure' On Iran, Urges Trump Admin To Push On And 'Destroy The Regime'
-- BT Brands Stock Slides 35% After Hours: Why Is It Moving?
-- Top Wall Street Forecasters Revamp Oshkosh Expectations Ahead Of Q1 Earnings
-- Dow Tumbles Over 300 Points: Investor Sentiment Declines, Fear Index Remains In 'Greed' Zone
 - Trump Calls US-Iran Strike A 'Love Tap' As Fire Exchanged Near Strait Of Hormuz; Brent Climbs Above $102
 - Vehicle Recalls
 - IREN Stock Spikes On Nvidia Deal, Q3 Results: What To Know
 - TikTok Just Did What Google, ChatGPT And Instagram Couldn't
-- Wendy's Gears Up For Q1 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts
+- Top Wall Street Forecasters Revamp Oshkosh Expectations Ahead Of Q1 Earnings
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -132,19 +132,36 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- App Store
-- Google Play
-- Windows
+- 今晚20:30！非農或創年內最大落差？即使就業突然降溫，聯儲局也未必敢減息
+- 黃仁勳：下一代AI基礎設施將需要大量的光學連接，銅線已無法滿足需求
+- 美非農已成「開盲盒」：今年不是爆表就是爆雷，今晚劇情怎麼演？
+- 千億積壓訂單 vs 燒錢搞AI！CoreWeave展現"擴張陣痛"：Q1利潤跳水、Q2指引遜於預期
+- 台積電4月銷售額爲4107.3億新臺幣，同比增長17.5%
+- 英偉達與IREN達成戰略合作：21億認股權+34億五年雲服務合約
+- 英偉達CEO黃仁勳：若受邀，將隨特朗普一同訪問中國
+- 港股午評 | 三大指數齊跌，恒指跌1.09%；AI應用股、機器人概念股活躍，海致科技集團漲超18%，美圖公司漲超12%，優必選漲超4%；半導體股走低，華虹半導體跌超9%，中芯國際跌超4%
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- 什麼信號？事關半導體行業，大摩上調多家公司目標股價！
+- 泡泡瑪特延續漲勢，段永平日前發文稱要繼續加倉
+- 大摩：中國人形機器人，有望復刻「電車奇蹟」
+- 百度股價上揚，旗下崑崙芯啓動科創板上市輔導,「A+H」兩地同步闖關
+- Rocket Lab Q1營收暴增64%、拿下"黃金穹頂"大單，訂單積壓突破22億美元
+- CoreWeave電話會：Q1營收翻倍虧損擴大，但下半年利潤將迎「逃逸速度」 ，推理就是AI的變現方式
+- 「攝像頭+AI」！新款Airpods進入開發最後階段，蘋果「首款AI硬件」下注「可視耳機」
+- 港股概念追蹤 | 央行連續18個月增持黃金，機構：黃金長期配置邏輯不變
+- 富途早報 | 美伊再次交火！特朗普：只是「小懲罰」，停火仍然有效；中國央行連續第18個月增持黃金；CoreWeave業績、指引不及預期，最新訂單積壓達994億美元；英偉達與Iren達成戰略合作
+- Coinbase高管：《CLARITY法案》審議程序最早可能於下週啓動
 
 --- 跨站重点主题（多站出现=更重要）---
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 就业数据: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 就业数据: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 加密货币: 华尔街见闻 (简中)
+- 美国关税: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 加密货币: 华尔街见闻 (简中), 富途资讯 (繁中)
 - 黄金/大宗: 华尔街见闻 (简中)
 - 美联储: 华尔街见闻 (简中)
+- 中国政策/两会: 富途资讯 (繁中)
 
 --- 粘贴结束 ---
