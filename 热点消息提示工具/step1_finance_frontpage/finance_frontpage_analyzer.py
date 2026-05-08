@@ -126,7 +126,7 @@ def extract_benzinga(html: str) -> tuple[list[str], list[str]]:
 
 
 def extract_zhitongcaijing(html: str) -> tuple[list[str], list[str]]:
-    """智通财经：轮播头条 + 小图标题 + 列表标题。"""
+    """智通财经：轮播头条 + 小图标题 + 列表标题。选择器为空时 fallback 到通用提取。"""
     soup = BeautifulSoup(html, "html.parser")
     headlines, other = [], []
     # 轮播头条
@@ -144,6 +144,9 @@ def extract_zhitongcaijing(html: str) -> tuple[list[str], list[str]]:
         t = (tag.get_text() or "").strip()
         if t and len(t) > 4 and t not in headlines and t not in other:
             other.append(t)
+    # 选择器全部返回空时 fallback 到通用 h 标签（页面结构改版时保底）
+    if not headlines and not other:
+        headlines, other = extract_generic(html)
     return headlines[:15], other[:25]
 
 
@@ -189,46 +192,61 @@ def fetch_wallstreetcn_lives(timeout: int = 15, hours_back: int = 12) -> tuple[l
     return headlines, other, ""
 
 
+_FUTUNN_NAV_NOISE = frozenset([
+    "app store", "google play", "windows", "android", "ios",
+    "download", "下载", "登录", "注册", "登入",
+])
+
+
+def _is_futunn_nav(text: str) -> bool:
+    return text.lower() in _FUTUNN_NAV_NOISE or len(text) < 8
+
+
 def fetch_futunn(timeout: int = 15) -> tuple[list[str], list[str], str]:
-    """富途资讯：优先调 API，fallback 到 curl HTML 抓取。返回 (headlines, other, error)。"""
-    # 尝试富途快讯 API（港股新闻流）
+    """富途资讯：优先调 API（含 retry），fallback 到 curl HTML 抓取。返回 (headlines, other, error)。"""
     api_urls = [
         "https://news.futunn.com/news-flow/list?market_id=1&lang=zh-hk&page_size=20",
         "https://news.futunn.com/api/news-flow/list?market_id=1&lang=zh-hk&page_size=20",
+        "https://news.futunn.com/news-flow/list?market_id=1&lang=zh-cn&page_size=20",
     ]
-    for api in api_urls:
-        try:
-            r = requests.get(api, timeout=timeout, headers={
-                "User-Agent": USER_AGENT,
-                "Accept": "application/json, text/plain, */*",
-                "Referer": "https://news.futunn.com/hk/main",
-            })
-            if r.status_code == 200:
-                data = r.json()
-                # 兼容多种响应结构
-                items = (
-                    (data.get("data") or {}).get("list")
-                    or (data.get("data") or {}).get("items")
-                    or data.get("list")
-                    or []
-                )
-                if items:
-                    headlines, other = [], []
-                    for item in items:
-                        if not isinstance(item, dict):
-                            continue
-                        title = (item.get("title") or item.get("headline") or "").strip()
-                        if title and len(title) > 4 and title not in headlines:
-                            if len(headlines) < 12:
-                                headlines.append(title)
-                            elif len(other) < 10:
-                                other.append(title)
-                    if headlines:
-                        return headlines, other, ""
-        except Exception:
-            continue
+    import time as _time
+    last_err = ""
+    for attempt in range(2):  # 最多 retry 一次
+        for api in api_urls:
+            try:
+                r = requests.get(api, timeout=timeout, headers={
+                    "User-Agent": USER_AGENT,
+                    "Accept": "application/json, text/plain, */*",
+                    "Referer": "https://news.futunn.com/hk/main",
+                })
+                if r.status_code == 200:
+                    data = r.json()
+                    items = (
+                        (data.get("data") or {}).get("list")
+                        or (data.get("data") or {}).get("items")
+                        or data.get("list")
+                        or []
+                    )
+                    if items:
+                        headlines, other = [], []
+                        for item in items:
+                            if not isinstance(item, dict):
+                                continue
+                            title = (item.get("title") or item.get("headline") or "").strip()
+                            if title and not _is_futunn_nav(title) and title not in headlines:
+                                if len(headlines) < 12:
+                                    headlines.append(title)
+                                elif len(other) < 10:
+                                    other.append(title)
+                        if headlines:
+                            return headlines, other, ""
+            except Exception as e:
+                last_err = str(e)
+                continue
+        if attempt == 0:
+            _time.sleep(2)  # 第一次失败后稍等再 retry
 
-    # Fallback：curl 抓取 HTML（富途为 Next.js SSR，curl 可拿到含新闻标题的 h 标签）
+    # Fallback：curl 抓取 HTML
     html, ok, err = _fetch_via_curl("https://news.futunn.com/hk/main", timeout)
     if not ok or len(html) < 1000:
         html, ok, err = fetch_text("https://news.futunn.com/hk/main", timeout)
@@ -238,7 +256,6 @@ def fetch_futunn(timeout: int = 15) -> tuple[list[str], list[str], str]:
     soup = BeautifulSoup(html, "html.parser")
     headlines, other = [], []
 
-    # 富途常见 CSS 结构（Next.js 渲染）
     for sel in [
         "[class*='title'][class*='news']",
         "[class*='newsTitle']",
@@ -250,7 +267,7 @@ def fetch_futunn(timeout: int = 15) -> tuple[list[str], list[str], str]:
     ]:
         for tag in soup.select(sel):
             t = (tag.get_text() or "").strip()
-            if t and len(t) > 4 and t not in headlines and t not in other:
+            if t and not _is_futunn_nav(t) and t not in headlines and t not in other:
                 if len(headlines) < 12:
                     headlines.append(t)
                 elif len(other) < 10:
@@ -258,8 +275,10 @@ def fetch_futunn(timeout: int = 15) -> tuple[list[str], list[str], str]:
         if headlines:
             return headlines, other, ""
 
-    # 最终 fallback：通用 h 标签
+    # 最终 fallback：通用 h 标签，过滤导航噪声
     head, other_items = extract_generic(html)
+    head = [t for t in head if not _is_futunn_nav(t)]
+    other_items = [t for t in other_items if not _is_futunn_nav(t)]
     if not head:
         return [], [], "未能从富途页面提取标题，可能为 SPA 动态渲染"
     return head, other_items, ""
