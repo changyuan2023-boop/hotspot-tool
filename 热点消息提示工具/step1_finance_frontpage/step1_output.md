@@ -3,57 +3,64 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 6h 1m | US fires on Iranian targets as Trump demands deal from Tehran | Trade court strikes down Trump's 10% blanket tariffs | What the latest ruling on Trump's tariffs could mean for businesses
-  - 其他: US stock futures rise with investors eyeing US and Iran | What will it take to free the 1,600 ships stuck in the Strait of Hormuz? | US yields at 5% tug traders between dip-buying greed and fear | European shares retreat as Middle East tensions flare | Analysis-Japan bets on Washington, BOJ for extra punch in yen battle
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 31m | Stock futures rise with investors eyeing US-Iran, jobs | Trade court strikes down Trump's 10% blanket tariffs | What the latest ruling on Trump's tariffs could mean for businesses
+  - 其他: The AI arms race is eating into Big Tech's cash flow | Toyota expects $4.3 billion hit from effects of Iran war | Anthropic weighs deal for near $1tn valuation as revenue surges | Why Nvidia stock looks cheap ahead of its high-stakes earnings report this month | Ray-Ban Heir Files Legal Challenge to €10 Billion Stake Sale
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Plains All American Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call | SK Hynix Can't Build AI Memory Chips Fast Enough — And Big Tech Is Reportedly Lining Up To Fund It | Cloudflare Cuts 20% Jobs Despite Strong Q1 As It Goes 'Agentic AI-First' | Trump Turns Up Heat On EU Trade Deal, Threatens 'Much Higher' Tariffs If July 4 Deadline Isn't Met: 'Been Waiting Patiently...' | Akamai Technologies (AKAM) Stock Pops Over 29% Overnight: Why Is The Cloud Computer Company Trending
+  - 其他: How To Earn $500 A Month From Mosaic Stock Ahead Of Q1 Earnings | Bitcoin At $80,000, Ethereum, XRP, Dogecoin Wobble On Middle East Tensions | Wall Street's Most Accurate Analysts Give Their Take On 3 Tech And Telecom Stocks Delivering High-Dividend Yields | What's Going On With IREN Stock On Friday? | US Debt Bomb: Treasury May Need Over $2 Trillion From Markets In Fiscal 2026
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: Stellantis与零跑汽车扩大战略合作伙伴关系 | 美情报界：伊朗仍保有战前水平70%的导弹库存 | 索尼与台积电将在日本熊本成立芯片合资公司，共同推进下一代图像传感器。 | 软银将OpenAI保证金贷款目标削减40%，至60亿美元。 | 指责美在霍尔木兹海峡违反停火 伊朗公布回击画面 | 中情局估计美军封锁下伊朗至少可撑3到4个月 | 英海事分析公司：霍尔木兹海峡“暗航”船只激增 | 伊朗警告地区国家不要采取军事冒险行动
-  - 其他: 美国总统特朗普：对伊朗目标的军事袭击就是一个“小剐蹭”（love tap）而已。
-停火协议正在推进之中，停火是有效的。（ABC新闻） | 伊朗霍尔木兹甘省锡里克地区连续传出爆炸声 | 古巴外交部：强烈谴责美国新一轮制裁 | 伊朗诸多岛屿和霍尔木兹海峡周边各大城市的局势恢复正常。（伊朗媒体Press TV） | 美国原油期货涨超3%
+  - 头版/首屏: DeepSeek计划募资最多500亿元人民币，计划于6月推出V4模型的更新。（The Information） | 德国副总理：德国将推动建立新的联盟以对抗特朗普。
+德国和欧盟必须防范“勒索”。
+欧盟应进一步与英国和加拿大开展合作。 | 美联储理事米兰：希望鲍威尔的留任只是过渡性的。
+有充分理由缩减美联储资产负债表。
+仍然倾向于提前进行降息。 | 伊朗外交部强烈谴责美军袭击伊朗油轮 | 美联储理事米兰：我认为降息是合适的。
+美联储政策正在抑制就业市场。
+美联储应减少前瞻性指引。
+减少前瞻性指引将使政策更加灵活。
+美联储应当忽略能源冲击的短期影响。
+就业市场和通胀预期均未指向更高的通胀。 | 伊朗称导弹和发射能力高于战前水平。 | 海事情报公司称有3艘伊朗油轮突破美军封锁 | 美国银行策略师称 美股近年涨势之强为历史罕见
+  - 其他: A股辅导备案引关注，昆仑芯港股上市进程正常推进 | 瑞士表示随时准备斡旋美伊谈判 | OpenAI为网络安全团队推出新模型，对标Anthropic一个月之前推出的Mythos | 特朗普表示，他已听取有关汉坦病毒的情况汇报，希望疫情能得到有效控制。 | 特朗普：我们正在与伊朗进行谈判，伊朗停火协议依然有效。巴基斯坦已请求美国在与伊朗谈判期间不要执行“自由计划”。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: China confirms it helped Pakistan’s air force during last year’s war with India | Has China given the first sign it’s ready to export J-35A fighter to Pakistan? | Diplomacy | Why today’s ‘unravelled’ international order echoes the lead-up to WWI | Politics | Exclusive | Was China’s ‘fireworks capital’ rushing its July 4 orders when deadly blast hit? | Law and Crime | Housing checking unit admits ‘blind spots’ amid ‘robotic’ workflow criticism
-  - 其他: Engineers tell state media they had provided technical support during a conflict that saw an Indian fighter downed by a Chinese-made fighter. | Dangerous pre-war conditions are here following raft of unilateral actions taken by Trump administration, ex-senior White House adviser says. | Industry insiders say Liuyang factories were under pressure to meet deadlines ahead of summer production ban. | Te Chi-wang, deputy director of the Home Affairs Department, and ex-ICU head Lau Fu-kwok take stand at hearing into Hong Kong’s deadliest fire in decades. | Why US commercial stakes are ‘too high for Trump to ignore’ on China visit
+  - 头版/首屏: Are China and Russia flexing their maritime muscle near Japan? | China condemns Japan’s first overseas ‘offensive missile’ test since WWII | Diplomacy | Why is a Chinese research ship a flashpoint with Philippines in South China Sea? | Tech Trends | Exclusive | Baidu chip unit eyes US$14.7b valuation in Hong Kong IPO: sources | Health & Environment | CUHK hospital to repay HK$4 billion public loan early using growing reserves
+  - 其他: Tokyo’s recent tracking of three PLA Navy warships transiting Tsushima Strait comes amid heightened regional tensions. | Beijing and Manila trade accusations after incident near Iroquois Reef in the Spratly Islands this week. | The company is seeking to list on the Sci-Tech Innovation Board, also known as the Star Market, of the Shanghai Stock Exchange. | University’s council chairman says Health Bureau informed of early repayment proposal for 2016 loan to non-profit-making private teaching hospital. | China confirms it helped Pakistan’s air force during last year’s war with India
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 美伊终战有望油价急挫兼人币走强，航空股可再吼？ | 离岸人币升穿6.8关 创逾3年高 | 特：美伊可能达成协议 德黑兰称正审阅 | 人气降温、跑输标指，巴郡古老智慧仍奏效 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数26343.97-282.31(-1.06%)
-                    etnet.com.hk@copyright | 国企指数8871.65-47.83(-0.54%)
+  - 其他: 恒生指数26404.49-221.79(-0.83%)
+                    etnet.com.hk@copyright | 国企指数8892.84-26.64(-0.30%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 今晚20:30！非農或創年內最大落差？即使就業突然降溫，聯儲局也未必敢減息 | 黃仁勳：下一代AI基礎設施將需要大量的光學連接，銅線已無法滿足需求 | 「TACO」已經過時，華爾街湧入「NACHO」交易！ | 千億積壓訂單 vs 燒錢搞AI！CoreWeave展現"擴張陣痛"：Q1利潤跳水、Q2指引遜於預期 | 南向資金流入近90億港元 | 英偉達與IREN達成戰略合作：21億認股權+34億五年雲服務合約 | 美非農已成「開盲盒」：今年不是爆表就是爆雷，今晚劇情怎麼演？ | 台積電4月銷售額爲4107.3億新臺幣，同比增長17.5%
-  - 其他: 台積電4月營收同比增17.5%，AI需求支撐全年擴張勢頭 | 英偉達CEO黃仁勳：若受邀，將隨特朗普一同訪問中國 | 納指狂飆、半導體瘋漲！當前美股熱點怎麼投？新手可先從這些ETF看起 | 港股午評 | 三大指數齊跌，恒指跌1.09%；AI應用股、機器人概念股活躍，海致科技集團漲超18%，美圖公司漲超12%，優必選漲超4%；半導體股走低，華虹半導體跌超9%，中芯國際跌超4% | 什麼信號？事關半導體行業，大摩上調多家公司目標股價！
+  - 头版/首屏: ”滯脹交易“席捲市場，今晚20:30，非農要多差，才能重啓減息預期？ | DeepSeek擬募資最高500億元，計劃於6月推出V4模型的更新 | 衝刺7900點！RBC上調標普500年底目標價，看好AI行業前景 | 本週美股牛股 | Datadog本週大漲34%，Q1營收超預期+上調全年指引；美光科技累漲19%，CEO指存儲缺貨將持續至2027年；超微電腦漲24%，Q3利潤率顯著修復 | 一圖前瞻 | 中概科網股業績期打響！京東、騰訊、阿里下週率先放榜，會交出怎樣的AI「答卷」？ | 7250億美元豪賭AI的代價：美股科技巨頭現金流創逾十年新低 | 押注娛樂主業破局！索尼Q4淨利驟降63%，卻拋出新財年雙位數增長指引 | 北水掃貨港股近132億港元，淨買入快手超17億港元，加倉阿里巴巴近4億港元，淨賣出小米集團超5億港元
+  - 其他: 泡泡瑪特業績前，德銀高喊賣出：海外降溫、國內見疲，全年可能轉負增長 | 100億美元沒人敢借，軟銀OpenAI按金貸款目標下調至60億 | 「存儲荒」下韓股牛市未完？高盛：KOSPI還能再漲20% 劍指9000點！ | 收市速睇 | 三大指數齊跌，恒指跌0.87%；南向資金逆勢淨流入超131億港元；黃金股走強，靈寶黃金漲逾8%；快手尾盤強勢拉升漲逾9% | 暗盤情報 | 「視覺感知產品及割草機器人公司」樂動機器人現漲超234%，一手賺12348港元
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **加密货币** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
-- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
-- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
-- **中国重大政策/两会** — 出现于: 富途资讯 (繁中) (1 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 油价/能源（5 站）
 - 科技股/个股（5 站）
-- 伊朗/中东局势（4 站）
-- 就业/经济数据（4 站）
 - 中国/欧盟（4 站）
-- 关税/贸易政策（3 站）
+- 伊朗/中东局势（3 站）
+- 关税/贸易政策（2 站）
 - 加密货币（2 站）
-- 黄金/大宗商品（1 站）
-- 美联储/利率（1 站）
+- 就业/经济数据（2 站）
+- 美联储/利率（2 站）
 - 中国政策（1 站）
+- 黄金/大宗商品（0 站）

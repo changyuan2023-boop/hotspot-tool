@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026050815
+抓取时间: 2026050820
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 6h 1m
-- US fires on Iranian targets as Trump demands deal from Tehran
+- U.S. markets open in 1h 31m
+- Stock futures rise with investors eyeing US-Iran, jobs
 - Trade court strikes down Trump's 10% blanket tariffs
 - What the latest ruling on Trump's tariffs could mean for businesses
 - Markets brace for closely watched jobs report
-- Cloudflare to cut 20% jobs, revenue forecast falls short
-- US beef producers hope China access is on Trump-Xi summit menu
-- Oil climbs following fresh clashes between US and Iranian forces
+- US said to suspect Nvidia chips smuggled to Alibaba via Thailand
+- Food prices rise to highest in 3 years on Iran war costs
+- Iran turns to China rail link to try to bypass US blockade
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- US stock futures rise with investors eyeing US and Iran
-- What will it take to free the 1,600 ships stuck in the Strait of Hormuz?
-- US yields at 5% tug traders between dip-buying greed and fear
-- European shares retreat as Middle East tensions flare
-- Analysis-Japan bets on Washington, BOJ for extra punch in yen battle
-- Oil climbs on Gulf clashes as AI drives stocks to weekly rise
-- UK house prices fall by 0.1% in April, Halifax says
-- German industrial output falls unexpectedly in March
-- RBC lifts S&P 500 year-end target to 7,900 on AI optimism
-- China's April bank lending seen plunging amid soft credit demand: Reuters Poll
+- The AI arms race is eating into Big Tech's cash flow
+- Toyota expects $4.3 billion hit from effects of Iran war
+- Anthropic weighs deal for near $1tn valuation as revenue surges
+- Why Nvidia stock looks cheap ahead of its high-stakes earnings report this month
+- Ray-Ban Heir Files Legal Challenge to €10 Billion Stake Sale
+- Google has bit more time to address concerns in EU investigation, EU Commission says
+- US stock futures rise as chips rebound ahead of jobs data
+- Iran, US Involved in Hormuz Clashes With Deal Response Awaited
+- Box Makers Struggle to Pass on War Costs as Demand Stays Weak
+- Logitech CEO plans to boost spending on R&D and marketing
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,65 +42,73 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Plains All American Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
-- SK Hynix Can't Build AI Memory Chips Fast Enough — And Big Tech Is Reportedly Lining Up To Fund It
-- Cloudflare Cuts 20% Jobs Despite Strong Q1 As It Goes 'Agentic AI-First'
-- Trump Turns Up Heat On EU Trade Deal, Threatens 'Much Higher' Tariffs If July 4 Deadline Isn't Met: 'Been Waiting Patiently...'
-- Akamai Technologies (AKAM) Stock Pops Over 29% Overnight: Why Is The Cloud Computer Company Trending
-- Trump Calls US-Iran Strike A 'Love Tap' As Fire Exchanged Near Strait Of Hormuz; Brent Climbs Above $102
+- How To Earn $500 A Month From Mosaic Stock Ahead Of Q1 Earnings
+- Bitcoin At $80,000, Ethereum, XRP, Dogecoin Wobble On Middle East Tensions
+- Wall Street's Most Accurate Analysts Give Their Take On 3 Tech And Telecom Stocks Delivering High-Dividend Yields
+- What's Going On With IREN Stock On Friday?
+- US Debt Bomb: Treasury May Need Over $2 Trillion From Markets In Fiscal 2026
+- Stock Market Today: S&P 500, Dow Jones Futures Rise Amid Trump's 'Love Tap' To Iran Near Hormuz Strait—Cloudflare, BILL, CoreWeave In Focus
 - Vehicle Recalls
-- IREN Stock Spikes On Nvidia Deal, Q3 Results: What To Know
-- TikTok Just Did What Google, ChatGPT And Instagram Couldn't
-- Top Wall Street Forecasters Revamp Oshkosh Expectations Ahead Of Q1 Earnings
+- Tucker Carlson Says Iran War Exposed 'Fake' And 'Bizarre' Markets Enriching Elites: 'It's Become Too Obvious To Deny...'
+- Top 3 Tech Stocks That Could Blast Off In Q2
+- AMC Global Media Likely To Report Lower Q1 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Stellantis与零跑汽车扩大战略合作伙伴关系
-- 美情报界：伊朗仍保有战前水平70%的导弹库存
-- 索尼与台积电将在日本熊本成立芯片合资公司，共同推进下一代图像传感器。
-- 软银将OpenAI保证金贷款目标削减40%，至60亿美元。
-- 指责美在霍尔木兹海峡违反停火 伊朗公布回击画面
-- 中情局估计美军封锁下伊朗至少可撑3到4个月
-- 英海事分析公司：霍尔木兹海峡“暗航”船只激增
-- 伊朗警告地区国家不要采取军事冒险行动
-- 美媒说美国务院正在审查所有墨西哥驻美领事馆
-- 提醒：日内请重点关注（以下均为北京时间）
-- 早间要闻汇总
-- 英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国
+- DeepSeek计划募资最多500亿元人民币，计划于6月推出V4模型的更新。（The Information）
+- 德国副总理：德国将推动建立新的联盟以对抗特朗普。
+德国和欧盟必须防范“勒索”。
+欧盟应进一步与英国和加拿大开展合作。
+- 美联储理事米兰：希望鲍威尔的留任只是过渡性的。
+有充分理由缩减美联储资产负债表。
+仍然倾向于提前进行降息。
+- 伊朗外交部强烈谴责美军袭击伊朗油轮
+- 美联储理事米兰：我认为降息是合适的。
+美联储政策正在抑制就业市场。
+美联储应减少前瞻性指引。
+减少前瞻性指引将使政策更加灵活。
+美联储应当忽略能源冲击的短期影响。
+就业市场和通胀预期均未指向更高的通胀。
+- 伊朗称导弹和发射能力高于战前水平。
+- 海事情报公司称有3艘伊朗油轮突破美军封锁
+- 美国银行策略师称 美股近年涨势之强为历史罕见
+- 伊朗国家电视台称，伊朗军方在阿曼湾扣押了一艘油轮。
+- 美国总统特朗普连续发图称，油价自拜登政府以来已经下降25%，至90美元/桶；其任期内标普500指数创历史新高；美国对伊朗行动仅持续6周，远短于其他主要战争。
+- 沙特媒体称伊朗预计今天回应美国方案
+- 佰维存储在互动平台表示，目前公司与英特尔尚未有业务合作。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 美国总统特朗普：对伊朗目标的军事袭击就是一个“小剐蹭”（love tap）而已。
-停火协议正在推进之中，停火是有效的。（ABC新闻）
-- 伊朗霍尔木兹甘省锡里克地区连续传出爆炸声
-- 古巴外交部：强烈谴责美国新一轮制裁
-- 伊朗诸多岛屿和霍尔木兹海峡周边各大城市的局势恢复正常。（伊朗媒体Press TV）
-- 美国原油期货涨超3%
-- 美国、巴西两国首脑华盛顿会晤，卢拉认为：特朗普不会对即将到来的巴西选举产任何影响
-- 为确保芯片供应，科技巨头们抛出空前橄榄枝：对SK海力士“围追堵截”
-- 亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.4%。黄金价格大致持平，暂报4690美元/盎司，WTI原油期货持平，暂报97.77美元/桶，布伦特原油期货涨0.2%，暂报103.50美元。据新华社报道，伊朗南部一海军基地遭美以袭击，美
-- 伊朗革命卫队海军：击退3艘美军驱逐舰
-- 美军：导弹驱逐舰编队穿越霍尔木兹海峡，拦截“伊朗发起的无端袭击”，并反击
+- A股辅导备案引关注，昆仑芯港股上市进程正常推进
+- 瑞士表示随时准备斡旋美伊谈判
+- OpenAI为网络安全团队推出新模型，对标Anthropic一个月之前推出的Mythos
+- 特朗普表示，他已听取有关汉坦病毒的情况汇报，希望疫情能得到有效控制。
+- 特朗普：我们正在与伊朗进行谈判，伊朗停火协议依然有效。巴基斯坦已请求美国在与伊朗谈判期间不要执行“自由计划”。
+- ST清越：收到中国证监会发的《行政处罚事先告知书》，公司可能触及重大违法行为，可能被实施重大违法强制退市。
+- 围绕贯彻落实加强基础研究座谈会精神，陈吉宁调研张江实验室并开展现场办公
+- 国务院成立湖南长沙浏阳烟花特别重大爆炸事故调查组
+- 中疾控：我国无安第斯病毒人类感染病例报告
+- 沃尔沃计划搭载千里浩瀚智驾方案 知情人士：2027年初有望上车
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- China confirms it helped Pakistan’s air force during last year’s war with India
-- Has China given the first sign it’s ready to export J-35A fighter to Pakistan?
+- Are China and Russia flexing their maritime muscle near Japan?
+- China condemns Japan’s first overseas ‘offensive missile’ test since WWII
 - Diplomacy
-- Why today’s ‘unravelled’ international order echoes the lead-up to WWI
-- Politics
-- Exclusive | Was China’s ‘fireworks capital’ rushing its July 4 orders when deadly blast hit?
-- Law and Crime
-- Housing checking unit admits ‘blind spots’ amid ‘robotic’ workflow criticism
+- Why is a Chinese research ship a flashpoint with Philippines in South China Sea?
+- Tech Trends
+- Exclusive | Baidu chip unit eyes US$14.7b valuation in Hong Kong IPO: sources
+- Health & Environment
+- CUHK hospital to repay HK$4 billion public loan early using growing reserves
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Engineers tell state media they had provided technical support during a conflict that saw an Indian fighter downed by a Chinese-made fighter.
-- Dangerous pre-war conditions are here following raft of unilateral actions taken by Trump administration, ex-senior White House adviser says.
-- Industry insiders say Liuyang factories were under pressure to meet deadlines ahead of summer production ban.
-- Te Chi-wang, deputy director of the Home Affairs Department, and ex-ICU head Lau Fu-kwok take stand at hearing into Hong Kong’s deadliest fire in decades.
-- Why US commercial stakes are ‘too high for Trump to ignore’ on China visit
-- World
-- Shanghai’s expat population, Hong Kong trail sign fallout: 7 highlights
-- From the South Korean judge’s death to China debuting naval drone tech, here are highlights from SCMP’s recent reporting.
-- China Business
-- Tesla China posts 36% sales rise, as local rivals nip at heels
+- Tokyo’s recent tracking of three PLA Navy warships transiting Tsushima Strait comes amid heightened regional tensions.
+- Beijing and Manila trade accusations after incident near Iroquois Reef in the Spratly Islands this week.
+- The company is seeking to list on the Sci-Tech Innovation Board, also known as the Star Market, of the Shanghai Stock Exchange.
+- University’s council chairman says Health Bureau informed of early repayment proposal for 2016 loan to non-profit-making private teaching hospital.
+- China confirms it helped Pakistan’s air force during last year’s war with India
+- Hong Kong Economy
+- Cathay Pacific to lower fuel surcharges for passenger flights by up to 14%
+- Decrease to take effect on May 16 and comes after airline raised surcharges due to higher fuel prices as Middle East war disrupted supplies.
+- Global Economy
+- Trump invites Boeing, Mastercard CEOs to join China trip next week: sources
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -117,9 +125,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数26343.97-282.31(-1.06%)
+- 恒生指数26404.49-221.79(-0.83%)
                     etnet.com.hk@copyright
-- 国企指数8871.65-47.83(-0.54%)
+- 国企指数8892.84-26.64(-0.30%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -132,36 +140,35 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 今晚20:30！非農或創年內最大落差？即使就業突然降溫，聯儲局也未必敢減息
-- 黃仁勳：下一代AI基礎設施將需要大量的光學連接，銅線已無法滿足需求
+- ”滯脹交易“席捲市場，今晚20:30，非農要多差，才能重啓減息預期？
+- DeepSeek擬募資最高500億元，計劃於6月推出V4模型的更新
+- 衝刺7900點！RBC上調標普500年底目標價，看好AI行業前景
+- 本週美股牛股 | Datadog本週大漲34%，Q1營收超預期+上調全年指引；美光科技累漲19%，CEO指存儲缺貨將持續至2027年；超微電腦漲24%，Q3利潤率顯著修復
+- 一圖前瞻 | 中概科網股業績期打響！京東、騰訊、阿里下週率先放榜，會交出怎樣的AI「答卷」？
+- 7250億美元豪賭AI的代價：美股科技巨頭現金流創逾十年新低
+- 押注娛樂主業破局！索尼Q4淨利驟降63%，卻拋出新財年雙位數增長指引
+- 北水掃貨港股近132億港元，淨買入快手超17億港元，加倉阿里巴巴近4億港元，淨賣出小米集團超5億港元
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- 泡泡瑪特業績前，德銀高喊賣出：海外降溫、國內見疲，全年可能轉負增長
+- 100億美元沒人敢借，軟銀OpenAI按金貸款目標下調至60億
+- 「存儲荒」下韓股牛市未完？高盛：KOSPI還能再漲20% 劍指9000點！
+- 收市速睇 | 三大指數齊跌，恒指跌0.87%；南向資金逆勢淨流入超131億港元；黃金股走強，靈寶黃金漲逾8%；快手尾盤強勢拉升漲逾9%
+- 暗盤情報 | 「視覺感知產品及割草機器人公司」樂動機器人現漲超234%，一手賺12348港元
+- 美股盤前：IREN漲超8%，與英偉達簽署AI雲合同；Rocket Lab績後漲超7%
 - 「TACO」已經過時，華爾街湧入「NACHO」交易！
-- 千億積壓訂單 vs 燒錢搞AI！CoreWeave展現"擴張陣痛"：Q1利潤跳水、Q2指引遜於預期
 - 南向資金流入近90億港元
-- 英偉達與IREN達成戰略合作：21億認股權+34億五年雲服務合約
 - 美非農已成「開盲盒」：今年不是爆表就是爆雷，今晚劇情怎麼演？
 - 台積電4月銷售額爲4107.3億新臺幣，同比增長17.5%
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 台積電4月營收同比增17.5%，AI需求支撐全年擴張勢頭
-- 英偉達CEO黃仁勳：若受邀，將隨特朗普一同訪問中國
-- 納指狂飆、半導體瘋漲！當前美股熱點怎麼投？新手可先從這些ETF看起
-- 港股午評 | 三大指數齊跌，恒指跌1.09%；AI應用股、機器人概念股活躍，海致科技集團漲超18%，美圖公司漲超12%，優必選漲超4%；半導體股走低，華虹半導體跌超9%，中芯國際跌超4%
-- 什麼信號？事關半導體行業，大摩上調多家公司目標股價！
-- 泡泡瑪特延續漲勢，段永平日前發文稱要繼續加倉
-- 大摩：中國人形機器人，有望復刻「電車奇蹟」
-- 百度股價上揚，旗下崑崙芯啓動科創板上市輔導,「A+H」兩地同步闖關
-- Rocket Lab Q1營收暴增64%、拿下"黃金穹頂"大單，訂單積壓突破22億美元
-- CoreWeave電話會：Q1營收翻倍虧損擴大，但下半年利潤將迎「逃逸速度」 ，推理就是AI的變現方式
 
 --- 跨站重点主题（多站出现=更重要）---
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 就业数据: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 加密货币: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 黄金/大宗: 华尔街见闻 (简中)
-- 美联储: 华尔街见闻 (简中)
-- 中国政策/两会: 富途资讯 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 就业数据: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
