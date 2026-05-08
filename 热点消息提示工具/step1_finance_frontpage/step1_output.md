@@ -3,7 +3,7 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 6h 51m | US fires on Iranian targets as Trump demands deal from Tehran | Trade court strikes down Trump's 10% blanket tariffs | What the latest ruling on Trump's tariffs could mean for businesses
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 6h 47m | US fires on Iranian targets as Trump demands deal from Tehran | Trade court strikes down Trump's 10% blanket tariffs | What the latest ruling on Trump's tariffs could mean for businesses
   - 其他: US stock futures rise with investors eyeing US and Iran | What will it take to free the 1,600 ships stuck in the Strait of Hormuz? | US yields at 5% tug traders between dip-buying greed and fear | Oil climbs on Gulf clashes as AI drives stocks to weekly rise | UK house prices fall by 0.1% in April, Halifax says
 
 - **Benzinga (EN)** ✓
