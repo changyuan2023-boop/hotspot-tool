@@ -278,16 +278,49 @@ workflow:
                 else:
                     all_results.extend(["## 智通财经 (简中)", "（抓取失败）", ""])
 
-                # 站点6：富途资讯
-                html = fetch_html(
-                    "https://news.futunn.com/hk/main",
-                    extra_headers={"Accept-Language": "zh-TW,zh;q=0.9"}
-                )
-                if html:
-                    items = [x for x in parse_h_tags(html) if len(x) > 8]
-                    add_site("富途资讯 (繁中)", items[:6], items[6:10])
-                else:
-                    all_results.extend(["## 富途资讯 (繁中)", "（抓取失败）", ""])
+                # 站点6：富途资讯（优先调 API，fallback 到 HTML + 导航噪声过滤）
+                futunn_nav_noise = {"app store", "google play", "windows", "android", "ios", "download", "下载", "登录", "注册", "登入"}
+                futunn_ok = False
+                for futunn_api in [
+                    "https://news.futunn.com/news-flow/list?market_id=1&lang=zh-hk&page_size=20",
+                    "https://news.futunn.com/news-flow/list?market_id=1&lang=zh-cn&page_size=20",
+                ]:
+                    try:
+                        r = requests.get(futunn_api, headers={
+                            "User-Agent": USER_AGENT,
+                            "Accept": "application/json, text/plain, */*",
+                            "Referer": "https://news.futunn.com/hk/main",
+                        }, timeout=20)
+                        if r.status_code == 200:
+                            data = r.json()
+                            api_items = (
+                                (data.get("data") or {}).get("list")
+                                or (data.get("data") or {}).get("items")
+                                or data.get("list") or []
+                            )
+                            titles = []
+                            for itm in api_items:
+                                if not isinstance(itm, dict):
+                                    continue
+                                title = (itm.get("title") or itm.get("headline") or "").strip()
+                                if title and len(title) > 8 and title.lower() not in futunn_nav_noise and title not in titles:
+                                    titles.append(title)
+                            if titles:
+                                add_site("富途资讯 (繁中)", titles[:6], titles[6:10])
+                                futunn_ok = True
+                                break
+                    except Exception:
+                        continue
+                if not futunn_ok:
+                    html = fetch_html("https://news.futunn.com/hk/main", extra_headers={"Accept-Language": "zh-TW,zh;q=0.9"})
+                    if html:
+                        items = [x for x in parse_h_tags(html) if len(x) > 8 and x.lower() not in futunn_nav_noise]
+                        if items:
+                            add_site("富途资讯 (繁中)", items[:6], items[6:10])
+                        else:
+                            all_results.extend(["## 富途资讯 (繁中)", "（抓取失败：SPA动态渲染）", ""])
+                    else:
+                        all_results.extend(["## 富途资讯 (繁中)", "（抓取失败）", ""])
 
                 # 跨站主题汇总
                 all_results.append("--- 跨站重点主题（多站出现=更重要）---")
