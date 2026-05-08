@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：早间**
-**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
+**当前模式：晚间**
+**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`早间热点线索 · 2026年5月8日`
+`晚间热点线索 · 2026年5月8日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 早间模式操作指令
+## 晚间模式操作指令
 
-聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
+聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
 重点关注（按重要性排序写入）：
-1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
-2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
-3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
-4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
+1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
+4. 其他值得今晚关注的美股消息
 
 ---
 
@@ -100,7 +100,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026050809
+抓取时间: 2026050814
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -108,25 +108,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets closed
+- U.S. markets open in 6h 51m
+- US fires on Iranian targets as Trump demands deal from Tehran
 - Trade court strikes down Trump's 10% blanket tariffs
 - What the latest ruling on Trump's tariffs could mean for businesses
 - Markets brace for closely watched jobs report
 - Cloudflare to cut 20% jobs, revenue forecast falls short
-- Carlyle sees market opportunities with a record $96B to invest
-- Coinbase posts second consecutive quarterly loss amid crypto slump
-- Airbnb boosts annual sales outlook while spending picks up
+- US beef producers hope China access is on Trump-Xi summit menu
+- Oil climbs following fresh clashes between US and Iranian forces
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- US stock futures slip as Iran and the US ramp up Hormuz aggression
-- Lyft earnings miss estimates after global expansion push
-- Summer airfares set to surge as jet fuel shortage grips market
-- US Fires at Iranian Targets as Trump Demands Tehran Accept Deal
-- Trump-Xi Summit Stays on Track Despite China’s Iran Concerns
-- Australia regulator calls for urgent cybersecurity action to counter Mythos
-- Japan real wages climb for third month in March, backing case for BOJ rate hike
-- Oil jumps and stock futures slip on renewed US-Iran fighting
-- Nvidia funds construction of Corning plants, in addition to equity investment
-- Oil prices jump on renewed US-Iran hostilities
+- US stock futures rise with investors eyeing US and Iran
+- What will it take to free the 1,600 ships stuck in the Strait of Hormuz?
+- US yields at 5% tug traders between dip-buying greed and fear
+- Oil climbs on Gulf clashes as AI drives stocks to weekly rise
+- UK house prices fall by 0.1% in April, Halifax says
+- German industrial output falls unexpectedly in March
+- RBC lifts S&P 500 year-end target to 7,900 on AI optimism
+- China's April bank lending seen plunging amid soft credit demand: Reuters Poll
+- Analysis-Iran price shock highlights limits of inflation-linked bonds
+- Some Unilever investors seek ESG reassurances in McCormick food deal
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -141,76 +141,72 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- They Asked Value Investors Which Stock They'd Put Their Entire Net Worth For 10 Years. One Company Was Mentioned Again And Again
-- Stripe, Spacex, Databricks — And The End Of A Traditional IPO
-- 'I Hate Working 5 Days': Zoom CEO Eric Yuan Says AI Could Shrink Workweeks To 3 Days In A Major Future Shift
-- IREN Stock Spikes On Nvidia Deal, Q3 Results: What To Know
-- Block Shares Climb After Q1 Report — Here's Why
-- TikTok Just Did What Google, ChatGPT And Instagram Couldn't
+- Akamai Technologies (AKAM) Stock Pops Over 29% Overnight: Why Is The Cloud Computer Company Trending
+- John Bolton Says 'Wrong Time To Lessen Pressure' On Iran, Urges Trump Admin To Push On And 'Destroy The Regime'
+- BT Brands Stock Slides 35% After Hours: Why Is It Moving?
+- Top Wall Street Forecasters Revamp Oshkosh Expectations Ahead Of Q1 Earnings
+- Dow Tumbles Over 300 Points: Investor Sentiment Declines, Fear Index Remains In 'Greed' Zone
+- Trump Calls US-Iran Strike A 'Love Tap' As Fire Exchanged Near Strait Of Hormuz; Brent Climbs Above $102
 - Vehicle Recalls
-- Nvidia's $1 Trillion Promise May Just Be The Start — Ask Goldman Sachs
-- Applovin Stock A Buy After Q1 Results, Guidance: Analyst Says 'Valuation Remains Cheap'
-- Tech and Semiconductors Lead As Order Flows Expand Across Sectors
+- IREN Stock Spikes On Nvidia Deal, Q3 Results: What To Know
+- TikTok Just Did What Google, ChatGPT And Instagram Couldn't
+- Wendy's Gears Up For Q1 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 瑞士表示随时准备斡旋美伊谈判
-- 特朗普表示，他已听取有关汉坦病毒的情况汇报，希望疫情能得到有效控制。
-- 特朗普：我们正在与伊朗进行谈判，伊朗停火协议依然有效。巴基斯坦已请求美国在与伊朗谈判期间不要执行“自由计划”。
-- CoreWeave一季度业绩报告要点总结
-- 华尔街见闻早餐 | 2026年5月8日
-- 据OpenAI：此Chrome浏览器扩展程序进一步扩展了Codex在编程和办公领域的功能。
-从调试浏览器流程到查看仪表板，再到开展调研或更新CRM系统，Codex现在可以承担更多原本就在浏览器中进行的任务。
-该功能即日起在Codex应用程序
-- CoreWeave回顾2026年第一季度业绩：
-1、斩获 AI 实验室、超大规模者及企业级客户。
-与Meta达成了多项新协议，其中包括在3月份签署的一项价值210亿美元的新承诺。
-与Anthropic签署了多年期协议，以支持Anthropi
-- 霍尔木兹海峡附近局势已恢复正常
-- 美伊互指对方先开火
-- 美媒披露：有美国组织高价雇网红抹黑中国AI产业，相关资金来自美AI巨头
-- 美联储卡什卡利：受伊朗战争影响，下一步利率变动尚不确定
-- 各执一词冲突又起，伊朗打击美舰，美袭击伊油轮空袭沿海地区
+- 指责美在霍尔木兹海峡违反停火 伊朗公布回击画面
+- 中情局估计美军封锁下伊朗至少可撑3到4个月
+- 英海事分析公司：霍尔木兹海峡“暗航”船只激增
+- 伊朗警告地区国家不要采取军事冒险行动
+- 美媒说美国务院正在审查所有墨西哥驻美领事馆
+- 提醒：日内请重点关注（以下均为北京时间）
+- 早间要闻汇总
+- 英伟达CEO黄仁勋：若受邀，将随特朗普一同访问中国
+- 消息人士称预计伊官员今日正式回应美对14点提议的评估反馈
+- 伊朗：美国巴林提交的霍尔木兹海峡安理会决议草案存“严重缺陷”
+- 阿联酋称埃及战机已部署在其境内以应对伊朗袭击
+- 阿联酋和埃及总统讨论地区局势
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 三艘位于霍尔木兹海峡附近的美国驱逐舰遭到伊朗海军攻击。（伊朗塔斯尼姆通讯社Tasnim）
-- 伊朗Bandar Abbas市再次响起爆炸声。（伊朗媒体NEHR）
-- 美国高级官员：特朗普与伊朗的停火还没有结束。（福克斯新闻）
-- 美媒：美军空袭伊朗港口
-- 英伟达与IREN宣布达成战略合作，以加速部署高达5吉瓦的人工智能基础设施。
-- 当地时间7日夜间，伊朗首都德黑兰西部启动防空系统。（央视）
-- Coinbase连续第二个季度亏损，受累于加密货币交易动能减弱
-- 美股大类资产类ETF普遍收跌，小盘股指ETF、新兴市场ETF至少跌超1.3%
-- Compass递表，有望结束巴西近五年的IPO荒
-- 美联储“三把手”：美债需求依然强劲
+- 美国原油期货涨超3%
+- 美国、巴西两国首脑华盛顿会晤，卢拉认为：特朗普不会对即将到来的巴西选举产任何影响
+- 为确保芯片供应，科技巨头们抛出空前橄榄枝：对SK海力士“围追堵截”
+- 亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.4%。黄金价格大致持平，暂报4690美元/盎司，WTI原油期货持平，暂报97.77美元/桶，布伦特原油期货涨0.2%，暂报103.50美元。据新华社报道，伊朗南部一海军基地遭美以袭击，美
+- 伊朗革命卫队海军：击退3艘美军驱逐舰
+- 美军：导弹驱逐舰编队穿越霍尔木兹海峡，拦截“伊朗发起的无端袭击”，并反击
+- 美军宣称“自卫反击”来自伊朗的攻击
+- 两艘正在通过霍尔木兹海峡的美国海军驱逐舰于周四再次遭到袭击。（哥伦比亚广播公司CBS News）
+- 周四（5月7日）纽约尾盘，标普500股指期货最终跌0.51%，道指期货跌0.74%，纳斯达克100股指期货跌0.26%。
+罗素2000股指期货跌1.69%。
+- 伊朗民众集会悼念已故最高领袖，宣誓效忠穆杰塔巴
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Wrapped in a Boeing: will Trump’s China visit include another aircraft deal?
-- China Southern orders Airbus jets worth US$21b as Boeing waits
-- Diplomacy
-- China’s study of Ukraine, Iran wars could sharpen Taiwan propaganda tactics
-- US targets Cuba nickel operation in move affecting China-linked supply chains
-- Society
-- Hong Kong’s pinball wizards and claw fans defend arcade thrills as curbs loom
-- China urged to forge ‘spear’ for cognitive warfare amid great power rivalry
+- Why today’s ‘unravelled’ international order echoes the lead-up to WWI
+- China tells close Trump ally its wish list ahead of US leader’s Beijing trip
+- Politics
+- Exclusive | Was China’s ‘fireworks capital’ rushing its July 4 orders when deadly blast hit?
+- China Economy
+- China’s airship ambitions progress as first commercial pilots certified at home
+- Housing checking unit admits ‘blind spots’ amid ‘robotic’ workflow criticism
+- Why US commercial stakes are ‘too high for Trump to ignore’ on China visit
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- After the US$37 billion, 300-plane deal from Trump’s last visit stalled, industry observers say the next one could be more flexible.
-- Beijing’s study of Iran, Ukraine wars could help hone its ability to wage information warfare against the US during a Taiwan Strait crisis.
-- Marco Rubio revealed sanctions on Thursday, escalating Trump administration’s pressure campaign against Havana’s military-controlled economy.
-- Citywide craze in pinball and claw machines has prompted authorities to consider tightening regulations to prevent addiction to these games.
-- Science
-- Will Iran war threaten next harvest? Which countries are most at risk?
-- As the Hormuz blockade cuts off vital agricultural inputs, Food and Agriculture Organization official views China as key food security partner.
+- Dangerous pre-war conditions are here following raft of unilateral actions taken by Trump administration, ex-senior White House adviser says.
+- Industry insiders say Liuyang factories were under pressure to meet deadlines ahead of summer production ban.
+- The sector is advancing faster than the available talent pool – but officials call licenses a ‘breakthrough’ moment.
+- Te Chi-wang, deputy director of the Home Affairs Department, and ex-ICU head Lau Fu-kwok take stand at hearing into Hong Kong’s deadliest fire in decades.
+- World
+- Shanghai’s expat population, Hong Kong trail sign fallout: 7 highlights
+- From the South Korean judge’s death to China debuting naval drone tech, here are highlights from SCMP’s recent reporting.
 - China Business
-- China’s move to cut EV payment cycles may push weaker carmakers out: S&P
-- China’s weaker EV makers may soon be running on fumes as tighter payment cycles squeeze cash flow and curb price wars.
+- Tesla China posts 36% sales rise, as local rivals nip at heels
+- April sales rose on a year-on-year basis but dropped from the previous month, indicating fiercer competition from domestic brands.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
 - 美伊终战有望油价急挫兼人币走强，航空股可再吼？
-- 深圳楼市升温 6天网签量年增6成
-- 特朗普称下周访华前 美伊或达协议
+- 离岸人币升穿6.8关 创逾3年高
+- 特：美伊可能达成协议 德黑兰称正审阅
 - 人气降温、跑输标指，巴郡古老智慧仍奏效
 - 指数环球商品外汇
 - 国金观点
@@ -220,9 +216,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数26626.28+412.50(+1.57%)
+- 恒生指数26355.70-270.58(-1.02%)
                     etnet.com.hk@copyright
-- 国企指数8919.48+118.73(+1.35%)
+- 国企指数8872.34-47.14(-0.53%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -240,16 +236,15 @@
 - Windows
 
 --- 跨站重点主题（多站出现=更重要）---
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 就业数据: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 加密货币: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 就业数据: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
+- 加密货币: 华尔街见闻 (简中)
+- 黄金/大宗: 华尔街见闻 (简中)
 - 美联储: 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
