@@ -3,7 +3,7 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 6h 47m | US fires on Iranian targets as Trump demands deal from Tehran | Trade court strikes down Trump's 10% blanket tariffs | What the latest ruling on Trump's tariffs could mean for businesses
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 6h 42m | US fires on Iranian targets as Trump demands deal from Tehran | Trade court strikes down Trump's 10% blanket tariffs | What the latest ruling on Trump's tariffs could mean for businesses
   - 其他: US stock futures rise with investors eyeing US and Iran | What will it take to free the 1,600 ships stuck in the Strait of Hormuz? | US yields at 5% tug traders between dip-buying greed and fear | Oil climbs on Gulf clashes as AI drives stocks to weekly rise | UK house prices fall by 0.1% in April, Halifax says
 
 - **Benzinga (EN)** ✓
@@ -20,8 +20,8 @@
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 美伊终战有望油价急挫兼人币走强，航空股可再吼？ | 离岸人币升穿6.8关 创逾3年高 | 特：美伊可能达成协议 德黑兰称正审阅 | 人气降温、跑输标指，巴郡古老智慧仍奏效 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数26355.70-270.58(-1.02%)
-                    etnet.com.hk@copyright | 国企指数8872.34-47.14(-0.53%)
+  - 其他: 恒生指数26343.97-282.31(-1.06%)
+                    etnet.com.hk@copyright | 国企指数8871.65-47.83(-0.54%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
