@@ -3,68 +3,55 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Sam Altman takes the stand in OpenAI trial | Musk's attorney grills Altman about lying in OpenAI trial | Markets raise odds of 2026 rate hike after hot inflation report
-  - 其他: US stock futures waver as Wall Street weighs US trade, Iran tensions | Household debt edges up to new high, but credit card balances dip | Court halts order declaring new Trump tariffs unlawful for now | Oil Steadies After Three-Day Gain With Iran Flows Under Strain | Samsung Elec regrets collapse of pay talks with union, says to continue dialogue
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 30m | Nasdaq eyes rebound with fresh PPI inflation data on deck | Why the Nasdaq 100's AI-stoked boom still looks tame | Silver is joining copper in the AI build-out trade
+  - 其他: Nvidia's Huang gets last-minute invite to Trump's China trip | Red-hot chip trade risks cooling — and stalling US stocks rally | Alibaba stock falls as AI spend puts pressure on profit | Alibaba stock falls as revenue misses, AI spending weighs on earnings | European stocks rise, oil prices steady, government bond yields still high
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: How Are You Supposed To Save And Invest For Decades Ahead When You Believe The World Is Collapsing? 'It Feels Absolutely Pointless' | Woman Says 'Absolutely Not' After Dad in His 90s Proposes She Bankroll 'Hoarder' House for Brother, So He Cuts Her Out of Will Entirely — 'It Stings' | Senator Buys Up Consumer Staples: Here's Two Stocks On The Shopping List | SpaceX Could Become A $30 Trillion Monster, Ron Baron Says — And He Wants $1 Billion More | Arteris Stock Surges After Q1 Earnings Exceed Expectations
+  - 其他: Why Is WORK Medical Technology Stock Falling On Wednesday? | Why Jim Cramer Says 'Pull The Trigger' On Chevron | AEVEX Lands $18.5 Million US Air Force Deal | How To Earn $500 A Month From Applied Materials Stock Ahead Of Q2 Earnings | Top 3 Utilities Stocks That May Rocket Higher in May
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 以军被曝已越过黎南部利塔尼河，向北推进 | 人民日报国纪平：中美关系回不到过去，但能够有一个更好的未来 | 韩国国防部长：正考虑分阶段参与霍尔木兹海峡任务 | 华尔街见闻早餐 | 2026年5月13日 | 周二（5月12日），美股AI软件先驱指数跌1.74%，报103.43点，整体呈现出长尾L形走势。
-成分股GTLB收跌9.98%，C3.ai跌7.28%跌幅第二大，甲骨文、Salesforce至少跌3.48%，MDB涨4.78%。
-6:45 | Element 25有限公司介绍Butcherbird扩建项目交付进度的最新情况：正与所选包销伙伴就 Butcherbird项目增产事宜进行持续讨论。
-Butcherbird扩建项目的包销伙伴名额将于2026年第二季度授予。
-目标是，在Bu | 周二（5月12日），美股存储芯片与硬件供应链指数跌4.10%，报186.72点，整体呈现出V形走势，北京时间00:43曾刷新日低至177.08点。
-成分股全线溃败，闪迪跌6.17%，西部数据跌5.25%，美光科技、Rambus、希捷科技至多 | 周二（5月12日），美股降息赢家指数跌0.71%，报87.48点，在美国CPI通胀数据发布后低开，随后逐步收复失地。
-“特朗普关税输家”指数跌1.05%，报98.75点。
-“特朗普金融指数”涨0.38%，报159.36点。
-散户抱团概念股指
-  - 其他: 提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。 | 伊朗首都德黑兰发生地震。（伊朗媒体） | 白宫经济顾问哈塞特：（在美国CPI通胀报告发布当天宣称）这是一场暂时性的能源冲击。
-美国总统特朗普相信，很快就能开放霍尔木兹海峡。
-我们正尽可能迅速地释放战略石油储备（SPR）。
-特朗普认为，我们应该推进汽油税的现代化。（福克斯商业新闻） | IIR Energy：墨西哥国家石油公司（PEMEX）因电路污染影响部分公用设施，于5月11日部分关闭了日产能32.5万桶的萨利纳克鲁斯（Salina Cruz）炼油厂。
-墨西哥国家石油公司萨利纳克鲁斯炼油厂的重整装置、异构化装置及四台加氢 | 周二（5月12日），彭博电动汽车价格回报指数跌1.77%，报4125.69点。
-亚太早盘微幅高开，随后持续下跌，北京时间12:00-22:00持续交投于4150.40点附近，之后又扩大跌幅。
+  - 头版/首屏: 吴泳铭：阿里AI跨越初期投入阶段，正式迈入商业化回报周期 | 阿里巴巴CFO：由于在商家留存和用户体验方面进行了大量投入，阿里巴巴中国电商集团的EBITA将会出现季度环比波动。 | 美国总统特朗普抵达北京 | 阿里电话会：阿里云外部商业化收入将在40%基础上继续加速 | 美国总统特朗普将抵达北京 | Nebius第一季度营收为3.99亿美元，市场预期为3.916亿美元。
+第一季度调整后EBITDA为1.295亿美元，市场预期为8720万美元。
+第一季度调整后净亏损为1.003亿美元，市场预期亏损1.76亿美元。 | 美国5月8日当周MBA抵押贷款申请活动指数周环比 1.7%，前值 -4.4%。 | 希腊总理：霍尔木兹海峡通航受阻扰动全球能源市场
+  - 其他: 贝索斯旗下的“蓝色起源”（Blue Origin）正考虑进行首次外部融资。（英国金融时报） | 百度智能云：已服务超1000家AI硬件公司，全球Top10手机厂商全部在列 | 特朗普启程访华 | 摩根大通计划重组投资银行高管团队。（英国金融时报） | 北京正阳门箭楼5月14日全天闭馆：配合重要活动
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: After nearly 9 years, Trump is landing in a totally changed China. Is he ready? | China’s AI ascent leaves Trump a stark choice: escalate or relax chip controls? | Exclusive | US first lady not travelling to China with Trump | Diplomacy | Trump heads to Beijing seeking stability in high-stakes Xi talks | Politics | Exclusive | Hong Kong to launch public consultation on 5-year blueprint ‘by early June’ | Handshakes of history: when Chinese and US leaders meet - an infographic
-  - 其他: China has strengthened its position since the US president’s last visit, analysts said, predicting more equitable results from any potential agreement. | Melania Trump skipping Beijing trip as US president heads to China alone for first state visit since 2017. | Trade, Taiwan and Middle East tensions loom as US and Chinese leaders meet for first state visit since Trump’s return. | Large-scale publicity campaign to promote consultation includes television advertisements, banners and other public announcements, sources say. | Health & Environment
+  - 头版/首屏: After nearly 9 years, Trump is landing in a totally changed China. Is he ready? | Donald Trump arrives in Beijing for historic talks with Chinese President Xi Jinping | How US missile shortages could strengthen China’s hand during Trump visit | What to expect from this week’s Trump 2.0 visit to Beijing | Diplomacy | ‘New historical juncture’: Beijing frames Trump visit as chance for stable ties | Military | Taiwan stages live-fire drill on mainland-facing island as Trump heads to Beijing
+  - 其他: Trump lands in Beijing on Wednesday night amid intense global interest in the Iran war, energy prices and China-US tech rivalry | Washington’s depleted stocks and supply chain weaknesses could hand Beijing an important bargaining chip in this week’s talks. | China’s top envoy to US and commentaries underscore what is at stake and strike a forward-looking tone despite the two sides’ differences. | Coming Xi-Trump summit has triggered renewed anxiety in Taiwan about becoming a bargaining chip in broader negotiations. | Hong Kong Economy
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 政策密集出台楼市回暖大行唱好，内房强势润地曾创新高 | ​原油价涨 内地4月CPI按年升1.2% | 英工党议员逼宫联署 传近启动选党魁 | 火箭发射密集大秀，“卖铲人”拓璞短板待解 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数26347.91-58.93(-0.22%)
-                    etnet.com.hk@copyright | 国企指数8882.37-1.83(-0.02%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 京东首季经调整少赚42%仍胜预期，系内3企公布回购计划 | 国内航线燃油附加费 上调30至50元 | 英工党议员逼宫联署 传近启动选党魁 | 通胀“火药桶”拷问沃什，油价“可控”幻觉濒终结 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数26388.44+40.53(+0.15%)
+                    etnet.com.hk@copyright | 国企指数8876.38-5.99(-0.07%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 16位商界領袖將隨特朗普訪華；報道稱SpaceX與谷歌洽談軌道數據中心合作；沃什即將接棒，主席確認投票最早於週三完成；劑泰科技、英派藥業上市，騰訊、阿里、NEBIUS將放榜 | MSCI中國指數調整：新納入中遠海能、長飛光纖等22只標的 | 伊朗掌控霍爾木茲海峽，伊拉克、巴基斯坦雙雙拿下能源通航協議 | 投資者在擔心什麼？美股芯片板塊集體回調，市場靜待英偉達業績定方向 | 徹夜談判宣告失敗，三星電子面臨「5月21日開始的18天罷工」 | 4月CPI意味着什麼？「新聯儲局通訊社」：減息不再是2026年故事，沃什麻煩了 | Nextpower 26財年營收35.6億美元創新高，同比增長20%，訂單儲備規模攀升至52.5億美元 | 美參議院確認沃什出任聯儲局理事，聯儲局主席確認投票最早將於週三完成
-  - 其他: 美股屢創新高消費股卻「掉隊」，分析師警告：可選消費板塊正成爲市場最大拖累 | 黃仁勳2026財年總薪酬3630萬美元，縮水27%，英偉達股票獎勵大減 | MSCI中國指數調整：新納入22只標的 | 成交額TOP20 | 英偉達逆勢收漲再創新高；芯片股回調，閃迪、英特爾跌超6%，美光跌近4%；高通收跌11%，創6年來最大單日跌幅 | Anthropic推出逾十款法律AI工具，覆蓋合同審查到司法備考
+  - 头版/首屏: 阿里巴巴第四財季營收2433.80億元，同比增長3%，市場預期爲2465.07億元；經調整淨利潤0.86億元 | AI轉型加速，騰訊Q1營收同比增9%，經調整淨利潤增11%，資本開支達370億元 | 發生了什麼？港股「大模型雙雄」尾盤集體異動，兩大利好支撐 | 美國總統特朗普抵達北京 | 港股打新又見萬倍申購！傳翼菲科技孖展超購達1.4萬倍，或成「歷史超購王」 | 美國總統特朗普將抵達北京 | 北水拋售港股近68億港元，淨買入泡泡瑪特近5億港元，淨賣出阿里巴巴超14億港元，減倉小米集團近6億港元 | 騰訊控股Q1營收1964.58億元，同比增長9%；經調整淨利潤679.05億元，同比增長11%
+  - 其他: 收市速睇 | 三大指數漲跌不一，科指漲0.46%；存儲概念持續強勢，瀾起科技漲超21%創新高；AI應用概念午後發力，智譜飆升近37%，MINIMAX漲超18%；京東績後漲超8% | 什麼信號？英偉達還未「交卷」，富國銀行高呼股價還能漲43%！ | 中美在韓國舉行經貿磋商 | MSCI中國季調：光通信「霸屏」，舊經濟與消費電子退潮 | HBM"雙雄時代"不遠了？瑞銀：三星市佔率明年有望追平SK海力士
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中) (4 站)
 - **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **加密货币** — 出现于: 华尔街见闻 (简中) (1 站)
-- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 经济通 (繁中) (3 站)
+- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **美国关税（15%等）** — 出现于: 经济通 (繁中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 伊朗/中东局势（4 站）
-- 油价/能源（4 站）
 - 中国/欧盟（4 站）
-- 关税/贸易政策（3 站）
-- 美联储/利率（2 站）
-- 加密货币（1 站）
-- 黄金/大宗商品（1 站）
+- 油价/能源（3 站）
+- 伊朗/中东局势（2 站）
+- 黄金/大宗商品（2 站）
+- 关税/贸易政策（1 站）
 - 中国政策（1 站）
+- 加密货币（0 站）
 - 就业/经济数据（0 站）
+- 美联储/利率（0 站）
