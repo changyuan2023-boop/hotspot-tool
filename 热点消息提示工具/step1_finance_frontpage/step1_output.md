@@ -3,27 +3,36 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 30m | Tech rally fades as Wall Street braces for inflation data | eBay rejects GameStop's bold $56 billion takeover bid | Market euphoria feels like 1999, but there's one crucial difference
-  - 其他: Wait is on for CPI to reveal Iran war's impact on prices | Microsoft CEO says he never got 'clarity' on Altman's OpenAI firing | Tesla's robotaxi rollout features Texas-sized wait times | Australia's tax reforms expected to knock some heat out of housing market | India inflation remains modest in April at 3.48% but energy risks grow
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Sam Altman takes the stand in OpenAI trial | Musk's attorney grills Altman about lying in OpenAI trial | Markets raise odds of 2026 rate hike after hot inflation report
+  - 其他: US stock futures waver as Wall Street weighs US trade, Iran tensions | Household debt edges up to new high, but credit card balances dip | Court halts order declaring new Trump tariffs unlawful for now | Oil Steadies After Three-Day Gain With Iran Flows Under Strain | Samsung Elec regrets collapse of pay talks with union, says to continue dialogue
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: What's Going On With IREN Stock Tuesday? | What's Going On With Micron Technology Stock Tuesday? | Wall Street's Most Accurate Analysts Give Their Take On 3 Defensive Stocks With Over 7% Dividend Yields | Nokia Says Its New AI Can Fix Broadband Problems Before Customers Notice | Saylor Calls Bitcoin Sale Fears A 'Big Nothing Burger'—So Why Is Everyone Panicking?
+  - 其他: How Are You Supposed To Save And Invest For Decades Ahead When You Believe The World Is Collapsing? 'It Feels Absolutely Pointless' | Woman Says 'Absolutely Not' After Dad in His 90s Proposes She Bankroll 'Hoarder' House for Brother, So He Cuts Her Out of Will Entirely — 'It Stings' | Senator Buys Up Consumer Staples: Here's Two Stocks On The Shopping List | SpaceX Could Become A $30 Trillion Monster, Ron Baron Says — And He Wants $1 Billion More | Arteris Stock Surges After Q1 Earnings Exceed Expectations
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 拼多多千亿 “新拼姆” 计划：百人团队、大牌工厂、Temu 变重 | 据网络平台数据，截至5月12日，2026年度电影总票房（含预售）突破140亿元！（央视） | 腾讯音乐娱乐集团2026Q1稳健增长：总收入79.0亿元，调整后净利润23.3亿元 | 安徳玛第四财季净营收11.7亿美元，同比下降0.8%，预估11.7亿美元。
-第四财季每股亏损0.10美元，上年同期每股亏损0.16美元。
-第四财季经营亏损3,370万美元，上年同期亏损7,210万美元，预估亏损1,740万美元。
-安徳玛预计 | 百胜中国：达成下半年回购5.12亿美元股票协议。 | 市场监管总局附条件批准腾讯收购喜马拉雅股权案，喜马拉雅回应 | 市场监管总局附条件批准腾讯收购喜马拉雅股权案，腾讯回应：将确保交易依法合规推进 | 亚马逊：推出数千种杂货和日用品30分钟送达服务。
-亚马逊计划在年底前将美国客户数量扩大至数千万。
-  - 其他: 俄罗斯人权专员：俄已从乌克兰接回3724名军人 | 中英战略科技工作组第一次会议成功举行 | 美国计划缩减驻德兵力，波兰积极争取更多美军部署 | 月壤纤维样品进入中国空间站 将接受舱外环境长期验证 | 云南锗业：公司注意到近期市场对光通信概念关注度较高。截至目前，公司主要业务为锗系列产品的精深加工及研究开发。公司生产的化合物半导体材料磷化铟晶片可以用于生产光模块中的激光器、探测器芯片。2025年度公司营业收入10.66亿元，其中化合物半导
+  - 头版/首屏: 以军被曝已越过黎南部利塔尼河，向北推进 | 人民日报国纪平：中美关系回不到过去，但能够有一个更好的未来 | 韩国国防部长：正考虑分阶段参与霍尔木兹海峡任务 | 华尔街见闻早餐 | 2026年5月13日 | 周二（5月12日），美股AI软件先驱指数跌1.74%，报103.43点，整体呈现出长尾L形走势。
+成分股GTLB收跌9.98%，C3.ai跌7.28%跌幅第二大，甲骨文、Salesforce至少跌3.48%，MDB涨4.78%。
+6:45 | Element 25有限公司介绍Butcherbird扩建项目交付进度的最新情况：正与所选包销伙伴就 Butcherbird项目增产事宜进行持续讨论。
+Butcherbird扩建项目的包销伙伴名额将于2026年第二季度授予。
+目标是，在Bu | 周二（5月12日），美股存储芯片与硬件供应链指数跌4.10%，报186.72点，整体呈现出V形走势，北京时间00:43曾刷新日低至177.08点。
+成分股全线溃败，闪迪跌6.17%，西部数据跌5.25%，美光科技、Rambus、希捷科技至多 | 周二（5月12日），美股降息赢家指数跌0.71%，报87.48点，在美国CPI通胀数据发布后低开，随后逐步收复失地。
+“特朗普关税输家”指数跌1.05%，报98.75点。
+“特朗普金融指数”涨0.38%，报159.36点。
+散户抱团概念股指
+  - 其他: 提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。 | 伊朗首都德黑兰发生地震。（伊朗媒体） | 白宫经济顾问哈塞特：（在美国CPI通胀报告发布当天宣称）这是一场暂时性的能源冲击。
+美国总统特朗普相信，很快就能开放霍尔木兹海峡。
+我们正尽可能迅速地释放战略石油储备（SPR）。
+特朗普认为，我们应该推进汽油税的现代化。（福克斯商业新闻） | IIR Energy：墨西哥国家石油公司（PEMEX）因电路污染影响部分公用设施，于5月11日部分关闭了日产能32.5万桶的萨利纳克鲁斯（Salina Cruz）炼油厂。
+墨西哥国家石油公司萨利纳克鲁斯炼油厂的重整装置、异构化装置及四台加氢 | 周二（5月12日），彭博电动汽车价格回报指数跌1.77%，报4125.69点。
+亚太早盘微幅高开，随后持续下跌，北京时间12:00-22:00持续交投于4150.40点附近，之后又扩大跌幅。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: German firms in China more optimistic despite Iran war, trade headwinds: survey | China-EU investment pact belongs in ‘deep freezer’: outgoing trade chief | Trump’s China visit opens door to ‘casual’ networking between business chiefs | Money News | Emerging markets rebound on inflows as Xi-Trump talks eyed for momentum | Transport | Uber Hong Kong warns proposed permit cap risks triggering 70% rise in fares | China’s ‘dark factory’ more than doubles production efficiency for J-20 jets
-  - 其他: Expectations for growth, profits and investment are all up, despite geopolitical turbulence. | Sources say Beijing’s exclusive Capital Club has been reserved for networking opportunities in a ‘less formal’ setting during state visit. | Mainland China, Hong Kong stock markets may benefit from Xi-Trump meeting as renewed interest in AI shows investors keen to re-engage, analysts say. | Platform argues cap of up to 15,000 fails to account for growing demand and could result in significant service gap. | Diplomacy
+  - 头版/首屏: After nearly 9 years, Trump is landing in a totally changed China. Is he ready? | China’s AI ascent leaves Trump a stark choice: escalate or relax chip controls? | Exclusive | US first lady not travelling to China with Trump | Diplomacy | Trump heads to Beijing seeking stability in high-stakes Xi talks | Politics | Exclusive | Hong Kong to launch public consultation on 5-year blueprint ‘by early June’ | Handshakes of history: when Chinese and US leaders meet - an infographic
+  - 其他: China has strengthened its position since the US president’s last visit, analysts said, predicting more equitable results from any potential agreement. | Melania Trump skipping Beijing trip as US president heads to China alone for first state visit since 2017. | Trade, Taiwan and Middle East tensions loom as US and Chinese leaders meet for first state visit since Trump’s return. | Large-scale publicity campaign to promote consultation includes television advertisements, banners and other public announcements, sources say. | Health & Environment
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 传拟分拆可灵AI上市，快手获券商唱好股价曾飙一成 | ​原油价涨 内地4月CPI按年升1.2% | 特朗普：伊朗停火协议 岌岌可危如吊盐水 | 火箭发射密集大秀，“卖铲人”拓璞短板待解 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 政策密集出台楼市回暖大行唱好，内房强势润地曾创新高 | ​原油价涨 内地4月CPI按年升1.2% | 英工党议员逼宫联署 传近启动选党魁 | 火箭发射密集大秀，“卖铲人”拓璞短板待解 | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数26347.91-58.93(-0.22%)
                     etnet.com.hk@copyright | 国企指数8882.37-1.83(-0.02%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -32,29 +41,30 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 今晚8點半美國CPI揭曉！原油、AI芯片、房租「三連擊」，數據恐「熱辣滾燙」 | 京東Q1營收3156.94億元，經調整淨利潤73.79億元，均高於市場預期 | 英偉達4天漲出一個「甲骨文」！分析師：GPU需求絲毫未見放緩 | 聯儲局新掌門的兩難：減息通脹狂飆，不降則面臨特朗普起訴 | 拼多多千億 「新拼姆」 計劃：百人團隊、大牌工廠、Temu 變重 | 從海力士獎金、三星罷工到全民紅利，飆升的韓股嚇懵了，這是AI時代的預演嗎？ | 滯脹幽靈重臨：1970年代的資產劇本，今天哪些仍然成立？ | 泡泡瑪特Q1收入同比增長75％至80％，歐美市場增長放緩，中國線上渠道增速達150%至155%
-  - 其他: 北水淨買入瀾起科技近2億港元，淨賣出華虹半導體超6億港元，減倉騰訊控股超5億港元 | 市場監管總局附條件批准騰訊收購喜馬拉雅股權案 | 暗盤情報 | 「港股合成致死腫瘤藥第一股」英派藥業現漲近43%，一手賺1720港元 | 泡泡瑪特：2026年第一季度整體收益同比增長75%-80% | 特朗普政府爲英特爾拉訂單？有爆料稱特斯拉AI6芯片或轉移至英特爾
+  - 头版/首屏: 富途早報 | 16位商界領袖將隨特朗普訪華；報道稱SpaceX與谷歌洽談軌道數據中心合作；沃什即將接棒，主席確認投票最早於週三完成；劑泰科技、英派藥業上市，騰訊、阿里、NEBIUS將放榜 | MSCI中國指數調整：新納入中遠海能、長飛光纖等22只標的 | 伊朗掌控霍爾木茲海峽，伊拉克、巴基斯坦雙雙拿下能源通航協議 | 投資者在擔心什麼？美股芯片板塊集體回調，市場靜待英偉達業績定方向 | 徹夜談判宣告失敗，三星電子面臨「5月21日開始的18天罷工」 | 4月CPI意味着什麼？「新聯儲局通訊社」：減息不再是2026年故事，沃什麻煩了 | Nextpower 26財年營收35.6億美元創新高，同比增長20%，訂單儲備規模攀升至52.5億美元 | 美參議院確認沃什出任聯儲局理事，聯儲局主席確認投票最早將於週三完成
+  - 其他: 美股屢創新高消費股卻「掉隊」，分析師警告：可選消費板塊正成爲市場最大拖累 | 黃仁勳2026財年總薪酬3630萬美元，縮水27%，英偉達股票獎勵大減 | MSCI中國指數調整：新納入22只標的 | 成交額TOP20 | 英偉達逆勢收漲再創新高；芯片股回調，閃迪、英特爾跌超6%，美光跌近4%；高通收跌11%，創6年來最大單日跌幅 | Anthropic推出逾十款法律AI工具，覆蓋合同審查到司法備考
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (6 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中) (4 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
-- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
-- **加密货币** — 出现于: Benzinga (EN) (1 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中) (4 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **加密货币** — 出现于: 华尔街见闻 (简中) (1 站)
 - **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 科技股/个股（6 站）
-- 伊朗/中东局势（5 站）
+- 科技股/个股（5 站）
+- 伊朗/中东局势（4 站）
 - 油价/能源（4 站）
-- 中国/欧盟（2 站）
-- 关税/贸易政策（1 站）
+- 中国/欧盟（4 站）
+- 关税/贸易政策（3 站）
+- 美联储/利率（2 站）
 - 加密货币（1 站）
 - 黄金/大宗商品（1 站）
 - 中国政策（1 站）
 - 就业/经济数据（0 站）
-- 美联储/利率（0 站）
