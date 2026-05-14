@@ -3,25 +3,23 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 30m | Nasdaq eyes rebound with fresh PPI inflation data on deck | Why the Nasdaq 100's AI-stoked boom still looks tame | Silver is joining copper in the AI build-out trade
-  - 其他: Nvidia's Huang gets last-minute invite to Trump's China trip | Red-hot chip trade risks cooling — and stalling US stocks rally | Alibaba stock falls as AI spend puts pressure on profit | Alibaba stock falls as revenue misses, AI spending weighs on earnings | European stocks rise, oil prices steady, government bond yields still high
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Senate confirms Warsh as next Federal Reserve chair | Nvidia chips, Boeing jets: Stock traders eye Trump in China | Cisco jumps on upbeat forecast, restructuring plan
+  - 其他: US stock futures edge up ahead of Trump-Xi meeting | US producer prices rose far more than expected in April | Apple stock closes at record high | Australian court finds grocery chain Coles misled shoppers in discount lawsuit | Oil Steadies Ahead of Trump-Xi Talks as Iran War Tensions Simmer
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Why Is WORK Medical Technology Stock Falling On Wednesday? | Why Jim Cramer Says 'Pull The Trigger' On Chevron | AEVEX Lands $18.5 Million US Air Force Deal | How To Earn $500 A Month From Applied Materials Stock Ahead Of Q2 Earnings | Top 3 Utilities Stocks That May Rocket Higher in May
+  - 其他: Hedge Fund Boss Boaz Weinstein's Saba Capital Takes Control Of U.K. Investment Fund After High-Profile SpaceX Battle | Kevin Warsh Confirmed As Next Federal Reserve Chair | HubSpot Founder Buys Stock Dip, Brushes Off AI Concerns: 'Don't Think Completely Humanless Is A Good Idea' | Enovix Stock Drops Desite Beating Q1 Estimates: Details | Leslie's Stock Is Making A Splash After The Close: Here's Why
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 吴泳铭：阿里AI跨越初期投入阶段，正式迈入商业化回报周期 | 阿里巴巴CFO：由于在商家留存和用户体验方面进行了大量投入，阿里巴巴中国电商集团的EBITA将会出现季度环比波动。 | 美国总统特朗普抵达北京 | 阿里电话会：阿里云外部商业化收入将在40%基础上继续加速 | 美国总统特朗普将抵达北京 | Nebius第一季度营收为3.99亿美元，市场预期为3.916亿美元。
-第一季度调整后EBITDA为1.295亿美元，市场预期为8720万美元。
-第一季度调整后净亏损为1.003亿美元，市场预期亏损1.76亿美元。 | 美国5月8日当周MBA抵押贷款申请活动指数周环比 1.7%，前值 -4.4%。 | 希腊总理：霍尔木兹海峡通航受阻扰动全球能源市场
-  - 其他: 贝索斯旗下的“蓝色起源”（Blue Origin）正考虑进行首次外部融资。（英国金融时报） | 百度智能云：已服务超1000家AI硬件公司，全球Top10手机厂商全部在列 | 特朗普启程访华 | 摩根大通计划重组投资银行高管团队。（英国金融时报） | 北京正阳门箭楼5月14日全天闭馆：配合重要活动
+  - 头版/首屏: 花旗集团今年将把亚洲主要经纪业务人员增加10%。 | 思科美股盘后大涨20%，此前发布财报。 | 阿里巴巴2026财年四季度业绩报告与电话会议要点回顾：AI相关产品收入连续11个季度三位数增长 | 腾讯一季度业绩报告和分析师电话会要点回顾 | 华尔街见闻早餐 | 2026年5月14日 | 纳斯达克100指数期货日内涨幅扩大至0.5%。 | 纳斯达克100股指期货涨幅扩大至0.4%。 | 日本银行业、政府部门最快将于两周内Anthropic模型Mythos。（读卖新闻）
+  - 其他: 美元指数在美国PPI数据发布日涨超0.2% | 委内瑞拉启动主权债及PDVSA债务重组，分析师预计负债超1500亿美元 | Consensys已经将其潜在的IPO计划搁置至秋季。（Coindesk） | 美国联邦法官：马斯克与SEC关于推特和解案存在“危险信号” | 巴基斯坦财长来华，出席首只熊猫债券发行仪式
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: After nearly 9 years, Trump is landing in a totally changed China. Is he ready? | Donald Trump arrives in Beijing for historic talks with Chinese President Xi Jinping | How US missile shortages could strengthen China’s hand during Trump visit | What to expect from this week’s Trump 2.0 visit to Beijing | Diplomacy | ‘New historical juncture’: Beijing frames Trump visit as chance for stable ties | Military | Taiwan stages live-fire drill on mainland-facing island as Trump heads to Beijing
-  - 其他: Trump lands in Beijing on Wednesday night amid intense global interest in the Iran war, energy prices and China-US tech rivalry | Washington’s depleted stocks and supply chain weaknesses could hand Beijing an important bargaining chip in this week’s talks. | China’s top envoy to US and commentaries underscore what is at stake and strike a forward-looking tone despite the two sides’ differences. | Coming Xi-Trump summit has triggered renewed anxiety in Taiwan about becoming a bargaining chip in broader negotiations. | Hong Kong Economy
+  - 头版/首屏: ‘Transactional’ but pivotal: how Xi-Trump talks could redefine fault lines | What to expect from this week’s Trump 2.0 visit to Beijing | Diplomacy | Trump arrives in China with tech titans and top aides for high-stakes Xi summit | US’ Rubio calls on China to play a more ‘active’ role in ending Iran war | Law and Crime | Hong Kong tech crimes are dropping. So why is hacking becoming more lucrative? | Donald Trump’s red-carpet welcome in Beijing before Xi summit – as it happened
+  - 其他: Chinese and US leaders are likely to focus on stability and achievable outcomes rather than breakthroughs when they meet in Beijing. | The US president is greeted with elaborate ceremony as he arrives in Beijing for his first trip to China since 2017. | The Middle East crisis will come into sharp focus during the Xi-Trump summit as Marco Rubio says it threatens to ‘destabilise Asia’. | Senior police officer says hacking and ransomware cases can ‘cause serious impact on organisations affected’. | Netherlands opposes US proposal to further bar chip giant ASML from China market
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 京东首季经调整少赚42%仍胜预期，系内3企公布回购计划 | 国内航线燃油附加费 上调30至50元 | 英工党议员逼宫联署 传近启动选党魁 | 通胀“火药桶”拷问沃什，油价“可控”幻觉濒终结 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 内地汽车经销商库存大增，汽车股受压吉利跌半成 | 国内航线燃油附加费 上调30至50元 | 伊朗扩10倍范围 严控霍峡能源运输 | 通胀“火药桶”拷问沃什，油价“可控”幻觉濒终结 | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数26388.44+40.53(+0.15%)
                     etnet.com.hk@copyright | 国企指数8876.38-5.99(-0.07%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -30,28 +28,31 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 阿里巴巴第四財季營收2433.80億元，同比增長3%，市場預期爲2465.07億元；經調整淨利潤0.86億元 | AI轉型加速，騰訊Q1營收同比增9%，經調整淨利潤增11%，資本開支達370億元 | 發生了什麼？港股「大模型雙雄」尾盤集體異動，兩大利好支撐 | 美國總統特朗普抵達北京 | 港股打新又見萬倍申購！傳翼菲科技孖展超購達1.4萬倍，或成「歷史超購王」 | 美國總統特朗普將抵達北京 | 北水拋售港股近68億港元，淨買入泡泡瑪特近5億港元，淨賣出阿里巴巴超14億港元，減倉小米集團近6億港元 | 騰訊控股Q1營收1964.58億元，同比增長9%；經調整淨利潤679.05億元，同比增長11%
-  - 其他: 收市速睇 | 三大指數漲跌不一，科指漲0.46%；存儲概念持續強勢，瀾起科技漲超21%創新高；AI應用概念午後發力，智譜飆升近37%，MINIMAX漲超18%；京東績後漲超8% | 什麼信號？英偉達還未「交卷」，富國銀行高呼股價還能漲43%！ | 中美在韓國舉行經貿磋商 | MSCI中國季調：光通信「霸屏」，舊經濟與消費電子退潮 | HBM"雙雄時代"不遠了？瑞銀：三星市佔率明年有望追平SK海力士
+  - 头版/首屏: 富途早報 | 美國總統特朗普已抵達北京；美參議院批准沃什出任聯儲局主席；美國4月PPI同比上漲6%，加息押注升溫；中芯國際、華虹半導體將放榜，AI芯片製造商Cerebras今夜上市 | 思科本季和全年指引全面超預期、AI訂單大幅上調，擬聚焦AI重組，盤後兩位數高漲 | 聯儲局新主席沃什首秀懸念：他會否放棄利率預測？ | 一圖前瞻 | 中芯國際2026Q1業績前瞻：淡季營收穩增，指引成關鍵 | 「全球資產定價之錨」蓄勢大殺四方? 時隔近20年之久，30年期美債拍賣收益率重現5% | 騰訊電話會：混元3.0 Token調用量激增10倍，資本開支加碼，下半年國產芯片將逐月到位 | 成交額TOP20 | 英偉達漲超2%再破頂，黃仁勳壓哨訪華；美光漲近5%，市值破9000億美元；谷歌漲4%，Gemini將嵌入安卓生態；NEBIUS績後大漲16% | 美股收盤 | 科技巨頭力撐標普、納指新高，芯片股強勢反彈；中國金龍指數漲近4%，阿里績後勁升8%，世紀互聯大漲25%；PPI創3年來最高水平
+  - 其他: 華爾街瘋搶，報道稱AI芯片Cerebras IPO定價一再被突破，估值將逼近490億美元 | 長債拋售警報響：30年期美債標售得標利率自07年金融危機以來首次升破5.0% | 史上最微弱優勢「過關」：美國參議院投票確認沃什擔任聯儲局主席 | 思科2026財年Q3營收158億美元，調整後EPS1.06美元，上調全年指引，訂單預期全年90億美元 | 回應Anthropic旗下Mythos！Mistral爲歐洲銀行開發網絡安全AI模型
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 经济通 (繁中) (3 站)
-- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **美国关税（15%等）** — 出现于: 经济通 (繁中) (1 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中) (4 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中), 经济通 (繁中) (2 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **加密货币** — 出现于: 华尔街见闻 (简中) (1 站)
+- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 中国/欧盟（4 站）
-- 油价/能源（3 站）
-- 伊朗/中东局势（2 站）
-- 黄金/大宗商品（2 站）
-- 关税/贸易政策（1 站）
+- 伊朗/中东局势（4 站）
+- 油价/能源（4 站）
+- 美联储/利率（3 站）
+- 中国/欧盟（3 站）
+- 关税/贸易政策（2 站）
+- 就业/经济数据（2 站）
+- 加密货币（1 站）
+- 黄金/大宗商品（1 站）
 - 中国政策（1 站）
-- 加密货币（0 站）
-- 就业/经济数据（0 站）
-- 美联储/利率（0 站）
