@@ -3,27 +3,23 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 30m | US stock futures climb as Trump-Xi summit kicks off | S&P 500's earnings boom faces a bond market warning | US clears Nvidia H200 chip sales to 10 China buyers
-  - 其他: Xi tells US CEOs that China will open up more | Nvidia partner Foxconn profit beats with 19% jump on AI demand | GameStop CEO hints he'll take eBay bid to its shareholders | Dollar lifted by growing odds of Fed rate hikes; Trump-Xi summit under way | US wireless carriers to launch joint venture to address rural 'dead zones'
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Cerebras stock surges nearly 70% in biggest IPO of 2026 | Miran to step down from Fed Board, paving way for Warsh as Fed chair | US stock futures trade flat as Trump-Xi summit nears end
+  - 其他: How Cerebras could upend the AI chip trade | Cisco stock jumps on booming AI orders, job cuts | Coinbase, other stocks surge as major crypto bill advances | US expects agriculture deal worth 'double-digit billions' after Trump-Xi summit, says Greer | Fed's Barr says wrong to lower liquidity rules to shrink Fed holdings
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: What's Going On With NVIDIA Stock Thursday? | Ripple CEO, Industry Experts Agree: Watch These 3 Catalysts For Crypto Adoption | Credicorp Likely To Report Higher Q1 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call | What's Going On With Robo.ai Stock Thursday? | Why Is Intel Stock Falling Thursday?
+  - 其他: 'You've Lost Your Butt On It,' Dave Ramsey Says On Crypto — Urges Debt-Free Couple With $80K Cash To Buy Real Estate And Pay Cash | Thomas Peterffy, The $101 Billion Man You've Never Heard Of, Is About To Pass Bill Gates | Nu Holdings Stock Slammed After Q1 Results: Here's Why | Gemini Space Station Stock Soars After The Close: Here's Why | York Space Systems Stock Takes Off: Here's Why Space Stock Is Trading Higher Thursday
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 习近平为美国总统特朗普举行欢迎宴会 | 黄仁勋：人工智能已为中国带来新的机遇。（新华社） | 美股光通信概念股poet technologies盘前涨幅扩大至24%，公司收到来自Lumilens的5000万美元采购订单。 | 加拿大鹅第四财季营收为4.533亿加元，预估为4.097亿加元。
-第四财季非国际财务报告准则调整后息税前利润为6490万加元，预估为6100万加元。
-第四财季非国际财务报告准则调整后每股收益为0.37加元，预估为0.39加元。
-加拿大鹅美股 | 美国财长贝森特：Anthropic、OpenAI、谷歌的AI模型能力正不断增强。 | 李强会见美国工商界代表 | 美国财长贝森特：注意到原油价格贴水现象，并预计油价将会回落。
-核心通胀和能源通胀将回落。 | 特朗普乘车抵达欢迎宴会现场。（央视）
-  - 其他: 习近平：共同书写时代答卷 | 习近平同美国总统特朗普举行会谈 | 特朗普在习近平陪同下检阅中国人民解放军仪仗队。（央视新闻） | 习近平为美国总统特朗普举行欢迎仪式 | 习近平将同美国总统特朗普举行会谈
+  - 头版/首屏: Anthropic已就一轮300亿美元融资达成条款协议，该轮融资将使公司估值达到9000亿美元，交易预计最快将于本月完成。（英国金融时报） | 苹果深夜官宣降价，iPhone17Pro进入6000元档 | 印尼阿达尼集团创始人高塔姆·阿达尼同意支付600万美元以达成美国证券交易委员会（SEC）欺诈案的和解。 | 美联储理事Barr：期待沃什进入美联储并做出积极贡献。 | 美联储理事Barr：伊朗冲突让通胀令人担忧。 | 华尔街见闻早餐 | 2026年5月15日 | 美联储理事Barr称缩表是“错误目标”，与候任主席沃什主张背道而驰 | 印度航空年度亏损突破20亿美元、创历史新高
+  - 其他: Papa John’s美股盘后涨11%。 | 库什纳旗下Thrive Capital对Shopify投资1亿美元。 | 报道：阿波罗为旗下MFIC寻找买家 | 报道：贝莱德已将更多HPS高管纳入TCP的投资委员会 | KKR高管们已经深入探讨公开交易基金FSK持续存在的问题
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Thucydides Trap, personal touches – all you need to know from Xi-Trump summit so far | Trump will say more on the Taiwan issue ‘in the coming days’, Bessent says | Developing | Boeing nears ‘large’ China orders as Trump and Xi forge new trade board: Bessent | Trump’s trillion-dollar business delegation arrives in China, eager for deals | Big Tech | Alibaba, Tencent present a tale of two strategies for AI spending | Science | Looming US rocket debris crash unlikely to hit Chinese moon landers: experts
-  - 其他: Presidents toast ‘most important bilateral relationship in the world’ at state dinner in Beijing | Washington and Beijing will discuss the board to manage commercial ties. | Alibaba will focus its AI capex on cloud services, while Tencent is prioritising internal demand with its spending. | Expected lunar impact however said to underscore critical lack of debris management rules as US, Chinese and private moon activity ramps up. | Health & Environment
+  - 头版/首屏: How duelling US-China legal regimes are leaving firms in ‘impossible’ positions | Xi-Trump talks live: leaders set to meet again over tea and a working lunch | Xi and Trump set sights on stability for China and the US – with a note of caution | China stresses ‘equality, respect’ as Trump heads to Beijing for Xi summit | China | Trump says Xi offered help on Iran as China seeks to keep Hormuz open | Diplomacy | China restores US beef trade amid Trump-Xi summit, alarming Brazilian exporters
+  - 其他: Key bilateral and global issues on the table during final day of US president’s trip to Beijing | A day of positive messaging and personal rapport includes an invitation to visit the White House in September. | Chinese leader’s overture underscores how global issues are increasingly shaping US-China diplomacy and trade talks. | Beijing’s renewal of import licences for US beef plants comes as Brazil nears its annual quota cap and scrambles for alternative markets. | Hong Kong Economy
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 百度召开AI开发者大会发布多项重要成果，股价曾飙逾7% | 沪指创近11年新高 创指飙2.6%破顶 | 伊朗扩10倍范围 严控霍峡能源运输 | AI变现角力：阿里“造厂”VS腾讯“守城” | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 料AI收入占比将突破五成，阿里获券商升目标股价曾飙8% | 沪指创近11年新高 创指飙2.6%破顶 | 华府评霍峡原油流量 首季减3成 | AI变现角力：阿里“造厂”VS腾讯“守城” | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数26389.04+0.60(+0.00%)
                     etnet.com.hk@copyright | 国企指数8858.63-17.75(-0.20%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -32,29 +28,31 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 習近平爲美國總統特朗普舉行歡迎宴會 | 美股前瞻 | 三大指數棘突上漲，道指漲0.7%；POET獲批光引擎訂單，盤前漲超25%；美批准英偉達H200對華銷售，英偉達漲超2% | 谷歌I/O大會前瞻：Gemini 4.0可能要來了，但這還不是最重要的 | 中芯國際Q1營收25.05億美元，環比增長0.7%，Q2收入預增14%-16% | 馬斯克隨同訪華，FSD能否趁機落地？ | 李強會見美國工商界代表 | 中芯國際：Q1銷售收入25.05億美元，同比增長11.5%，毛利率爲20.1% | 北水拋售港股超97億港元，淨買入騰訊控股超4億港元，淨賣出阿里巴巴近38億港元，減倉小米集團超8億港元
-  - 其他: 「鮑威爾時代」即將落幕，任期八年裏，他如何帶領聯儲局扛過疫情、大通脹、銀行業爆雷等危機？ | 華虹半導體Q1營收6.6億美元，歸母淨利暴增513%，Q2收入指引6.9億-7億美元 | 央行：前四個月人民幣貸款增加8.59萬億元 | 央行：4月末廣義貨幣（M2）餘額353.04萬億元 同比增長8.6% | 央行：前四個月社會融資規模增量累計爲15.45萬億元 比上年同期少8930億元
+  - 头版/首屏: 富途早報 | 沃什即將「掌舵」聯儲局，「鴿派」米蘭遞交辭呈；《CLARITY法案》獲參議院銀行委員會通過；SpaceX IPO招股書最早下週公佈；零跑汽車即將放榜，翼菲科技今日暗盤 | 老黃這趟中國沒白來！英偉達七天累計漲20%，市值逼近6萬億美元大關 | Cerebras：深度綁定OpenAI，以「Fast Tokens」重塑AI芯片市場預期 | SpaceX招股書據悉最快下週披露，計劃6月初啓動全球路演 | 谷歌I/O大會前瞻：Gemini 4.0可能要來了，但這還不是最重要的 | 六次會議連投六次反對票，聯儲局「最強異議理事」米蘭宣佈辭職 | 美參議院銀行委員會通過《清晰法案》：CFTC或成加密主要監管方，穩定幣獎勵條款達成妥協 | 白銀價格回歸冷靜？瑞銀：白銀將遭遇美元、關稅與供需缺口收窄三重夾擊
+  - 其他: 買英偉達、賣微軟：特朗普最新財務披露曝光，單季交易額最高達7.5億美元 | 成交額TOP20 | 英偉達續漲4%，連漲7日劍指6萬億美元大關；Cerebras上市首日飆升68%；芯片股承壓，美光、閃迪、英特爾跌約4%；思科績後大漲13% | 美國三大移動運營商組建「衛星直連」合資公司 擴大D2D通訊覆蓋 | 馬斯克承認落後，xAI推出首款編程智能體，劍指行業頂流Claude Code | 三個月交易超7億美元？特朗普「炒股賬本」曝光，硅谷和華爾街巨頭一個不少
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (6 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), 经济通 (繁中) (2 站)
-- **油价/能源/霍尔木兹** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
+- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
+- **就业/经济数据** — 出现于: Benzinga (EN) (1 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（6 站）
-- 中国/欧盟（4 站）
-- 关税/贸易政策（3 站）
-- 伊朗/中东局势（2 站）
-- 油价/能源（2 站）
-- 加密货币（2 站）
-- 中国政策（2 站）
-- 美联储/利率（1 站）
-- 就业/经济数据（0 站）
-- 黄金/大宗商品（0 站）
+- 油价/能源（4 站）
+- 伊朗/中东局势（3 站）
+- 加密货币（3 站）
+- 美联储/利率（3 站）
+- 中国/欧盟（3 站）
+- 黄金/大宗商品（2 站）
+- 关税/贸易政策（1 站）
+- 就业/经济数据（1 站）
+- 中国政策（1 站）

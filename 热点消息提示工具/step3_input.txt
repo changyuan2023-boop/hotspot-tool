@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年5月14日`
+`早间热点线索 · 2026年5月15日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -100,7 +100,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026051420
+抓取时间: 2026051509
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -108,25 +108,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 30m
-- US stock futures climb as Trump-Xi summit kicks off
-- S&P 500's earnings boom faces a bond market warning
-- US clears Nvidia H200 chip sales to 10 China buyers
-- Cerebras set for debut in stock market gripped by AI mania
-- Crypto's pivotal Clarity Act moves to Senate vote
-- TSMC lifts chip market forecast to $1.5 trillion by end of decade
-- Bessent expects large Boeing order during Trump's China visit
+- U.S. markets closed
+- Cerebras stock surges nearly 70% in biggest IPO of 2026
+- Miran to step down from Fed Board, paving way for Warsh as Fed chair
+- US stock futures trade flat as Trump-Xi summit nears end
+- Apple-OpenAI alliance frays, setting up possible legal fight
+- Musk vs. OpenAI lawyers spar in closing arguments
+- Nvidia tops $5.5 trillion valuation as stock surges
+- Figma raises forecast as AI drives strong design demand
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Xi tells US CEOs that China will open up more
-- Nvidia partner Foxconn profit beats with 19% jump on AI demand
-- GameStop CEO hints he'll take eBay bid to its shareholders
-- Dollar lifted by growing odds of Fed rate hikes; Trump-Xi summit under way
-- US wireless carriers to launch joint venture to address rural 'dead zones'
+- How Cerebras could upend the AI chip trade
 - Cisco stock jumps on booming AI orders, job cuts
-- US's Bessent says soybeans 'all taken care of', cooling expectations for fresh Chinese buying
-- Starmer Rivals Prepare to Challenge Weakened Prime Minister
-- S&P 500, Nasdaq futures rise to new highs as Nvidia jumps
-- U.S. officials flag prospect of Chinese energy purchases after Trump-Xi meeting
+- Coinbase, other stocks surge as major crypto bill advances
+- US expects agriculture deal worth 'double-digit billions' after Trump-Xi summit, says Greer
+- Fed's Barr says wrong to lower liquidity rules to shrink Fed holdings
+- Japan April wholesale inflation rate spikes on rising import costs
+- Oil Heads for Weekly Advance With Iran War Resolution at Impasse
+- US judge considers Anthropic's $1.5 billion settlement of authors' lawsuit
+- Ohio Governor Candidate Ramaswamy Sells All His BuzzFeed Shares
+- Fed's Williams sees no need to change rate policy right now
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -141,75 +141,74 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- What's Going On With NVIDIA Stock Thursday?
-- Ripple CEO, Industry Experts Agree: Watch These 3 Catalysts For Crypto Adoption
-- Credicorp Likely To Report Higher Q1 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
-- What's Going On With Robo.ai Stock Thursday?
-- Why Is Intel Stock Falling Thursday?
-- Stock Market Today: S&P 500, Dow Jones Futures Gain As Trump Clears NVDA's H200 Sales To China—Cisco Systems, Doximity, Grocery Outlet In Focus
+- 'You've Lost Your Butt On It,' Dave Ramsey Says On Crypto — Urges Debt-Free Couple With $80K Cash To Buy Real Estate And Pay Cash
+- Thomas Peterffy, The $101 Billion Man You've Never Heard Of, Is About To Pass Bill Gates
+- Nu Holdings Stock Slammed After Q1 Results: Here's Why
+- Gemini Space Station Stock Soars After The Close: Here's Why
+- York Space Systems Stock Takes Off: Here's Why Space Stock Is Trading Higher Thursday
+- Under Which Party Do Bitcoin, Gold, Stocks Perform Best? The Answer May Surprise You
+- Inflation
 - Private Credit
-- Anduril Industries
 - Anthropic
-- Elon Musk Accused Of Building 'Most Management-Favorable' IPO Structure At SpaceX: Report
+- EXCLUSIVE: Get Ready For SpaceX 'Structural Squeeze' As Wall Street Crams Into 5% Float
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 习近平为美国总统特朗普举行欢迎宴会
-- 黄仁勋：人工智能已为中国带来新的机遇。（新华社）
-- 美股光通信概念股poet technologies盘前涨幅扩大至24%，公司收到来自Lumilens的5000万美元采购订单。
-- 加拿大鹅第四财季营收为4.533亿加元，预估为4.097亿加元。
-第四财季非国际财务报告准则调整后息税前利润为6490万加元，预估为6100万加元。
-第四财季非国际财务报告准则调整后每股收益为0.37加元，预估为0.39加元。
-加拿大鹅美股
-- 美国财长贝森特：Anthropic、OpenAI、谷歌的AI模型能力正不断增强。
-- 李强会见美国工商界代表
-- 美国财长贝森特：注意到原油价格贴水现象，并预计油价将会回落。
-核心通胀和能源通胀将回落。
-- 特朗普乘车抵达欢迎宴会现场。（央视）
-- 习近平将为特朗普举行欢迎宴会
-- 减肥药销售政策收紧？明天起，沪上零售药店要求提供医院纸质处方
-- 美股盘前，英伟达涨超2%；存储芯片概念股普跌，美光科技、闪迪均跌超1%。思科盘前涨近20%，第三季度营收超预期并宣布裁员。
-- 美国国务卿鲁比奥：中美关系非常有建设性
+- Anthropic已就一轮300亿美元融资达成条款协议，该轮融资将使公司估值达到9000亿美元，交易预计最快将于本月完成。（英国金融时报）
+- 苹果深夜官宣降价，iPhone17Pro进入6000元档
+- 印尼阿达尼集团创始人高塔姆·阿达尼同意支付600万美元以达成美国证券交易委员会（SEC）欺诈案的和解。
+- 美联储理事Barr：期待沃什进入美联储并做出积极贡献。
+- 美联储理事Barr：伊朗冲突让通胀令人担忧。
+- 华尔街见闻早餐 | 2026年5月15日
+- 美联储理事Barr称缩表是“错误目标”，与候任主席沃什主张背道而驰
+- 印度航空年度亏损突破20亿美元、创历史新高
+- 智利为铜矿巨头Codelco选任新主席，来应对产量与债务担忧
+- 美国纽约联储主席威廉姆斯：鉴于投资者的展望，股市上涨不足为怪。
+- 美国纽约联储主席（享有FOMC永久投票权、号称“美联储三把手”）威廉姆斯：当前既没理由加息，也没理由降息。
+FOMC货币政策具有温和的限制性。
+货币政策状态良好。
+- 提醒：日内请重点关注（以下均为北京时间）
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 习近平：共同书写时代答卷
-- 习近平同美国总统特朗普举行会谈
-- 特朗普在习近平陪同下检阅中国人民解放军仪仗队。（央视新闻）
-- 习近平为美国总统特朗普举行欢迎仪式
-- 习近平将同美国总统特朗普举行会谈
-- 习近平将举行仪式欢迎美国总统特朗普访华
-- 数据显示：随着油价飙升，啤酒需求陷入困境
-- Palo Alto警告：AI驱动的网路攻击将在数月内成为“新常态”
-- 花旗集团今年将把亚洲主要经纪业务人员增加10%。
-- 英国卫生大臣斯特里廷辞职。
+- Papa John’s美股盘后涨11%。
+- 库什纳旗下Thrive Capital对Shopify投资1亿美元。
+- 报道：阿波罗为旗下MFIC寻找买家
+- 报道：贝莱德已将更多HPS高管纳入TCP的投资委员会
+- KKR高管们已经深入探讨公开交易基金FSK持续存在的问题
+- 报道：私募信贷风波冲击BDC声誉，贝莱德等巨头纷纷展开自救
+- 周四（5月14日），美股行业ETF普遍收涨，科技行业涨1.50%，全球科技股指数ETF涨1.41%，网络股指数ETF涨1.37%，半导体ETF涨1.03%，银行业ETF、区域银行ETF至少涨0.89%，能源业ETF涨0.76%，生物科技指数
+- Rumble美股盘后跌12%。
+- 标普500指数的11个板块涨跌各异，信息技术/科技板块收涨1.85%，能源板块涨0.77%，原材料板块跌0.8%。
+- Cerebras Systems美国IPO首日收涨68.15%，报311.07美元。
+半导体概念股中，思科也涨13.41%，Wolfspeed涨11.76%，Nova涨10.42%，联电涨7.6%，博通、纳微半导体、台积电、英伟达涨5.52
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Thucydides Trap, personal touches – all you need to know from Xi-Trump summit so far
-- Trump will say more on the Taiwan issue ‘in the coming days’, Bessent says
-- Developing | Boeing nears ‘large’ China orders as Trump and Xi forge new trade board: Bessent
-- Trump’s trillion-dollar business delegation arrives in China, eager for deals
-- Big Tech
-- Alibaba, Tencent present a tale of two strategies for AI spending
-- Science
-- Looming US rocket debris crash unlikely to hit Chinese moon landers: experts
+- How duelling US-China legal regimes are leaving firms in ‘impossible’ positions
+- Xi-Trump talks live: leaders set to meet again over tea and a working lunch
+- Xi and Trump set sights on stability for China and the US – with a note of caution
+- China stresses ‘equality, respect’ as Trump heads to Beijing for Xi summit
+- China
+- Trump says Xi offered help on Iran as China seeks to keep Hormuz open
+- Diplomacy
+- China restores US beef trade amid Trump-Xi summit, alarming Brazilian exporters
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Presidents toast ‘most important bilateral relationship in the world’ at state dinner in Beijing
-- Washington and Beijing will discuss the board to manage commercial ties.
-- Alibaba will focus its AI capex on cloud services, while Tencent is prioritising internal demand with its spending.
-- Expected lunar impact however said to underscore critical lack of debris management rules as US, Chinese and private moon activity ramps up.
-- Health & Environment
-- Why Hong Kong scientists think GLP-1 weight-loss drugs can help stroke patients
-- Chinese University of Hong Kong scientists call GLP-1 ‘superstar pathway in biological, medical and pharmaceutical fields’.
-- China-US summit ‘remarkable’ but is it enough to change relations?
-- Military
-- Typhon launch of Tomahawk missile is ‘worst provocation’ by the US against China
+- Key bilateral and global issues on the table during final day of US president’s trip to Beijing
+- A day of positive messaging and personal rapport includes an invitation to visit the White House in September.
+- Chinese leader’s overture underscores how global issues are increasingly shaping US-China diplomacy and trade talks.
+- Beijing’s renewal of import licences for US beef plants comes as Brazil nears its annual quota cap and scrambles for alternative markets.
+- Hong Kong Economy
+- Why did Hongkongers queue round the clock for a new watch?
+- ‘Royal Pop’ ceramic pocket-style watches, a collaboration between Audemars Piguet and Swatch, set to go on sale on Saturday.
+- Xi-Trump summit day 1: everything you need to know from the meeting in Beijing
+- How did the US and China tell 2 different stories about the summit?
+- Beijing highlights the need for stable ties and peace, while Washington focuses on fentanyl and agricultural products.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 百度召开AI开发者大会发布多项重要成果，股价曾飙逾7%
+- 料AI收入占比将突破五成，阿里获券商升目标股价曾飙8%
 - 沪指创近11年新高 创指飙2.6%破顶
-- 伊朗扩10倍范围 严控霍峡能源运输
+- 华府评霍峡原油流量 首季减3成
 - AI变现角力：阿里“造厂”VS腾讯“守城”
 - 指数环球商品外汇
 - 国金观点
@@ -234,35 +233,37 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 習近平爲美國總統特朗普舉行歡迎宴會
-- 美股前瞻 | 三大指數棘突上漲，道指漲0.7%；POET獲批光引擎訂單，盤前漲超25%；美批准英偉達H200對華銷售，英偉達漲超2%
+- 富途早報 | 沃什即將「掌舵」聯儲局，「鴿派」米蘭遞交辭呈；《CLARITY法案》獲參議院銀行委員會通過；SpaceX IPO招股書最早下週公佈；零跑汽車即將放榜，翼菲科技今日暗盤
+- 老黃這趟中國沒白來！英偉達七天累計漲20%，市值逼近6萬億美元大關
+- Cerebras：深度綁定OpenAI，以「Fast Tokens」重塑AI芯片市場預期
+- SpaceX招股書據悉最快下週披露，計劃6月初啓動全球路演
 - 谷歌I/O大會前瞻：Gemini 4.0可能要來了，但這還不是最重要的
-- 中芯國際Q1營收25.05億美元，環比增長0.7%，Q2收入預增14%-16%
-- 馬斯克隨同訪華，FSD能否趁機落地？
-- 李強會見美國工商界代表
-- 中芯國際：Q1銷售收入25.05億美元，同比增長11.5%，毛利率爲20.1%
-- 北水拋售港股超97億港元，淨買入騰訊控股超4億港元，淨賣出阿里巴巴近38億港元，減倉小米集團超8億港元
+- 六次會議連投六次反對票，聯儲局「最強異議理事」米蘭宣佈辭職
+- 美參議院銀行委員會通過《清晰法案》：CFTC或成加密主要監管方，穩定幣獎勵條款達成妥協
+- 白銀價格回歸冷靜？瑞銀：白銀將遭遇美元、關稅與供需缺口收窄三重夾擊
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 「鮑威爾時代」即將落幕，任期八年裏，他如何帶領聯儲局扛過疫情、大通脹、銀行業爆雷等危機？
-- 華虹半導體Q1營收6.6億美元，歸母淨利暴增513%，Q2收入指引6.9億-7億美元
-- 央行：前四個月人民幣貸款增加8.59萬億元
-- 央行：4月末廣義貨幣（M2）餘額353.04萬億元 同比增長8.6%
-- 央行：前四個月社會融資規模增量累計爲15.45萬億元 比上年同期少8930億元
-- 存儲行業景氣度持續高企！SK海力士緊隨三星電子邁向「萬億美元俱樂部」
-- 收市速睇 | 三大指數高開低走，南向資金流出近百億；有色金屬股多數走弱，招金礦業跌10.41%；阿里、騰訊績後漲跌不一，阿里收漲3.84%，騰訊收跌0.52%
-- 港股收市：恒指基本收平，阿里漲近4%
-- 騰訊闢謠「AI一號位即將離職」
-- 美國衆議院繞過共和黨高層，強推百億烏克蘭援助
+- 買英偉達、賣微軟：特朗普最新財務披露曝光，單季交易額最高達7.5億美元
+- 成交額TOP20 | 英偉達續漲4%，連漲7日劍指6萬億美元大關；Cerebras上市首日飆升68%；芯片股承壓，美光、閃迪、英特爾跌約4%；思科績後大漲13%
+- 美國三大移動運營商組建「衛星直連」合資公司 擴大D2D通訊覆蓋
+- 馬斯克承認落後，xAI推出首款編程智能體，劍指行業頂流Claude Code
+- 三個月交易超7億美元？特朗普「炒股賬本」曝光，硅谷和華爾街巨頭一個不少
+- 史上最大規模IPO衝刺！報道：SpaceX IPO招股書最早可能於下週落地
+- 美股收盤 | 標普納指又新高；光、雲板塊走強，POET暴漲43%，博通漲超5%，NBIS漲7%；《CLARITY法案》迎關鍵突破，比特幣重返8.1萬美元
+- 「新聯儲局通訊社」深度追蹤：新任聯儲局主席沃什的立場二十年演變
+- Figma2026年Q1營收爲3.33億美元，同比增長46%；調整後每股收益0.1美元
+- 美國聯邦財務信披顯示：特朗普大額買入英偉達和蘋果股票，拋了微軟、亞馬遜、Meta
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 伊朗/中东: 华尔街见闻 (简中), 经济通 (繁中)
-- 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
-- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 美联储: Yahoo Finance (EN)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
+- 美国关税: 华尔街见闻 (简中)
+- 就业数据: Benzinga (EN)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
