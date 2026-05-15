@@ -3,56 +3,56 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Cerebras stock surges nearly 70% in biggest IPO of 2026 | Miran to step down from Fed Board, paving way for Warsh as Fed chair | US stock futures trade flat as Trump-Xi summit nears end
-  - 其他: How Cerebras could upend the AI chip trade | Cisco stock jumps on booming AI orders, job cuts | Coinbase, other stocks surge as major crypto bill advances | US expects agriculture deal worth 'double-digit billions' after Trump-Xi summit, says Greer | Fed's Barr says wrong to lower liquidity rules to shrink Fed holdings
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 30m | Xi hails 'landmark' Trump summit, says much achieved | Ackman's Pershing Square takes stake in Microsoft | S&P 500 rally has history on its side — with a big dot-com caveat
+  - 其他: Nasdaq, S&P 500 tumble as yields rise on inflation fears | Global bonds tumble as flaring inflation spooks investors | How Cerebras could upend the AI chip trade | Nasdaq, S&P 500 futures tumble as yields jump on inflation worries | Strait of Hormuz closure causes Diet Coke shortage in India as food brands brace for wider impacts
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: 'You've Lost Your Butt On It,' Dave Ramsey Says On Crypto — Urges Debt-Free Couple With $80K Cash To Buy Real Estate And Pay Cash | Thomas Peterffy, The $101 Billion Man You've Never Heard Of, Is About To Pass Bill Gates | Nu Holdings Stock Slammed After Q1 Results: Here's Why | Gemini Space Station Stock Soars After The Close: Here's Why | York Space Systems Stock Takes Off: Here's Why Space Stock Is Trading Higher Thursday
+  - 其他: Bitcoin Holds $80,000, Ethereum, XRP, Dogecoin Edge Higher As Clarity Act Boosts Institutional Optimism | Jim Cramer: Design Therapeutics Is 'Pure Spec,' Buy This Health Care Stock | Anthropic and Bill Gates' Foundation Commit $200 Million To AI for Healthcare And Education | How To Earn $500 A Month From VF Stock Ahead Of Q4 Earnings | Florida CEO Convicted In Shocking $1 Billion Medicare Scam Using Telemarketing and Fake Prescriptions
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: Anthropic已就一轮300亿美元融资达成条款协议，该轮融资将使公司估值达到9000亿美元，交易预计最快将于本月完成。（英国金融时报） | 苹果深夜官宣降价，iPhone17Pro进入6000元档 | 印尼阿达尼集团创始人高塔姆·阿达尼同意支付600万美元以达成美国证券交易委员会（SEC）欺诈案的和解。 | 美联储理事Barr：期待沃什进入美联储并做出积极贡献。 | 美联储理事Barr：伊朗冲突让通胀令人担忧。 | 华尔街见闻早餐 | 2026年5月15日 | 美联储理事Barr称缩表是“错误目标”，与候任主席沃什主张背道而驰 | 印度航空年度亏损突破20亿美元、创历史新高
-  - 其他: Papa John’s美股盘后涨11%。 | 库什纳旗下Thrive Capital对Shopify投资1亿美元。 | 报道：阿波罗为旗下MFIC寻找买家 | 报道：贝莱德已将更多HPS高管纳入TCP的投资委员会 | KKR高管们已经深入探讨公开交易基金FSK持续存在的问题
+  - 头版/首屏: 伊朗外长说美方认真才可能重启谈判 | 李强主持召开国务院常务会议，审议通过《加快农业农村现代化“十五五”规划》。（央视） | 特朗普谈卢比奥：我认为他非常出色。 | 李想谈L9和增程技术：有人质疑“落后”、有人摸着理想过河 | 伊朗外长：霍尔木兹海峡仍对友好国家商业船只开放 | 特朗普：我们可以袭击伊朗的桥梁和电力设施。 | 伊朗外长：伊朗不寻求发展核武器 | 特朗普：预计开放时间约为2028年9月，宴会厅建设快于计划。
+中国有一个大宴会厅，所以美国也应该有。
+  - 其他: 外交部发言人就美国总统特朗普访华情况答记者问 | 渤健尽管数据不尽如人意，仍推进阿尔茨海默病药物进入后期临床试验 | 纳斯达克100指数期货下跌0.5%，抹去早前涨幅。 | FF：2026年一季度经营亏损收窄18% 年内机器人出货目标1500台 | Anthropic已就一轮300亿美元融资达成条款协议，该轮融资将使公司估值达到9000亿美元，交易预计最快将于本月完成。（英国金融时报）
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: How duelling US-China legal regimes are leaving firms in ‘impossible’ positions | Xi-Trump talks live: leaders set to meet again over tea and a working lunch | Xi and Trump set sights on stability for China and the US – with a note of caution | China stresses ‘equality, respect’ as Trump heads to Beijing for Xi summit | China | Trump says Xi offered help on Iran as China seeks to keep Hormuz open | Diplomacy | China restores US beef trade amid Trump-Xi summit, alarming Brazilian exporters
-  - 其他: Key bilateral and global issues on the table during final day of US president’s trip to Beijing | A day of positive messaging and personal rapport includes an invitation to visit the White House in September. | Chinese leader’s overture underscores how global issues are increasingly shaping US-China diplomacy and trade talks. | Beijing’s renewal of import licences for US beef plants comes as Brazil nears its annual quota cap and scrambles for alternative markets. | Hong Kong Economy
+  - 头版/首屏: Exclusive | Russia’s Putin is heading to China next week, days after Xi-Trump summit | Trump says he’s ‘not looking to have wars’ over Taiwan after meeting with Xi | Xi Jinping welcomes Trump into China’s hidden heart: Zhongnanhai | ‘We’ll be back’: the latest takeaways from the Xi-Trump talks | Global Economy | After Xi-Trump, China tech stocks retreat as market weighs ‘fantastic’ deals | Diplomacy | The ‘real test’ for China and the US after Xi-Trump summit
+  - 其他: US president wraps up ‘historic’ three-day visit with tea and a working lunch | Centuries-old trees and ‘most beautiful’ roses take centre stage as US leader taken on rare stroll around secluded, symbolic seat of power. | Mainland benchmarks slip as investors lock in profits following Beijing summit, while analysts say the lack of specific deal terms suggests a deterioration ‘freeze’. | True challenge will be finding ways to ‘cooperate constructively within an inherently competitive relationship’, Chinese analyst cautions. | Law and Crime
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 料AI收入占比将突破五成，阿里获券商升目标股价曾飙8% | 沪指创近11年新高 创指飙2.6%破顶 | 华府评霍峡原油流量 首季减3成 | AI变现角力：阿里“造厂”VS腾讯“守城” | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数26389.04+0.60(+0.00%)
-                    etnet.com.hk@copyright | 国企指数8858.63-17.75(-0.20%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 料AI收入占比将突破五成，阿里获券商升目标股价曾飙8% | 中海油扩生产 首季油气净产量增8.6% | 华府评霍峡原油流量 首季减3成 | AI变现角力：阿里“造厂”VS腾讯“守城” | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25962.73-426.31(-1.62%)
+                    etnet.com.hk@copyright | 国企指数8691.03-167.60(-1.89%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 沃什即將「掌舵」聯儲局，「鴿派」米蘭遞交辭呈；《CLARITY法案》獲參議院銀行委員會通過；SpaceX IPO招股書最早下週公佈；零跑汽車即將放榜，翼菲科技今日暗盤 | 老黃這趟中國沒白來！英偉達七天累計漲20%，市值逼近6萬億美元大關 | Cerebras：深度綁定OpenAI，以「Fast Tokens」重塑AI芯片市場預期 | SpaceX招股書據悉最快下週披露，計劃6月初啓動全球路演 | 谷歌I/O大會前瞻：Gemini 4.0可能要來了，但這還不是最重要的 | 六次會議連投六次反對票，聯儲局「最強異議理事」米蘭宣佈辭職 | 美參議院銀行委員會通過《清晰法案》：CFTC或成加密主要監管方，穩定幣獎勵條款達成妥協 | 白銀價格回歸冷靜？瑞銀：白銀將遭遇美元、關稅與供需缺口收窄三重夾擊
-  - 其他: 買英偉達、賣微軟：特朗普最新財務披露曝光，單季交易額最高達7.5億美元 | 成交額TOP20 | 英偉達續漲4%，連漲7日劍指6萬億美元大關；Cerebras上市首日飆升68%；芯片股承壓，美光、閃迪、英特爾跌約4%；思科績後大漲13% | 美國三大移動運營商組建「衛星直連」合資公司 擴大D2D通訊覆蓋 | 馬斯克承認落後，xAI推出首款編程智能體，劍指行業頂流Claude Code | 三個月交易超7億美元？特朗普「炒股賬本」曝光，硅谷和華爾街巨頭一個不少
+  - 头版/首屏: 全球債市替沃什「提前加息」，美日英德長債收益率飆至多年新高 | 沉默是金？沃什爲何希望聯儲局「少說話、少預測」 | 本週美股牛股 | 深度綁定OpenAI，「英偉達挑戰者」Cerebras System上市首日大漲68%；Tower半導體漲超33%，「最大硅光客戶」13億美元鎖定產能；Rocket Lab漲近26%，訂單積壓揭示行業高景氣 | 聯儲局歷次換屆，美股如何表現？ | 北水掃貨港股超249億港元，淨買入盈富基金超129億港元，淨賣出阿里巴巴超3億港元 | 日本NAND巨頭鎧俠季度利潤刷新紀錄，公司官宣籌劃赴美上市 | 日韓股市、金銀巨震，發生了什麼？ | 收市速睇 | 三大指數齊跌，科指跌2.66%；南向資金大舉抄底近250億港元；半導體股普跌，英諾賽科跌近11%；機器人概念逆市走強，三花智控漲近7%
+  - 其他: 暗盤情報 | 「工業機器人科技企業」翼菲科技現漲近77%，一手賺2340港元 | 美國已拒絕伊朗就結束戰爭提出的書面方案 | 美股盤前：Figma績後大漲超12%，Cerebras、POET續漲超5%；明星科技股普跌，英特爾跌超4% | 大摩：亞洲準備好捕捉全球AI資本支出激增機遇 列出區內最新主題焦點股名單 | 外交部：中美雙方就兩國元首年內互動安排保持着溝通
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (6 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
 - **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
-- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **加密货币** — 出现于: Benzinga (EN) (1 站)
 - **就业/经济数据** — 出现于: Benzinga (EN) (1 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（6 站）
-- 油价/能源（4 站）
 - 伊朗/中东局势（3 站）
-- 加密货币（3 站）
-- 美联储/利率（3 站）
+- 油价/能源（3 站）
 - 中国/欧盟（3 站）
 - 黄金/大宗商品（2 站）
-- 关税/贸易政策（1 站）
+- 加密货币（1 站）
 - 就业/经济数据（1 站）
+- 美联储/利率（1 站）
 - 中国政策（1 站）
+- 关税/贸易政策（0 站）
