@@ -3,55 +3,55 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Some see 'borderline mania' in AI-fueled semiconductor rally | The housing market is starting to look K-shaped too | US stock futures dip from records with Nvidia, retail earnings on deck
-  - 其他: Investors eye Nvidia, bond yields, and the next commodity supercycle | Ryan Cohen's eBay bid has been absurd all along | Anthropic's shadow IPO market is already flashing trillion-dollar prices | Asia shares slip, oil prices pile pressure on bonds | G7 finance chiefs seek to tackle imbalances as trade strains unity
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 30m | Dow leads stocks lower amid rising yields, oil prices | Global bond rout deepens as Iran war fans inflation fears | Investors eye Nvidia, bond yields, and the next commodity supercycle
+  - 其他: How Nvidia's stock historically performs after earnings | Travel is still on, but rising costs reshape summer vacation plans | Tech stocks today: Nvidia results, OpenAI v. Musk | Earnings live updates: Nvidia and Walmart, 2 important bellwethers for the US economy, report results this week | Wall Street futures slip as higher yields, oil prices weigh
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Investor Says Futures Trading Used To Feel Complicated And Intimidating. Now They Say 'Futures Trading Is Changing My Life In A Good Way' | Lululemon Stock Hits Extreme Oversold Territory as Analysts Maintain Bullish Forecasts | US Says China To Buy At Least $17 Billion Worth Agricultural Goods Annually After Trump-Xi Meet | Nio Stock Forms Rare Bullish Pattern As Earnings Loom | Gold Price Nears Death Cross As GLD And IAU ETFs Outflows Jump
+  - 其他: Jim Cramer Flags Industrial Company With 'Almost No Revenue,' Says No To Rocket Companies | Canadian Solar's North American Focus With New Plant, New CEO | EBay, Palo Alto, Microchip Technology And A Financial Stock On CNBC's 'Final Trades' | How To Earn $500 A Month From Target Stock Ahead Of Q1 Earnings | Wall Street's Most Accurate Analysts Give Their Take On 3 Financial Stocks With Over 15% Dividend Yields
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 英伟达正洽谈领投印度AI初创公司Simplismart总额2000万美元的融资。（印度《经济时报》） | 纳斯达克100指数期货下跌1%，受油价上涨影响。 | 华尔街见闻早餐 | 2026年5月18日 | 提醒：日内请重点关注（以下均为北京时间） | 特朗普称仍相信伊朗有意达成协议 | “华盛顿”号航母返回日本横须贺基地 | 日本将针对使用Anthropic的Mythos起草指导意见，指导意见将用于网络防御。（日经新闻） | 美国特使抵达格陵兰岛首府努克
-  - 其他: 资金流向呈现分化状态 债基频遭大额赎回 绩优股基强势吸金 | 中证报：离境退税优化举措即将推出 | 今年以来近七成浮动费率基金实现正收益 | 古巴：美国捏造虚假文件 为制裁和侵略找借口 | 金正恩要求加强守卫朝鲜南部边境的一线部队
+  - 头版/首屏: 美据报同意暂时豁免对伊朗石油制裁 | 国际油价短线下挫，现货黄金、美股期货短线拉升，报道称美国提出在最终协议达成前暂时豁免对伊朗的石油制裁 | 国防部：愿与美方共同推动两军关系沿着稳定正向轨道行稳致远 | 美国能源企业NextEra Energy与美国电力和天然气供应商Dominion Energy将以全股票交易方式合并。NextEra Energy持有合并后公司约74.5%的股份。（彭博） | 京东：今年京东体系AI相关研发投入增长将超200% | 德国商业银行正式拒绝意大利裕信的收购提议。（彭博） | 伊朗称已将最新谈判意见反馈给美方 | 伊朗媒体：伊朗通过巴基斯坦提交14点谈判文本
+  - 其他: 青豫特高压工程累计输送电量突破1000亿千瓦时 | 俄称扎波罗热核电站遭乌袭击 乌方暂无回应 | 工信部：全国炼铁、炼钢产能置换比例均不低于1.5:1 | 长盈通：公司器件保偏光纤相关业务营收占比不足1% | 上汽奥迪不再销售四环燃油车？知情人士称，仍在谈判中
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Exclusive | Mainland China’s Wu Yongping on what the Xi-Trump summit means for Taiwan | China to purchase at least US$17 billion of US agricultural goods, White House says | Military | Will the Trump-class battleship really be able to deter China? | Diplomacy | Society | What’s behind the rise in firings linked to disability discrimination? | How does the Strait of Hormuz stand-off look in the wake of Trump-Xi summit?
-  - 其他: Regardless of the meeting’s outcome, the trend towards resolution of the Taiwan question won’t change, according to the Tsinghua academic. | The US Navy’s claims that the ships will ‘inspire confidence in our friends and fear in our adversaries’ have been widely questioned. | The agreement was struck at the recent summit between US President Donald Trump and Chinese President Xi Jinping, according to US fact sheet. | Complaints to Hong Kong’s equality watchdog about dismissals linked to suspected disability discrimination have doubled over past five years. | A sinking ship? Why the EU and China could be heading for a trade war
+  - 头版/首屏: Global growth of EVs faces hurdles in insurance, charging gaps, says BNP Paribas | Peugeot, Jeep take on Chinese rivals with new models using local EV tech | Business | Evergrande liquidators seek US$8.4 billion from PwC units in Hong Kong lawsuit | Diplomacy | Why Iran’s choice of Beijing envoy signals an ‘unprecedented’ commitment | Politics | Why Beijing is outraged over Taiwan’s Lai honouring WWII-era Japanese engineer
+  - 其他: Charging limits and rising insurance costs could slow the global march of electric vehicles, BNP Paribas tells Hong Kong conference. | PwC International seeks removal from case as liquidators press claims against global arm as well as the Hong Kong and mainland China units. | Prominent hardliner Mohammad Bagher Ghalibaf, speaker of Iran’s parliament, is a veteran of peace talks with the US. | Scathing People’s Daily commentary accuses Taiwan’s leader of ‘forgetting his ancestors’ and ‘ingratiating himself’ with Tokyo. | China’s economy ‘weaker than expected’ in April as Iran war headwinds bite
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 料AI收入占比将突破五成，阿里获券商升目标股价曾飙8% | 中海油扩生产 首季油气净产量增8.6% | 特朗普促加快达和议 伊倘拒绝下场凄惨 | AI变现角力：阿里“造厂”VS腾讯“守城” | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25962.73-426.31(-1.62%)
-                    etnet.com.hk@copyright | 国企指数8691.03-167.60(-1.89%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 理想新车降价，零跑首季亏损扩大，车股重挫未宜沾手？ | 内地发暴雨黄色警告 北京市防汛四级响应 | 特朗普促加快达和议 伊倘拒绝下场凄惨 | 城镇消费转负，无碍人币底气 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25675.18-287.55(-1.11%)
+                    etnet.com.hk@copyright | 国企指数8597.97-93.06(-1.07%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 美伊僵局持續，通脹憂慮壓制AI行情，高盛指股市波動或加大；三星罷工倒計時，今日最後勞資復談；百度今日放榜 | 特朗普與內塔尼亞胡通話：討論重啓對伊朗軍事打擊！美以聯合空襲風險驟增 | 美股夜盤：美股光通信、加密貨幣、存儲概念、半導體股多數下跌 | 一週前瞻 | 英偉達業績重磅來襲！SpaceX最快週三公佈招股書；三星電子罷工在即，勞資復談週一舉行；谷歌I/O大會將於19日-20日舉行 | 「新債王」岡拉克：「4字頭」通脹要來，聯儲局減息沒戲 | Token工廠落地無錫，依託華爲昇騰384集群，算力進入「智能單元計費」時代 | 美股市場緊張了！高盛：繼續看多AI但要買對沖，低質板塊已脫離基本面 | 週末讀物 | 韓國相親戰服之王，SK海力士如何逆襲三星？
-  - 其他: 週末讀物 | 14個月估值暴漲15倍！9000億美元的Anthropic是怎樣煉成的？ | 三星罷工倒計時！韓政府發出「最後通牒」：明日勞資復談是「最後的機會」 | 50-100億美元！「全球最大資管」貝萊德考慮投資「歷史最大IPO」Space X | 韓國總理敦促三星電子薪資談判雙方在週一達成妥協 | 商務部新聞發言人就中美經貿磋商初步成果答記者問
+  - 头版/首屏: 美國提出暫時豁免伊朗石油制裁 | 特朗普最新訪談：承認短期內難以減息，「繼承者」至關重要 | 騰訊推出AI設計智能體平台Ardot，一句話生成可編輯設計稿 | 132億美元外資上週撤離！韓股波動性逼近歷史峰值，牛市拐點已現？ | 一個讓老交易員不安的信號：思科、英特爾、高通等互聯網泡沫時代的明星股正重回巔峰 | 北水拋售港股近79億港元，淨買入中國人壽超13億港元，加倉騰訊控股超5億港元，淨賣出盈富基金超53億港元，減倉阿里巴巴超13億港元 | 百度Q1營收320.8億元：AI新業務佔比首次過半，智能雲收入同比增長79% | 伊朗提出修訂方案 美伊和談再現曙光! 「TACO」預期之下科技股蓄勢大反攻
+  - 其他: 存儲之後看光通信：Lumentum、Ciena、康寧躋身標普500今年十大牛股，光通信爲何成爲AI數據中心的新瓶頸？ | CLARITY Act 反彈快速熄火，比特幣衝高回落：接下來關注什麼？ | 收市速睇 | 三大股指齊跌，科指跌1.95%，科網股普跌，網易跌超2%；電訊服務股逆勢上漲，中國電信漲超6%，中國聯通漲近4% | 三星罷工還沒開始，工會就輸了？ | 美伊戰爭影響幾何？全球企業已損失250億美元，Q2業績才「見真章」！
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (6 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
-- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
-- **就业/经济数据** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
-- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
+- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **美国关税（15%等）** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **加密货币** — 出现于: Benzinga (EN) (1 站)
+- **就业/经济数据** — 出现于: 华尔街见闻 (简中) (1 站)
+- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 科技股/个股（6 站）
+- 伊朗/中东局势（4 站）
 - 油价/能源（4 站）
-- 关税/贸易政策（3 站）
+- 科技股/个股（4 站）
 - 中国/欧盟（3 站）
-- 伊朗/中东局势（2 站）
-- 就业/经济数据（2 站）
-- 黄金/大宗商品（2 站）
-- 美联储/利率（2 站）
+- 关税/贸易政策（2 站）
+- 加密货币（1 站）
+- 就业/经济数据（1 站）
+- 黄金/大宗商品（1 站）
 - 中国政策（1 站）
-- 加密货币（0 站）
+- 美联储/利率（0 站）
