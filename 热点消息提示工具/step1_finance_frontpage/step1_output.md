@@ -3,23 +3,28 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 30m | Dow leads stocks lower amid rising yields, oil prices | Global bond rout deepens as Iran war fans inflation fears | Investors eye Nvidia, bond yields, and the next commodity supercycle
-  - 其他: How Nvidia's stock historically performs after earnings | Travel is still on, but rising costs reshape summer vacation plans | Tech stocks today: Nvidia results, OpenAI v. Musk | Earnings live updates: Nvidia and Walmart, 2 important bellwethers for the US economy, report results this week | Wall Street futures slip as higher yields, oil prices weigh
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Nvidia CEO Huang says he believes China market will open over time | Meta lays out plans for May 20 restructuring in internal document | Meta moves 7,000 workers into AI roles ahead of job cuts
+  - 其他: Elon Musk loses court battle against OpenAI | Iran turns to bitcoin for shipping insurance through the Strait of Hormuz | Trump has only one real option to slash gas prices | Japan's economy grows at solid pace in Q1, but Iran war set to upend momentum | Dollar steadies from weakness as Trump calls off planned attack on Iran
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Jim Cramer Flags Industrial Company With 'Almost No Revenue,' Says No To Rocket Companies | Canadian Solar's North American Focus With New Plant, New CEO | EBay, Palo Alto, Microchip Technology And A Financial Stock On CNBC's 'Final Trades' | How To Earn $500 A Month From Target Stock Ahead Of Q1 Earnings | Wall Street's Most Accurate Analysts Give Their Take On 3 Financial Stocks With Over 15% Dividend Yields
+  - 其他: Top 3 Tech And Telecom Stocks That Could Blast Off In Q2 | Donald Trump Declared Himself  'King of Debt' And Claimed He Made A 'Fortune' With It — But Admits 'I Don't Like Debt For The Country' | Nvidia Stock Up Over 500,000% Since IPO: Here's What That Means In Dollars | Elon Musk Loses OpenAI Lawsuit-What The Trial Revealed About AI Investing | Micron Stock's Worst 2-Day Drop In A Year: Is The Chip Bubble Bursting?
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 美据报同意暂时豁免对伊朗石油制裁 | 国际油价短线下挫，现货黄金、美股期货短线拉升，报道称美国提出在最终协议达成前暂时豁免对伊朗的石油制裁 | 国防部：愿与美方共同推动两军关系沿着稳定正向轨道行稳致远 | 美国能源企业NextEra Energy与美国电力和天然气供应商Dominion Energy将以全股票交易方式合并。NextEra Energy持有合并后公司约74.5%的股份。（彭博） | 京东：今年京东体系AI相关研发投入增长将超200% | 德国商业银行正式拒绝意大利裕信的收购提议。（彭博） | 伊朗称已将最新谈判意见反馈给美方 | 伊朗媒体：伊朗通过巴基斯坦提交14点谈判文本
-  - 其他: 青豫特高压工程累计输送电量突破1000亿千瓦时 | 俄称扎波罗热核电站遭乌袭击 乌方暂无回应 | 工信部：全国炼铁、炼钢产能置换比例均不低于1.5:1 | 长盈通：公司器件保偏光纤相关业务营收占比不足1% | 上汽奥迪不再销售四环燃油车？知情人士称，仍在谈判中
+  - 头版/首屏: 报道：谷歌与黑石集团拟成立一家新的AI云公司 | 华尔街见闻早餐 | 2026年5月19日 | 以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备 | 韩国央行：预计三星电子罢工将造成GDP增速被削弱0.5个百分点。 | 据Accuweather气象公司的预测，美国华盛顿特区的气温在周二将达到100华氏度（38摄氏度），比历史同期平均水平高出近25华氏度。
+美国天气预测中心表示，从大西洋中部到东北部地区（即电网运营商PJM覆盖的核心区域），预计到周三将有至少 | 神钢电机（Sinfonia Technology）将投资120亿日元，在日本伊势工厂建设航空航天工厂。 | 澳大利亚10年期国债收益率跌6.48个基点，悉尼盘初报5.0488%，投资者关注国际油价。
+三年期澳债收益率跌6.19个基点，报4.6756%。 | SoftVest与Blackbeard Holdings进入一份不具有约束性的初步协议，双方提议整合Permian Basin Royalty Trust（PBT）与特定的Blackbeard资产。
+这一合作将促成一家纽交所上市的公司。
+  - 其他: 伊朗在伊斯法罕启用防空系统。（迈赫尔通讯社） | 美国洛杉矶西北部突发山火快速蔓延，当局紧急疏散居民 | 马斯克：美国法官颁发了掠夺慈善机构的“免罪符”。 | 周一（5月18日），美股存储芯片与硬件供应链指数跌5.25%，报172.53点。
+成分股全线溃败，希捷科技跌6.87%，美光科技跌5.95%，Sandisk跌5.30%，应用材料跌5.28%，泰瑞达跌4.98%，西部数据跌4.84%，Ram | 美股七巨头收盘播报｜周一（5月18日），美国科技股七巨头（Magnificent 7）指数跌0.57%，报225.86点。
+“超大”市值科技股指数跌0.54%，报447.23点。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Global growth of EVs faces hurdles in insurance, charging gaps, says BNP Paribas | Peugeot, Jeep take on Chinese rivals with new models using local EV tech | Business | Evergrande liquidators seek US$8.4 billion from PwC units in Hong Kong lawsuit | Diplomacy | Why Iran’s choice of Beijing envoy signals an ‘unprecedented’ commitment | Politics | Why Beijing is outraged over Taiwan’s Lai honouring WWII-era Japanese engineer
-  - 其他: Charging limits and rising insurance costs could slow the global march of electric vehicles, BNP Paribas tells Hong Kong conference. | PwC International seeks removal from case as liquidators press claims against global arm as well as the Hong Kong and mainland China units. | Prominent hardliner Mohammad Bagher Ghalibaf, speaker of Iran’s parliament, is a veteran of peace talks with the US. | Scathing People’s Daily commentary accuses Taiwan’s leader of ‘forgetting his ancestors’ and ‘ingratiating himself’ with Tokyo. | China’s economy ‘weaker than expected’ in April as Iran war headwinds bite
+  - 头版/首屏: China joins global sell-off of US Treasuries in March as Iran war prompts panic | China sets yuan at strongest level in 3 years as US dollar jitters simmer | China Economy | China’s old ‘Motown’, Shanghai bets on robotaxis, better batteries to bump GDP | How a US$5 billion Chinese lifeline to Argentina shrank to almost nothing | Hong Kong Economy | Hong Kong finance chief woos French wealth managers as European tour starts | China’s northeast, poor in rare earths, scores big find
+  - 其他: Seven of the top 10 foreign holders cut their exposure to the US government debt, led by Japan which offloaded US$47.7 billion in the first full month of the Iran war. | City authorities point at the need to lure foreign firms, while emerging sectors are expected to generate a trillion-yuan boost over the next 5 years. | Central bank records show the swap balance fell to US$675 million as Washington pressed Buenos Aires to wind it down. | Paul Chan, who arrived in Paris on Monday, met representatives of French asset management association and think tank Asia Centre in Paris, sources say. | Diplomacy
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 理想新车降价，零跑首季亏损扩大，车股重挫未宜沾手？ | 内地发暴雨黄色警告 北京市防汛四级响应 | 特朗普促加快达和议 伊倘拒绝下场凄惨 | 城镇消费转负，无碍人币底气 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 齐推Token算力服务套餐，电讯三宝逆市造好，避险佳选 | 内地发暴雨黄色警告 北京市防汛四级响应 | 特威胁伊朗将一无所有 吁接受协议 | 城镇消费转负，无碍人币底气 | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数25675.18-287.55(-1.11%)
                     etnet.com.hk@copyright | 国企指数8597.97-93.06(-1.07%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -28,30 +33,30 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 美國提出暫時豁免伊朗石油制裁 | 特朗普最新訪談：承認短期內難以減息，「繼承者」至關重要 | 騰訊推出AI設計智能體平台Ardot，一句話生成可編輯設計稿 | 132億美元外資上週撤離！韓股波動性逼近歷史峰值，牛市拐點已現？ | 一個讓老交易員不安的信號：思科、英特爾、高通等互聯網泡沫時代的明星股正重回巔峰 | 北水拋售港股近79億港元，淨買入中國人壽超13億港元，加倉騰訊控股超5億港元，淨賣出盈富基金超53億港元，減倉阿里巴巴超13億港元 | 百度Q1營收320.8億元：AI新業務佔比首次過半，智能雲收入同比增長79% | 伊朗提出修訂方案 美伊和談再現曙光! 「TACO」預期之下科技股蓄勢大反攻
-  - 其他: 存儲之後看光通信：Lumentum、Ciena、康寧躋身標普500今年十大牛股，光通信爲何成爲AI數據中心的新瓶頸？ | CLARITY Act 反彈快速熄火，比特幣衝高回落：接下來關注什麼？ | 收市速睇 | 三大股指齊跌，科指跌1.95%，科網股普跌，網易跌超2%；電訊服務股逆勢上漲，中國電信漲超6%，中國聯通漲近4% | 三星罷工還沒開始，工會就輸了？ | 美伊戰爭影響幾何？全球企業已損失250億美元，Q2業績才「見真章」！
+  - 头版/首屏: 富途早報 | 特朗普叫停軍事打擊，暗示重回談判；高盛：減息預期後移，AI盈利才是股市關鍵；沃什將於週五宣誓就職聯儲局主席 | 「NACHO交易」大行其道！高盛之後，美銀也認爲今年油價將維持在90美元高位 | 特朗普將在白宮爲沃什主持就職，市場緊盯：他會聽總統的話減息嗎？ | Vera來了！英偉達首款專爲Agent打造的CPU交付AI頂級實驗室 | 成交額TOP20 | 存儲板塊延續跌勢，美光、閃迪跌超5%；軟件股逆市走高，ServiceNow漲約9%，Palantir漲近1%；伯克希爾Q1加碼谷歌，清倉亞馬遜 | 報道：美國SEC將推股票「代幣化」交易方案，開闢加密交易新戰場 | 美股收盤 | 談判前景反覆無常，標普納指2連跌；世紀IPO助推太空概念走高，RKLB漲超5%，ASTS漲近4%；中、日3月大幅減持美債 | 美國財政部：海外投資者3月所持長期美債估值浮虧高達1421億美元
+  - 其他: 蘋果計劃在iOS 27中推出AI寫作輔助、自然語言創建指令和壁紙生成 | 美國總統特朗普：（與伊朗）達成協議的機會似乎很大 | 馬斯克怒噴達美航空棄用星鏈服務 高管反擊：亞馬遜競品更便宜、功能更多 | OpenAI營利化爭議案落槌，馬斯克對奧爾特曼指控被駁回 | 原定週二對伊朗攻擊！特朗普應海灣三國請求推遲，內塔尼亞胡連續兩晚開會備戰
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
-- **科技股/个股** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
-- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **美国关税（15%等）** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **加密货币** — 出现于: Benzinga (EN) (1 站)
-- **就业/经济数据** — 出现于: 华尔街见闻 (简中) (1 站)
-- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (5 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
+- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 伊朗/中东局势（4 站）
-- 油价/能源（4 站）
-- 科技股/个股（4 站）
+- 伊朗/中东局势（5 站）
+- 科技股/个股（5 站）
 - 中国/欧盟（3 站）
-- 关税/贸易政策（2 站）
-- 加密货币（1 站）
-- 就业/经济数据（1 站）
-- 黄金/大宗商品（1 站）
+- 油价/能源（2 站）
+- 加密货币（2 站）
+- 黄金/大宗商品（2 站）
+- 关税/贸易政策（1 站）
+- 美联储/利率（1 站）
 - 中国政策（1 站）
-- 美联储/利率（0 站）
+- 就业/经济数据（0 站）
