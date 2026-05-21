@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年5月20日`
+`早间热点线索 · 2026年5月21日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -100,7 +100,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026052020
+抓取时间: 2026052109
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -108,25 +108,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 31m
-- Stock futures rise in countdown to Nvidia earnings
-- Build-to-rent split could derail a bill to make houses affordable
-- Trump acquired stock in Disney, Netflix as he slammed them
-- US mortgage rates rise to highest level in 7 weeks: MBA
-- Earnings: Target looks to reclaim its 'Tarjay' moniker
-- Target CEO on earnings blowout: We saw broad consumer strength
-- Samsung faces chip plant strike that threatens global supply
+- U.S. markets closed
+- Nvidia beats on earnings, issues upbeat outlook
+- Nvidia's cash machine is now funding both sides of the AI trade
+- US stock futures slip as Wall Street shrugs off Nvidia earnings
+- Highest gas prices in years expected to continue rising this summer
+- OpenAI aims to file for IPO in the coming weeks
+- Oil plunges as Trump says US in 'final stages' of Iran deal
+- Elf Beauty forecasts weak year, flags up to $20 million hit from Iran war
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Nvidia's high-stakes earnings are on deck. What to expect.
-- The AI bots are coming and the young are booing, not applauding
-- Alibaba ramps up AI push with new chip to take on Nvidia
-- Intel, Micron, and other semiconductor stocks extend bounce ahead of Nvidia earnings
-- Bristol Myers to deploy Anthropic's Claude AI model to speed up drug discovery
-- Morgan Stanley asks bankers to carry a separate phone for China trips, source says
-- Euro stablecoin project adds 25 new banks
-- Bank of Israel seen resuming rate reductions next week with 25 bps cut - Reuters poll
-- Tech stocks today: Samsung strike talks break down, tech stocks bounce ahead of Nvidia earnings
-- Chipmaker Analog Devices forecasts third-quarter revenue above estimates amid AI boom
+- SpaceX is one step closer to the biggest IPO ever
+- Airbnb adds hotels, car rentals, grocery delivery in 2026
+- Fed meeting minutes: Officials eye rate hikes if inflation remains high
+- Australian regulator flags rising global private credit risks, steps up oversight
+- Japan's factory activity expands at slower pace, cost pressures surge
+- Japan April exports rise 14.8% year/year despite Middle East conflict
+- Samsung Electronics' shares jump after tentative wage deal suspends strike
+- Nvidia Tells Skeptical Investors That AI Is Ready to Go Mainstream
+- Anthropic nears first quarterly profit, agrees to pay SpaceX $1.25 billion monthly for computing power
+- Japan exports rise 14.8% year/year in April
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -141,72 +141,78 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Bitcoin Fails At Crucial Resistance: Why Is BTC Stuck At $77,000?
-- NVIDIA Started The AI Rally — Now Memory And Power Chip Stocks Are Stealing The Spotlight
-- Nvidia Triggering Dot-Com Crash 2.0? Kevin Gordon Says Stop 'Cherry-Picking' Data, Tech Isn't 'Euphoric'
-- Veteran Commodity Strategist Shorted Gold, But Here's Why He Sees It At $10,000
-- Wall Street's Most Accurate Analysts Give Their Take On 3 Industrials Stocks Delivering High-Dividend Yields
-- Stock Market Today: S&P 500, Nasdaq 100 Futures Gain As Street Awaits Nvidia's Q1 Report—CAVA Group, AMC Entertainment, Roblox In Focus
+- Anthony Scaramucci Recalls Moment Where A Waiter He Once Tipped Turned Out To Be A Potential Client With $35 Million Networth: 'Be Good To People'
+- 'Cool, So You're Rich And Have A Pool?' 'Ramsey Show' Host Reads 'Tone Deaf' DM, Fires Back 'Sorry That My Pool Picture Was So Triggering To You'
+- Rocket Lab Stock Falls After The Close: What's Happening?
+- Applied Digital Stock Jumps After The Bell: Here's Why
+- Trump's Birthday UFC Event Faces More Pressure: Netflix Just Set MMA Viewership Record
+- SpaceX IPO Filing Lands: First Look Inside Elon Musk's Public Offering
 - Jensen Huang
 - Bond Yields
-- Elon Musk's SpaceX Picks Goldman Sachs To Lead What Could Be The Biggest IPO Ever: Report
-- Intuit Likely To Report Higher Q3 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- Higher Gas Prices Have Consumers Visiting Costco, Sam's Club More: What The Data Shows
+- NIO Heads Into Q1 Earnings With Delivery Growth Secured, But Margins Are The Real Story
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 北约秘书长称盟国正在非正式讨论可在霍尔木兹海峡发挥的潜在作用
-- 美国称截至5月20日，已有90艘船只因封锁行动改道。（彭博）
-- 美国抵押贷款利率上周升至近两个月高点
-- BOSS直聘：2026年第一季度营收20.7亿元，经营利润6.24亿元
-- 美国5月15日当周MBA抵押贷款申请活动指数周环比 -2.3%，前值 1.7%。
-- 美以领导人通话“长时间且戏剧性”
-- 星巴克中国与云南农业大学达成战略合作
-- 孩之宝第二财季调整后每股收益1.47美元，预期为1.25美元。
-第二财季调整后息税折旧摊销前利润为3.394亿美元，预期为3.139亿美元。
-孩之宝仍预计全年调整后息税折旧摊销前利润为14.0亿至14.5亿美元，市场预期为14.4亿美元。
-- 塔吉特一季度净销售额254.4亿美元，同比增长6.7%。
-一季度调整后每股收益1.71美元，去年同期为1.30美元。
-塔吉特预计本财年调整后每股收益在7.50至8.50美元区间的高端。
-塔吉特美股盘前微跌。
-- 巴基斯坦内政部长再次访问伊朗
-- 劳氏第一季度调整后每股收益3.03美元，市场预估2.96美元。
-第一季度销售净额230.8亿美元，同比增长10%，预估229.8亿美元。
-第一季度同店销售增长0.6％，预估增长0.67％。
-仍然预测全年调整后运营利润率11.6％至11.8％
-- “低价值人力资本”言论引发争议后 渣打行政总裁试图安抚员工
+- 美媒：美以领导人围绕对伊下一步行动出现分歧
+- 美国新墨西哥州三人因接触不明物质死亡 十余人接受治疗
+- 捷克将接收一名曾接触埃博拉病毒感染者的美籍医生
+- 美国纽约市长猛烈回击贝索斯“皇后区教师税收论”
+- 华尔街见闻早餐 | 2026年5月21日
+- 韩国股市开盘前，三星电子在Nextrade上涨5%，该公司与工会达成协议。
+- 英伟达一季度业绩报告要点总结
+- 据知情人士透露，AvalonBay Communities Inc.与Equity Residential洽谈组建超级REIT（Mega-REIT）。
+双方接近达成巨型房地产投资信托协议。（彭博）
+- 马斯克：SpaceX洽谈向其他公司提供AI计算。
+- 提醒：日内请重点关注（以下均为北京时间）
+- 特斯拉公司自2023年开始已经向SpaceX销售价值8.9亿美元的电动汽车和电池。
+- SpaceX申请美国IPO的要点总结
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 中国体育用品业2025报告发布：总产出突破2万亿
-- 法国议会支持Moulin担任法国央行行长。（彭博）
-- 伊朗总统称战争期间能源生产供应未中断
-- 成立不到半年估值达70亿元，擎天租完成6轮融资跻身独角兽
-- 莫迪送糖引爆“乌龙行情” 印度一只股票意外大涨
-- 德方纳米：拟投资63亿元新建年产30万吨磷酸盐正极材料项目及年产27万吨硝酸配套项目
-- 【长鑫科技科创板IPO将于5月27日上会】据上交所网站披露，上交所上市审核委员会定于5月27日召开2026年第27次上市审核委员会审议会议，届时将审议长鑫科技集团股份有限公司的首发事项。
-- 2026上海国际碳中和博览会将在6月举办
-- 可立克：公司SST固态变压器相关产品仍处于研发与测试的早期阶段
-- 英国将推迟原定于9月启动的燃油税上调。（彭博）
+- 周三（5月20日）纽约尾盘，现货黄金涨1.35%，报4543.20美元/盎司。
+COMEX黄金期货涨0.78%，报4546.40美元/盎司。
+现货白银涨2.92%，报75.8819美元/盎司。
+COMEX白银期货涨3.01%，报75.951
+- SpaceX一季度营收46.9亿美元，（运营）净亏损42.8亿美元。
+一季度调整后EBITDA为11.3亿美元。
+一季度资本开支101.1亿美元，其中AI资本开支77.2亿美元。
+2025年营收113.9亿美元，运营净利润44.2亿美元。
+- SpaceX申请美国IPO，代码SPCX。
+将有两类股票：A类股和B类股。
+（首次公开发行股票前）马斯克投票权合计为85.1%，将控制“SpaceX需要股东批准的事项”。
+向马斯克授予2亿股业绩挂钩B类股。
+特斯拉持有（SpaceX）将近1
+- Anthropic PBC在融资过程中披露的数据显示，第二季度收入料增逾一倍，至109亿美元。
+预计6月当季实现营收利润。（华尔街日报）
+- 特朗普称愿意多花几天等待伊方消息
+- 穆迪：下调墨西哥评级至BAA3，之前为BAA2。
+- Applied Digital Corp.（APLD）美股盘后涨5%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。
+- 伊朗设立霍尔木兹海峡受控航行区，船舶通行需获许可
+- 英伟达：董事会授权追加800亿美元股票回购，将季度股息从每股0.01美元提高至0.25美元。
+- 英伟达2027财年一季度营收816.2亿美元，分析师预期791.9亿美元。
+一季度数据中心营收752亿美元，分析师预期734.8亿美元。
+一季度计算与网络营收745.50亿美元，Graphics营收70.65亿美元，边缘计算营收64亿美元。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Could Putin, Trump visits pave the way for ‘trilateral coordination’ with China?
-- Xi-Putin summit live: jabs at Golden Dome, possible US-Russia meet in Shenzhen
-- Beijing slams Lai as ‘destroyer’ of peace after leader’s anniversary speech
-- Trump’s Taiwan independence comments: a blow to William Lai and ruling DPP?
-- Diplomacy
+- Substance for Putin, ‘face’ for Trump as China, Russia deepen strategic alliance
+- Xi-Putin meeting: everything you need to know from the Beijing talks
 - Xi and Putin’s united front – from tigers to trade: the summit takeaways
+- Exclusive | Will US defence strategy architect Colby pave the way for Hegseth’s China visit?
+- What does Pete Hegseth’s presence in China say about Trump’s military agenda?
 - China Economy
-- Japanese firms warn of ‘severe’ magnet shortages as China’s exports remain low
+- Ex-mayor calls for stronger yuan, tariff cuts to reduce China’s trade surplus
+- Diplomacy
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Russian president has travelled to the Chinese capital just days after US leader Donald Trump’s visit
-- Lai portrayed his government as responding firmly to mainland pressure, days after Trump made anti-independence remarks.
-- The Chinese and Russian leaders are holding talks in Beijing, soon after Trump’s visit.
-- China’s exports of rare earth magnets to Japan recovered only modestly last month, with Japanese firms warning of ‘severe’ shortages.
+- Signing of over 40 agreements during Beijing summit between Xi Jinping and Vladimir Putin cements ‘historical peak’ in China-Russia ties
+- Sources say the Pentagon’s undersecretary for policy could arrive in Beijing ‘within weeks’ to finalise arrangements for defence chief’s trip.
+- Huang Qifan says coordinated policies, including gradual yuan appreciation and lowering of tariffs, are needed to address trade imbalances.
+- Chinese national charged in alleged scheme to smuggle drug shipments to US
+- Arrest shows signs of growing cooperation between US and China authorities in wake of last week’s Trump-Xi summit in Beijing.
 - Hong Kong Economy
-- Hong Kong minister touts gold as ‘bridge between conventional and new finance’
-- Treasury chief Christopher Hui also says city opted against separate regulatory authority for digital assets to support ‘convergence’.
+- Hong Kong’s Central Asia pivot aims to boost belt and road role, analysts say
+- Kazakhstan and Uzbekistan are logical destinations for city to pursue business opportunities amid geopolitical uncertainty, analysts say.
 - Inside the royal garden that is Putin’s ‘second home’ in China
-- Science
-- How China and Russia could team up to shift global science ‘centre of gravity’
+- Trump says Iran talks are nearing an end but warns of more strikes
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -238,34 +244,35 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 英偉達業績今夜美股盤後來襲！超預期基本沒懸念，但華爾街最關心這五個問題
-- 沃什上臺能逆轉美債利率上行嗎
-- 北水加倉港股超57億港元，淨買入中芯國際超21億港元，淨賣出兆易創新近5億港元
-- 黃金退卻流動性之後，回歸基本面
-- WWDC 2026，蘋果首屆AI還賬大會
-- 衝擊史上最大IPO！SpaceX即將公佈招股書，5大核心看點一文看懂
-- 從TACO到NACHO，交易邏輯變了，科技股「免疫」高油價還能撐多久？
-- AI數據中心互連巨頭Astera Labs斬獲「四重超預期」，股價漲幅碾壓大盤！RBC維持「跑贏大盤」評級
+- 富途早報 | 美股進入超級IPO時刻！SpaceX正式遞表、OpenAI或本週跟進；英偉達業績強勁，料下半年發貨Vera Rubin；美伊衝突降溫油價大跌
+- 英偉達Q1營收同比增85%超預期，毛利率75%高位穩定，新增回購800億且大幅上調股息
+- 美伊表態願意談判，報道稱5月底舉行，特朗普與內塔尼亞胡「激烈通話」
+- 外媒：OpenAI最快本週提交IPO申請，9月完成IPO，目標估值逾1萬億美元
+- SpaceX提交IPO招股書：2028年部署軌道算力衛星，馬斯克獎勵與火星百萬人口掛鉤
+- 泡沫加速下一關：十年美債的挑戰
+- 「燒錢」已是刻板印象！三大科技獨角獸之一Anthropic預計Q2營收翻倍，實現首度營業利潤
+- 美股夜盤：英偉達績後跌1%，Applied Digital再漲超7%，Rocket Lab跌超8%
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 美債風暴只是表象？一文讀懂：真正能衝擊AI牛的是流動性！
-- 霍爾木茲+厄爾尼諾雙殺，花旗警告：大宗商品恐爆發超級通脹風暴！
-- 不滿足於賣鏟子！黃仁勳16個月砸900億美元，幾乎把整個AI圈投了個遍
-- 債市風暴席捲全球之際 固收巨頭Pimco送來強心劑! 高呼最陡收益率曲線「修復時刻」已至
-- 收市速睇 | 三大指數漲跌不一，恒指跌0.57%，科指漲0.34%；半導體股、PCB概念股表現亮眼，兆易創新漲超17%，大族數控漲超3%
-- OpenAI等AI巨頭IPO是想風險轉嫁：把泡沫賣給散戶和養老金？
-- 美股存儲、半導體股盤前集體上揚，美光、邁威爾科技漲近4%
-- 段永平最新美股持倉曝光！豪擲12億美元重倉特斯拉，大舉加倉英偉達、拼多多
-- 外交部回應中美經貿合作：中美將盡快鎖定經貿成果
-- 多重利好提振港股存儲概念，兆易創新突破700港元大關，股價飆漲18%續創歷史新高
+- 英偉達電話會：需求在加速，Vera Rubin全週期供應受限，獨立CPU業務解鎖2000億美元市場
+- Q3營收增速創2024年來最慢！財捷一夜裁員17%，股價應聲暴跌
+- 一家公司撐起比特幣價格！市場需求疲軟下Strategy仍持續大規模增持
+- 美股收盤 | 美伊衝突降溫，三大指數齊漲超1%；半導體指數漲超4%，英偉達漲超1%，Astera Labs漲約18%；原油大跌5%，金銀走強
+- 貝索斯專訪：爲億萬富翁辯護，反對過早監管AI，特朗普"比第一任期更成熟"
+- 成交額TOP20 | 芯片股強勢反彈，ARM大漲15%，邁威爾漲6%齊創新高，AMD漲超8%，英特爾漲超7%；特斯拉漲超3%，FSD入華信號增強
+- Anthropic將迎首個盈利季度！本季營收翻倍衝上109億美元
+- 三星罷工危機暫解，加薪6.2%，芯片部門按業績10.5%計提獎金，以稅後股票發放
+- Rocket Lab申請發行價值不超過30億美元的普通股
+- 英偉達：完全相信能實現1萬億美元目標。預計今年CPU收入將達到200億美元。Vera CPU使公司能夠進入價值2000億美元的CPU潛在市場。目前獲批股票回購額度超千億美元。
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 伊朗/中东: 华尔街见闻 (简中), 经济通 (繁中)
-- 油价/霍尔木兹: SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 美国关税: 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
 - 加密货币: Benzinga (EN)
-- 就业数据: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
