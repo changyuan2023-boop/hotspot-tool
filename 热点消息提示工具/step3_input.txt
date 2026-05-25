@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年5月22日`
+`早间热点线索 · 2026年5月25日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -100,7 +100,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026052220
+抓取时间: 2026052509
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -108,25 +108,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 31m
-- Trump takes US investments into new territory
-- SpaceX's biggest IPO risks are also its bull case
-- Stocks waver amid US-Iran uncertainty, strong earnings season
-- Musk's SpaceX postpones Starship launch as mega share sale looms
-- Space ETFs booming in anticipation of SpaceX IPO
-- Nomura pivots away from Fed rate cuts in 2026 as inflation risks linger
-- JPMorgan sees Turkey central bank lift interest rates to 40% imminently
+- U.S. markets closed
+- SpaceX's IPO reveals a company spending like an AI giant: Chart of the Day
+- Hassett says ending Iran war may create room for Fed rate cut
+- Oil prices fall after Trump says Iran deal to be announced shortly
+- Elon Musk wants to put data centers in space. Here's what it could look like
+- Tariff refunds are showing up in a big way on the government's bottom line
+- Warsh suggests he may take Greenspan-style approach at the central bank
+- More older Americans are rejoining the workforce out of financial need
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- How CEOs are framing AI-driven layoffs
-- Investors look beyond TSMC as AI boom spreads to new winners
-- Spotify pushing pivot to AI content despite user pushback
-- Dollar nears six-week high; mixed signals on US-Iran deal feed uncertainty
-- AI driving productivity gains with steady headcount, Epsilon India head says
-- Stocks climb despite Iran uncertainty, dollar near recent highs, oil up
-- IBM just scored a $26 billion quantum windfall — and the stock's rally isn't over
-- U.S. equity funds record outflows on caution over higher yields
-- Wall St futures edge higher as investors monitor US-Iran peace talks
-- Explainer-From Meta to SpaceX: how dual-class shares keep founders in control
+- Stocks and earnings surge, and Iran deal may be imminent: The week ahead
+- Ebola spreads across Congo as flights halted, supplies run low
+- Iran war could add billions of dollars in interest payments to US debt
+- Gold Jumps as Prospects of Iran Deal Temper Inflation Concerns
+- Stocks rise, oil and dollar slide on Middle East peace hopes
+- Oil slips to 2-week low as US-Iran seen moving closer to peace deal
+- Strategists Warn Yields to Stay High Even If Iran War Ends
+- Treasury Market Ushers in Warsh Era With Bets on 2026 Rate Hike
+- Analysis-US Treasury rout tests Washington's tolerance for higher borrowing costs
+- Supertanker With Iraq Crude Exits Persian Gulf as Talks Continue
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -141,64 +141,65 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Rocket Lab Lands $90 Million US Space Force Deal
-- What's Going On With Alibaba Stock Friday?
-- What's Going On With Nokia Stock Friday?
-- Wall Street's Most Accurate Analysts Weigh In On 3 Materials Stocks With Over 3% Dividend Yields
-- 'Even Bigger Distraction': Democrat's Long-Delayed 192-Page Autopsy Reveals Why Kamala Harris Lost To Trump— And What's Missing
-- Stock Market Today: Dow Jones, S&P 500 Futures Gain As Investors Eye US-Iran Peace Talks—Estee Lauder, Workday, Zoom In Focus
-- Anthropic
-- Jensen Huang
-- Tesla Investors Beware? SpaceX IPO Could Pull Cash, Attention And Musk Away From EV Giant
-- NVIDIA Lags AI Rivals Even As It Sits 'At The Center Of All AI': Analyst
+- 'Dividends Aren't Free Money,' Investor Says. They Wonder Why People Chase Dividend Stocks Instead Of Just Selling Shares
+- Charlie Munger Said If A Family Has To Pay $5K To Have A Baby, 'They Don't Really Have Medical Insurance' —The Whole System Is 'Going Wrong'
+- Nio Stock's Earnings Selloff Raises Stakes for Li Auto and Xpeng
+- Top Stocks To Benefit As Goldman Sachs Touts Liquid Cooling As The Next AI Trade
+- Trump Says Iran Negotiations Proceeding In 'Orderly' Manner, Slams Obama's Nuclear Deal As 'One Of The Worst' Ever: 'Time Is On Our Side'
+- Iran Denies Any Deal on Nuclear Program Reached With US: Report
+- Donald Trump
+- NIO, Intuit, And Reddit Are Among Top 10 Large-Cap Losers Last Week (May 18-May 22): Are The Others In Your Portfolio?
+- AMC Entertainment, Nvidia, Arm Holdings And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week
+- Why AI Agents Are Becoming Stablecoins' Biggest Growth Driver
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 阿联酋与沙特阿拉伯和卡塔尔一道，敦促特朗普不要重启对伊战争。（彭博）
-- 经济学家上调美国通胀预期 推迟对美联储降息时间的预测
-- 特朗普在社交媒体帖子中称赞股市表现：股市创下新纪录。
-- 沙特媒体称获悉美伊协议草案 内容包括在所有战线实现停火
-- 长桥证券回应：将严格落实各项整改要求，依法合规推进相关安排
-- 伊朗外长会见巴基斯坦内政部长
-- 伊朗革命卫队称过去24小时有35艘船通过霍尔木兹海峡
-- 美媒：美国协助以色列防御消耗导弹数量远超以军
-- 腾讯承诺不再与相关版权方达成或变相达成版权独家授权合同
-- 美股盘前，美股存储芯片概念股走低，美光跌约1.8%，闪迪跌超2%。
-- 香港证监会：增强措施以应对伪造文件及洗钱风险并提高开户标准
-- 老虎回应遭证监会立案：将严格按照监管要求积极配合相关工作，目前公司各项业务运营正常
+- 美股期货涨幅扩大，纳斯达克100指数期货涨1.06%，标普500指数期货涨0.68%。
+- 华尔街见闻早餐 | 2026年5月25日
+- 提醒：日内请重点关注（以下均为北京时间）
+- 以军总参谋长称加大对黎真主党打击 准备随时恢复作战
+- 美国联邦基金期货上涨，12月合约上涨6个跳动点。
+- 布伦特原油期货低开3.5%，受美伊谈判进展影响。
+标普500指数期货涨约0.5%，纳斯达克100指数期货涨约0.6%。
+- 美国务卿称美伊协议草案获多国支持
+- 伊朗方面称现阶段伊尚未就核问题的细节做出任何承诺
+- 伊朗官员：霍尔木兹海峡的管理不会恢复到战前状态
+- 黎巴嫩真主党：拒绝与以色列进行直接谈判
+- 黎真主党：解除武装将导致黎巴嫩被逐步占领
+- 特朗普：美伊协议“尚未完全谈妥”
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- *ST闻泰：公司起诉荷兰安世半导体案获受理 涉案金额暂计80亿元
-- 【荣耀内部回应IPO问题：上市没有终止，开放员工减持通道】5月22日，荣耀遵照股改后一年没有上市约定，开放员工减持退出通道，选择退股员工将获得分红补偿，正式退股方案将于三个月内完成。当日，荣耀于下午16:00召开员工大会，相关入会人员不允许
-- 三星电子工会就临时薪资协议启动投票
-- 法国前总理阿塔尔正式宣布参加下届法国总统大选
-- 观想科技：子公司拟投资建设巴里坤AI科技成果转化总部基地项目，计划总投资约10亿元
-- *ST熊猫：公司股票终止上市
-- 中远海发：上海寰宇尚未收到美国司法部就该案送达的任何法律程序文件或其他法律文书
-- 天原股份：因未及时履行信息披露义务收到四川证监局警示函。
-- 中微公司：巽鑫投资拟减持不超过2%。
-- 澜起科技：上海融迎企业管理合伙企业拟减持1.00%股份
+- 今年以来科创债发行超8000亿元
+- 理财产品提前终止趋于常态化，主动“瘦身”成理财公司风控新策略
+- 资金涌入成长风格ETF，韩国投资者积极买入中国标的
+- 年内跌幅超过20%，市场人士称保险板块凸显低估值配置价值
+- A股市场波动有所放大，科技主线韧性仍存，机构：建议聚焦盈利兑现和高景气方向
+- 神舟二十三号航天员乘组顺利进驻“天宫” 中国航天员完成第8次“太空会师”
+- 布伦特原油期货日内跌幅扩大至4.4%，报每桶99美元。
+- 塞内加尔国民议会议长宣布辞职
+- 塞浦路斯议会选举计票结束，“民主大会党”赢得选举
+- 神舟二十三号载人飞船与空间站组合体完成自主快速交会对接
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- China cracks down on Tiger and Futu for illegal cross-border stock trading
-- Why more Hong Kong and mainland Chinese companies are building cash buffers
-- Tech Trends
-- China’s AI start-up funding triples in first quarter amid bets on LLMs, robotics
-- Hong Kong Economy
-- K-pop stars BTS to hold 3 concerts at Hong Kong’s Kai Tak Stadium in 2027
-- China Economy
-- China overtakes US to become top foreign investor in Germany
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- CSRC cracks down on three brokerages, as overseas stock demand rises on strong US tech earnings and easing Middle East tensions.
-- The fundraising boom follows years of state-led efforts to channel capital into strategic sectors such as chips, AI and manufacturing.
-- Boy band will perform on March 4, 6 and 7 as part of their ‘Arirang’ world tour, with tickets to sell for up to HK$3,299 each.
-- Deteriorating transatlantic relationship and high energy and labour costs are making American firms think twice before moving into German market.
-- Selfies and symbolism: behind the scenes from Xi’s summit with Trump, Putin
+- Exclusive | Stable US-China ties? It won’t last long, Evan Medeiros says
+- Open Questions | Mainland China’s Wu Yongping on what the Xi-Trump summit means for Taiwan
+- Science
+- Hong Kong’s first astronaut lifts off into space on Shenzhou-23 mission
 - Diplomacy
-- US Navy signals pause in Taiwan arms sale, drawing swift reaction from Beijing
-- Acting navy secretary suggests US$14 billion weapons deal is on hold, but Taipei says it has ‘no information’ about a freeze.
-- Politics
-- Myanmar’s Wei family go on trial in latest phase of China’s scam farm crackdown
+- Breaking the chain? Why Hainan holds the key to survival for China’s carriers
+- China Economy
+- Can currency swaps make China a lender of last resort?
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- After Trump’s China trip, political scientist gives his assessment on Taiwan, trade leverage, the Iran war and Beijing’s tensions with Tokyo.
+- The payload specialist is a part of a three-person crew, one of whom will be spending a year in space.
+- Sanya naval complex in country’s island province gives warships room to manoeuvre and counter US first island chain, report says.
+- Change is coming as the US dollar loses its shine and more yuan deals are struck, Zhu Min says.
+- Chinese traders in Iran keep business afloat as war capsizes naval shipping
+- China merges space programmes as race to the moon with US heats up
+- The country releases further details about how it is ‘combining experiences and expertise’ from its crewed and uncrewed lunar missions.
+- Business
+- Hong Kong banks pour money into wealth centres in pricey premises
+- HSBC, Standard Chartered and CNCBI splash out on large, harbour-view locations to lure wealthy clients and their fee income.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -230,37 +231,37 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 恒生指數公司季檢結果：MINIMAX、智譜納入恒生科技指數，極兔速睇、百濟神州納入恒指
-- 今晚23:00！聯儲局新主席沃什將宣誓就職，特朗普「減息夢」能實現嗎？
-- 本週美股牛股 | Arm Holdings周累漲近43%，AI Agent浪潮推升高能效CPU需求；Astera Labs漲28%，Q1業績炸裂且指引超預期，發佈智能Fabric交換機；IBM漲超15%，獲美國政府資金支持成立量子芯片公司
-- 內存、PCB、ABF！一文讀懂：英偉達沒漲，但Rubin生態圈全嗨了
-- 北水拋售港股近65億港元，淨買入中芯國際超32億港元，淨賣出阿里巴巴超20億港元，減倉騰訊控股超17億港元
-- 收市速睇 | 三大指數齊漲，科指漲2.11%，科網股多數上行，網易漲近6%；半導體股普漲，兆易創新漲近13%，天數智芯漲近10%
-- 中金：推理時代，CPU地位重塑
-- SpaceX自曝：最大資產和最大風險都是同一個人——馬斯克
+- 美伊談判進展擾動市場：國際油價繼續回落，美股期貨、現貨金銀上漲！霍爾木茲海峽有望重開，多項核心分歧仍未解決
+- 一週前瞻 | 美伊停火迎關鍵窗口！美國PCE通脹報告來襲；Q1業績期進入尾聲，小米、拼多多、邁威爾科技即將揭榜；週一港美股休市
+- DeepSeek爲何敢於逆市降價
+- 減重效果堪比手術！禮來RETA成史上最強「減肥神藥」，「幾年內肥胖將成爲罕見病」？
+- 中金：恒指季檢調整後工業與醫療保健業覆蓋度提升 6只股票或納入港股通
+- 特朗普：已通知代表不要急於達成協議 時間在我們這邊
+- 美伊協議"羅生門"：霍爾木茲海峽如何管？高濃縮鈾棄不棄？
+- 即便美伊協議快速達成，滙豐仍認爲「通脹影響持續存在，更多央行將加息」
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 英偉達加註量子賽道：旗下風投NVentures投資法國量子計算新銳Alice & Bob
-- 恒生指數今日季度審議！智譜、Minimax納入指數又進一步，股價雙雙飆升
-- 港股半導體股午後集體拉升，兆易創新再創歷史新高
-- SpaceX擬在德州建10吉瓦太陽能工廠 馬斯克「太空光伏」構想邁出關鍵一步
-- 港股PCB概念股午後持續飆升，覆銅板價格持續上行，頭部企業順價機制順暢
-- SpaceX上市文件公佈後首場關鍵試飛延期，「星艦V3」爲何如此重要？
-- 摩根大通警告：美債利率，正在成爲美股的「致命問題」
-- 港股午評 | 三大指數齊漲，科指漲超2%；AI應用、PCB概念股走強，智譜大漲近20%創新高，建滔積層板漲超9%；聯想集團績後大漲超16%，網易漲超8%
-- OpenAI今日交表，最快9月上市？Altman：上市時機仍存變數
-- 一圖前瞻 | 小米集團Q1業績26日出爐！手機主動收縮換結構，汽車和AI撐起新敘事
+- 美媒：協議含放棄濃縮鈾 伊朗：暫不談核問題
+- 重倉AI芯片還不夠，韓國散戶再獲「加速器」：個股槓桿ETF即將登場，掛鉤三星、SK海力士
+- 週末讀物 | 「退保買股」，韓國60歲以上老人正在借錢押注三星、海力士
+- 週末讀物 | 美資巨頭：AI最賺錢的地方，不在模型，在亞洲工廠
+- 1季度做了3711筆交易！高頻交易、先買後吹——這是「白宮股神」特朗普的交易策略
+- 霍爾木茲海峽傳來大消息，加密貨幣市場全線拉升！比特幣一度回升至7.7萬美元上方
+- 港股，萬億解禁潮將來襲
+- 美國官員：在特朗普所稱協議中，伊朗同意放棄高濃縮鈾
+- 美伊最新局勢：特朗普稱美伊協議基本談成，細節將於近期公佈；伊朗：伊美正處於諒解備忘錄最終敲定階段
+- DeepSeek官宣永久降價！正在推進700億元融資
 
 --- 跨站重点主题（多站出现=更重要）---
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
-- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
-- 中国政策/两会: 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN)
-- 就业数据: SCMP (EN/中)
+- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
+- 美国关税: Yahoo Finance (EN)
+- 加密货币: Benzinga (EN)
+- 就业数据: Benzinga (EN)
+- 中国/欧盟: SCMP (EN/中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
