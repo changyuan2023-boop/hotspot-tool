@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`早间热点线索 · 2026年5月27日`
+`早间热点线索 · 2026年5月28日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -100,7 +100,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026052709
+抓取时间: 2026052809
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -109,24 +109,24 @@
 - Sports
 - New on Yahoo
 - U.S. markets closed
-- Micron tops $1T as stock surges
-- US touts Iran deal prospects amid fresh tensions in Hormuz
-- US stock futures slip amid uncertainty over US-Iran talks
-- Dana White: 'Zuckerberg might be one of the biggest killers in the history of killers'
-- Pentagon spars with SpaceX over Starlink price hike during Iran war
-- Volvo wins US approval to import cars with Chinese 'connected technology'
-- The road to Micron's $1 trillion milestone: Chart of the Day
+- Salesforce gives lukewarm outlook that fuels disruption fears
+- Best Buy earnings preview: Wall Street expects sales boost
+- US stock futures edge up as AI lifts tech earnings
+- Robinhood rises after the company allows AI agents for trading
+- Google engineer charged with insider trading on Polymarket
+- Marvell boosts annual forecast, citing AI-fueled demand
+- Trump Accounts app to go live Thursday
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Prepare for a 'Hormuz hangover'
-- OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse'
-- SpaceX IPO ignites a rocket-fueled frenzy in these stocks and ETFs
-- NASA picks Blue Origin, other space firms for moon missions
-- IREN to buy Blackwell systems from Dell for about $1.6 billion
-- Ferrari stock falls after unveiling of Luce, a new $640,000 EV designed by Jony Ive
-- SpaceX set for fast entry into US, global indexes under new FTSE rules
-- US Space Force awards SpaceX $2.29 billion contract for military space data network
-- US plans tariffs on USMCA countries, has issues with Canada
-- Insulet flags dosing defect in some Omnipod devices, sees up to $50 million cost
+- Snowflake soars on earnings beat
+- Pentagon awards Microsoft $9.7B deal in bid to cut costs
+- HP beats on earnings as AI boosts PC, Windows demand
+- Oil rebounds after news of US strikes on Iranian military site
+- Nvidia chief Jensen Huang to join board of Beijing's Tsinghua University, FT reports
+- US Strikes Iran Targets as Trump Vows to ‘Watch Over’ Hormuz
+- Japan to issue 'bridging bonds' to fund investment schemes, Nikkei says
+- Fed's Jefferson says monetary policy is 'well positioned' amid inflation risks
+- Oil Rises on Report of Fresh US Strikes With Hormuz Still Shut
+- US charges Google engineer with insider trading on Polymarket
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -141,108 +141,141 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- He's Dating A Millionaire Businesswoman, But Says The Experience Is Not What People Think. 'She'll Expect Me To Pay For Dinner And Dates'
-- After Years Of Consistently Funding A Roth IRA, They're Starting To Wonder If They're 'Doing It Right' After Seeing Other People's 'Crazy Growth'
-- Elon Musk's Tesla-SpaceX Merger Chatter Gets Louder
-- Senator Makes Rare Stock Trade, May Have Lost Big
-- QTUM ETF Crosses $5 Billion Even As IBM, Rigetti, IonQ, D-Wave Cool Off
-- SpaceX 'Hasn't Earned Its Seat At The Table Yet': Why One Market Expert Is Pushing Back On S&P 500 Inclusion
-- Ross Gerber
+- Boston Couple Want To Divorce So One Can Claim Vacation Home And Save $100K On 'Spoiled' Kid's College Tuition — Dave Ramsey Says 'You're Weird'
+- Tesla Patent Could Protect Two Biggest Future Revenue Drivers: Here's Why 'Lens Cleaning System' May Matter
+- KKR, Capital Group Target Wealthy Clients With New Credit Play
+- Dell Wins $9.7 Billion Pentagon Contract, Fueling Stock Rally
+- Nebius Stock Jumps After Situational Awareness Hedge Fund Reveals Stake
+- SpaceX's 'Craziest IPO Ever' Makes Wall Street Do The Math On A Million Martians
 - Bill Ackman
-- Firefly Stock Is Falling After The Close: Here's Why
-- Nasdaq 100 Hits Record Above 30,000 On Micron's 18% Rally: Stock Market Today
+- Dow Jones Hit Records Above 50,600 As Oil Sinks Below $90: Stock Market Today
+- MongoDB Stock Darts Higher After The Bell: Here's Why
+- How Claude On AWS Bedrock Is Winning The Cloud Margin War
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 特朗普任命美前司法部长邦迪加入白宫人工智能顾问委员会
-- 特朗普任命美国前司法部长邦迪进入白宫AI小组。（Axios）
-- 王毅谈当前伊朗局势僵局
-- 报道：台积电3纳米代工价下半年看涨15%，明年恐再调升
-- 华尔街见闻早餐 | 2026年5月27日
-- 富时罗素修改规则：大盘股IPO可加速纳入指数，SpaceX再迎利好
-- 提醒：日内请重点关注（以下均为北京时间）
-- Albert Manifold：我在没有得到预先警告的情况下被英国石油免掉董事长职务。
-不认可公司给出的行为指控。
-驳斥关于自己行为的“虚假叙事”。
-- 伊朗官员：美国处于“请求”与伊朗达成协议的地位
-- Baseten洽谈按110亿美元估值融资10亿美元。（The Information）
-- 朝鲜进行新型武器系统试射
-- 现货黄金日内涨幅达0.5%，报4536.84美元/盎司。
+- 贝森特将于美东时间周四下午2点在白宫举行新闻发布会
+- 美联储副主席杰斐逊：能源冲击是美国经济增长的阻力，但我们依然保持了增长，部分原因在于强劲的AI投资。
+在货币政策沟通中，必须将重点放在监测与供应冲击以及投资需求飙升相关的第二轮效应上。
+- 美国明尼阿波利斯联储主席卡什卡利：劳动力市场“处于良好状态”。
+消费者价格依然“过高”。
+通胀仍然是重中之重。
+- 美联储副主席杰斐逊：美联储不仅要进行沟通，更重要的是采取行动，以便公众理解我们的意图以及将通胀率带回2%目标的承诺。
+货币政策对（能源冲击的）第一轮效应无能为力，我们能做的是确保它不会转化为第二轮效应，比如影响到通胀预期。
+- 美官员称美军击落4架伊朗无人机
+- 美联储副主席杰斐逊：并未对6月FOMC会议的结果做出预判。
+货币政策“处于有利位置”以应对经济状况。
+坚定致力于将通胀率带回2%的目标。
+通胀前景面临的风险偏向上行。
+预计随着关税和能源冲击的影响消退，通胀将在今年晚些时候减弱。
+能源冲击对
+- 美官员：美军对伊朗军事设施实施新打击
+- 报道：美国对伊朗军事目标发动新一轮攻击
+- 华尔街见闻早餐 | 2026年5月28日
+- 迈威尔科技预计定制芯片业务2029财年营收超100亿美元
+- 谷歌工程师因涉嫌在Polymarket预测市场进行内幕交易遭起诉
+- 美国纽约州议会在州预算中通过“第二套房税”
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 前纽约联储主席：当前降息理由很弱，中性利率可能高于美联储假设
-- 2/10年期美债收益率跌约7个基点
-- Figure AI Inc.与Catalyst Brands围绕扫描人形机器人运行情况达成协议。
-这次合作在Catalyst旗下Reno分发物流中心启动。
-- 美媒：紧要关头，特朗普拟在戴维营召开内阁会议
-- 外交部长王毅在联合国安理会“维护联合国宪章宗旨和原则，加强以联合国为核心的国际体系”高级别会议上讲话
-- 美国总统正与以色列总理通电话。（Axios）
-- 芝加哥小麦期货跌超1.7%
-- 美华盛顿州一日资企业发生化学爆炸，多人死亡
-- 美国国家航空航天局（NASA）：萤火虫太空（Firefly）的“鞘翅”（Elytra）航天器将把首批无人机送上月球。
-- WTI 7月原油期货收跌2.71美元，跌幅2.81%，报93.89美元/桶。
-布伦特7月原油期货收涨3.44美元，涨幅3.58%，报99.58美元/桶。
-NYMEX 6月天然气期货收报2.8940美元/百万英热单位。
-NYMEX 6月汽油期
+- 迈威尔科技一季度净营收24.2亿美元，分析师预期24.1亿美元。
+预计二季度净营收25.7亿-28.4亿美元，分析师预期26.1亿美元。
+- 亚马逊与Snowflake达成60亿美元协议，采购Graviton智能计算芯片。
+Snowflake承诺在未来五年内在亚马逊云服务(AWS)上投入60亿美元用于Graviton计算和人工智能支出。
+客户如Fetch和Hex正在亚马逊云服务(
+- 新思科技第二财季营收22.8亿美元，同比增长42%。
+第二财季调整后每股收益（EPS）为3.35美元，上年同期3.67美元。
+任命Jesse Cohn为董事。
+公司统一与Elliott合作。
+预计全年营收96.3亿-97.1亿美元，公司原本
+- Meta收涨3.7%，创4月14日以来最大单日涨幅。
+- Salesforce发布温和指引，加剧市场对AI颠覆软件业的担忧
+- AppLovin收涨10%，创2月9日以来最佳单日表现。
+- 中概指数收涨1%，奇富科技涨25%，蔚来涨超9.3%，CQQQ跌1.5%，阿里跌超1.3%，拼多多跌约10.4%
+- 道指收涨超0.3%，半导体指数回撤超1.3%
+- 美联储理事库克：如果通胀不缓解，我已准备好加息
+- 追踪数据显示：一艘目的地为古巴的燃油货轮改变航向。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Back on the rails: Dandong’s border traffic hints at a China-North Korea thaw
-- China’s Xi Jinping expected to visit North Korea as early as next week
-- Diplomacy
-- US to seek public comment on which Chinese goods qualify for lower tariffs
-- China Economy
-- Boring China: how Chinese firms are creating a new breed of tunnelling machine
-- Transport
-- Passengers praise efficiency as Hong Kong airport’s Terminal 2 opens
+- As Iran war stokes water security fears, Central Asia could turn to China
+- As US-Iran war chokes Hormuz, can ‘Middle Corridor’ rise to the rescue?
+- Military
+- China slams ‘provocative acts’ after driving Dutch warship away from Paracels
+- China
+- As US pressures Cuba, Beijing holds talks with Havana on agriculture
+- Hong Kong Economy
+- Hong Kong eyes Central Asian listings as HKEX CEO pitches city’s deep liquidity
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- The resumption of train routes and a spike in overland trade underscore a reset in ties ahead of a reported leaders’ summit.
-- Trump’s trade chief says administration has ‘come to terms’ with the fact that China won’t fundamentally change its political-economic model.
-- Huge machine is the largest of its kind exported by China and will cut through a complex environment to create a 6.5km six-lane tunnel.
-- But some call for clearer signage, citing difficulty navigating from the old terminal.
-- Concerns mount in China’s space sector that Musk’s Starship will be a failure
-- Panama encourages dialogue at UN as canal tensions with China simmer
-- Panama’s foreign minister uses UN speech to help defuse tension after deterioration in Panama-China relations due to canal dispute.
-- US weighs offensive space tactics as China satellite rivalry intensifies
-- Former Pentagon official says Washington is debating ways to deny Beijing use of space amid fears over military miscalculation.
-- Politics
+- Nations facing chronic water shortages might look to Chinese investment to upgrade their creaking Soviet-era infrastructure, observers say.
+- PLA says it used electronic interference and warnings against Dutch frigate as tensions widen in South China Sea.
+- Chinese support includes rice shipments and diplomatic backing as Trump administration ramps up sanctions and rhetoric.
+- Bonnie Chan says city seeks closer collaboration with region ahead of city leader’s high-level trip to Kazakhstan and Uzbekistan in early June.
+- First China, now South Korea: why Asian powers are turning to Arctic shipping
+- Tech War
+- Peking University unveils design tool to power Huawei’s chip ambitions
+- The university’s new chip design software is compatible with Huawei’s LogicFolding architecture introduced on Monday.
+- Science
+- Chinese team uses supercomputer to cut drug screening time from years to seconds
 
 ## 经济通 (繁中)
-（抓取失败: HTTPSConnectionPool(host='www.etnetchina.cn', port=443): Read timed out. (read timeout=30)）
+头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
+- 沪深港通 热点观察国际动态【FOCUS】
+- 首季经调整少赚43%仍胜预期，小米股价先升后急跌
+- 南方续强降雨 中央再预拨1.6亿救灾
+- 伊朗：与美协议 将要求60日全面停火
+- 股价腰斩财报减速，小米生态借“家”筑底
+- 指数环球商品外汇
+- 国金观点
+- 港股大市分析
+- 期货期权：
+- 香港权证：
+- 环球基金：
+- ETF：
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- 恒生指数25328.23-271.22(-1.06%)
+                    etnet.com.hk@copyright
+- 国企指数8463.02-113.87(-1.33%)
+                    etnet.com.hk@copyright
+- 上证指数3152.19+11.34(+0.36%)
+                    etnet.com.hk@copyright
+- 理财/管理
+- 时尚艺术
+- 健康人生
+- 吃喝玩乐
 
 ## 智通财经 (简中)
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 納指100突破3萬點創新高，美光市值站上萬億美元；SpaceX IPO將至，美股太空概念狂歡；拼多多、快手業績今日將揭榜
-- 美光市值破1萬億美元，收漲超19%，創2011年以來最大單日漲幅
-- 日韓股市再創新高，韓股盤中大漲5%觸發熔斷、SK海力士市值破萬億美元
-- 報道：台積電3納米下半年漲價15%，明年或再漲10%
-- AI ASIC與光互連雙引擎轟鳴！業績前夜，華爾街集體上調邁威爾科技目標價
-- SpaceX IPO即將到來，美國太空股全線飆漲！
-- 聯儲局信譽警報拉響! 前紐約聯儲主席警告2%通脹目標失守五年，「沃什時代」減息邏輯愈發薄弱
-- SpaceX啓動IPO燃爆市場，火箭與衛星概念股全線暴漲
+- 富途早報 | 美伊談判信號不一，美軍稱再襲伊朗；聯儲局警告：通脹預期升溫；SpaceX上市引發太空概念狂歡，市場流動性擔憂增強
+- 美軍稱對伊朗軍事基地發動新打擊！特朗普放話：不會爲了中期選票對伊讓步
+- 「ASIC巨頭」邁威爾科技季度營收創紀錄、連續上調指引，CEO稱數據中心業務「着火了」
+- 邁威爾科技2027財年Q1營收24.18億美元，同比增長28%；調整後EPS0.8美元
+- 伊朗局勢影響聯儲局政策！德銀推演影響全球市場的「三種場景」
+- 美股投資必備！6月重磅大事搶先看，這些影響漲跌的日子都圈出來了
+- 「銅關稅」交易歸來，全球銅市再現「搶運美國」潮
+- 賽富時指引不及預期，AI顛覆軟件隱憂加劇
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 成交額TOP20 | 特朗普盛讚！美光飆升19%躋身萬億俱樂部，閃迪跟漲7%；高通漲超4%，獲字節芯片訂單；邁威爾業績前夜漲超6%
-- 美股收盤 | AI熱潮驅動股指走強，標普納指再新高；半導體指數5連漲，美光大漲19%，AMD漲超7%；太空概念股Rocket Lab漲超5%，ASTS漲超13%
-- 城堡證券：通脹已成主要風險，聯儲局應儘快轉向加息
-- 美國公佈最新月球基地建設路線圖
-- 美國貿易代表格里爾：特朗普10%全球關稅7月到期後或重新徵收
-- MiMo-V2.5系列API永久降價，最高降幅達99%
-- 美媒稱美國悄然恢復霍爾木茲海峽護航，美軍否認，油運風險遠未解除
-- 五角大樓被SpaceX掐咽喉：星鏈坐地起價漲五倍，雙方激烈爭執，馬斯克否認
-- 富時羅素表示，符合條件的快速准入IPO將在初始上市後第五個交易日收盤後納入。SpaceX將被獨立審查以決定是否納入指數。
-- 美債長端利率劇烈震盪，是假突破還是新一輪重新定價的開始？
+- 美股夜盤：NEBIUS大漲超10%；邁威爾科技、新思科技、惠普績後跌超2%
+- Snowflake公佈超預期業績，與AWS簽訂60億美元採購協議，股價應聲大漲
+- 商用PC回暖難掩內存成本上漲！惠普下調財年利潤上限，需求前置恐透支Q4增長
+- 特朗普威脅「炸飛」阿曼：沒人能控制霍爾木茲海峽，伊阿共管草案遭否
+- 聯儲局理事庫克：如果通脹不緩解，我已準備好加息
+- 成交額TOP20 | 續漲3%！美光再創新高；績後表現低迷，英偉達連跌四日；豪擲16億美元加碼Blackwell系統，IREN大漲14%
+- 美股收盤 | 美伊表態互相矛盾，股指震盪收漲；太空概念延續漲勢，ASTS、Redwire漲超8%，RKLB漲近5%；原油重挫4%，金銀走弱
+- 機構：美國戰略儲備原油有史以來首次運往加利福尼亞州
+- 美國官員：美國國防部向微軟(MSFT.O)授予了97億美元的企業軟件合同，旨在降低成本。
+- 聯儲局理事庫克：若通脹持續，準備加息
 
 --- 跨站重点主题（多站出现=更重要）---
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 就业数据: Yahoo Finance (EN), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
 - 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: 华尔街见闻 (简中)
 - 加密货币: Benzinga (EN)
+- 就业数据: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
