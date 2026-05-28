@@ -3,72 +3,60 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Salesforce gives lukewarm outlook that fuels disruption fears | Best Buy earnings preview: Wall Street expects sales boost | US stock futures edge up as AI lifts tech earnings
-  - 其他: Snowflake soars on earnings beat | Pentagon awards Microsoft $9.7B deal in bid to cut costs | HP beats on earnings as AI boosts PC, Windows demand | Oil rebounds after news of US strikes on Iranian military site | Nvidia chief Jensen Huang to join board of Beijing's Tsinghua University, FT reports
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 31m | US strikes Iran targets as Trump vows to 'watch over' Hormuz | Musk says SpaceX did not commit to long-term lease with Anthropic | Best Buy earnings preview: Wall Street expects sales boost
+  - 其他: US stock futures drop following US strikes in Hormuz | ByteDance developing custom CPU chips to support AI rollout | AI giants bet billions on the most expensive job In enterprise | Dollar rises with Iran conflict, US rate outlook in focus | ECB's decision to hold rates was close call for some, accounts show
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Boston Couple Want To Divorce So One Can Claim Vacation Home And Save $100K On 'Spoiled' Kid's College Tuition — Dave Ramsey Says 'You're Weird' | Tesla Patent Could Protect Two Biggest Future Revenue Drivers: Here's Why 'Lens Cleaning System' May Matter | KKR, Capital Group Target Wealthy Clients With New Credit Play | Dell Wins $9.7 Billion Pentagon Contract, Fueling Stock Rally | Nebius Stock Jumps After Situational Awareness Hedge Fund Reveals Stake
+  - 其他: Millions Still Uncovered As US Uninsured Rate Refuses To Budge Amid Pricey Medical Bills | Dollar Tree Is Now On DoorDash | Wall Street's Most Accurate Analysts Give Their Take On 3 Tech And Telecom Stocks With Over 4% Dividend Yields | What's Going On With Broadcom Stock Thursday? | NetApp Likely To Report Higher Q4 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 贝森特将于美东时间周四下午2点在白宫举行新闻发布会 | 美联储副主席杰斐逊：能源冲击是美国经济增长的阻力，但我们依然保持了增长，部分原因在于强劲的AI投资。
-在货币政策沟通中，必须将重点放在监测与供应冲击以及投资需求飙升相关的第二轮效应上。 | 美国明尼阿波利斯联储主席卡什卡利：劳动力市场“处于良好状态”。
-消费者价格依然“过高”。
-通胀仍然是重中之重。 | 美联储副主席杰斐逊：美联储不仅要进行沟通，更重要的是采取行动，以便公众理解我们的意图以及将通胀率带回2%目标的承诺。
-货币政策对（能源冲击的）第一轮效应无能为力，我们能做的是确保它不会转化为第二轮效应，比如影响到通胀预期。 | 美官员称美军击落4架伊朗无人机 | 美联储副主席杰斐逊：并未对6月FOMC会议的结果做出预判。
-货币政策“处于有利位置”以应对经济状况。
-坚定致力于将通胀率带回2%的目标。
-通胀前景面临的风险偏向上行。
-预计随着关税和能源冲击的影响消退，通胀将在今年晚些时候减弱。
-能源冲击对 | 美官员：美军对伊朗军事设施实施新打击 | 报道：美国对伊朗军事目标发动新一轮攻击
-  - 其他: 迈威尔科技一季度净营收24.2亿美元，分析师预期24.1亿美元。
-预计二季度净营收25.7亿-28.4亿美元，分析师预期26.1亿美元。 | 亚马逊与Snowflake达成60亿美元协议，采购Graviton智能计算芯片。
-Snowflake承诺在未来五年内在亚马逊云服务(AWS)上投入60亿美元用于Graviton计算和人工智能支出。
-客户如Fetch和Hex正在亚马逊云服务( | 新思科技第二财季营收22.8亿美元，同比增长42%。
-第二财季调整后每股收益（EPS）为3.35美元，上年同期3.67美元。
-任命Jesse Cohn为董事。
-公司统一与Elliott合作。
-预计全年营收96.3亿-97.1亿美元，公司原本 | Meta收涨3.7%，创4月14日以来最大单日涨幅。 | Salesforce发布温和指引，加剧市场对AI颠覆软件业的担忧
+  - 头版/首屏: 美国财长贝森特感谢纽约梅隆银行和Robinhood在处理特朗普账户方面所做的工作。 | 柯尔百货第一季度销售净额30亿美元，预估29.9亿美元。
+第一季度每股亏损0.13美元，上年同期每股亏损0.13美元。
+柯尔百货仍然预测全年营业利益率2.8％至3.4％，市场预估3.28％。
+柯尔百货仍然预测全年调整后每股收益1美元至1.6 | 伊朗伊斯兰革命卫队称将对霍尔木兹的侵扰做出“果断”回应 | 美股期货走低，纳斯达克100指数期货跌0.5%。 | 小鹏广州工厂：6月要生产7000辆GX，“这是死命令” | 美国：伊朗向科威特发射的导弹已被拦截。
+伊朗此举是对停火协议的严重违反。 | 礼来美股盘前涨近2%，美国大型医疗保健公司CVS将礼来公司的Zepbound纳入首选药物清单，此举与之前做法相反。 | 香港银行收紧开户，灰色中介仍在炒作“最后窗口期”
+  - 其他: 伊朗媒体称一艘试图穿越霍尔木兹海峡的美国油轮被迫折返 | 摩根士丹利：快手业绩超预期 AI产品可灵的贡献抵消了核心业务疲弱 | 特朗普政府正在就资助美国无人机公司进行谈判。（华尔街日报） | 贝森特将于美东时间周四下午2点在白宫举行新闻发布会 | 美联储副主席杰斐逊：能源冲击是美国经济增长的阻力，但我们依然保持了增长，部分原因在于强劲的AI投资。
+在货币政策沟通中，必须将重点放在监测与供应冲击以及投资需求飙升相关的第二轮效应上。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: As Iran war stokes water security fears, Central Asia could turn to China | As US-Iran war chokes Hormuz, can ‘Middle Corridor’ rise to the rescue? | Military | China slams ‘provocative acts’ after driving Dutch warship away from Paracels | China | As US pressures Cuba, Beijing holds talks with Havana on agriculture | Hong Kong Economy | Hong Kong eyes Central Asian listings as HKEX CEO pitches city’s deep liquidity
-  - 其他: Nations facing chronic water shortages might look to Chinese investment to upgrade their creaking Soviet-era infrastructure, observers say. | PLA says it used electronic interference and warnings against Dutch frigate as tensions widen in South China Sea. | Chinese support includes rice shipments and diplomatic backing as Trump administration ramps up sanctions and rhetoric. | Bonnie Chan says city seeks closer collaboration with region ahead of city leader’s high-level trip to Kazakhstan and Uzbekistan in early June. | First China, now South Korea: why Asian powers are turning to Arctic shipping
+  - 头版/首屏: Alibaba, Tencent lead pivot from chatbots to embodied AI for robotics | ‘Sharif speed’ meets Qwen AI: how Alibaba sealed a sweeping deal with Pakistan | Politics | China’s top military officials face ‘ironclad’ rules in anti-corruption fight | Diplomacy | China slams US commander’s ‘dagger’ label for South Korea | China Economy | Mainland Chinese react as Hong Kong tightens access to offshore investing routes
+  - 其他: Embodied AI and autonomous agents are increasingly viewed by investors as one of the next major growth areas for the sector, UBS says. | Measures cover education, management and supervision of senior cadres and coincide with emphasis on study of Xi Jinping Thought. | China’s embassy in Seoul says USFK commander Xavier Brunson’s ‘hostile and aggressive remarks’ on podcast ‘crossed the line’. | Banks have been ordered to step up checks, part of wider efforts to strengthen oversight of cross-border capital flows. | European leaders get ready to ‘act now’ amid rising fears of ‘China shock 2.0’
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 首季经调整少赚43%仍胜预期，小米股价先升后急跌 | 南方续强降雨 中央再预拨1.6亿救灾 | 伊朗：与美协议 将要求60日全面停火 | 股价腰斩财报减速，小米生态借“家”筑底 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25328.23-271.22(-1.06%)
-                    etnet.com.hk@copyright | 国企指数8463.02-113.87(-1.33%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 蔚来新车ES9上市，股价曾飙一成还有得升？ | 小红书获世界杯转播权 冀冲2亿“日活” | 伊朗：与美协议 将要求60日全面停火 | 万亿美元资本外流？跨境理财“精准筑坝” | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25006.16-322.07(-1.27%)
+                    etnet.com.hk@copyright | 国企指数8364.41-98.61(-1.17%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 美伊談判信號不一，美軍稱再襲伊朗；聯儲局警告：通脹預期升溫；SpaceX上市引發太空概念狂歡，市場流動性擔憂增強 | 美軍稱對伊朗軍事基地發動新打擊！特朗普放話：不會爲了中期選票對伊讓步 | 「ASIC巨頭」邁威爾科技季度營收創紀錄、連續上調指引，CEO稱數據中心業務「着火了」 | 邁威爾科技2027財年Q1營收24.18億美元，同比增長28%；調整後EPS0.8美元 | 伊朗局勢影響聯儲局政策！德銀推演影響全球市場的「三種場景」 | 美股投資必備！6月重磅大事搶先看，這些影響漲跌的日子都圈出來了 | 「銅關稅」交易歸來，全球銅市再現「搶運美國」潮 | 賽富時指引不及預期，AI顛覆軟件隱憂加劇
-  - 其他: 美股夜盤：NEBIUS大漲超10%；邁威爾科技、新思科技、惠普績後跌超2% | Snowflake公佈超預期業績，與AWS簽訂60億美元採購協議，股價應聲大漲 | 商用PC回暖難掩內存成本上漲！惠普下調財年利潤上限，需求前置恐透支Q4增長 | 特朗普威脅「炸飛」阿曼：沒人能控制霍爾木茲海峽，伊阿共管草案遭否 | 聯儲局理事庫克：如果通脹不緩解，我已準備好加息
+  - 头版/首屏: 英偉達Computex前瞻：黃仁勳將帶來哪些AI算力「核彈」？ | 造芯片馬斯克是認真的！Terafab「顯著高於市場價」採購關鍵設備，以「極少人力衝刺極短時間目標」 | 人民銳評：「韜定律」，做時間的朋友 | 「特朗普帳戶」配套APP週四上線，新生兒可領1000美元炒股 | 牛市還在嗎？黃金跌至兩個月低點，逼近4370美元「生死線」 | 算力荒愈演愈烈？馬斯克：SpaceX僅向Anthropic短租半年算力 緊張時或收回 | 英偉達黃仁勳將於下週訪問韓國 | 小鵬Q1營收130億元，淨虧損擴大至17.8億元，二季度交付指引超預期
+  - 其他: 北水加倉港股超76億港元，淨買入中芯國際近42億港元，淨賣出阿里巴巴超13億港元 | 理想汽車Q1營收230億元，同比下降11%，二季度營收指引低於預期 | 獲特朗普與瑞銀「齊聲唱好」 美光突破萬億市值後 上漲行情或尚未結束？ | 收市速睇 | 三大股指收跌，恒指跌1.27%；科網股低迷，美團跌5%；人工智能概念走強，智譜漲13%，華虹半導體漲超11%，聯想集團漲3%，均創歷史新高 | 白銀暴跌後多家投行唱淡：工業需求遭高價反噬 銀價或繼續承壓
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (6 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中) (5 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
 - **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
 - **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
 - **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
 - **加密货币** — 出现于: Benzinga (EN) (1 站)
-- **就业/经济数据** — 出现于: 华尔街见闻 (简中) (1 站)
+- **黄金/大宗商品** — 出现于: Benzinga (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 伊朗/中东局势（6 站）
+- 伊朗/中东局势（5 站）
 - 科技股/个股（5 站）
-- 油价/能源（4 站）
-- 黄金/大宗商品（2 站）
+- 油价/能源（2 站）
 - 美联储/利率（2 站）
 - 中国/欧盟（2 站）
 - 关税/贸易政策（1 站）
 - 加密货币（1 站）
-- 就业/经济数据（1 站）
+- 黄金/大宗商品（1 站）
 - 中国政策（1 站）
+- 就业/经济数据（0 站）
