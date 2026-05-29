@@ -1,7 +1,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026052909
+抓取时间: 2026052920
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -9,25 +9,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets closed
-- US, Iran agree to 60-day truce renewal pending Trump signoff
-- Anthropic tops OpenAI's valuation
+- U.S. markets open in 1h 30m
+- Stock futures waver as Wall Street braces for US-Iran update
+- 'You cannot print molecules': The oil market is running out of options
+- GOP lawmakers' portfolios are migrating to Trump favorites
 - Fed's inflation gauge heats up, cementing steady rate path
-- Costco sells 'record-breaking' amounts of gas as fuel costs soar
-- Snowflake earnings boost stock to best day on record
-- Dell jumps after earnings signal AI fueling demand
-- US consumer spending comes under pressure as inflation picks up
+- Lilly just cemented its status as Wall Street's ultimate weight-loss play
+- The tech trade is overcrowded. Here's your ETF escape route.
+- Gap stock takes hit because of women's dresses
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- US stock futures edge up as Wall Street braces for US-Iran update
-- Goldman Sachs COO: Inflation is 'single biggest risk' to the economy
-- Salesforce CEO Marc Benioff is hiring for one role in the age of AI
-- Dell Shares Soar 40% After Outlook Tops Estimates on AI Boom
-- Samsung Electronics ships HBM4E chip samples to global customers
-- Australian watchdog sues Amazon unit over children's backpack safety
-- RBNZ MPC member Gourley says rates likely to rise sooner rather than later
-- When is the Fed's next meeting? See the full schedule for 2026.
-- Law firm Kirkland to spend $500 million developing its own AI platform
-- Apollo, Blackstone work on $36 billion debt deal for Anthropic, Bloomberg News reports
+- Dell stock soars on demand from AI boom
+- Costco sells 'record-breaking' amounts of gas as fuel costs soar
+- SpaceX said to cut IPO valuation goal to at least $1.8 trillion
+- Indian court ruling on Google keyword ads could reshape online advertising
+- Agios scraps blood cancer drug program after study miss
+- Japan spent $73 billion in yen-buying intervention, ministry data shows
+- European Commission debates policy shift to protect industry from China
+- Taiwan's MediaTek says it supports both TSMC and Intel's advanced packaging technologies
+- Rule changes may only yield modest Fed balance sheet contraction
+- Bank of England's Bailey signals no need to move quickly to curb inflation jump
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,83 +42,77 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Elon Musk Lived On $1 A Day Grocery Budget When He Came To America Eating Hot Dogs, Pasta, And Oranges —'That Can Go Pretty Far'
-- Trump Approval Hits New Low Of 39%: Record High Stock Prices Not Impressing Majority Of Voters
-- Crypto Meets Safe Havens: Direxion Launches 2X Bitcoin, Ether, Gold ETFs
-- UFO ETF Hits $1 Billion In AUM As Wall Street Hunts For SpaceX Proxy Trades
-- Hewlett Packard Enterprise Stock Jumps After Dell's Massive Q1 Beat On AI Demand
-- Anthropic Hits $965 Billion Valuation In Latest Funding Round, Surpassing OpenAI
+- Dell Tells Some Of Its Biggest Customers It Can't Guarantee AI Server Prices For Years — Yet They're Signing The Deals Anyway
+- Why Has XRP Not Pumped Despite Institutional Adoption? This Report Found The Answer
+- Adam Schiff Says Trump Gave His Son A $600 Million 'Wedding Present' Using Taxpayer Money
+- Intel Takes On AMD With New Chips For Portable Gaming Devices
+- AARP Urges Congress To Act On Social Security As More Older Americans Feel Financially Squeezed
+- Stock Market Today: S&P 500, Dow Futures Inch Up As US-Iran Deal Awaits Trump Approval — Dell, Agilent, Hewlett Packard Enterprise In Focus
 - Anthropic
-- Hormel Says Consumers Are Trading Into Affordable Protein And Convenience Foods
+- 'The Anti-Crypto Army Was Defeated,' Says Ripple CEO Brad Garlinghouse, Credits Trump For The Win
+- Tesla Reclaims No. 1 Position In Global Battery EV Race
 - Snowflake Stock Surges After 'Milestone Quarter': Analyst Says 'AI Acting As A Catalyst'
-- Nebius Shares Rise 4% After Key Trading Signal
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 联合国秘书长发言人：对美伊最新交火表示关切与担忧
-- 无人机概念股普遍走高，Unusual Machines收涨超57%
-- 美国国务卿鲁比奥将于周五会见巴基斯坦副总理和外交部长。
-- NetAPP美股盘后维持14%的涨幅。
-业绩报告显示，该公司2026财年四季度净营收19.48亿美元，同比增长12%；全年营收69.25亿美元，较之前一年增长5%。
-第四财季混合云净收入同比增长13%，全年增长6%；第四财季公共云净营收同比
-- 华尔街见闻早餐 | 2026年5月29日
-- 亚马逊员工刷AI数据致算力成本激增，公司关闭使用量排行榜
-- 信达生物和辉瑞签署价值高达105亿美元的肿瘤药物开发协议
-- 美国中央司令部否认伊方“击落一美军飞机”的说法
-- 提醒：日内请重点关注（以下均为北京时间）
-- 戴尔美股盘后狂飙将近40%，高管直呼“AI机遇未见放缓迹象”
-- 戴尔美股盘后涨幅扩大至35%，纳指期货目前持平。
-- 特斯拉公布其美国得州无人驾驶出租车车队规模，与Waymo相比相形见绌
+- 美国旧金山联储主席戴利（2027年FOMC票委）：政策目前处于良好状态。
+对经济“谨慎乐观”。
+人工智能前景广阔。
+- 最近几天伊朗与美国的谅解备忘录文本有所更改。西方媒体报道的谅解备忘录文本不准确。（伊朗塔斯尼姆通讯社）
+- 美国堪萨斯城联储主席Schmid：当前的政策并不具有很强的限制性。
+可能需要权衡如何让货币政策更具限制性。
+可以利用资产负债表来制造政策限制。
+美联储需要有上调或下调整利率的选项。
+- 美国堪萨斯城联储主席Schmid：美联储官员必须向市场表明抗击通胀的决心
+- 伊官员：伊朗对霍尔木兹海峡的控制已是世界公认的事实
+- 欧盟委员会：与Anthropic进行了“良好且富有成效”的交流。
+- 腾讯云数据库面向 Agent 全面升级，提供三大AI原生数据库能力
+- 万斯：关于AI，我最担心它如何改变战争形态
+- 戴尔科技美股盘前大涨逾39%，公司Q1营收增长88%，AI收入暴增757%，全年指引大幅上调。
+- 美联储卡什卡利：现在就断定美联储需要升息还为时过早
+- NASA称将评估“新格伦”火箭爆炸事故对近期任务的影响
+- OpenAI正调查影响用户登录和使用ChatGPT的故障
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- MongoDB Inc.（MDB）美股盘后V形反转，目前涨14.09%。
-业绩报告显示，该公司预计全年营收29.2亿-29.6亿美元，原本预计28.6亿-29亿美元。
-- 美国总统特朗普声称：我们掌握所有的牌，伊朗在军事上被击败。（福克斯新闻）
-- Gap一季度净销售35亿美元，分析师预期35.2亿美元。
-预计全年净销售将增长1%-2%，公司原本预计会增长2%-3%。
-预计全年调整后每股收益（EPS）大约为2.30-2.40美元，公司原本预计大约2.20-2.35美元。
-盖普（GPS）
-- 开市客第三财季总营收705.3亿美元，分析师预期696.2亿美元。
-第三财季每股收益（EPS）为4.93美元，分析师预期4.91美元。
-- 标普500指数的11个板块涨跌各异，保健板块收涨1.41%，信息技术/科技板块涨1.34%，能源板块跌0.14%，公用事业板块跌1.13%。
-- 伊朗塔斯尼姆通讯社（Tasnim）：海面上传来的声响是因向霍尔木兹海峡内的船只发出警告而进行交火所致。
-- 周四（5月28日），彭博电动汽车价格回报指数涨1.11%，报4030.95点。
-亚太午盘出现一波V形反转行情——北京时间13:03刷新日低至3956.62点，日内大部分时间交投于4010点附近。
-- 戴尔科技一季度总体净营收438.4亿美元，分析师预期355.2亿美元。
-一季度调整后运营利润42.4亿美元，分析师预期27.7亿美元。
-一季度基础设施解决方案集团净营收290.1亿美元。
-上调2027财年AI服务器营收预期至大约600亿美元
-- 百思买收涨16%，创2020年以来最大单日涨幅。
-- Hormel Foods Corp.（HRL）收涨13%，创2024年以来最大单日涨幅。
+- 中国人民银行举办货币政策委员会学术讲座
+- 工信部：前四个月我国软件业务收入同比增长10.9%
+- 神舟二十二号载人飞船轨道舱与返回舱成功分离。（新华社）
+- 江波龙在港交所提交上市申请
+- 伊朗称过去24小时有24艘船通过霍尔木兹海峡
+- 理想再调基座模型组织，新增3个具身智能部门
+- 中国人保董事长丁向群任国家金融监督管理总局党委书记
+- 香港交易所科技100指数成分股有调整：7只调入，7只剔除
+- 生益科技：董事长陈仁喜先生拟减持不超过33.58万股。
+- 深交所：调整深证成指、创业板指、深证100、创业板50等指数样本股
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- How Chinese green tech and investment are reshaping the Central Asian landscape
-- As Iran war stokes water security fears, Central Asia could turn to China
-- US boasts viable Iran deal: no nuclear weapons, Hormuz open. Will Trump agree?
-- Diplomacy
-- Panama rejects US pressure claims as it seeks to ease China tensions
-- Society
-- Death of Hongkong Post? Mounting losses, dwindling demand cast shadow over service
-- ‘We want teeth in it’: US farmers wary of Xi-Trump pledge without signed deal
+- Breaking | China sentences former Shaolin abbot to 24 years for corruption
+- China’s top military officials face ‘ironclad’ rules in anti-corruption fight
+- Military
+- How Hegseth might shift his tone on Taiwan at this year’s Shangri-La Dialogue
+- China Economy
+- The era when Europe viewed China as a partner is over, Brussels insider warns
+- Politics
+- Hong Kong’s first leader feted by New York institute for fostering China-US ties
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- As the belt and road pivots towards clean energy, Kazakhstan and its neighbours are emerging as top partners for Beijing-backed projects.
-- US president said to be weighing proposed deal as fragile ceasefire holds after renewed strikes and Iranian retaliation.
-- Panamanian president looks to defuse issues with Beijing as South American country attempts to renew key China maritime agreement.
-- Government has proposed HK$4.6 billion lifeline for operator after years of losses amid changing business environment.
-- China Business
-- Premium plan: China’s EV makers pin hopes on higher-margin models
-- New models from carmakers including Nio and Seres also challenge Tesla’s bestselling Model Y and cars from luxury German marques.
-- Global Economy
-- For a yuan in deeper markets, Fed ex-head cites dollar playbook, flags risks
-- Meanwhile, surging costs are ‘likely to hit US inflation data a bit harder and perhaps longer’ than expected, according to the former central bank official.
+- Crimes include embezzlement and taking bribes, Xinhua reports.
+- While the US defence chief gave gung-ho speech at last year’s conference, post-summit reset in ties may prompt moderation.
+- A new era of fractious EU-China trade relations is here to stay, as Brussels’ view of Beijing has fundamentally changed, lobbyist says.
+- Tung Chee-hwa honoured alongside families of former US presidents Richard Nixon and George H W Bush, as well as the Rockefeller family.
+- Art of the deal: how Beijing pushed Trump to ‘arrest’ the trend on Taiwan arms
+- How will South Korea’s nuclear submarines alter balance near first island chain?
+- Analyst cites further Indo-Pacific nations eyeing SSNs, with potential to ‘tie together with the broader US alliance system in the region’.
+- Tech War
+- Wingtech says core of Nexperia’s China unit now based on mainland
+- The statement comes amid escalation in the Nexperia conflict, as Wingtech files a lawsuit in China against chip firm.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 首季经调整少赚26%仍胜预期，快手获大行唱好趁低吸？
-- 小红书获世界杯转播权 冀冲2亿“日活”
+- AI服务器需求爆发，戴尔季绩远胜预期，联想最多飙三成
+- 传黄仁勋将加入 清华经管学院顾委会
 - 伊再遇袭 轰美军科威特基地报复
-- 万亿美元资本外流？跨境理财“精准筑坝”
+- 小鹏豪赌宇树补脑，机器人概念股抢滩
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -127,9 +121,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25006.16-322.07(-1.27%)
+- 恒生指数25182.39+176.23(+0.70%)
                     etnet.com.hk@copyright
-- 国企指数8364.41-98.61(-1.17%)
+- 国企指数8425.82+61.41(+0.73%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -142,34 +136,34 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 停火預期升溫，三大指數齊創收盤新高！戴爾業績超預期，夜盤飆升近40%；Anthropic最新估值達9650億美元，首超OpenAI
+- 觀察：地產股頻頻異動爲哪般？
 - 戴爾績後大漲！Q1營收增長88%，AI收入暴增757%，全年指引大幅上調，高管直呼「AI機遇未見放緩跡象」
-- 美股無人機概念全線暴漲，行業有望獲美政府資金扶持
-- 成交額TOP20 | Snowflake績後飆升36%，Palantir跟漲8%；華爾街新貴重倉，NEBIUS大漲近9%；減肥藥再入醫保，禮來漲超4%重返萬億市值
-- 美股收盤 | 美伊談判迎進展，三大股指齊創新高；量子之後美政府擬出手無人機，UMAC暴漲57%，Ondas漲超22%；金銀深V反轉，油價走低
-- 360億美元！史上最大私募信貸及芯片融資交易，Anthropic加速購買谷歌TPU
-- 美國芝商所下調黃金與白銀期貨合約按金
-- 高興太早？以媒稱伊朗最高領袖未批准美伊諒解備忘錄
+- 波動越大越賺錢！華爾街大行二季度靠交易與AI融資賺翻了
+- Anthropic衝擊1萬億美元：除了Pre-IPO，還有哪些隱藏的「Claude概念股」？
+- 本週美股牛股 | Snowflake本週大漲近39%創歷史新高！Q1業績超預期，宣佈與亞馬遜AWS達成戰略合作；AST SpaceMobile周累漲近26%，在SpaceX IPO預期催化下表現強勢
+- 從暴漲23%到跳水轉跌，智譜上演「天地板」式震盪，發生了什麼？
+- 三星、SK海力士暴漲「撐爆」持倉紅線：基金被迫拋售，韓股外資創紀錄流出
+- 藍色起源遭重挫+SpaceX估值下調，太空股集體回落
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- MongoDB2027財年Q1營收6.88億美元， 同比增長25%；調整後EPS1.32美元
-- 美股三大股指收盤集體收漲
-- Anthropic H輪估值達9650億美元，超越OpenAI
-- 美國迎來「娃娃炒股」金融實驗：千萬新生兒一出生就開始買ETF
-- 知情人士稱伊朗方面尚未同意任何諒解備忘錄
-- 與主席沃什看法相左！聯儲局官員穆薩萊姆稱不能指望AI降低通脹
-- 比劇透提前！Anthropic發佈Claude Opus 4.8：更「誠實」、可調思考強度、新功能協調數百智能體
-- Token戰爭悄然打響，高盛：基礎設施瓶頸終將消解，AI敘事面臨重新定價
-- 芝加哥期權交易所將延長部分個股期權的交易時間
-- Hy-Memory 發佈：打造記憶力超強的 Agent 第二大腦
+- 北水淨買入泡泡瑪特近9億港元，加倉騰訊控股近7億港元，淨賣出阿里巴巴超4億港元
+- 收市速睇 | 三大指數漲跌不一，恒生指數漲0.70%；內房股、生物技術股多數上漲，碧桂園漲超16%，康方生物漲近7%；壁仞科技漲近15%、寧德時代漲近4%，盤中均創歷史新高
+- 華爾街開始押注和平！一文讀懂：若霍爾木茲重開 有哪些投資機會？
+- 戴爾超最樂觀預期21%，傳統估值框架被推倒重寫？
+- 倒車接人時刻？韓股遭遇「機械性拋售潮」：「存儲雙雄」飆漲觸發持倉紅線，AI牛市基本面仍未改
+- SpaceX據悉將下調IPO估值：從超過2萬億降至至少1.8萬億美元
+- 「AI獨漲」何時逆轉？野村給出三大催化劑：美伊談崩了，美伊談的太好，看漲期權買不動了
+- 港股電力股表現強勢！用電負荷創新高疊加算電催化，火電板塊有望迎來階段性機會
+- SpaceX下調IPO估值至1.8萬億美元，馬斯克拋出的28.5萬億美元超級藍圖迎接公開市場大考
+- 發生了什麼？港、A地產股大爆發！機構：地產行業底部臨近
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: 华尔街见闻 (简中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
+- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美国关税: 富途资讯 (繁中)
 - 加密货币: Benzinga (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
