@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年5月29日`
+`早间热点线索 · 2026年6月1日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -100,7 +100,7 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026052920
+抓取时间: 2026060109
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -108,25 +108,25 @@
 - Finance
 - Sports
 - New on Yahoo
-- U.S. markets open in 1h 30m
-- Stock futures waver as Wall Street braces for US-Iran update
-- 'You cannot print molecules': The oil market is running out of options
-- GOP lawmakers' portfolios are migrating to Trump favorites
-- Fed's inflation gauge heats up, cementing steady rate path
-- Lilly just cemented its status as Wall Street's ultimate weight-loss play
-- The tech trade is overcrowded. Here's your ETF escape route.
-- Gap stock takes hit because of women's dresses
+- U.S. markets closed
+- Market concentration is creating 'fragility': Wall Street weighs in
+- IPOs are no longer Wall Street's starting line — they're the exit ramp: Chart of the Day
+- US stock futures are little changed after closing May with record highs
+- Sozzi: Big Tech companies are screwing the average investor
+- Wall Street bulls bet US stocks rally will defy bubble fears
+- How Maine's lobster revolt could cost Trump the Senate
+- Why a merger with SpaceX could be bad for Tesla shareholders
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Dell stock soars on demand from AI boom
-- Costco sells 'record-breaking' amounts of gas as fuel costs soar
-- SpaceX said to cut IPO valuation goal to at least $1.8 trillion
-- Indian court ruling on Google keyword ads could reshape online advertising
-- Agios scraps blood cancer drug program after study miss
-- Japan spent $73 billion in yen-buying intervention, ministry data shows
-- European Commission debates policy shift to protect industry from China
-- Taiwan's MediaTek says it supports both TSMC and Intel's advanced packaging technologies
-- Rule changes may only yield modest Fed balance sheet contraction
-- Bank of England's Bailey signals no need to move quickly to curb inflation jump
+- A jobs report, more big chip earnings, and sticky inflation: What to watch this week
+- The world is quietly adapting to 9% less oil
+- Wall Street's latest dot-com bubble joke is Knicks-themed
+- Asia stocks count on AI boom to offset Gulf risks
+- Fed's Powell warns that politicizing the Fed would cost public trust
+- Union at South Korea's Kakao to hold partial strike on June 10
+- Rising stablecoin use could cement dollar dominance, ECB's Schnabel says
+- Berkshire Hathaway to Buy Taylor Morrison for $6.8 Billion
+- Tesla withdraws termination notice on graphite supply deal with Australia's Syrah
+- From lottery draws to fiscal spending, China broadens digital yuan footprint
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -141,76 +141,73 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Dell Tells Some Of Its Biggest Customers It Can't Guarantee AI Server Prices For Years — Yet They're Signing The Deals Anyway
-- Why Has XRP Not Pumped Despite Institutional Adoption? This Report Found The Answer
-- Adam Schiff Says Trump Gave His Son A $600 Million 'Wedding Present' Using Taxpayer Money
-- Intel Takes On AMD With New Chips For Portable Gaming Devices
-- AARP Urges Congress To Act On Social Security As More Older Americans Feel Financially Squeezed
-- Stock Market Today: S&P 500, Dow Futures Inch Up As US-Iran Deal Awaits Trump Approval — Dell, Agilent, Hewlett Packard Enterprise In Focus
-- Anthropic
-- 'The Anti-Crypto Army Was Defeated,' Says Ripple CEO Brad Garlinghouse, Credits Trump For The Win
-- Tesla Reclaims No. 1 Position In Global Battery EV Race
-- Snowflake Stock Surges After 'Milestone Quarter': Analyst Says 'AI Acting As A Catalyst'
+- Wheat Futures Prices Have Surged 30% This Year As Iran War Hit Fertilizer Supplies and U.S. Drought Sent Output To A 54-Year Low
+- Planet Labs Stock Rally Put To The Test As Earnings And SpaceX IPO Near
+- Broadcom Stock Priced For Perfection Ahead Of Market Defining Earnings
+- US Closes Loophole That Allowed Nvidia, AMD AI Chip Shipments To Chinese Firms Overseas
+- US-Iran War Deal Remains Elusive As Trump Takes His Time: 'We're Going To Make A Great Deal'
+- Brian Armstrong
+- Jamie Dimon
+- Dell, Snowflake, And Okta Are Among Top 10 Large-Cap Gainers Last Week (May 25-May 29): Are the Others in Your Portfolio?
+- As Trump Weighs Iran Ceasefire Extension, Bolton Warns Tehran Is 'Buying Time'
+- The S&P Hit A Record While 8 Of 11 Sectors Fell
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美国旧金山联储主席戴利（2027年FOMC票委）：政策目前处于良好状态。
-对经济“谨慎乐观”。
-人工智能前景广阔。
-- 最近几天伊朗与美国的谅解备忘录文本有所更改。西方媒体报道的谅解备忘录文本不准确。（伊朗塔斯尼姆通讯社）
-- 美国堪萨斯城联储主席Schmid：当前的政策并不具有很强的限制性。
-可能需要权衡如何让货币政策更具限制性。
-可以利用资产负债表来制造政策限制。
-美联储需要有上调或下调整利率的选项。
-- 美国堪萨斯城联储主席Schmid：美联储官员必须向市场表明抗击通胀的决心
-- 伊官员：伊朗对霍尔木兹海峡的控制已是世界公认的事实
-- 欧盟委员会：与Anthropic进行了“良好且富有成效”的交流。
-- 腾讯云数据库面向 Agent 全面升级，提供三大AI原生数据库能力
-- 万斯：关于AI，我最担心它如何改变战争形态
-- 戴尔科技美股盘前大涨逾39%，公司Q1营收增长88%，AI收入暴增757%，全年指引大幅上调。
-- 美联储卡什卡利：现在就断定美联储需要升息还为时过早
-- NASA称将评估“新格伦”火箭爆炸事故对近期任务的影响
-- OpenAI正调查影响用户登录和使用ChatGPT的故障
+- 美元基金募资回暖 硬科技领域成共识
+- 下半年车市进入智驾“下半场” 高阶辅助驾驶下探至15万元级市场
+- 阿盟秘书长谴责以色列对黎巴嫩军事行动 呼吁立即停火
+- 特朗普称，伊朗协议指出了伊朗不会拥有核武器，伊朗协议的大部分内容都与核问题有关。
+- 人民日报钟声：推动人工智能成为中美合作的新疆域
+- 华尔街见闻早餐 | 2026年6月1日
+- 6月基金经理调研：A股仍是最受青睐的方向之一
+- 提醒：日内请重点关注（以下均为北京时间）
+- 标普500指数期货、道指期货亚市盘初微跌0.1%，纳斯达克100指数期货基本持平。
+- 伊朗总统府再度否认佩泽希齐扬辞职传闻
+- 伯克希尔将以每股72.50美元现金收购Taylor Morrison
+- 伊官员称伊朗不会对美退让妥协
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 中国人民银行举办货币政策委员会学术讲座
-- 工信部：前四个月我国软件业务收入同比增长10.9%
-- 神舟二十二号载人飞船轨道舱与返回舱成功分离。（新华社）
-- 江波龙在港交所提交上市申请
-- 伊朗称过去24小时有24艘船通过霍尔木兹海峡
-- 理想再调基座模型组织，新增3个具身智能部门
-- 中国人保董事长丁向群任国家金融监督管理总局党委书记
-- 香港交易所科技100指数成分股有调整：7只调入，7只剔除
-- 生益科技：董事长陈仁喜先生拟减持不超过33.58万股。
-- 深交所：调整深证成指、创业板指、深证100、创业板50等指数样本股
+- 韩国首尔综指涨1.5%，至纪录新高。
+三星电子涨超3%至纪录新高。
+- 日经225指数日内涨幅扩大至0.6%，升至纪录新高。软银集团涨6%。
+韩国首尔综指涨幅扩大至1.1%。
+- 日经225指数开盘基本持平，韩国首尔综指高开0.1%。
+- 高盛将2026年底LME铜价预测上调至13,735美元/吨，将2027年LME平均铜价预测上调至13,800美元/吨。
+- 中国即将发行或正在发行的国债和政策性金融债
+- 韩国5月进口同比 20.8%，预期 22.7%，前值 16.7%。
+- 本周中国央行公开市场将有9089亿元逆回购到期
+- 日本一季度企业资本支出同比 0%，前值 6.5%。
+- 中金：2028年前后房企或在经营基本面上迎来全面回暖
+- 南向资金密集扫货港股科技股 对多只标的持仓倍增
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Breaking | China sentences former Shaolin abbot to 24 years for corruption
-- China’s top military officials face ‘ironclad’ rules in anti-corruption fight
-- Military
-- How Hegseth might shift his tone on Taiwan at this year’s Shangri-La Dialogue
+- Exclusive | Hong Kong must embrace ‘bipolar’ role to thrive in its ‘Stage 3.0’: Charles Li
+- Open Questions | Stable US-China ties? It won’t last long, Evan Medeiros says
 - China Economy
-- The era when Europe viewed China as a partner is over, Brussels insider warns
-- Politics
-- Hong Kong’s first leader feted by New York institute for fostering China-US ties
+- Will the World Cup help Mexico dispel Chinese tourists’ safety fears?
+- China EVs
+- AI could redefine China’s EV market: Morgan Stanley
+- Society
+- Student recalls eye-opening trip with American peers that drew praise from Xi
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Crimes include embezzlement and taking bribes, Xinhua reports.
-- While the US defence chief gave gung-ho speech at last year’s conference, post-summit reset in ties may prompt moderation.
-- A new era of fractious EU-China trade relations is here to stay, as Brussels’ view of Beijing has fundamentally changed, lobbyist says.
-- Tung Chee-hwa honoured alongside families of former US presidents Richard Nixon and George H W Bush, as well as the Rockefeller family.
-- Art of the deal: how Beijing pushed Trump to ‘arrest’ the trend on Taiwan arms
-- How will South Korea’s nuclear submarines alter balance near first island chain?
-- Analyst cites further Indo-Pacific nations eyeing SSNs, with potential to ‘tie together with the broader US alliance system in the region’.
-- Tech War
-- Wingtech says core of Nexperia’s China unit now based on mainland
-- The statement comes amid escalation in the Nexperia conflict, as Wingtech files a lawsuit in China against chip firm.
+- Veteran deal maker urges an IPO link to lure global resource giants and turn Chinese buyers into owners as city solidifies role as East-West bridge and global capital hub.
+- A boost of visitor numbers for the tournament should also include travellers from China, though surveys show lingering safety concerns.
+- Carmakers redirect resources to autonomous driving upgrades, hoping AI can deliver growth beyond subsidy-driven sales.
+- CUHK undergraduate Liu Runjie describes how Chinese and US students reached common understanding during youth exchange trip.
+- ‘Silent killer’: the race to beat cancer in Hong Kong
+- Military
+- How China’s home-grown WS-10 engine helped make the country a modern air power
+- The PLA’s first domestically developed high-thrust turbofan engine continues to play a crucial role 20 years on from its debut.
+- Science
+- Human-shaped object in US military UFO files intrigues Chinese expert
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- AI服务器需求爆发，戴尔季绩远胜预期，联想最多飙三成
+- 理想首季蚀逾20亿，小鹏经调整亏损扩大，两股逆市下挫
 - 传黄仁勋将加入 清华经管学院顾委会
-- 伊再遇袭 轰美军科威特基地报复
+- 特朗普批艺人纷退演 料取消国庆音乐会
 - 小鹏豪赌宇树补脑，机器人概念股抢滩
 - 指数环球商品外汇
 - 国金观点
@@ -235,35 +232,36 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 觀察：地產股頻頻異動爲哪般？
-- 戴爾績後大漲！Q1營收增長88%，AI收入暴增757%，全年指引大幅上調，高管直呼「AI機遇未見放緩跡象」
-- 波動越大越賺錢！華爾街大行二季度靠交易與AI融資賺翻了
-- Anthropic衝擊1萬億美元：除了Pre-IPO，還有哪些隱藏的「Claude概念股」？
-- 本週美股牛股 | Snowflake本週大漲近39%創歷史新高！Q1業績超預期，宣佈與亞馬遜AWS達成戰略合作；AST SpaceMobile周累漲近26%，在SpaceX IPO預期催化下表現強勢
-- 從暴漲23%到跳水轉跌，智譜上演「天地板」式震盪，發生了什麼？
-- 三星、SK海力士暴漲「撐爆」持倉紅線：基金被迫拋售，韓股外資創紀錄流出
-- 藍色起源遭重挫+SpaceX估值下調，太空股集體回落
+- 三大科技巨頭同步預熱，AI PC行業迎來顛覆性變革？
+- 富途早報 | ComputeX 2026即將開幕！黃仁勳今日上午11點將率先演講；美伊和談進入關鍵期，特朗普修改多項協議條款；MiniMax啓動A股上市輔導；美團、Credo Technology將放榜
+- 伯克希爾「新王」上任「第一把火」：85億美元！賣油氣，買地產
+- 沃什改寫「聯儲局最愛的通脹指標」，2021年「通脹低估」會重演嗎？
+- 6月變盤點？這是不看好SpaceX IPO的12個理由
+- 戴爾、諾基亞、聯想、思科——科技「老登」在AI時代的逆襲
+- 港股IPO週報：江波龍等多家存儲產業鏈公司遞表，深演智能掛牌首周累漲700%
+- 黃仁勳預告「PC新時代」：英偉達不想只賣GPU了
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 北水淨買入泡泡瑪特近9億港元，加倉騰訊控股近7億港元，淨賣出阿里巴巴超4億港元
-- 收市速睇 | 三大指數漲跌不一，恒生指數漲0.70%；內房股、生物技術股多數上漲，碧桂園漲超16%，康方生物漲近7%；壁仞科技漲近15%、寧德時代漲近4%，盤中均創歷史新高
-- 華爾街開始押注和平！一文讀懂：若霍爾木茲重開 有哪些投資機會？
-- 戴爾超最樂觀預期21%，傳統估值框架被推倒重寫？
-- 倒車接人時刻？韓股遭遇「機械性拋售潮」：「存儲雙雄」飆漲觸發持倉紅線，AI牛市基本面仍未改
-- SpaceX據悉將下調IPO估值：從超過2萬億降至至少1.8萬億美元
-- 「AI獨漲」何時逆轉？野村給出三大催化劑：美伊談崩了，美伊談的太好，看漲期權買不動了
-- 港股電力股表現強勢！用電負荷創新高疊加算電催化，火電板塊有望迎來階段性機會
-- SpaceX下調IPO估值至1.8萬億美元，馬斯克拋出的28.5萬億美元超級藍圖迎接公開市場大考
-- 發生了什麼？港、A地產股大爆發！機構：地產行業底部臨近
+- 一週前瞻 | 聚焦ComputeX大會，英偉達、英特爾、AMD等AI巨頭輪番登臺；美國5月大小非農數據來襲；美團、博通將放榜
+- 美國批准首批「永續合約」，全面擁抱「幣圈交易模式」
+- 押注馬斯克的圈內人，正在收穫「歷史級回報」
+- TrendForce大幅上調存儲市場預測：2027年規模料超1.28萬億美元
+- 「燒Token」遊戲將終結？亞馬遜關停詞元跟蹤榜單 直呼「不要爲了用AI而用AI」
+- 美伊談判進入關鍵拉鋸：特朗普臨時改協議，簽署時間再生變數
+- 週末讀物 | 傳奇對沖基金經理Dan Loeb：拒絕進化的「死硬價值派」都死了，不學AI註定滅絕
+- 「亞洲最大AI科技展」ComputeX下週開幕，黃仁勳領銜AI巨頭輪番登臺
+- 中國5月官方製造業PMI為50，前值為50.3。
+- AI軍備競賽下一個爆發點！高盛：電容就是「新內存」
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 富途资讯 (繁中)
+- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 美国关税: 富途资讯 (繁中)
-- 加密货币: Benzinga (EN)
+- 加密货币: Benzinga (EN), 华尔街见闻 (简中)
+- 就业数据: Yahoo Finance (EN)
+- 黄金/大宗: Benzinga (EN)
+- 美联储: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
