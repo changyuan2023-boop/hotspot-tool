@@ -3,58 +3,55 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Market concentration is creating 'fragility': Wall Street weighs in | IPOs are no longer Wall Street's starting line — they're the exit ramp: Chart of the Day | US stock futures are little changed after closing May with record highs
-  - 其他: A jobs report, more big chip earnings, and sticky inflation: What to watch this week | The world is quietly adapting to 9% less oil | Wall Street's latest dot-com bubble joke is Knicks-themed | Asia stocks count on AI boom to offset Gulf risks | Fed's Powell warns that politicizing the Fed would cost public trust
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 31m | US stock futures climb after closing May with record highs | A jobs report, more big chip earnings, and sticky inflation: What to watch this week | Trump says Iran war deal will 'work out well' as more clashes erupt
+  - 其他: Nvidia unveils new processor for Windows laptops, taking on Intel and AMD | Market concentration is creating 'fragility': Wall Street weighs in | IPOs are no longer Wall Street's starting line | From lottery draws to fiscal spending, China broadens digital yuan footprint | Dollar in holding pattern as markets await progress on Middle East peace talks
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Wheat Futures Prices Have Surged 30% This Year As Iran War Hit Fertilizer Supplies and U.S. Drought Sent Output To A 54-Year Low | Planet Labs Stock Rally Put To The Test As Earnings And SpaceX IPO Near | Broadcom Stock Priced For Perfection Ahead Of Market Defining Earnings | US Closes Loophole That Allowed Nvidia, AMD AI Chip Shipments To Chinese Firms Overseas | US-Iran War Deal Remains Elusive As Trump Takes His Time: 'We're Going To Make A Great Deal'
+  - 其他: Kevin Hassett Shrugs Off Inflation Fears, Urges Americans To Focus On Rising Real Wages: 'They Have A Lot More Money...' | Honeywell Unveils Brands For Historic June Split | Ripple CEO Predicts Stablecoin Market Cap To Hit $3 Trillion By 2031 | Nvidia's Computex Reveal Is 'Amazing' For ARM Stock, Says Jim Cramer: Here's Why | EXCLUSIVE: GT Biopharma Sees Faster Discovery, Productivity Following AI Technology Rollout
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 美元基金募资回暖 硬科技领域成共识 | 下半年车市进入智驾“下半场” 高阶辅助驾驶下探至15万元级市场 | 阿盟秘书长谴责以色列对黎巴嫩军事行动 呼吁立即停火 | 特朗普称，伊朗协议指出了伊朗不会拥有核武器，伊朗协议的大部分内容都与核问题有关。 | 人民日报钟声：推动人工智能成为中美合作的新疆域 | 华尔街见闻早餐 | 2026年6月1日 | 6月基金经理调研：A股仍是最受青睐的方向之一 | 提醒：日内请重点关注（以下均为北京时间）
-  - 其他: 韩国首尔综指涨1.5%，至纪录新高。
-三星电子涨超3%至纪录新高。 | 日经225指数日内涨幅扩大至0.6%，升至纪录新高。软银集团涨6%。
-韩国首尔综指涨幅扩大至1.1%。 | 日经225指数开盘基本持平，韩国首尔综指高开0.1%。 | 高盛将2026年底LME铜价预测上调至13,735美元/吨，将2027年LME平均铜价预测上调至13,800美元/吨。 | 中国即将发行或正在发行的国债和政策性金融债
+  - 头版/首屏: 摩根士丹利将戴尔目标价从170美元上调至448美元，将戴尔评级上调至“与大盘持平”，此前为“减持”。 | 欧盟云计算法律草案将使亚马逊、谷歌、微软在欧洲竞标“极为关键”云计算服务面临更多复杂要求。（路透） | Raymond James将美光科技目标价从530美元上调至1100美元。 | SpaceX：马斯克已同意接受为期366天的锁定期。 | SpaceX保留最多5%的IPO A类股份，供特定人士认购。 | 美股软件股盘前持续走高，ServiceNow上涨11%，Adobe上涨5.7%。 | 高通美股盘前跌幅扩大至10%。 | 伊朗外长：任何一条战线的停火遭破坏等同所有战线停火遭破坏
+  - 其他: 谷歌今夏将在日本东京开设美国以外首家零售店 | OpenAI、Anthropic和SpaceX成为英伟达Vera芯片的首批采用者。 | 英伟达推出NVIDIA DSX平台 | 蔚来公司5月交付同比增长62.3%，乐道L90/L80交付破万 | 英伟达推出面向AI智能体的CPU Vera。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Exclusive | Hong Kong must embrace ‘bipolar’ role to thrive in its ‘Stage 3.0’: Charles Li | Open Questions | Stable US-China ties? It won’t last long, Evan Medeiros says | China Economy | Will the World Cup help Mexico dispel Chinese tourists’ safety fears? | China EVs | AI could redefine China’s EV market: Morgan Stanley | Society | Student recalls eye-opening trip with American peers that drew praise from Xi
-  - 其他: Veteran deal maker urges an IPO link to lure global resource giants and turn Chinese buyers into owners as city solidifies role as East-West bridge and global capital hub. | A boost of visitor numbers for the tournament should also include travellers from China, though surveys show lingering safety concerns. | Carmakers redirect resources to autonomous driving upgrades, hoping AI can deliver growth beyond subsidy-driven sales. | CUHK undergraduate Liu Runjie describes how Chinese and US students reached common understanding during youth exchange trip. | ‘Silent killer’: the race to beat cancer in Hong Kong
+  - 头版/首屏: No need for ‘AI Iron Curtain’, China’s Communist Party mouthpiece says | AI has a ‘black box’ problem. China wants to make it more transparent | Politics | Can Taiwanese opposition leader pull off balancing act during US trip? | China Economy | ‘Unsustainable’: firms face huge spike in shipping costs amid Hormuz crisis | Society | Hong Kong tribunal judge questions power to postpone Wang Fuk Court owners’ meeting
+  - 其他: People’s Daily says China and US should work together to advance the development and governance of artificial intelligence. | KMT chair Cheng Li-wun’s visit follows a recent meeting with Xi Jinping but she has a tough task selling her cross-strait vision in America. | Shipping lines say they have no choice but to pass on steep cost rises, as the Iran war sparks a fuel crisis that could last well into next year. | Judge acknowledges challenges faced by government-appointed administrator, but stresses limits of court’s powers to extend 45-day deadline. | Hong Kong must embrace ‘bipolar’ role to thrive in its ‘Stage 3.0’: Charles Li
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 理想首季蚀逾20亿，小鹏经调整亏损扩大，两股逆市下挫 | 传黄仁勋将加入 清华经管学院顾委会 | 特朗普批艺人纷退演 料取消国庆音乐会 | 小鹏豪赌宇树补脑，机器人概念股抢滩 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25182.39+176.23(+0.70%)
-                    etnet.com.hk@copyright | 国企指数8425.82+61.41(+0.73%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 传美禁英伟达向中企出口AI芯片，传统科技股反弹 | 5月制造业PMI续跌至50 仍符预期 | 特朗普批艺人纷退演 料取消国庆音乐会 | 制造业走钢丝，“国家队”攻坚未来产业 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25398.18+215.79(+0.86%)
+                    etnet.com.hk@copyright | 国企指数8507.87+82.05(+0.97%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 三大科技巨頭同步預熱，AI PC行業迎來顛覆性變革？ | 富途早報 | ComputeX 2026即將開幕！黃仁勳今日上午11點將率先演講；美伊和談進入關鍵期，特朗普修改多項協議條款；MiniMax啓動A股上市輔導；美團、Credo Technology將放榜 | 伯克希爾「新王」上任「第一把火」：85億美元！賣油氣，買地產 | 沃什改寫「聯儲局最愛的通脹指標」，2021年「通脹低估」會重演嗎？ | 6月變盤點？這是不看好SpaceX IPO的12個理由 | 戴爾、諾基亞、聯想、思科——科技「老登」在AI時代的逆襲 | 港股IPO週報：江波龍等多家存儲產業鏈公司遞表，深演智能掛牌首周累漲700% | 黃仁勳預告「PC新時代」：英偉達不想只賣GPU了
-  - 其他: 一週前瞻 | 聚焦ComputeX大會，英偉達、英特爾、AMD等AI巨頭輪番登臺；美國5月大小非農數據來襲；美團、博通將放榜 | 美國批准首批「永續合約」，全面擁抱「幣圈交易模式」 | 押注馬斯克的圈內人，正在收穫「歷史級回報」 | TrendForce大幅上調存儲市場預測：2027年規模料超1.28萬億美元 | 「燒Token」遊戲將終結？亞馬遜關停詞元跟蹤榜單 直呼「不要爲了用AI而用AI」
+  - 头版/首屏: 美團Q1營收910.39億元，同比增長5.6%；經調整淨虧損49.68億元，市場預期虧損68.31億元 | 智能手機市場或現創紀錄出貨萎縮! 存儲超級週期之下，等待消費電子的是「至暗時刻」 | 高通加碼機器人賽道！推出IQ10參考設計，主打多傳感器一體化集成 | MLCC 會成爲下一個存儲嗎？ | 一週前瞻 | 聚焦ComputeX大會，英偉達、英特爾、AMD等AI巨頭輪番登臺；美國5月大小非農數據來襲；美團、博通將放榜 | 北水加倉港股逾46億港元，淨買入康方生物超27億港元，掃貨騰訊控股超10億港元，淨賣出聯想集團超5億港元 | 理想汽車：5月份交付33,350輛汽車，同比下滑18.37% | 收市速睇 | 三大指數齊漲，科指漲1.65%；美團反彈逾6%，即將發佈業績；煤炭股上揚，中煤能源漲超7%；半導體股普跌，天數智芯跌超10%
+  - 其他: 美伊又打起來了，特朗普：伊朗「確實想要」達成協議 | 部分美妝股漲幅擴大，毛戈平尾盤漲超10%，機構指國貨品牌預計在618後半段崛起 | 高盛找到了「下一個存儲」：MLCC | 家電股集體回暖，厄爾尼諾高溫疊加行業旺季，機構稱空調板塊需求修復動能充足 | 港股煤炭股多數走高，機構稱供應趨緊或超市場預期，氣溫走高旺季需求有望逐步啓動
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 富途资讯 (繁中) (4 站)
-- **伊朗/中东局势** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **加密货币** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (6 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
+- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: SCMP (EN/中) (1 站)
 - **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
-- **黄金/大宗商品** — 出现于: Benzinga (EN) (1 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
+- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 科技股/个股（4 站）
-- 伊朗/中东局势（3 站）
-- 中国/欧盟（3 站）
-- 关税/贸易政策（2 站）
-- 油价/能源（2 站）
+- 科技股/个股（6 站）
+- 伊朗/中东局势（5 站）
+- 中国/欧盟（4 站）
 - 加密货币（2 站）
+- 黄金/大宗商品（2 站）
+- 油价/能源（1 站）
 - 就业/经济数据（1 站）
-- 黄金/大宗商品（1 站）
 - 美联储/利率（1 站）
 - 中国政策（1 站）
+- 关税/贸易政策（0 站）
