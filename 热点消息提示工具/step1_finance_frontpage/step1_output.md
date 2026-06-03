@@ -3,20 +3,21 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 30m | HPE stock soars on record backlog, booming AI server business | Anthropic makes first move toward going public | US stock futures slip as US-Iran tensions weigh on AI optimism
-  - 其他: Short seller Andrew Left found guilty of securities fraud | Alphabet plans to raise $80B for AI goals, Berkshire to invest $10B | Trump says Iran talks still on, attacks in Lebanon to halt | Oil falls more than 1% as Iran reviews proposed US agreement | Stocks rally on AI optimism; jitters over Iran simmer
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | SpaceX worth less than half its IPO target, Morningstar says | Trump's Netanyahu problem is latest key hurdle to Iran deal | Can AI be trusted to make credit card purchases? Robinhood thinks so.
+  - 其他: US stock futures trade flat as AI fervor meets US-Iran uncertainty | US sanctions Iran's largest crypto exchange over IRGC links | Microsoft is turning to AI to combat cyber threats | Iran war puts RBI in razor-edge policy bind over inflation, growth and rupee | Oil Extends Advance as US-Iran Peace Talk Progress Stalls
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: What's Going On With AMD Stock Tuesday? | Why Sunlands Technology Stock Is Falling On Tuesday | Dan Loeb Touted Semiconductors As The 'Most Attractive Sector' In AI Boom— But His Nvidia Sell-Off Tells A Different Story | Millions Could Be Affected As CMS Rolls Out Strict New Medicaid Work Requirements— Here's What To Know | OS Therapies Says New Bone Cancer Data Strengthens Case For Regulatory Filings
+  - 其他: A Homeowner In A 1,300 Square Foot Paid Off Starter Home Asks When A Bigger House Stops Being A Blessing And Starts Being A Burden | First-Ever Autism ETF Hits Market As Health Care Innovation Theme Gains Momentum | CrowdStrike Q1 Preview: Dan Ives Says AI Accelerates Companies' Need For Cybersecurity | ETF Boom Turns To Shakeout As Defiance, YieldMax Close Multiple Funds | OpenAI, SpaceX ... And The Secondary Market Shake-Up
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 特斯拉上海超级工厂5月交付量创今年新高 同比增长近40% | 伊朗称过去24小时24艘船通过霍尔木兹海峡 | 云顶新耀就希布替尼达成独家授权许可与合作协议，里程碑付款最高可获10.3亿美元 | 乘联分会：5月多家主流车企新能源批发销量刷新同期历史纪录 | 乘联分会数据显示，2026年5月全国乘用车厂商新能源批发预估136万辆，同比增长12%，环比增长11%。 | 城堡准备付费从其他对冲基金收集交易洞见 再将其纳入自身量化策略 | 英特尔陈立武：CPU需求持续增长，许多公司CEO来电要求更多供货 | 老虎国际：6月12日起，暂停存量投资者账户在中国境内所有品种的新开仓、加仓交易
-  - 其他: 刘国中在河北调研时强调 毫不放松抓好“三夏”生产 扎实有效开展常态化监测帮扶 | 北京经开区召开太空算力企业座谈会 研究部署太空算力创新中心建设工作 | 印度拟购114架“阵风”战机，军方称必要时准备“辛杜尔行动2.0” | 中国人民银行召开2026年组织人事部门负责人会议 | 一艘货轮在伊拉克南部港口附近被导弹击中
+  - 头版/首屏: SpaceX的IPO募资计划包括扩大AI算力以及拓展卫星网络。（路透） | Meta缩减内部鼠标追踪技术计划。（路透） | SpaceX首席执行官埃隆·马斯克将在SpaceX IPO后面临366天的股票锁定期。（路透） | SpaceX拟在公开募股中将目标股价定为每股135美元。SpaceX计划在首次公开募股（IPO）中出售5.556亿股股票，可能募资达750亿美元。（路透） | 美军否认第五舰队总部遭伊朗击中 | 伊朗革命卫队称袭击美国第五舰队总部 | 中东媒体：美军驻科威特和巴林基地遇袭 | 美军证实拦截伊朗导弹和无人机 称空袭格什姆岛
+  - 其他: 纳斯达克生物科技指数收跌3%，成分股Fulcrum Therapeutics收跌51.24%，Abivax ADR跌44.17%，Praxis Precision跌23.00%，
+Olema、Editas Medicine、Oric Pha | 巴西无视美国关税威胁，市场聚焦中东和谈 | 录音显示美军袭击一艘伊朗相关油轮 | 纽约期金涨约0.3%，欧股盘初逼近4600美元，纽约铜涨向6.7美元 | 加拿大标普/TSX综合指数收涨1.25%，报35169.46点，创收盘历史新高；小盘股指收涨1.56%，报1496.09点，也创收盘历史新高。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: The next tech war? Why biotech may become a new US-China battleground | Is China’s global economic influence bigger than it looks? New study says yes | Big Tech | Alibaba elevates tech chief Wu Zeming to elite committee amid AI push | Hong Kong Economy | Hong Kong media groups sign Kazakhstan deals to deepen journalism, business ties | China Economy | Australian beef will soon be hit by 55% tariff in China, ministry says
-  - 其他: China’s biotech industry is rapidly moving up the value chain, prompting fears in the US and calls for tighter controls. | Wu joins Jack Ma and Joe Tsai in committee of five overseeing group that steers company’s strategy. | SCMP’s pact with Kazakhstan’s financial hub will foster investment, innovation and cross-border partnerships, publisher Tammy Tam says. | China’s imports of Australian beef are about to surpass a quota introduced by Beijing to protect domestic farmers. | Top Chinese map-making scientist Zhou Chenghu netted in anti-corruption sweep
+  - 头版/首屏: Can China fill funding and leadership gaps after America quit the WHO? | ‘Crises’: WHO kicks off annual assembly amid Ebola, US withdrawal | China Economy | Why China’s C909 jet is rapidly being deployed in Xinjiang | China | US and China have ‘no choice’ but to talk despite ‘long-term problems’: Rubio | Society | Hong Kong helpers urge employers to relax ‘air-con ban’ in heatwave
+  - 其他: Beijing is now the global health body’s biggest assessed contributor, but its voluntary donations remained low in 2025. | The Chinese-made jet debuted in Xinjiang as recently as 2023, but is now being used on more than 120 routes in the region. | Top diplomat said dialogue was essential to prevent tensions over Taiwan, trade and security from escalating into a broader conflict. | Employer draws widespread online criticism for scolding domestic helper who switched on air conditioner an hour early in hot weather. | Top Chinese map-making scientist Zhou Chenghu netted in anti-corruption sweep
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 美团首季亏损近50亿仍胜预期，获大行唱好股价飙逾半成 | 英伟达伙宇树科技 打造人形机器人平台 | 特朗普称伊冀达协议 批政治写手阻谈判 | 老黄跨界卖PC，算力在地掀桌？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -28,30 +29,31 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 黃仁勳、Marvell CEO同台對談：未來AI拼的不是算力是連接，「能用銅就用銅，必須用光才用光」！ | 霍爾木茲海峽何時開？摩根大通：等市場「絕望」的時候 | AI芯片封裝戰升級！台積電CoWoS產能承壓，英特爾EMIB-T補位谷歌TPU供應鏈 | 基於CPO技術！英偉達Spectrum-X以太網硅光技術全面量產，較傳統收發器網絡能效提升5倍 | Arm CEO與黃仁勳同台：Windows+Arm生態已就位，聯手「重新定義PC」；AGI CPU正式量產，150億美元銷售目標有望提前完成 | 北水加倉港股逾22億港元，淨買入中芯國際超9億港元，淨賣出騰訊控股超21億港元，減倉小米集團超9億港元 | 英特爾陳立武：Agentic AI驅動CPU復興，英特爾劍指全棧AI計算平台 | 時隔五年再戰6月！亞馬遜提前引爆Prime Day，借力世界盃與獨立日搶奪消費紅利
-  - 其他: 罕見！騰訊單日暴漲超10%，港股科技股已否極泰來？ | 日股還有多重利好！高盛上調東證指數目標至4400點，預計還有11%上漲空間 | SK海力士：計劃五年將內存產能翻倍，短缺將持續到2030年 | 存儲超級週期託底 韓元升值蓄勢待發 「存儲芯片雙雄」繼續奏響韓國牛市狂想曲 | 收市速睇 | 三大指數齊漲，科指漲4.72%，騰訊控股漲超10%，美團漲超9%；汽車股紛紛上行，蔚來漲超8%，比亞迪漲超6%
+  - 头版/首屏: 富途早報 | 美、伊互襲！伊方曝溝通「已暫停數日」，特朗普堅稱持續進行中；押注AI智能體時代入口，微軟Build大會發布Web IQ；博通將發佈業績 | 1.75萬億美元估值，5%的股票發行，低於0.75%的承銷費率--SpaceX IPO或週三披露價格區間 | 微軟Build火力全開：Web IQ要做智能體搜索的Bing，量子芯片升級瞄準2029年實用，「龍蝦」搬上Windows PC | 微軟Build連發七模型，首款旗艦推理叫板Anthropic，打造「思考+編程」智能體閉環 | 一個週末「搖來」伯克希爾100億美元，高盛幫谷歌敲定「最讓人意外」的「天量增發」 | SpaceX IPO擬定價135美元/股 有望籌得750億美元 | 打破「SaaS末日論」！AI網安需求井噴，Palo Alto NetworksQ3業績超預期、全年指引驚喜上調 | 美軍稱對伊朗格什姆島實施「自衛性」打擊 伊朗向鄰國發射導彈
+  - 其他: 成交額TOP20 | 獲黃仁勳力挺，邁威爾飆升32%創新高；博通漲近5%，靜待明日揭曉業績；谷歌800億美元融資加碼AI；慧與科技績後大漲近20% | 沃什：將在繼承聯儲局優良傳統的同時，對改革展開「務實清醒」的討論 | 美股收盤 | AI熱情力撐美股續創新高，標普首收7600點，半導體指數大漲近6%；蘋果漲近3%，市值反超谷歌居全球第二；中概股走強，阿里漲超4%；比特幣重挫 | SpaceX「壓價」華爾街：IPO承銷費率或低於0.75%，但投行仍有望狂賺5億美元 | OpenAI舉行「AI上崗」發佈會：股票研究、投行路演都能幹
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
+- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **就业/经济数据** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
 - **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
 - **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
+- **中国重大政策/两会** — 出现于: 富途资讯 (繁中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
 - 伊朗/中东局势（3 站）
+- 加密货币（3 站）
 - 就业/经济数据（3 站）
+- 黄金/大宗商品（3 站）
 - 中国/欧盟（3 站）
-- 关税/贸易政策（2 站）
 - 油价/能源（2 站）
-- 加密货币（2 站）
-- 黄金/大宗商品（2 站）
+- 美联储/利率（2 站）
+- 关税/贸易政策（1 站）
 - 中国政策（1 站）
-- 美联储/利率（0 站）
