@@ -3,26 +3,33 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets open in 1h 31m | Stock futures mixed as AI fervor meets US-Iran uncertainty | SpaceX seeks $135 a share for $75 billion IPO | US, Iran exchange strikes to put fresh strain on ceasefire
-  - 其他: Trump begins rebuilding his tariff wall, citing forced labor | Can AI be trusted to make credit card purchases? Robinhood thinks so. | Vietnam posts record trade deficit as US renews tariff risks | Meta, Microsoft, Amazon, and Alphabet are about to spend a shocking amount of money to dominate the AI era | EU Parliament to switch to French search engine from Google in tech sovereignty push
+  - 头版/首屏: Entertainment | Finance | Sports | New on Yahoo | U.S. markets closed | Broadcom stock sinks as AI chip sales forecast disappoints | Trump's permanent tariff plans take shape | Yahoo announces AI-powered experiences for Finance and Sports
+  - 其他: SpaceX confirms it will seek $75 billion in record IPO | NY Fed's Williams says he doesn't see persistent inflation right now | SpaceX seeks $135 a share for $75 billion IPO | Blackstone-backed Liftoff Mobile raises $437 million in US IPO | Stocks slide on flare-up of hostilities
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: GameStop Stock Jumps After Q1 Double Beat, $2 Billion Buyback Authorization | EXCLUSIVE: TransCode's RNA Therapeutic Achieves 64% Stable Disease Rate In Colorectal Cancer Phase 1 Study | Why Is Jianzhi Education Stock Falling Wednesday? | Why Is HiTek Global Stock Falling Wednesday? | SEC Chair Paul Atkins Invokes Reagan's 'Nine Most Terrifying Words' In Sharp Rebuke Of Regulatory Pressure: 'I Have Discovered...'
+  - 其他: North Korea's Hackers Have Moved Beyond Brute Force, Says FBI Veteran: Kim Jong Un's Crypto Attackers Now Have A New Tool — You | The Oldest Name In Aerospace Just Became Wall Street's Newest Stock | Senator Sells Up To $500K In Nvidia Stock: You Won't Believe How Much He Paid | Man With $8M Gives Brother $23K To Stop IRS Trouble — Dave Ramsey Says 'You're Financing The Misbehavior' | Bill Ackman Wants To Follow Buffett, Build The Next Berkshire Hathaway: 'It's Something I've Always Wanted To Do'
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 摩根大通认为盈利超级周期将推动美股再创纪录 今年盈利增幅可达20% | IREN签署800兆瓦澳大利亚数据中心输电协议 | 法国总统马克龙邀请OpenAI的CEO Altman参加G7峰会。（CNBC） | 乘联分会崔东树：传统依附于燃油消费的道路税费体系已出现明显结构性失衡，税制迭代升级势在必行 | 美国5月29日当周MBA抵押贷款申请活动指数周环比 -2.5%，前值 -8.5%。 | 梅西百货第一季度总收入48.9亿美元，预期48.2亿美元。
-第一季度调整后每股收益13美分，预期3.8美分。
-梅西百货预计全年调整后每股收益2至2.20美元，此前预期1.90至2.10美元，市场预期2.12美元。
-梅西百货预计全年净销售额2 | 龚正会见美国桥水投资公司首席执行官迪恩 | 特朗普：我的认知测试成绩相当好。
-  - 其他: 光互连创业企业光联芯科斩获近5亿元融资 | 实益达：公司穿透后对宇树科技持股比例较低，公司目前不涉及机器人业务 | 奇瑞辟谣高管与经销商肢体冲突 | 丹麦新政府成立 弗雷泽里克森继续出任首相 | 美国俄勒冈州海岸附近发生5.5级地震
+  - 头版/首屏: 特朗普：若有美军士兵战死 将考虑终止同伊朗的停火 | 美国国务卿鲁比奥将于美东时间周四上午9:30会见科威特外交部长。 | 特朗普告诉助手，只有在美军士兵遇袭丧生的情况下，他才会重启战争。（华尔街日报） | 量子计算公司Quantinuum的IPO定价为每股60美元，高于此前预设的发行价区间。 | 华尔街见闻早餐 | 2026年6月4日 | 美国称以色列和黎巴嫩同意执行停火。
+美国称，以色列和黎巴嫩同意于6月22日当周再次举行会谈。
+WTI原油期货跌超0.8%，在亚太盘初逼近95美元。 | 量子计算公司Quantinuum Inc.（QNT）通过美国IPO发行2800万股股票，较原来的发行规模扩大。
+发行价为每股60美元，位于发行价指导区间之上。 | 提醒：日内请重点关注（以下均为北京时间）
+  - 其他: 博通第二财季调整后净营收221.9亿美元，分析师预期221.3亿美元。
+第二财季调整后每股收益（EPS）为2.44美元，分析师预期2.39美元。
+预计第三财季营收大约294亿美元，分析师预期286.1亿美元。
+预计第三财季AI芯片销售160 | 特朗普宣称：伊朗原则上接近签署协议 | 英特尔收涨4.43%，报112.71美元，该公司重磅发布18A至强6+芯片及机架级AI战略。 | Five Below美股盘后跌8%。
+该公司一季度净销售12.9亿美元。 | CrowdStrike第一财季营收13.9亿美元，分析师预期13.6亿美元。
+第一财季净新ARR为2.558亿美元，分析师预期2.489亿美元。
+第一财季调整后每股收益（EPS）为1.10美元，分析师预期1.07美元。
+预计全年营收59.1
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: How Japan, Philippines are building a maritime security front against China | ‘Illegal and void’: China condemns Japan-Philippines maritime border talks | Military | China’s PL-15 missile has downed Rafale jets. Is the PL-16 even more powerful? | Big Tech | China’s DeepSeek nears US$7 billion haul in first-ever funding round | Education | Hong Kong principal fired for swearing at security guards on Singapore school trip
-  - 其他: Tokyo-Manila defence cooperation is linking Pacific flashpoints, with broad implications for Beijing, analysts say. | An unverified briefing slide has emerged with details of the new weapon, weeks after an image appeared of America’s AIM-260. | DeepSeek’s founder and CEO Liang Wenfeng is reportedly committing around 20 billion yuan of his own capital. | San Wui Commercial Society Secondary School says it refused to accept resignation of Lee Cheuk-hing, who violated code of conduct for staff. | China’s AI chip demand is surging – and South Korea is riding the wave
+  - 头版/首屏: First Trump, then Putin go to China. Does great-power diplomacy hinge on Beijing? | After China-US reset, Putin heads to Beijing for Sino-Russian strategic refresh | Diplomacy | Taiwan opposition leader promotes cross-strait peace during US trip | China | US’ Bessent says China eyeing more Boeing purchases ahead of Xi visit | Education | West’s xenophobia, cash woes present huge openings for Hong Kong, scholar says
+  - 其他: China has no need ‘to balance between the US and Russia in a causal sense, but treats the two relationships as parallel tracks’: analyst. | Cheng Li-wun is in San Francisco at the start of a two-week US visit that is being closely monitored in Beijing, Taipei and Washington. | Treasury chief says US-China ties are stable but warns reliance on China in critical minerals, chips and medicines is unacceptable. | Kazakhstan’s Nazarbayev University set to launch another joint undergraduate programme with Polytechnic University. | EU and China set for Paris talks this week as trade war fears mount
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 李宁获NBA库里代言股价反下挫，大行力撑可否趁低吸？ | 豆包付费版料6月底上线 第三季连结电商 | 黎巴嫩：以色列真主党 达局部停火 | 柠茶跨界雪糕，豪赌“酱香拿铁”奇迹 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 美国加息预期升温，汇控渣打曾齐破顶，哪只较值博？ | 豆包付费版料6月底上线 第三季连结电商 | 特朗普称伊允弃核武 惟不知会否变卦 | 柠茶跨界雪糕，豪赌“酱香拿铁”奇迹 | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数25633.21-405.11(-1.56%)
                     etnet.com.hk@copyright | 国企指数8596.59-166.38(-1.90%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -31,31 +38,30 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 特朗普：願與伊朗最高領袖會面，致力於達成協議，伊朗已同意不擁核 | 機構：今年一季度全球NAND市場規模環比接近翻倍 | 北水掃貨港股近187億港元，淨買入中芯國際超16億港元，淨賣出聯想集團近9億港元，減倉長飛光纖光纜近5億港元 | 段永平在泡泡瑪特H股的持股比例升至6.04% | 韓股上看12000點、日經225年底衝70000點！華爾街大行批量看多日韓股市 | 能源衝擊撕裂歐洲經濟！PMI跌至18個月低位 歐元區墜向「滯脹」深淵 | 三大指數齊跌，科指跌2.74%，北水南下抄底超180億港元；科網股走弱，美團-W跌近6%；光通信股逆市上行，長飛光纖光纜漲超10%，劍橋科技漲超7% | 兩月狂飆200%！黑莓上演「物理AI」新神話，還是迷因股致命狂歡？
-  - 其他: 美股盤前：光通信股延續漲勢，邁威爾科技再漲超14%；博通漲超3%，盤後將公佈最新季度業績 | 市場誤判了戰爭，油銅鋁庫存見底，大宗商品「變盤時刻」臨近！ | 華創證券策略：恒生科技尋底，估值錨在哪裏？ | Alphabet賣股800億是個轉折點？科技巨頭AI融資從借債轉向發股 | 沃什擬徹底改革聯儲局「利率指引」：不搞前瞻指引，不信任點陣圖
+  - 头版/首屏: 富途早報 | 美衆議院通過限制對伊動武決議，特朗普稱協議可能本週末達成；SpaceX擬定IPO發行價爲135美元，6月12日正式上市；段永平再度增持泡泡瑪特，持股比例已超6%；龍豐集團、天辰生物、大金重工今日暗盤 | 博通上季營收超預期增48%再創新高，AI收入指引遜色，盤後大跌 | 股債齊跌！狂熱戛然而止，華爾街向中東炮火「低頭」…… | 聯儲局褐皮書：中東戰事推高通脹壓力，消費者信心趨弱，就業保持穩定 | 定了！6月12日SpaceX上市交易，發行規模5.556億股，發行價135美元 | 特朗普稱美伊協議或在本週末達成，美國會衆議院要求結束動武 | CrowdStrike、Palo Alto Networks業績後大跌，網絡安全股給「軟件股大反彈」潑冷水 | 美國防股「熄火」！伯恩斯坦：短期催化劑快「耗盡」，中期選舉前難有起色
+  - 其他: 博通電話會：訂單已排達2028年，「對XPU和網絡的需求難以滿足」，打造350億美元算力融資平台 | 要求內存增產！美國行業團體致函特朗普政府，敦促應對AI引發的存儲芯片供應危機 | 成交額TOP20 | 存儲四巨頭逆勢再創新高，閃迪漲近7%；Meta落地AI客服代理漲超4%，欲激活千億美元商業潛力；邁威爾連漲五日再破頂；Palantir遭空頭狙擊 | 美股收盤 | 中東局勢再度升級，標普、納指九連漲終結；芯片股逆勢上漲，納微半導體漲超19%，英特爾漲超4%；比特幣一度跌破6.5萬美元 | 英偉達又「帶飛」一股：納微半導體收漲19%，押注800V AI電源革命
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中) (4 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
 - **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN) (1 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
+- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **中国/欧盟** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
+- **就业/经济数据** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 伊朗/中东局势（4 站）
-- 中国/欧盟（4 站）
+- 油价/能源（4 站）
 - 关税/贸易政策（3 站）
-- 黄金/大宗商品（3 站）
+- 伊朗/中东局势（2 站）
 - 加密货币（2 站）
-- 中国政策（2 站）
-- 油价/能源（1 站）
+- 黄金/大宗商品（2 站）
+- 美联储/利率（2 站）
+- 中国/欧盟（2 站）
 - 就业/经济数据（1 站）
-- 美联储/利率（1 站）
+- 中国政策（0 站）
