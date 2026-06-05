@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026060509
+抓取时间: 2026060520
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- Lululemon tanks after company trims outlook, citing 'headwinds'
-- Bitcoin has longest losing streak since August in bruising week
-- Layoffs tick higher in May, with AI as leading cause
-- AI stock rally mints US millionaires at fastest clip in 4 years
-- Broadcom's sell-off just entered megacap history
-- Anthropic says AI labs need plan to halt development if risks rise
-- Here comes the jobs report: What to expect from Friday's reveal
-- Dimon to flex massive branch network in SpaceX IPO pitch
-- Why the SpaceX IPO could be a trap
-- Wall Street giants tout SpaceX in glitzy pre-IPO investor events
-- Oil Steadies After First Drop This Week on Peace Talk Optimism
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- U.S. markets open in 1h 30m
 - US stock futures slip ahead of May jobs report
-- US officials eye government stakes in AI companies, NOTUS reports
-- Japan's real wages extend gains, consumer spending decline slows in April
-- Trump Slams California’s Slow Results as Vote Count Drags On
-- China's solar majors charge into batteries as panel sales falter
-- ‘Cockroach’ Leader Leaves Boston to Helm India Gen-Z Protest
-- 2 reasons why Broadcom stock may be taking 'a breather' for now
-- AI was a major contributor to layoffs in May: Challenger report
-- How Microsoft, OpenAI went from partnership to 'situationship'
-- Better.com, Coinbase team up on crypto-backed mortgages
+- The AI labor shock is starting to show up in layoff data
+- The Microsoft-OpenAI relationship continues to crumble
+- Senate passes ICE funding, scraps Trump ballroom funds
+- Bitcoin treasury firms shed $62 billion in deepening crypto rout
+- Broadcom sell-off enters megacap history
+- Nvidia CEO sees robotics as next major sector in South Korea
+- Shark Tank star shrinks data center footprint after backlash
+- Musk leaves investors starstruck at Dimon's SpaceX extravaganza
+- Sika targets growth from China renovation market, global data centres
+- Anthropic Says World Needs System to Decide on AI Work Pause
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- Here comes the jobs report: What to expect from Friday's reveal
+- U.S. equity fund inflows surge as tech rally boosts sentiment
+- India ramps up defence of faltering rupee after holding fire on rates
+- Stocks steady as US-Iran peace talks stall, AI rally cools
+- Nasdaq, S&P futures decline as semiconductors slip; payrolls in focus
+- US oil exports surge, draining domestic crude inventories toward rock bottom
+- May jobs report, US unemployment rate: What to Watch
+- How YouTube & low-budget horror are disrupting Hollywood
+- How an ethereum collapse could drag bitcoin prices further
+- Why tech leaders are prioritizing soft skills
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,77 +42,75 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 'I'm Not Saying It Goes To Zero': Mark Cuban Debunks Perceived Misconceptions Around His Bitcoin Position
-- SpaceX Halo Effect? NASA ETF Emerges As May's Third Hottest Thematic Bet With $2 Billion Inflows
-- Lululemon Stock Falls On Weak Outlook As Company Grapples With Recent 'Headwinds'
-- Guidewire Software Posts Better-Than-Expected Q3 Report, But Stock Drops
-- Blackstone Caps BCRED Withdrawals As Redemption Requests Hit 10%
-- The US Isn't Fighting A Temporary Inflation Spike — It's Entering A 2-Year Mini-Cycle
+- What's Going On With AMD Stock Friday?
+- Tom Lee: 'Ethereum Is Like Amazon Stuck At $6, You're Bearish At The Bottom'
+- Why Is Marvell Technology Stock Falling On Friday?
+- Futurum CEO Daniel Newman Drops Reality Check On AI's Trillion-Dollar Bet: 'We've Barely Scratched The Surface...'
+- NVIDIA CEO Says AI's Future Isn't Just Copper
+- Stock Market Today: Dow Futures Gain, S&P 500 Slips As Trump Floats Meeting Iran's Supreme Leader— Lululemon, Keel In Focus
 - Anthropic
 - Cybersecurity
-- Stock Market Today: Nasdaq 100 Slips As Broadcom Plunges, Bitcoin Hits 4-Month Lows
+- Trump Administration Explores Government Stakes In OpenAI, Other AI Companies Days After Bernie Sanders Proposal: Report
 - Nvidia's AI Infrastructure Deepens as Apple Moves Siri Workloads to Cloud GPUs
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 巴克莱称AI还不会取代信贷对冲基金交易员，仅7%投资人预期大裁员
-- 华尔街见闻早餐 | 2026年6月5日
-- 马斯克：如果让火星热闹起来，可以让它像地球一样。
-- 马斯克：对星舰V3的负荷目标是，将100吨货物输送至轨道，完全可重复利用。
-- 马斯克告诉摩根大通CEO戴蒙：我们进入一个快速增长的新阶段。
-为此，我们需要资金。
-- 报道：美国就收购OpenAI等多家人工智能公司股份举行了初步讨论
-- 华尔街预计：SpaceX旗下AI业务收入到2030年将飙升100倍
-- 提醒：日内请重点关注（以下均为北京时间）
-- 美国宣布安泰雷斯微型核反应堆成功达到“临界”状态
-- Ciena第二财季营收15.7亿美元，同比增长40%。
-第二财季调整后每股收益（EPS）为1.64美元，同比增长290%。
-上调全年营收预期至63亿美元+/-1亿美元，同比增幅指引区间的中位数为32%。
-预计第三财季营收为16.25亿美元+
-- 美国小企业招聘计划降至2020年5月以来最低
-- 斯塔默指责马斯克在英国青少年谋杀案后煽动英国分裂
+- 伊朗军队向美军舰开火示警 美舰船随后驶离阿曼湾
+- 麦捷科技：公司已获得英伟达平台研发项目的开放权限，目前部分一体成型和高算力用铜铁共烧电感料号已实现小批量试产
+- 伊朗媒体：伊朗将两艘美军驱逐舰驱离阿曼湾
+- 摩根士丹利：预计SpaceX到2028年营收将接近1600亿美元。
+预计SpaceX到2040年营收将达到3.4万亿美元。
+预计SpaceX调整后EBITDA到2040年将超过2.7万亿美元。
+- Point72据悉考虑从其他对冲基金付费获取交易情报
+- 伊朗最高领袖顾问称忍让到此为止
+- 高盛资产配置研究主管认为近期科技股下跌属于健康回调
+- Research Affiliates创始人：巨型IPO浪潮恐对股市构成持续多年的拖累
+- 国星宇航与腾讯云签署“星算”计划战略合作协议，共建AI云服务产业生态
+- 兆易创新与蔚来达成战略合作
+- 京东MALL落子香港湾仔：6月18日正式开业，未来三年将在香港拓至6-8家门店
+- 巴克莱：因科技板块大型IPO、美联储政策转向风险 应进行对冲配置
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 德国落选安理会非常任理事国，德外长：或因支持乌克兰和以色列
-- 量子计算公司Quantinuum美国IPO首日收涨不到1%。
-- 黑石集团收涨7.5%，创2025年4月份以来最大单日涨幅。
-- 美国总统特朗普：赞赏代理国家情报总监、兼联邦住房金融局(FHFA)局长Bill Pulte在房利美与房地美（两房）的工作。
-两房的价值可能有1万亿美元。
-- 中概指数收跌0.6%，KWEB跌超0.3%，世纪互联跌6%，阿里跌0.99%，万国数据涨3%
-- 道指飙涨超1.7%创收盘历史新高，费城银行指数涨3.7%，半导体指数跌超2.1%
-- 俄总统新闻秘书：随时欢迎泽连斯基来莫斯科谈
-- 美国两年期国债收益率跌3.5个基点
-- 美工农业部长Rollins：“毫无疑问”的是，墨西哥贸易暂停造成（美国）牛肉价格上涨。
-- 特朗普称汽车行业企图限制“自主维修权”
+- 中国长城铝业有限公司原党委副书记、工会主席高纯生接受审查调查
+- 美国印太司令部：已对油轮“达维娜”号（MT Davina）实施登船检查。
+“达维娜”号与伊朗有关。
+- 习近平同老挝人革党中央总书记、国家主席通伦会谈
+- 中国国航：副总裁郑为民退休离任
+- 我国自研全集成航空电动发动机下线交付
+- 李强主持召开国务院常务会议，审议通过《退役军人就业创业促进条例（草案）》。（央视）
+- 深交所：本周共对199起证券异常交易行为采取了自律监管措施
+- 接近人士：镇江某区曾接到紧急通知，摸排与追觅合作情况
+- 国务院常务会议：听取关于做好就业工作的汇报，审议通过《实施就业优先战略“十五五”规划》
+- 国务院常务会议：研究未来产业发展有关工作
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Chinese satellite company releases images of Nvidia, Apple HQs
-- Human-shaped object in US military UFO files intrigues Chinese expert
-- China
-- US farm chief says reliance on China threatens American ‘freedom’
-- Diplomacy
-- US citizen and journalist charged with acting as Chinese agent
-- Society
-- With fewer public spaces for Hong Kong’s helpers, where can they go to unwind?
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Photos offering bird’s-eye view of the campuses are ‘routine satellite news’ according to the firm, which has been sanctioned by the US.
-- Agriculture secretary’s warning comes as tariffs weigh on China trade and Hormuz disruptions drive up fuel and fertiliser costs.
-- According to court documents, Thomas Weir Pauken II worked at the ‘direction and control’ of Chinese officials for at least seven years.
-- Helpers are being driven out of areas where they host activities, with NGOs saying more resting places are needed and urging government review.
-- More US firms turn to China’s DeepSeek over pricey Silicon Valley AI
-- China says US ‘invented’ terrorism charges to justify Cuba blockade
-- Foreign ministry rebutted Marco Rubio’s claim that Cuba sponsors terrorism and demanded an end to US sanctions on the island.
+- ‘Smaller but smart’ Shenzhen station to redraw China’s infrastructure blueprint
+- China, South Korea agree to more flights per week as tourism to Japan dwindles
 - China Business
-- Is Hong Kong losing its tech edge to the mainland’s AI boom?
-- Chinese investors are shifting from Hong Kong to mainland stocks, driven by AI opportunities and better returns.
+- China sees revival of foreign investors through IPOs, convertibles: UBS
+- Military
+- Chinese military team inspects Russia bases as Putin hails ‘natural allies’
+- Hong Kong Economy
+- Hong Kong tour guide stripped of licence over coercing visitors into shopping
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- Tech hub’s biggest station will make regional travel easier, but some Shenzhen residents worry it is too small relative to other rail hubs.
+- The trend is part of a broader recovery of interest in Chinese assets from investors overseas.
+- Two-day inspection trip this week was part of routine verification exercise under 1996 and 1997 border agreements, Tass reports.
+- Disciplinary action by Travel Industry Authority is second of its kind in less than two months.
+- China debuts world’s first superfast quantum memory enabling practical computing
+- Global Economy
+- The additional flights are the first increase between the two countries since before the Covid pandemic.
+- European CEOs more optimistic about business in India than in China
+- 34 per cent expect business conditions in China to improve by end of decade, while 63 per cent have positive expectations for India.
+- Politics
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 比特币创三个月低，相关ETF曾齐破底可否博反弹？
-- ​字节跳动估值飙 张一鸣成亚洲第二富豪
-- 特朗普称伊允弃核武 惟不知会否变卦
-- 韩股“鱿鱼游戏”，散户All or Nothing
+- 高息股6月排队除净，博财息兼收可以怎么选？
+- 内地油价今起下调 年内第二次降价
+- 美众院通过决议 限特朗普续对伊作战
+- 币圈“魔术师”VS 矿池“卖水人”
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -121,9 +119,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25253.40-379.81(-1.48%)
+- 恒生指数24961.95-291.45(-1.15%)
                     etnet.com.hk@copyright
-- 国企指数8501.91-94.68(-1.10%)
+- 国企指数8436.63-65.28(-0.77%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -136,34 +134,34 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 美國5月非農報告20:30公佈；騰訊2026AI產業應用大會9:30開啓，將發佈系列智能體應用新品； 龍豐集團、天辰生物、大金重工登陸港股
-- 盛大客戶路演、齊發唱好研報！華爾街「火力全開」，爲SpaceX上市「造勢」
-- 特朗普最新表態：達成協議後或與伊朗最高領袖會晤，核武器仍是關鍵！
-- 點陣圖最後的「減息點」恐將消失！聯儲局「緊縮蛻變」將從本月開始？
-- 微軟CEO深度訪談：過度依賴OpenAI曾讓公司陷入被動，軟件「未死」但傳統SaaS已到轉折點
-- 外媒：美國政府考慮入股人工智能巨頭
-- 成交額TOP20 | 谷歌漲近4%，領跑七巨頭；邁威爾六連漲，本週累升逾54%；亞馬遜新一代AI倉儲機器人亮相；博通業績指引不及預期，績後重挫12%
-- 報道：Jane Street擬自建數據中心以應對算力短缺
+- 美股前瞻 | 聚焦今晚20:30非農，納指期貨盤前跌近1%；英偉達HBM4供應鏈敲定，三大存儲巨頭獲取訂單；太空概念盤前強勢，Momentus漲超7%
+- 黃仁勳落地韓國首個採訪：此行將「帶來驚喜」大禮包，機器人將是韓國下一大核心產業
+- 看空多年後轉向！摩根大通上調特斯拉評級：人形機器人驅動下一個十年增長
+- 就在今晚！沃什任內首個「非農夜」 聯儲局離加息究竟有多遠？
+- 本週美股牛股 | 邁威爾科技周累漲超54%，黃仁勳「欽點」萬億美元市值；慧與科技漲近25%，AI服務器需求強勁推動上調全年展望；Twilio漲超24%，AI語音業務點燃重估行情
+- WWDC 2026下週二將啓，新Siri能否用「執行力」讓蘋果成爲「AI贏家」
+- 可口可樂成贏家？世界盃開賽在即，國際足聯新規：任何水瓶都不能帶進球場
+- 千問要跟微信在Agent上打擂臺了
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 高盛：預計SpaceX到2028年的資本開支將達3600億美元
-- Anthropic：高昂的計算成本是推動IPO的主因，呼籲全球暫緩前沿AI研發
-- 高期待壓垮光通信明星？Ciena上季業績超預期強勁，上調全年指引，股價仍跌超10%
-- 美股收盤 | 道指飆升近900點創歷史新高，AI交易降溫，納指收跌；光通信、存儲全線回調；太空概念走強，Rocket Lab漲超4%；金銀反彈
-- 聯儲局官員：目前要選擇是保持耐心還是加息，通脹是經濟頭號風險、AI現未影響
-- Planet Labs Q1營收同比增42%，積壓訂單暴漲72%至9.06億美元，政府訂單爆發+鵜鶘衛星加速組網
-- 美股三大股指收盤漲跌不一，半導體板塊表現分化
-- 搶跑IPO盛宴！Coinbase推出SpaceX上市前永續合約
-- Arm股價數週幾乎翻番，預期市盈率170倍，躋身估值最高股票之列
-- 美債市場「怪獸」回歸？華爾街警告：抵押貸款對沖潮或放大長債波動
+- 北水減倉港股超24億港元，淨買入騰訊控股近17億港元，淨賣出中芯國際近28億港元
+- 收市速睇 | 三大指數齊跌，科指數跌1.75%，港股連續三天下挫；半導體股多數下跌，瀾起科技跌9.21%；航運及港口股走高，中遠海控漲6.68%
+- 觀點：6萬美元不僅是比特幣心理整數關口，更是結構性閾值
+- 反「金髮姑娘」！今晚非農：好消息和壞消息，對美股而言都是壞消息
+- AI交易主題降溫後的「安全避風港」浮現：美銀450美元目標價背書+價值輪動，點燃聯合健康反攻軌跡
+- 港股波動加劇催生防禦交易，內銀股逆勢活躍
+- 中金港股下半年展望：維持對指數中性震盪看法；後續邊際變化或帶來恒科等成長板塊低位的估值修復
+- 從拼容量到拼散熱！HBM5時代，三大存儲巨頭打響「散熱保衛戰」
+- 深度詳解「史上最大IPO」——SpaceX
+- 英偉達CEO黃仁勳：將以儘可能明智的方式調配內存供應；三家內存製造商都已獲得供應HBM4的資格
 
 --- 跨站重点主题（多站出现=更重要）---
-- 加密货币: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中)
+- 加密货币: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 就业数据: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 伊朗/中东: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 美国关税: 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: 华尔街见闻 (简中), 经济通 (繁中)
 - 黄金/大宗: 华尔街见闻 (简中)
 - 美联储: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
