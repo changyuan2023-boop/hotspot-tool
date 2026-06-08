@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026060818
+抓取时间: 2026060820
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 3h 28m
-- US stock futures mixed as Mideast strikes spur oil rally
+- U.S. markets open in 1h 30m
+- Trump urges Israel, Iran to stop 'shooting' as strikes continue
 - Apple gets a second shot at its AI rollout at WWDC today
-- Stocks reel from a coming rate hike — and brace for a huge IPO this week
+- Nvidia's Huang: Sell-off in tech stocks is a buying opportunity
+- Oil climbs over 5% as Israel, Iran attacks endanger peace talks
+- Markets brace for coming rate hike — and a huge IPO this week
+- Treasury yields rise as Mideast tensions fuel Fed rate-cut bets
 - IMF warns world isn't ready for shocks that are piling up
 - China's global e-commerce push has stalled. Here's why.
-- Nvidia's Huang: Selloff in tech stocks is a buying opportunity
 - How a few AI chip giants warped Asia's stock picking game
-- Oil prices climb over $4 after Israel strikes on Iran and Lebanon
-- Trump says Fed rate increase would be wrong, again calls for cut
-- South Korea to seek priority supply of Nvidia Vera Rubin GPUs, science minister says
-- Japanese investors make biggest foreign stock exit in five years in May
+- Tariff refund tensions and new data will give tariff watchers a lot to chew on this week
+- UK financial regulator to introduce new rule on money market fund liquidity
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Iran, Israel trade missile attacks in defiance of Trump
-- UK competition watchdog launches probe into eBay's purchase of Depop
-- Time to nip inflation in the bud: Five questions for the ECB
-- Europe's STOXX 600 at two-week low on Mideast tensions; Italian banks in focus
-- Private Markets Elite Gather in Berlin Amid Not-So-Super Returns
-- Tate & Lyle Accepts Bid From Ingredion in Loss for London
-- Elon Musk's mom at JPMorgan event: 'I have a genius son'
-- Why NBA Finals & World Cup timing is great for DraftKings, FanDuel
-- SpaceX IPO, Oracle earnings, May CPI: What to watch this week
-- How an ethereum collapse could drag bitcoin prices further
+- Nasdaq futures surge as chip stocks eye recovery
+- Oil prices climb over 3% after Israeli strikes on Iran and Lebanon
+- When will I get my Social Security check in June?
+- Vimeo parent Bending Spoons files for US IPO
+- Spacecraft developer Quantum Space to go public in $1.2 billion SPAC deal
+- S&P 500, Nasdaq futures climb as chip stocks stabilize
+- Why IPO SpaceX now? Elon Musk says robots, power plants, and star power
+- How this brand is rethinking board games in the age of AI & tech
+- SpaceX is being 'rushed' into the public market, strategist says
+- Cava gives away free food. CEO explains why
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,65 +145,70 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- The AI Trade Just Entered 'Warning Zone,' According To Barclays
-- Is Gold Losing Its Hedge — When Safe Havens Fail, What's Left?
-- Why Google May Have Handed SpaceX The Perfect IPO Catalyst
+- Longsys Refiles For Hong Kong IPO Amid AI-Driven Memory Boom
+- Why Is Tango Therapeutics Stock Soaring Monday?
+- Jim Chanos Rejects SpaceX IPO Valuation Comparison To Amazon, Google, Meta's Early Days: 'Isn't Even Remotely True'
+- Cramer's Lightning Round: Buy Reddit Slowly, Avoid Chasing 'Parabolic' Winners
+- Reddit Caught In The Crossfire: Hot Jobs Print And S&P 500 Snub Hammer Shares
 - Stock Market Today: Dow Jones Futures Fall, S&P 500 Gains As Israel, Iran Exchange Missile Strikes—SK Telecom, Nebius, AMD In Focus
-- Trump Wants Birthday UFC Event On The White House Lawn—A New Lawsuit Says Not So Fast
 - Elon Musk
 - Elizabeth Warren
-- Why Costco Stock Held Steady During Friday's Market Sell-Off
-- S&P 500 Just Triggered A Signal That Has Never Failed Since 1950—Ryan Detrick Says 'My Oh My'
-- Graham Likely To Report Lower Q4 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- Elon Musk Reacts To $30 Trillion SpaceX Valuation Call: 'Ron Is Smart'
+- Wall Street's Most Accurate Analysts Give Their Take On 3 Consumer Stocks With Over 6% Dividend Yields
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
+- 英伟达CEO黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够。
+- 小米17T发布 国补价2549.15元起
+- 英伟达CEO黄仁勋：与SK海力士和SK Telecom的合作未来可能为韩国带来数千亿美元的业务。
+- 美股光通信概念股Ciena拟发行20亿美元的可转换优先票据。
+- 蚂蚁集团推出海外AI支付解决方案
+- 特朗普称以伊寻求立即停火
+- 特朗普：以色列和伊朗正寻求立即停火。
+关于“和平”的最终谈判正在进行中。
+在达成协议之前，封锁将保持不变。
+事情应该迅速推进。
+- 小米：多名网络用户就造谣公司公开道歉。
+- American Battery美股盘前一度涨超50%，现涨近30%；此前公司赢得上诉、美国能源部为其1.15亿美元项目恢复拨款。
+- 霍尼韦尔预计全年调整后每股收益为10.35至10.65美元。
+霍尼韦尔仍预计全年有机销售额增长3%至6%，市场预期增长4.6%。
+霍尼韦尔仍预计全年销售额为388亿至398亿美元，市场预期393.9亿美元。
+霍尼韦尔美股盘前跌近1%。
 - 伊朗准备好与以色列长期对抗
 - 特朗普：以伊必须立即停止“交火”
-- 黑石集团计划出售价值20亿美元的私募投资基金股份。（英国金融时报）
-- 以军评估与伊朗战事或持续数日
-- 高盛：根据历史指标判断美国股市出现些许过热迹象
-- 一架无人机在伊朗首都德黑兰上空被击落
-- 微信宣布面向开发者提供接入微信AI生态的能力
-- 固态电池解锁飞行汽车新可能 有望拉动10万亿级市场
-- 以军称摧毁伊朗多地“战略防御系统”
-- 乘联分会：5月新能源乘用车出口42.4万辆，同比增长112.6%
-- 乘联分会：5月乘用车出口（含整车与CKD）78.4万辆，同比增长75.1%
-- 乘联分会：5月1-31日，全国乘用车市场零售151.0万辆，同比下降22.1%
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 以军再次监测到伊朗导弹来袭，耶路撒冷响起防空警报
-- 以军空袭伊朗导弹发射场等设施
-- 据以色列媒体8日报道，当天从也门发射的一枚导弹已被拦截。（新华社）
-- 专访变吵架，特朗普愤怒离场
-- 外媒：以色列对伊朗发动空袭，美官员称美军未参与以方此次行动
-- 高盛现预计美联储将在2026年维持利率不变。
-高盛预计美联储将在2027年6月和2027年12月分别降息25个基点，而此前的预测为2026年12月和2027年3月各降息一次。
-- 阿里巴巴、中微公司等成立私募投资基金，出资额39.1亿元
-- 英伟达CEO黄仁勋：股票波动是买入机会。
-- 伊朗媒体称，目前以色列尚未袭击德黑兰市区。
-- 伊拉克武装组织警告美国勿介入当前以伊冲突
+- AI云计算公司Nebius将在英国投资17亿英镑建设AI基础设施。
+- 伊朗西部克尔曼沙阿地区启动防空系统
+- 约旦称有多枚导弹侵入领空
+- 伊朗官员：位于马赫沙赫尔的卡伦石化厂已被以色列发射的导弹击中并受损。
+- 以色列国防军称，识别到从伊朗发射的更多导弹。
+- 早间要闻汇总
+- 提醒：日内请重点关注（以下均为北京时间）
+- 伊朗向以色列南部及中部发射导弹 以多地拉响防空警报
+- 当地时间8日，耶路撒冷与约旦上空均传出爆炸声。（央视）
+- 据媒体报道，伊朗向以色列南部和中部发射导弹。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Pyongyang rolls out the red carpet as Xi is welcomed with pomp and ceremony
-- North Korea says nuclear programme is ‘irreversible’ ahead of Xi’s visit
+- Tungsten and eyelashes: N Korea-China trade hits 9-year high as Xi hails ties
+- Developing | Xi Jinping says China’s support for North Korea and Kim Jong-un is ‘unwavering’
+- Diplomacy
 - China Economy
 - Panda bond boom: why China is seeing a rush of global borrowers
+- Health & Environment
+- Hong Kong data centres outpace global average for carbon footprint: UN study
+- Economist James Heckman on the value of risk-taking, and China’s ‘common goal’
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- On his state visit to Pyongyang, President Xi eyes infrastructure, agriculture and tech gains as cross-border rail restarts, while high volumes of hair and tungsten fuel China’s imports.
+- The Chinese leader began his first foreign trip of the year by pledging that the ‘traditional friendship’ between the countries will not change.
+- Beijing’s looser monetary policy, a wider bond market opening and expanding yuan internationalisation are helping drive the trend, analysts say.
+- City ranks among world’s largest data centre hubs in study, which calls for responsible strategy to tackle AI use.
 - Science
 - Chinese team injects moss gene into Xinjiang cotton to beat fungus, boost output
-- Transport
-- Hong Kong’s southbound travel scheme opens to 5  more Greater Bay Area cities
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Crowds waving flags and carrying bouquets of flowers lined the streets of the North Korean capital to welcome the Chinese leader.
-- Beijing’s looser monetary policy, a wider bond market opening and expanding yuan internationalisation are helping drive the trend, analysts say.
 - Scientists report potential to boost cotton yield by nearly a quarter after inserting stress-resistance gene from a species of steppe moss.
-- Daily quota for trips to Hong Kong’s urban areas will also be doubled to 200 from July 25.
-- Economist James Heckman on the value of risk-taking, and China’s ‘common goal’
-- China Business
-- China market is the ‘world’s toughest gym’ for global brands: McKinsey
-- Innovation, speed, and entrepreneurial agility are needed in China; foreign firms must adapt or lose ground, says McKinsey’s Joe Ngai.
 - Tech War
 - Chinese start-up says its nanoimprint tech can produce optical chips without DUV
+- There is debate over the real value of nanoimprint lithography when it comes to volumes, yields and non-photonic chips.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -236,14 +241,17 @@
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - Siri兩年跳票後，今夜凌晨1:00，蘋果WWDC迎來AI正名之戰
+- 大摩點評英偉達「存儲減半」傳聞：這是真實的短缺，供應約束已成AI最大攔路虎
+- 伊朗暫時結束對以打擊，警告以方勿襲擊黎巴嫩
+- 美光CEO：存儲是AI被忽視的瓶頸，供給緊張或延續至2026年後，「我們從不自我懷疑」
 - 事關數據賦能人工智能發展 國家層面首次系統部署
 - 三星：與英偉達CEO黃仁勳討論了HBM4、代工方面的短期合作
 - 特朗普：以伊必須立即停止「交火」
 - 北水掃貨港股超113億港元，淨買入騰訊控股近12億港元，淨賣出中芯國際超9億港元
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - 減持套現後因AI再結盟：騰訊左手牽京東右手攜美團
 - 微信發佈關於開發者接入微信AI生態的指引
 - 收市速睇 | 三大指數齊跌，科指跌2.71%；科指成分股普跌，MINIMAX跌超8%；部分油氣股逆市走強，山東墨龍漲近26%；PCB概念建滔積層板反彈超12%
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - 擁擠、估值、加息預期擾動不斷：科技是否仍然值得堅守？
 - SemiAnalysis回應Vera SOCAMM爭議：質疑者沒去過Computex海力士展臺
 - 科技股暴跌怎麼辦？黃仁勳：你應該感到高興，終於能打折買了！高盛看好韓國股市反彈
@@ -251,18 +259,16 @@
 - 沃什是否會「提前加息」？
 - 萬億巨頭IPO的背後：見頂信號？融資、回購及估值邏輯變化
 - 國聯民生證券：美股回調風險幾何？
-- 韓國交易所召開緊急會議評估市場波動，並討論確保市場穩定運行的措施
-- 港股機器人概念逆市走強，黃仁勳、孫正義點名物理AI與機器人賽道，特斯拉V3版本或於6月底亮相
-- 祕密會議、高管出局、押注谷歌Gemini——新Siri能否救贖庫克的最後一戰？
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美国关税: Yahoo Finance (EN)
 - 油价/霍尔木兹: Yahoo Finance (EN)
+- 就业数据: Benzinga (EN)
+- 黄金/大宗: 经济通 (繁中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
