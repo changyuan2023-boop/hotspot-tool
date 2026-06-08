@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：早间**
-**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
+**当前模式：晚间**
+**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`早间热点线索 · 2026年6月8日`
+`晚间热点线索 · 2026年6月8日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -38,14 +38,14 @@
 **条目排列顺序——按重要度与影响面从高到低：**
 综合以下三个维度为每条打分，得分高的排在前面：
 1. **影响面**（权重最高）：影响多个市场或多板块 > 单一板块 > 单只个股
-2. **跨站验证**：资讯来源末尾标注的主题出现站数越多，优先级越高
+2. **跨站验证**：资讯来源末尾标注的主题出现站数越多，优先级越高（**例外**：下方"高确定性事件白名单"中的事件即便单站出现，也按最高优先级处理）
 3. **异动幅度**：涨跌幅越大排越前（≥10% 最优先，<5% 靠后）
 
 三个维度综合判断；若得分相近，宏观/政策类 > 大盘指数类 > 板块 > 个股。
 
 **强制合并规则——大盘与板块概览：**
 以下类型的消息**必须全部合并为一条**，不得拆成多条：
-- 主要指数涨跌（标普500、纳斯达克100、道指、中概股指数、恒生指数等）及股指期货
+- 主要指数涨跌（**仅限美股与港股**：标普500、纳斯达克100、道指、中概股指数、恒生指数、国企指数等）及股指期货。**A 股指数（上证、深证、创业板、沪深300、北证 50 等）不写入，即便来源中出现也忽略**
 - 行业/板块 ETF 涨跌、板块分化
 - 国债收益率、汇率的有意义变动
 - 油价、黄金、大宗商品的涨跌（**即便有具体数字也必须并入本条，不得单独成条**）
@@ -62,15 +62,15 @@
 
 ---
 
-## 早间模式操作指令
+## 晚间模式操作指令
 
-聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
+聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
 重点关注（按重要性排序写入）：
-1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
-2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
-3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
-4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
+1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
+4. 其他值得今晚关注的美股消息
 
 ---
 
@@ -81,6 +81,10 @@
 - 七大科技股（AAPL / MSFT / NVDA / GOOGL / META / AMZN / TSLA）财报或重大消息
 - 个股异动 5% 以上 + 有明确原因
 - 行业板块整体联动（**仅限来源中明确列出多只同向异动的股票**，不得自行推断"XX等或受联动"）
+
+**高确定性事件白名单——即便单站出现、影响面看似有限，也必须写入：**
+- 主要指数（标普500 / 纳斯达克100 / 道指 / 恒生指数 / 港股通等）成份股的**纳入或剔除**（被动指数基金调仓必然触发交易）
+- 港股新股 IPO 上市或暗盘表现
 
 不要写（以下三类直接删除，不得保留，不得自行补写原因）：
 - 泛泛的市场情绪描述
@@ -100,29 +104,29 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026060809
+抓取时间: 2026060818
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
+- U.S. markets open in 3h 28m
+- US stock futures mixed as Mideast strikes spur oil rally
+- Apple gets a second shot at its AI rollout at WWDC today
 - Stocks reel from a coming rate hike — and brace for a huge IPO this week
-- US and Iran appear far from peace deal 100 days since war began
+- IMF warns world isn't ready for shocks that are piling up
+- China's global e-commerce push has stalled. Here's why.
+- Nvidia's Huang: Selloff in tech stocks is a buying opportunity
+- How a few AI chip giants warped Asia's stock picking game
+- Oil prices climb over $4 after Israel strikes on Iran and Lebanon
 - Trump says Fed rate increase would be wrong, again calls for cut
-- Nvidia's $500 billion AI opportunity gets real
-- A twist in the AI race could boost Intel's revival
-- Trump calls settlement fund 'great idea' despite GOP blowback
-- Companies are cashing in on consumers' unwillingness to bargain
-- Today's stock market leaders are hot — but not 1999 hot: Chart of the Day
-- Nvidia, SK to detail cooperation plan as Huang flags chip shortage
-- Oil prices rise more than $2 on Israel strikes on Lebanon
-- Japan's economy cools on weak capex in Q1, revised data shows
+- South Korea to seek priority supply of Nvidia Vera Rubin GPUs, science minister says
+- Japanese investors make biggest foreign stock exit in five years in May
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 'A splash of cold water': Wall Street gauges pause in AI trade
-- Xi Visits North Korea to Boost Influence Over Emboldened Kim
-- Asia markets brace for selling after tech rout hits Wall Street
-- UK firms pause hiring as Iran war stings, REC survey shows
-- China says 'illegal' outbound investment crackdown won't lead to forced liquidation
-- Nvidia announces deals with South Korea's SK Hynix, Naver and Doosan for AI data centres
+- Iran, Israel trade missile attacks in defiance of Trump
+- UK competition watchdog launches probe into eBay's purchase of Depop
+- Time to nip inflation in the bud: Five questions for the ECB
+- Europe's STOXX 600 at two-week low on Mideast tensions; Italian banks in focus
+- Private Markets Elite Gather in Berlin Amid Not-So-Super Returns
+- Tate & Lyle Accepts Bid From Ingredion in Loss for London
 - Elon Musk's mom at JPMorgan event: 'I have a genius son'
 - Why NBA Finals & World Cup timing is great for DraftKings, FanDuel
 - SpaceX IPO, Oracle earnings, May CPI: What to watch this week
@@ -141,89 +145,73 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Powerful 7.8-Magnitude Earthquake Off Southern Philippines Triggers Tsunami Warnings Across Region
-- Pushing Your Savings Rate To 30% Could Shave Years Off Your Working Life
-- Oracle Stock Analysis And Earnings Preview: Will It Have A Broadcom Moment?
-- Delta, United, Southwest Stocks In Focus As Airline Group Signals Sharp Drop In Profits
-- Elon Musk In Direct Talks With ASML For $119B TeraFab Chip Plant: CEO Calls Him 'Very Serious'
-- Trump Says There Is 'No Reason' For Fed To Raise Interest Rates
+- The AI Trade Just Entered 'Warning Zone,' According To Barclays
+- Is Gold Losing Its Hedge — When Safe Havens Fail, What's Left?
+- Why Google May Have Handed SpaceX The Perfect IPO Catalyst
+- Stock Market Today: Dow Jones Futures Fall, S&P 500 Gains As Israel, Iran Exchange Missile Strikes—SK Telecom, Nebius, AMD In Focus
+- Trump Wants Birthday UFC Event On The White House Lawn—A New Lawsuit Says Not So Fast
 - Elon Musk
 - Elizabeth Warren
 - Why Costco Stock Held Steady During Friday's Market Sell-Off
-- Cardano Price Hits All-Time Low: Why Charles Hoskinson's Project Failed
+- S&P 500 Just Triggered A Signal That Has Never Failed Since 1950—Ryan Detrick Says 'My Oh My'
+- Graham Likely To Report Lower Q4 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 英伟达CEO：我们每年已经从SK海力士采购价值数十亿美元的芯片，并且今年这一数字还将大幅增长。
-与SK海力士的协议期限将超过两年，并且我们有能力持续续约。
-每个人都有机会以更便宜的价格购买股票。
-- 纳斯达克100指数期货涨0.5%，抹去早前跌幅。
-- 英伟达CEO：SK海力士将继续是英伟达最大的合作伙伴。
-- 英媒曝美国打算绕开英国“收购”查戈斯群岛
-- 美国：有报道称约旦领空出现导弹、无人机或火箭。
-- 英伟达CEO黄仁勋：我们与SK集团建立了一项非常重大且长期的合作伙伴关系。
-AI是有利可图的。
-已与SK海力士锁定长期协议。
-没有哪个国家在机器人技术方面的准备比韩国更充分。
-已将与SK的合作伙伴关系从AI超级计算机拓展至CPU、PC和机器
-- 美国大使馆下令驻以色列政府雇员就地避难。
-美国驻耶路撒冷大使馆和特拉维夫领事处周一关闭。
-- 华尔街见闻早餐FM-Radio | 2026年6月8日
-- 一名美国官员告诉Axios：我不认为以色列（对伊朗）的袭击有任何迫在眉睫的迹象。
-- Doosan与英伟达将在AI工厂领域展开合作，其将与英伟达全面扩大在能源、电子材料及机器人业务领域的合作。（韩国News1）
-- SK电讯：计划利用英伟达技术在韩国打造吉瓦（GW）级的AI云，首座AI工厂计划于2027年上线投入运营。
-将使用英伟达Blackwell GPU进行AI训练和推理。
-在英伟达Vera Rubin平台预计于2026年下半年上市后，将采用该平台
-- SK海力士：正与英伟达联合开发面向全球AI工厂的下一代内存/显存。
-考虑到先进内存较长的开发周期，这一长期合作伙伴关系将有助于保障稳定供应。
-通过这次合作，公司将进入个人AI和具身AI等AI领域的新市场。
-将继续供应满足英伟达基础设施路线图
+- 伊朗准备好与以色列长期对抗
+- 特朗普：以伊必须立即停止“交火”
+- 黑石集团计划出售价值20亿美元的私募投资基金股份。（英国金融时报）
+- 以军评估与伊朗战事或持续数日
+- 高盛：根据历史指标判断美国股市出现些许过热迹象
+- 一架无人机在伊朗首都德黑兰上空被击落
+- 微信宣布面向开发者提供接入微信AI生态的能力
+- 固态电池解锁飞行汽车新可能 有望拉动10万亿级市场
+- 以军称摧毁伊朗多地“战略防御系统”
+- 乘联分会：5月新能源乘用车出口42.4万辆，同比增长112.6%
+- 乘联分会：5月乘用车出口（含整车与CKD）78.4万辆，同比增长75.1%
+- 乘联分会：5月1-31日，全国乘用车市场零售151.0万辆，同比下降22.1%
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 美国总统特朗普：将打电话给以色列总理内塔尼亚胡，要求他不要回击（伊朗）。
-伊朗对以色列的打击没有伤害到任何人，希望以色列不要打击报复。
-如果内塔尼亚胡回击，将重演过去47年、或者过去3000年的历史。
-以色列和伊朗“这两个国家都很有趣”。
-- 伊拉克空域将关闭72小时。（INA）
-- 特朗普建议伊朗发射了导弹就够了
-- 伊朗西部空域暂时关闭，直至另行通知。（伊朗官方新闻机构）
-- 伊拉克宣布临时关闭领空
-- 伊朗武装部队警告：或对以色列采取进一步行动
-- 伊朗伊斯兰革命卫队：如果以色列的侵略行为再次发生，伊朗回应的范围将更加广泛
-- 伊朗副外长：伊朗海外资产不是华盛顿的战利品
-- 美元兑日元大致持稳，周一悉尼盘初报价160.30日元，此前低开至160.04日元。
-欧元兑美元跌0.10%，逼近1.1510，此前微幅高开至1.1524附近。
-英镑兑美元从1.3342下挫至1.3325，美元兑瑞郎从0.7942上扬至0.7
-- 伊朗最高领袖顾问：伊朗已对侵略者作出“回应”
+- 以军再次监测到伊朗导弹来袭，耶路撒冷响起防空警报
+- 以军空袭伊朗导弹发射场等设施
+- 据以色列媒体8日报道，当天从也门发射的一枚导弹已被拦截。（新华社）
+- 专访变吵架，特朗普愤怒离场
+- 外媒：以色列对伊朗发动空袭，美官员称美军未参与以方此次行动
+- 高盛现预计美联储将在2026年维持利率不变。
+高盛预计美联储将在2027年6月和2027年12月分别降息25个基点，而此前的预测为2026年12月和2027年3月各降息一次。
+- 阿里巴巴、中微公司等成立私募投资基金，出资额39.1亿元
+- 英伟达CEO黄仁勋：股票波动是买入机会。
+- 伊朗媒体称，目前以色列尚未袭击德黑兰市区。
+- 伊拉克武装组织警告美国勿介入当前以伊冲突
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Exclusive | Economist James Heckman on the value of risk-taking, and China’s ‘common goal’
-- Open Questions | Hong Kong must embrace ‘bipolar’ role to thrive in its ‘Stage 3.0’: Charles Li
-- Military
-- China urged to fast-track carrier fleet upgrades as Japan boosts strike power
-- China’s nuclear stockpile growing as disarmament era ends: SIPRI
-- Politics
-- Hong Kong tycoon bets China will overtake US economy ‘in next decade or so’
-- Visual feast: Chinese photographers shine at World Food Photography Awards 2026
+- Pyongyang rolls out the red carpet as Xi is welcomed with pomp and ceremony
+- North Korea says nuclear programme is ‘irreversible’ ahead of Xi’s visit
+- China Economy
+- Panda bond boom: why China is seeing a rush of global borrowers
+- Science
+- Chinese team injects moss gene into Xinjiang cotton to beat fungus, boost output
+- Transport
+- Hong Kong’s southbound travel scheme opens to 5  more Greater Bay Area cities
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- He also discusses the economic outlook, youth unemployment and whether the country can overtake the US in science and tech.
-- A potential gap that China’s carrier strike groups ‘need to address is the limited number of stealth fighters’, former PLA Navy officer says.
-- Swedish think-tank says Beijing now has 620 nuclear warheads and may be increasing deployment as New Start’s expiry ends arms control era.
-- Hopewell founder Gordon Wu says city must leverage its role as a premier trading hub to attract highly fluid American private wealth.
-- Southeast Asia
-- Breaking | Magnitude 7.8 quake strikes Philippines, tsunami warning issued
-- Residents have been advised to move away from the coast after the quake, which occurred at a ‌depth of 10⁠km.
-- Middle East
-- Israel army says Iran committed ‘grave mistake’ by firing missiles
-- Air raid sirens sounded on Sunday as Israel’s military worked to intercept Iranian missiles for the first time since an April ceasefire.
+- Crowds waving flags and carrying bouquets of flowers lined the streets of the North Korean capital to welcome the Chinese leader.
+- Beijing’s looser monetary policy, a wider bond market opening and expanding yuan internationalisation are helping drive the trend, analysts say.
+- Scientists report potential to boost cotton yield by nearly a quarter after inserting stress-resistance gene from a species of steppe moss.
+- Daily quota for trips to Hong Kong’s urban areas will also be doubled to 200 from July 25.
+- Economist James Heckman on the value of risk-taking, and China’s ‘common goal’
+- China Business
+- China market is the ‘world’s toughest gym’ for global brands: McKinsey
+- Innovation, speed, and entrepreneurial agility are needed in China; foreign firms must adapt or lose ground, says McKinsey’s Joe Ngai.
+- Tech War
+- Chinese start-up says its nanoimprint tech can produce optical chips without DUV
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 高息股6月排队除净，博财息兼收可以怎么选？
-- 内地油价今起下调 年内第二次降价
+- 百度旗下昆仑芯本月上市预期未明朗，股价再跌逾7%
+- 人行连续19月增持黄金 创11年最长
 - 韩国连日示威 不满侵害投票权
-- 币圈“魔术师”VS 矿池“卖水人”
+- “六绝月”暗涌四伏，散户“三诫”防身
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -232,9 +220,9 @@ AI是有利可图的。
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数24961.95-291.45(-1.15%)
+- 恒生指数24657.06-304.89(-1.22%)
                     etnet.com.hk@copyright
-- 国企指数8436.63-65.28(-0.77%)
+- 国企指数8341.36-95.27(-1.13%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -247,36 +235,35 @@ AI是有利可图的。
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 美國政府考慮入股人工智能企業；特朗普稱聯儲局加息將是錯誤之舉；邁威爾科技與偉創力獲納入標普500指數；英偉達與SK海力士達成多年技術合作；蘋果全球開發者大會次日凌晨1點開啓
-- 英偉達與SK海力士宣佈多年期技術合作，爲人工智能工廠推進存儲技術
-- 伊朗「警告性」打擊以色列，以色列稱「將強力回應」，特朗普警告內塔尼亞胡「不要反擊，美伊協議近在咫尺」
-- 韓國交易所召開緊急會議，應對市場波動並強化監控
-- 一週前瞻 | 「超級事件周」來襲！SpaceX準備上市；蘋果WWDC召開，Siri AI成最大看點；世界盃開幕，甲骨文業績與中美CPI即將揭曉
-- 國聯民生證券：美股回調風險幾何？
-- 美股科技股上週遭遇「黑色星期五」！後續怎麼走？最新研判來了
-- SpaceX上市募資要建「太空數據中心」，卻高價租算力給谷歌和Anthropic！網民熱議：爲何如此？
+- Siri兩年跳票後，今夜凌晨1:00，蘋果WWDC迎來AI正名之戰
+- 事關數據賦能人工智能發展 國家層面首次系統部署
+- 三星：與英偉達CEO黃仁勳討論了HBM4、代工方面的短期合作
+- 特朗普：以伊必須立即停止「交火」
+- 北水掃貨港股超113億港元，淨買入騰訊控股近12億港元，淨賣出中芯國際超9億港元
+- 減持套現後因AI再結盟：騰訊左手牽京東右手攜美團
+- 微信發佈關於開發者接入微信AI生態的指引
+- 收市速睇 | 三大指數齊跌，科指跌2.71%；科指成分股普跌，MINIMAX跌超8%；部分油氣股逆市走強，山東墨龍漲近26%；PCB概念建滔積層板反彈超12%
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 伊戰已打100天了，爲何油價沒有飛天，後續還會不會飛天？
-- ChatGPT即將迎來大改造：告別聊天變身「超級應用」
-- 無論如何，不要「無視」週五的大跌
-- 央行加速增持黃金！連續19個月增持，5月環比增加32萬盎司
-- 聯儲局「喉舌」：從「三次減息」到「重啓加息」 沃什首次議息會議便遭遇空前考驗
-- 週末讀物 | 巴菲特爲什麼重倉谷歌，而非英偉達？
-- 中國央行連續第19個月增持黃金
-- 亮眼業績後股價大跌？博通CEO：永遠不關心股價，死磕技術客戶就不會跑，看好「博通-谷歌-Anthropic」鐵三角
-- 週末讀物 | 解密SpaceX IPO：馬斯克如何把 AI 裝進火箭
-- 美國擬動用伊朗被凍結資產賠償海灣國家損失，或成停火談判「新刺激」
+- 擁擠、估值、加息預期擾動不斷：科技是否仍然值得堅守？
+- SemiAnalysis回應Vera SOCAMM爭議：質疑者沒去過Computex海力士展臺
+- 科技股暴跌怎麼辦？黃仁勳：你應該感到高興，終於能打折買了！高盛看好韓國股市反彈
+- 下週聯儲局會議最大懸念：沃什會向特朗普低頭，還是向加息靠攏？
+- 沃什是否會「提前加息」？
+- 萬億巨頭IPO的背後：見頂信號？融資、回購及估值邏輯變化
+- 國聯民生證券：美股回調風險幾何？
+- 韓國交易所召開緊急會議評估市場波動，並討論確保市場穩定運行的措施
+- 港股機器人概念逆市走強，黃仁勳、孫正義點名物理AI與機器人賽道，特斯拉V3版本或於6月底亮相
+- 祕密會議、高管出局、押注谷歌Gemini——新Siri能否救贖庫克的最後一戰？
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
+- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 加密货币: Yahoo Finance (EN), Benzinga (EN)
-- 美联储: Yahoo Finance (EN), Benzinga (EN)
-- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
-- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 美国关税: 经济通 (繁中)
-- 就业数据: SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
