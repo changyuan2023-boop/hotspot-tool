@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026060520
+抓取时间: 2026060809
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- US stock futures slip ahead of May jobs report
-- The AI labor shock is starting to show up in layoff data
-- The Microsoft-OpenAI relationship continues to crumble
-- Senate passes ICE funding, scraps Trump ballroom funds
-- Bitcoin treasury firms shed $62 billion in deepening crypto rout
-- Broadcom sell-off enters megacap history
-- Nvidia CEO sees robotics as next major sector in South Korea
-- Shark Tank star shrinks data center footprint after backlash
-- Musk leaves investors starstruck at Dimon's SpaceX extravaganza
-- Sika targets growth from China renovation market, global data centres
-- Anthropic Says World Needs System to Decide on AI Work Pause
+- U.S. markets closed
+- Stocks reel from a coming rate hike — and brace for a huge IPO this week
+- US and Iran appear far from peace deal 100 days since war began
+- Trump says Fed rate increase would be wrong, again calls for cut
+- Nvidia's $500 billion AI opportunity gets real
+- A twist in the AI race could boost Intel's revival
+- Trump calls settlement fund 'great idea' despite GOP blowback
+- Companies are cashing in on consumers' unwillingness to bargain
+- Today's stock market leaders are hot — but not 1999 hot: Chart of the Day
+- Nvidia, SK to detail cooperation plan as Huang flags chip shortage
+- Oil prices rise more than $2 on Israel strikes on Lebanon
+- Japan's economy cools on weak capex in Q1, revised data shows
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Here comes the jobs report: What to expect from Friday's reveal
-- U.S. equity fund inflows surge as tech rally boosts sentiment
-- India ramps up defence of faltering rupee after holding fire on rates
-- Stocks steady as US-Iran peace talks stall, AI rally cools
-- Nasdaq, S&P futures decline as semiconductors slip; payrolls in focus
-- US oil exports surge, draining domestic crude inventories toward rock bottom
-- May jobs report, US unemployment rate: What to Watch
-- How YouTube & low-budget horror are disrupting Hollywood
+- 'A splash of cold water': Wall Street gauges pause in AI trade
+- Xi Visits North Korea to Boost Influence Over Emboldened Kim
+- Asia markets brace for selling after tech rout hits Wall Street
+- UK firms pause hiring as Iran war stings, REC survey shows
+- China says 'illegal' outbound investment crackdown won't lead to forced liquidation
+- Nvidia announces deals with South Korea's SK Hynix, Naver and Doosan for AI data centres
+- Elon Musk's mom at JPMorgan event: 'I have a genius son'
+- Why NBA Finals & World Cup timing is great for DraftKings, FanDuel
+- SpaceX IPO, Oracle earnings, May CPI: What to watch this week
 - How an ethereum collapse could drag bitcoin prices further
-- Why tech leaders are prioritizing soft skills
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,74 +42,88 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- What's Going On With AMD Stock Friday?
-- Tom Lee: 'Ethereum Is Like Amazon Stuck At $6, You're Bearish At The Bottom'
-- Why Is Marvell Technology Stock Falling On Friday?
-- Futurum CEO Daniel Newman Drops Reality Check On AI's Trillion-Dollar Bet: 'We've Barely Scratched The Surface...'
-- NVIDIA CEO Says AI's Future Isn't Just Copper
-- Stock Market Today: Dow Futures Gain, S&P 500 Slips As Trump Floats Meeting Iran's Supreme Leader— Lululemon, Keel In Focus
-- Anthropic
-- Cybersecurity
-- Trump Administration Explores Government Stakes In OpenAI, Other AI Companies Days After Bernie Sanders Proposal: Report
-- Nvidia's AI Infrastructure Deepens as Apple Moves Siri Workloads to Cloud GPUs
+- Powerful 7.8-Magnitude Earthquake Off Southern Philippines Triggers Tsunami Warnings Across Region
+- Pushing Your Savings Rate To 30% Could Shave Years Off Your Working Life
+- Oracle Stock Analysis And Earnings Preview: Will It Have A Broadcom Moment?
+- Delta, United, Southwest Stocks In Focus As Airline Group Signals Sharp Drop In Profits
+- Elon Musk In Direct Talks With ASML For $119B TeraFab Chip Plant: CEO Calls Him 'Very Serious'
+- Trump Says There Is 'No Reason' For Fed To Raise Interest Rates
+- Elon Musk
+- Elizabeth Warren
+- Why Costco Stock Held Steady During Friday's Market Sell-Off
+- Cardano Price Hits All-Time Low: Why Charles Hoskinson's Project Failed
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 伊朗军队向美军舰开火示警 美舰船随后驶离阿曼湾
-- 麦捷科技：公司已获得英伟达平台研发项目的开放权限，目前部分一体成型和高算力用铜铁共烧电感料号已实现小批量试产
-- 伊朗媒体：伊朗将两艘美军驱逐舰驱离阿曼湾
-- 摩根士丹利：预计SpaceX到2028年营收将接近1600亿美元。
-预计SpaceX到2040年营收将达到3.4万亿美元。
-预计SpaceX调整后EBITDA到2040年将超过2.7万亿美元。
-- Point72据悉考虑从其他对冲基金付费获取交易情报
-- 伊朗最高领袖顾问称忍让到此为止
-- 高盛资产配置研究主管认为近期科技股下跌属于健康回调
-- Research Affiliates创始人：巨型IPO浪潮恐对股市构成持续多年的拖累
-- 国星宇航与腾讯云签署“星算”计划战略合作协议，共建AI云服务产业生态
-- 兆易创新与蔚来达成战略合作
-- 京东MALL落子香港湾仔：6月18日正式开业，未来三年将在香港拓至6-8家门店
-- 巴克莱：因科技板块大型IPO、美联储政策转向风险 应进行对冲配置
+- 英伟达CEO：我们每年已经从SK海力士采购价值数十亿美元的芯片，并且今年这一数字还将大幅增长。
+与SK海力士的协议期限将超过两年，并且我们有能力持续续约。
+每个人都有机会以更便宜的价格购买股票。
+- 纳斯达克100指数期货涨0.5%，抹去早前跌幅。
+- 英伟达CEO：SK海力士将继续是英伟达最大的合作伙伴。
+- 英媒曝美国打算绕开英国“收购”查戈斯群岛
+- 美国：有报道称约旦领空出现导弹、无人机或火箭。
+- 英伟达CEO黄仁勋：我们与SK集团建立了一项非常重大且长期的合作伙伴关系。
+AI是有利可图的。
+已与SK海力士锁定长期协议。
+没有哪个国家在机器人技术方面的准备比韩国更充分。
+已将与SK的合作伙伴关系从AI超级计算机拓展至CPU、PC和机器
+- 美国大使馆下令驻以色列政府雇员就地避难。
+美国驻耶路撒冷大使馆和特拉维夫领事处周一关闭。
+- 华尔街见闻早餐FM-Radio | 2026年6月8日
+- 一名美国官员告诉Axios：我不认为以色列（对伊朗）的袭击有任何迫在眉睫的迹象。
+- Doosan与英伟达将在AI工厂领域展开合作，其将与英伟达全面扩大在能源、电子材料及机器人业务领域的合作。（韩国News1）
+- SK电讯：计划利用英伟达技术在韩国打造吉瓦（GW）级的AI云，首座AI工厂计划于2027年上线投入运营。
+将使用英伟达Blackwell GPU进行AI训练和推理。
+在英伟达Vera Rubin平台预计于2026年下半年上市后，将采用该平台
+- SK海力士：正与英伟达联合开发面向全球AI工厂的下一代内存/显存。
+考虑到先进内存较长的开发周期，这一长期合作伙伴关系将有助于保障稳定供应。
+通过这次合作，公司将进入个人AI和具身AI等AI领域的新市场。
+将继续供应满足英伟达基础设施路线图
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 中国长城铝业有限公司原党委副书记、工会主席高纯生接受审查调查
-- 美国印太司令部：已对油轮“达维娜”号（MT Davina）实施登船检查。
-“达维娜”号与伊朗有关。
-- 习近平同老挝人革党中央总书记、国家主席通伦会谈
-- 中国国航：副总裁郑为民退休离任
-- 我国自研全集成航空电动发动机下线交付
-- 李强主持召开国务院常务会议，审议通过《退役军人就业创业促进条例（草案）》。（央视）
-- 深交所：本周共对199起证券异常交易行为采取了自律监管措施
-- 接近人士：镇江某区曾接到紧急通知，摸排与追觅合作情况
-- 国务院常务会议：听取关于做好就业工作的汇报，审议通过《实施就业优先战略“十五五”规划》
-- 国务院常务会议：研究未来产业发展有关工作
+- 美国总统特朗普：将打电话给以色列总理内塔尼亚胡，要求他不要回击（伊朗）。
+伊朗对以色列的打击没有伤害到任何人，希望以色列不要打击报复。
+如果内塔尼亚胡回击，将重演过去47年、或者过去3000年的历史。
+以色列和伊朗“这两个国家都很有趣”。
+- 伊拉克空域将关闭72小时。（INA）
+- 特朗普建议伊朗发射了导弹就够了
+- 伊朗西部空域暂时关闭，直至另行通知。（伊朗官方新闻机构）
+- 伊拉克宣布临时关闭领空
+- 伊朗武装部队警告：或对以色列采取进一步行动
+- 伊朗伊斯兰革命卫队：如果以色列的侵略行为再次发生，伊朗回应的范围将更加广泛
+- 伊朗副外长：伊朗海外资产不是华盛顿的战利品
+- 美元兑日元大致持稳，周一悉尼盘初报价160.30日元，此前低开至160.04日元。
+欧元兑美元跌0.10%，逼近1.1510，此前微幅高开至1.1524附近。
+英镑兑美元从1.3342下挫至1.3325，美元兑瑞郎从0.7942上扬至0.7
+- 伊朗最高领袖顾问：伊朗已对侵略者作出“回应”
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- ‘Smaller but smart’ Shenzhen station to redraw China’s infrastructure blueprint
-- China, South Korea agree to more flights per week as tourism to Japan dwindles
-- China Business
-- China sees revival of foreign investors through IPOs, convertibles: UBS
+- Exclusive | Economist James Heckman on the value of risk-taking, and China’s ‘common goal’
+- Open Questions | Hong Kong must embrace ‘bipolar’ role to thrive in its ‘Stage 3.0’: Charles Li
 - Military
-- Chinese military team inspects Russia bases as Putin hails ‘natural allies’
-- Hong Kong Economy
-- Hong Kong tour guide stripped of licence over coercing visitors into shopping
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Tech hub’s biggest station will make regional travel easier, but some Shenzhen residents worry it is too small relative to other rail hubs.
-- The trend is part of a broader recovery of interest in Chinese assets from investors overseas.
-- Two-day inspection trip this week was part of routine verification exercise under 1996 and 1997 border agreements, Tass reports.
-- Disciplinary action by Travel Industry Authority is second of its kind in less than two months.
-- China debuts world’s first superfast quantum memory enabling practical computing
-- Global Economy
-- The additional flights are the first increase between the two countries since before the Covid pandemic.
-- European CEOs more optimistic about business in India than in China
-- 34 per cent expect business conditions in China to improve by end of decade, while 63 per cent have positive expectations for India.
+- China urged to fast-track carrier fleet upgrades as Japan boosts strike power
+- China’s nuclear stockpile growing as disarmament era ends: SIPRI
 - Politics
+- Hong Kong tycoon bets China will overtake US economy ‘in next decade or so’
+- Visual feast: Chinese photographers shine at World Food Photography Awards 2026
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- He also discusses the economic outlook, youth unemployment and whether the country can overtake the US in science and tech.
+- A potential gap that China’s carrier strike groups ‘need to address is the limited number of stealth fighters’, former PLA Navy officer says.
+- Swedish think-tank says Beijing now has 620 nuclear warheads and may be increasing deployment as New Start’s expiry ends arms control era.
+- Hopewell founder Gordon Wu says city must leverage its role as a premier trading hub to attract highly fluid American private wealth.
+- Southeast Asia
+- Breaking | Magnitude 7.8 quake strikes Philippines, tsunami warning issued
+- Residents have been advised to move away from the coast after the quake, which occurred at a ‌depth of 10⁠km.
+- Middle East
+- Israel army says Iran committed ‘grave mistake’ by firing missiles
+- Air raid sirens sounded on Sunday as Israel’s military worked to intercept Iranian missiles for the first time since an April ceasefire.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
 - 高息股6月排队除净，博财息兼收可以怎么选？
 - 内地油价今起下调 年内第二次降价
-- 美众院通过决议 限特朗普续对伊作战
+- 韩国连日示威 不满侵害投票权
 - 币圈“魔术师”VS 矿池“卖水人”
 - 指数环球商品外汇
 - 国金观点
@@ -134,36 +148,35 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美股前瞻 | 聚焦今晚20:30非農，納指期貨盤前跌近1%；英偉達HBM4供應鏈敲定，三大存儲巨頭獲取訂單；太空概念盤前強勢，Momentus漲超7%
-- 黃仁勳落地韓國首個採訪：此行將「帶來驚喜」大禮包，機器人將是韓國下一大核心產業
-- 看空多年後轉向！摩根大通上調特斯拉評級：人形機器人驅動下一個十年增長
-- 就在今晚！沃什任內首個「非農夜」 聯儲局離加息究竟有多遠？
-- 本週美股牛股 | 邁威爾科技周累漲超54%，黃仁勳「欽點」萬億美元市值；慧與科技漲近25%，AI服務器需求強勁推動上調全年展望；Twilio漲超24%，AI語音業務點燃重估行情
-- WWDC 2026下週二將啓，新Siri能否用「執行力」讓蘋果成爲「AI贏家」
-- 可口可樂成贏家？世界盃開賽在即，國際足聯新規：任何水瓶都不能帶進球場
-- 千問要跟微信在Agent上打擂臺了
+- 富途早報 | 美國政府考慮入股人工智能企業；特朗普稱聯儲局加息將是錯誤之舉；邁威爾科技與偉創力獲納入標普500指數；英偉達與SK海力士達成多年技術合作；蘋果全球開發者大會次日凌晨1點開啓
+- 英偉達與SK海力士宣佈多年期技術合作，爲人工智能工廠推進存儲技術
+- 伊朗「警告性」打擊以色列，以色列稱「將強力回應」，特朗普警告內塔尼亞胡「不要反擊，美伊協議近在咫尺」
+- 韓國交易所召開緊急會議，應對市場波動並強化監控
+- 一週前瞻 | 「超級事件周」來襲！SpaceX準備上市；蘋果WWDC召開，Siri AI成最大看點；世界盃開幕，甲骨文業績與中美CPI即將揭曉
+- 國聯民生證券：美股回調風險幾何？
+- 美股科技股上週遭遇「黑色星期五」！後續怎麼走？最新研判來了
+- SpaceX上市募資要建「太空數據中心」，卻高價租算力給谷歌和Anthropic！網民熱議：爲何如此？
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 北水減倉港股超24億港元，淨買入騰訊控股近17億港元，淨賣出中芯國際近28億港元
-- 收市速睇 | 三大指數齊跌，科指數跌1.75%，港股連續三天下挫；半導體股多數下跌，瀾起科技跌9.21%；航運及港口股走高，中遠海控漲6.68%
-- 觀點：6萬美元不僅是比特幣心理整數關口，更是結構性閾值
-- 反「金髮姑娘」！今晚非農：好消息和壞消息，對美股而言都是壞消息
-- AI交易主題降溫後的「安全避風港」浮現：美銀450美元目標價背書+價值輪動，點燃聯合健康反攻軌跡
-- 港股波動加劇催生防禦交易，內銀股逆勢活躍
-- 中金港股下半年展望：維持對指數中性震盪看法；後續邊際變化或帶來恒科等成長板塊低位的估值修復
-- 從拼容量到拼散熱！HBM5時代，三大存儲巨頭打響「散熱保衛戰」
-- 深度詳解「史上最大IPO」——SpaceX
-- 英偉達CEO黃仁勳：將以儘可能明智的方式調配內存供應；三家內存製造商都已獲得供應HBM4的資格
+- 伊戰已打100天了，爲何油價沒有飛天，後續還會不會飛天？
+- ChatGPT即將迎來大改造：告別聊天變身「超級應用」
+- 無論如何，不要「無視」週五的大跌
+- 央行加速增持黃金！連續19個月增持，5月環比增加32萬盎司
+- 聯儲局「喉舌」：從「三次減息」到「重啓加息」 沃什首次議息會議便遭遇空前考驗
+- 週末讀物 | 巴菲特爲什麼重倉谷歌，而非英偉達？
+- 中國央行連續第19個月增持黃金
+- 亮眼業績後股價大跌？博通CEO：永遠不關心股價，死磕技術客戶就不會跑，看好「博通-谷歌-Anthropic」鐵三角
+- 週末讀物 | 解密SpaceX IPO：馬斯克如何把 AI 裝進火箭
+- 美國擬動用伊朗被凍結資產賠償海灣國家損失，或成停火談判「新刺激」
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
 - 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 加密货币: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 就业数据: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: 华尔街见闻 (简中), 经济通 (繁中)
-- 黄金/大宗: 华尔街见闻 (简中)
-- 美联储: 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 美联储: Yahoo Finance (EN), Benzinga (EN)
+- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
+- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
+- 美国关税: 经济通 (繁中)
+- 就业数据: SCMP (EN/中)
 
 --- 粘贴结束 ---
