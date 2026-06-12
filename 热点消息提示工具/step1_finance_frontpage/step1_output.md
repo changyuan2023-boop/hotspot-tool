@@ -3,23 +3,23 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 30m | Stock futures rise after US strikes Iran again | Inside the $2T 'Mag 7' wipeout | SpaceX is set for its mega debut. Here's what to expect. | Inside the $2T 'Mag 7' wipeout | SpaceX is set for its mega debut. Here's what to expect. | IPO will mint billions for a new Silicon Valley hierarchy | Trump says he 'loves the inflation' facing the US
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Oracle sinks as cloud sales miss overshadows earnings beat | Anthropic vs. OpenAI: Behind the bitter battle for the future of AI
+  - 头版/首屏: U.S. markets closed | US stock futures rise as investors await historic SpaceX IPO | SpaceX sets IPO price at $135 ahead of Friday market debut | SpaceX gets its first big price target | SpaceX sets IPO price at $135 ahead of Friday market debut | SpaceX gets its first big price target | SpaceX's IPO ambitions runs into Wall Street's oldest test | 3 things regular investors should know about the SpaceX IPO
+  - 其他: SpaceX IPO | Markets & Economy | Tech & AI | Apple finally rebuilt Siri for AI — but it relied on a rival's help | CPU market to grow 5x by 2030, BofA says
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: AbbVie, Devon Energy And More On CNBC's 'Final Trades' | Wall Street's Most Accurate Analysts Weigh In On 3 Financial Stocks With Over 10% Dividend Yields | Intel To Rally Around 26%? Here Are 10 Top Analyst Forecasts For Thursday | These Analysts Increase Their Forecasts On Navan Following Better-Than-Expected Q1 Earnings | What's Going On With Youlife Stock Thursday?
+  - 其他: I'm 38 and Want to Invest My IRA in a Private Business. What Are the Rules? | Anthropic Turns To Google To Back Massive Data Center Push | These 10 Stocks Are Getting Crushed By Short Sellers Right Now | Trump Phone Promised 'Made In America' — Teardown Shows It Was Designed In China | 'Bitcoin Is The Monetary Reflection Of Truth,' Strike Founder Jack Mallers Says
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 伊朗说美要么接受条件要么丧失尊严 | 美军声称在阿曼湾击中一艘油轮 | 两部门约谈提醒涉嫌非理性竞争汽车生产企业 | 超微电脑美股盘前涨幅收窄至2.5%，公司以每股存托股份50美元的价格定价发行7500万股存托股份。 | 伊朗外交部强烈谴责美国发动新一轮军事打击 | 英特尔美股盘前涨超5%，此前美银将英特尔评级从“跑输大盘”上调至“买入”，目标价设为135美元。 | 石油（企业）高管警告白宫：天然气价格将恶化。（华盛顿邮报） | 京东发布智能体自主支付协议
-  - 其他: 特朗普称其生日愿望是“世界和平” | 科威特宣布暂时关闭领空 | 沙特第二家国有旗舰航空公司首航 | 科威特正拦截“敌方”空中目标，巴林再响防空警报 | 长春市：打造世界级整车企业集团 支持中国一汽与华为等深化战略合作
+  - 头版/首屏: 报道：阿里拟出资15亿美元竞购中国生鲜电商“朴朴超市” | 韩美半导体将使用500亿韩元投资于SpaceX | 美股期货延续隔夜涨势，标普500指数期货涨0.3%，纳斯达克100指数期货涨0.5%。 | 法庭文件显示：特朗普政府对“要求将特朗普的名字从华盛顿肯尼迪中心移除”的法院命令提出上诉。 | 伊朗：锡里克地区爆炸声与武装人员同船只冲突有关 | 伊朗外交部：美国行为的本质是“武装抢劫”和“国家海盗” | 华尔街见闻早餐 | 2026年6月12日 | 特朗普：今天结束了与伊朗的战争。
+  - 其他: Founders Fund（马斯克长期伙伴Peter Thiel主导的风投公司）与Andreessen Horowitz有望从SpaceX美国IPO获得创历史纪录的回报。（彭博） | 以色列：美国与伊朗的MoU不包含我方 | 美股大类资产类ETF多数收涨，新兴市场ETF涨约4.4%，黄金ETF涨超3.1% | 特朗普表示相信伊朗最高领袖已批准美伊协议 | 英国首相任命丹·贾维斯出任国防大臣
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Who pays when rockets explode? China rushes to insure SpaceX’s rivals | Blocked from SpaceX IPO, Chinese investors get creative to catch a ride | Diplomacy | Do not let US-China ties spiral out of control, ex-Treasury chief Paulson warns | China Economy | Panda and pet services: China plans over 160 tourist trains to boost consumption | Transport | Equipment failure triggers delays of up to 15 minutes along Tseung Kwan O MTR line
-  - 其他: Wave of Chinese insurers is underwriting rockets and satellites, turning space risk into a new front in the China-US rivalry. | ‘We have to be careful that decoupling does not become dysfunctional,’ he tells a lunch gathering in Beijing. | Beijing eyes themed journeys and new on-board services as part of broader efforts to rebalance the economy. | MTR Corporation says delays caused by signalling equipment failure near Po Lam station. | A city remembers: the names of the 168 people who died in the Tai Po fire
+  - 头版/首屏: China’s ports are by far the most efficient in the world: World Bank study | China starts building ‘water staircases’ at Three Gorges to double river cargo | Diplomacy | Exclusive | Killing of Indian sailors ‘very unfortunate’, US lawmaker says, as tensions rise | In latest about-face, Trump calls off ‘very hard’ attack on Iran | Hong Kong Economy | Can Hong Kong cash in on ecotourism without trashing its natural treasures? | China races against US for AI’s holy grail: self-improving tech
+  - 其他: Seven Chinese ports including Hong Kong ranked among the world’s top 10 in the report, which tracks how quickly trade hubs process ships. | Rob Wittman’s ‘thoughts and prayers’ were with families of three Indian sailors killed off coast of Oman by a US missile strike on Tuesday. | After warning of imminent military action, US president says an agreement may be days away in a repeat of claims made in recent weeks. | With more visitors seeking outdoor experiences in Hong Kong, how do authorities protect the landscapes they are promoting? | China EVs
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 忧AI回报受2万亿元建数据中心影响，阿里股价再跌半成 | 内地居民境外收入补税 首5月130亿人币 | 美袭防空雷达系统 报复伊击落直升机 | CPI见顶还看油价，沃什首秀最怕鹰派狙击？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 港股七连跌险守二万四关，内银内险逆市靠稳 | 内地居民境外收入补税 首5月130亿人币 | 美伊连续两日互轰 霍峡传关闭 | CPI见顶还看油价，沃什首秀最怕鹰派狙击？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数24249.29-158.67(-0.65%)
                     etnet.com.hk@copyright | 国企指数8217.08-101.65(-1.22%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -28,30 +28,31 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: SpaceX上市倒計時：錯過它，等於錯過2009年的英偉達？華爾街陷入兩難 | 兩部門約談提醒涉嫌非理性競爭汽車生產企業 | 從鎢到鉬，SK海力士下一代NAND盯上「更低電阻」 | 能源巨頭戰略延伸？寧德時代首次投資核聚變企業，爲何「花落」貝塔聚變 | OpenAI的「WeWork時刻」來了？Gary Marcus警告：價格戰正在摧毀AI護城河 | 北水減倉港股逾27億港元，淨買入建滔集團超10億港元，淨賣出阿里巴巴近22億港元 | 四年來首次入熊，黃金背刺了所有相信它的人 | 百萬Token幾塊錢！價格，還在降
-  - 其他: 攜程、美團等7家涉火車票銷售第三方平台被約談 | 油市扛住史上最大供應衝擊！中東原油「暗渡」霍爾木茲海峽 但庫存緩衝墊消失正放大油價反彈風險 | 高盛再挺AI熱潮：投資規模仍被低估，2030年Token消耗量或增長24倍 | 微信AI不打算接管一切 | 收市速睇 | 三大指數齊跌，科指跌1.46%；半導體股走強，瀾起科技漲5.74%；科網股下挫，阿里巴巴-W跌5.37%
+  - 头版/首屏: 納斯達克100指數2026年6月季度調整：Astera Labs、CoreWeave、NEBIUS、Rocket Lab、泰瑞達五家公司獲納入 | 富途早報 | 特朗普又TACO！美伊協議有望本週末簽署；芝商所擬推原油、黃金「全天候交易」；先進製程需求供不應求，台積電考慮漲價最高15%；谷歌TPU被曝首次引入三星代工；SpaceX今日美股上市 | 聯儲局「沃什時代」拉開帷幕：點陣圖與前瞻指引或淡出視野，收益率曲線重塑「AI牛市」劇情 | 代理式AI引爆CPU需求！美銀：到2030年服務器CPU市場規模料激增4倍 | 才幾小時就反轉！特朗普稱取消打擊伊朗計劃，協議基本定稿，或週末在歐洲簽署 | Adobe Q2營收超預期，業績指引上調，但CFO離職引擔憂，盤後大跌 | 比IPO定價高22%！加密市場提前押注SpaceX估值2.2萬億，馬斯克概念再現瘋狂溢價 | SpaceX確定發行價、募資750億美元創史上最大IPO，個人投資者砸超千億搶籌、或僅獲配略超20%
+  - 其他: OpenAI收購雲環境初創公司Ona，強化AI編程助手Codex競爭力 | 報道：Google疑慮致Crusoe被迫退出，懷俄明州AI數據中心項目並未終止 | 成交額TOP20 | 半導體設備股應用材料漲超11%，阿斯麥漲近10%，齊創新高；獲美銀上調評級，英特爾漲超9%；英偉達公開展示搭載硅光子CPO技術的交換機；甲骨文績後跌超8% | 美股收盤 | 特朗普再次「TACO」，納指漲超2.5%；半導體指數大漲8%，美光，邁威爾雙雙漲超11%；黃金收復4200關口，原油暴跌 | 瞄準AI代理賽道 OpenAI收購雲端平台強化Codex競爭力
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (6 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中) (3 站)
+- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
+- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
 - **加密货币** — 出现于: Benzinga (EN) (1 站)
-- **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
+- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 科技股/个股（6 站）
-- 油价/能源（4 站）
-- 伊朗/中东局势（3 站）
+- 科技股/个股（5 站）
+- 伊朗/中东局势（4 站）
+- 油价/能源（3 站）
+- 中国/欧盟（3 站）
 - 关税/贸易政策（2 站）
+- 就业/经济数据（2 站）
 - 黄金/大宗商品（2 站）
-- 中国/欧盟（2 站）
 - 加密货币（1 站）
-- 就业/经济数据（1 站）
+- 美联储/利率（1 站）
 - 中国政策（1 站）
-- 美联储/利率（0 站）

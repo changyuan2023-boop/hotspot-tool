@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026061120
+抓取时间: 2026061209
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- Stock futures rise after US strikes Iran again
-- Inside the $2T 'Mag 7' wipeout
-- SpaceX is set for its mega debut. Here's what to expect.
-- Inside the $2T 'Mag 7' wipeout
-- SpaceX is set for its mega debut. Here's what to expect.
-- IPO will mint billions for a new Silicon Valley hierarchy
-- Trump says he 'loves the inflation' facing the US
-- Trump vows more Iran strikes if it holds out on deal
-- Why the much-feared crunch in oil markets has yet to arrive
-- Gold whipsaws in choppy trading after US attacks
-- The US just paid out more tariff refunds than it took in
+- U.S. markets closed
+- US stock futures rise as investors await historic SpaceX IPO
+- SpaceX sets IPO price at $135 ahead of Friday market debut
+- SpaceX gets its first big price target
+- SpaceX sets IPO price at $135 ahead of Friday market debut
+- SpaceX gets its first big price target
+- SpaceX's IPO ambitions runs into Wall Street's oldest test
+- 3 things regular investors should know about the SpaceX IPO
+- Oil tumbles as Trump cancels Iran strikes, says deal is close
+- Virgin Galactic stock pops ahead of SpaceX IPO
+- Intel stock soars on double upgrade from BofA
+- Adobe shares fall despite earnings beat
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Top Stories
+- SpaceX IPO
 - Markets & Economy
 - Tech & AI
-- Oracle sinks as cloud sales miss overshadows earnings beat
-- Anthropic vs. OpenAI: Behind the bitter battle for the future of AI
-- OpenAI considers drastic price cuts in user fight with Anthropic
-- Meta starts unwinding Manus deal opposed by China
+- Apple finally rebuilt Siri for AI — but it relied on a rival's help
+- CPU market to grow 5x by 2030, BofA says
+- Jeff Bezos' AI startup valued at $41 billion in funding round
+- AI is hitting employment among young software developers hard
 - Popular
-- SpaceX's IPO has Wall Street torn between Musk 'holy grail' and leap of faith
-- Cathie Wood's latest big bet on Elon Musk is about to pay off
+- SpaceX IPO: Last-minute strategies on how you can invest
+- Trump Administration Is Appealing Ruling on $100,000 H-1B Fee
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,71 +42,76 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- AbbVie, Devon Energy And More On CNBC's 'Final Trades'
-- Wall Street's Most Accurate Analysts Weigh In On 3 Financial Stocks With Over 10% Dividend Yields
-- Intel To Rally Around 26%? Here Are 10 Top Analyst Forecasts For Thursday
-- These Analysts Increase Their Forecasts On Navan Following Better-Than-Expected Q1 Earnings
-- What's Going On With Youlife Stock Thursday?
-- Stock Market Today: Dow Jones, S&P 500 Futures Gain Despite Trump's Threats To Iran Amid Stalled Peace Talks—Oracle, CoreWeave, Visa In Focus
-- OpenAI Reveals Alleged Chinese Network Used ChatGPT To Influence US Debate On Trump Tariffs, AI Policy
-- Top 3 Tech And Telecom Stocks That Could Lead To Your Biggest Gains In June
-- Analyst Calls NVIDIA Undervalued, Sees Major Upside Ahead
-- RH Likely To Report Q1 Loss; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- I'm 38 and Want to Invest My IRA in a Private Business. What Are the Rules?
+- Anthropic Turns To Google To Back Massive Data Center Push
+- These 10 Stocks Are Getting Crushed By Short Sellers Right Now
+- Trump Phone Promised 'Made In America' — Teardown Shows It Was Designed In China
+- 'Bitcoin Is The Monetary Reflection Of Truth,' Strike Founder Jack Mallers Says
+- OpenAI, Anthropic, SpaceX IPOs Could End Big Tech's Grip On AI Trade
+- Anthropic
+- Homebuilder Lennar Reports Mixed Q2: CEO Pegs 'Same Stubborn Headwinds'
+- Lovesac Warns Budget-Conscious Shoppers Are Pulling Back
+- Stock Market Whipsawed on Trump Statements, SpaceX Euphoria, ECB Rate Hike, Hotter PPI but Prior Revised
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 伊朗说美要么接受条件要么丧失尊严
-- 美军声称在阿曼湾击中一艘油轮
-- 两部门约谈提醒涉嫌非理性竞争汽车生产企业
-- 超微电脑美股盘前涨幅收窄至2.5%，公司以每股存托股份50美元的价格定价发行7500万股存托股份。
-- 伊朗外交部强烈谴责美国发动新一轮军事打击
-- 英特尔美股盘前涨超5%，此前美银将英特尔评级从“跑输大盘”上调至“买入”，目标价设为135美元。
-- 石油（企业）高管警告白宫：天然气价格将恶化。（华盛顿邮报）
-- 京东发布智能体自主支付协议
-- SpaceX上市在即，美股航天概念股盘前反弹，“SpaceX概念基金”Destiny Tech100涨近12%，Rocket Lab、ASTS涨超4%，回声星通信涨超2%。
-- 京东MALL引入首批实习机器人员工
-- 腾讯混元AI Infra新开源：HPC-Ops推理核心算子全面升级
-- 小米汽车科技有限公司增加增程式电动乘用车产品品种
+- 报道：阿里拟出资15亿美元竞购中国生鲜电商“朴朴超市”
+- 韩美半导体将使用500亿韩元投资于SpaceX
+- 美股期货延续隔夜涨势，标普500指数期货涨0.3%，纳斯达克100指数期货涨0.5%。
+- 法庭文件显示：特朗普政府对“要求将特朗普的名字从华盛顿肯尼迪中心移除”的法院命令提出上诉。
+- 伊朗：锡里克地区爆炸声与武装人员同船只冲突有关
+- 伊朗外交部：美国行为的本质是“武装抢劫”和“国家海盗”
+- 华尔街见闻早餐 | 2026年6月12日
+- 特朗普：今天结束了与伊朗的战争。
+- 英伟达聘请Bruce Andrews负责政府事务。（路透）
+- 伊朗国家媒体援引军方消息报道称：一艘油轮得到伊斯兰革命卫队海军警告，被迫遵守“霍尔木兹海峡禁航法”。
+- 美国总统特朗普谈及伊朗问题，声称：基本完成。
+我们得到了我们想要的一切。
+- 伊朗媒体：已故最高领袖葬礼推迟举行
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 特朗普称其生日愿望是“世界和平”
-- 科威特宣布暂时关闭领空
-- 沙特第二家国有旗舰航空公司首航
-- 科威特正拦截“敌方”空中目标，巴林再响防空警报
-- 长春市：打造世界级整车企业集团 支持中国一汽与华为等深化战略合作
-- 钉钉换帅 陈宇森接任钉钉CEO
-- 伊朗武装部队回应美军停止新一轮打击
-- 报道：OpenAI正考虑大幅降价
-- 美股期货转涨，纳斯达克100指数期货涨0.6%，标普500指数期货涨0.3%。
-- 美国军方称，已完成对伊朗的最新打击行动。
+- Founders Fund（马斯克长期伙伴Peter Thiel主导的风投公司）与Andreessen Horowitz有望从SpaceX美国IPO获得创历史纪录的回报。（彭博）
+- 以色列：美国与伊朗的MoU不包含我方
+- 美股大类资产类ETF多数收涨，新兴市场ETF涨约4.4%，黄金ETF涨超3.1%
+- 特朗普表示相信伊朗最高领袖已批准美伊协议
+- 英国首相任命丹·贾维斯出任国防大臣
+- 美满电子（迈威尔科技）美股盘后跌2%，该公司任命Dan Durn为首席财务官（CFO），6月15日生效。
+值得一提的是，Durn此前是Adobe的CFO。
+- Adobe（奥多比）第二财季营收66.2亿美元，分析师预期64.5亿美元。
+第二财季调整后每股收益（EPS）为5.96美元，分析师预期5.83美元。
+公司首席财务官（CFO）Dan Durn将离职，前往美满电子（迈威尔科技）担任CFO。
+预
+- 标普500指数的11个板块多数收涨，原材料板块涨3.26%，工业板块涨3.25%，信息技术/科技板块涨2.94%，能源板块跌2.06%。
+- 周四（6月11日），美股行业ETF普遍收涨，半导体ETF收涨6.75%，全球航空业ETF涨6.31%，全球科技股指数ETF、科技行业ETF、生物科技指数ETF、可选消费ETF、银行业ETF、网络股指数ETF至多涨3.73%，能源业ETF跌1
+- 特朗普：取消霍尔木兹海峡封锁是伊朗协议的一部分
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Who pays when rockets explode? China rushes to insure SpaceX’s rivals
-- Blocked from SpaceX IPO, Chinese investors get creative to catch a ride
+- China’s ports are by far the most efficient in the world: World Bank study
+- China starts building ‘water staircases’ at Three Gorges to double river cargo
 - Diplomacy
-- Do not let US-China ties spiral out of control, ex-Treasury chief Paulson warns
-- China Economy
-- Panda and pet services: China plans over 160 tourist trains to boost consumption
-- Transport
-- Equipment failure triggers delays of up to 15 minutes along Tseung Kwan O MTR line
+- Exclusive | Killing of Indian sailors ‘very unfortunate’, US lawmaker says, as tensions rise
+- In latest about-face, Trump calls off ‘very hard’ attack on Iran
+- Hong Kong Economy
+- Can Hong Kong cash in on ecotourism without trashing its natural treasures?
+- China races against US for AI’s holy grail: self-improving tech
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Wave of Chinese insurers is underwriting rockets and satellites, turning space risk into a new front in the China-US rivalry.
-- ‘We have to be careful that decoupling does not become dysfunctional,’ he tells a lunch gathering in Beijing.
-- Beijing eyes themed journeys and new on-board services as part of broader efforts to rebalance the economy.
-- MTR Corporation says delays caused by signalling equipment failure near Po Lam station.
-- A city remembers: the names of the 168 people who died in the Tai Po fire
-- Has Beijing given up on a nuclear weapon-free Korean peninsula?
-- China is downplaying the issue for now, as it is unlikely that pressuring North Korea would do anything other than sour ties.
-- Tech Trends
-- To beat chip crunch, Chinese firm inks memory deal bigger than its sales
-- The US$1.86 billion multi-year flash deal with unnamed supplier underscores how downstream companies scramble to secure capacity.
+- Seven Chinese ports including Hong Kong ranked among the world’s top 10 in the report, which tracks how quickly trade hubs process ships.
+- Rob Wittman’s ‘thoughts and prayers’ were with families of three Indian sailors killed off coast of Oman by a US missile strike on Tuesday.
+- After warning of imminent military action, US president says an agreement may be days away in a repeat of claims made in recent weeks.
+- With more visitors seeking outdoor experiences in Hong Kong, how do authorities protect the landscapes they are promoting?
+- China EVs
+- EVs capture two-thirds of China’s car market in record-breaking week
+- Despite subsidy cuts, electric vehicles reached a new sales milestone in mainland China as petrol-powered rivals continued to lose ground.
+- US Congress warned: AI race winner will rule world, and it must not be China
+- As Washington and Beijing battle for global supremacy in artificial intelligence, US must establish next technological edge, Congress told.
+- Economics
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 忧AI回报受2万亿元建数据中心影响，阿里股价再跌半成
+- 港股七连跌险守二万四关，内银内险逆市靠稳
 - 内地居民境外收入补税 首5月130亿人币
-- 美袭防空雷达系统 报复伊击落直升机
+- 美伊连续两日互轰 霍峡传关闭
 - CPI见顶还看油价，沃什首秀最怕鹰派狙击？
 - 指数环球商品外汇
 - 国金观点
@@ -131,35 +136,36 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- SpaceX上市倒計時：錯過它，等於錯過2009年的英偉達？華爾街陷入兩難
-- 兩部門約談提醒涉嫌非理性競爭汽車生產企業
-- 從鎢到鉬，SK海力士下一代NAND盯上「更低電阻」
-- 能源巨頭戰略延伸？寧德時代首次投資核聚變企業，爲何「花落」貝塔聚變
-- OpenAI的「WeWork時刻」來了？Gary Marcus警告：價格戰正在摧毀AI護城河
-- 北水減倉港股逾27億港元，淨買入建滔集團超10億港元，淨賣出阿里巴巴近22億港元
-- 四年來首次入熊，黃金背刺了所有相信它的人
-- 百萬Token幾塊錢！價格，還在降
+- 納斯達克100指數2026年6月季度調整：Astera Labs、CoreWeave、NEBIUS、Rocket Lab、泰瑞達五家公司獲納入
+- 富途早報 | 特朗普又TACO！美伊協議有望本週末簽署；芝商所擬推原油、黃金「全天候交易」；先進製程需求供不應求，台積電考慮漲價最高15%；谷歌TPU被曝首次引入三星代工；SpaceX今日美股上市
+- 聯儲局「沃什時代」拉開帷幕：點陣圖與前瞻指引或淡出視野，收益率曲線重塑「AI牛市」劇情
+- 代理式AI引爆CPU需求！美銀：到2030年服務器CPU市場規模料激增4倍
+- 才幾小時就反轉！特朗普稱取消打擊伊朗計劃，協議基本定稿，或週末在歐洲簽署
+- Adobe Q2營收超預期，業績指引上調，但CFO離職引擔憂，盤後大跌
+- 比IPO定價高22%！加密市場提前押注SpaceX估值2.2萬億，馬斯克概念再現瘋狂溢價
+- SpaceX確定發行價、募資750億美元創史上最大IPO，個人投資者砸超千億搶籌、或僅獲配略超20%
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 攜程、美團等7家涉火車票銷售第三方平台被約談
-- 油市扛住史上最大供應衝擊！中東原油「暗渡」霍爾木茲海峽 但庫存緩衝墊消失正放大油價反彈風險
-- 高盛再挺AI熱潮：投資規模仍被低估，2030年Token消耗量或增長24倍
-- 微信AI不打算接管一切
-- 收市速睇 | 三大指數齊跌，科指跌1.46%；半導體股走強，瀾起科技漲5.74%；科網股下挫，阿里巴巴-W跌5.37%
-- 美股盤前：美股存儲、半導體、光通信股盤前走高，閃迪漲超4%；甲骨文績後大跌超10%
-- 龍湖集團漲幅擴大，公司近期提前兌付債券，大摩指去槓桿進展令人鼓舞
-- 「白宮股神」再吹票！特朗普拿着「烏龍數據」，大讚花旗強勢回歸
-- 通吃銅纜與光纖市場！Evercore看好安費諾雙線通吃AI互聯賽道，給予「跑贏大盤」評級
-- 國際油價仍低於100美元的十大原因
+- OpenAI收購雲環境初創公司Ona，強化AI編程助手Codex競爭力
+- 報道：Google疑慮致Crusoe被迫退出，懷俄明州AI數據中心項目並未終止
+- 成交額TOP20 | 半導體設備股應用材料漲超11%，阿斯麥漲近10%，齊創新高；獲美銀上調評級，英特爾漲超9%；英偉達公開展示搭載硅光子CPO技術的交換機；甲骨文績後跌超8%
+- 美股收盤 | 特朗普再次「TACO」，納指漲超2.5%；半導體指數大漲8%，美光，邁威爾雙雙漲超11%；黃金收復4200關口，原油暴跌
+- 瞄準AI代理賽道 OpenAI收購雲端平台強化Codex競爭力
+- 芝商所擬推全天候交易的原油黃金合約
+- Adobe2026財年Q2營收66.2億美元，同比增長13%，調整後EPS5.96美元，首席財務官即將離職
+- 納指收盤大漲2.5%，芯片股集體大漲
+- 特朗普稱美伊協議進入最後定稿階段，有望本週末簽署
+- 伊媒：伊朗批准文本的可能性很高
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 美国关税: Yahoo Finance (EN), Benzinga (EN)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN)
-- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中)
+- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: 华尔街见闻 (简中), 富途资讯 (繁中)
+- 就业数据: Yahoo Finance (EN), SCMP (EN/中)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
 - 加密货币: Benzinga (EN)
-- 就业数据: SCMP (EN/中)
+- 美联储: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
