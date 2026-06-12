@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：早间**
-**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
+**当前模式：晚间**
+**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`早间热点线索 · 2026年6月12日`
+`晚间热点线索 · 2026年6月12日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 早间模式操作指令
+## 晚间模式操作指令
 
-聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
+聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
 重点关注（按重要性排序写入）：
-1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
-2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
-3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
-4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
+1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
+4. 其他值得今晚关注的美股消息
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026061209
+抓取时间: 2026061220
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- US stock futures rise as investors await historic SpaceX IPO
-- SpaceX sets IPO price at $135 ahead of Friday market debut
-- SpaceX gets its first big price target
-- SpaceX sets IPO price at $135 ahead of Friday market debut
-- SpaceX gets its first big price target
-- SpaceX's IPO ambitions runs into Wall Street's oldest test
-- 3 things regular investors should know about the SpaceX IPO
-- Oil tumbles as Trump cancels Iran strikes, says deal is close
-- Virgin Galactic stock pops ahead of SpaceX IPO
-- Intel stock soars on double upgrade from BofA
-- Adobe shares fall despite earnings beat
+- U.S. markets open in 1h 30m
+- SpaceX counts down to Nasdaq debut in record $75B IPO
+- US stocks rise with historic SpaceX IPO, Iran peace odds in focus
+- US, Iran are nearing a Hormuz reopening deal next week
+- US stocks rise with historic SpaceX IPO, Iran peace odds in focus
+- US, Iran are nearing a Hormuz reopening deal next week
+- Wall Street is lining up SpaceX ETFs even before it debuts
+- SpaceX shares set for 35% pop going by grey trading
+- Nvidia begins pitching new Vera AI chip to Chinese buyers
+- Gold steadies with focus on odds of end to Mideast war
+- Iran's oil lifeline faces 'biggest test yet' as China steps back
+- Banks curb hedge fund bets on SK Hynix, Samsung
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- SpaceX IPO
+- Top Stories
 - Markets & Economy
-- Tech & AI
-- Apple finally rebuilt Siri for AI — but it relied on a rival's help
-- CPU market to grow 5x by 2030, BofA says
-- Jeff Bezos' AI startup valued at $41 billion in funding round
-- AI is hitting employment among young software developers hard
+- SpaceX IPO
+- SpaceX's IPO dream runs into Wall Street's oldest test
+- Oppenheimer sets $190 target on SpaceX, a 40% premium on IPO price
+- Why the SpaceX IPO could be a trap
+- Record SpaceX IPO is set to supercharge China's space startups
 - Popular
-- SpaceX IPO: Last-minute strategies on how you can invest
-- Trump Administration Is Appealing Ruling on $100,000 H-1B Fee
+- 4,400 SpaceX employees poised to become millionaires after IPO
+- Mideast war helps electric motorbikes boom in Africa
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,77 +145,72 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- I'm 38 and Want to Invest My IRA in a Private Business. What Are the Rules?
-- Anthropic Turns To Google To Back Massive Data Center Push
-- These 10 Stocks Are Getting Crushed By Short Sellers Right Now
-- Trump Phone Promised 'Made In America' — Teardown Shows It Was Designed In China
-- 'Bitcoin Is The Monetary Reflection Of Truth,' Strike Founder Jack Mallers Says
-- OpenAI, Anthropic, SpaceX IPOs Could End Big Tech's Grip On AI Trade
+- Dave & Buster's Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- Viasat Stock In Focus A Day After 18% Surge On U.S. Space Force Contract Win
+- Destiny Tech100 Stock Surges as SpaceX Prepares To Trade — Here's What Investors Need to Know
+- How To Earn $500 A Month From Kroger Stock Ahead Of Q1 Earnings
+- Wall Street's Most Accurate Analysts Give Their Take On 3 Health Care Stocks With Over 3% Dividend Yields
+- Stock Market Today: S&P 500, Dow Futures Gain Ahead Of SpaceX's Debut—Adobe, Lennar, CoreWeave In Focus
 - Anthropic
-- Homebuilder Lennar Reports Mixed Q2: CEO Pegs 'Same Stubborn Headwinds'
-- Lovesac Warns Budget-Conscious Shoppers Are Pulling Back
-- Stock Market Whipsawed on Trump Statements, SpaceX Euphoria, ECB Rate Hike, Hotter PPI but Prior Revised
+- Iran Puts Elon Musk's SpaceX In Its Crosshairs, Analyst Calls It A 'Smart Move'
+- Top 3 Consumer Stocks That May Explode In Q2
+- What's Going On With Micron Stock Friday?
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 报道：阿里拟出资15亿美元竞购中国生鲜电商“朴朴超市”
-- 韩美半导体将使用500亿韩元投资于SpaceX
-- 美股期货延续隔夜涨势，标普500指数期货涨0.3%，纳斯达克100指数期货涨0.5%。
-- 法庭文件显示：特朗普政府对“要求将特朗普的名字从华盛顿肯尼迪中心移除”的法院命令提出上诉。
-- 伊朗：锡里克地区爆炸声与武装人员同船只冲突有关
-- 伊朗外交部：美国行为的本质是“武装抢劫”和“国家海盗”
-- 华尔街见闻早餐 | 2026年6月12日
-- 特朗普：今天结束了与伊朗的战争。
-- 英伟达聘请Bruce Andrews负责政府事务。（路透）
-- 伊朗国家媒体援引军方消息报道称：一艘油轮得到伊斯兰革命卫队海军警告，被迫遵守“霍尔木兹海峡禁航法”。
-- 美国总统特朗普谈及伊朗问题，声称：基本完成。
-我们得到了我们想要的一切。
-- 伊朗媒体：已故最高领袖葬礼推迟举行
+- 内塔尼亚胡称绝不会让伊朗有核武器
+- 消息人士透露，SK海力士寻求在纳斯达克上市。（路透）
+- Sharon AI宣布与英伟达达成六年战略算力合作
+- 哈马斯发言人谴责以色列“公然违背”停火协议
+- 伊媒称伊朗未就放弃霍尔木兹海峡管理权作出承诺
+- 伊朗就伊美协议表态显现审慎态度
+- 伊通社公布伊美谅解备忘录文本框架
+- 高盛总裁：SpaceX IPO凸显投资者渴望为AI融资 不担心市场吸纳能力
+- 报道：伊朗在“务实”框架下寻求战争赔偿
+- 油价短线拉升，报道：伊朗不会将霍尔木兹海峡的状态恢复到战前水平
+- 美股股指期货持续走高，标普500指数期货涨幅扩大至0.7%，纳斯达克指数期货上涨0.6%。
+- 报道：美伊正接近达成和平协议，预计将在下周的七国集团会议期间达成
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Founders Fund（马斯克长期伙伴Peter Thiel主导的风投公司）与Andreessen Horowitz有望从SpaceX美国IPO获得创历史纪录的回报。（彭博）
-- 以色列：美国与伊朗的MoU不包含我方
-- 美股大类资产类ETF多数收涨，新兴市场ETF涨约4.4%，黄金ETF涨超3.1%
-- 特朗普表示相信伊朗最高领袖已批准美伊协议
-- 英国首相任命丹·贾维斯出任国防大臣
-- 美满电子（迈威尔科技）美股盘后跌2%，该公司任命Dan Durn为首席财务官（CFO），6月15日生效。
-值得一提的是，Durn此前是Adobe的CFO。
-- Adobe（奥多比）第二财季营收66.2亿美元，分析师预期64.5亿美元。
-第二财季调整后每股收益（EPS）为5.96美元，分析师预期5.83美元。
-公司首席财务官（CFO）Dan Durn将离职，前往美满电子（迈威尔科技）担任CFO。
-预
-- 标普500指数的11个板块多数收涨，原材料板块涨3.26%，工业板块涨3.25%，信息技术/科技板块涨2.94%，能源板块跌2.06%。
-- 周四（6月11日），美股行业ETF普遍收涨，半导体ETF收涨6.75%，全球航空业ETF涨6.31%，全球科技股指数ETF、科技行业ETF、生物科技指数ETF、可选消费ETF、银行业ETF、网络股指数ETF至多涨3.73%，能源业ETF跌1
-- 特朗普：取消霍尔木兹海峡封锁是伊朗协议的一部分
+- 伊朗：锡里克地区爆炸声与武装人员同船只冲突有关
+- 波兰正式接收F-35战机
+- 工信部公开征求《化工供暖通风与空气调节设计规范》等32项行业标准报批意见
+- 股价新低后的理想股东会，李想承认自身不足
+- 中国软件：母公司因部分销售业务违反招投标规定被行政处罚，财政部决定对公司作出罚款合计40471元，列入不良行为记录名单，一年内禁止参加政府采购活动的行政处罚。
+- 工信部公开征求《光伏产品分级分类 第1部分：光伏组件》等6项行业标准报批意见。
+- 万科A：深铁集团向公司提供不超过11.4亿元借款
+- 平安资管完成债券通“南向通”首笔投资交易
+- 中基协：重要货基、公募REITs的基金经理等五类人员不得被聘任为兼任投资管理人员
+- 东方财富研究所副所长、首席策略官陈果：老登资产的春天才刚刚开始。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- China’s ports are by far the most efficient in the world: World Bank study
-- China starts building ‘water staircases’ at Three Gorges to double river cargo
+- Beijing pushes Taiwan exchanges at Straits Forum despite tightened restrictions
+- Cheng Li-wun talks Trump, Taiwan and a future leadership run
+- Big Tech
+- Can Huawei’s breakthrough help China’s chip  design software firms catch US rivals?
 - Diplomacy
-- Exclusive | Killing of Indian sailors ‘very unfortunate’, US lawmaker says, as tensions rise
-- In latest about-face, Trump calls off ‘very hard’ attack on Iran
-- Hong Kong Economy
-- Can Hong Kong cash in on ecotourism without trashing its natural treasures?
-- China races against US for AI’s holy grail: self-improving tech
+- Europe is blaming China’s economic rise for its own failures, think tank says
+- Transport
+- Hong Kong to grant 3 property sites to sweeten East Kowloon transit project tender
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Seven Chinese ports including Hong Kong ranked among the world’s top 10 in the report, which tracks how quickly trade hubs process ships.
-- Rob Wittman’s ‘thoughts and prayers’ were with families of three Indian sailors killed off coast of Oman by a US missile strike on Tuesday.
-- After warning of imminent military action, US president says an agreement may be days away in a repeat of claims made in recent weeks.
-- With more visitors seeking outdoor experiences in Hong Kong, how do authorities protect the landscapes they are promoting?
-- China EVs
-- EVs capture two-thirds of China’s car market in record-breaking week
-- Despite subsidy cuts, electric vehicles reached a new sales milestone in mainland China as petrol-powered rivals continued to lose ground.
-- US Congress warned: AI race winner will rule world, and it must not be China
-- As Washington and Beijing battle for global supremacy in artificial intelligence, US must establish next technological edge, Congress told.
-- Economics
+- Annual event meant to spur cross-strait integration takes place amid expanded ban by island’s ruling party on who can attend.
+- Domestic chip design software vendors embrace Huawei’s Tau Scaling Law, but analysts caution that breaking US dominance is far from easy.
+- It comes as Beijing reportedly cancelled two meetings with the EU this month, and as the bloc prepares for key talks on China policy.
+- Operator of green transit system will pay nominal premium for sites given revenue of project expected to fall short of return on capital.
+- For 5 million years, whales have come to this place in the Indian Ocean to die
+- Tech War
+- Facing US chip curbs, China launches photonics lab to power AI with light
+- Lab director says fundamental scientific challenges need to be overcome to achieve theoretical performance.
+- Beijing confirms arrest of US citizen Min Zin on espionage charges
+- On the same day China said Myanmar’s president will visit, it said it had arrested the former Myanmese democracy activist.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 港股七连跌险守二万四关，内银内险逆市靠稳
-- 内地居民境外收入补税 首5月130亿人币
+- 周大福全年多赚52%增派息，股价飙逾一成半
+- 北京市监约谈5电商 整治内卷促销
 - 美伊连续两日互轰 霍峡传关闭
-- CPI见顶还看油价，沃什首秀最怕鹰派狙击？
+- 五小时“翻大饼”，“托市”SpaceX
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -224,9 +219,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数24249.29-158.67(-0.65%)
+- 恒生指数24718.10+468.81(+1.93%)
                     etnet.com.hk@copyright
-- 国企指数8217.08-101.65(-1.22%)
+- 国企指数8374.43+157.35(+1.91%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -239,37 +234,35 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 納斯達克100指數2026年6月季度調整：Astera Labs、CoreWeave、NEBIUS、Rocket Lab、泰瑞達五家公司獲納入
-- 富途早報 | 特朗普又TACO！美伊協議有望本週末簽署；芝商所擬推原油、黃金「全天候交易」；先進製程需求供不應求，台積電考慮漲價最高15%；谷歌TPU被曝首次引入三星代工；SpaceX今日美股上市
-- 聯儲局「沃什時代」拉開帷幕：點陣圖與前瞻指引或淡出視野，收益率曲線重塑「AI牛市」劇情
-- 代理式AI引爆CPU需求！美銀：到2030年服務器CPU市場規模料激增4倍
-- 才幾小時就反轉！特朗普稱取消打擊伊朗計劃，協議基本定稿，或週末在歐洲簽署
-- Adobe Q2營收超預期，業績指引上調，但CFO離職引擔憂，盤後大跌
-- 比IPO定價高22%！加密市場提前押注SpaceX估值2.2萬億，馬斯克概念再現瘋狂溢價
-- SpaceX確定發行價、募資750億美元創史上最大IPO，個人投資者砸超千億搶籌、或僅獲配略超20%
+- 報道：美伊將在下週G7會議期間達成和平協議，霍爾木茲海峽或30天內重開
+- 韓股劇烈震盪後，巴克萊警告：「國家隊」暫停調倉將放大市場波動
+- 納斯達克：SpaceX IPO將於美國東部時間上午9:50（北京時間21:50）開始報價；將於東部時間上午10點（北京時間22:00）可開始交易。
+- 本週美股牛股 | Credo Technology累漲近28%，光通信與AI互聯需求爆發；科磊漲超25%，AI需求推動半導體設備需求重估；應用材料漲近22%，AI資本開支外溢，設備龍頭價值凸顯
+- 交銀國際：料香港住宅樓價或升逾10% 有機會2-3年內重回此前高位
+- 北水減倉港股超39億港元，淨買入長飛光纖光纜近9億港元，淨賣出阿里巴巴近13億港元
+- 報道：美伊正接近達成和平協議，預計將在下週的七國集團會議期間達成
+- Groq CEO談「芯片架構」：GPU是「重型大貨車」，LPU是「最後一公里快遞」
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- OpenAI收購雲環境初創公司Ona，強化AI編程助手Codex競爭力
-- 報道：Google疑慮致Crusoe被迫退出，懷俄明州AI數據中心項目並未終止
-- 成交額TOP20 | 半導體設備股應用材料漲超11%，阿斯麥漲近10%，齊創新高；獲美銀上調評級，英特爾漲超9%；英偉達公開展示搭載硅光子CPO技術的交換機；甲骨文績後跌超8%
-- 美股收盤 | 特朗普再次「TACO」，納指漲超2.5%；半導體指數大漲8%，美光，邁威爾雙雙漲超11%；黃金收復4200關口，原油暴跌
-- 瞄準AI代理賽道 OpenAI收購雲端平台強化Codex競爭力
-- 芝商所擬推全天候交易的原油黃金合約
-- Adobe2026財年Q2營收66.2億美元，同比增長13%，調整後EPS5.96美元，首席財務官即將離職
-- 納指收盤大漲2.5%，芯片股集體大漲
-- 特朗普稱美伊協議進入最後定稿階段，有望本週末簽署
-- 伊媒：伊朗批准文本的可能性很高
+- 央行：2026年前五個月社會融資規模增量累計爲17.48萬億元
+- 央行：前五個月人民幣貸款增加9.11萬億元
+- 中國5月M2貨幣供應同比增長8.6%，前值增長8.6%。
+- AI超級牛市來到SpaceX時刻！影子盤狂飆35%、ETF搶跑佈局與超額認購
+- 報道稱美伊諒解備忘錄規定在30天內重開海峽
+- 收市速睇 | 三大指數齊漲，恒指漲1.93%；有色金屬股表現亮眼，洛陽鉬業、靈寶黃金漲超12%；航空股強勢，中國東方航空股份漲近9%
+- 暗盤情報 | 「青梅果類零食公司」溜溜梅現漲超129%，一手賺5642港元
+- AI材料短缺蔓延：英偉達親自下場搶購HVLP4銅箔，2026年缺口達1500噸
+- SpaceX首日或漲超35%，亞洲投資者「曲線上車」，但要小心那個「魔咒」
+- 美伊談判再現曙光？行業人士樂觀預期：海峽航運量有望迅速恢復
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 就业数据: Yahoo Finance (EN), SCMP (EN/中)
-- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN)
+- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
+- 美国关税: 华尔街见闻 (简中)
 - 加密货币: Benzinga (EN)
-- 美联储: 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
