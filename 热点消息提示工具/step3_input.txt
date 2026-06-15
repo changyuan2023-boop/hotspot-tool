@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年6月12日`
+`早间热点线索 · 2026年6月15日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026061220
+抓取时间: 2026061509
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- SpaceX counts down to Nasdaq debut in record $75B IPO
-- US stocks rise with historic SpaceX IPO, Iran peace odds in focus
-- US, Iran are nearing a Hormuz reopening deal next week
-- US stocks rise with historic SpaceX IPO, Iran peace odds in focus
-- US, Iran are nearing a Hormuz reopening deal next week
-- Wall Street is lining up SpaceX ETFs even before it debuts
-- SpaceX shares set for 35% pop going by grey trading
-- Nvidia begins pitching new Vera AI chip to Chinese buyers
-- Gold steadies with focus on odds of end to Mideast war
-- Iran's oil lifeline faces 'biggest test yet' as China steps back
-- Banks curb hedge fund bets on SK Hynix, Samsung
+- U.S. markets closed
+- US stock futures jump after US and Iran reach peace deal
+- US, Iran agree to ceasefire, sending stock futures higher, oil lower
+- This market is at 'a 10': Wall Street weighs record SpaceX IPO
+- US, Iran agree to ceasefire, sending stock futures higher, oil lower
+- This market is at 'a 10': Wall Street weighs record SpaceX IPO
+- The 400-year-old lesson for SpaceX investors
+- SpaceX IPO afterglow and Warsh's Fed debut: What to watch this week
+- Iran pushes differing versions of deal as Trump sticks to timeline
+- Warsh caught between Trump and bond market betting on hikes
+- Trump taps lawyer who helped defend him as Wall Street's top cop
+- Why home prices are soaring in rural America
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
-- SpaceX IPO
-- SpaceX's IPO dream runs into Wall Street's oldest test
-- Oppenheimer sets $190 target on SpaceX, a 40% premium on IPO price
-- Why the SpaceX IPO could be a trap
-- Record SpaceX IPO is set to supercharge China's space startups
+- Tech & AI
+- Why Gen Z is right to be concerned about AI
+- The first AI World Cup is an $11B money machine
+- Zuckerberg says Meta made 'mistakes' in AI workforce shift
+- Virtually all of Musk's wealth comes from government help
 - Popular
-- 4,400 SpaceX employees poised to become millionaires after IPO
-- Mideast war helps electric motorbikes boom in Africa
+- Paul Krugman: 'Rigged system' made Musk a trillionaire
+- Carney warns Canadians must 'take control' of food after Trump claim
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,71 +145,80 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Dave & Buster's Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
-- Viasat Stock In Focus A Day After 18% Surge On U.S. Space Force Contract Win
-- Destiny Tech100 Stock Surges as SpaceX Prepares To Trade — Here's What Investors Need to Know
-- How To Earn $500 A Month From Kroger Stock Ahead Of Q1 Earnings
-- Wall Street's Most Accurate Analysts Give Their Take On 3 Health Care Stocks With Over 3% Dividend Yields
-- Stock Market Today: S&P 500, Dow Futures Gain Ahead Of SpaceX's Debut—Adobe, Lennar, CoreWeave In Focus
-- Anthropic
-- Iran Puts Elon Musk's SpaceX In Its Crosshairs, Analyst Calls It A 'Smart Move'
-- Top 3 Consumer Stocks That May Explode In Q2
-- What's Going On With Micron Stock Friday?
+- How Do You Deal With Parents Who Think Earning $120K Means You're Wealthy And Can Fund Them? 'They Assume We Are Sitting On Piles Of Cash'
+- I Have $85,000 in Home Equity and My Roof Just Failed. Should I Use a HELOC to Fix It?
+- Top Three Stocks To Watch This Week: SpaceX, Accenture, Kroger
+- Intuit, Adobe, Zscaler, Workday Plunge Amid SaaSpocalypse Fears: Buy The Dip?
+- How A $40K Coffee Kiosk Grew Into A 912-Store, $859M Business — And Why Its Owners Declined A $1B Buyout
+- Iran's Pushback on Trump's Sunday Peace Deal Deadline Likely To Rattle Oil Markets
+- Mark Cuban
+- Elon Musk
+- Is Rivian Stock A Buy Now? Inside The R2 SUV Delivery Milestone And 2026 Guidance
+- Trump Admin Unlikely To Expand Anthropic AI Export Curbs To OpenAI, Other Rivals: Report
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 内塔尼亚胡称绝不会让伊朗有核武器
-- 消息人士透露，SK海力士寻求在纳斯达克上市。（路透）
-- Sharon AI宣布与英伟达达成六年战略算力合作
-- 哈马斯发言人谴责以色列“公然违背”停火协议
-- 伊媒称伊朗未就放弃霍尔木兹海峡管理权作出承诺
-- 伊朗就伊美协议表态显现审慎态度
-- 伊通社公布伊美谅解备忘录文本框架
-- 高盛总裁：SpaceX IPO凸显投资者渴望为AI融资 不担心市场吸纳能力
-- 报道：伊朗在“务实”框架下寻求战争赔偿
-- 油价短线拉升，报道：伊朗不会将霍尔木兹海峡的状态恢复到战前水平
-- 美股股指期货持续走高，标普500指数期货涨幅扩大至0.7%，纳斯达克指数期货上涨0.6%。
-- 报道：美伊正接近达成和平协议，预计将在下周的七国集团会议期间达成
+- 特朗普称若美伊未达成核协议将重启军事打击
+- 中信证券：SpaceX首日大涨 大航天时代起航
+- 澳大利亚LNG出口商伍德赛德能源称未与埃克森美孚就潜在收购进行讨论
+- 马克龙：法英牵头的霍尔木兹海峡护航行动随时启动
+- 华尔街见闻早餐 | 2026年6月15日
+- 特朗普：伊朗协议是在内塔尼亚胡反对的情况下达成的。
+若无法达成核协议，美国将恢复对伊朗的打击。
+谅解备忘录将暂停霍尔木兹海峡的收费60天。
+协议将确保海峡永远不收通行费。
+内塔尼亚胡“很难”说服。（纽约时报）
+- 伊朗称所获成果远大于承诺
+- 伊朗最高国家安全委员会正式确认伊美谅解备忘录达成
+- 英国、法国、德国和意大利：准备解除对伊朗的相关制裁
+- 伊美谅解备忘录14个条款部分内容披露：美将豁免对伊朗石油制裁
+- 提醒：日内请重点关注（以下均为北京时间）
+- 特朗普：霍尔木兹海峡将随美伊协议19日签署而开放
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 伊朗：锡里克地区爆炸声与武装人员同船只冲突有关
-- 波兰正式接收F-35战机
-- 工信部公开征求《化工供暖通风与空气调节设计规范》等32项行业标准报批意见
-- 股价新低后的理想股东会，李想承认自身不足
-- 中国软件：母公司因部分销售业务违反招投标规定被行政处罚，财政部决定对公司作出罚款合计40471元，列入不良行为记录名单，一年内禁止参加政府采购活动的行政处罚。
-- 工信部公开征求《光伏产品分级分类 第1部分：光伏组件》等6项行业标准报批意见。
-- 万科A：深铁集团向公司提供不超过11.4亿元借款
-- 平安资管完成债券通“南向通”首笔投资交易
-- 中基协：重要货基、公募REITs的基金经理等五类人员不得被聘任为兼任投资管理人员
-- 东方财富研究所副所长、首席策略官陈果：老登资产的春天才刚刚开始。
+- 美国战争部长赫格塞斯：美方处于“周日签署伊朗协议”的正轨之上。
+伊朗核材料将被销毁。
+“文件”显示，伊朗永远都不会拥有、寻求、购买核武器。
+“自由计划”（project Freedom）从未停止。
+可能会在30天内清除霍尔木兹海峡的水雷。（
+- 瑞士选民投票否决了人口上限提案
+- 美媒：以色列“企图破坏”美伊协议
+- 伊朗方面称，与美国的协议尚未最终敲定。
+伊朗通过卡塔尔团队向美国传达其希望达成的条款。（法尔斯通讯社）
+- 商品期货开盘，原油主力合约跌超7%，燃料油、液化气跌超6%，LU燃油跌超5%。沪银涨超7%，钯、沪金、沪锡涨超3%。
+- 富时中国A50指数期货盘初涨0.70%，上一个交易日夜盘收跌0.06%。
+- 日经225指数涨幅扩大至5.1%。
+- 美国10年期国债收益率下行6个基点，至一个月低点4.4197%。
+- 两市融资余额减少4.02亿元
+- 日本东证指数涨至纪录新高。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Beijing pushes Taiwan exchanges at Straits Forum despite tightened restrictions
-- Cheng Li-wun talks Trump, Taiwan and a future leadership run
-- Big Tech
-- Can Huawei’s breakthrough help China’s chip  design software firms catch US rivals?
-- Diplomacy
-- Europe is blaming China’s economic rise for its own failures, think tank says
-- Transport
-- Hong Kong to grant 3 property sites to sweeten East Kowloon transit project tender
+- US, Pakistan announce peace deal with Iran is ‘complete’
+- US-Iran deal could be sealed within 24 hours, mediator Pakistan says
+- Open Questions | AIIB head Zou Jiayi on multilateralism as ‘infrastructure of global trust’
+- Military
+- The quiet escalation unfolding around Taiwan’s remote outposts
+- Society
+- Exclusive | Baby bonus to continue? We’ll consult widely, John Lee says
+- At World Cup, Mexico leans on China tech and transport to meet logistical needs
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Annual event meant to spur cross-strait integration takes place amid expanded ban by island’s ruling party on who can attend.
-- Domestic chip design software vendors embrace Huawei’s Tau Scaling Law, but analysts caution that breaking US dominance is far from easy.
-- It comes as Beijing reportedly cancelled two meetings with the EU this month, and as the bloc prepares for key talks on China policy.
-- Operator of green transit system will pay nominal premium for sites given revenue of project expected to fall short of return on capital.
-- For 5 million years, whales have come to this place in the Indian Ocean to die
-- Tech War
-- Facing US chip curbs, China launches photonics lab to power AI with light
-- Lab director says fundamental scientific challenges need to be overcome to achieve theoretical performance.
-- Beijing confirms arrest of US citizen Min Zin on espionage charges
-- On the same day China said Myanmar’s president will visit, it said it had arrested the former Myanmese democracy activist.
+- Agreement set to end US naval blockade and establish 60-day window to dismantle Iran’s nuclear programme.
+- As the Beijing-based development bank marks its 10th anniversary, its president says institutions like hers ‘create certainty amid uncertainty’.
+- Taipei says it is the first time mainland Chinese government vessels have entered waters near Taiping.
+- City leader says government to consult public and ‘collect wisdom’ before deciding whether incentive measures should carry on.
+- Football
+- World Cup while you were sleeping: Japan survive, Germany thrive, Uefa boss’ gaffe
+- Daichi Kamada rescues draw for Japan against Netherlands, Germany crush Curacao, and ‘completely uninteresting’ matches quote sparks backlash.
+- China Business
+- Abu Dhabi to tap Chinese tech to scale up green economy, energy chief says
+- China and Abu Dhabi ‘should move faster, collaborate deeper and scale together’, says the chairman of the emirate’s energy department.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 周大福全年多赚52%增派息，股价飙逾一成半
+- 憧憬美伊达协议油价下挫叠加人币强势，航空股低位急弹
 - 北京市监约谈5电商 整治内卷促销
-- 美伊连续两日互轰 霍峡传关闭
+- 纽约人NBA封王 街头庆祝变骚乱
 - 五小时“翻大饼”，“托市”SpaceX
 - 指数环球商品外汇
 - 国金观点
@@ -234,35 +243,36 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 報道：美伊將在下週G7會議期間達成和平協議，霍爾木茲海峽或30天內重開
-- 韓股劇烈震盪後，巴克萊警告：「國家隊」暫停調倉將放大市場波動
-- 納斯達克：SpaceX IPO將於美國東部時間上午9:50（北京時間21:50）開始報價；將於東部時間上午10點（北京時間22:00）可開始交易。
-- 本週美股牛股 | Credo Technology累漲近28%，光通信與AI互聯需求爆發；科磊漲超25%，AI需求推動半導體設備需求重估；應用材料漲近22%，AI資本開支外溢，設備龍頭價值凸顯
-- 交銀國際：料香港住宅樓價或升逾10% 有機會2-3年內重回此前高位
-- 北水減倉港股超39億港元，淨買入長飛光纖光纜近9億港元，淨賣出阿里巴巴近13億港元
-- 報道：美伊正接近達成和平協議，預計將在下週的七國集團會議期間達成
-- Groq CEO談「芯片架構」：GPU是「重型大貨車」，LPU是「最後一公里快遞」
+- 富途早報 | 美伊協議達成！特朗普稱海峽免費開放，三大期指齊升；亞太市場表現強勁，日股新高，韓股指數漲近6%；SpaceX夜盤續升4%，上市首日漲超19%
+- 一週前瞻 | 「央行超級周」來襲！聯儲局利率決議沃什首秀；市場聚焦美伊協議；美國5月零售銷售數據將出爐；港美股週五休市
+- 美股夜盤：半導體、存儲股、光通信集體上漲，美光科技、閃迪漲近5%；SpaceX續漲超4%
+- 美債收益率漲多高，才會真正威脅美股？高盛：10年期美債觸及5%
+- 美伊確認協議達成，霍爾木茲海峽將重新開放，伊媒發佈14點諒解備忘錄條款；納指期貨漲超1%，金銀油開盤反應劇烈
+- 美伊談判是否如市場預期那般「絲滑順利」？
+- 全球漲幅最猛股市迎來關鍵時刻：韓國押注MSCI發達市場"入場券"
+- 伊朗消息人士說美伊將舉行視頻會議並簽署協議
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 央行：2026年前五個月社會融資規模增量累計爲17.48萬億元
-- 央行：前五個月人民幣貸款增加9.11萬億元
-- 中國5月M2貨幣供應同比增長8.6%，前值增長8.6%。
-- AI超級牛市來到SpaceX時刻！影子盤狂飆35%、ETF搶跑佈局與超額認購
-- 報道稱美伊諒解備忘錄規定在30天內重開海峽
-- 收市速睇 | 三大指數齊漲，恒指漲1.93%；有色金屬股表現亮眼，洛陽鉬業、靈寶黃金漲超12%；航空股強勢，中國東方航空股份漲近9%
-- 暗盤情報 | 「青梅果類零食公司」溜溜梅現漲超129%，一手賺5642港元
-- AI材料短缺蔓延：英偉達親自下場搶購HVLP4銅箔，2026年缺口達1500噸
-- SpaceX首日或漲超35%，亞洲投資者「曲線上車」，但要小心那個「魔咒」
-- 美伊談判再現曙光？行業人士樂觀預期：海峽航運量有望迅速恢復
+- 瑞銀專家電話會：厄爾尼諾現象已「正式成立」且可能「非常強烈」
+- 週末讀物 | 人們總是低估製造存儲的難度！美光科技CEO罕見深訪，關於存儲供需、技術趨勢、投資紀律以及塑造領導力的往事
+- Anthropic全球下架Mythos和Fable模型的「幕後推手」：「主要股東」亞馬遜CEO
+- HBM4E樣品交付戰打響，SK海力士或提前至6月，三星已搶先一步
+- 週末讀物 | 物理學沒說不可以：馬斯克如何改寫人類航天史？
+- 誰降價誰更弱勢！摩根大通：智譜和Minimax做了同樣的實驗，但結果相反
+- 兩萬億SpaceX上市，Mag 7不夠叫了？MANGOS閃亮登場
+- 美伊協議何時簽署？特朗普稱定於14日；伊朗否認，但不排除未來幾天內簽署
+- 週末讀物 | 站在光裏，一文讀懂光模塊與CPO產業鏈
+- 美伊接近協議、SpaceX完成IPO，幣圈多空激辯：底部到了嗎？
 
 --- 跨站重点主题（多站出现=更重要）---
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 美国关税: 华尔街见闻 (简中)
 - 加密货币: Benzinga (EN)
+- 就业数据: SCMP (EN/中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
