@@ -3,64 +3,59 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | US stock futures jump after US and Iran reach peace deal | US, Iran agree to ceasefire, sending stock futures higher, oil lower | This market is at 'a 10': Wall Street weighs record SpaceX IPO | US, Iran agree to ceasefire, sending stock futures higher, oil lower | This market is at 'a 10': Wall Street weighs record SpaceX IPO | The 400-year-old lesson for SpaceX investors | SpaceX IPO afterglow and Warsh's Fed debut: What to watch this week
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Why Gen Z is right to be concerned about AI | The first AI World Cup is an $11B money machine
+  - 头版/首屏: U.S. markets open in 1h 31m | Fox to buy Roku in a cash-and-stock deal worth $22 billion | US stocks soar on US-Iran peace deal to reopen Hormuz | 'Let the oil flow!' US, Iran's tentative deal to end war | US stocks soar on US-Iran peace deal to reopen Hormuz | 'Let the oil flow!' US, Iran's tentative deal to end war | What's next for SpaceX stock after IPO blastoff | US stocks could get a boost as Iran war lag lifts: MS
+  - 其他: Top Stories | Markets & Economy | Tech & AI | Musk says SpaceX could bring $1 trillion in revenue by 2030 | Anthropic block marks US reversal, warning to Silicon Valley
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: How Do You Deal With Parents Who Think Earning $120K Means You're Wealthy And Can Fund Them? 'They Assume We Are Sitting On Piles Of Cash' | I Have $85,000 in Home Equity and My Roof Just Failed. Should I Use a HELOC to Fix It? | Top Three Stocks To Watch This Week: SpaceX, Accenture, Kroger | Intuit, Adobe, Zscaler, Workday Plunge Amid SaaSpocalypse Fears: Buy The Dip? | How A $40K Coffee Kiosk Grew Into A 912-Store, $859M Business — And Why Its Owners Declined A $1B Buyout
+  - 其他: Goldman Sachs, Jefferies Financial, Kinder Morgan And More On CNBC's 'Final Trades' | Why Is Ouster Stock Soaring Monday? | Dan Ives Calls SpaceX IPO A 'Goldilocks Outcome' That Signals Green Light For OpenAI, Anthropic Debuts | What's Going On With NVIDIA Stock Monday? | Bitcoin Climbs Back Above $65,000, But Expect The True Bottom In Q4, Analyst Says
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 特朗普称若美伊未达成核协议将重启军事打击 | 中信证券：SpaceX首日大涨 大航天时代起航 | 澳大利亚LNG出口商伍德赛德能源称未与埃克森美孚就潜在收购进行讨论 | 马克龙：法英牵头的霍尔木兹海峡护航行动随时启动 | 华尔街见闻早餐 | 2026年6月15日 | 特朗普：伊朗协议是在内塔尼亚胡反对的情况下达成的。
-若无法达成核协议，美国将恢复对伊朗的打击。
-谅解备忘录将暂停霍尔木兹海峡的收费60天。
-协议将确保海峡永远不收通行费。
-内塔尼亚胡“很难”说服。（纽约时报） | 伊朗称所获成果远大于承诺 | 伊朗最高国家安全委员会正式确认伊美谅解备忘录达成
-  - 其他: 美国战争部长赫格塞斯：美方处于“周日签署伊朗协议”的正轨之上。
-伊朗核材料将被销毁。
-“文件”显示，伊朗永远都不会拥有、寻求、购买核武器。
-“自由计划”（project Freedom）从未停止。
-可能会在30天内清除霍尔木兹海峡的水雷。（ | 瑞士选民投票否决了人口上限提案 | 美媒：以色列“企图破坏”美伊协议 | 伊朗方面称，与美国的协议尚未最终敲定。
-伊朗通过卡塔尔团队向美国传达其希望达成的条款。（法尔斯通讯社） | 商品期货开盘，原油主力合约跌超7%，燃料油、液化气跌超6%，LU燃油跌超5%。沪银涨超7%，钯、沪金、沪锡涨超3%。
+  - 头版/首屏: 伊朗方面称霍尔木兹海峡进出通道仍保持关闭 | Fox美股盘前跌15%，报道称福克斯（Fox）将以160美元/股的现金和股票交易方式收购Roku。 | 特朗普：将于7月4日发表主题演讲。 | 录音显示美军仍在执行对伊朗海上封锁 | 国际海事组织将推进被困海员疏散计划 | 伊媒称伊美协议明确霍尔木兹海峡管理权 | Comtech Telecom第三季度每股亏损0.47美元，上年同期每股亏损0.49美元。
+第三季度销售净额1.060亿美元，同比下降16%
+第三季度调整后每股亏损0.22美元，上年同期每股亏损0.18美元。
+Comtech Telecom | 特朗普称将允许伊朗进行低水平铀浓缩
+  - 其他: 印度表示，170万吨尿素的进口招标正在进行中。（彭博） | 矿产资源新规施行 加强矿山“谁损毁 谁治理” 全链条监管 | 乌克兰加入欧盟网络安全储备机制 | 土耳其和沙特拟建跨国铁路 绕开霍尔木兹海峡 | 俄外长：欧洲误判局势 对俄通牒无效
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: US, Pakistan announce peace deal with Iran is ‘complete’ | US-Iran deal could be sealed within 24 hours, mediator Pakistan says | Open Questions | AIIB head Zou Jiayi on multilateralism as ‘infrastructure of global trust’ | Military | The quiet escalation unfolding around Taiwan’s remote outposts | Society | Exclusive | Baby bonus to continue? We’ll consult widely, John Lee says | At World Cup, Mexico leans on China tech and transport to meet logistical needs
-  - 其他: Agreement set to end US naval blockade and establish 60-day window to dismantle Iran’s nuclear programme. | As the Beijing-based development bank marks its 10th anniversary, its president says institutions like hers ‘create certainty amid uncertainty’. | Taipei says it is the first time mainland Chinese government vessels have entered waters near Taiping. | City leader says government to consult public and ‘collect wisdom’ before deciding whether incentive measures should carry on. | Football
+  - 头版/首屏: China’s military mouthpiece cites SpaceX role in warning of satellite arms race | Xi Jinping arrives in a North Korea armed with advanced warships and AI drones | China Economy | China’s first C919s get critical ‘C-checks’ as European regulators watch | Diplomacy | US, Pakistan announce peace deal with Iran is ‘complete’ | Hong Kong Economy | Where will ride-hailing data go? Hong Kong eyes national security compliance
+  - 其他: Official newspaper cites Elon Musk’s firm as an example of how the US is rapidly speeding up the military use of low-orbit satellites. | The first deep-level maintenance of Comac’s narrowbody jet is expected to provide the data needed to prove the aircraft’s long-term durability to global inspectors. | Agreement set to end US naval blockade and establish 60-day window to dismantle Iran’s nuclear programme. | Transport minister Mable Chan says emphasis under coming regulatory framework must be on protecting data safety and national security. | AIIB head Zou Jiayi on multilateralism as ‘infrastructure of global trust’
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 憧憬美伊达协议油价下挫叠加人币强势，航空股低位急弹 | 北京市监约谈5电商 整治内卷促销 | 纽约人NBA封王 街头庆祝变骚乱 | 五小时“翻大饼”，“托市”SpaceX | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数24718.10+468.81(+1.93%)
-                    etnet.com.hk@copyright | 国企指数8374.43+157.35(+1.91%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 智谱宣布GLM5.2全量开放股价飙升，比MINIMAX更值博？ | “三重浪”到LED大屏 深圳智造“助攻”世界杯 | 纽约尼克斯NBA封王 街头庆祝变骚乱 | 奔火星理想 VS 地球“抽水机” | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数24842.67+124.57(+0.50%)
+                    etnet.com.hk@copyright | 国企指数8375.74+1.31(+0.02%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 美伊協議達成！特朗普稱海峽免費開放，三大期指齊升；亞太市場表現強勁，日股新高，韓股指數漲近6%；SpaceX夜盤續升4%，上市首日漲超19% | 一週前瞻 | 「央行超級周」來襲！聯儲局利率決議沃什首秀；市場聚焦美伊協議；美國5月零售銷售數據將出爐；港美股週五休市 | 美股夜盤：半導體、存儲股、光通信集體上漲，美光科技、閃迪漲近5%；SpaceX續漲超4% | 美債收益率漲多高，才會真正威脅美股？高盛：10年期美債觸及5% | 美伊確認協議達成，霍爾木茲海峽將重新開放，伊媒發佈14點諒解備忘錄條款；納指期貨漲超1%，金銀油開盤反應劇烈 | 美伊談判是否如市場預期那般「絲滑順利」？ | 全球漲幅最猛股市迎來關鍵時刻：韓國押注MSCI發達市場"入場券" | 伊朗消息人士說美伊將舉行視頻會議並簽署協議
-  - 其他: 瑞銀專家電話會：厄爾尼諾現象已「正式成立」且可能「非常強烈」 | 週末讀物 | 人們總是低估製造存儲的難度！美光科技CEO罕見深訪，關於存儲供需、技術趨勢、投資紀律以及塑造領導力的往事 | Anthropic全球下架Mythos和Fable模型的「幕後推手」：「主要股東」亞馬遜CEO | HBM4E樣品交付戰打響，SK海力士或提前至6月，三星已搶先一步 | 週末讀物 | 物理學沒說不可以：馬斯克如何改寫人類航天史？
+  - 头版/首屏: 美股前瞻 | 美伊和談迎突破性進展，納指期貨升逾2%；是鷹還是鴿？沃什「首秀」本週來襲；SpaceX盤前續升逾5%引領太空股，存儲、光通信、芯片股集體走強 | 美伊協議在望，可以抄底黃金了嗎？ | 霍爾木茲風險降溫，美國汽油價格或跌破4美元關口，消費者迎來「油價喘息」 | MLCC缺貨潮全面擴散！明年恐仍難緩解，設備交付成核心堵點 | 小紅書計劃本月底前祕密在港遞表，估值曾達310億美元 | 北水加倉港股逾21億港元，掃貨智譜近23億港元，淨買入建滔積層板超10億港元，淨賣出阿里巴巴超8億港元 | 本週懸念拉滿！沃什上任的第一把火：停止解釋一切？ | 週二，日本央行加息「板上釘釘」，1%利率時代有望回歸！
+  - 其他: 數十億元回購護盤？股價持續低迷 頭部藥企掀起「估值保衛戰」 | 馬斯克再「畫餅」：SpaceX 2030年營收將破萬億！華爾街開始重新計算這筆賬 | 這波存儲瘋漲，能持續多久？ | 收市速睇 | 三大指數齊升，科指升1.28%；PCB、存儲、半導體股聯袂大漲，建滔積層板漲超22%再創新高，英諾賽科漲超16%，兆易創新、華虹宏力漲超10% | 美伊協議「達成」，美國原油庫存卻已逼近紅線，回補需數月
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
 - **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
 - **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **中国/欧盟** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
-- **加密货币** — 出现于: Benzinga (EN) (1 站)
+- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
 - **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 伊朗/中东局势（5 站）
-- 油价/能源（5 站）
 - 科技股/个股（5 站）
+- 伊朗/中东局势（4 站）
+- 油价/能源（3 站）
+- 中国/欧盟（3 站）
+- 加密货币（2 站）
 - 黄金/大宗商品（2 站）
 - 美联储/利率（2 站）
-- 中国/欧盟（2 站）
 - 中国政策（2 站）
-- 加密货币（1 站）
+- 关税/贸易政策（1 站）
 - 就业/经济数据（1 站）
-- 关税/贸易政策（0 站）
