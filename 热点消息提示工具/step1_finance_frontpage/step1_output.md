@@ -3,56 +3,71 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | Fed expected to hold rates steady this week | Read the 14-point draft memorandum between the US and Iran | SpaceX closes in on Amazon in sprint toward $3 trillion | Read the 14-point draft memorandum between the US and Iran | SpaceX closes in on Amazon in sprint toward $3 trillion | Trump's Hormuz optimism is set to face a reality check | Gas prices edge toward $4 as 'real test' looms
-  - 其他: Top Stories | Markets & Economy | Tech & AI | SpaceX's $60B Cursor deal is all about becoming an AI contender | Intel begins production of new class of chips
+  - 头版/首屏: U.S. markets open in 2h 44m | All eyes on Warsh with Fed expected to hold rates | Nasdaq futures jump as Wall Street braces for Fed decision | US, Iran prepare for deal signing as financial details emerge | Nasdaq futures jump as Wall Street braces for Fed decision | SpaceX heads for 4th day of gains after overtaking Amazon | US, Iran prepare for deal signing as financial details emerge | Read the 14-point draft memorandum between the US and Iran
+  - 其他: Top Stories | Markets & Economy | Tech & AI | US holds off blacklisting China's DeepSeek over security risk | China regulator pushes for more domestic IPOs from AI firms
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: They Thought They Were Simplifying Their Retirement Accounts. Instead, They 'Foolishly' Created A Tax Problem Resulting In A $10K Tax Bill | Rivian's CEO Is Taking On Elon Musk In Humanoid Robots | DOJ Backs xAI In Court, Citing Grok's Role In Military Ops Including Iran Strikes | I've Been Paying Minimums on $30,000 in Credit Card Debt for Three Years. How Much Has That Actually Cost Me? | Robinhood's Fastest-Growing Business Has A Regulation Problem: Here's What It Means For HOOD
+  - 其他: Magnite Teams With Viasat To Bring Programmatic Ads To Air Travelers | Robinhood, Charles Schwab, State Street And More On CNBC's 'Final Trades' | Jim Cramer Calls CAVA 'Tasty, Clean, Fun,' Says Make This Biotech 'Your Speculation' | Lionsgate Stock Pulls Back After Netflix Denies Acquisition Interest, Erasing Some of Tuesday's 14% Surge | Micron Likely To Report Higher Q3 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 摩根大通预计到2030年AI基础设施建设总花费将达5.5万亿美元 | 汇丰银行与谷歌云宣布达成人工智能银行合作伙伴关系。 | OpenAI第一季度消耗现金37亿美元，同比增加两倍 | 海事情报公司称伊朗近两月来首次出口原油 | 特朗普政府再次推动转移教育部职能 | 华尔街见闻早餐 | 2026年6月17日 | Kalshi在永续合约首秀斩获55亿美元后，计划进一步扩展业务 | 标普：生物燃料是避免美国农田面积锐减的关键
-  - 其他: 长端美债价格涨幅突出，两年期实际收益率涨超6.6个基点 | 美国对古巴的燃油出口激增，燃料、乘用车、食品通过美军封锁。 | 受Piper Sandler预测《GTA VI》首发销量达4600万份提振，Take-Two股价上涨 | 非美货币普遍走高 | 标普500指数跌超0.5%，纳指跌1%，纳斯达克100指数跌超1.7%，半导体指数跌4.8%，道指目前涨345点、涨幅0.6%。
+  - 头版/首屏: 美国6月12日当周MBA抵押贷款申请活动指数周环比 -3.8%，前值 10.8%。 | 特朗普：有关设立3000亿美元伊朗重建基金的报道不实。
+美国没有基金投资伊朗。
+美国不会在伊朗投资“10美分”（即一分钱也不投）。
+油价保持低位是因为我们正在将船只运出（海峡）。
+伊朗谅解备忘录尚未最终定稿。
+如果我对看到的不满意，我们会再 | 京东外卖：坚决拥护《外卖平台补贴行为规范十条》 | 白宫开出最高40万美元“总统级年薪” 招募华尔街人才强化供应链 | 淘宝闪购：坚决拥护国家规范外卖平台补贴行为 | 花旗将美光科技目标价从840美元上调至1200美元。 | 腾讯6月17日购回价值5.01亿港元的股份。 | 报道：特朗普顾问考虑美国政府入股AI巨头的可能结构
+  - 其他: 特朗普：昨晚在七国集团晚宴上很开心。
+七国集团之行非常成功。
+市场对伊朗协议非常满意。
+将在今天的新闻发布会上讨论伊朗协议的细节。
+油价正在下跌。
+霍尔木兹海峡将在未来一两天内开放。
+海峡已部分开放，将全面开放。
+没有什么比市场更聪明。 | 特朗普称赞与埃及的关系。 | 德国总理默茨：认为七国集团峰会取得了“积极成果”。
+七国集团关于地缘政治议题的联合声明取得成功。
+七国集团成员国将通过制裁加大对俄罗斯的压力。
+油价下跌是“好兆头”。
+G7积极成果包括关键原材料、人工智能。 | 中老签署2026年澜湄合作专项基金老挝项目协议 | 中兰环保股价大跌超14%，重要股东高位套现，公司回应
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Europe is gearing up for a trade fight with China. But will it change anything? | ‘It’s absurd’: how the EU’s new carbon tariff is causing havoc in China | China | Taiwan KMT leader visits US, but ‘concerns over her positions persist’: expert | Latin America and Europe are bystanders in the US-China AI race: Lula adviser | Society | Eternal ‘star’: asteroid named after firefighter killed in Hong Kong blaze | China is cruising to become the world’s top tourism market, analysts say
-  - 其他: Brussels currently lacks the firepower to win a trade clash with China – and Beijing is not in a mood to make concessions, analysts warn. | KMT chairwoman said her US visit went ‘beyond expectations’, but concerns about her position on some issues may persist, an expert says. | Brazil’s Celso Amorim tells a Rio conference the Global South must answer via Brics, casting rare earths and data as matters of sovereignty. | Hong Kong-born amateur astronomer William Yeung was recently granted approval to name asteroid ‘Howaiho’. | Football
+  - 头版/首屏: Exclusive | ‘We cannot rely entirely on America’: Europe urged to deepen China ties on AI | AI has boosted the US economy. Why isn’t it doing the same for China? | Diplomacy | The white paper making China’s case for new rules for the world’s new frontiers | China Economy | China accelerates digital yuan push as 26 banks join new cross-border platform | Politics | Hong Kong’s John Lee pledges 10-fold expansion of new university town
+  - 其他: Euro architect Christian Noyer says Chinese capital can help Europe build AI, green industries and strategic autonomy as it revamps markets. | Beijing says international governance is at a crossroads and needs to be more in line with evolving realities. | The platform will make it easier to make cross-border e-CNY payments, with banks operating in Brazil, Qatar and Thailand among others already signed up. | Proposal follows Beijing’s point man on Hong Kong affairs Xia Baolong’s endorsement of city’s efforts on its first five-year plan. | Why a Chinese study on subsea supercurrents is alarming global tech networks
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 内地零售销售自疫情后首现倒退，内需股普遍下挫 | 食安风波频爆 山姆总部被约谈 | 以国安部长：不受美伊协议约束 | 车市砸盘消费转负，灵活就业急需托底 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数24493.95-348.72(-1.40%)
-                    etnet.com.hk@copyright | 国企指数8240.05-135.69(-1.62%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 内地零售销售自疫情后首现倒退，内需股普遍下挫 | 粤派3千万文旅消费券 端午吸客 | 特否认付2.3万亿重建伊 万斯：海湾国出资 | 上海落子“境内离岸”，分流香港大茶饭？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数24312.16-181.79(-0.74%)
+                    etnet.com.hk@copyright | 国企指数8144.03-96.02(-1.17%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 沃什今夜首秀，道指再創新高；美伊和平協議草案全文曝光：石油立即解禁、3000億重建基金；SpaceX上市後飆升49%，市值超越亞馬遜位居全球第五 | SpaceX期權上市首日就被熱捧，看漲期權交易量排美股第五 | 亞馬遜「現金奶牛」業務再遭監管狙擊：傳FTC擬指控廣告拍賣「隱藏底價」，或重罰數十億美元 | 英特爾芯片代工「新里程碑」：官宣「18A升級版」製程進入「風險生產」階段 | 富國銀行上調標普500指數年終目標至7950點，看好AI板塊與週期股進一步上漲 | 彭博曝美伊和平協議草案全文：石油立即解禁、3000億重建基金、資產最終解凍 | 美股收盤 | 市場靜待沃什"首秀"，三大股指漲跌互現，道指再新高；SpaceX上市後飆升49%；芯片股承壓，英特爾跌超8%；AMD跌超7%；美油跌近5% | 成交額TOP20 | SpaceX連漲3天，市值超過亞馬遜，成全球第五大上市公司；蘋果2027新品藍圖曝光；存儲、光通信板塊走弱，美光跌超6%，邁威爾跌近10%
-  - 其他: 慧與科技升級AI專用網絡設備，西門子能源成新客戶 | AI巨頭算經濟賬！微軟據報考慮採用開源模型降低智能體費用 | 高盛今年併購交易額突破1萬億美元，創史上最快紀錄 | 納指收跌超1%，SpaceX尾盤迴落仍收漲4.8% | 谷歌發佈Android 17操作系統 多項AI新功能將分階段上線
+  - 头版/首屏: 沃什首秀前瞻：點陣圖或迎來鷹派轉向，前瞻指引弱化恐加劇市場波動 | 黃仁勳呼籲全民擁抱AI：社會需重塑規則體系，能源短缺成美國AI發展最大短板 | 押注長上下文與國產算力生態 智譜憑GLM-5.2躋身全球大模型頭部陣營？ | 特朗普：若不滿意美伊備忘錄，將恢復轟炸行動 | AST SpaceMobile：BlueBirds 8、9和10號衛星已成功發射入軌 | 段永平最新談茅台、泡泡瑪特、英偉達、SpaceX | 特朗普與各國領導人齊聚G7峰會，OpenAI、Anthropic、谷歌高管列席參會 | 北水減倉港股逾32億港元，建滔積層板、建滔集團、智譜分別獲淨買入38億港元、18億港元、8億港元，阿里巴巴獲淨賣出近21億港元
+  - 其他: 不得以長期、大額補貼擾亂市場秩序 外賣平台新規公開徵求意見 | 需求遭戰爭「摧毀」、供應即將井噴！IEA預警：2027年油市將滑向「顯著過剩」 | 滙豐與谷歌聯手加碼AI：兩年自動化200項任務，單項目標超1億美元回報 | 美銀：2030年中國AIDC投資或達3270億美元，關注「電網+材料」雙主線 | 博通下一代TPU項目延期？摩根大通反駁：谷歌鎖單至2031年，公司明年AI收入有望增長兩倍
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN), SCMP (EN/中), 经济通 (繁中) (3 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
 - **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
-- **美国关税（15%等）** — 出现于: SCMP (EN/中) (1 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **就业/经济数据** — 出现于: 华尔街见闻 (简中) (1 站)
+- **黄金/大宗商品** — 出现于: Benzinga (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 伊朗/中东局势（5 站）
 - 科技股/个股（5 站）
-- 油价/能源（4 站）
-- 就业/经济数据（3 站）
-- 黄金/大宗商品（3 站）
+- 中国/欧盟（3 站）
+- 伊朗/中东局势（2 站）
+- 油价/能源（2 站）
 - 加密货币（2 站）
 - 美联储/利率（2 站）
-- 中国/欧盟（2 站）
-- 关税/贸易政策（1 站）
+- 就业/经济数据（1 站）
+- 黄金/大宗商品（1 站）
 - 中国政策（1 站）
+- 关税/贸易政策（0 站）
