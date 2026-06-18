@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026061720
+抓取时间: 2026061809
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 2h 44m
-- All eyes on Warsh with Fed expected to hold rates
-- Nasdaq futures jump as Wall Street braces for Fed decision
-- US, Iran prepare for deal signing as financial details emerge
-- Nasdaq futures jump as Wall Street braces for Fed decision
-- SpaceX heads for 4th day of gains after overtaking Amazon
-- US, Iran prepare for deal signing as financial details emerge
-- Read the 14-point draft memorandum between the US and Iran
-- Oil steadies as IEA forecasts 2027 glut
-- SEC poised to allow stock-token trading on crypto platforms
-- Gap between economists' Fed outlooks widens to extremes
-- First ETFs filed for Wall Street's new obsession, the 'MANGOS'
+- U.S. markets closed
+- More Fed officials see a rate hike ahead
+- US-Iran deal takes effect as focus turns to Strait of Hormuz
+- SpaceX stock slips for first time since blockbuster debut
+- US-Iran deal takes effect as focus turns to Strait of Hormuz
+- SpaceX stock slips for first time since blockbuster debut
+- Warsh declines to submit dot-plot projections
+- 'You can't cover everything': The unanswered question in Trump's Iran deal
+- US stock futures edge up after US and Iran sign interim deal
+- How the Fed's rate-hike odds just shifted
+- Warsh: Labor market data 'moving in a good direction'
+- Warsh forms Fed task force to review $6.7T balance sheet
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- US holds off blacklisting China's DeepSeek over security risk
-- China regulator pushes for more domestic IPOs from AI firms
-- OpenAI burned $3.7 billion in the first quarter of 2026: Report
-- Startup backed by ex-Google CEO Schmidt debuts AI robot
+- Apple to raise prices due to memory chip shortage
+- Big Tech coalition for carbon removal increases funding by $915M
+- Allbirds soars as AI pivot continues with name change
+- Snap stock slides as Specs AR glasses draw mixed reactions
 - Popular
-- 'Collision course': Social Security hasn't been this bad since 1983, watchdog says
-- The controversial plan behind an AI wealth fund
+- Microsoft walks away from $3B Oracle cloud deal
+- Scott Bessent confronted on Trump's economy as Americans struggle
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,80 +42,66 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Magnite Teams With Viasat To Bring Programmatic Ads To Air Travelers
-- Robinhood, Charles Schwab, State Street And More On CNBC's 'Final Trades'
-- Jim Cramer Calls CAVA 'Tasty, Clean, Fun,' Says Make This Biotech 'Your Speculation'
-- Lionsgate Stock Pulls Back After Netflix Denies Acquisition Interest, Erasing Some of Tuesday's 14% Surge
-- Micron Likely To Report Higher Q3 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
-- Stock Market Today: Dow Jones Futures Tumble, S&P 500 Gains As Investors Await FOMC Decision—Amkor, La-Z-Boy In Focus
+- My Family Wants Me to Take Out A $70K HELOC on My House To Pay For Dad's Dementia Care — While My Sister, 34, Lives Rent-Free In The Family Home
+- Apple Will Raise Prices Due To Soaring Memory Costs: CEO Tim Cook Says 'This Is A 100-Year Flood'
+- Nebius Shares Rise Over 5% After Key Trading Signal
+- Maybe It's Time To Rethink How The S&P 500 Is constructed
+- Smith & Wesson Stock Shoots Higher After Q4 Earnings — Here's Why
+- Warsh's Hawkish Fed Debut Shocks Markets: 'This Committee Will Deliver Price Stability'
 - Anduril Industries
-- Kevin O'Leary Says 'AI Is No Different,' Technology Will Drive The 'Next Generation Of Innovation'
-- Wall Street's Most Accurate Analysts Give Their Take On 3 Materials Stocks Delivering High-Dividend Yields
-- Top 3 Financial Stocks That May Explode In June
+- Small Caps Near Record Highs, Robinhood Rallies 12%: Stock Market Today
+- Why Wall Street Is Turning Bullish On Rackspace Stock After Its AI Pivot
+- UK Inflation Holds At 2.8% As Iran War Disrupts Energy Markets Ahead of BoE Decision
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美国6月12日当周MBA抵押贷款申请活动指数周环比 -3.8%，前值 10.8%。
-- 特朗普：有关设立3000亿美元伊朗重建基金的报道不实。
-美国没有基金投资伊朗。
-美国不会在伊朗投资“10美分”（即一分钱也不投）。
-油价保持低位是因为我们正在将船只运出（海峡）。
-伊朗谅解备忘录尚未最终定稿。
-如果我对看到的不满意，我们会再
-- 京东外卖：坚决拥护《外卖平台补贴行为规范十条》
-- 白宫开出最高40万美元“总统级年薪” 招募华尔街人才强化供应链
-- 淘宝闪购：坚决拥护国家规范外卖平台补贴行为
-- 花旗将美光科技目标价从840美元上调至1200美元。
-- 腾讯6月17日购回价值5.01亿港元的股份。
-- 报道：特朗普顾问考虑美国政府入股AI巨头的可能结构
-- SPACEX美股盘前上涨2.7%。
-- 中美航线全面爆舱
-- 早间要闻汇总
-- 提醒：日内请重点关注（以下均为北京时间）
+- 华泰证券：9月前美联储将维持利率不变 年底12月加息概率接近50%
+- 中金：维持美联储年内不加息、不降息的判断 但提示明年加息风险上升
+- 巴基斯坦总理：美伊谅解备忘录签署仪式19日在瑞士举行
+- 中信证券：维持美联储年内维持政策利率不变的判断
+- 巴基斯坦总理说伊朗将立即重开霍尔木兹海峡，美国将立即解除海上封锁。（新华社）
+- 谷歌AI研究员Noam Shazeer加入OpenAI。（Information）
+- 日韩股市齐创新高，美股期货扩大涨幅
+- 伊朗外交部：伊美本周五日内瓦会谈待定
+- 巴基斯坦总理：美伊谅解备忘录立即生效 将启动技术层级会谈
+- 华尔街见闻早餐 | 2026年6月18日
+- 纳斯达克100指数期货涨幅扩大至1%。
+- 标普500指数期货上涨0.5%，从美联储发布决议后的跌势中反弹。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 特朗普：昨晚在七国集团晚宴上很开心。
-七国集团之行非常成功。
-市场对伊朗协议非常满意。
-将在今天的新闻发布会上讨论伊朗协议的细节。
-油价正在下跌。
-霍尔木兹海峡将在未来一两天内开放。
-海峡已部分开放，将全面开放。
-没有什么比市场更聪明。
-- 特朗普称赞与埃及的关系。
-- 德国总理默茨：认为七国集团峰会取得了“积极成果”。
-七国集团关于地缘政治议题的联合声明取得成功。
-七国集团成员国将通过制裁加大对俄罗斯的压力。
-油价下跌是“好兆头”。
-G7积极成果包括关键原材料、人工智能。
-- 中老签署2026年澜湄合作专项基金老挝项目协议
-- 中兰环保股价大跌超14%，重要股东高位套现，公司回应
-- 百亿级私募凯丰投资官宣自购
-- 新加坡金融管理局行长谢啇真：全球股权投资估值高度依赖于AI 但相关营收回报不确定性强
-- 报告显示我国应对气候变化和绿色低碳转型取得实效
-- 杭电股份：富春江通信集团于2026年6月16日至6月17日通过集中竞价方式累计减持其所持公司股份22.22万股，占公司总股本的0.03%；于2026年6月3日至6月16日通过大宗交易方式减持其所持公司股份212万股，占公司总股本的0.31%
-- 期货业整合提速！申万期货拟合并宏源期货
+- 中概指数收跌超1.1%，KWEB跌超1.9%，阿里、金山云跌超3.1%
+- 标普收跌1.2%，半导体指数则涨约1.4%
+- 苹果筹备第二代iPhone Air，预计2027年春季推出
+- 交易员全面定价美联储到2027年一季度将加息两次。
+- 美联储按兵不动，非美货币在沃什首秀日普跌
+- 芝加哥小麦期货涨超2.8%，大豆油跌超1.1%
+- 美元指数日内涨幅达1.0%，报100.5602。
+- 欧元兑美元跌超1%，刷新日低至1.1483。
+澳元兑美元跌1%，刷新日低至0.6995。
+现货白银日内跌幅达4.5%，报66.83美元/盎司；纽约银日内跌幅达4.5%，报67.36美元/盎司。
+- 伊朗方面披露美伊谅解备忘录文本内容
+- 纳斯达克100指数跌幅扩大至0.7%，刷新日低，标普跌1.2%，道指跌499点跌幅将近1%。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Exclusive | ‘We cannot rely entirely on America’: Europe urged to deepen China ties on AI
-- AI has boosted the US economy. Why isn’t it doing the same for China?
+- Breaking | Iran, US sign peace deal, Strait of Hormuz to reopen immediately, Pakistan says
+- US, Pakistan announce peace deal with Iran is ‘complete’
+- Global Economy
+- Why the US-Iran deal may fail to revive shipping through the Strait of Hormuz
 - Diplomacy
-- The white paper making China’s case for new rules for the world’s new frontiers
-- China Economy
-- China accelerates digital yuan push as 26 banks join new cross-border platform
-- Politics
-- Hong Kong’s John Lee pledges 10-fold expansion of new university town
+- The US and Iran publish their official agreement. Here’s what’s in it
+- Hong Kong Economy
+- Hong Kong, Macau not rivals for tourist trade, industry leaders say
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Euro architect Christian Noyer says Chinese capital can help Europe build AI, green industries and strategic autonomy as it revamps markets.
-- Beijing says international governance is at a crossroads and needs to be more in line with evolving realities.
-- The platform will make it easier to make cross-border e-CNY payments, with banks operating in Brazil, Qatar and Thailand among others already signed up.
-- Proposal follows Beijing’s point man on Hong Kong affairs Xia Baolong’s endorsement of city’s efforts on its first five-year plan.
-- Why a Chinese study on subsea supercurrents is alarming global tech networks
-- China’s role in Cabo Verde’s historic World Cup draw with Spain
-- Part of China’s “stadium diplomacy,” the country’s national arena was financed by Beijing and built by a Chinese contractor.
-- China vows new legal shield that could counter US sanctions and protect finance
-- ‘We don’t stir up trouble,’ He Lifeng says as first vice-premier to attend annual Lujiazui Forum since 2019, ‘but we’re absolutely not afraid of it’.
-- Economics
+- Prime Minister Shehbaz Sharif announces on social media that the agreement takes immediate effect.
+- Industry insiders and vessel-tracking data point to continued caution among operators despite geopolitical breakthrough.
+- The 14-point document was released following days of outcry over Trump administration’s lack of transparency regarding its details.
+- Two cities offer distinct experiences and can benefit from sharing visitor flows, Macau Government Tourism Office chief says.
+- ‘Climate change in trade’: battle lines drawn on Europe’s new China strategy
+- Football
+- World Cup while you were sleeping: England win and Ronaldo ends Messi debate
+- Harry Kane equals Gary Lineker’s goals tally for England, DR Congo score first ever World Cup goal as Portugal labour to draw.
+- Alarm raised over China’s threat to older Americans through drug supply chains
+- US congressional hearing also highlights financial scams and data privacy as national security issues affecting senior citizens.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -147,35 +133,35 @@ G7积极成果包括关键原材料、人工智能。
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 沃什首秀前瞻：點陣圖或迎來鷹派轉向，前瞻指引弱化恐加劇市場波動
-- 黃仁勳呼籲全民擁抱AI：社會需重塑規則體系，能源短缺成美國AI發展最大短板
-- 押注長上下文與國產算力生態 智譜憑GLM-5.2躋身全球大模型頭部陣營？
-- 特朗普：若不滿意美伊備忘錄，將恢復轟炸行動
-- AST SpaceMobile：BlueBirds 8、9和10號衛星已成功發射入軌
-- 段永平最新談茅台、泡泡瑪特、英偉達、SpaceX
-- 特朗普與各國領導人齊聚G7峰會，OpenAI、Anthropic、谷歌高管列席參會
-- 北水減倉港股逾32億港元，建滔積層板、建滔集團、智譜分別獲淨買入38億港元、18億港元、8億港元，阿里巴巴獲淨賣出近21億港元
+- 富途早報 | 沃什首秀放鷹，半數決策者料年內加息；美伊已簽署諒解備忘錄，三大期指回暖，日韓股市齊創新高；SpaceX上市後首跌
+- 完整版首秀問答！聯儲局主席沃什：堅守2%通脹目標，成立五個特別工作組，個人未提交點陣圖
+- 爲美伊協議辯護，特朗普稱「不想看到經濟災難」，不想做「導致1929年崩盤的胡佛」
+- 聯儲局繼續按兵不動但暗示鷹派傾向，強調通脹承諾，半數決策者料年內加息
+- 日韓股市齊創新高，SK海力士漲超4%
+- 美官員稱特朗普親自提前簽署美伊諒解備忘錄，伊外交部稱雙方已簽
+- 特朗普：我已經簽署美伊諒解備忘錄
+- 「新債王」岡拉克火線解讀：沃什絕非「減息派」！
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 不得以長期、大額補貼擾亂市場秩序 外賣平台新規公開徵求意見
-- 需求遭戰爭「摧毀」、供應即將井噴！IEA預警：2027年油市將滑向「顯著過剩」
-- 滙豐與谷歌聯手加碼AI：兩年自動化200項任務，單項目標超1億美元回報
-- 美銀：2030年中國AIDC投資或達3270億美元，關注「電網+材料」雙主線
-- 博通下一代TPU項目延期？摩根大通反駁：谷歌鎖單至2031年，公司明年AI收入有望增長兩倍
-- 收市速睇 | 三大股指漲跌不一，科指微漲0.22%，快手漲超7%；半導體、存儲概念股普漲，新股SENASIC首日收漲超127%，南方兩倍做多海力士漲近13%；智譜漲近13%，MINIMAX漲超6%
-- 台積電產能告急，三星代工訂單激增：谷歌、AMD、特斯拉同時找上門
-- 黃仁勳德州剷土，Coherent光芯片工廠動工
-- 美光再獲1500美元天價目標！TD Cowen高呼：AI存儲器已永久抬升盈利能力「天花板」
-- 美股「七巨頭」過時了？華爾街搶推MANGOS ETF
+- 蘋果放風漲價，二代iPhone Air或明年春面世，iPhone發佈節奏迎重大調整
+- 成交額TOP20 | 再獲1500美元天價目標，美光逆勢漲超2%；Robinhood大漲8%，4月低點以來累漲超50%；SpaceX收跌近5%；亞馬遜「現金奶牛」業務再遭監管狙擊
+- 美股收盤 | 沃什首秀嚇壞市場，三大股指全線收跌；半導體指數逆市收漲，博通、邁威爾漲4%，英特爾漲超3%；SpaceX首度收跌；黃金下挫
+- 特朗普：聯儲局按兵不動也還行，可能加息，相信沃什
+- 伊朗外交部發言人：美伊已簽署諒解備忘錄
+- 最新爆料：iPhone Air二代明春再戰 雙攝、續航「補課」
+- 庫克：蘋果計劃提高產品價格 以應對內存和存儲芯片成本的飆升
+- 沃什大幅調整聯儲局利率聲明！全文對比聯儲局6月會議聲明有何變化
+- 聯儲局新主席沃什釋放強烈信號：聯儲局的天，要變了
+- 美披露美伊諒解備忘錄14項條款
 
 --- 跨站重点主题（多站出现=更重要）---
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
-- 美联储: Yahoo Finance (EN), Benzinga (EN)
-- 就业数据: 华尔街见闻 (简中)
-- 黄金/大宗: Benzinga (EN)
-- 中国政策/两会: 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 就业数据: 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
+- 加密货币: Benzinga (EN)
+- 中国/欧盟: SCMP (EN/中)
 
 --- 粘贴结束 ---
