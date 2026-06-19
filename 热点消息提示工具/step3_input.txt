@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年6月18日`
+`早间热点线索 · 2026年6月19日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026061820
+抓取时间: 2026061909
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- Stocks rebound as Iran deal puts Fed hike focus on pause
+- U.S. markets closed
+- Trump leans on markets to defy Iran deal critics
+- US ends Hormuz blockade, downplays tolls as talks restart
+- Warsh wants markets to guide the Fed, not the other way around
+- US ends Hormuz blockade, downplays tolls as talks restart
+- Warsh wants markets to guide the Fed, not the other way around
+- US weekly jobless claims stay elevated, but labor market stable
 - The 2020 playbook is back on Wall Street
-- NASA picks Eric Schmidt's rocket maker for Mars mission, a race with SpaceX
-- The 2020 playbook is back on Wall Street
-- Trump blows through his red lines in justifying peace deal
-- NASA picks Eric Schmidt's rocket maker for Mars mission, a race with SpaceX
-- Trump says Apple to partner with Intel on US chip design, production
-- Brent nears wiping out war gain as oil slides on Hormuz deal
-- One-third of under-35s still live with their parents. Blame housing costs.
-- Inside the chaotic Iran talks that let Trump claim victory
-- China stock gauge heads for bear market as techs take bruising
+- Stocks rally as Iran deal offsets Fed rate hike worries
+- Mortgage rates dropped this week as Iran peace deal took shape
+- Gas prices fall below $4 per gallon as oil loses steam
+- California billionaires tax has enough signatures for 2026 ballot
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- Nvidia supplier ships samples of next-gen chips to major customers
-- JPMorgan cuts off access to Anthropic for Hong Kong staff
-- Apple to raise prices due to memory chip shortage
-- Google loses Gemini co-lead Noam Shazeer to OpenAI
+- SpaceX stock drops after breaking 3-day winning streak
+- Meta strikes new AI computing deals with data center firm Crusoe
+- Intel's reported Apple deal sends stock soaring, as turnaround pays off
+- Anthropic's showdown with Washington could spell trouble for AI
 - Popular
-- Mark Cuban takes a memecoin swipe at Coinbase CEO Brian Armstrong
-- How much the ultra-rich spend on housing compared with everyone else
+- Bernie Sanders pitches $1,000 annual payout from public ownership of AI
+- College students are swapping coding for healthcare: Goldman Sachs
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,79 +145,69 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Why Is FreeCast Stock Gaining Thursday?
-- What Is Going On With Micron Stock On Thursday?
-- This Talen Energy Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Thursday
-- Kevin Warsh Held Rates And Didn't Give Much Guidance: Is That Bad for Bitcoin?
-- CoreWeave Stock Up 20% This Week: Here's Everything That Happened
-- Stock Market Today: Dow Jones, Nasdaq 100 Futures Surge Following Sharp Sell-Off As Fed Kept Rates Unchanged—Freecast, Smith & Wesson In Focus
+- Can You Guess The Age Most Americans Expect 'Financial Independence'? Spoiler — It's 37, But Some Gen Xers Say Never
+- uniQure Soars After FDA's U-Turn Opens Accelerated Approval Pathway for Huntington's Therapy
+- SpaceX Had The Best IPO In History—Now Comes The Hard Part
+- Holding SpaceX Since The IPO? Why I'd Use The Strength To Sell
+- Ethereum Dumps Below $1,700 But Hits All-Time Highs In Users, Transactions: What Is Going On?
+- Oil Stocks Trade As If Iran War Never Happened: 10 Falling Knives To Watch
 - Anduril Industries
-- Stock Market: Will S&P 500 Open Up Or Down Today?
-- Wall Street's Most Accurate Analysts Spotlight On 3 Real Estate Stocks Delivering High-Dividend Yields
-- The Meta-Scale Multiplier: Why The Data Center Race Is A Power Grid Story
+- Carnival Stock Rises As Oil Prices Fall After MoU
+- Pentagon Bets $725M On Energy Fuels — 5 Rare Earth Stocks To Watch
+- SOXL ETF Rises Nearly 4% After Key Trading Signal
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 伊朗所发文本显示美国将在签署谅解备忘录后立即发放伊朗石油豁免
-- 伊媒：伊革命卫队海军将继续控制霍尔木兹海峡
-- SpaceX美股盘前跌幅扩大至2%。
-- 英国央行行长贝利：尽管停火，但来自伊朗冲突的压力依然存在。对维持利率不变感到满意，但我承认风险偏向上行。
-英国央行副行长Breeden：金融状况已显著收紧。发生实质性第二轮效应的可能性很小。
-英国央行副行长Lombardelli：在我们进一
-- 伊朗将安排霍尔木兹海峡船只通行 60天内不收取费用
-- 谅解备忘录：伊朗和美国承诺在最多60天内磋商最终协议。
-伊朗与美国最终协议的最后期限可经双方同意延长。
-美国将在30天内全面结束海上封锁。
-伊朗将安排船舶安全通行，60天内不收取任何费用。
-商船的交通立即恢复。
-伊朗和阿曼将讨论霍尔木兹海峡
-- 伊朗总统佩泽希齐扬在X上发布了与美国签署的谅解备忘录的文本。
-- 埃森哲第三财季营收187亿美元，预估187.6亿美元。
-埃森哲预计第四财季营收177.5亿美元至184亿美元，市场预估184.7亿美元。
-埃森哲预计第四财季营收增长1％至5％。
-埃森哲预计全年营收增长3％至4％，此前预计增长3％至5％。
-埃
-- 特朗普愤怒回应美伊谅解备忘录批评者
-- 美国防长海格塞斯：如果伊朗未能兑现承诺，美国将重启军事行动。
-如有必要，美国可以重新对伊朗实施封锁。
-- 摩根大通称芯片股剧烈震荡迫使部分投资者减仓 恐因此引发市场“恐慌”
-- 美股盘前，半导体股普涨，英特尔涨近9%
+- 马斯克：特斯拉的信用评级低得“荒谬”。
+- 美国贸易代表启动针对德国药品的301条款调查
+- 华尔街见闻早餐 | 2026年6月19日
+- 纽约时报广场发生枪击事件
+- 美国联邦航空管理局（FAA）：将纽瓦克（Newark）机场机场运营限制延长至2027年夏季。
+将JFK机场、La Guardia机场运营限制延长至2028年10月28日。
+- 美国国务院：对委内瑞拉代总统Rodriguez会见Figuera表示欢迎。
+- 欧盟27国领导人一致通过涉乌结论文件
+- 提醒：日内请重点关注（以下均为北京时间）
+- SpaceX抨击欧盟卫星频谱招标提案
+- 美联储加息担忧引发拉美货币下跌
+- 欧盟首次将对俄经济制裁延长12个月
+- 以色列驻美大使称以方仍致力于执行与黎停火协议
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 伊朗总统说伊美谅解备忘录展现“相互尊重”
-- 涉及六家上市公司，浦东国资国企改革新部署
-- 美国2年期国债收益率攀升至与10年期国债收益率相差不到25个基点。
-- 兆易创新：不存在影响公司股票交易异动的重大事项
-- 交易员维持对英国央行利率的预期不变，预计今年将加息35个基点。
-- 英国央行：货币政策委员会一致认为，如果价格逐步走高，适当的政策反应应当是果断有力的。
-投票支持维持利率不变的七名成员警告称，存在第二轮效应风险。
-需求和劳动力市场疲软可能会削弱第二轮效应的强度。
-最新就业数据“与劳动力市场逐步放松相一致”。
-- 英国央行维持其“随时准备采取行动”应对通胀的指引不变
-- 英镑兑美元短线波动不大，现报1.3227。此前英国央行维持利率不变。
-- 英国央行以7比2的投票结果维持利率不变 表示将密切关注中东局势
-- 英国央行政策利率 3.75%，预期 3.75%，前值 3.75%。
+- 美国4月国际资本净流入 261亿美元，前值 1507亿美元。
+- 美国4月长期资本净流入 1031亿美元，前值 813亿美元。
+- 纳斯达克金龙中国指数收跌0.88%，报6068.15点，本周累计下跌将近4.09%。
+ETF中，中概互联网指数ETF（KWEB）收跌0.55%，中国科技指数ETF（CQQQ）收涨2.57%。
+德银嘉实沪深300指数ETF（ASHR）收涨1.
+- 纳指科技指数收涨超3.2%，半导体指数涨超6.4%、与小盘股指创收盘历史新高
+- 10年期美债收益率在沃什首秀次日回撤超3个基点，两年期实际收益率一度涨穿2%
+- 纳斯达克100指数涨幅扩大至2.7%，半导体指数涨7.2%。
+- 周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。
+CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。
+CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。
+- 美国参议院Scott：对与伊朗协议的某些方面存在担忧。
+- SpaceX跌幅收窄至2.3%。
+- 日元跌向162
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- China’s policy blitz at Lujiazui Forum – what the monetary overhaul means
-- China vows new legal shield that could counter US sanctions and protect finance
-- Politics
-- More in Taiwan favour goodwill to Beijing over defence ties with US, poll shows
-- Tech
-- As ByteDance goes all in on AI, are Chinese chip start-ups poised to win big?
-- Health & Environment
-- Hong Kong issues all 3 rainstorm warnings in a day as downpours cause disruptions
+- Chinese scientists create record-smashing brain implant electrode array
+- China touts AI ‘brain’ to speed up satellite targeting
+- Diplomacy
+- Vance calls Iran deal a ‘win-win’ as Trump lashes out at ‘fools’ who oppose it
+- US trade official takes aim at Beijing, faults Washington on industry
+- Society
+- ‘Harder to quit than drugs’: illegal online gambling fuels Hongkongers’ growing addiction
+- No call with Taiwan, no new arms sales: how Trump is preparing to welcome Xi
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Regulators are leveraging currency strength to formalise outbound routes, granting fresh quotes for global assets while narrowing the interest-rate corridor.
-- Self-reliance was most preferred when Taiwanese were asked for best approach to safeguarding island security and peace across the strait.
-- TikTok owner’s expanding spending could benefit a few second-tier domestic chipmakers, with Iluvatar CoreX in pole position, analysts say.
-- Black warning reissued at 6.35pm, as hail is forecast in the next couple of hours.
-- The US and Iran publish their official agreement. Here’s what’s in it
-- Is hit indie film Dear You propaganda? Don’t be disrespectful, Chinese media says
-- Beijing is aggressively defending the box office smash from claims it is a tool to boost influence over the Chinese diaspora.
-- Economy
-- Mainland China climbs 4 spots in global competitiveness ranking
-- China ranked 12th on the list, despite a decline in economic performance, weak domestic demand and concern over foreign market access.
+- Breakthrough recorded neural activity with high clarity and remained safely functional for 18 months without a drop in performance.
+- US Vice-President also claims Iran will not receive money or sanctions relief unless it meets the obligations outlined in agreement.
+- William Kimmitt criticises trade distortions linked to China while faulting US leaders for allowing industrial decline.
+- With easy access to illegal websites, chat groups and social media ads offering ‘rebates’, young gamblers face a slew of temptation and instigation.
+- World Cup puts Ebola outbreak and pandemic lessons to the test
+- Experts say slow responses, aid cuts and misinformation expose gaps in global health defences despite Covid lessons.
+- China Economy
+- China tests future of shipping on its next trade corridor: a US$10 billion canal
+- The megaproject is set to boost trade links with Southeast Asia and connect inland provinces to global shipping routes.
+- Politics
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -249,36 +239,35 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 宋雪濤：沃什的「正確政績觀」
-- 谷歌撰文復盤TPU：ASIC大有可爲
-- 北水拋售港股近68億港元，淨買入中芯國際近18億港元，加倉建滔集團、建滔積層板逾16億港元，淨賣出阿里巴巴超38億港元，減倉騰訊控股近20億港元
-- 智譜與MiniMax兩級分化！市場出現AI大模型「多空配對交易」
-- 收市速睇 | 三大指數齊跌，科指跌1.39%，科網股走低，小米、美團跌超3%；部分半導體股逆市上揚，天數智芯漲超21%，兆易創新漲超11%；PCB概念、生物醫藥股表現亮眼，建滔集團漲近9%，再鼎醫藥漲近6%
-- 暗盤情報 | 「多光譜AI技術企業」海清智元現漲近250%，一手賺8990港元
-- NAND閃存超級週期，登頂日本第一市值，鎧俠依舊謹慎，未來三年資本開支仍比歷史峰值低10%
-- 2%通脹目標懸了？沃什和萬斯釋放危險信號，華爾街開始擔心更高通脹
+- 美股收盤 | 霍爾木茲海峽重開提振市場，納指收漲近2%；半導體指數單日飆升6.4%，英特爾、美光科技、台積電等多隻芯片股創新高；黃金承壓
+- 成交額TOP20 | 英特爾大漲10%，將攜手蘋果在美設計和生產芯片；SpaceX行情降溫兩連跌，本週仍累漲約15%；亞馬遜洽售自研AI芯片，與英偉達爭奪數據中心市場
+- OPEC駁斥IEA供應過剩預測，認爲石油需求將持續增長
+- 美參議員桑德斯：對美國大型AI公司一次性徵收50%股權稅，設立主權財富基金
+- 報道：Meta與Crusoe簽署AI算力協議，鎖定約1.6吉瓦數據中心容量
+- 消息人士：因以軍持續襲擊黎巴嫩 伊朗推遲赴瑞士行程
+- 英特爾宣佈英特爾代工部門高管任命，以加速研發與製造
+- Meta與數據中心公司Crusoe簽署AI算力合作協議，預計將獲得約1.6吉瓦的算力。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- AI內存極限再創突破！SK海力士宣佈交付12層HBM4E樣品，股價再創歷史新高
-- 港股半導體股午後續漲，華虹宏力拉升漲超9%
-- 英特爾夜盤拉升漲超5%，特朗普：決定幫助英特爾，因爲我們需要設計和製造芯片
-- 特朗普發文自誇「生意經」，稱入股英特爾幫政府大賺一筆
-- 看漲和看跌同樣昂貴！SpaceX期權火爆背後，折射市場深層分歧
-- 港股午評 | 三大指數齊跌，恒指跌1.7%；科網股下行，小米集團、阿里巴巴跌超3%；半導體股紛紛上行，天數智芯大漲超15%，兆易創新漲近7%股價創新高
-- 沃什「首秀」：刻意的模糊？
-- AI熱潮推動芯片股大漲，韓國KOSPI指數首次突破9000點
-- 「教科書級」對沖！SpaceX上市期權首日爆量，機構用"零成本對沖"鎖定巨額浮盈
-- 政策東風提振港股AI概念股！智譜一度漲超18%劍指歷史新高
+- 納指收盤大漲1.9%，英特爾、美光科技等多隻芯片股創下歷史新高
+- 美伊臨時協議落地，美軍解除對伊海上封鎖，萬斯稱60天談判期開始、週三夜間超千萬桶油通過海峽
+- 報道：SpaceX IPO後首度發債，籌集至少200億美元
+- 亞馬遜高管證實洽售自研AI芯片 與英偉達爭奪數據中心市場
+- SpaceX投行團隊正籌備至少200億美元的債券發行
+- 「過剩流動性」轉負，美股或迎2021年以來最強逆風
+- 通過《1929》理解當下市場！達利歐與作者索爾金這場精彩對話，幫我們劃出了關鍵點……
+- 萬斯：已有1250萬桶石油通過海峽 60天談判期限今天正式開始
+- 日元匯率創2年新低，干預風險重回市場焦點
+- 報道：亞馬遜洽談向其他公司出售英偉達競品芯片
 
 --- 跨站重点主题（多站出现=更重要）---
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
-- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
-- 美国关税: 富途资讯 (繁中)
-- 就业数据: 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: 华尔街见闻 (简中), 富途资讯 (繁中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
