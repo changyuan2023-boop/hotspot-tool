@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026061909
+抓取时间: 2026061920
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - U.S. markets closed
-- Trump leans on markets to defy Iran deal critics
-- US ends Hormuz blockade, downplays tolls as talks restart
-- Warsh wants markets to guide the Fed, not the other way around
-- US ends Hormuz blockade, downplays tolls as talks restart
-- Warsh wants markets to guide the Fed, not the other way around
-- US weekly jobless claims stay elevated, but labor market stable
-- The 2020 playbook is back on Wall Street
-- Stocks rally as Iran deal offsets Fed rate hike worries
-- Mortgage rates dropped this week as Iran peace deal took shape
-- Gas prices fall below $4 per gallon as oil loses steam
-- California billionaires tax has enough signatures for 2026 ballot
+- Stock market's next leg higher may not come from AI
+- US and Iran call off start of peace talks amid Lebanon clashes
+- Why mortgage rates won't dive back to 6% any time soon
+- US and Iran call off start of peace talks amid Lebanon clashes
+- Why mortgage rates won't dive back to 6% any time soon
+- US tells ASML it's worried China has its hands on top chip tool
+- Goldman axes $500 from gold target as Fed-cut odds fade
+- Stocks slide as Iran nuclear talks hit a snag
+- From job-hugging to job hunting: Half of Americans plan to move on
+- Companies rein in AI use as 'monster' costs strain budgets
+- US stocks log record weekly inflow amid tech fervor
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- SpaceX stock drops after breaking 3-day winning streak
-- Meta strikes new AI computing deals with data center firm Crusoe
-- Intel's reported Apple deal sends stock soaring, as turnaround pays off
-- Anthropic's showdown with Washington could spell trouble for AI
+- AI data centers just got a government-ordered fast lane to the grid
+- Latest AI-related play is a struggling French car parts stock
+- AI is turning Nintendo and Sony consoles into luxury goods
+- China tightens export checks on key AI data center metal indium
 - Popular
-- Bernie Sanders pitches $1,000 annual payout from public ownership of AI
-- College students are swapping coding for healthcare: Goldman Sachs
+- Musk says dollars will be replaced by 'mass & energy,'
+- Is the stock market open on Juneteenth?
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,69 +42,64 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Can You Guess The Age Most Americans Expect 'Financial Independence'? Spoiler — It's 37, But Some Gen Xers Say Never
-- uniQure Soars After FDA's U-Turn Opens Accelerated Approval Pathway for Huntington's Therapy
-- SpaceX Had The Best IPO In History—Now Comes The Hard Part
-- Holding SpaceX Since The IPO? Why I'd Use The Strength To Sell
-- Ethereum Dumps Below $1,700 But Hits All-Time Highs In Users, Transactions: What Is Going On?
-- Oil Stocks Trade As If Iran War Never Happened: 10 Falling Knives To Watch
+- Trump’s $14.7 Million Lincoln Memorial Pool Renovation Hits Trouble As Paint Peels Into Algae-Tinted Water: Report
+- US Just Tweaked Student Loans— And Auto-Pay Users Could See Up To A 1% Rate Cut
+- US-Iran Talks In Switzerland Postponed As Israel Vows To 'Burn' Lebanon, JD Vance Cancels Trip: 'Not Simple Or Predictable'
+- Elon Musk Says Orbital Computing Unlocks 'Trillion Times' More Scale As Brian Armstrong Calls Earth's 'Excessive Regulation' A Drag On Progress
+- US Treasury Is A 'Giant Ponzi'? Peter Schiff Warns There Is No ‘Easy Fix’ Left For $40 Trillion National Debt
+- Are Stock Markets Open On Juneteenth? Here's What's Open And Closed On June 19
 - Anduril Industries
 - Carnival Stock Rises As Oil Prices Fall After MoU
-- Pentagon Bets $725M On Energy Fuels — 5 Rare Earth Stocks To Watch
-- SOXL ETF Rises Nearly 4% After Key Trading Signal
+- Elon Musk Touts Starlink's Disaster-Proof Connectivity After Telecom Operator Adopts SpaceX Satellites To Prevent Network Blackouts During Hurricanes
+- SpaceX Had The Best IPO In History—Now Comes The Hard Part
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 马斯克：特斯拉的信用评级低得“荒谬”。
-- 美国贸易代表启动针对德国药品的301条款调查
-- 华尔街见闻早餐 | 2026年6月19日
-- 纽约时报广场发生枪击事件
-- 美国联邦航空管理局（FAA）：将纽瓦克（Newark）机场机场运营限制延长至2027年夏季。
-将JFK机场、La Guardia机场运营限制延长至2028年10月28日。
-- 美国国务院：对委内瑞拉代总统Rodriguez会见Figuera表示欢迎。
-- 欧盟27国领导人一致通过涉乌结论文件
-- 提醒：日内请重点关注（以下均为北京时间）
-- SpaceX抨击欧盟卫星频谱招标提案
-- 美联储加息担忧引发拉美货币下跌
-- 欧盟首次将对俄经济制裁延长12个月
-- 以色列驻美大使称以方仍致力于执行与黎停火协议
+- 伊朗：穿越霍尔木兹海峡的船只必须购买强制性保险，目前该保险免费提供，但未来可能会收费
+- 伊朗宣布霍尔木兹海峡通行新规：须提前48小时提交申请
+- 伊朗称提交合规申请的船只可通过霍尔木兹海峡
+- 海事情报公司：伊朗过去五天出口约1800万桶原油
+- 范波王维会见京东集团创始人刘强东
+- 说好“纳税人零出资”，特朗普被曝挪用特勤局资金建宴会厅
+- 霍尔木兹海峡18日商船通行量达4月中旬以来峰值
+- 伊朗因以色列空袭黎巴嫩而推迟了与美国的会谈。伊朗因（以色列）袭击未向瑞士派遣代表团。（英国金融时报）
+- 伊朗革命卫队：准备好给敌人带来惨败
+- 以军称4名军事人员在黎巴嫩南部丧生
+- 伊朗革命卫队：任何侵犯伊朗权利的行为都将招致更强硬的军事回应。
+- 黎真主党：继续在黎南部“抵抗以军侵略”
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 美国4月国际资本净流入 261亿美元，前值 1507亿美元。
-- 美国4月长期资本净流入 1031亿美元，前值 813亿美元。
-- 纳斯达克金龙中国指数收跌0.88%，报6068.15点，本周累计下跌将近4.09%。
-ETF中，中概互联网指数ETF（KWEB）收跌0.55%，中国科技指数ETF（CQQQ）收涨2.57%。
-德银嘉实沪深300指数ETF（ASHR）收涨1.
-- 纳指科技指数收涨超3.2%，半导体指数涨超6.4%、与小盘股指创收盘历史新高
-- 10年期美债收益率在沃什首秀次日回撤超3个基点，两年期实际收益率一度涨穿2%
-- 纳斯达克100指数涨幅扩大至2.7%，半导体指数涨7.2%。
-- 周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。
-CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。
-CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。
-- 美国参议院Scott：对与伊朗协议的某些方面存在担忧。
-- SpaceX跌幅收窄至2.3%。
-- 日元跌向162
+- 俄罗斯央行将基准利率下调至 14.25%，预估 14.00%，前值 14.50%。
+- 广东：加快建设全国一体化算力网络粤港澳大湾区枢纽，前瞻布局6G技术与卫星互联网
+- 特朗普对LA7表示：意大利总理梅洛尼在七国集团峰会上求我跟她合影。
+- 广东：支持广州期货交易所丰富期货产品体系，完善全期货产业链
+- 广东：多渠道增强省内租赁企业资本实力，大力发展飞机、船舶、专业设备、算力等融资租赁业务
+- 广东：抢抓人工智能发展机遇，建设具有国际竞争力的软件和信息技术服务业创新中心
+- 超百艘满载油轮仍滞留波斯湾 分析称世界油阀并非一键恢复
+- 英国大曼彻斯特市长伯纳姆计划在未来几天与英国首相斯塔默交谈。（彭博）
+- 高盛一篮子欧洲国防股指数一度上涨2%，Renk一度上涨4.5%，Exail一度上涨4.0%，莱茵金属上涨2.9%，Leonardo上涨3.4%，Kongsberg上涨3.2%。
+- 三峡枢纽新通道先行开挖区预计今年10月完成开挖任务
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Chinese scientists create record-smashing brain implant electrode array
-- China touts AI ‘brain’ to speed up satellite targeting
+- China showcases portable laser weapons for a single soldier to shoot down drones
+- China showcases anti-drone air defences at Paris show as conflict fuels demand
 - Diplomacy
-- Vance calls Iran deal a ‘win-win’ as Trump lashes out at ‘fools’ who oppose it
-- US trade official takes aim at Beijing, faults Washington on industry
-- Society
-- ‘Harder to quit than drugs’: illegal online gambling fuels Hongkongers’ growing addiction
-- No call with Taiwan, no new arms sales: how Trump is preparing to welcome Xi
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Breakthrough recorded neural activity with high clarity and remained safely functional for 18 months without a drop in performance.
-- US Vice-President also claims Iran will not receive money or sanctions relief unless it meets the obligations outlined in agreement.
-- William Kimmitt criticises trade distortions linked to China while faulting US leaders for allowing industrial decline.
-- With easy access to illegal websites, chat groups and social media ads offering ‘rebates’, young gamblers face a slew of temptation and instigation.
-- World Cup puts Ebola outbreak and pandemic lessons to the test
-- Experts say slow responses, aid cuts and misinformation expose gaps in global health defences despite Covid lessons.
-- China Economy
-- China tests future of shipping on its next trade corridor: a US$10 billion canal
-- The megaproject is set to boost trade links with Southeast Asia and connect inland provinces to global shipping routes.
+- More and more Africans want to learn Chinese. But who will teach them?
 - Politics
+- Beijing details rare marine survey east of Taiwan after Tokyo-Manila talks
+- Society
+- ‘Bury me with them’: animal-lovers want same cemetery plots as their pets
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- 3-day defence equipment and tech expo in Beijing features Lijian series of high-energy lasers among displays of drone and anti-drone systems.
+- African nations are adding Chinese to their national curricula, but the roll-out is hampered by a lack of qualified teachers.
+- Move marks mainland China’s latest bid to assert jurisdictional claims in the contested waters following the maritime boundary negotiations.
+- Pet funeral service providers call for change in regulations, citing growing demand for such arrangements amid rapidly expanding market.
+- Why are foreign travellers racing to China for the June Dragon Boat holiday?
+- China EVs
+- Chinese EV makers debut right-hand drive models for Southeast Asian push
+- Chinese brands, including BYD, Jaecoo and Wuling Motors, captured 17.6 per cent of Indonesia’s car market in the first quarter of 2026.
+- Big Tech
+- Zhipu, DeepSeek push China’s trillion-parameter AI frontier amid US clampdown
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -136,35 +131,35 @@ CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美股收盤 | 霍爾木茲海峽重開提振市場，納指收漲近2%；半導體指數單日飆升6.4%，英特爾、美光科技、台積電等多隻芯片股創新高；黃金承壓
-- 成交額TOP20 | 英特爾大漲10%，將攜手蘋果在美設計和生產芯片；SpaceX行情降溫兩連跌，本週仍累漲約15%；亞馬遜洽售自研AI芯片，與英偉達爭奪數據中心市場
-- OPEC駁斥IEA供應過剩預測，認爲石油需求將持續增長
-- 美參議員桑德斯：對美國大型AI公司一次性徵收50%股權稅，設立主權財富基金
-- 報道：Meta與Crusoe簽署AI算力協議，鎖定約1.6吉瓦數據中心容量
-- 消息人士：因以軍持續襲擊黎巴嫩 伊朗推遲赴瑞士行程
-- 英特爾宣佈英特爾代工部門高管任命，以加速研發與製造
-- Meta與數據中心公司Crusoe簽署AI算力合作協議，預計將獲得約1.6吉瓦的算力。
+- 假期讀物 | 芯片禁運狂熱粉Anthropic，遭遇模型封殺
+- 本週港股牛股 | 溜溜梅上市首周累計飆漲超2倍，市值超100億港元，未來三年將進一步擴展海外市場；智譜周累計漲近91%，GLM-5.2編程能力逼近海外最強，市場共識銷售預期較年初飆升近250%
+- 沃什放鷹，美元「轉折點」來了？
+- 外交官消息：因以色列襲擊黎巴嫩，伊朗推遲與美國的談判
+- 陳立武：英特爾的目標是「5-10年10倍」，押注先進封裝、玻璃基板和人工鑽石
+- 假期讀物 | SpaceX上市、馬斯克成萬億富豪，他的錢到底要往哪兒花？
+- 從Cerebras IPO聊起：AI算力變化、Scaling law的萌芽和百度美研往事
+- 瑞士外交部證實美伊會談已正式取消，日韓股市盤中跳水，納指期貨跌1%，美元指數站上101關口
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 納指收盤大漲1.9%，英特爾、美光科技等多隻芯片股創下歷史新高
-- 美伊臨時協議落地，美軍解除對伊海上封鎖，萬斯稱60天談判期開始、週三夜間超千萬桶油通過海峽
-- 報道：SpaceX IPO後首度發債，籌集至少200億美元
-- 亞馬遜高管證實洽售自研AI芯片 與英偉達爭奪數據中心市場
-- SpaceX投行團隊正籌備至少200億美元的債券發行
-- 「過剩流動性」轉負，美股或迎2021年以來最強逆風
-- 通過《1929》理解當下市場！達利歐與作者索爾金這場精彩對話，幫我們劃出了關鍵點……
-- 萬斯：已有1250萬桶石油通過海峽 60天談判期限今天正式開始
-- 日元匯率創2年新低，干預風險重回市場焦點
-- 報道：亞馬遜洽談向其他公司出售英偉達競品芯片
+- 高盛大砍年末目標價至4900，聯儲局年內減息預期清零
+- 上市一週上漲37%！市銷率高達39倍，SpaceX已比所有標普500成分股「貴」
+- 半導體領漲之後，資金在買 AI 訂單還是宏觀反彈？
+- 油價跌回「伊戰前水平」，市場反應過度了嗎？
+- 對沖7月加息風險！交易員湧入美債期貨，交易量飆升創紀錄
+- 網友提問「中國大模型何時達到Fable級別？」，馬斯克「可能明年Q1」，智譜CEO唐傑「不需要那麼久」
+- 伊朗推遲赴瑞士行程，萬斯取消今日瑞士之行，後續行程待定
+- 成交額TOP20 | 英特爾大漲10%，將攜手蘋果在美設計和生產芯片；SpaceX行情降溫兩連跌，本週仍累漲約15%；亞馬遜洽售自研AI芯片，與英偉達爭奪數據中心市場
+- 美股收盤 | 霍爾木茲海峽重開提振市場，納指收漲近2%；半導體指數單日飆升6.4%，英特爾、美光科技、台積電等多隻芯片股創新高；黃金承壓
+- OPEC駁斥IEA供應過剩預測，認爲石油需求將持續增長
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 富途资讯 (繁中)
 - 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), Benzinga (EN)
+- 美国关税: 富途资讯 (繁中)
+- 加密货币: Benzinga (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
