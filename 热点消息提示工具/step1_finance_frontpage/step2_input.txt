@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026061920
+抓取时间: 2026062209
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - U.S. markets closed
-- Stock market's next leg higher may not come from AI
-- US and Iran call off start of peace talks amid Lebanon clashes
-- Why mortgage rates won't dive back to 6% any time soon
-- US and Iran call off start of peace talks amid Lebanon clashes
-- Why mortgage rates won't dive back to 6% any time soon
-- US tells ASML it's worried China has its hands on top chip tool
-- Goldman axes $500 from gold target as Fed-cut odds fade
-- Stocks slide as Iran nuclear talks hit a snag
-- From job-hugging to job hunting: Half of Americans plan to move on
-- Companies rein in AI use as 'monster' costs strain budgets
-- US stocks log record weekly inflow amid tech fervor
+- US, Iran meet in Switzerland as Trump threat angers Tehran
+- Starmer on the brink with resignation plan expected imminently
+- The Fed's Warsh era clearly has a new vibe
+- Starmer on the brink with resignation plan expected imminently
+- The Fed's Warsh era clearly has a new vibe
+- 'There's a new sheriff in town': Wall Street weighs Warsh's Fed debut
+- Oil keeps flowing through Hormuz despite Iran saying it's shut
+- US stock futures slide with US-Iran peace and inflation in focus
+- Got SpaceX stock? Here's what to do next.
+- Oil glut bets are back in play as crude sinks after US-Iran deal
+- Fed's favorite gauge is seen showing faster inflation
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- AI data centers just got a government-ordered fast lane to the grid
-- Latest AI-related play is a struggling French car parts stock
-- AI is turning Nintendo and Sony consoles into luxury goods
-- China tightens export checks on key AI data center metal indium
+- Here are the practical AI features coming to your iPhone in iOS 27
+- AI's next bottleneck is power: Chart of the Day
+- How Fed Chairman Kevin Warsh just screwed AI tech beasts
+- Anthropic IPO: What to know before you buy the stock
 - Popular
-- Musk says dollars will be replaced by 'mass & energy,'
-- Is the stock market open on Juneteenth?
+- 'Shark Tank' investor Kevin O'Leary says the companies he backs are skipping consultants and going straight to AI
+- Microsoft 1 of the best falling stocks despite Oracle exit
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,64 +42,71 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Trump’s $14.7 Million Lincoln Memorial Pool Renovation Hits Trouble As Paint Peels Into Algae-Tinted Water: Report
-- US Just Tweaked Student Loans— And Auto-Pay Users Could See Up To A 1% Rate Cut
-- US-Iran Talks In Switzerland Postponed As Israel Vows To 'Burn' Lebanon, JD Vance Cancels Trip: 'Not Simple Or Predictable'
-- Elon Musk Says Orbital Computing Unlocks 'Trillion Times' More Scale As Brian Armstrong Calls Earth's 'Excessive Regulation' A Drag On Progress
-- US Treasury Is A 'Giant Ponzi'? Peter Schiff Warns There Is No ‘Easy Fix’ Left For $40 Trillion National Debt
-- Are Stock Markets Open On Juneteenth? Here's What's Open And Closed On June 19
-- Anduril Industries
+- Investors Flee Cathie Wood's ARKK ETF As It Trails S&P 500, Nasdaq 100 By Far
+- Nio Stock Falls to Key Support Level Despite Strong Delivery and Revenue Growth
+- Top Three Reasons Why Tom Lee’s BMNR Stock May Be on the Cusp of a Deeper Dive
+- Rocket Lab Stock Has Dived After SpaceX IPO, But Top Analysts Predict A Rebound
+- Widow Says Remarrying Would Mean Losing A $4,600 A Month Fire Department Pension. Dave Ramsey Says That's The Equivalent Of A $500K Investment
+- US-Iranian Talks in Doubt After Trump Threatens to Take Hormuz, Launch Fresh Strikes Against Iran
+- David Sacks
 - Carnival Stock Rises As Oil Prices Fall After MoU
-- Elon Musk Touts Starlink's Disaster-Proof Connectivity After Telecom Operator Adopts SpaceX Satellites To Prevent Network Blackouts During Hurricanes
+- Bessent Reportedly Warned Trump Against Hosting Zelenskyy Before Explosive White House Meeting: 'Mr Bean On Crack'
 - SpaceX Had The Best IPO In History—Now Comes The Hard Part
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 伊朗：穿越霍尔木兹海峡的船只必须购买强制性保险，目前该保险免费提供，但未来可能会收费
-- 伊朗宣布霍尔木兹海峡通行新规：须提前48小时提交申请
-- 伊朗称提交合规申请的船只可通过霍尔木兹海峡
-- 海事情报公司：伊朗过去五天出口约1800万桶原油
-- 范波王维会见京东集团创始人刘强东
-- 说好“纳税人零出资”，特朗普被曝挪用特勤局资金建宴会厅
-- 霍尔木兹海峡18日商船通行量达4月中旬以来峰值
-- 伊朗因以色列空袭黎巴嫩而推迟了与美国的会谈。伊朗因（以色列）袭击未向瑞士派遣代表团。（英国金融时报）
-- 伊朗革命卫队：准备好给敌人带来惨败
-- 以军称4名军事人员在黎巴嫩南部丧生
-- 伊朗革命卫队：任何侵犯伊朗权利的行为都将招致更强硬的军事回应。
-- 黎真主党：继续在黎南部“抵抗以军侵略”
+- 伊朗外交部：伊美技术谈判将继续进行
+- 伊朗外交部：伊美谈判就解冻伊朗资产等取得良好进展
+- Getty Images与OpenAI达成合作，将授权图库内容引入ChatGPT
+- 美国联邦基金利率期货延续跌势，显示预计美联储9月加息概率为76%。
+- 美国两年期国债收益率升至4.2297%，为2025年2月以来最高水平。
+- 美媒称美伊谈判还在继续，伊朗谈判代表仍在现场
+- 纳斯达克100指数期货跌幅扩大至1.1%。
+- 据伊朗媒体22日报道，伊朗代表团拒绝继续在瑞士与美国进行谈判。（新华社）
+- 华尔街见闻早餐 | 2026年6月22日
+- 以媒：以色列正考虑从黎巴嫩南部“小规模撤军”
+- 提醒：日内请重点关注（以下均为北京时间）
+- 美国外交官：伊朗会谈涉及澄清海峡问题的信息传递，包括在黎巴嫩南部执行停火协议，包括就核协议进行的深入讨论。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 俄罗斯央行将基准利率下调至 14.25%，预估 14.00%，前值 14.50%。
-- 广东：加快建设全国一体化算力网络粤港澳大湾区枢纽，前瞻布局6G技术与卫星互联网
-- 特朗普对LA7表示：意大利总理梅洛尼在七国集团峰会上求我跟她合影。
-- 广东：支持广州期货交易所丰富期货产品体系，完善全期货产业链
-- 广东：多渠道增强省内租赁企业资本实力，大力发展飞机、船舶、专业设备、算力等融资租赁业务
-- 广东：抢抓人工智能发展机遇，建设具有国际竞争力的软件和信息技术服务业创新中心
-- 超百艘满载油轮仍滞留波斯湾 分析称世界油阀并非一键恢复
-- 英国大曼彻斯特市长伯纳姆计划在未来几天与英国首相斯塔默交谈。（彭博）
-- 高盛一篮子欧洲国防股指数一度上涨2%，Renk一度上涨4.5%，Exail一度上涨4.0%，莱茵金属上涨2.9%，Leonardo上涨3.4%，Kongsberg上涨3.2%。
-- 三峡枢纽新通道先行开挖区预计今年10月完成开挖任务
+- 日本首相高市早苗：预计日本央行将采取正确政策，向2%价格目标迈进。
+一直在努力不断提高工资。
+- 日本贸易大臣赤泽亮正：希望通过霍尔木兹海峡的自由运输迅速恢复。
+将竭尽全力维持稳定的能源供应。
+- 日本央行副行长冰见野良三：政策对经济产生影响需要一段时间。
+存在潜在通胀率超过2%通胀目标的风险。
+金融环境将保持宽松。
+延迟加息可能最终会给经济造成压力。
+- 韩国6月份初步数据显示人工智能热潮继续推动出口强劲增长
+- 日经225指数低开0.26%，韩国首尔综指低开1.1%。
+- 中国即将发行或正在发行的地方政府债
+- 中国即将发行或正在发行的国债和政策性金融债
+- 韩国6月出口20天同比 60.4%，前值 64.8%。
+- 韩国6月进口20天同比 23.2%，前值 29.3%。
+- 日本财务大臣片山皋月：现在正处于考虑稀土问题具体措施的阶段。
+对外汇水平不予评论。
+将随时根据需要对外汇采取行动。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- China showcases portable laser weapons for a single soldier to shoot down drones
-- China showcases anti-drone air defences at Paris show as conflict fuels demand
-- Diplomacy
-- More and more Africans want to learn Chinese. But who will teach them?
-- Politics
-- Beijing details rare marine survey east of Taiwan after Tokyo-Manila talks
-- Society
-- ‘Bury me with them’: animal-lovers want same cemetery plots as their pets
+- Nie Huihua on non-Westernness of Chinese government and challenge to innovation
+- Open Questions | AIIB head Zou Jiayi on multilateralism as ‘infrastructure of global trust’
+- Military
+- Red Hawk rising: how the Z-20 helicopter family plugs China’s defence gaps
+- Middle East
+- Iran-US talks to continue after Iranians walked out over Trump threat
+- Hong Kong Economy
+- Hong Kong to roll out measures boosting offshore yuan trading in July
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 3-day defence equipment and tech expo in Beijing features Lijian series of high-energy lasers among displays of drone and anti-drone systems.
-- African nations are adding Chinese to their national curricula, but the roll-out is hampered by a lack of qualified teachers.
-- Move marks mainland China’s latest bid to assert jurisdictional claims in the contested waters following the maritime boundary negotiations.
-- Pet funeral service providers call for change in regulations, citing growing demand for such arrangements amid rapidly expanding market.
-- Why are foreign travellers racing to China for the June Dragon Boat holiday?
-- China EVs
-- Chinese EV makers debut right-hand drive models for Southeast Asian push
-- Chinese brands, including BYD, Jaecoo and Wuling Motors, captured 17.6 per cent of Indonesia’s car market in the first quarter of 2026.
-- Big Tech
-- Zhipu, DeepSeek push China’s trillion-parameter AI frontier amid US clampdown
+- Harvard-trained professor examines the tension between strengthening centralised control and encouraging local enthusiasm.
+- Modern technology has put the multi-role utility helicopter ahead of the original Black Hawk, making it an anchor of the PLA’s new air era.
+- Trump had earlier threatened to strike Iran if it did not ‘immediately stop their highly paid PROXIES in Lebanon from causing trouble’.
+- Government wants more listed firms trading stocks in renminbi and will use city’s hub status to help mainland Chinese firms expand overseas.
+- What signal is China sending with footage of DF-17 hypersonic missile launches?
+- Football
+- World Cup while you were sleeping: Cabo Verde stay unbeaten, Spain simply four-some
+- Cabo Verde grab stunning draw against Uruguay to keep hopes of reaching last 32 alive. Spain thrash Saudi Arabia, and Iran hold Belgium.
+- Banking & Finance
+- Have China home prices hit bottom? Some buyers are hunting bargains
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -131,35 +138,36 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 假期讀物 | 芯片禁運狂熱粉Anthropic，遭遇模型封殺
-- 本週港股牛股 | 溜溜梅上市首周累計飆漲超2倍，市值超100億港元，未來三年將進一步擴展海外市場；智譜周累計漲近91%，GLM-5.2編程能力逼近海外最強，市場共識銷售預期較年初飆升近250%
-- 沃什放鷹，美元「轉折點」來了？
-- 外交官消息：因以色列襲擊黎巴嫩，伊朗推遲與美國的談判
-- 陳立武：英特爾的目標是「5-10年10倍」，押注先進封裝、玻璃基板和人工鑽石
-- 假期讀物 | SpaceX上市、馬斯克成萬億富豪，他的錢到底要往哪兒花？
-- 從Cerebras IPO聊起：AI算力變化、Scaling law的萌芽和百度美研往事
-- 瑞士外交部證實美伊會談已正式取消，日韓股市盤中跳水，納指期貨跌1%，美元指數站上101關口
+- 富途早報 | 美伊談判開局不利，油價反彈超2%；德銀「向沃什投降」：今年將加息50點子；智譜AI發佈GLM-5.2，CEO對前沿模型研發樂觀
+- 特朗普最新威脅激怒德黑蘭，消息人士稱伊朗代表團離開談判地點，拒絕繼續談判
+- Citadel Securities：「猛藥」治通脹，更「主動」的聯儲局反而更好應對
+- 一週前瞻 | 存儲巨頭美光業績登場！英偉達將舉行股東大會；美國PCE物價指數週四公佈
+- 英國政壇地震在即？首相斯塔默或於週一宣佈辭職，英債率先定價政權更迭
+- 爆買1192億美元！美股迎來史無前例資金涌入潮，AI熱潮愈演愈烈
+- 伊朗：瑞士會談爲期一天，黎巴嫩停火將成爲核心議題
+- 聯儲局年內減息無望？高盛大砍黃金目標價，長期多頭轉趨謹慎
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 高盛大砍年末目標價至4900，聯儲局年內減息預期清零
-- 上市一週上漲37%！市銷率高達39倍，SpaceX已比所有標普500成分股「貴」
-- 半導體領漲之後，資金在買 AI 訂單還是宏觀反彈？
-- 油價跌回「伊戰前水平」，市場反應過度了嗎？
-- 對沖7月加息風險！交易員湧入美債期貨，交易量飆升創紀錄
-- 網友提問「中國大模型何時達到Fable級別？」，馬斯克「可能明年Q1」，智譜CEO唐傑「不需要那麼久」
-- 伊朗推遲赴瑞士行程，萬斯取消今日瑞士之行，後續行程待定
-- 成交額TOP20 | 英特爾大漲10%，將攜手蘋果在美設計和生產芯片；SpaceX行情降溫兩連跌，本週仍累漲約15%；亞馬遜洽售自研AI芯片，與英偉達爭奪數據中心市場
-- 美股收盤 | 霍爾木茲海峽重開提振市場，納指收漲近2%；半導體指數單日飆升6.4%，英特爾、美光科技、台積電等多隻芯片股創新高；黃金承壓
-- OPEC駁斥IEA供應過剩預測，認爲石油需求將持續增長
+- GPT-5.6或將下週問世：從「模型」邁向「可執行Agent」，定價或僅爲競品1/3
+- 對霍爾木茲全面復航有信心？OPEC第二大產油國要求油田開足馬力增產
+- 假期讀物 | 觀望的人，或許會錯過人類史上最偉大的投資機遇？霍華德·馬克斯細解當下該如何投資
+- 企業端開始「算力降本」之際，高盛警告5.3萬億AI資本支出正逼近信貸飽和！
+- 「沃什首秀」是「十年一遇的轉折點」？野村：警惕「預防性加息」演變爲「實質性緊縮」
+- 微信AI助手上線？騰訊客服回應
+- 事關霍爾木茲！特朗普最新發聲，美伊技術層面談判週日舉行
+- 伊朗軍方宣佈關閉霍爾木茲海峽
+- 以色列開始對黎巴嫩東部發動空襲
+- 伊朗：不信任美國，正在做兩手準備
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 富途资讯 (繁中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN)
-- 美国关税: 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Benzinga (EN)
 - 加密货币: Benzinga (EN)
+- 就业数据: SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
