@@ -3,30 +3,25 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 30m | Longtime Fed Chairman Greenspan dies at 100 | US stocks muted with peace talk 'progress' in focus | Iran flags 'major progress' after all-night talks with US | US stocks muted with peace talk 'progress' in focus | Iran flags 'major progress' after all-night talks with US | Micron earnings, PCE data, gas prices: What to watch this week | Starmer resigns as UK leader, sending pound near 2026 low
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Why AI's next bottleneck is power | 3 ways Trump could get a stake in AI firms for the US
+  - 头版/首屏: U.S. markets closed | SpaceX's 3-day slide wipes out most IPO gains | US stock futures waver as Wall Street weighs US-Iran talks, AI trade | Amazon Prime Day to spark online spending frenzy | US stock futures waver as Wall Street weighs US-Iran talks, AI trade | Amazon Prime Day to spark online spending frenzy | Student loan borrowers can get a 1% interest rate discount | Key lockup expiry dates loom for SpaceX
+  - 其他: Top Stories | Markets & Economy | Tech & AI | Trump signs executive orders on quantum computing | Qualcomm nears deal for AI chip startup Modular
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Former Fed Chairman Alan Greenspan Dies At 100 | Why Is SanDisk Stock Surging Monday? | MACOM Technology And Corning On CNBC’s ‘Final Trades’ | Wall Street's Most Accurate Analysts Spotlight On 3 Utilities Stocks Delivering High-Dividend Yields | Bitcoin Could Plunge To $54,000, Star Trader Warns—And ETFs Play A Key Role
+  - 其他: My Employer Doesn't Offer a 401(k). What Are My Retirement Savings Options? | SpaceX Stock Drops 16%, Down The Market Capitalization Of Palantir, Robinhood Combined | Elon Musk Net Worth Drops By Market Capitalization Of Uber: Here’s His New Wealth Total | Amazon Ditches Movie About OpenAI Firing Sam Altman: ‘Better Served If It Were Released By A Different Studio’ | Novo Nordisk Stock Is Surging Monday: What's Driving The Action?
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 联合海上信息中心：阿拉伯湾船舶交通流量开始增加。
-霍尔木兹海峡经由阿曼和伊朗航线的交通量开始增加。 | 提醒：美国副总统万斯结束对记者的讲话。 | 美国副总统万斯：我们已为黎巴嫩设立了一个冲突降级机制。
-该机制旨在遏制黎巴嫩冲突。黎巴嫩相关谈判已看到成果。
-希望黎巴嫩的主权得到尊重。希望以色列的安全得到保障。
-昨天我们一直与以色列方面保持联系。
-美国并未将协议强加于该地区。
-特朗普仍然 | 美国副总统万斯：昨天是会谈的好日子。霍尔木兹海峡已开放。
-与伊朗的会谈非常顺利，取得很大进展。
-我们建立了一个保持霍尔木兹海峡开放的机制。
-伊朗已同意邀请核视察人员。技术讨论将继续进行。
-我即将回美国。技术团队将继续工作。仍有大量工作要做。 | Arcosa美股盘前涨近10%，据报道，CRH将以每股150美元的全现金交易收购Arcosa。 | Apogee Therapeutics美股盘前一度涨超55%，据报道艾伯维将以每股135.11美元现金收购Apogee Therapeutics。 | 王毅会见伊朗最高国家安全委员会副秘书内扎米普尔 | 刘强东：将来都是机器人送货了，但是我并不希望我们70万兄弟没有饭吃、没有工作
-  - 其他: 日本本轮核污染水排放量近8000吨 | 荣耀X80 Pro Max发布 售价1999元起 | 【万斯：伊朗已同意邀请国际原子能机构核查人员】美国副总统万斯22日说，伊朗已同意邀请国际原子能机构核查人员返回伊朗，“这对美国来说是一个重大里程碑”。万斯称，伊朗同意邀请国际原子能机构核查人员是“伊朗永久去核化或永久终止核武器计划的第一步” | 万斯称已建立协调机制 防止中东局势升级 | 海天味业：拟以10亿元至20亿元自有资金回购公司股份
+  - 头版/首屏: 日本财务大臣片山皋月：与贝森特就七国集团会议进行了后续谈话。
+美国和日本在外汇政策上越来越趋于一致。
+通话将近一个小时。 | 日本财务大臣片山皋月：周一已与美国财长贝森特通话。
+重申美日有关外汇的协议。
+通话还提及霍尔木兹海峡和伊朗。 | 联合国粮农组织：新一轮厄尔尼诺现象威胁全球多地农业 | 加拿大推出首部国家级核能战略 | 郭明錤：联发科赢得谷歌升级版TPU芯片订单 | 华尔街见闻早餐 | 2026年6月23日 | 报道：韩国总统李在明将与三星讨论区域投资计划 | 伊朗副外长披露伊美谈判后续技术层面磋商机制
+  - 其他: SpaceX收跌16%，市值蒸发4000亿美元。
+该公司股价已经连续三个交易日下跌，市值合计蒸发超过6000亿美元。 | 中概指数收跌超1.3%，KWEB跌超0.7%，金山云、世纪互联、阿里至少跌约2%，日月光半导体涨超7.5% | 纳指收跌超1.3%，半导体指数涨2%、与银行指数、小盘股指创收盘历史新高 | 特朗普：伊朗被冻结资金将用于购买美国农产品，必要时可重新封锁海峡 | 辉瑞实验性肺癌药物未能延长患者生存期
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Dishing the dirt: official media alleges smear tactics in delivery battle | Meituan reports third consecutive quarterly loss amid rivalry in food delivery | Military | Japan’s latest live-fire drill is about offence, not defence: PLA Daily | Banking & Finance | The panda bonds: how China uses assets to boost yuan, cement partnerships | Transport | Chinese ride-hailing giants back Hong Kong plan to cap permits at 10,000
-  - 其他: Chinese media investigation alleges Meituan paid merchants to expose rival practices while facing similar complaints itself. | Tokyo’s forces will become ‘more offensive, more dangerous and more oriented towards actual combat’, Chinese military mouthpiece says. | Brazil is preparing to issue panda bonds, another indicator of the rising popularity of yuan-denominated assets amid a de-dollarisation trend. | Amap, Didi Chuxing support government’s proposed cap as part of new regulatory regime scheduled to be passed by lawmakers in July. | A phone away from home: China urged to provide rental handsets to aid tourists
+  - 头版/首屏: Japan’s defence outreach to counter China in the region hits hidden roadblocks | Japan, South Korea not for nuclear weapons: until one of them changes policy | Diplomacy | US-China rare earth truce tested as tensions rise | Will US-India tensions hurt Quad’s critical mineral ambitions? | Hong Kong Economy | Exclusive | Competing for tourists? Then Hong Kong must be ‘bigger and better’: Rosanna Law | As Europe rearms, can it decouple its military  supply chains from China?
+  - 其他: Tokyo’s approach combines security, economic and diplomatic tools to show regional nations an alternative to the China-US dilemma. | Analysts warn of more trouble ahead after China adds 10 US firms to the export control list and restricts 46 from government procurement. | Washington-New Delhi strains test bloc’s cohesion, but concerns over Beijing may keep critical minerals plans on track. | ‘If Hong Kong hopes that our neighbouring cities or competitors can stand still … I think that is unrealistic,’ tourism minister says. | Banking & Finance
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 内地零售销售自疫情后首现倒退，内需股普遍下挫 | 特斯拉需求扩张带动 LG南京电池厂满载运转 | 以未停袭黎巴嫩 美倘施压亦拒撤军 | 沃什首秀“心气”高，市场迎“无导航”时代 | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -38,31 +33,31 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 存儲成爲AI負擔，這對投資意味着什麼？ | 芯片、開源模型與50萬億，蔡崇信再度復盤阿里 | 美國副總統萬斯：與伊朗的談判非常順利，取得了很多積極進展。我們建立了一個保持霍爾木茲海峽開放的機制。 | 智譜衝上萬億，市場在爲什麼買單？ | 中美AI對弈之下的算力難題 | 27年王者讓位：SK海力士市值盤中首超三星，一場AI驅動的韓國芯片權力重構 | 伊朗談判團隊稱伊美談判達成5項要點 | 聯儲局轉鷹、華爾街紛紛投降，花旗成「最後的倔強」：堅持10月重啓減息
-  - 其他: 北水拋售港股超58億港元，建滔集團、建滔積層板分別獲淨買入逾33億、14億港元；阿里巴巴、騰訊控股遭減倉逾11億港元 | 三星電子舉行全球戰略會議，擬擴大HBM銷售、推進長期供貨協議策略 | 兩倍海力士ETF再度鬆綁期權上限，「急速膨脹」後期權替代工具漸顯「雙刃劍」 | 閃迪新專利曝光：處理器直接鍵合NAND閃存芯片，HBM退居輔助角色 | 伊朗外長：美伊新一輪磋商已取得明顯進展
+  - 头版/首屏: 富途早報 | 爲期60天！美國暫時解除對伊朗石油制裁；費城半導體指數創新高，美光股價首次站上1200美元；SpaceX跌超16%，擊穿IPO首日收盤價 | 美光與Anthropic達成協議，鎖定內存長期供應 | 美暫解對伊石油制裁，以強硬表態攪局，60天談判路線圖存變數 | 「AI顛覆一切」殺向美國就業市場! 甲骨文裁員超2萬人，AI算力預算加速替代人力 | 特朗普政府加碼量子戰略！設定2028年科研級量子計算機突破目標 | 率先量產之後僅4個月，三星的HBM4收入已突破10億美元 | SpaceX跌超16%，跌穿IPO首日收盤價！宣佈發債後”三連跌“，市值蒸發超6000億美元 | 成交額TOP20 | SpaceX重挫16%，股價跌破首日收盤價；依舊存爲王！美光漲近7%，閃迪漲超4%，持續刷新高；谷歌收跌5%，此前AI負責人Jumper離職
+  - 其他: 美股收盤 | 科技股走弱打壓納指收跌超1%；光通信概念走強，LITE漲超5%，康寧漲超7%；生物技術公司APGE飆升46%，獲艾伯維大幅溢價收購 | 特朗普政府啓動弗吉尼亞近海海底關鍵礦產開採審查，或開創外大陸架先例 | 多家大行上調聯儲局加息預期，RBC：美股可承受未來12個月內兩次適度加息 | 算力不再稀缺？AI服務器租賃成本走低，日本推出前沿級"編排"新模型 | AI重塑拍電影！Google DeepMind投資電影製片廠A24
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
 - **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 富途资讯 (繁中) (2 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
+- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **就业/经济数据** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
 - **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
+- **美联储/利率** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
 - 伊朗/中东局势（4 站）
-- 美联储/利率（3 站）
-- 中国/欧盟（3 站）
-- 关税/贸易政策（2 站）
-- 油价/能源（2 站）
-- 加密货币（2 站）
+- 油价/能源（3 站）
+- 加密货币（3 站）
+- 就业/经济数据（2 站）
 - 黄金/大宗商品（2 站）
-- 就业/经济数据（1 站）
+- 美联储/利率（2 站）
+- 中国/欧盟（2 站）
+- 关税/贸易政策（1 站）
 - 中国政策（1 站）
