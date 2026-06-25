@@ -3,26 +3,27 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 31m | Big Tech's $2.7 trillion AI bill is finally coming due | Nasdaq eyes rebound from tech rout in wait for Micron | Alphabet to replace Verizon in Dow Jones reshuffle | Nasdaq eyes rebound from tech rout in wait for Micron | Alphabet to replace Verizon in Dow Jones reshuffle | SK Hynix looks to raise $29B in new Nasdaq listing | Micron earnings take on new gravity amid AI jitters
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Cerebras sinks 14% as debut earnings show AI chip lag | Saylor's best bet may be to halt Strategy's bitcoin buying spree
+  - 头版/首屏: U.S. markets closed | Micron's blowout earnings just reset the AI memory trade | Trump abruptly halts housing affordability legislation | AI's brutal toll on the job market is on the way: Cloudflare CEO | Trump abruptly halts housing affordability legislation | AI's brutal toll on the job market is on the way: Cloudflare CEO | Here's how former baseball star Alex Rodriguez is investing | Hormuz reopening is quickly flooding oil markets with supply
+  - 其他: Top Stories | Markets & Economy | Tech & AI | Anthropic accuses Alibaba of obtaining ‘illicit’ access to Claude | Qualcomm jumps as it looks beyond smartphones to cash in on the AI boom
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: FuelCell Energy Stock Jumps After Securing 380 MW Agreement With Fit Energy For Data Centers | What's Going On With Super Micro Computer Stock Wednesday? | How To Earn $500 A Month From Worthington Steel Stock Ahead Of Q4 Earnings | Apple, Citizens Financial, Travelers And A Financial Stock On CNBC’s ‘Final Trades’ | Cerebras Shares Slide After Company Reports Q1 Double Beat, Multiple Deals
+  - 其他: I've Never Calculated My Net Worth. Would Dave Ramsey Say That's Holding Me Back? | Tesla Rival Going Public Via SPAC, Armed With Investments From Nvidia, Amazon | Bitcoin Plunges Below $60,000, Ethereum, XRP, Dogecoin Lose 3% In Brutal Crypto Sell-Off | Qualcomm Stock Soars After The Close: Here's Why | Standard Chartered Says Forget Bitcoin, ETH Because AAVE Can Do A 50X By 2030
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 贝森特称如果301关税推进 关税收入只会略有下降 | 美国财长贝森特：不确定今年能否在赤字问题上取得进展。 | 美国财长贝森特：降息阶段，美元仍然可以表现坚挺。
-我们热衷于采取行动让美元坚挺。
-预计今年剩余时间经济将加速增长，同时不会推高通胀。
-我赞赏沃什取消前瞻指引。
-认为实际工资增长将恢复到4月之前的节奏。
-2月时曾认为通胀到夏中会接近2%。
-过 | 特朗普：美国将释放部分伊朗资金 伊朗承诺不对霍尔木兹海峡船只收费 | 跨境TRS新增规模被叫停，私募紧急应对，海外科技投资或受影响 | 美国6月19日当周MBA抵押贷款申请活动指数周环比 1%，前值 -3.8%。 | 伊朗外交部：暂无允许国际原子能机构检查核设施的计划 | 巴方称伊美谅解备忘录谈判未涉及弹道导弹议题
-  - 其他: 现货白银日内跌幅达2.0%，报60.25美元/盎司。 | 阿曼：霍尔木兹航线遵循国际海事组织（IMO）的协调安排。 | 报告：88%的受访企业表示已将代理式AI融入系统之中 | 我国注册船员总数超208万人 | 摩尔线程亮相MWC上海 展示全栈具身智能仿真平台
+  - 头版/首屏: 特朗普称可能永远无法查明是谁袭击了伊朗小学 | 花旗集团将季度股息提高12%，至每股0.67美元。
+花旗将继续推进300亿美元的股票回购计划。 | 华尔街见闻早餐 | 2026年6月25日 | 据美国USGS：委内瑞拉Moron西南方向16公里发生7.5级地震。 | 三星电子首尔盘前在NexTrade涨7.8%，SK海力士涨6.7%。 | 黄仁勋股东大会放言：本轮AI基建周期长达数十年 | 迄今最大规模：美国得州一农场确诊4例螺旋蝇病例 | 海啸预警中心：海浪可能会冲击到委内瑞拉沿海。
+  - 其他: 美国总统特朗普：北约秘书长吕特做得不错。
+我往往会与吕特取得进展。
+对德国、法国、西班牙感到失望。 | 拉美外汇触及两周低点，美元走强与大宗商品施压股市 | 高通CFO：营收与每股收益（EPS）将在未来按更快的速度增长。 | 周三（6月24日），美股行业ETF多数收涨，全球航空业ETF涨4.17%，生物科技指数ETF、区域银行ETF、可选消费ETF、公用事业ETF至多涨1.93%，半导体ETF则收跌0.35%，科技行业ETF跌0.62%，能源业ETF跌1.63% | 摩根大通将提高股息至每股1.65美元，打算回购500亿美元股票。
+摩根士丹利将股息从1美元提高至1.15美元。
+富国银行有意将股票分红提高11%，至0.50美元。
+高盛计划提高股息至5美元，之前为4.50美元。
+First Merchant
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: China’s Xi joins leadership blitz of hub visits in pre-GDP fact-finding push | ‘China Opportunity 2.0’: Li Qiang pitches alternative narrative at Summer Davos | Global Economy | Exclusive | Dutch semiconductor giants join delegation to China as US pushes curbs: source | Military | China targets face of international space cooperation in corruption crackdown | Society | Reducing fire risk to zero would cost huge amount, Tai Po blaze inquiry hears
-  - 其他: The president, premier and vice-premiers blanket agricultural and tech centres to gauge local strains and industrial progress before key July policy summit. | The Netherlands has protested Washington’s proposed Match Act, which would further curtail its semiconductor firms’ business in China. | Senior defence industry official Bian Zhigang put under investigation for ‘serious violations of discipline and law’. | Mandating that only incombustible materials be used for renovation work at estates is unrealistic and would drive up project costs, committee told. | New poll shows eroding global trust in Trump and America
+  - 头版/首屏: Why the Vietnam ‘detour’ for US-bound Chinese goods hit a dead end | What fuels global trade imbalances: China’s overcapacity or US failure to adapt? | Global Economy | ‘Dangerous moment’: Academic calls for US expulsion from WTO over protectionism | Diplomacy | US delegation snubs Apec meeting in Macau due to China visa requirements row | Politics | Exclusive | ‘No limits’ to accountability over Tai Po fire, security chief Chris Tang says
+  - 其他: Is finding another Hanoi haven possible, or would trying be a fool’s errand for Chinese firms looking to get the jump on Trump and evade tariffs? | Even as US trade policy fractures the global system, China faces ‘credibility problem’ in trade leadership over its own practices. | Washington not sending ‘high-level participants’ to tourism ministerial summit after alleged ‘arbitrary and targeted’ behaviour towards US. | Secretary for security says committee investigating blaze will deliver results in a timely manner and commission of inquiry not needed. | Dutch semiconductor giants join delegation to China as US pushes curbs: source
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 内地零售销售自疫情后首现倒退，内需股普遍下挫 | 内地全链条扩汽车消费 40城试办改革 | 美伊设解级机制 缓黎巴嫩冲突 | 世茂法拍盘 VS 王石陷网暴 | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -34,31 +35,31 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 軟銀創始人孫正義演講：Arm估值空間巨大，英特爾投資價值重估；軟銀已量產機器人，叫板馬斯克稱太空數據中心沒價值 | 蘋果摺疊屏iPhone量產倒計時：鉸鏈隱患據稱已化解，9月發佈或如期推進 | 美光業績前瞻：AI存儲龍頭今夜迎大考，能否成科技股多頭「定心丸」？ | 安永：上半年全球IPO強勁復甦，納斯達克和港交所籌資分居前兩位 | 報道：三星或宣佈90萬億韓元股票回購計劃，用於支付員工獎金 | 霍爾木茲海峽「解封」引爆超級油輪荒，波斯灣VLCC運費飆升至基準9倍 | 日本央行行長病後首發聲：將適時再加息，通脹超標風險存在 | 北水掃貨港股逾157億港元，建滔集團、建滔積層板分別獲淨買入逾28億、20億港元，阿里巴巴遭淨賣出超9億港元
-  - 其他: 三星將HBM產能一半轉向HBM4，8層HBM3E暫停生產 | 槓桿ETF成韓國股市波動「放大器」！60億美元機械性拋盤砸懵市場 | 一線廠商：超過一半的企業現在用AI的方法是錯的，記憶將成各大模型「護城河」 | SK海力士擬赴美融資290億美元，相關交易最快下個月啓動 | 收市速睇 | 三大指數齊漲，科指漲1.81%；半導體、生物醫藥股走高，華虹宏力漲超15%，金斯瑞生物科技漲超11%；存儲概念股全線上漲，南方兩倍做多三星電子漲超16%，南方兩倍做多海力士漲超7%
+  - 头版/首屏: 富途早報 | 美光業績大超預期！AI板塊信心大振；韓國綜合指數早盤大漲，SK海力士反彈10%；高盛認爲中國居民配置股票比例仍較低 | 美光季報炸裂！營收增加超三倍、淨利增加近14倍，料AI儲存供應緊張持續至2027年後 | 英偉達、SpaceX帶頭發鉅債，美國投資級債券發行量6月創紀錄 | 手握千億美元保底長單！美光CEO：內存已成AI時代戰略資產，機器人或催生下一個超級週期 | 聯儲局壓力測試32家銀行全過關，合計扛住7080億美元損失，華爾街派息回購潮來了 | 黃仁勳英偉達股東大會釋放重磅信號：AI工廠時代來臨，智能體重塑計算格局 | 韓國KOSPI指數日內漲超5%，SK海力士漲近11%；KOSPI 200期貨熔斷 | 高通全面進軍AI數據中心：Meta簽多代CPU大單、微軟部署HBC芯片，料到2029年業務收入150億
+  - 其他: 美股收盤 | 科技股承壓，三大指數漲跌互現；WTI原油跌破70美元/桶，航空股普漲，美國航空漲超8%；黃金暴跌，失守4000美元關口 | 成交額TOP20 | 谷歌再失兩名AI研究員，Gemini 3.5 Pro或推遲發佈；英偉達舉行年度股東大會；Meta、微軟數百億美元加碼數據中心佈局 | 特朗普回應拒籤住房法案：比任何人都懂房地產 減息才是關鍵 | 聯儲局壓力測試：32家銀行可承受7080億美元損失，但結果不再影響資本要求 | 高通稱目標2027財年數據中心收入達到50億美元
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
 - **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **美联储/利率** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
-- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中) (1 站)
-- **油价/能源/霍尔木兹** — 出现于: 华尔街见闻 (简中) (1 站)
-- **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
+- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **就业/经济数据** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **美国关税（15%等）** — 出现于: SCMP (EN/中) (1 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 关税/贸易政策（3 站）
+- 油价/能源（4 站）
+- 中国/欧盟（4 站）
 - 加密货币（3 站）
-- 黄金/大宗商品（3 站）
-- 中国/欧盟（3 站）
+- 伊朗/中东局势（2 站）
+- 就业/经济数据（2 站）
+- 黄金/大宗商品（2 站）
 - 美联储/利率（2 站）
-- 中国政策（2 站）
-- 伊朗/中东局势（1 站）
-- 油价/能源（1 站）
-- 就业/经济数据（1 站）
+- 关税/贸易政策（1 站）
+- 中国政策（1 站）

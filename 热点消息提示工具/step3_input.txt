@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年6月24日`
+`早间热点线索 · 2026年6月25日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -104,30 +104,30 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026062420
+抓取时间: 2026062509
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 31m
-- Big Tech's $2.7 trillion AI bill is finally coming due
-- Nasdaq eyes rebound from tech rout in wait for Micron
-- Alphabet to replace Verizon in Dow Jones reshuffle
-- Nasdaq eyes rebound from tech rout in wait for Micron
-- Alphabet to replace Verizon in Dow Jones reshuffle
-- SK Hynix looks to raise $29B in new Nasdaq listing
-- Micron earnings take on new gravity amid AI jitters
-- The debasement trade is unraveling — and Kevin Warsh is one big reason
-- Bessent: Inflation will fall, and AI could 'at least double' productivity
-- Venezuela embarks on the world's largest restructuring ever
-- Young job seekers might want to swap New York City for the South
+- U.S. markets closed
+- Micron's blowout earnings just reset the AI memory trade
+- Trump abruptly halts housing affordability legislation
+- AI's brutal toll on the job market is on the way: Cloudflare CEO
+- Trump abruptly halts housing affordability legislation
+- AI's brutal toll on the job market is on the way: Cloudflare CEO
+- Here's how former baseball star Alex Rodriguez is investing
+- Hormuz reopening is quickly flooding oil markets with supply
+- US stock futures rise as Micron, Qualcomm ease AI jitters
+- Fed stress test shows big banks can withstand severe recession
+- Bitcoin slides below $60,000 as sell-off deepens
+- Wendy's stock soars in new meme rally after viral Reddit post
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- Cerebras sinks 14% as debut earnings show AI chip lag
-- Saylor's best bet may be to halt Strategy's bitcoin buying spree
-- Talk of a bubble is 'blasphemy against AI' says SoftBank's Son
-- How SK Hynix's bet on a niche chip made it more valuable than Samsung
+- Anthropic accuses Alibaba of obtaining ‘illicit’ access to Claude
+- Qualcomm jumps as it looks beyond smartphones to cash in on the AI boom
+- Google poised to lose 2 more high-profile AI staffers to Anthropic
+- SpaceX stock slips as it announces $25 billion bond offering
 - Popular
 - Gates told Congress that Epstein considered blackmail over affairs
 - Prime Day is underway: Here are all the ways you can save
@@ -145,70 +145,74 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- FuelCell Energy Stock Jumps After Securing 380 MW Agreement With Fit Energy For Data Centers
-- What's Going On With Super Micro Computer Stock Wednesday?
-- How To Earn $500 A Month From Worthington Steel Stock Ahead Of Q4 Earnings
-- Apple, Citizens Financial, Travelers And A Financial Stock On CNBC’s ‘Final Trades’
-- Cerebras Shares Slide After Company Reports Q1 Double Beat, Multiple Deals
-- Stock Market Today: Dow Jones Futures Slip, S&P 500 Gains As Trump Targets Energy Firms Overcharging At The Pump—FedEx, Cerebras, Micron In Focus
+- I've Never Calculated My Net Worth. Would Dave Ramsey Say That's Holding Me Back?
+- Tesla Rival Going Public Via SPAC, Armed With Investments From Nvidia, Amazon
+- Bitcoin Plunges Below $60,000, Ethereum, XRP, Dogecoin Lose 3% In Brutal Crypto Sell-Off
+- Qualcomm Stock Soars After The Close: Here's Why
+- Standard Chartered Says Forget Bitcoin, ETH Because AAVE Can Do A 50X By 2030
+- Micron Delivers Another Blowout Quarter, Raises Guidance On 'Rapidly Growing' Demand
 - Semiconductor Stocks
-- David Sacks
-- Anduril Industries
-- Forget The Magnificent 7 And MANGOS—Billionaire Philippe Laffont Adds These Two 'Non-Tech' Giants To His New 'Mag 12'
+- S&P 500 Rebounds Ahead Of Micron Test, Oil Drops To $70: Stock Market Today
+- Darden Q4 Preview: Inflation Gauge? Expert Says Olive Garden Parent ‘Great Barometer On The Middle-Income Consumer’
+- Stock Of The Day: Is American Airlines Breaking Out?
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 贝森特称如果301关税推进 关税收入只会略有下降
-- 美国财长贝森特：不确定今年能否在赤字问题上取得进展。
-- 美国财长贝森特：降息阶段，美元仍然可以表现坚挺。
-我们热衷于采取行动让美元坚挺。
-预计今年剩余时间经济将加速增长，同时不会推高通胀。
-我赞赏沃什取消前瞻指引。
-认为实际工资增长将恢复到4月之前的节奏。
-2月时曾认为通胀到夏中会接近2%。
-过
-- 特朗普：美国将释放部分伊朗资金 伊朗承诺不对霍尔木兹海峡船只收费
-- 跨境TRS新增规模被叫停，私募紧急应对，海外科技投资或受影响
-- 美国6月19日当周MBA抵押贷款申请活动指数周环比 1%，前值 -3.8%。
-- 伊朗外交部：暂无允许国际原子能机构检查核设施的计划
-- 巴方称伊美谅解备忘录谈判未涉及弹道导弹议题
-- 美国国务卿卢比奥与阿联酋总统讨论伊朗谅解备忘录、国防和商务事宜。（彭博）
-- SK海力士申请美国IPO
-- CryptoQuant：当“购币永动机”失速 Strategy或许该考虑踩刹车了
-- 打包出售灵犀互娱？阿里巴巴方面暂无回应
+- 特朗普称可能永远无法查明是谁袭击了伊朗小学
+- 花旗集团将季度股息提高12%，至每股0.67美元。
+花旗将继续推进300亿美元的股票回购计划。
+- 华尔街见闻早餐 | 2026年6月25日
+- 据美国USGS：委内瑞拉Moron西南方向16公里发生7.5级地震。
+- 三星电子首尔盘前在NexTrade涨7.8%，SK海力士涨6.7%。
+- 黄仁勋股东大会放言：本轮AI基建周期长达数十年
+- 迄今最大规模：美国得州一农场确诊4例螺旋蝇病例
+- 海啸预警中心：海浪可能会冲击到委内瑞拉沿海。
+- 阿里巴巴证实：已起诉美国防部
+- 德国大众汽车将所持Everllence 51%的股份转让给贝恩资本。
+- 科特迪瓦从国际货币基金组织（IMF）解锁8.328亿美元资金支持，此前IMF完成了对该国的（财政健康状况）评估。
+- Natera股价上涨，日本批准其癌症检测产品
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 现货白银日内跌幅达2.0%，报60.25美元/盎司。
-- 阿曼：霍尔木兹航线遵循国际海事组织（IMO）的协调安排。
-- 报告：88%的受访企业表示已将代理式AI融入系统之中
-- 我国注册船员总数超208万人
-- 摩尔线程亮相MWC上海 展示全栈具身智能仿真平台
-- 南华期货：拟制定回购总金额不超过港币1.3亿元的H股回购方案。
-- 亿纬锂能：截至本公告披露日，公司全资孙公司EBIL收到参股公司思摩尔国际现金分红款3.75亿港币。
-- 金价下跌有人观望有人出手 金价跳水婚庆类订单升温
-- 中国央行：6月25日将开展5000亿元MLF操作
-- 中芯国际：发行股份购买中芯北方49%股权实施完成，新增股份5.47亿股上市
+- 美国总统特朗普：北约秘书长吕特做得不错。
+我往往会与吕特取得进展。
+对德国、法国、西班牙感到失望。
+- 拉美外汇触及两周低点，美元走强与大宗商品施压股市
+- 高通CFO：营收与每股收益（EPS）将在未来按更快的速度增长。
+- 周三（6月24日），美股行业ETF多数收涨，全球航空业ETF涨4.17%，生物科技指数ETF、区域银行ETF、可选消费ETF、公用事业ETF至多涨1.93%，半导体ETF则收跌0.35%，科技行业ETF跌0.62%，能源业ETF跌1.63%
+- 摩根大通将提高股息至每股1.65美元，打算回购500亿美元股票。
+摩根士丹利将股息从1美元提高至1.15美元。
+富国银行有意将股票分红提高11%，至0.50美元。
+高盛计划提高股息至5美元，之前为4.50美元。
+First Merchant
+- Hertz Global（HTZ）股价下跌41%，创该公司美国IPO以来最大单日跌幅。
+- AI初创公司Mirendil按10亿美元估值融资2亿美元，英伟达、A16Z、Kleiner Perkins参与投资。（华尔街日报）
+- 美光科技第三财季调整后营收414.6亿美元，分析师预期356.9亿美元。
+第三财季核心数据中心营收115.2亿美元，分析师预期68亿美元。
+第三财季云存储营收137.7亿美元，分析师预期106.9亿美元。
+第三财季移动与客户营收115.2亿
+- 32家银行全部通过美联储年度压力测试，为派息和回购铺平道路
+- 中概指数收跌将近1.8%，KWEB跌约0.8%，金山云跌4%，阿里跌超2.7%，日月光半导体涨超2.9%
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- China’s Xi joins leadership blitz of hub visits in pre-GDP fact-finding push
-- ‘China Opportunity 2.0’: Li Qiang pitches alternative narrative at Summer Davos
+- Why the Vietnam ‘detour’ for US-bound Chinese goods hit a dead end
+- What fuels global trade imbalances: China’s overcapacity or US failure to adapt?
 - Global Economy
-- Exclusive | Dutch semiconductor giants join delegation to China as US pushes curbs: source
-- Military
-- China targets face of international space cooperation in corruption crackdown
-- Society
-- Reducing fire risk to zero would cost huge amount, Tai Po blaze inquiry hears
+- ‘Dangerous moment’: Academic calls for US expulsion from WTO over protectionism
+- Diplomacy
+- US delegation snubs Apec meeting in Macau due to China visa requirements row
+- Politics
+- Exclusive | ‘No limits’ to accountability over Tai Po fire, security chief Chris Tang says
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- The president, premier and vice-premiers blanket agricultural and tech centres to gauge local strains and industrial progress before key July policy summit.
-- The Netherlands has protested Washington’s proposed Match Act, which would further curtail its semiconductor firms’ business in China.
-- Senior defence industry official Bian Zhigang put under investigation for ‘serious violations of discipline and law’.
-- Mandating that only incombustible materials be used for renovation work at estates is unrealistic and would drive up project costs, committee told.
-- New poll shows eroding global trust in Trump and America
-- Science
-- Drowning desert: how Xinjiang’s infrastructure could fail under record rain
-- Unprecedented downpours prompt warning that links and systems adapted to an arid past may struggle to cope with a wetter future.
-- China EVs
-- Chinese car sales accelerate in Europe as Brussels weighs putting on the brakes
+- Is finding another Hanoi haven possible, or would trying be a fool’s errand for Chinese firms looking to get the jump on Trump and evade tariffs?
+- Even as US trade policy fractures the global system, China faces ‘credibility problem’ in trade leadership over its own practices.
+- Washington not sending ‘high-level participants’ to tourism ministerial summit after alleged ‘arbitrary and targeted’ behaviour towards US.
+- Secretary for security says committee investigating blaze will deliver results in a timely manner and commission of inquiry not needed.
+- Dutch semiconductor giants join delegation to China as US pushes curbs: source
+- Economics
+- Asian airfares look set to fall as jet fuel prices ease on US-Iran deal
+- Budget carriers will lead the charge but the pace is likely to be gradual as airlines wait for more clarity on the Iran war, experts say.
+- Health & Environment
+- Exclusive | Hong Kong to reform Medical Council to improve handling of complaints
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -240,37 +244,37 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 軟銀創始人孫正義演講：Arm估值空間巨大，英特爾投資價值重估；軟銀已量產機器人，叫板馬斯克稱太空數據中心沒價值
-- 蘋果摺疊屏iPhone量產倒計時：鉸鏈隱患據稱已化解，9月發佈或如期推進
-- 美光業績前瞻：AI存儲龍頭今夜迎大考，能否成科技股多頭「定心丸」？
-- 安永：上半年全球IPO強勁復甦，納斯達克和港交所籌資分居前兩位
-- 報道：三星或宣佈90萬億韓元股票回購計劃，用於支付員工獎金
-- 霍爾木茲海峽「解封」引爆超級油輪荒，波斯灣VLCC運費飆升至基準9倍
-- 日本央行行長病後首發聲：將適時再加息，通脹超標風險存在
-- 北水掃貨港股逾157億港元，建滔集團、建滔積層板分別獲淨買入逾28億、20億港元，阿里巴巴遭淨賣出超9億港元
+- 富途早報 | 美光業績大超預期！AI板塊信心大振；韓國綜合指數早盤大漲，SK海力士反彈10%；高盛認爲中國居民配置股票比例仍較低
+- 美光季報炸裂！營收增加超三倍、淨利增加近14倍，料AI儲存供應緊張持續至2027年後
+- 英偉達、SpaceX帶頭發鉅債，美國投資級債券發行量6月創紀錄
+- 手握千億美元保底長單！美光CEO：內存已成AI時代戰略資產，機器人或催生下一個超級週期
+- 聯儲局壓力測試32家銀行全過關，合計扛住7080億美元損失，華爾街派息回購潮來了
+- 黃仁勳英偉達股東大會釋放重磅信號：AI工廠時代來臨，智能體重塑計算格局
+- 韓國KOSPI指數日內漲超5%，SK海力士漲近11%；KOSPI 200期貨熔斷
+- 高通全面進軍AI數據中心：Meta簽多代CPU大單、微軟部署HBC芯片，料到2029年業務收入150億
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 三星將HBM產能一半轉向HBM4，8層HBM3E暫停生產
-- 槓桿ETF成韓國股市波動「放大器」！60億美元機械性拋盤砸懵市場
-- 一線廠商：超過一半的企業現在用AI的方法是錯的，記憶將成各大模型「護城河」
-- SK海力士擬赴美融資290億美元，相關交易最快下個月啓動
-- 收市速睇 | 三大指數齊漲，科指漲1.81%；半導體、生物醫藥股走高，華虹宏力漲超15%，金斯瑞生物科技漲超11%；存儲概念股全線上漲，南方兩倍做多三星電子漲超16%，南方兩倍做多海力士漲超7%
-- 軟銀「算電協同」戰略補上日本拼圖：尋求入股東京電力，深化對沖AI「能源焦慮」
-- SK海力士尋求7月10日開始美國存託憑證（ADR）交易，定價爲每股25.5萬韓元
-- 巴基斯坦外交部：美伊技術性談判將於本月30日恢復
-- 新超級週期？大摩：MLCC正從「大宗商品」，變成「戰略資源」
-- 路透：高通正與字節跳動洽談提供定製芯片設計服務
+- 美股收盤 | 科技股承壓，三大指數漲跌互現；WTI原油跌破70美元/桶，航空股普漲，美國航空漲超8%；黃金暴跌，失守4000美元關口
+- 成交額TOP20 | 谷歌再失兩名AI研究員，Gemini 3.5 Pro或推遲發佈；英偉達舉行年度股東大會；Meta、微軟數百億美元加碼數據中心佈局
+- 特朗普回應拒籤住房法案：比任何人都懂房地產 減息才是關鍵
+- 聯儲局壓力測試：32家銀行可承受7080億美元損失，但結果不再影響資本要求
+- 高通稱目標2027財年數據中心收入達到50億美元
+- 美光科技2026財年Q3營收414.6億美元，調整後EPS 25.11美元，毛利率84.9%
+- 美股三大指數收盤漲跌不一，道指漲0.36%，納指跌0.43%，標普500指數跌0.09%。芯片股繼續回調，西部數據、希捷科技跌超4%，高通跌超3%，閃迪跌超2%，ARM、恩智浦跌超1%，美光科技跌0.31%，英偉達跌0.52%。
+- 谷歌AI人才外流壓力加劇：再失兩名核心研究員轉投Anthropic
+- 英偉達股東會摘要：黃仁勳豪言AI投資回報率的問題「已有答案」
+- 高通斥資近40億美元收購Modular 加速轉向AI軟件與數據中心
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 加密货币: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Benzinga (EN), 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 伊朗/中东: 华尔街见闻 (简中)
-- 油价/霍尔木兹: 华尔街见闻 (简中)
-- 就业数据: SCMP (EN/中)
+- 伊朗/中东: 华尔街见闻 (简中), SCMP (EN/中)
+- 就业数据: 华尔街见闻 (简中), SCMP (EN/中)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美国关税: SCMP (EN/中)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
