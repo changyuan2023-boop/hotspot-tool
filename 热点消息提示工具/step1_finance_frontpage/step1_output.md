@@ -3,23 +3,29 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 30m | Micron's stock soars after blowout earnings reset the AI memory trade | Nasdaq surges as Micron results ease AI jitters | IBM pops after unveiling ultra-tiny chip breakthrough in AI race | Nasdaq surges as Micron results ease AI jitters | IBM pops after unveiling ultra-tiny chip breakthrough in AI race | Lower oil prices may be the Fed's next problem | The Strait of Hormuz is open again. It may never get back to normal.
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Alibaba sinks to 16-month low after Anthropic's AI accusations | Qualcomm jumps as it looks beyond smartphones to cash in on AI boom
+  - 头版/首屏: U.S. markets closed | Why Micron's momentum spells trouble for Apple | Housing affordability bill is headed for Trump's desk | PCE inflation hits 3-year high, keeping rate hike in play | Housing affordability bill is headed for Trump's desk | PCE inflation hits 3-year high, keeping rate hike in play | Formula 1 star Carlos Sainz: I would like to retire at Williams Racing | How hard is it to sell a house for stock?
+  - 其他: Top Stories | Markets & Economy | Tech & AI | Apple stock dives after company announces price hikes | US invests $250 million in billionaire's startup for chip making
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Meta Stock In Focus As AI Model Review Standoff And Surging Capex Dominate Headlines | Tesla Bulls Push Wild Robotaxi Theory, But Gary Black Says The SpaceX Merger Talk Makes No Sense At All | Imagine Waiting Two Years For Your Tax Refund— More Than 500,000 Identity Theft Victims Are Living That Reality | Wall Street's Most Accurate Analysts Give Their Take On 3 Energy Stocks With Over 5% Dividend Yields | Could SpaceX Be The Latest FOMO Trap? Asset Manager Warns Many Buyers Don’t Fully Understand What They Own: 'It's When Your Family...'
+  - 其他: At 45, I Just Maxed Out My 401(k). What Do I Do With the Extra $1,200 a Month? | Investor Anthony Scaramucci Says When People Start Missing Mortgage Payments, Immigrants Become A Threat. 'That's Not Racism. That's Economics' | Nancy Pelosi Has Added These 9 Stocks To Her Portfolio Since 2025, Including Three Magnificent Seven Names | 4 Under-the-Radar Memory Stocks to Buy as the Rally Restarts | ON Semi To Acquire Synaptics In $7 Billion All-Stock Deal: SYNA Rallies, ON Shares Take Hit
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 美国国务卿鲁比奥：以色列和黎巴嫩接近达成“意向承诺” | 白宫帮助扎克伯格躲过了一场参议院听证会。（Politico） | 黑莓第一财季营收1.529亿美元，预估1.368亿美元。
-第一财季经调整基本每股收益0.040美元，预估0.03美元。
-第一财季经调整毛利率78.6％，预估76.9％。
-黑莓预计全年营收5.94亿美元至6.21亿美元，市场预估6.019亿美 | 阿曼外交大臣：霍尔木兹海峡未来安排不涉及征收通行费 | 工信部、商务部等五部门联合启动2026年新能源汽车下乡活动 | SpaceX美股盘前扩大涨势，现上涨2.4%。 | 鲁比奥称美国不会不惜一切代价同伊朗达成协议 | IBM美股盘前涨超6%，公司推出全球首款亚1纳米芯片技术
-  - 其他: 伊拉克称政府并未考虑退出OPEC。希望OPEC的基准产量与产能对齐。（彭博） | 法国总统马克龙：法国海军在西西里岛附近登船检查影子船队油轮。 | 住房城乡建设部部长倪虹在长沙考察调研 | 阿曼外长表示，霍尔木兹海峡的未来安排不涉及过路费用。（阿曼国家通讯社） | 永太科技：全资子公司永太新能源与宁德时代签订了《电解液原材料合作协议》，约定甲乙双方将在本协议有效期内就电解液添加剂-碳酸亚乙烯酯（VC）物料进行购销合作。
+  - 头版/首屏: 特朗普称将用伊朗的钱买美国农产品 | 华尔街见闻早餐 | 2026年6月26日 | 特朗普称，霍尔木兹海峡开放了。 | 特朗普：我们有一个叫做伊朗的新市场。
+伊朗将购买小麦、大豆和玉米。 | 加拿大矿商Titan Mining多伦多股价收涨4.36%，报3.11加元，在一波短线冲高回落行情中，北京时间03:23一度达到3.42加元。
+美国REalloys则收跌14.52%，报14.25美元，全天低位震荡。
+美国陆军选择这两家公司 | 美国芝加哥联储主席Goolsbee（2027年FOMC票委）：油价下跌可能会对美国经济构成尾部风险。
+令人心烦意乱的高通胀来自服务业。
+劳动力市场一年多来非常稳定。
+不确定性驱动了低雇佣、低解雇的环境。
+美国就业市场稳定，但不太好。 | 报道：三星将在10年内投资1000万亿韩元 | “不可接受”！苹果商店下架多款俄罗斯应用程序，克宫要求作出解释
+  - 其他: 周四（6月25日）纽约尾盘，ICE美元指数跌0.16%，报101.443点，在一波W形反转行情结束时，于北京时间19:39刷新日高至101.746点，随后持续走低，00:28刷新日低至101.305点。
+彭博美元指数跌0.25%，报1222 | 五角大楼将允许关键矿物工厂建设在美军基地内。 | SpaceX打算修建天然气输送管道，来给火箭注入燃料。
+该公司在美国得州（发射场地）的输送管道将长达8英里。（路透） | 据知情人士透露，多家国防企业（在会见美国总统时）希望于生产方面获得更多资金。（纽约时报） | 美国银行：建议在美国中期选举之前买入英镑兑美元波动性。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: China green-energy costs seen undercutting traditional energy as capacity soars | What fuels global trade imbalances: China’s overcapacity or US failure to adapt? | Diplomacy | ‘Looming dangers’ under China-US ties: AI and rare earths reveal a fragile floor | China discovers rare coral reef blue hole in disputed Scarborough Shoal | Society | Hong Kong is world’s most unequal society for wealth distribution, study finds | China-Japan flights to decline 57% in summer travel peak as tensions linger
-  - 其他: Energy-storage chairman eyes ‘0.1-yuan era’ for equipment as solar and wind projects gradually sideline coal in the nation’s power-generation mix. | At World Economic Forum meeting in Dalian, Graham Allison says US and China recognise applications of AI may be bad for both of them. | Beijing has used law enforcement patrols and scientific study to boost its control over the contested South China Sea area. | Study analysed evolution of income and wealth inequality in Hong Kong between 1981 and 2021. | Military
+  - 头版/首屏: Is the US banning drones from China until it can make better ones itself? | China showcases portable laser weapons for a single soldier to shoot down drones | Exclusive | US assures India over AI ‘kill switch’ as ‘Pax Silica’ expands to counter China | Diplomacy | Trump backs ‘Six Assurances’ to Taiwan but no arms sale timeline: US diplomat | Exclusive | Hong Kong’s own drug regulator pushes ahead with hiring, seeks WHO recognition | China-Japan flights to decline 57% in summer travel peak as tensions linger | US officials fear ‘supervillain’ China pulling ahead in AI race even a little
+  - 其他: Washington forced to weigh public comments backing popular Chinese-made devices as it reckons with new reality of shared tech frontier. | New Delhi says Washington pledged AI access would continue after Anthropic restrictions as the US-led initiative adds new members. | Michael DeSombre confirms long-standing US policy still in place despite Trump’s apparent departure from it after Beijing meeting with Xi. | Health chief says the city is aiming to approve drugs independently by 2030 as it builds capacity and courts global pharmaceutical companies. | US House Foreign Affairs Committee Chairman Brian Mast and Senator Jim Banks expressed concerns about China eroding America’s lead.
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 内地零售销售自疫情后首现倒退，内需股普遍下挫 | 完善矿产出口管制检举机制 商务部鼓励实名举报 | 特称伊允核检查 德黑兰：无相关计划 | 拆解美光SCA神技：AI风口锁单，买好5年保险 | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -31,30 +37,31 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 物理極限被打破！IBM推出全球首款0.7納米芯片技術，半導體邁入「埃米時代」 | 北水拋售港股近89億港元，建滔集團、中芯國際、建滔積層板分別獲淨買入逾28億、26億、15億港元，阿里巴巴遭淨賣出超22億港元 | SK海力士ADR下月美股上市，兩大機構喊出30%-45%上漲空間 | 看好CPU火爆持續！瑞銀上調AMD、ARM目標價，美銀看多臺積電、日月光 | 高通投資者日：一顆CPU、一項內存技術、一個400億美元目標 | 「1/6的價格，打爆美國AI護城河」——智譜開源模型GLM 5.2震動硅谷 | 一顆CPU，五場戰爭：九年之後，高通再賭一次 | 追隨SK海力士腳步，鎧俠宣佈計劃明年二季度赴美上市，本土擬拆股助散戶「分一杯羹」
-  - 其他: 高盛：美光炸裂業績表明，存儲上行週期仍在加速 | 收市速睇 | 三大指數齊跌，科指跌1.63%；部分芯片股、光通信股逆勢上漲，壁仞科技漲超13%創歷史新高，長飛光纖光纜漲超10%；存儲概念股表現強勢，南方兩倍做多海力士大漲超18% | 暗盤情報 | "智慧停車空間運營商"科拓股份現漲157%，一手賺3729港元 | 暗盤情報 | 「企業級人工智能技術與服務提供商」中科聞歌現漲近50%，一手賺逾6000港元 | 暗盤情報 | 「PCB直接成像設備供應商」芯碁微裝現漲超63%，一手賺8023港元
+  - 头版/首屏: 富途早報 | 聯儲局三把手：當前利率足以遏制通脹；美股走勢分化，閃迪、美光領漲AI板塊，蘋果、微軟提價引發拋售；OpenAI IPO傾向推遲至2027年 | Macflation來了！美光暴漲蘋果大跌凸顯AI產業鏈利潤重估 | 年中盤點 | 港股十大牛股出爐！AI硬科技成絕對主線，智譜年內爆升逾19倍，建滔積層板、兆易創新屢創新高 | 強美元風暴捲土重來! 沃什掌舵下的聯儲局擊碎貶值交易 「美國例外論」重返視野 | AI監管升溫，報道：特朗普政府要求OpenAI分階段發佈GPT-5.6 | 聯儲局威廉姆斯：通脹依舊太高，但當前利率足以壓制價格壓力 | 報道：三星將在10年內投資1000萬億韓元 | 萬億美元估值撞上SpaceX大跌「冷水」：OpenAI IPO推遲至2027年，AI資本化踩下剎車
+  - 其他: 美股收盤 | 5月PCE年率突破4%，三大股指漲跌不一；美光亮眼業績提振芯片股，半導體指數漲超3%；Mag7齊下挫，蘋果跌超6%；金油回升 | 成交額TOP20 | 美光炸裂業績帶動股價大漲15%，閃迪漲近22%；蘋果全球罕見大漲價，股價跌超6%，創2025年4月以來最大跌幅；微軟上調Xbox主機售價 | Cerebras兩日一度暴跌30%！AI芯片「高預期」反噬，業績指引難填估值鴻溝 | 13個月內三次上調Xbox售價，微軟：存儲元件成本到明年還要翻倍 | 美股三大指數收盤漲跌不一，納指跌0.46%，標普500指數跌0.01%，道指漲0.14%。美股科技股走勢分化，芯片股走強，閃迪漲超21%，美光科技漲超15%，應用材料漲超13%。「科技七巨頭」走低，蘋果收盤下跌6.1%，創2025年4月以來最大跌幅。
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (6 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
+- **伊朗/中东局势** — 出现于: Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
+- **美国关税（15%等）** — 出现于: Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
+- **就业/经济数据** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: 华尔街见闻 (简中) (1 站)
+- **加密货币** — 出现于: Benzinga (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（6 站）
-- 黄金/大宗商品（4 站）
-- 中国/欧盟（4 站）
 - 伊朗/中东局势（3 站）
-- 油价/能源（2 站）
-- 加密货币（2 站）
-- 关税/贸易政策（1 站）
-- 美联储/利率（1 站）
+- 关税/贸易政策（3 站）
+- 就业/经济数据（3 站）
+- 中国/欧盟（3 站）
+- 黄金/大宗商品（2 站）
+- 美联储/利率（2 站）
+- 油价/能源（1 站）
+- 加密货币（1 站）
 - 中国政策（1 站）
-- 就业/经济数据（0 站）
