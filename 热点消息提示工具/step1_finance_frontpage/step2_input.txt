@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026062609
+抓取时间: 2026062620
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- Why Micron's momentum spells trouble for Apple
-- Housing affordability bill is headed for Trump's desk
-- PCE inflation hits 3-year high, keeping rate hike in play
-- Housing affordability bill is headed for Trump's desk
-- PCE inflation hits 3-year high, keeping rate hike in play
-- Formula 1 star Carlos Sainz: I would like to retire at Williams Racing
-- How hard is it to sell a house for stock?
-- US stock futures waver as tech struggles to find its footing
-- Fed's Goolsbee: Core inflation is still too high and trending wrong way
-- JPMorgan loses a key figure in the race to succeed CEO Jamie Dimon
-- Bumble dating app considers sale amid sharp stock decline
+- U.S. markets open in 1h 30m
+- The AI boom now has a price tag — and Micron just sent the bill
+- Nasdaq slides as report of OpenAI IPO delay rattles tech stocks
+- Saylor's Strategy has no easy way out as bitcoin keeps slumping
+- Nasdaq slides as report of OpenAI IPO delay rattles tech stocks
+- Saylor's Strategy has no easy way out as bitcoin keeps slumping
+- Oil set for hefty weekly losses as tankers exit Hormuz
+- FedEx and peers start passing along $1B in tariff refunds to customers
+- China's collapsing crude oil imports set to fall further
+- Mark Cuban on how Big Tech can win over data-center opponents
+- SpaceX plans Starlink mobile push into US consumer market
+- Sweeping housing affordability bill is headed for Trump's desk
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- Apple stock dives after company announces price hikes
-- US invests $250 million in billionaire's startup for chip making
-- IBM seesaws after unveiling chip 'the size of a fingernail'
-- Qualcomm makes its play for the data center boom
+- Samsung, SK Hynix ready massive $648 billion bet amid AI boom
+- SoftBank shares tumble after report of OpenAI's IPO delay
+- Micron is looking to end the memory industry's boom-bust cycle
+- Polymarket says hackers stole users’ funds
 - Popular
-- Ford CEO on JD Power win: This 'overnight success' was actually 4 years in the making
-- Blue Owl in Advanced Talks to Buy Stake in Cleveland Cavaliers
+- Millions may qualify for payouts in Disney streaming case deal
+- D-wave Quantum drops 11% after US order and roadmap shift
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,86 +42,72 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- At 45, I Just Maxed Out My 401(k). What Do I Do With the Extra $1,200 a Month?
-- Investor Anthony Scaramucci Says When People Start Missing Mortgage Payments, Immigrants Become A Threat. 'That's Not Racism. That's Economics'
-- Nancy Pelosi Has Added These 9 Stocks To Her Portfolio Since 2025, Including Three Magnificent Seven Names
-- 4 Under-the-Radar Memory Stocks to Buy as the Rally Restarts
-- ON Semi To Acquire Synaptics In $7 Billion All-Stock Deal: SYNA Rallies, ON Shares Take Hit
-- Micron Rallies 15%, Apple Sinks 6% On Memory Costs: Stock Market Today
+- Alphabet Hit By Another Wave Of AI Departures: Report
+- Why Is Triller Group Stock Surging On Friday?
+- ‘Maleficent 7’? Analyst Warns Microsoft Could Crash To $250
+- Ethereum Could Face A Critical Funding Gap: What Does It Mean For ETH?
+- Amazon Stock Trending As Capex Concerns, Prime Day Questions, Insider Sales Pile Up
+- Stock Market Today: Dow Jones Inches Up, S&P 500 And Nasdaq Futures Slip As Tech Selloff Gathers Pace— Apple, Beyond Air In Focus
 - Semiconductor Stocks
-- Stock Market Today: Dow Jones, S&P 500, Nasdaq Futures Gain As AI Stocks Rally On Micron’s Strong Outlook—Qualcomm, Wendy's In Focus (UPDATED)
-- Paychex's FY27 Setup Looks 'Cleaner' After 'Noisy' 2026
-- Micron Just Gave AI Investors Exactly What They Wanted
+- Xbox Prices Surge Again As Microsoft Expects Memory Costs To Double By Fall 2027, Joins Apple, Sony And Nintendo In Wave Of Hardware Price Hikes
+- What's Going On With Taiwan Semiconductor Stock Friday?
+- Does DSC IPO Augur A Revival Of China Listings On Wall Street?
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 特朗普称将用伊朗的钱买美国农产品
-- 华尔街见闻早餐 | 2026年6月26日
-- 特朗普称，霍尔木兹海峡开放了。
-- 特朗普：我们有一个叫做伊朗的新市场。
-伊朗将购买小麦、大豆和玉米。
-- 加拿大矿商Titan Mining多伦多股价收涨4.36%，报3.11加元，在一波短线冲高回落行情中，北京时间03:23一度达到3.42加元。
-美国REalloys则收跌14.52%，报14.25美元，全天低位震荡。
-美国陆军选择这两家公司
-- 美国芝加哥联储主席Goolsbee（2027年FOMC票委）：油价下跌可能会对美国经济构成尾部风险。
-令人心烦意乱的高通胀来自服务业。
-劳动力市场一年多来非常稳定。
-不确定性驱动了低雇佣、低解雇的环境。
-美国就业市场稳定，但不太好。
-- 报道：三星将在10年内投资1000万亿韩元
-- “不可接受”！苹果商店下架多款俄罗斯应用程序，克宫要求作出解释
-- 网易将于6月30日起在港交所转为双重主要上市
+- 伊朗革命卫队在霍尔木兹海峡驱离3艘外国油轮
+- 伊朗外交部：海合会与美国联合声明“挑衅且不负责任”
+- 伊朗称霍尔木兹海峡安全通行必须有伊朗方面的协调
+- 美国股市录得3月以来首次资金净流出 科技基金外流规模创纪录
+- 伊朗称将霍尔木兹海峡航行管理将以与美国的谅解备忘录为准
+- 美股盘前，半导体股普跌，美光科技跌约4%，AMD跌约2%，英特尔跌约3%，希捷科技跌约3%。
+- 日本证券交易监督委员会建议对一名前高盛员工处以内幕交易罚款
+- 特斯拉FSD全面转向订阅制！港澳台地区买断版6月30日后下架，中国内地尚无明确时间表
+- 报道：大众汽车计划裁员至多10万人，并关闭4家德国工厂
+- 花旗策略师称现在就断言AI交易终结还为时尚早
 - 提醒：日内请重点关注（以下均为北京时间）
-- 周五亚太盘初，纳斯达克100指数股指期货跌0.3%，道指期货涨0.15%。
-目前（美股盘后），美光科技下跌2.7%，闪迪跌1.9%，英特尔、希捷科技至少跌约1.2%，西部数据跌超0.8%。
-- 2名中国公民在委内瑞拉地震中遇难
+- 早间要闻汇总
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 周四（6月25日）纽约尾盘，ICE美元指数跌0.16%，报101.443点，在一波W形反转行情结束时，于北京时间19:39刷新日高至101.746点，随后持续走低，00:28刷新日低至101.305点。
-彭博美元指数跌0.25%，报1222
-- 五角大楼将允许关键矿物工厂建设在美军基地内。
-- SpaceX打算修建天然气输送管道，来给火箭注入燃料。
-该公司在美国得州（发射场地）的输送管道将长达8英里。（路透）
-- 据知情人士透露，多家国防企业（在会见美国总统时）希望于生产方面获得更多资金。（纽约时报）
-- 美国银行：建议在美国中期选举之前买入英镑兑美元波动性。
-- 白宫官员：现在判断谁袭击了霍尔木兹海峡的船只还言之过早。
-美国正观察船只在海峡遭袭一事。
-- 伊朗：驶离指定航线的船舶将不享有安全保障
-- WTI 8月原油期货收涨1.58美元，涨幅2.25%，报71.92美元/桶。
-布伦特7月原油期货收涨1.52美元，涨幅2.06%，报75.26美元/桶。
-中东Abu Dhabi Murban原油期货涨3.13%，报68.53美元/桶。
-NY
-- 国际海事组织暂停疏散霍尔木兹海峡滞留船舶
-- 乌克兰首都基辅传出爆炸声
+- 2025年至今我国已经研制发布40余项人工智能国家标准
+- 招商银行：将自7月27日后择时停办“招财金”业务
+- 阿科力：控股股东、实际控制人正在筹划公司股份转让及向特定对象发行股份事宜，该事项可能导致公司的控制权变更，股票停牌。
+- 富满微：预计上半年净利润9000万元-1.1亿元，上年同期亏损3576.75万元。
+- 复星医药：建议分拆复星安特金并于香港联合交易所有限公司主板独立上市。
+- 中欧正密集举行贸易磋商，欧盟缺乏诚意或引发中欧经贸摩擦急剧上升
+- 陕鼓动力：正在筹划通过发行股份的方式收购陕西秦风气体股份有限公司全部少数股东持有的36.06%的股权。收购完成后，秦风气体将成为公司全资子公司。股票停牌。
+- 儒意电影：拟1.5亿元-3亿元回购公司股份。
+- 拓荆科技：正在筹划以发行股份及支付现金的方式购买无锡尚积半导体科技股份有限公司的控股权并募集配套资金，股票停牌。
+- 百济神州：全资子公司将补缴税款及滞纳金共计约4.46亿元
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Is the US banning drones from China until it can make better ones itself?
-- China showcases portable laser weapons for a single soldier to shoot down drones
-- Exclusive | US assures India over AI ‘kill switch’ as ‘Pax Silica’ expands to counter China
-- Diplomacy
-- Trump backs ‘Six Assurances’ to Taiwan but no arms sale timeline: US diplomat
-- Exclusive | Hong Kong’s own drug regulator pushes ahead with hiring, seeks WHO recognition
-- China-Japan flights to decline 57% in summer travel peak as tensions linger
-- US officials fear ‘supervillain’ China pulling ahead in AI race even a little
+- Apple price hikes may hit iPhone next as memory, storage costs soar: analysts
+- Apple faces new antitrust complaint over ‘unfair’ App Store fees in China
+- China Economy
+- China to generate 50% of electricity from nuclear and non-fossil sources by 2030
+- Economy
+- China Eastern buys 25 A330neo widebody jets as interest rises in Airbus’ wings
+- Society
+- Hong Kong court places baby Danny in Social Welfare Department care for 3 years
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Washington forced to weigh public comments backing popular Chinese-made devices as it reckons with new reality of shared tech frontier.
-- New Delhi says Washington pledged AI access would continue after Anthropic restrictions as the US-led initiative adds new members.
-- Michael DeSombre confirms long-standing US policy still in place despite Trump’s apparent departure from it after Beijing meeting with Xi.
-- Health chief says the city is aiming to approve drugs independently by 2030 as it builds capacity and courts global pharmaceutical companies.
-- US House Foreign Affairs Committee Chairman Brian Mast and Senator Jim Banks expressed concerns about China eroding America’s lead.
-- Big Tech
-- DeepSeek on hiring spree – seeks newcomers, not just AI geniuses
-- The Chinese AI giant is looking to double in size as it seeks to become a ‘driving force’ in the creation of artificial general intelligence.
-- Politics
-- North Korea’s border build-up opens a Seoul-UN Command rift
+- Some Chinese consumers are anticipating potential price hikes for the upcoming iPhone series, and are reconsidering their upgrade plans.
+- Recent oil shocks have strengthened Beijing’s resolve as it tries to balance decarbonisation efforts with securing future energy demand.
+- Multibillion-dollar deal marks first Chinese widebody win for the planemaker since 2025, following high-level visits from Paris and Berlin.
+- Father Tsang Wai-bong says couple will not appeal court decision but hope to take back home-born child within one to two years.
+- Fifa World Cup: results, group tables, fixtures and kick-off times
+- Science
+- China tests satellite-linked tracking devices on China-Europe railway express
+- Home-grown navigation system will allow for real-time tracking of containers, improving security and safety on vital transport route.
+- Policy
+- China keeps an eye on AI smart glasses as privacy concerns come into focus
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 内地零售销售自疫情后首现倒退，内需股普遍下挫
-- 完善矿产出口管制检举机制 商务部鼓励实名举报
-- 特称伊允核检查 德黑兰：无相关计划
-- 拆解美光SCA神技：AI风口锁单，买好5年保险
+- 利淡夹击港股22400求支持，内银股陷合规风暴短线调整
+- A股半导体板块领升 创指涨2.8%再破顶
+- 委内瑞拉1分钟两强震 至少164亡
+- 极端热浪煎熬，如欧洲照妖镜
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -130,9 +116,9 @@ NY
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数23076.91-335.27(-1.43%)
+- 恒生指数22671.86-405.05(-1.76%)
                     etnet.com.hk@copyright
-- 国企指数7608.38-156.59(-2.02%)
+- 国企指数7460.84-147.54(-1.94%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -145,36 +131,36 @@ NY
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 聯儲局三把手：當前利率足以遏制通脹；美股走勢分化，閃迪、美光領漲AI板塊，蘋果、微軟提價引發拋售；OpenAI IPO傾向推遲至2027年
-- Macflation來了！美光暴漲蘋果大跌凸顯AI產業鏈利潤重估
-- 年中盤點 | 港股十大牛股出爐！AI硬科技成絕對主線，智譜年內爆升逾19倍，建滔積層板、兆易創新屢創新高
-- 強美元風暴捲土重來! 沃什掌舵下的聯儲局擊碎貶值交易 「美國例外論」重返視野
-- AI監管升溫，報道：特朗普政府要求OpenAI分階段發佈GPT-5.6
-- 聯儲局威廉姆斯：通脹依舊太高，但當前利率足以壓制價格壓力
-- 報道：三星將在10年內投資1000萬億韓元
-- 萬億美元估值撞上SpaceX大跌「冷水」：OpenAI IPO推遲至2027年，AI資本化踩下剎車
+- 蘋果漲價、戴爾跳水、韓股熔斷，AI通脹恐反噬需求？
+- 美股投資必備！7月重磅大事搶先看，這些影響漲跌的日子都圈出來了
+- 兩位資深經濟學家加盟沃什智囊班底，聯儲局改革工作組啓航
+- 中金觀點：黃金牛市結束了嗎？
+- AI季度收入首超折舊成本，萬億美元算力豪賭步入回報驗證期？
+- 本週美股牛股 | 康寧周累計漲近17%，推出玻璃光學互連技術，劍指CPO市場；聯電漲超15%，台積電調低成熟製成產能，爲聯電帶來成熟製程訂單外溢機遇；聯合大陸航空漲近14%，油價下跌緩解航司成本壓力，盈利改善預期升溫
+- 年中盤點 | 存儲、半導體霸榜美股十大牛股：閃迪年內狂飆883%、美光大升325%！
+- 亞股遭遇「黑色星期五」！華爾街熱議背後推手，蘋果漲價是多重利空之一
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 美股收盤 | 5月PCE年率突破4%，三大股指漲跌不一；美光亮眼業績提振芯片股，半導體指數漲超3%；Mag7齊下挫，蘋果跌超6%；金油回升
-- 成交額TOP20 | 美光炸裂業績帶動股價大漲15%，閃迪漲近22%；蘋果全球罕見大漲價，股價跌超6%，創2025年4月以來最大跌幅；微軟上調Xbox主機售價
-- Cerebras兩日一度暴跌30%！AI芯片「高預期」反噬，業績指引難填估值鴻溝
-- 13個月內三次上調Xbox售價，微軟：存儲元件成本到明年還要翻倍
-- 美股三大指數收盤漲跌不一，納指跌0.46%，標普500指數跌0.01%，道指漲0.14%。美股科技股走勢分化，芯片股走強，閃迪漲超21%，美光科技漲超15%，應用材料漲超13%。「科技七巨頭」走低，蘋果收盤下跌6.1%，創2025年4月以來最大跌幅。
-- DeepSeek 開啓「倍增」式擴招：劍指 AI 搜索與數據壁壘，大模型商業化決戰打響
-- 聯儲局三把手威廉姆斯：美國到2028年將實現通脹目標
-- 霍爾木茲海峽再起波瀾：伊朗被曝謀求一年400億「買路錢」，船隻遇襲後疏散行動暫停
-- 蘋果芯片戰略歷史性調整！報道：跳過M6高端版本，直接佈局以AI爲核心的M7系列
-- 緊隨蘋果！微軟上調Xbox主機售價：存儲和內存成本已暴漲2.5倍
+- 北水減倉港股逾25億港元，建滔積層板、長飛光纖光纜分別獲淨買入逾23億、12億港元，阿里巴巴遭淨賣出近23億港元
+- 擁抱AI大趨勢！港股2026上半年IPO規模超兩千億港元 新股首日平均回報超60%
+- 收市速睇 | 三大股指收跌，科指跌3.41%；存儲、光通信、手機產業鏈概念走弱，南方兩倍做多海力士跌近14%，長飛光纖光纜跌近13%，舜宇光學科技跌超9%；新股芯碁微裝首日飆漲近104%
+- 羅素指數今日大換血：英偉達登頂、SpaceX入場，或引爆市場波動
+- 暗盤情報 | 「腎病療法生物製藥商」禮邦醫藥-Ｂ現漲近74%，一手賺1670港元
+- 暗盤情報 | 「場景險科技公司」白鴿在線一度漲近395%，一手賺12320港元
+- 暗盤情報 | 「光電互連產品提供商」海光芯正現漲近105%，一手賺5970港元
+- 800V革命來了！AI算力爆炸重塑電力芯片格局，SiC和GaN迎來大時代
+- 顛覆1.6萬億美元市場？SpaceX擬推「星鏈」移動服務，劍指美國電信三巨頭
+- 蘋果、微軟漲價釋放危險信號！AI通脹恐反噬需求，芯片股暴跌拖累韓國股市二度熔斷
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
-- 美国关税: Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
-- 就业数据: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 伊朗/中东: 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN), 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), SCMP (EN/中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
 - 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
 - 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 油价/霍尔木兹: 华尔街见闻 (简中)
-- 加密货币: Benzinga (EN)
+- 就业数据: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
