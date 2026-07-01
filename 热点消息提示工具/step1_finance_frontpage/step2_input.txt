@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026063020
+抓取时间: 2026070109
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- Techs go on a tear in the first half — no thanks to the 'Mag 7'
-- US stock futures steady after Dow sets record
-- Central banks plan to shrink dollar holdings amid US-linked risks
-- US stock futures steady after Dow sets record
-- Chip stocks' best quarter ever is ending with some wild swings
-- Central banks plan to shrink dollar holdings amid US-linked risks
-- Blunder left SpaceX IPO Korea broker with no shares
-- Merck, AbbVie face House committee probe over China drug trials
-- Biscoff maker Lotus gains 590% in tough decade for snack makers
-- HSBC: 'Explosive' dollar rally is among biggest pain trades
-- Morgan Stanley cuts oil forecasts on fast return of flows to Hormuz
+- U.S. markets closed
+- S&P 500 posts best quarter since 2020
+- Trump reports at least $1.2 billion in 2025 crypto earnings
+- Tech stocks dominate 2026 so far — even with Mag 7 in 'penalty box'
+- Trump reports at least $1.2 billion in 2025 crypto earnings
+- Tech stocks dominate 2026 so far — even with Mag 7 in 'penalty box'
+- US dollar surges to 2026 high amid yen collapse
+- Another Trump tariff exemption looks to ease pressure on farmers
+- Bitcoin is having a dismal year, and analyst says $40k plunge in play
+- Warsh's first appearance since Fed debut could provide key clues
+- The Rocket Lab CEO's bold bet to challenge SpaceX's dominance
+- Saving for a down payment in NYC can take 65 years. In the Midwest? 4.
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
+- Why Nvidia stock is enduring a bit of a summer swoon
+- ASML, chip-tool stocks soar as Samsung, SK plan investments
+- Anthropic launches cheaper Claude model amid AI savings push
 - The AI jobs debate just got messier
-- China misses out on AI boom as stocks trail by most since 2001
-- China's Meituan says new AI model trained on domestic chips
-- Tencent ramps up buybacks as share rout wipes out $309 billion
 - Popular
-- Target tracks lateness and absence using points — if workers rack up 12, they're fired
-- Should you go to work during a heat wave? GDP tanks when it's hot.
+- How Microsoft became the black sheep of the AI trade
+- Suze Orman: Women can earn thousands more a year by 'doing essentially nothing'
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,72 +42,76 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Why Is AeroVironment Stock Soaring Tuesday?
-- IBM, Verizon, Corning And A Health Care Stock On CNBC’s ‘Final Trades’
-- How To Earn $500 A Month From MSC Industrial Direct Stock Ahead Of Q3 Earnings
-- Rocket Lab Stock In Focus After Announcing $8 Billion Acquisition Of Iridium Communications
-- Why Is Axon Enterprise Stock Surging On Tuesday?
-- Stock Market Today: S&P 500, Dow Futures Rise As Trump Demands Lower Gas Prices 'Immediately'—Vishay Intertechnology, AeroVironment, Nike In Focus
-- Michael Saylor
+- World's First Trillionaire Elon Musk Is Worth 5.7 Million Times the Typical U.S. Household — Yet He Rents a 400-Square-Foot $50K Texas Tiny Home
+- OpenAI Deepens India Bet, Hires Ex-Uber Executive To Drive Growth, Partnerships
+- More Bark, More Beta: Corgi Debuts 31 Single-Stock ETFs Covering Nvidia, Tesla And More
+- Papa John's Stock Slips On CFO Surprise Exit
+- Anthropic Debuts Claude Sonnet 5 As Agentic AI Push Goes Mainstream
+- The AI ETF Trade Has Evolved: Where Investors Put Their Money In H1
 - Jobs Data
-- Exclusive: Navellier Calls Nvidia 'Screaming Buy' As Tech Expert Says Cheaper AI Doesn't Just Boost Demand—It 'Detonates It'
-- Wall Street's Most Accurate Analysts Spotlight On 3 Industrials Stocks Delivering High-Dividend Yields
+- Private Equity’s Expansion Into Youth Sports Draws Bipartisan Concern
+- Sandisk Shares Rise 6% After Key Trading Signal
+- As Stablecoins Lead Crypto Investment Themes, Bitcoin Is No Longer The Favorite Child
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 亚马逊：投资全球最大的碳移除项目之一，将创造11,000个就业岗位并恢复自然生态。
-- 伊朗外交部发言人：未来几天暂无与美方会晤计划
-- 小鹏机器人负责人米良川已于近期离职
-- 标普500指数期货涨幅扩大至0.2%，触及盘中高点 。
-- 卡塔尔外交部：美伊当天没有计划在多哈举行高级别会议
-- 伯恩斯坦将闪迪目标价从1700美元上调至3000美元。
-- 国家新闻出版署公布2026年6月份国产网络游戏审批信息，共163款游戏获批。
-国家新闻出版署公布2026年进口网络游戏审批信息，6月新增8款进口网络游戏。
-- 腾讯6月30日回购价值5.01亿港元的股份。
-- 美伊6月30日无高级别会晤计划
-- 伊朗总统：若美国遵守协议 伊方也将履行承诺
-- 北欧航空订购多达40架空客的宽体飞机，价值超过100亿美元。
-- 伊朗总统：达成伊美谅解备忘录经与穆杰塔巴充分协调
+- South32大涨10%，此前以56亿美元将铝资产出售给美铝（Alcoa）。
+- Anthropic：美国取消对Claude Fable 5、Mythos 5的出口管制，明天开始恢复访问。
+- 据美国商务部长卢特尼克致Anthropic的信函，美国取消对Anthropic公司Fable 5的控制措施。（Wired）
+- 卢特尼克：Anthropic的Fable 5已通过分析并获得批准
+- 特朗普已听取关于对伊朗战争方案的简报，但选择继续进行谈判。
+特朗普目前将坚持对伊朗进行外交谈判。
+特朗普告诉助手，如果谈判超过8月18日的截止日期，他也觉得可以接受。（华尔街日报）
+- 美国商务部长卢特尼克：与Anthropic进行了紧密合作，以批准Fable 5。
+- 美国最大电网PJM着手管理数据中心电力需求
+- 华尔街见闻早餐 | 2026年7月1日
+- 苹果公司库克、欧盟官员Virkkunen讨论“Siri AI”。（英国金融时报）
+- 美国高级官员：美国特使Witkoff、库什纳、以及（中东）地区领导人在多哈进行了积极的会谈。
+霍尔木兹海峡的船只通行规模提高了。
+技术层面的会谈继续进行，将取得良好进展。（彭博）
+- 报道：Anthropic的Fable模型出口限制将于今晚解除
+- 提醒：日内请重点关注（以下均为北京时间）
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 龙湖大股东6月下旬累计增持1100万股
-- 财通福鑫定开混合：将于2026年7月1日全天停牌
-- 俄外交部：北约正协助乌克兰获取能摧毁俄纵深目标武器
-- 伊朗革命卫队称在西北边境打击一支“敌对”武装小组
-- 日本物价持续上涨，全年涨价商品预计超2万种
-- 上期所：调整黄金等期货相关合约涨跌停板幅度和交易保证金比例
-- 程福波任国务院国有资产监督管理委员会党委书记
-- 华宏科技：控股股东华宏集团，董事、高级管理人员朱大勇先生、刘卫华先生拟减持不超过2.41%。
-- 上期能源：调整国际铜期货相关合约涨跌停板幅度和交易保证金比例
-- 据报道，SK海力士申请在纳斯达克上市。
+- 日元自1986年以来首次跌穿162，二季度累跌约2.4%
+- 据路透报道，Jana Partners对EverPure构筑新的头寸。EverPure涨9%。
+- 美国联邦航空管理局（FAA）：部门员工不可以持有SpaceX股票。（Politico）
+- 美元指数在6月份涨超2.2%
+- 芝加哥玉米期货涨1.5%，6月份累跌8.2%
+- 伊朗石油出口在美国封锁解除后超过4000万桶
+- WTI 7月原油期货收跌1.25美元，跌幅1.77%，报69.50美元/桶，6月份累计下跌超18.52%，二季度累跌将近14.86%。
+布伦特8月原油期货收跌0.23美元，跌幅0.31%，报72.92美元/桶，6月份累跌超19.97%，二季
+- 市长曼达尼与美国纽约市议会就1260亿美元最终预算达成协议
+- WTI原油日内跌幅达2.0%，报69.33美元/桶；布伦特原油日内跌幅达1.5%，报72.8美元/桶。
+- 美国货币监理署（OCC）：美国银行业一季度交易收入增长5.6%。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- As China’s Communist Party grows more slowly, its members are getting older
-- Why leading Chinese scientists are rising to the top in the Communist Party
-- China Economy
-- China faces economic balancing act: AI, exports boom while consumers stay home
-- Tech Trends
-- Beyond GPUs: AI-driven shortages hit chip materials and components
-- Society
-- Mainland China revises criteria for settling in Hong Kong, Macau
+- The AI industrial revolution: why US faces a historic tech reckoning from China
+- Meituan claims China’s biggest AI model trained on local chips
+- Diplomacy
+- US, China should de-escalate from tit-for-tat actions, US lawmaker says
+- US Supreme Court strikes down Trump birthright citizenship order
+- Hong Kong marks July 1 anniversary with flag-raising ceremony, citywide deals
+- China steps up challenge to US, Japan in a strategic aerospace material
+- Companies
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- World’s second-largest political party is ageing, official data shows, with nearly 30 per cent of members aged 61 or older.
-- Two high-level meetings show that Beijing is aware of economic imbalances as Politburo prepares high-stakes growth assessment next month.
-- Makers of power semiconductors, including Germany’s Infineon, US-based Texas Instruments and China’s Yangjie Technology, have raised prices.
-- National Immigration Administration announces new criteria to take effect Wednesday and replace current points-based system.
-- Indian officials said to be in talks to allow reporters from China to return
+- From EVs to robotics, China’s advancement in cutting-edge tech has seen it shake off the West’s long-standing belief in US exceptionalism.
+- Steve Daines calls Beijing’s export controls on US companies and Pentagon’s blacklisting of Chinese tech firms ‘unfortunate developments’.
+- Court preserves automatic US citizenship for children born to undocumented immigrants and temporary visa holders.
+- City is celebrating the 29th anniversary of its return to Chinese sovereignty.
+- Race to the bottom? Why retailers bet on their own brands in China
+- Analysts forecast in-house goods to rise sharply as Chinese retailers seek loyalty and offset lost supplier-funded fees.
+- G20 summit in Miami perfect ‘backdrop for Trump-Xi meeting’: sources
+- Get-together would cap year with China hosting the Apec leaders’ meeting in Shenzhen in November before the US stages G20 just weeks later.
 - Politics
-- China reacts to Guo Wengui’s US prison sentence, highlighting fugitive status
-- The self-exiled businessman convicted for billion-dollar fraud scheme is the subject of an Interpol red notice issued at Beijing’s request.
-- Global Economy
-- China-Canada trade thaw sours as Beijing levies penalties for dumping pea starch
+- How a potential UAE deal could reshape India’s arms export ambitions
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 成本上涨却未随同业加价，农夫山泉股价曾跌9%
+- 韩国宣布芯片及AI巨额投资计划，芯片股持续强势
 - 四川宜宾市高县5.5级地震 15人轻伤
-- 美伊允停互袭 将赴卡塔尔重启谈判
+- 伊反驳特朗普 称访卡塔尔非晤美官员
 - 白鸽在线首挂冲天，“智驾隐士”青出于蓝
 - 指数环球商品外汇
 - 国金观点
@@ -132,35 +136,36 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 年中盤點 | 美股十大爆升ETF出爐！半導體、韓股題材強勢霸榜，SOXL年內飆升462%、KORU暴漲306%
-- 報道：三星1.4nm工藝或將於2029年重啓量產，有望爲蘋果先進製程供應提供多元選項
-- 單季暴漲81%，卻在最後一週跌掉近8%！美股芯片板塊史上最佳季度前夜，華爾街開始追問：AI支出還能撐多久？
-- SK海力士已提交在納斯達克上市申請。
-- 美股Q2業績期即將來襲，高盛樂觀期待：AI熱潮將是最大動力
-- 日元跌破162創40年新低！日本干預「紅線」或上移至163—165
-- 北水加倉港股近59億港元，中芯國際、建滔積層板、騰訊控股分別獲淨買入超19億、10億、7億港元，長飛光纖光纜、阿里巴巴遭淨賣出超3億港元
-- 優必選全尺寸超仿生機器人售價公佈
+- 對比鮮明！美股創「六年來最佳一季」，黃金經歷「十多年來最差一季」
+- 伯恩斯坦上調閃迪目標價至3000美元，押注長協打破存儲週期魔咒
+- 明日，美國又一份強勁非農來襲？白宮官員提前「劇透」 聯儲局將如何抉擇
+- 美國對Anthropic Fable 5頂尖模型「解禁」，Anthropic：週三起恢復訪問
+- AI基建熱潮推動下估值創30年新高！卡特彼勒成「大空頭」伯裏最新獵物
+- 年中盤點 | 美股十大爆升ETF出爐！半導體、韓股題材強勢霸榜，SOXL年內飆升近463%，KORU暴漲近307%
+- 美股夜盤：Bloom Energy漲超9%，耐克跌超2%
+- 中東局勢再添變數：卡塔爾否認安排美伊多哈高級別會談，以軍多線突襲，阿曼被曝借海峽服務費爲伊朗收費鋪路
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 大摩Wilson：類比白銀，半導體或正在經歷最後狂歡
-- 戰爭衝擊能源大動脈！殼牌(SHEL.US)：2026年全球LNG貿易恐陷「零增長」，2050年需求仍將逼近7億噸
-- 日元40年新低背後：地緣、加息與特朗普施壓令日本陷入政策死角，740億美元干預「打水漂」？
-- 香港交易所落實簡化每手買賣單位框架
-- 收市速睇 | 三大指數漲跌不一，科指漲1.8%；半導體股走強，天數智芯漲近10%，中芯國際、華虹宏力漲超5%；新股真健康醫療飆升217%
-- 暗盤情報 | 「獨立移動充電品牌」安克創新現跌超6%，總市值逾1185億港元
-- 美股狂歡背後：底層儲蓄枯竭、散戶瘋狂入市，萬億資金究竟從何而來？
-- 黃金被聯儲局鷹派預期砸出「黃金坑」? 2008以來最慘回撤併非牛市終章 3900美元「探底時刻」醞釀新一輪漲勢
-- 優必選午後飆升，今日將召開全球發佈會，優必選U1最終售價即將揭曉
-- 初夏華爾街大調倉，資金撤離科技股
+- 消息稱Anthropic模型Fable即將解禁
+- 成交額TOP20 | 閃迪大漲11%，半年漲逾850%領跑標普500成分股；CPU雙雄走強，AMD漲超7%創新高，英特爾漲超6%；SemiAnalysis上調英偉達IDC營收預期
+- 「大空頭」Burry最新持倉：首次做空卡特彼勒，同時做空特斯拉、英偉達和應用材料
+- 美股收盤 | AI熱情驅動，標普、納指創2020年來最佳單季表現；費城半導體指數半年翻倍，美光半年漲超304%；比特幣連續三個季度下跌；油價創疫情來最差單季
+- 「炒幣」高手特朗普！官方披露2025年加密貨幣業務斬獲超10億美元，重倉美股科技巨頭
+- 韓國巨額投資計劃提振信心 阿斯麥等芯片設備股集體狂飆
+- Visa、Stripe聯合百餘家機構佈局穩定幣，Circle重挫17.55%
+- AI會帶來失業？OpenAI經濟學家：不會！
+- 耐克2026財年Q4營收109.72億美元，同比下降1%；稀釋後EPS0.72美元，同比增長414%
+- Bloom Energy和Brookfield將爲人工智能基礎設施電力項目提供融資的框架規模從此前宣佈的50億美元提高至250億美元
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 就业数据: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 就业数据: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 伊朗/中东: 华尔街见闻 (简中), 富途资讯 (繁中)
 - 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
-- 伊朗/中东: 华尔街见闻 (简中)
-- 加密货币: Benzinga (EN)
-- 美联储: Yahoo Finance (EN)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN)
+- 油价/霍尔木兹: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---

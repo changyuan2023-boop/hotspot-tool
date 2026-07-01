@@ -3,24 +3,25 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 30m | Techs go on a tear in the first half — no thanks to the 'Mag 7' | US stock futures steady after Dow sets record | Central banks plan to shrink dollar holdings amid US-linked risks | US stock futures steady after Dow sets record | Chip stocks' best quarter ever is ending with some wild swings | Central banks plan to shrink dollar holdings amid US-linked risks | Blunder left SpaceX IPO Korea broker with no shares
-  - 其他: Top Stories | Markets & Economy | Tech & AI | The AI jobs debate just got messier | China misses out on AI boom as stocks trail by most since 2001
+  - 头版/首屏: U.S. markets closed | S&P 500 posts best quarter since 2020 | Trump reports at least $1.2 billion in 2025 crypto earnings | Tech stocks dominate 2026 so far — even with Mag 7 in 'penalty box' | Trump reports at least $1.2 billion in 2025 crypto earnings | Tech stocks dominate 2026 so far — even with Mag 7 in 'penalty box' | US dollar surges to 2026 high amid yen collapse | Another Trump tariff exemption looks to ease pressure on farmers
+  - 其他: Top Stories | Markets & Economy | Tech & AI | Why Nvidia stock is enduring a bit of a summer swoon | ASML, chip-tool stocks soar as Samsung, SK plan investments
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Why Is AeroVironment Stock Soaring Tuesday? | IBM, Verizon, Corning And A Health Care Stock On CNBC’s ‘Final Trades’ | How To Earn $500 A Month From MSC Industrial Direct Stock Ahead Of Q3 Earnings | Rocket Lab Stock In Focus After Announcing $8 Billion Acquisition Of Iridium Communications | Why Is Axon Enterprise Stock Surging On Tuesday?
+  - 其他: World's First Trillionaire Elon Musk Is Worth 5.7 Million Times the Typical U.S. Household — Yet He Rents a 400-Square-Foot $50K Texas Tiny Home | OpenAI Deepens India Bet, Hires Ex-Uber Executive To Drive Growth, Partnerships | More Bark, More Beta: Corgi Debuts 31 Single-Stock ETFs Covering Nvidia, Tesla And More | Papa John's Stock Slips On CFO Surprise Exit | Anthropic Debuts Claude Sonnet 5 As Agentic AI Push Goes Mainstream
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 亚马逊：投资全球最大的碳移除项目之一，将创造11,000个就业岗位并恢复自然生态。 | 伊朗外交部发言人：未来几天暂无与美方会晤计划 | 小鹏机器人负责人米良川已于近期离职 | 标普500指数期货涨幅扩大至0.2%，触及盘中高点 。 | 卡塔尔外交部：美伊当天没有计划在多哈举行高级别会议 | 伯恩斯坦将闪迪目标价从1700美元上调至3000美元。 | 国家新闻出版署公布2026年6月份国产网络游戏审批信息，共163款游戏获批。
-国家新闻出版署公布2026年进口网络游戏审批信息，6月新增8款进口网络游戏。 | 腾讯6月30日回购价值5.01亿港元的股份。
-  - 其他: 龙湖大股东6月下旬累计增持1100万股 | 财通福鑫定开混合：将于2026年7月1日全天停牌 | 俄外交部：北约正协助乌克兰获取能摧毁俄纵深目标武器 | 伊朗革命卫队称在西北边境打击一支“敌对”武装小组 | 日本物价持续上涨，全年涨价商品预计超2万种
+  - 头版/首屏: South32大涨10%，此前以56亿美元将铝资产出售给美铝（Alcoa）。 | Anthropic：美国取消对Claude Fable 5、Mythos 5的出口管制，明天开始恢复访问。 | 据美国商务部长卢特尼克致Anthropic的信函，美国取消对Anthropic公司Fable 5的控制措施。（Wired） | 卢特尼克：Anthropic的Fable 5已通过分析并获得批准 | 特朗普已听取关于对伊朗战争方案的简报，但选择继续进行谈判。
+特朗普目前将坚持对伊朗进行外交谈判。
+特朗普告诉助手，如果谈判超过8月18日的截止日期，他也觉得可以接受。（华尔街日报） | 美国商务部长卢特尼克：与Anthropic进行了紧密合作，以批准Fable 5。 | 美国最大电网PJM着手管理数据中心电力需求 | 华尔街见闻早餐 | 2026年7月1日
+  - 其他: 日元自1986年以来首次跌穿162，二季度累跌约2.4% | 据路透报道，Jana Partners对EverPure构筑新的头寸。EverPure涨9%。 | 美国联邦航空管理局（FAA）：部门员工不可以持有SpaceX股票。（Politico） | 美元指数在6月份涨超2.2% | 芝加哥玉米期货涨1.5%，6月份累跌8.2%
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: As China’s Communist Party grows more slowly, its members are getting older | Why leading Chinese scientists are rising to the top in the Communist Party | China Economy | China faces economic balancing act: AI, exports boom while consumers stay home | Tech Trends | Beyond GPUs: AI-driven shortages hit chip materials and components | Society | Mainland China revises criteria for settling in Hong Kong, Macau
-  - 其他: World’s second-largest political party is ageing, official data shows, with nearly 30 per cent of members aged 61 or older. | Two high-level meetings show that Beijing is aware of economic imbalances as Politburo prepares high-stakes growth assessment next month. | Makers of power semiconductors, including Germany’s Infineon, US-based Texas Instruments and China’s Yangjie Technology, have raised prices. | National Immigration Administration announces new criteria to take effect Wednesday and replace current points-based system. | Indian officials said to be in talks to allow reporters from China to return
+  - 头版/首屏: The AI industrial revolution: why US faces a historic tech reckoning from China | Meituan claims China’s biggest AI model trained on local chips | Diplomacy | US, China should de-escalate from tit-for-tat actions, US lawmaker says | US Supreme Court strikes down Trump birthright citizenship order | Hong Kong marks July 1 anniversary with flag-raising ceremony, citywide deals | China steps up challenge to US, Japan in a strategic aerospace material | Companies
+  - 其他: From EVs to robotics, China’s advancement in cutting-edge tech has seen it shake off the West’s long-standing belief in US exceptionalism. | Steve Daines calls Beijing’s export controls on US companies and Pentagon’s blacklisting of Chinese tech firms ‘unfortunate developments’. | Court preserves automatic US citizenship for children born to undocumented immigrants and temporary visa holders. | City is celebrating the 29th anniversary of its return to Chinese sovereignty. | Race to the bottom? Why retailers bet on their own brands in China
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 成本上涨却未随同业加价，农夫山泉股价曾跌9% | 四川宜宾市高县5.5级地震 15人轻伤 | 美伊允停互袭 将赴卡塔尔重启谈判 | 白鸽在线首挂冲天，“智驾隐士”青出于蓝 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 韩国宣布芯片及AI巨额投资计划，芯片股持续强势 | 四川宜宾市高县5.5级地震 15人轻伤 | 伊反驳特朗普 称访卡塔尔非晤美官员 | 白鸽在线首挂冲天，“智驾隐士”青出于蓝 | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数22881.02-145.66(-0.63%)
                     etnet.com.hk@copyright | 国企指数7558.30-47.04(-0.62%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -29,30 +30,31 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 年中盤點 | 美股十大爆升ETF出爐！半導體、韓股題材強勢霸榜，SOXL年內飆升462%、KORU暴漲306% | 報道：三星1.4nm工藝或將於2029年重啓量產，有望爲蘋果先進製程供應提供多元選項 | 單季暴漲81%，卻在最後一週跌掉近8%！美股芯片板塊史上最佳季度前夜，華爾街開始追問：AI支出還能撐多久？ | SK海力士已提交在納斯達克上市申請。 | 美股Q2業績期即將來襲，高盛樂觀期待：AI熱潮將是最大動力 | 日元跌破162創40年新低！日本干預「紅線」或上移至163—165 | 北水加倉港股近59億港元，中芯國際、建滔積層板、騰訊控股分別獲淨買入超19億、10億、7億港元，長飛光纖光纜、阿里巴巴遭淨賣出超3億港元 | 優必選全尺寸超仿生機器人售價公佈
-  - 其他: 大摩Wilson：類比白銀，半導體或正在經歷最後狂歡 | 戰爭衝擊能源大動脈！殼牌(SHEL.US)：2026年全球LNG貿易恐陷「零增長」，2050年需求仍將逼近7億噸 | 日元40年新低背後：地緣、加息與特朗普施壓令日本陷入政策死角，740億美元干預「打水漂」？ | 香港交易所落實簡化每手買賣單位框架 | 收市速睇 | 三大指數漲跌不一，科指漲1.8%；半導體股走強，天數智芯漲近10%，中芯國際、華虹宏力漲超5%；新股真健康醫療飆升217%
+  - 头版/首屏: 對比鮮明！美股創「六年來最佳一季」，黃金經歷「十多年來最差一季」 | 伯恩斯坦上調閃迪目標價至3000美元，押注長協打破存儲週期魔咒 | 明日，美國又一份強勁非農來襲？白宮官員提前「劇透」 聯儲局將如何抉擇 | 美國對Anthropic Fable 5頂尖模型「解禁」，Anthropic：週三起恢復訪問 | AI基建熱潮推動下估值創30年新高！卡特彼勒成「大空頭」伯裏最新獵物 | 年中盤點 | 美股十大爆升ETF出爐！半導體、韓股題材強勢霸榜，SOXL年內飆升近463%，KORU暴漲近307% | 美股夜盤：Bloom Energy漲超9%，耐克跌超2% | 中東局勢再添變數：卡塔爾否認安排美伊多哈高級別會談，以軍多線突襲，阿曼被曝借海峽服務費爲伊朗收費鋪路
+  - 其他: 消息稱Anthropic模型Fable即將解禁 | 成交額TOP20 | 閃迪大漲11%，半年漲逾850%領跑標普500成分股；CPU雙雄走強，AMD漲超7%創新高，英特爾漲超6%；SemiAnalysis上調英偉達IDC營收預期 | 「大空頭」Burry最新持倉：首次做空卡特彼勒，同時做空特斯拉、英偉達和應用材料 | 美股收盤 | AI熱情驅動，標普、納指創2020年來最佳單季表現；費城半導體指數半年翻倍，美光半年漲超304%；比特幣連續三個季度下跌；油價創疫情來最差單季 | 「炒幣」高手特朗普！官方披露2025年加密貨幣業務斬獲超10億美元，重倉美股科技巨頭
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (6 站)
+- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
+- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
 - **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中) (1 站)
-- **加密货币** — 出现于: Benzinga (EN) (1 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN) (1 站)
+- **油价/能源/霍尔木兹** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 科技股/个股（5 站）
-- 中国/欧盟（4 站）
+- 科技股/个股（6 站）
+- 加密货币（3 站）
 - 就业/经济数据（3 站）
-- 油价/能源（2 站）
+- 伊朗/中东局势（2 站）
 - 黄金/大宗商品（2 站）
-- 伊朗/中东局势（1 站）
-- 加密货币（1 站）
-- 美联储/利率（1 站）
+- 美联储/利率（2 站）
+- 中国/欧盟（2 站）
+- 关税/贸易政策（1 站）
+- 油价/能源（1 站）
 - 中国政策（1 站）
-- 关税/贸易政策（0 站）
