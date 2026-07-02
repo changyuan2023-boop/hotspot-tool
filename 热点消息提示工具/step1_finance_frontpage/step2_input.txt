@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026070209
+抓取时间: 2026070220
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- Trump cools on his own trade pact
-- US sees 10 million barrels via Hormuz sapping Iran oil leverage
-- Trump Accounts are launching. Here's how money will be invested.
-- US sees 10 million barrels via Hormuz sapping Iran oil leverage
-- Trump Accounts are launching. Here's how money will be invested.
-- Trump's $1.4 billion haul makes him biggest US crypto moneymaker
-- Medicare will cover GLP-1 weight-loss drugs for $50 per month
-- US stock futures slip ahead of key jobs report
-- Musk meme traders rush back into Tesla when the stock hits $420
-- The June jobs report lands Thursday. Here's what to expect.
-- Warsh: Fed will not be comfortable with inflation above 2%
+- U.S. markets open in 1h 30m
+- The June jobs report lands today. Here's what to expect.
+- US stocks mixed amid tech pressure ahead of jobs report
+- American renters are coming under growing financial strain
+- US stocks mixed amid tech pressure ahead of jobs report
+- American renters are coming under growing financial strain
+- A hoard of Iranian oil is building up at sea despite US waiver
+- Korea's Kospi tanks nearly 8% as chip giants SK Hynix, Samsung dive
+- Electricity demand is set to pass GDP in growth for first time
+- SEC probes alleged insider trades that cost Susquehanna millions
+- Oil falls for a 3rd straight day as US, Iran conclude talks in Doha
+- Tumbling yen gives BOJ strong reason for an early rate hike
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- Lime jumps in debut as CEO says IPO happened at 'right moment'
-- Musk denies report SpaceX showed AI handset prototype before IPO
-- Together AI raises $800 million Series C at $8.3 billion valuation
-- Tech bull Ives slaps $190 price target on SpaceX
+- SpaceX: Analyst debut will test its $2.2T valuation
+- Google loses fight against record $4.7 billion EU antitrust fine
+- Super Micro: Taiwan staff held in probe involving its AI servers
+- OpenAI proposes handing Trump administration 5% stake
 - Popular
-- 'Taylor Swift Tax' stirs bad blood with Rhode Island homeowners
-- Trump fired the BLS chief — economists say it cost $20 billion
+- Gas prices stuck at highest in 4 years for the July 4th weekend
+- Inside Trump’s $1.4B crypto empire: Altcoins, bitcoin — and a Strategy stake
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,76 +42,71 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- I'm 56 and My Tech Company Stock Just Vested to $1.4M. My Entire Net Worth Is Basically One Ticker. My Financial Guy Says Diversify. My Gut Says Hold.
-- California vs. Elon Musk: Tesla Snubbed as New EV Incentives Boost Rivian, Lucid
-- AeroVironment Stock Rises On $500 Million Counter-Drone Contract
-- Shiba Inu Dumps 22% in a Month: What's Happening With SHIB?
-- Google Takes One-Two Antitrust Punch: Yelp Win, $1.5 Billion Klarna Ruling
+- Top Wall Street Forecasters Revamp Phoenix Education Partners Expectations Ahead Of Q3 Earnings
+- Constellation Brands Analysts Slash Their Forecasts After Q1 Results
+- Dave Portnoy Is Down Millions on His Bitcoin Bag: 'I'm Not Going to Sell, It May Go to Zero'
+- These Analysts Increase Their Forecasts On General Mills After Upbeat Q4 Results
+- Why Is Palantir Technologies Stock Surging Thursday?
+- Stock Market Today: Dow Jones Futures Rise, Nasdaq Falls as Trump Says Iran's 'Denuclearization' Is Going Well—CoreWeave, Nebius, Micron, Franklin Covey in Focus
 - Jobs Data
 - Cloud Computing
-- SanDisk’s Stock Supercycle Just Got Another Boost: BofA Raises Price Tag to $2,500
-- Americans Still Can't Afford to Buy — and Homebuilder Stocks Are Paying the Price
-- Concentra Standout in Occupational Medicine: Analyst
+- Jim Cramer Calls TJX 'a Buy' as an 'Inventory Play,' Says Walmart Seems 'Cheap'
+- Meta Could Crash the Neocloud Party, Analyst Says
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 殷勇会见全球移动通信系统协会首席执行官
-- 美国证券交易委员会（SEC）正在调查对Susquehanna造成打击的内幕期权交易。（彭博）
-- 武田制药与英矽智能达成AI药物研发合作，协议价值最高可达6亿美元。（华尔街日报）
-- 华尔街见闻早餐 | 2026年7月2日
-- 科技分析师Dan Ives宣布离开Wedbush
-- 高盛预估：世界杯或将为美国6月就业报告新增4万个岗位
-- 预测市场：Kalshi交易员认为，随着6月能源价格下跌，美国通胀已在5月触顶
-- Palantir首席执行官Alex Karp猛烈抨击Anthropic和 OpenAI使用的Token计费结构。
-Palantir与英伟达的开源模型是那些希望拥有自己数据所有权的企业和政府寻求的解决方案。
-AI Token 成本的飙升让各大
-- 报道：美国正与AI企业商讨新模型发布的自愿性标准
-- Hyosung Heavy与Ausnet签订3120亿韩元电力设备协议。
-- 超微电脑（SMCI）美股盘后涨幅迅速扩大至超过1.9%，该公司发布客户告知书。
-7月1日，该公司股价收跌5.73%，报27.65美元。
-- 在SpaceX获巨额回报，报道称马斯克盟友Gracias瞄准AI与能源领域投资
+- 乘联分会：2026年6月，全国新能源乘用车厂商批发销量预估达到151万辆，同比增长22%，环比增长12%，实现两位数双增长，标志着新能源板块在经历前期调整后已进入明确的复苏通道。
+- 摩根大通：芯片股的极端跑赢表现难以持续
+- 美伊为何采用间接会谈形式 专家解读
+- 林赛公司第三季度营运收入1.608亿美元，预估1.578亿美元。
+第三季度每股收益1.53美元，上年同期1.78美元。
+- 伊朗武装部队：美干涉霍尔木兹海峡将遭回击
+- 石药创新：控股子公司巨石生物与阿斯利康签署合作、选择权及授权协议，在新型小干扰核酸候选药物领域开展战略合作，开发新型肝外递送小干扰分子核酸候选药物
+- 伊朗称将对美国在霍尔木兹海峡的干预作出回应。（法尔斯通讯社）
+- 美股盘前，科技股延续此前跌势，美光科技跌近3%，英特尔跌超2%，康宁跌3.68%。
+- 软银计划在美国推出AI云服务 以抓住激增的需求
+- 谷歌在欧盟就41亿欧元安卓反垄断罚款案中败诉。
+- 理想“动刀”产品部：拆分整车和智驾产品，并入研发
+- 商务部回应对美农产品关税问题
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 卡特彼勒收跌6.9%，创2025年4月份以来最大单日跌幅，日前“大空头”Burry称首次做空该公司股票。
-- 美股七巨头收盘播报｜周三（7月1日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报210.60点，美股早盘持续上扬、北京时间23:00以来持续高位窄幅震荡。成分股Meta Platforms收涨8.8%，创1月29日以
-- 美股存储芯片指数收跌超9%，成分股泰瑞达、闪迪、美光跌超10%
-- 美股纳斯达克100指数收跌超1.5%，半导体指数重挫约6.3%，费城银行指数创收盘历史新高
-- 中概指数收涨超2.9%，KWEB涨超2.6%，世纪互联涨约9.6%，拼多多涨约8.2%，日月光半导体跌超4.7%
-- 报道：海湾国家被曝欲独自与伊朗达成地区安全协议
-- 周三（7月1日）纽约尾盘，美国10年期国债收益率涨0.99个基点，报4.4752%，美股开盘前后出现一波冲高回落行情、北京时间21:08刷新日高至4.4970%
-两年期美债收益率大致持平，报4.1702%，21:08刷新日高至4.1971%
-- 美国总统特朗普：我们正轻松赢得一场战争。
-我们在伊朗问题上进展顺利，就像在委内瑞拉那样。
-- 日元继续创1986年以来新低
-- 周三（7月1日）纽约尾盘，ICE美元指数涨0.20%，报101.387点，亚太盘初以来持续上扬、北京时间21:14刷新日高至101.595点，随后快速回落、刷新日低至101.200点、几乎完全回吐日内稍早涨幅，之后逐步回升。
-彭博美元指数涨
+- 盐湖股份：预计上半年净利润同比增长131.38%-142.95%
+- 2026年6月基金新开户23.36万户 同比增长16.57% 2026年累计新开183.15万户
+- 2026年6月A股新开户286.46万户 同比增长73.99% 2026年累计新开2016.14万户
+- 知情人士辟谣一汽奥迪中方一把手换帅：不实消息
+- 香港金融管理局通过贴现窗口向银行投放6.34亿港元流动性。
+- 神州数码：中标中国移动PC服务器项目，合计109.4亿元
+- 乌称基辅遭袭已致18死
+- 图灵量子与海光信息联合发布量子加密分布式存储方案
+- 普华永道预计2026年香港IPO融资额将达到3800亿港元。
+- 联想高管：算力没有过剩
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Beijing’s message for Asean – China doesn’t want to become a regional hegemon
-- Is hit indie film Dear You propaganda? Don’t be disrespectful, Chinese media says
+- Why it matters that China’s advanced fighters can use all its carriers
+- PLA’s advanced carrier Fujian transits Taiwan Strait amid military drills
+- Tech Trends
+- Zhipu AI’s new tool turns GLM-5.2 into agent amid Anthropic rivalry
 - Politics
-- A model for other states? China’s Xi lauds Communist Party’s global influence
-- Diplomacy
-- US backs away from USMCA trade deal, upset over Canada’s China ties
-- Education
-- Should Hong Kong ban smartphones in schools and who makes final call?
+- China Citic Tower plane crash pilot ‘suffered from anxiety’
+- Health & Environment
+- Hong Kong enters summer flu season as Covid infections also climb
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- External forces are undermining China’s efforts to support the global order, senior Communist Party official Sun Haiyan says.
-- On the 105th anniversary of the ruling party’s founding, Xi Jinping also warns members to stay vigilant and prepare for challenges.
-- Beijing not named in official notice, but US trade chief blames Canada’s courtship of Chinese investment as major obstacle to new agreement.
-- No consensus exists among educators and parents in Hong Kong on whether there should be a blanket ban on gadgets, as seen in some countries.
-- How a ‘Chinese heart’ could get US blood pumping despite biotech decoupling
-- Alibaba to pay US$600 million to settle US probe into illegal product sales
-- Amount resolves dispute with US government over allegations firm sold and imported illegal pharmaceuticals and controlled substances into US.
-- China’s Wang Yi warns Rubio to approach Taiwan affairs with ‘utmost caution’
-- Beijing’s top diplomat tells US Secretary of State to expand cooperation, manage risks in Taiwan-related issues during call on Tuesday.
-- Why North Korean POWs in Ukraine are making Seoul walk a diplomatic tightrope
+- While the J-15T was designed to use an advanced launch system, new images show it operating from the older Liaoning carrier.
+- Firm also known as Z.ai rolls out promotions to lure developers as US rival Anthropic responds to claim it covertly tracked Chinese users.
+- Authorities in Beijing identify the person as a 66-year-old resident of the Chinese capital with a private pilot licence.
+- Most of 23 adults with severe flu infections recorded last week had not received protective flu jabs under latest vaccination programme.
+- China treats pet anaesthetic as strictly as fentanyl after youth abuse spikes
+- Economy
+- UAE debuts first passenger train network built by Chinese contractors
+- The whole 11-city network, including the global financial hub Dubai, is due to be completed in March, according to state media.
+- China Business
+- China AI drug-design deals swell as US scrutiny mounts
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 韩国宣布芯片及AI巨额投资计划，芯片股持续强势
-- 创指上半年升近36% 寒武纪市值破万亿
+- 传Meta出售剩余算力，AI硬件概念股急回未宜沾手？
+- 非官方制造业PMI 6月降至51.7胜预期
 - 伊不理美反对 伙阿曼商霍峡收费
 - 白鸽在线首挂冲天，“智驾隐士”青出于蓝
 - 指数环球商品外汇
@@ -122,9 +117,9 @@ AI Token 成本的飙升让各大
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数22881.02-145.66(-0.63%)
+- 恒生指数23055.03+174.01(+0.76%)
                     etnet.com.hk@copyright
-- 国企指数7558.30-47.04(-0.62%)
+- 国企指数7612.48+54.18(+0.72%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -137,36 +132,35 @@ AI Token 成本的飙升让各大
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 沃什重申不提供前瞻性指引，縮表立場未變；Meta擬進軍雲計算，AI基礎設施股重挫；美國6月非農今日20:30將公佈；安克創新港股上市
-- 高盛：世界盃或爲6月非農「額外貢獻」4萬個崗位！白宮頻釋樂觀信號
-- Meta做了一個決定，擊穿芯片「永缺」敘事？
-- 沃什：通脹近四周降溫，AI正重塑經濟，前瞻指引失去必要性
-- 「算力稀缺」信仰遭遇考驗？Meta計劃出售過剩算力，AI硬件、雲計算紛紛重挫
-- 世界黃金協會發布年中展望：下半年金價或區間震盪
-- 馬斯克推進550億美元Terafab芯片項目，特斯拉與SpaceX合併預期再升溫
-- 韓國綜合指數盤初跌超5%，SK海力士跌近8%，三星電子跌超6%。
+- 聯儲局加息究竟是不是「危言聳聽」？今晚20:30美國非農夜重磅來襲！
+- 郭明錤：亞馬遜消費電子處理器轉向芯片自研，2027年出貨量可達4000萬台
+- 靜默期解除！22家投行下週集體「開麥」，SpaceX(SPCX.US)兩萬億估值大考來了
+- VCSEL還是硅光？英偉達光互連核心人才出走ams OSRAM，CPO賽道格局或將生變
+- 軟銀以10GW規模殺向美國AI雲市場! 孫正義和扎克伯格都想將閒置GPU變成現金流 AI算力過剩實錘了?
+- 北水減倉港股近20億港元，優必選、智譜、阿里巴巴獲淨買入超3億港元，華虹宏力、建滔積層板分別遭淨賣出超17億、14億港元
+- 年中盤點 | 北水上半年淨買入港股逾3000億港元同比縮水6成，加倉騰訊逾353億港元，拋售阿里換倉半導體、PCB等AI「硬科技」
+- Meta爭當「賣鏟人」，幹崩AI硬件牛市
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 成交額TOP20 | Meta擬進軍雲計算大漲近9%；芯片股回落，美光、閃迪跌超10%；微軟醞釀新一輪裁員；AMD推出內存集成封裝自適應SoC
-- 特朗普政府持續限制Anthropic最強模型Mythos，海外機構不可訪問
-- 跨越安全紅線後重啓：Anthropic Fable 5全面接入GitHub Copilot，押注長週期自主編程
-- 美股收盤 | Meta雲轉向引爆動量崩塌，三大指數齊跌，半導體指數重挫6%；軟件股輪動，Palantir漲近8%；金龍指數逆勢走強3%，拼多多漲超8%
-- 沃什淡化前瞻指引引發市場擔憂，華爾街警告美債波動或加劇
-- 降通脹靠統計局？美國修改PCE計算方法，5月核心通脹料將下降13個點子
-- 聯儲局主席沃什重磅出手：任命前英國央行行長King共同執掌新設溝通工作組
-- 通脹降溫與油價暴跌瓦解加息共識，歐央行內部意見分裂，9月或成政策分水嶺
-- 蘋果籌備全新iPad Pro與重新設計的入門級MacBook Pro，並計劃於明年上半年推出基礎版M7芯片
-- 伊朗高調全球賣油，但霍爾木茲籌碼被削弱？美媒稱海峽日輸油量重返千萬桶
+- 1000萬台摺疊屏、8500萬臺新機！蘋果據稱在存儲荒裏反向加單
+- 收市速睇 | 三大指數漲跌不一，恒指漲0.76%；新能源車股上揚，比亞迪漲超8%，小米漲超4%；光通信、存儲股走弱，長飛光纖光纜跌超22%，兆易創新跌超18%
+- AI超級牛市邁向「壓力測試」階段! 日韓股匯極端背離之際 創紀錄槓桿將AI半導體推向股市風暴眼
+- AI資本開支見頂之時，就是黃金東山再起之日？
+- 年中盤點 | 港市上半年逾八成新股首日報捷！思格新能首掛升超103%，一手爆賺超3.3萬港元
+- 算力稀缺信仰崩塌！Meta「賣算力」引發全球芯片雪崩，韓股暴跌8%觸發熔斷、外資單日出逃逾5萬億韓元
+- 當Meta開始賣算力，誰最受傷？真正的信號是什麼？
+- 牧原股份上漲，生豬重回10元價位，機構稱行業產能調控政策明顯提速
+- 五千億級投資來襲！韓國兩大芯片巨頭建廠計劃官宣
+- 從1.8%到7%！聯儲局「減息or加息」 只是道通脹選擇題？
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 就业数据: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美国关税: 华尔街见闻 (简中), 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), SCMP (EN/中)
 - 加密货币: Yahoo Finance (EN), Benzinga (EN)
 - 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 美国关税: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---

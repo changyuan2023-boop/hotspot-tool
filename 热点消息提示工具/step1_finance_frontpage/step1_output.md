@@ -3,58 +3,56 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | Trump cools on his own trade pact | US sees 10 million barrels via Hormuz sapping Iran oil leverage | Trump Accounts are launching. Here's how money will be invested. | US sees 10 million barrels via Hormuz sapping Iran oil leverage | Trump Accounts are launching. Here's how money will be invested. | Trump's $1.4 billion haul makes him biggest US crypto moneymaker | Medicare will cover GLP-1 weight-loss drugs for $50 per month
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Lime jumps in debut as CEO says IPO happened at 'right moment' | Musk denies report SpaceX showed AI handset prototype before IPO
+  - 头版/首屏: U.S. markets open in 1h 30m | The June jobs report lands today. Here's what to expect. | US stocks mixed amid tech pressure ahead of jobs report | American renters are coming under growing financial strain | US stocks mixed amid tech pressure ahead of jobs report | American renters are coming under growing financial strain | A hoard of Iranian oil is building up at sea despite US waiver | Korea's Kospi tanks nearly 8% as chip giants SK Hynix, Samsung dive
+  - 其他: Top Stories | Markets & Economy | Tech & AI | SpaceX: Analyst debut will test its $2.2T valuation | Google loses fight against record $4.7 billion EU antitrust fine
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: I'm 56 and My Tech Company Stock Just Vested to $1.4M. My Entire Net Worth Is Basically One Ticker. My Financial Guy Says Diversify. My Gut Says Hold. | California vs. Elon Musk: Tesla Snubbed as New EV Incentives Boost Rivian, Lucid | AeroVironment Stock Rises On $500 Million Counter-Drone Contract | Shiba Inu Dumps 22% in a Month: What's Happening With SHIB? | Google Takes One-Two Antitrust Punch: Yelp Win, $1.5 Billion Klarna Ruling
+  - 其他: Top Wall Street Forecasters Revamp Phoenix Education Partners Expectations Ahead Of Q3 Earnings | Constellation Brands Analysts Slash Their Forecasts After Q1 Results | Dave Portnoy Is Down Millions on His Bitcoin Bag: 'I'm Not Going to Sell, It May Go to Zero' | These Analysts Increase Their Forecasts On General Mills After Upbeat Q4 Results | Why Is Palantir Technologies Stock Surging Thursday?
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 殷勇会见全球移动通信系统协会首席执行官 | 美国证券交易委员会（SEC）正在调查对Susquehanna造成打击的内幕期权交易。（彭博） | 武田制药与英矽智能达成AI药物研发合作，协议价值最高可达6亿美元。（华尔街日报） | 华尔街见闻早餐 | 2026年7月2日 | 科技分析师Dan Ives宣布离开Wedbush | 高盛预估：世界杯或将为美国6月就业报告新增4万个岗位 | 预测市场：Kalshi交易员认为，随着6月能源价格下跌，美国通胀已在5月触顶 | Palantir首席执行官Alex Karp猛烈抨击Anthropic和 OpenAI使用的Token计费结构。
-Palantir与英伟达的开源模型是那些希望拥有自己数据所有权的企业和政府寻求的解决方案。
-AI Token 成本的飙升让各大
-  - 其他: 卡特彼勒收跌6.9%，创2025年4月份以来最大单日跌幅，日前“大空头”Burry称首次做空该公司股票。 | 美股七巨头收盘播报｜周三（7月1日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报210.60点，美股早盘持续上扬、北京时间23:00以来持续高位窄幅震荡。成分股Meta Platforms收涨8.8%，创1月29日以 | 美股存储芯片指数收跌超9%，成分股泰瑞达、闪迪、美光跌超10% | 美股纳斯达克100指数收跌超1.5%，半导体指数重挫约6.3%，费城银行指数创收盘历史新高 | 中概指数收涨超2.9%，KWEB涨超2.6%，世纪互联涨约9.6%，拼多多涨约8.2%，日月光半导体跌超4.7%
+  - 头版/首屏: 乘联分会：2026年6月，全国新能源乘用车厂商批发销量预估达到151万辆，同比增长22%，环比增长12%，实现两位数双增长，标志着新能源板块在经历前期调整后已进入明确的复苏通道。 | 摩根大通：芯片股的极端跑赢表现难以持续 | 美伊为何采用间接会谈形式 专家解读 | 林赛公司第三季度营运收入1.608亿美元，预估1.578亿美元。
+第三季度每股收益1.53美元，上年同期1.78美元。 | 伊朗武装部队：美干涉霍尔木兹海峡将遭回击 | 石药创新：控股子公司巨石生物与阿斯利康签署合作、选择权及授权协议，在新型小干扰核酸候选药物领域开展战略合作，开发新型肝外递送小干扰分子核酸候选药物 | 伊朗称将对美国在霍尔木兹海峡的干预作出回应。（法尔斯通讯社） | 美股盘前，科技股延续此前跌势，美光科技跌近3%，英特尔跌超2%，康宁跌3.68%。
+  - 其他: 盐湖股份：预计上半年净利润同比增长131.38%-142.95% | 2026年6月基金新开户23.36万户 同比增长16.57% 2026年累计新开183.15万户 | 2026年6月A股新开户286.46万户 同比增长73.99% 2026年累计新开2016.14万户 | 知情人士辟谣一汽奥迪中方一把手换帅：不实消息 | 香港金融管理局通过贴现窗口向银行投放6.34亿港元流动性。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Beijing’s message for Asean – China doesn’t want to become a regional hegemon | Is hit indie film Dear You propaganda? Don’t be disrespectful, Chinese media says | Politics | A model for other states? China’s Xi lauds Communist Party’s global influence | Diplomacy | US backs away from USMCA trade deal, upset over Canada’s China ties | Education | Should Hong Kong ban smartphones in schools and who makes final call?
-  - 其他: External forces are undermining China’s efforts to support the global order, senior Communist Party official Sun Haiyan says. | On the 105th anniversary of the ruling party’s founding, Xi Jinping also warns members to stay vigilant and prepare for challenges. | Beijing not named in official notice, but US trade chief blames Canada’s courtship of Chinese investment as major obstacle to new agreement. | No consensus exists among educators and parents in Hong Kong on whether there should be a blanket ban on gadgets, as seen in some countries. | How a ‘Chinese heart’ could get US blood pumping despite biotech decoupling
+  - 头版/首屏: Why it matters that China’s advanced fighters can use all its carriers | PLA’s advanced carrier Fujian transits Taiwan Strait amid military drills | Tech Trends | Zhipu AI’s new tool turns GLM-5.2 into agent amid Anthropic rivalry | Politics | China Citic Tower plane crash pilot ‘suffered from anxiety’ | Health & Environment | Hong Kong enters summer flu season as Covid infections also climb
+  - 其他: While the J-15T was designed to use an advanced launch system, new images show it operating from the older Liaoning carrier. | Firm also known as Z.ai rolls out promotions to lure developers as US rival Anthropic responds to claim it covertly tracked Chinese users. | Authorities in Beijing identify the person as a 66-year-old resident of the Chinese capital with a private pilot licence. | Most of 23 adults with severe flu infections recorded last week had not received protective flu jabs under latest vaccination programme. | China treats pet anaesthetic as strictly as fentanyl after youth abuse spikes
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 韩国宣布芯片及AI巨额投资计划，芯片股持续强势 | 创指上半年升近36% 寒武纪市值破万亿 | 伊不理美反对 伙阿曼商霍峡收费 | 白鸽在线首挂冲天，“智驾隐士”青出于蓝 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数22881.02-145.66(-0.63%)
-                    etnet.com.hk@copyright | 国企指数7558.30-47.04(-0.62%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 传Meta出售剩余算力，AI硬件概念股急回未宜沾手？ | 非官方制造业PMI 6月降至51.7胜预期 | 伊不理美反对 伙阿曼商霍峡收费 | 白鸽在线首挂冲天，“智驾隐士”青出于蓝 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数23055.03+174.01(+0.76%)
+                    etnet.com.hk@copyright | 国企指数7612.48+54.18(+0.72%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 沃什重申不提供前瞻性指引，縮表立場未變；Meta擬進軍雲計算，AI基礎設施股重挫；美國6月非農今日20:30將公佈；安克創新港股上市 | 高盛：世界盃或爲6月非農「額外貢獻」4萬個崗位！白宮頻釋樂觀信號 | Meta做了一個決定，擊穿芯片「永缺」敘事？ | 沃什：通脹近四周降溫，AI正重塑經濟，前瞻指引失去必要性 | 「算力稀缺」信仰遭遇考驗？Meta計劃出售過剩算力，AI硬件、雲計算紛紛重挫 | 世界黃金協會發布年中展望：下半年金價或區間震盪 | 馬斯克推進550億美元Terafab芯片項目，特斯拉與SpaceX合併預期再升溫 | 韓國綜合指數盤初跌超5%，SK海力士跌近8%，三星電子跌超6%。
-  - 其他: 成交額TOP20 | Meta擬進軍雲計算大漲近9%；芯片股回落，美光、閃迪跌超10%；微軟醞釀新一輪裁員；AMD推出內存集成封裝自適應SoC | 特朗普政府持續限制Anthropic最強模型Mythos，海外機構不可訪問 | 跨越安全紅線後重啓：Anthropic Fable 5全面接入GitHub Copilot，押注長週期自主編程 | 美股收盤 | Meta雲轉向引爆動量崩塌，三大指數齊跌，半導體指數重挫6%；軟件股輪動，Palantir漲近8%；金龍指數逆勢走強3%，拼多多漲超8% | 沃什淡化前瞻指引引發市場擔憂，華爾街警告美債波動或加劇
+  - 头版/首屏: 聯儲局加息究竟是不是「危言聳聽」？今晚20:30美國非農夜重磅來襲！ | 郭明錤：亞馬遜消費電子處理器轉向芯片自研，2027年出貨量可達4000萬台 | 靜默期解除！22家投行下週集體「開麥」，SpaceX(SPCX.US)兩萬億估值大考來了 | VCSEL還是硅光？英偉達光互連核心人才出走ams OSRAM，CPO賽道格局或將生變 | 軟銀以10GW規模殺向美國AI雲市場! 孫正義和扎克伯格都想將閒置GPU變成現金流 AI算力過剩實錘了? | 北水減倉港股近20億港元，優必選、智譜、阿里巴巴獲淨買入超3億港元，華虹宏力、建滔積層板分別遭淨賣出超17億、14億港元 | 年中盤點 | 北水上半年淨買入港股逾3000億港元同比縮水6成，加倉騰訊逾353億港元，拋售阿里換倉半導體、PCB等AI「硬科技」 | Meta爭當「賣鏟人」，幹崩AI硬件牛市
+  - 其他: 1000萬台摺疊屏、8500萬臺新機！蘋果據稱在存儲荒裏反向加單 | 收市速睇 | 三大指數漲跌不一，恒指漲0.76%；新能源車股上揚，比亞迪漲超8%，小米漲超4%；光通信、存儲股走弱，長飛光纖光纜跌超22%，兆易創新跌超18% | AI超級牛市邁向「壓力測試」階段! 日韓股匯極端背離之際 創紀錄槓桿將AI半導體推向股市風暴眼 | AI資本開支見頂之時，就是黃金東山再起之日？ | 年中盤點 | 港市上半年逾八成新股首日報捷！思格新能首掛升超103%，一手爆賺超3.3萬港元
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (6 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
 - **就业/经济数据** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
 - **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
 - **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
-- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（6 站）
-- 伊朗/中东局势（4 站）
+- 中国/欧盟（4 站）
+- 伊朗/中东局势（3 站）
 - 就业/经济数据（3 站）
+- 关税/贸易政策（2 站）
 - 油价/能源（2 站）
 - 加密货币（2 站）
 - 黄金/大宗商品（2 站）
-- 美联储/利率（2 站）
-- 中国/欧盟（2 站）
 - 中国政策（2 站）
-- 关税/贸易政策（1 站）
+- 美联储/利率（0 站）
