@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026070220
+抓取时间: 2026070309
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- The June jobs report lands today. Here's what to expect.
-- US stocks mixed amid tech pressure ahead of jobs report
-- American renters are coming under growing financial strain
-- US stocks mixed amid tech pressure ahead of jobs report
-- American renters are coming under growing financial strain
-- A hoard of Iranian oil is building up at sea despite US waiver
-- Korea's Kospi tanks nearly 8% as chip giants SK Hynix, Samsung dive
-- Electricity demand is set to pass GDP in growth for first time
-- SEC probes alleged insider trades that cost Susquehanna millions
-- Oil falls for a 3rd straight day as US, Iran conclude talks in Doha
-- Tumbling yen gives BOJ strong reason for an early rate hike
+- U.S. markets closed
+- June jobs report keeps Fed focused on inflation
+- How Trump made more than $1 billion on crypto when most of his coin’s investors lost money
+- Dow hits fresh record as Tesla slump, chip sell-off weigh on Nasdaq
+- How Trump made more than $1 billion on crypto when most of his coin’s investors lost money
+- Dow hits fresh record as Tesla slump, chip sell-off weigh on Nasdaq
+- Trump financial disclosure shows 21,000 trades in 2025
+- Spotify removes streams of No. 1 song after suspicious Kalshi bets
+- What the June jobs report reveals about the labor market
+- Is the stock market open on July 3rd?
+- Mortgage rates hover near 6.5% as housing market shows signs of life
+- Jersey Mike's files to go public after rapid sales growth in recent years
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- SpaceX: Analyst debut will test its $2.2T valuation
-- Google loses fight against record $4.7 billion EU antitrust fine
-- Super Micro: Taiwan staff held in probe involving its AI servers
-- OpenAI proposes handing Trump administration 5% stake
+- Zuckerberg says AI agent development slower than expected
+- Tesla stock dives despite blowout Q2 deliveries report
+- Robinhood soars amid major expansion and push for '24/7' trading
+- China's Kling AI raises $2B to expand AI video operations
 - Popular
-- Gas prices stuck at highest in 4 years for the July 4th weekend
-- Inside Trump’s $1.4B crypto empire: Altcoins, bitcoin — and a Strategy stake
+- Cracking open a can of cannabis — America's new pastime
+- Starbucks is leaning into a menu that’s anything but just coffee
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,72 +42,78 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Top Wall Street Forecasters Revamp Phoenix Education Partners Expectations Ahead Of Q3 Earnings
-- Constellation Brands Analysts Slash Their Forecasts After Q1 Results
-- Dave Portnoy Is Down Millions on His Bitcoin Bag: 'I'm Not Going to Sell, It May Go to Zero'
-- These Analysts Increase Their Forecasts On General Mills After Upbeat Q4 Results
-- Why Is Palantir Technologies Stock Surging Thursday?
-- Stock Market Today: Dow Jones Futures Rise, Nasdaq Falls as Trump Says Iran's 'Denuclearization' Is Going Well—CoreWeave, Nebius, Micron, Franklin Covey in Focus
+- Kevin O’Leary Says Some ‘Shark Tank’ Investments Are ‘Turds’ And Some Are Hits  — Nobody Wanted Cupcake-In-A-Jar Company, Then Hickory Farms Bought It
+- 3 Stocks to Buy Every July
+- Anthropic Bet Delivers Blackstone's Strongest Month Since Launch
+- Software's AI Death Knell Is a Hallucination, Guggenheim Says
+- SurgePays Stock Skyrockets 35% After Eliminating $50 Million AT&T Spend Rule
+- Dow Hits Records as Money Rotates Out of AI Chips Into Blue Chips: This Week on Wall Street
+- Jobs Report
 - Jobs Data
-- Cloud Computing
-- Jim Cramer Calls TJX 'a Buy' as an 'Inventory Play,' Says Walmart Seems 'Cheap'
-- Meta Could Crash the Neocloud Party, Analyst Says
+- Why Trump Accounts Picked IVV, VTI and SPYM: The ETF Strategy Behind America's New Child Investment Plan
+- Stock Of The Day: Is CoreWeave Headed Lower?
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 乘联分会：2026年6月，全国新能源乘用车厂商批发销量预估达到151万辆，同比增长22%，环比增长12%，实现两位数双增长，标志着新能源板块在经历前期调整后已进入明确的复苏通道。
-- 摩根大通：芯片股的极端跑赢表现难以持续
-- 美伊为何采用间接会谈形式 专家解读
-- 林赛公司第三季度营运收入1.608亿美元，预估1.578亿美元。
-第三季度每股收益1.53美元，上年同期1.78美元。
-- 伊朗武装部队：美干涉霍尔木兹海峡将遭回击
-- 石药创新：控股子公司巨石生物与阿斯利康签署合作、选择权及授权协议，在新型小干扰核酸候选药物领域开展战略合作，开发新型肝外递送小干扰分子核酸候选药物
-- 伊朗称将对美国在霍尔木兹海峡的干预作出回应。（法尔斯通讯社）
-- 美股盘前，科技股延续此前跌势，美光科技跌近3%，英特尔跌超2%，康宁跌3.68%。
-- 软银计划在美国推出AI云服务 以抓住激增的需求
-- 谷歌在欧盟就41亿欧元安卓反垄断罚款案中败诉。
-- 理想“动刀”产品部：拆分整车和智驾产品，并入研发
-- 商务部回应对美农产品关税问题
+- 人民日报：平台经济要从“拼价格”转向“拼质量、拼创新”
+- 中金：非农降温支持联储不加息、不降息
+- 网红券商Robinhood的CEO Vlad Tenev认为：Agentic AI很快就会具备人类交易员的能力。
+- 华泰证券：6月非农超预期下行暂缓美联储短期加息压力
+- 杰夫·贝索斯家族办公室在6月领投五家AI初创企业
+- 瑞银最新报告：股市上涨在2025年创造近100万名新晋百万富翁
+- 随着USMCA贸易谈判重启，福特CEO希望与丰田、通用进口车公平竞争
+- 报道：韩国考虑动用5万亿韩元增量税收推进自主AI模型开发，正在讨论购买约1万个英伟达Vera Rubin GPU模块
+- 印度警示网络安全风险后，Meta回应称WhatsApp用户名功能已设置多重防诈骗防护机制
+- 亚马逊高管：公司正在为Echo、Fire TV及未来设备设计自研AI芯片
+- 华尔街见闻早餐 | 2026年7月3日
+- 加拿大Pembina推进燃气数据中心项目
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 盐湖股份：预计上半年净利润同比增长131.38%-142.95%
-- 2026年6月基金新开户23.36万户 同比增长16.57% 2026年累计新开183.15万户
-- 2026年6月A股新开户286.46万户 同比增长73.99% 2026年累计新开2016.14万户
-- 知情人士辟谣一汽奥迪中方一把手换帅：不实消息
-- 香港金融管理局通过贴现窗口向银行投放6.34亿港元流动性。
-- 神州数码：中标中国移动PC服务器项目，合计109.4亿元
-- 乌称基辅遭袭已致18死
-- 图灵量子与海光信息联合发布量子加密分布式存储方案
-- 普华永道预计2026年香港IPO融资额将达到3800亿港元。
-- 联想高管：算力没有过剩
+- 特朗普：美联储主席沃什必须做他必须做的事
+- 美国总统特朗普赞赏股市上涨。
+被问及财务状况时，再次赞赏股市。
+“我的生意都是我孩子打理的，（担任总统期间）我不参与”。
+“我让别人投资我的钱，我不知道他们是谁。”（CNBC）
+- Crusoe洽谈30亿美元融资，估值有望增长两倍
+- 高温席卷美国大部分地区，约1.63亿人受影响
+- 周四（7月2日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7888元，较周三纽约尾盘涨59点，日内整体交投于6.7966-6.7836元区间，美国非农就业报告时显著反弹。
+- Citadel（城堡）旗下战术交易基金至6月份（上半年）资产管理规模增长14.3%。
+Wellington Fund至6月末回报率为5.7%。（CNBC）
+- 美国电网运营巨头PJM互联公司（PJM Interconnection LLC）更新炎热天气的运营情况。
+针对7月3日发布“最大化发电警报”。
+现阶段针对7月3日发布电网负荷管理警告。
+针对炎热天气的（用电）警报有效期至少将持续至7月4日。
+- 现货黄金在非农日涨超2%
+- “大空头”Burry：周三狙空美光
+- 新兴市场外汇市场受美国疲软就业数据及美元走弱提振
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Why it matters that China’s advanced fighters can use all its carriers
-- PLA’s advanced carrier Fujian transits Taiwan Strait amid military drills
-- Tech Trends
-- Zhipu AI’s new tool turns GLM-5.2 into agent amid Anthropic rivalry
-- Politics
-- China Citic Tower plane crash pilot ‘suffered from anxiety’
+- Why young Chinese are turning away from the American dream
+- The US town, the Chinese company and the bankrupting battle over a battery plant
+- Diplomacy
+- Which Trump will show up at Nato summit? Odds are it will be the fuming one
+- China
+- Exclusive | China signals openness to cut gaping EU trade gap as Brussels toughens stance
 - Health & Environment
 - Hong Kong enters summer flu season as Covid infections also climb
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- While the J-15T was designed to use an advanced launch system, new images show it operating from the older Liaoning carrier.
-- Firm also known as Z.ai rolls out promotions to lure developers as US rival Anthropic responds to claim it covertly tracked Chinese users.
-- Authorities in Beijing identify the person as a 66-year-old resident of the Chinese capital with a private pilot licence.
+- Unlike older generations, who saw the US as the ultimate destination, China’s Gen Z views the superpower through a more pragmatic lens.
+- US president’s impatience and distrust of multilateral groupings has Nato’s 31 members walking on eggshells before next week’s key meeting.
+- Beijing floats buying more European goods as the EU weighs new trade tools and presses for tangible progress by October.
 - Most of 23 adults with severe flu infections recorded last week had not received protective flu jabs under latest vaccination programme.
 - China treats pet anaesthetic as strictly as fentanyl after youth abuse spikes
-- Economy
-- UAE debuts first passenger train network built by Chinese contractors
-- The whole 11-city network, including the global financial hub Dubai, is due to be completed in March, according to state media.
 - China Business
-- China AI drug-design deals swell as US scrutiny mounts
+- ‘Big Short’ 2.0? US hedge fund manager warns of a global AI bubble
+- China’s AI stocks entered the second half of 2026 with improving earnings momentum, but scepticism about the sector is increasing.
+- US lawmakers push for fewer tax breaks to reduce reliance on China technology
+- Congressman Nathaniel Moran also warns US business leaders of corporate America’s growing ‘toxic relationship’ with ‘adversary’ Beijing.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 传Meta出售剩余算力，AI硬件概念股急回未宜沾手？
+- 比亚迪海外销量再创新高，股价飙8%可看高一线？
 - 非官方制造业PMI 6月降至51.7胜预期
-- 伊不理美反对 伙阿曼商霍峡收费
+- 美伊首轮谈判结束 永久和平无进展
 - 白鸽在线首挂冲天，“智驾隐士”青出于蓝
 - 指数环球商品外汇
 - 国金观点
@@ -132,35 +138,35 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 聯儲局加息究竟是不是「危言聳聽」？今晚20:30美國非農夜重磅來襲！
-- 郭明錤：亞馬遜消費電子處理器轉向芯片自研，2027年出貨量可達4000萬台
-- 靜默期解除！22家投行下週集體「開麥」，SpaceX(SPCX.US)兩萬億估值大考來了
-- VCSEL還是硅光？英偉達光互連核心人才出走ams OSRAM，CPO賽道格局或將生變
-- 軟銀以10GW規模殺向美國AI雲市場! 孫正義和扎克伯格都想將閒置GPU變成現金流 AI算力過剩實錘了?
-- 北水減倉港股近20億港元，優必選、智譜、阿里巴巴獲淨買入超3億港元，華虹宏力、建滔積層板分別遭淨賣出超17億、14億港元
-- 年中盤點 | 北水上半年淨買入港股逾3000億港元同比縮水6成，加倉騰訊逾353億港元，拋售阿里換倉半導體、PCB等AI「硬科技」
-- Meta爭當「賣鏟人」，幹崩AI硬件牛市
+- 富途早報 | 非農「爆冷」，市場推遲聯儲局加息時點預期；報道稱Anthropic正與三星洽談定製人工智能芯片；Meta承認AI進展未達預期；快手可靈近30億美元融資落地；今日美股休市
+- AI算力狂歡難掩資本開支「恐高症」：Meta、Anthropic接連傳出新動作，市場開始重估AI交易？
+- 特朗普談非農「爆冷」：沃什必須做他該乾的事，但FED理事會有點敵對！
+- Meta「賣算力」原因曝光？扎克伯格：AI智能體開發速度不及預期
+- 韓國綜合指數跌超2%，SK海力士跌超3%
+- 「大空頭」Burry：週三在1051.87美元狙空美光！美股半導體面臨30%回調
+- 900多頁報告曝光特朗普去年「神祕操盤」：AI交易踩點、關稅風暴前後高頻換倉
+- 曝蘋果大幅上調摺疊屏iPhone備貨目標至約1000萬部，哪些廠商最先受益？(附概念股)
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 1000萬台摺疊屏、8500萬臺新機！蘋果據稱在存儲荒裏反向加單
-- 收市速睇 | 三大指數漲跌不一，恒指漲0.76%；新能源車股上揚，比亞迪漲超8%，小米漲超4%；光通信、存儲股走弱，長飛光纖光纜跌超22%，兆易創新跌超18%
-- AI超級牛市邁向「壓力測試」階段! 日韓股匯極端背離之際 創紀錄槓桿將AI半導體推向股市風暴眼
-- AI資本開支見頂之時，就是黃金東山再起之日？
-- 年中盤點 | 港市上半年逾八成新股首日報捷！思格新能首掛升超103%，一手爆賺超3.3萬港元
-- 算力稀缺信仰崩塌！Meta「賣算力」引發全球芯片雪崩，韓股暴跌8%觸發熔斷、外資單日出逃逾5萬億韓元
-- 當Meta開始賣算力，誰最受傷？真正的信號是什麼？
-- 牧原股份上漲，生豬重回10元價位，機構稱行業產能調控政策明顯提速
-- 五千億級投資來襲！韓國兩大芯片巨頭建廠計劃官宣
-- 從1.8%到7%！聯儲局「減息or加息」 只是道通脹選擇題？
+- 霍爾木茲收費勢不可擋？歐洲據稱已相信付費不可避免、阿曼同歐美分享正式方案
+- 成交額TOP20 | 閃迪續跌14%，美光跌超5%；蘋果上調摺疊屏備貨預期大漲5%；扎克伯格稱Meta AI「掉隊」；特斯拉嚴控員工AI支出
+- 最大買家變潛在賣家！摩根大通警告：Strategy策略轉向爲加密市場增添新變數
+- 美股收盤 | 非農提振減息預期，道指新高；半導體指數兩日累跌11%，閃迪大跌14%；太空概念走高，SpaceX漲近3%；黃金大漲
+- 特朗普：聯儲局主席沃什必須做他必須做的事，沃什有一個稍顯敵對的委員會
+- 報道：扎克伯格稱Meta AI智能體開發不及預期
+- 「大空頭」Michael Burry：週三在1051.87美元狙空美光科技。
+- 特斯拉Q2交付大超預期創歷史最強，股價爲何重挫7%創近一年最大跌幅？
+- 美股收盤：芯片股重挫 閃迪大跌14%
+- 哈塞特批評鮑威爾：留任聯儲局極不尋常，阻礙特朗普任命新人選
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 就业数据: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 美国关税: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 就业数据: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
 - 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
+- 伊朗/中东: 华尔街见闻 (简中)
+- 美国关税: 华尔街见闻 (简中)
+- 油价/霍尔木兹: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
