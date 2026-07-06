@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026070320
+抓取时间: 2026070609
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - U.S. markets closed
-- The AI trade is losing one of its key signals
-- Chip industry urges US to avoid worsening the memory squeeze
-- Oil has powered the US for 75 years. That's about to change.
-- Chip industry urges US to avoid worsening the memory squeeze
-- Oil has powered the US for 75 years. That's about to change.
-- What the June jobs report reveals about the labor market
-- American renters are coming under growing financial strain
-- Is the US stock market open on July 3rd?
-- Trump Accounts launch tomorrow. Here's how they will be invested.
-- Inflows into funds rise as investors buy the tech-stock dip
-- Trump gave crypto the red-carpet treatment. It's slumping anyway.
+- Wall Street sees more upside in stocks for second half of 2026
+- US stock futures climb after record-setting week
+- Why reopening the Strait of Hormuz might be a problem for the oil market
+- US stock futures climb after record-setting week
+- Why reopening the Strait of Hormuz might be a problem for the oil market
+- AI bubble fears, the K-shaped economy, and hyperscaler capex spending
+- Why the 'follow your passion' mantra can derail your career
+- Trump's war means higher global interest rates for years to come
+- Rate hike readjustment, AI hardware momentum in focus this week
+- These are all the companies pledging matching funds to Trump Accounts
+- Defaulted on your federal loans? Here's how the new rehabilitation rules change things.
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- Zuckerberg: AI agents aren't as progressing fast as expected
-- These steep AI price hikes are coming for your wallet
-- Kioxia ships next-gen memory chip samples to tap AI boom
-- Anthropic moves to close China loopholes for Claude access
+- SK Hynix to launch $28B US listing to ride global AI wave
 - Popular
-- Meet the 'Zillennials' — the luckiest micro-generation in the workforce
-- AI's promised $2.2T deficit fix is already half fake: Economists
+- Michael Lee-Chin: rich people get wealthy by doing 5 simple things
+- Largest data center project ever proposed is officially dead
+- Warren Buffett on how he'd become a billionaire again with $10K
+- 5 smart ways to save money on back-to-school supplies
+- Americans gave a record $617 billion despite cost-of-living squeeze
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,65 +42,59 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Brent Crude Could Sink to $60 a Barrel by Year-End Despite 'Temporary Flare-Ups' Between US and Iran, Citi Analysts Say
-- Alex Karp's AI Vision Gets Fresh Backing As Analysts Call Palantir the ‘Oxygen’ Behind Enterprise AI
-- Amazon's Starlink Rival Leo Surpasses 390 Satellites After Atlas V Launch, Eyes Initial Service This Year
-- Jack Smith Breaks Silence on Trump— Warns ‘Rule of Law’ is Under Attack and Says He's ‘Very Concerned’ About Midterm Election Integrity
-- Software Legend Kent Beck Says AI is Turning Coding Careers Into a ‘Cosmic Practical Joke’ as Soft Skills Become Critical
-- Michael Burry Is Shorting Micron as a 'Destroyer Of Capital' Despite Trump's Praises and a 241% Rally— Here's Why
-- Jobs Report
-- Jobs Data
+- Billionaire Mark Cuban Says Raising Minimum Wage To $20 Is Smart — ‘It Was Embarrassing’ When Employees At His Company Needed Government Assistance
+- SCHD ETF Is Beating VOO and QQQ This Year Despite Limited AI Exposure
+- Goldman Sachs Names Top Undervalued Stocks to Buy Today
+- Top Three Likely Outperformers BTIG Analysts Expect to Jump This Year
+- Top Three Catalysts That Could Move the S&P 500 and Dow This Week
+- OPEC+ Agrees To Raise Output Even as Hormuz Shipping Security Remains Uncertain
+- Kevin O'Leary
+- Anthony Scaramucci
 - SurgePays Stock Skyrockets 35% After Eliminating $50 Million AT&T Spend Rule
-- Cathie Wood Calls June Jobs Report 'Weird' and 'Very Distorted' As Wall Street Says the Payroll Miss Doesn't Add Up
+- Anthony Scaramucci Calls Washington Corruption 'Ridiculous,' Says Trump Defenders Are 'Part of a Cult'
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 腾讯云：DeepSeek-V4正式版“原厂直供”模型计划于7月中上线
-- 全球最大编程助手GitHub Copilot宣布接入首个开源模型Kimi K2.7 Code
-- 英国6月新车总销量同比增长14.9%，至215,921辆。
-特斯拉6月英国新车销量同比增长42%，至12,403辆。
-- 1300台小鹏汽车批量交付给神州租车
-- 铠侠与闪迪开始在北上工厂Fab2生产第十代3D闪存产品。（彭博）
-- 美银：美国股票创三个月来最大资金流出
-- 三部门：调整节能汽车、新能源汽车车船税优惠政策
-- 花旗策略师减持韩国股市头寸 将亚洲新兴市场评级降为中性
-- 阿里云发布Qoder企业版
-- Meta据悉考虑由三星代工10万亿韩元定制AI芯片生产
-- 哈梅内伊葬礼前夕，革命卫队总司令现身
-- 外交部：霍尔木兹海峡通航问题应该得到妥善处理
+- 特朗普对哈梅内伊葬礼感到“震惊”
+- 华尔街见闻早餐 | 2026年7月5日
+- 提醒：日内请重点关注（以下均为北京时间）
+- 纳指期货周一亚市盘初涨逾1%
+- 澳大利亚6月道明证券通胀指数同比 3.9%，前值 4.4%。
+- 澳大利亚6月道明证券通胀指数环比 -0.4%，前值 -0.3%。
+- 商品期货开盘，沪锡主力合约涨超3%，生猪、BR橡胶、沥青、鸡蛋涨超2%。不锈钢、碳酸锂、液化气跌超1%。
+- 两市融资余额减少196.66亿元
+- 日本东证指数日内涨幅扩大至1%。
+- 多部门联合部署开展安全生产“打非治违”工作
+- 中国外汇交易中心（CFETS）：7月3日人民币汇率指数按周涨0.06至102.65。
+- 中信证券：底部期待黄金板块估值与盈利的双击
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 亿纬锂能：董事会同意授权公司董事长在董事会审议通过之日起一年内通过大宗交易、集中竞价交易等方式择机减持公司全资孙公司EBIL持有的不超过思摩尔国际股票的3.5%。
-- 李强：在建设现代化产业体系、加快高水平科技自立自强、建设强大国内市场、深化改革扩大开放等方面采取更加有力的措施和行动
-- 证监会：完善锁价定增制度，强化可转债监管要求
-- 中国证监会就完善上市公司再融资规则公开征求意见
-- 鹏鼎控股：拟定增募资不超过96亿元，用于庆鼎AI服务器和高速光模块高密度互连积层板项目
-- *ST尼雅：预计上半年净利润约750万元到1,090万元，同比增加1,016.90%到1,523.23%。
-- 抖音生活服务2026“心动榜酒店”发榜，700家特色度假酒店上榜
-- 国务院任免国家工作人员
-- 韩国拟打造“韩版星链”
-- 玻色量子完成数亿元Pre-IPO轮融资
+- 四方精创：公司于2026年7月5日向香港联交所更新递交了本次发行上市的申请，并于同日在香港联交所网站刊登了本次发行上市的更新申请资料。
+- 四川绵竹地震目前未造成人员伤亡和房屋倒损
+- 实验室培养内皮细胞助小鼠受损视网膜血管修复
+- 串联太阳能电池光电转换效率创新高
+- 运12F大气综合航测飞机首飞成功
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Developing | Chinese President Xi Jinping appoints new military anti-corruption chief
-- What goes on inside the 10-week ideology camp for China’s top military brass
+- Exclusive | Wu Xinbo on why the ‘America first’ foreign policy may be driving China’s rise
+- Which Trump will show up at Nato summit? Odds are it will be the fuming one
+- China Business
+- China’s divergent stock market displays a microcosm of the nation’s economy
 - Diplomacy
-- US and China urged to address military AI as global rules stall
-- Military
-- Will China’s Fujian be the first carrier with anti-torpedo system to beat subs?
-- Society
-- Fine firms for data breaches, Hong Kong cybersecurity experts urge
+- Could China hawk Nancy Pelosi’s pick for US Congress influence Beijing ties?
+- Health & Environment
+- Commercial fish farm encroaches on government land, deemed ecological threat
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Zhang Shuguang, who was promoted to the rank of full general, will take over as head of the PLA’s top graft-busting body.
-- UN think tank chief calls for pragmatic dialogue on AI warfare amid ‘dangerous’ security environment.
-- Defence magazine points to lightweight torpedo launcher in place of the 12-tube depth charge launchers on earlier Chinese carriers.
-- ‘Safeguarding consumer privacy is no longer just a compliance issue. It is fundamental to keeping the public’s trust,’ expert says.
-- What a seating chart reveals about the future of China’s military leadership
-- China sends warning to Japan and the Philippines over ‘wrongful’ maritime talks
-- Legal opinion is the latest protest from Beijing over planned delimitation negotiations that it claims violate international law.
-- Big Tech
-- Can Alibaba’s AI transform superconducting materials discovery?
-- Damo Academy unveils an AI agent able to discover superconductors, which could revolutionise scientific materials research and innovation.
+- Foreign policy analyst outlines how Beijing should react to a country that sees it as neither a ‘partner nor friend’.
+- The stock market catalogues China’s uneven growth, as manufacturing expands and consumption falls.
+- Connie Chan is strictly focused on local issues but her softer tone towards China is in sharp contrast to that of the retiring former speaker.
+- New network of more than 20 ponds spills onto government land and uses thick plastic liners, which conservationist says disrupts wetlands.
+- Why the Indo-Pacific might be on the back burner at the Nato summit
+- China EVs
+- China’s carmakers are rewriting Europe’s auto hierarchy
+- But the rapid gains could slow if the EU widens tariffs on plug-in hybrid electric vehicles, analysts said.
+- China
+- 2 dead, 4 injured as northern China truck collision triggers huge chemical blast
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -132,36 +126,36 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 本週美股牛股 | Axon Enterprise周累計漲超28%，ICE啓動電擊槍採購計劃；Strategy漲超22%，調整比特幣投資策略和融資模式，提高現金儲備；Rivian Automotive漲超19%，低價SUV R2開啓交付！產銷雙雙超預期
-- 微軟砸下25億美元、調配6000名專家，押注「前線部署+持續優化」企業AI模式
-- 美股新財季開啓，AI牛市迎來最大考驗：盈利能否兌現？
-- 北水加倉港股超45億港元，掃貨建滔積層板逾9億港元，淨買入小米集團近9億港元，淨賣出華虹宏力近10億港元
-- AI算力工廠催生電力設備大洗牌：誰將在2000億美元賽道上悶聲發財，誰又會被踢出牌桌？
-- 三星談合作、SK海力士擴產、鎧俠NAND送樣，日韓股市用V型反彈回應算力過剩恐慌
-- 收市速睇 | 三大指數集體收漲，恒指漲超1%；機器人概念股集體爆發，優必選漲近18%；黃金股表現強勁，赤峰黃金漲超19%
-- 從Meta雲化到英偉達「算力分成」，樂觀派看到的是「AI算力即資本」週期
+- 富途早報 | 美伊下一輪談判將於7月11日舉行；韓央行警示單一股票槓桿ETF或加劇市場波動，韓國今日將討論其監管問題；美光擴建廣島項目動工，預計2028下半年出貨HBM
+- 關於韓國存儲擴產、Meta出租算力，野村詳解「存儲兩大利空」
+- 近距離觀察沃什後，大摩首席經濟學家堅稱：聯儲局今年不會加息
+- 4nm近售罄、部分8nm接近滿載，三星晶圓代工開始選擇性接單
+- 美股下半年何去何從？華爾街普遍樂觀看漲，但警惕AI和半導體等「搶手貨」
+- MiniMax高盛電話會：對今年10億美元ARR充滿信心，模型優勢在「組織敏捷性」，與國產芯片高度集成
+- 7月7日！關鍵考驗來襲：三星Q2營業利潤料狂飆17倍 但AI支出前景暗藏風險
+- 一週前瞻 | 6月FOMC會議紀要來襲！SK海力士ADR擬週五在美上市，SpaceX即將納入納指100；智譜、MiniMax、天數智芯迎解禁大考
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 突發！阿里全面禁用Claude，7月10日起卸載
-- 特朗普表態：AI需要護欄，但「越少越好」
-- 6月美國非農：加息敘事的再「糾正」
-- 微軟CEO納德拉：AI時代護城河不在模型，而在公司獨有的學習迴路
-- 鎧俠第十代NAND送樣、CEO喊話「需求依然旺盛，或增加資本支出」，股價深V大反彈！
-- AI交易正面臨一場定價危機
-- 資本化進程提速疊加量產漸近，港股機器人概念股走強
-- 報道：三星電子第三季度DRAM價格將上調至多20%
-- 港股午評 | 三大指數齊漲，科指漲2.02%，小米、網易漲超3%；機器人、PCB概念、創新藥概念股表現強勢，埃斯頓飆漲超21%，芯碁微裝漲超10%，雲頂新耀漲近7%
-- 槓桿ETF規模一年暴漲431%，韓國國會啓動制度整改討論
+- 建滔積層板再發漲價函：FR4上調15%，銅箔加工費再加價
+- 美股史上最大規模海外公司首次募資！「存儲巨頭」SK海力士本週五登陸納斯達克
+- 逆市增產！OPEC+連續第五個月上調產量
+- SemiAnalysis再度盤前爆料：英偉達Kyber NVL144機架延遲超12個月，因「PCB中板製造困難」
+- 港股當前處在什麼位置？與歷次底部相比如何？機構最新研判
+- 中信建投：聯儲局加息預期得到糾偏 有色板塊有望觸底反彈
+- HBM之父金正浩：AI的本質是內存，GPU真正工作的時間只有10%
+- 「估值底」已現？恒科指數創年內最大單週漲幅 權重科網股集體反攻
+- 週末讀物 | 韓國AI大躍進，這是一場比朴正熙時代更大的賭局
+- 週末讀物 | SK海力士衝擊納斯達克：AI時代最強「賣鏟人」來了？
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 就业数据: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中)
-- 美国关税: 华尔街见闻 (简中), 经济通 (繁中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
+- 美国关税: SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
 - 加密货币: Yahoo Finance (EN), Benzinga (EN)
-- 美联储: 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
+- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
+- 伊朗/中东: 华尔街见闻 (简中)
+- 就业数据: 经济通 (繁中)
+- 美联储: Yahoo Finance (EN)
+- 中国/欧盟: SCMP (EN/中)
 
 --- 粘贴结束 ---
