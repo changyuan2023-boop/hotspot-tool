@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年7月7日`
+`早间热点线索 · 2026年7月8日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026070720
+抓取时间: 2026070809
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- Nasdaq rewrote the playbook for SpaceX
+- U.S. markets closed
+- SpaceX stock now enters the post-honeymoon faith phase
 - What SpaceX in the Nasdaq-100 means for your 401(k)
-- SpaceX shares win early bullish calls from Wall Street brokers
+- Wall Street banks are sky-high about SpaceX, but investors remain cautious
 - What SpaceX in the Nasdaq-100 means for your 401(k)
-- SpaceX shares win early bullish calls from Wall Street brokers
-- Beijing is looking at curbing overseas access to China's top AI models
-- De Beers makes deep diamond price cuts for shrinking buyers club
-- Stocks stumble as tech slides despite Samsung's record profit; oil rises
-- Extreme SK Hynix stock swings add wild card to $28B deal
-- Oil is back to pre-war levels. Here's a timeline of how the market weathered a historic supply shock.
-- Euro area 'under strain' as recession risks loom
+- Wall Street banks are sky-high about SpaceX, but investors remain cautious
+- Consumers dread rising healthcare, rent costs: New York Fed
+- How AI is changing the world of retail investment
+- US stock futures trade flat with Iran, Fed in focus
+- SpaceX stock drops below IPO opening price despite flood of bullish Wall Street ratings
+- Oil prices surge as Iran attacks vessels in Hormuz, US revokes Iran oil license
+- Traders are dumping tech bonds to make room for Amazon debt deal
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- China's DeepSeek developing its own AI chip, sources say
-- AI productivity gains are years away, Deutsche Bank's Reid says
-- Big Tech data centers are driving up power bills at Rust Belt factories
-- China-based Apple supplier Luxshare prices $3 billion Hong Kong listing at top end of range
+- Micron, Samsung, SK Hynix drag memory stocks into a bear market
+- Perplexity says it plans to use Nvidia's new CPU
+- Meta debuts new AI image-generation model inside chatbot, Instagram
+- Anthropic softens job-loss rhetoric
 - Popular
-- Microsoft lost 64 cents per dollar invested in game studios
-- $50M Disney settlement: What to know to claim your share
+- The Texas stock exchange — y'all street — is live in Dallas
+- USPS is hiking stamp prices — here's what you'll pay
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,72 +145,73 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- XRP at a Crossroads: Technical Analysis Says $1.10 Is the Line in the Sand
-- EXCLUSIVE: The Biggest Robotics Problem Isn't Batteries or AI. It's ROI
-- Lucid Stock Trending After Q2 Delivery Report, Sweeping Leadership Overhaul
-- First Horizon Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
-- Apple, Meta, Alphabet And A Financial Stock On CNBC’s ‘Final Trades’
-- Stock Market Today: Dow Jones Futures Gain, Nasdaq 100 Slips As SpaceX Debuts On The Exchange—Rivian, Micron In Focus
-- Anthony Scaramucci
-- Jim Cramer Calls Corona Beer Maker Constellation Brands a 'Steal' After Stock Drop
-- The AI’s 2% Reality Check Threatening The Copper Rally
-- Top 3 Industrials Stocks Which Could Rescue Your Portfolio In Q3
+- 'I Don't Think I'm Ever Going to Stop,' Says Mark Zuckerberg. Even With 'Infinite Money,' He Has No Plans to Retreat to His Massive Hawaii Estate
+- US Resumes 'Powerful Strikes' on Iran After 3 Ships Attacked in Strait of Hormuz
+- MrBeast Heads to Shark Tank: ‘Looking for Some Founders That Are All In’
+- Anthropic's Blockbuster Raise Sends Private Equity Coinvestments Soaring
+- Vanguard Deepens Digital Asset Push With Executive Search for Crypto Strategy Head
+- Anthropic
+- FuelCell Energy Stock Tumbles After the Bell — Here's Why
+- HSBC Retreats From Higher-Risk Private Credit Bets
+- EXCLUSIVE: SpaceX Stock Could ‘Eventually Double,’ Market Expert Jay Woods Says ‘Put it Away, Don’t Look At It’
+- CXMT IPO Tests China’s Chip Self-Sufficiency drive
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 亚马逊启动八部分美国投资级债券的发行。
-- 美股盘前，存储概念股普跌，美光科技跌4.8%，闪迪跌超4%；康宁跌超2%，英特尔跌超3%。
-- 高盛：首次覆盖SpaceX，给予其买入评级，目标价205美元。
-- 马斯克：Grok Imagine更新。
-- 新思科技停产部分传统EDA软件
-- 摩根士丹利：将阿斯麦目标价从1660欧元上调至1830欧元。
-首次覆盖SpaceX，给予“增持”评级，目标价300美元。
-- 早间要闻汇总
-- 汇丰暂停向风险较高的私募信贷客户提供贷款
-- 提醒：日内请重点关注（以下均为北京时间）
-- IDC：到2030年全球商用服务机器人出货量将达45.4万台 市场规模将至31.7亿美元
-- 纳斯达克100指数期货日内跌幅扩大至0.9%。
-- 美媒称伊朗革命卫队在霍尔木兹海峡击中两艘商船
+- 韩国首尔综指日内涨幅扩大至0.9%，纳斯达克100指数期货涨0.4%。
+- 卡塔尔谴责卡方天然气运输船遭袭 称伊朗应承担责任
+- 伊朗媒体称格什姆岛再次传出爆炸声
+- 伊朗南部多地局势已恢复正常
+- 最高19亿美元，中国生物制药与阿斯利康达成TQC3721独家授权合作
+- Kalshi交易员认为美国政府今年入股OpenAI的概率极低
+- 特朗普批准了对伊朗的打击计划，特朗普在土耳其期间下令打击伊朗。（AXIOS）
+- 三星开始量产用于英伟达Vera Rubin平台的先进固态硬盘
+- 华尔街见闻早餐 | 2026年7月8日
+- 美国防长海格塞斯计划周三访问以色列，预计将与内塔尼亚胡会面。（CNN）
+- Stellantis将在美国以13,995美元起售菲亚特Topolino微型电动车
+- 据伊朗国家电视台报道：参加葬礼的伊朗总统从伊拉克启程回国，此前美国袭击伊朗南部多地。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 印度与印尼签订防务合作协议
-- 中国人民银行行长潘功胜出席香港货币与固定收益峰会并致辞
-- 中共中央对外联络部部长刘海星会见法国前总理、展望与创新基金会主席拉法兰
-- 任鸿斌会见法国前总理、展望与创新基金会主席让-皮埃尔·拉法兰
-- 国家医保局：医药企业切勿采取违法违规手段干扰集采，否则后果自负
-- 智谱基石解禁日获近七成基石投资者表态长期持有
-- 广期所：调整多晶硅、碳酸锂期货相关合约交易手续费标准
-- 北约峰会今日召开 成员国集中宣布多项防务合作项目
-- 佩斯科夫：和平达成特别军事行动目标是俄优先选项
-- 联动科技：预计上半年净利润2,100万元-2,900万元，同比增长73.39%-139.44%；报告期内，公司在手订单充裕，经营业绩实现稳健增长。
+- 新兴市场ETF收跌超2.7%，与纳指ETF领跌美股大类资产类ETF
+- 半导体ETF收跌将近3.8%，领跌美股行业ETF，标普能源板块涨3%
+- 伊朗最高领袖顾问称，美国将把与伊朗的谈判引向失败
+- Getty Images Holdings Inc.（GETY）收跌7.6%，该公司终止与Shutterstock（SSTK）的合并，后者收跌5.1%，创收盘历史新低。
+- 周二（7月7日），彭博电动汽车价格回报指数跌3.02%，报3475.02点，亚太盘初以来持续走低，美股开盘后跳空下挫。
+成分股中，Rivian跌18.12%——创2024年2月份以来最大单日跌幅，Lucid集团跌9.98%，意法半导体巴黎股
+- 美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。
+Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。
+- 马斯克旗下太空探索公司SpaceX收跌6.8%，创美国IPO以来收盘新低。
+- 中概指数收跌约0.6%，CQQQ跌超0.9%，日月光半导体跌约8.5%，美团ADR涨6%
+- 纳斯达克100指数收跌约1.8%，半导体指数跌超4.6%，生物科技指数创历史新高
+- 美国终止对伊朗石油制裁豁免
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- New US political divide emerges: age gap over whether China is cause for concern
-- Why young Chinese are turning away from the American dream
-- Diplomacy
-- Indian ambassador to China urges deeper economic ties, touts AIIB as model
-- Markets
-- Zhipu AI, MiniMax shares to test Hong Kong market as lock-ups end
-- Hong Kong should build AI plan around ‘competitive’ strengths, experts say
-- Taiwan revives ‘anti-communist’ training for military graduates after 24 years
+- Beyond a bridge: Hong Kong digs in to shore up fragile ‘moat’, anchor growth
+- Hong Kong prime office rents to increase as vacancies set to plateau
+- Nato launches defence projects to counter Russia and China
+- China Economy
+- How China’s service economy shift could make it the world’s No 1 consumer market
+- Education
+- Hong Kong universities snap up office and retail sites amid classroom crunch
+- What does China’s submarine missile test mean for its nuclear triad expansion?
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- While the issue is less polarising than many others, a survey has found a ‘marked’ difference between different generations.
-- New envoy also advocates for multilateral cooperation as global economy faces challenges ranging from tariffs to export controls.
-- Shares worth US$11.5 billion to hit market as record wave of lock-up expirations starts and some firms eye share placements.
-- Panel speakers at China Conference say city’s AI blueprint should not be too broad and harness urban development, healthcare and finance capabilities.
-- Politics
-- 900 snakes plague flood-hit villagers in southern China amid extreme weather
-- Meteorologists warn of a ‘complex’ series of challenges this year, with severe wind, rainstorms and geological disasters across the country.
-- Commodities
-- Peak oil: China’s crude demand set to fall as EV bets ease Hormuz fears
-- China now faces challenge of too much refining capacity as electric vehicles, especially trucks, slash demand, CNPC officials say.
+- Officials deploy multipronged strategy – from tax incentives to new gold clearing system – to recalibrate city’s global standing amid shifting capital flows, regulatory changes.
+- New measures focus on critical minerals, drone capabilities and missile shields as members boost the alliance’s industrial base.
+- The country’s share of global consumption could surpass 20 per cent over the next decade or so, becoming a critical economic anchor for Hong Kong, analyst says.
+- At least six universities have moved into offices and shopping centres as non-local enrolment rises and campuses run out of space.
+- Diplomacy
+- US strikes Iran, revokes oil waiver after attacks on ships in Strait of Hormuz
+- US Central Command said it launched the strikes ‘to impose heavy costs’ for attacking commercial shipping … ‘in an international waterway’.
+- Entertainment
+- How do you get a girl to fall in love with you? Ask Emily Lin
+- Emily Lin’s dating advice – such as saying ‘tell me more’, shutting up and listening – on social media has gone viral with men.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 腾讯发布混元Hy3模型兼减持快手，股价曾飙逾半成
+- 香港黄金中央结算系统试营运，汇控渣打齐创新高
 - 大暴雨袭南宁 东斑江爆“50年一遇”洪水
-- 韩国促加快发展AI芯片 吁简化行政
+- 美伊尚未达协议 特朗普警告需完成任务
 - 三星暴利史诗遭见光死，藏ATM“实用”反击暗涌
 - 指数环球商品外汇
 - 国金观点
@@ -235,35 +236,36 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 這可能是AI行情見頂的最重要信號——借鑑互聯網泡沫時期日本的教訓
-- 智譜基石解禁日獲近七成基石投資者表態長揸
-- 北水淨買入騰訊控股超23億港元，加倉美團超12億港元，淨賣出建滔積層板逾15億港元，減倉長飛光纖光纜超12億港元
-- 油價波動帶來超額利潤！殼牌(SHEL.US)Q2交易業務成「印鈔機」，對沖產量損失
-- 英鎊兌美元九連陽創三週新高 油價暴跌與聯儲局加息預期降溫共築漲勢
-- 靜默期結束！華爾街大行集體唱好SpaceX(SPCX.US) 大摩喊出300美元目標價
-- 收市速睇 | 三大指數齊跌，科指跌0.75%；科網股普跌，快手跌超12%；存儲概念集體下挫，南方兩倍做多三星電子跌超16%，兆易創新跌超12%
-- 暗盤情報 | 「複合材料溝蓋板製造商」寶蓋新材現漲41.48%，一手賺1290港元
+- 富途早報 | 美恢復對伊石油制裁並開始一系列打擊，WTI原油漲近3%；三星開始量產先進固態硬盤；報道稱DeepSeek、智譜將自研AI芯片；基本半導體、瑞爲技術等6家新股今日港股上市
+- 霍爾木茲衝擊波！美國撤銷伊朗石油銷售豁免，美軍稱開始對伊發動系列打擊
+- 美伊和平又生變數？美軍發動攻擊伊朗強硬回應，癥結仍在霍爾木茲！
+- 高盛：AI敘事日益複雜、投機槓桿加劇，但建議「繼續持有，精簡持倉，逢低佈局對沖工具」
+- 韓國財政部：將密切關注股市波動相關風險因素。將調整國債發行規模，以維護債券市場穩定。將加強外匯監測系統，以應對夜間交易期間的波動。
+- 躋身納指100+六大投行唱好也沒用：SpaceX跌近7%創上市來新低，450億算力合同面臨「斷供」風險
+- 成交額TOP20 | 英特爾跌近10%，閃迪跌超7%；SpaceX納入指數首日跌7%創收新低；Meta、微軟加速佈局自研AI；亞馬遜籌備250億美元債券
+- 芯片板塊重挫5%，但英偉達逆勢收漲、期權市場現看漲信號
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 「我們沒有看空英偉達」！SemiAnalysis又發小作文：英偉達化身「AI央行」，撬動7萬億AI債務雪球
-- 如何交易SK海力士美股上市？瑞銀：買ADR，拋韓股
-- 統一戰線--沃什的「三步走」，目標是「重啓減息」
-- 停火僅三週即告反轉？伊朗導彈攻擊霍爾木茲商船
-- 翼菲科技午後續漲，近日與韓國MiR達成戰略合作，自研鴻鈞001人形輪臂機器人落地
-- 智譜漲幅擴大，智譜A股IPO輔導工作完成，公司近期推出ZCode編程代理
-- 伊朗外長阿拉格齊：若威脅持續，最終協議談判將不會啓動，請信守承諾。
-- 大摩告訴客戶：是時候「賣芯片、買雲」，「存儲」類似「白銀」見頂
-- 港股午評 | 三大指數集體下跌，科指跌0.28%，成分股智譜、美團逆勢漲超4%，騰訊漲近3%；部分機器人概念股逆市上揚，翼菲科技大漲超46%，來福諧波漲近14%
-- 白宮擬建比特幣戰略儲備，美加密政策迎轉折點
+- 美股收盤 | 三星業績擾動市場，三大股指齊下挫；半導體指數跌近5%，英偉達強勢收漲；藍籌股走強，禮來、強生齊創新高；金銀承壓
+- SpaceX申請部署10萬顆衛星，建立面向AI時代的空基通信底座
+- 美軍中央司令部部隊已開始對伊朗發動一系列強力打擊
+- EIA猛砍今明年油價預期，料霍爾木茲到年底基本恢復正常、AI熱潮推動美國用電量連年新高
+- 美股收盤：三大股指收跌 閃迪跌7%
+- 美財政部撤銷伊朗原油銷售許可證
+- Meta AI大戰再落一子：新圖像模型Muse全面接入Instagram、WhatsApp，廣告商也能用
+- 被曝Copilot「瘦身」後微軟又傳「自力更生」降本：用自研AI替換OpenAI和Anthropic模型
+- 美國5月貿易逆差環比飆升42%，創逾一年新高
+- 微軟在部分應用中以自研AI模型替代OpenAI和Anthropic
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国政策/两会: 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), SCMP (EN/中)
-- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
-- 美国关税: SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美国关税: 华尔街见闻 (简中)
 - 加密货币: Benzinga (EN)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
