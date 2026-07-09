@@ -3,23 +3,28 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 30m | Trump says US ceasefire with Iran is 'over' after strikes | Big Tech is dodging the chip stocks wipeout: AlphaCheck | SpaceX enters the post-honeymoon faith phase | Big Tech is dodging the chip stocks wipeout: AlphaCheck | SpaceX enters the post-honeymoon faith phase | Chinese economist who doubted official GDP data dies | Obamacare insurers ask for second-highest premiums increase in years
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Apple announces chip deal with Broadcom worth more than $30 billion | With SpaceX Starship, Japan's ispace provides ride-share to the moon
+  - 头版/首屏: U.S. markets closed | SpaceX hits new low, dips below IPO opening price | US military launches strikes on Iran for second straight day | Trump muses about taking over Kharg Island, new Hormuz blockade | US military launches strikes on Iran for second straight day | Trump muses about taking over Kharg Island, new Hormuz blockade | Nissan CEO: News 'coming soon' on potential Honda  partnership | US could face a major electricity shortfall through 2030, BofA says
+  - 其他: Top Stories | Markets & Economy | Tech & AI | Nvidia's valuation sinks to multiyear low amid AI jitters | Nvidia’s $1 trillion sell-off is a buying opportunity: Analyst
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: How To Earn $500 A Month From JPMorgan Stock Ahead Of Q2 Earnings | Why Is Occidental Petroleum Stock Surging on Wednesday? | Trump's Dell Shout-Out Sparks Ethics Firestorm As Former White House Lawyer Calls the Stock Trading 'Egregious': 'There Should Never Be...' | What's Going on With AMD Stock Wednesday? | TeraWulf's Rough Week: Meta's Cloud Push, DeepSeek Chips and Crypto's Drop Overshadow Anthropic Deal
+  - 其他: Trump Announced His AI Action Plan Declaring  ‘America Is Going to Win’ — The Same Day He Bought Millions in Nvidia, Apple and Microsoft | Bill Ackman Says Next $1 Trillion Company Will Come From Israel – ‘Imagine if Silicon Valley Was a Country’ | Michael Burry Bullish on Sportbooks, Goes Long DraftKings, Flutter | 3 ETFs With a Perfect 10-Year Record Are All Pointing Bullish | The Biggest Private Market Deals Reveal Where AI Investing Is Headed
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 消息人士称，特朗普在北约领导人峰会期间未再重复对西班牙的批评，未再重复终止与伊朗临时协议的说法，未提及格陵兰。（路透） | 美国7月3日当周MBA抵押贷款申请活动指数周环比 -2.2%，前值 0%。 | 博通美股盘前转涨，此前一度跌近3%。 | 亚马逊正在开发一个此前未被报道的Alexa项目，代号“Moonraker”，旨在帮用户处理更复杂、多步骤的任务。（Business Insider） | 美伊军事摩擦再起 专家：凸显临时停火脆弱性 | 伊朗军方：任何为美军事行动提供支持的来源都将是合法打击目标 | 美股存储概念股盘前持续走低，闪迪股价盘前跌幅扩大至7%，美光科技下跌6%，西部数据跌超4%，希捷科技跌近4%。 | 美股股指期货持续走低，纳斯达克100指数期货跌超1％，道琼斯指数期货跌0.85％，标普500指数期货跌0.67％。
-  - 其他: 卡塔尔谴责卡方天然气运输船遭袭 称伊朗应承担责任 | 伊朗媒体称格什姆岛再次传出爆炸声 | 罗马尼亚国家银行维持基准利率在6.50%，符合市场预期。 | 科威特称拦截“敌方”2枚导弹和13架无人机 | 国家防总针对浙江福建启动防汛防台风四级应急响应
+  - 头版/首屏: 美军动用巡航导弹袭击伊朗北部两座铁路桥 | 美国袭击了伊朗北部的两座铁路桥。（Axios） | 伊朗称北部一铁路桥遭美军炮弹袭击 | 特朗普称伊朗致电迫切想达成协议 | 华尔街见闻早餐 | 2026年7月9日 | Kalshi交易员预测：受最新挫折影响，霍尔木兹海峡航运要到2027年才能恢复正常 | 高管表示，贝恩资本已退出闪存制造商铠侠。 | 据知情人士透露，豪车制造商DuPont Registry Group申请美国IPO。
+预计最快将于今年IPO。
+该公司正与摩根士丹利、巴克莱、杰弗瑞金融集团、加拿大皇家银行合作。（彭博）
+  - 其他: Levi Strauss二季度净营收15.6亿美元，分析师预期15.2亿美元。
+二季度调整后每股收益（EPS）为0.28美元，分析师预期0.24美元。
+提高股息14%至16美分/股，分析师预期15美分。 | SpaceX跌穿IPO发行价，该公司股票此前进入纳斯达克100指数。 | 周三（7月8日），美股行业ETF多数收跌，区域银行ETF跌2.30%，银行业ETF跌2.27%，全球航空业ETF跌2.21%。
+科技行业ETF、全球科技股指数ETF至少涨1.24%，能源业ETF涨1.76%，半导体ETF涨1.99%。 | 道指收跌约1.1%，纳指科技指数涨约0.8%，半导体指数涨超2.2% | 中概指数收涨2%，KWEB涨超3.5%，金山云、阿里涨超11%，世纪互联、万国数据涨约8%
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Trump declares Iran ceasefire ‘over’, China calls for de-escalation | US strikes Iran, revokes oil waiver after attacks on ships in Hormuz | Transport | Cathay Pacific probes flight intercepted by Hungarian jets after Nato alert | Politics | All coastal tourist attractions urged to close as Super Typhoon Bavi approaches | Hong Kong Economy | Tourist arrivals in Hong Kong jump by 13% to 26.7 million in first half of year
-  - 其他: ‘I don’t want to deal with them any more,’ US president tells reporters on the sidelines of the Nato summit in Turkey. | City’s flag carrier also says safety of aircraft or people on board was not compromised at any point. | ‘Catastrophic’ winds expected from strongest and most wide-ranging typhoon of this year’s flood season. | Increase shows success of strategy based on mega-events, tourism minister says, while transport chief also points to more destinations served by airport. | Why American warships are struggling with fires and electrical faults
+  - 头版/首屏: Science in the crosshairs: can US-China research continue in an age of rivalry? | Nobel-winning scientist Omar Yaghi joins China’s Tsinghua University from the US | Diplomacy | Trump surprises Nato allies with arms deals and praise as summit ends positively | US says China gave only hours’ warning before Pacific submarine missile launch | Companies | The Peninsula’s owner and SF Holding set up captive insurers in Hong Kong | Anthropic hits back after China warns of Claude Code ‘backdoor’ risks
+  - 其他: As Washington and Beijing lock horns over national security, political friction may be dismantling decades of fruitful shared discovery. | After promises of advanced air defence systems to Europe and Ukraine, US president says ‘unification’ was dominant theme of key meeting. | Washington says Beijing’s notification of launch fell short of expected standard followed by other established nuclear powers. | The Hongkong and Shanghai Hotels CEO says the move enhances its risk management capabilities and supports its long-term growth. | Middle East
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 中生制药授新药海外权益可收19亿美元，股价曾飙逾半成 | 强烈台风“巴威” 料周末登陆浙闽 | 美伊尚未达协议 特朗普警告需完成任务 | 三星暴利史诗遭见光死，藏ATM“实用”反击暗涌 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 恢复中长期定存销售兼密集分红，内银急升可否追入？ | 强烈台风“巴威” 料周末登陆浙闽 | 美伊再互袭 伊被撤石油销售许可 | 三星暴利史诗遭见光死，藏ATM“实用”反击暗涌 | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数24199.46+702.57(+2.99%)
                     etnet.com.hk@copyright | 国企指数8084.22+313.96(+4.04%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -28,30 +33,31 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 特朗普聲稱美伊停火協議作廢，北約峰會上直接破口大罵 | 今夜凌晨2點全球市場矚目！沃什首秀將迎聯儲局紀要「終極解密」，看點有哪些？ | SpaceX股價迎上行催化？馬斯克官宣：Grok4.5明日向公衆開放 | 韓股暴跌無損投資者熱情：SK海力士ADR獲數倍超額認購，週三將結束簿記建檔 | SemiAnalysis：台積電真正的護城河不在製程，而是EDA/IP生態系統 | 據彭博，智譜通過配售發行1980萬股H股，配售價格爲每股1588港元至1698港元。 | 央行：要繼續實施適度寬鬆的貨幣政策 | 蘋果(AAPL.US)與博通(AVGO.US)重磅定製ASIC協議細節披露：價值超300億美元，「美國製造」150億顆芯片
-  - 其他: 暗盤情報 | 「果類零食公司」齊雲山食品現漲90%，一手賺3600港元 | 蘋果：與博通新簽訂的多年期協議，預計將超過300億美元 | 北水掃貨港股近142億港元，智譜、阿里巴巴、騰訊控股分別獲淨買入逾43億、39億、25億港元，小米集團遭淨賣出7億港元 | 三星暴跌後迎來「倒車接人」時刻？摩通堅定唱好：全球「最便宜存儲股」，盈利爆發週期將延續 | Q2業績期開啓在即！瑞銀重磅前瞻美股銀行股：業務全面開花背後 這五大主線將成投資勝負手
+  - 头版/首屏: 富途早報 | 特朗普"開火威脅"後發佈降溫言論；聯儲局少數官員支持6月加息；蘋果與博通達成超300億美元芯片採購協議；立訊精密、鼎泰高科、珞石機器人等6只新股今日上市 | SK海力士美國IPO獲七倍超額認購，募資規模劍指史上次高 | 美股AI牛市熄火？逾六成科技股「入熊」：較近期高點暴跌逾20% | 美軍又襲伊朗！特朗普威脅「今夜」再打、恢復海上封鎖，後一度「降溫」：美伊局勢升級會很快平息 | 美AI被電力「卡脖子」？美銀：到2030年缺口達100吉瓦，這些公司受益！ | 聯儲局6月會議紀要：通脹擔憂加劇，少數官員支持6月加息，AI躋身三大通脹風險 | 阿里雲AI商業化加速兌現，阿里迎來預期差修復時刻 | 成交額TOP20 | 華爾街看多熱情未減，英偉達漲近4%領跑七巨頭；博通漲近5%，獲蘋果超300億美元大單；Bloom Energy遭做空；Meta斥近百億美元再建數據中心
+  - 其他: 聯儲局主席沃什將於7月15日出席參議院銀行委員會聽證會 | 報道：SK海力士美股上市獲超7倍超額認購，預計募資約245億美元 | 美股收盤 | 科技股護盤，納指逆市收漲；中概股大漲，阿里巴巴漲超11%，百度、京東漲近5%；SpaceX三連跌刷新歷史新低；金銀比特幣走弱 | 指數納入效應失靈，SpaceX股價兩日跌超7%接連破發，華爾街估值分歧加劇 | 美軍連續第二天襲擊伊朗
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
 - **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
+- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **美国关税（15%等）** — 出现于: SCMP (EN/中) (1 站)
+- **加密货币** — 出现于: Benzinga (EN) (1 站)
 - **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
-- **美联储/利率** — 出现于: Benzinga (EN) (1 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 伊朗/中东局势（5 站）
 - 科技股/个股（5 站）
-- 油价/能源（3 站）
-- 中国/欧盟（3 站）
-- 加密货币（2 站）
+- 油价/能源（4 站）
+- 美联储/利率（3 站）
 - 黄金/大宗商品（2 站）
-- 中国政策（2 站）
+- 中国/欧盟（2 站）
+- 关税/贸易政策（1 站）
+- 加密货币（1 站）
 - 就业/经济数据（1 站）
-- 美联储/利率（1 站）
-- 关税/贸易政策（0 站）
+- 中国政策（1 站）
