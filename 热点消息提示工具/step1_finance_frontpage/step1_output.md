@@ -3,57 +3,58 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | Wall Street braces for blockbuster chip listing | The big names joining Warsh's Fed overhaul team | Gas, diesel prices likely to stay high as oil refining margins soar | The big names joining Warsh's Fed overhaul team | Trump's Iran truce in limbo after renewed strikes and sanctions | Gas, diesel prices likely to stay high as oil refining margins soar | NY Fed: Businesses aren't done raising prices to offset tariffs
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Micron, Sandisk, Marvell stocks jump, leading chip sector gains | Shares of software firm CCC surge on report it's exploring a sale
+  - 头版/首屏: U.S. markets open in 1h 30m | Wall Street braces for today's blockbuster SK Hynix debut | Delta Q2 earnings beat as premium growth softens fuel-cost bite | Nasdaq's hottest winners just fell behind the pack | Delta Q2 earnings beat as premium growth softens fuel-cost bite | Nasdaq's hottest winners just fell behind the pack | JPMorgan builds AI agents that beat 60/40 portfolio in backtests | Circle wins final regulatory approval to open US trust bank, shares rise
+  - 其他: Top Stories | Markets & Economy | Tech & AI | After Apple, India's smartphone making boom enters new phase | UK to directly oversee Microsoft, Google clouds to protect financial stability
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Woman, 33, Inherited $250,000 From Her Grandmother — Says Her Mom Is Furious She Wasn't Left Anything | Netflix Stock Slides After The Bell: Here's Why | Making Fun of Trump Pays Off for Colbert & Kimmel: Late Night Hosts Score Record Emmy Nominations | SpaceX’s IPO Hasn’t Solved Venture’s Bigger Problem: Liquidity Beyond The Mega Winners | Michael Saylor Selling Isn't Bitcoin's Biggest Problem—Here's What JPMorgan Says the Real Threat Is
+  - 其他: Why Is Zhibao Technology Stock Gaining Friday? | This Travelers Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Friday | Bitcoin Has Not Left the $60,000-$70,000 Range in 307 Days: What Is Happening? | Wall Street's Most Accurate Analysts Spotlight On 3 Energy Stocks With Over 10% Dividend Yields | Coinbase Stock Trades Higher After Circle Receives OCC Approval to Open National Trust Bank
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 摩根大通打造的AI代理在回测中跑赢60/40投资组合 | 美国商务部长敦促SK海力士和三星电子扩大在美国的内存芯片产能 | 麦当劳作价9300万港元卖出又一香港铺位 | 三星电子会长李在镕计划于7月底在美会面英伟达黄仁勋。（韩国《东亚日报》） | 华尔街见闻早餐 | 2026年7月10日 | SK海力士：计划通过ADR（美国存托凭证）上市募资40万亿韩元，较此前的43万亿韩元有所下调；将以每股225万韩元的价格发行新股。 | 美官员称外交努力仍在进行 如有必要将继续打击伊朗 | OpenAI高管Fidji Simo将离职，未来将成为该公司兼职顾问。
-Simo周四向OpenAI的员工们表达了辞职意愿。
-此前，Simo接受的医学治疗时间已经被延长。（华尔街日报）
-  - 其他: 开市客收跌4.2%，创2025年4月份以来最差单日表现。 | 周四（7月9日），美国科技股七巨头（Magnificent 7）指数涨0.55%，报215.34点，盘初走低至210.23点、北京时间22:19开始平滑地持续需上扬。成分股Meta Platforms收涨4.7%，创5月29日以来收盘新高。 | 中概指数收涨超0.5%，CQQQ涨约4.4%，日月光半导体涨8.3%，阿里涨约%延续周三涨11%的表现 | 纳指科技股指数收涨超1.7%，半导体指数涨3% | 内塔尼亚胡与特朗普通话，商定保持两国政策协调
+  - 头版/首屏: 伊朗高级官员：敌方攻击伊基础设施必遭回击 | META美股盘前股价涨幅扩大至3.8%。 | 达美航空第二季度调整后营收为176.7亿美元，市场预期为175.3亿美元。
+第二季度调整后净利润为10.3亿美元，市场预期为9.852亿美元。
+第二季度调整后每股收益为1.56美元，市场预期为1.51美元。
+达美航空仍预计全年调整后每股收益 | 消息人士：巴基斯坦与卡塔尔再次斡旋美伊重返谈判 | 欧盟委员会：Meta应对Instagram和Facebook进行调整，禁用自动播放、无限滚动等关键成瘾性功能。 | 地区多国紧急斡旋 美官员称美伊紧张态势趋缓 | 中汽协：上半年我国汽车行业运行总体平稳 | 以色列媒体：以愿参与对伊打击 正等特朗普表态
+  - 其他: 绿色氢能新突破：中国实现铂族催化剂分钟级制备 | 李强主持召开国务院常务会议，研究自然资源保护利用有关工作。（央视） | 李强主持召开国务院常务会议，听取数字中国建设情况汇报。（央视） | 李强主持召开国务院常务会议，研究新兴支柱产业培育有关工作。（央视） | 卡塔尔与美国和伊朗进行谈判，以缓和局势。（纽约时报）
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Exclusive | Asia’s top climate scientist warns of ‘humanitarian disasters’ as Earth teeters | Super Typhoon Bavi: Shanghai battens down, Beijing halts outdoor activities | Policy | Game-changer? Why China is finally letting its AI firms buy the Nvidia H200 | Science | Up to 100 gigawatts: China unveils its high-power microwave weapon arsenal | Hong Kong Economy | Why did only 2 city firms put up their hands for Northern Metropolis project?
-  - 其他: Hong Kong-based expert paints grim picture of challenges, yet voices hope in next generation and nature’s resilience. | Beijing aims to ‘temporarily ease the training bottleneck’ in China’s AI industry, but it remains focused on tech self-sufficiency, analysts say. | Defence scientists say the technology could threaten low Earth orbit satellite networks such as Starlink at an extremely low cost. | New land disposal model pairing developers and industrial operators demands longer paybacks, with implications for smaller firms, experts say. | Politics
+  - 头版/首屏: Breaking | Shein receives approval for Hong Kong IPO from Chinese regulators | China’s circuit-board makers push capex towards record to feed AI boom | China Economy | Developing | China issues temporary helium export ban as Iran war strains global supplies | Politics | Typhoon Bavi loses eye but system expands to 1,263 times the size of Hong Kong | Global Economy | Tanker transit through Strait of Hormuz plunges as US-Iran ceasefire fractures
+  - 其他: Beijing clears the online retail giant to seek an initial public offering in Hong Kong, after its plans to float in London and New York hit a dead end. | The ban on shipments of the gas, a crucial raw material in semiconductors and other sectors, comes as Middle East conflict stretches stocks. | Experts warn the change has dissipated Bavi’s energy from the core to its overall cloud structure, making it potentially more dangerous. | Renewed hostilities could undermine credibility of future ceasefires with long-term impact on global energy markets, inflation and risk premiums, analyst says. | 10 scientists and experts who have left US and UK for China so far in 2026
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 财报前瞻超预期获大行唱好，阿里股价升势持续 | 腾讯再挖角OpenAI研究员 研视觉语言模型 | 美伊再互袭 伊被撤石油销售许可 | 三星暴利史诗遭见光死，藏ATM“实用”反击暗涌 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数24030.18-169.28(-0.70%)
-                    etnet.com.hk@copyright | 国企指数7997.29-86.93(-1.08%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 解禁后即配股兼发CB筹160亿，MiniMax股价未止泻 | 中国6月CPI升1%逊预期 PPI近4年高 | 美连续两日炸伊 击中90军事目标 | 三星暴利史诗遭见光死，藏ATM“实用”反击暗涌 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数24290.82+260.64(+1.08%)
+                    etnet.com.hk@copyright | 国企指数8079.07+81.78(+1.02%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 美商務部長敦促SK海力士、三星擴大美國存儲芯片產能；扎克伯格否認Meta算力過剩，稱發展雲業務具商業潛力；兆易創新、大族數控發盈喜；晶合集成、濱化股份港股上市 | 外媒：SK海力士ADR指導價149美元，較韓股收盤價溢價3.1% | Meta算力過剩？扎克伯格公開否認：市場需求非常大，租出去更賺錢！ | 美國商務部長向三星、SK海力士「喊話」：加大在美建廠力度，強化AI芯片本土供應鏈 | SK海力士：將以每股225萬韓元發行新股；計劃通過ADR（美國存託憑證）上市募資40萬億韓元，較此前的43萬億韓元有所下調；ADR承銷佣金爲3890億韓元。 | 解禁日盤後緊急啓動19億美元融資：MiniMax以折價配股+零息可轉債打響算力「續命戰」 | 美股收盤 | 芯片股領漲提振美股，三大指數集體收漲；光通信股走強，Lumentum漲超11%，康寧漲超4%；金銀比特幣反彈 | 美官員：美伊相關技術談判仍在繼續
-  - 其他: SK海力士據稱美國IPO定價爲每份ADS 149美元 | 成交額TOP20 | 存儲大反攻！美光擬砸2500億擴產漲超4%；Meta漲近5%，CEO否認算力過剩；特斯拉Optimus量產落地；SpaceX走出連跌陰霾 | 扎克伯格否認Meta算力過剩，稱發展雲業務具商業潛力 | 聯儲局官宣五大改革工作組領導陣容，前央行行長、硅谷AI大佬、諾獎經濟學家加盟 | GPT-5.6全面發佈！同步發佈新ChatGPT智能體，奧特曼稱和美政府溝通後做出「許多調整」
+  - 头版/首屏: 華爾街還願意給AI多少溢價？今夜，SK海力士美股首秀或揭曉答案 | 段永平再度增持泡泡瑪特股票，持股比例增至7.65% | 希音國際控股有限公司港股上市獲中國證監會備案 | 本週美股牛股 | 阿里巴巴周累漲近16%，長鑫上市股權估值千億，瑞銀研判阿里電商減虧、雲業務強勢增長；博通漲超11%，獲蘋果超300億美元大單 | 北水減倉港股近60億港元，淨買入智譜超28億港元，賣出騰訊控股逾28億港元 | 募資265億美元！SK海力士(SKHY.US)今晚登陸納斯達克 能否擺脫「韓國折價」？ | 日本政府欲用萬億「巨鯨」穩市！財長喊話最大養老基金增持本土資產，但現實很「骨感」 | 存儲瘋狂擴產，半導體設備迎來"超級時代"！
+  - 其他: 收市速睇 | 三大指數漲跌不一，恒指漲0.6%，科指跌0.21%；科網股普漲，小米漲超3%，阿里漲超2%；芯片股下跌，兆易創新跌超21%，華虹宏力跌超8% | SemiAnalysis創始人最新訪談：存儲還有翻倍空間，CPU只是配角，CPO落地推遲至2029年 | 265億美元IPO、九位數承銷費，SK海力士讓華爾街賺麻了 | AI PC市場迎來多方佈局！英偉達之後，三星開發AI PC專用芯片「GAIA」，已向聯想、惠普供樣測試 | 五大工作組來了—沃什「統一戰線」，意在減息？
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (6 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中) (3 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **加密货币** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
+- **伊朗/中东局势** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
 - **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
 - **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
-- **中国/欧盟** — 出现于: SCMP (EN/中) (1 站)
+- **加密货币** — 出现于: Benzinga (EN) (1 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 科技股/个股（6 站）
+- 科技股/个股（5 站）
 - 伊朗/中东局势（3 站）
 - 油价/能源（3 站）
-- 关税/贸易政策（2 站）
-- 加密货币（2 站）
+- 中国/欧盟（3 站）
 - 黄金/大宗商品（2 站）
 - 美联储/利率（2 站）
-- 中国政策（2 站）
-- 中国/欧盟（1 站）
-- 就业/经济数据（0 站）
+- 加密货币（1 站）
+- 就业/经济数据（1 站）
+- 中国政策（1 站）
+- 关税/贸易政策（0 站）
