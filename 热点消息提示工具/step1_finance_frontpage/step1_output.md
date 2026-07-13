@@ -3,58 +3,55 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 30m | Wall Street braces for today's blockbuster SK Hynix debut | Delta Q2 earnings beat as premium growth softens fuel-cost bite | Nasdaq's hottest winners just fell behind the pack | Delta Q2 earnings beat as premium growth softens fuel-cost bite | Nasdaq's hottest winners just fell behind the pack | JPMorgan builds AI agents that beat 60/40 portfolio in backtests | Circle wins final regulatory approval to open US trust bank, shares rise
-  - 其他: Top Stories | Markets & Economy | Tech & AI | After Apple, India's smartphone making boom enters new phase | UK to directly oversee Microsoft, Google clouds to protect financial stability
+  - 头版/首屏: U.S. markets closed | Lindsey Graham dies at 71 after sudden illness | US, Iran trade attacks as Tehran declares Hormuz closed | Here's what retirees want financial advisers to tell them | US, Iran trade attacks as Tehran declares Hormuz closed | Maritime group says Hormuz route is open despite Iran's declaration | Here's what retirees want financial advisers to tell them | NY Fed: Businesses aren't done raising prices to offset tariffs
+  - 其他: Top Stories | Markets & Economy | Tech & AI | Tata Consultancy Services plans for up to 8,900 AI deployment engineers | More tech workers are retiring early to avoid AI-related changes
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Why Is Zhibao Technology Stock Gaining Friday? | This Travelers Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Friday | Bitcoin Has Not Left the $60,000-$70,000 Range in 307 Days: What Is Happening? | Wall Street's Most Accurate Analysts Spotlight On 3 Energy Stocks With Over 10% Dividend Yields | Coinbase Stock Trades Higher After Circle Receives OCC Approval to Open National Trust Bank
+  - 其他: I've Tried Every Budgeting App and Nothing Sticks. Could a Spreadsheet Actually Be the Answer? | Bank Earnings Week: Goldman, JPMorgan, Citi, BofA, Morgan Stanley Set to Deliver a Profit Bonanza | Mark Zuckerberg’s Net Worth Jumps as Meta Stock Gains Momentum | Top S&P 500 Stocks to Watch This Week: Goldman Sachs, Netflix, GE Aerospace | Citi Analysts Name Three Tech Stocks to Buy Ahead of Earnings
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 伊朗高级官员：敌方攻击伊基础设施必遭回击 | META美股盘前股价涨幅扩大至3.8%。 | 达美航空第二季度调整后营收为176.7亿美元，市场预期为175.3亿美元。
-第二季度调整后净利润为10.3亿美元，市场预期为9.852亿美元。
-第二季度调整后每股收益为1.56美元，市场预期为1.51美元。
-达美航空仍预计全年调整后每股收益 | 消息人士：巴基斯坦与卡塔尔再次斡旋美伊重返谈判 | 欧盟委员会：Meta应对Instagram和Facebook进行调整，禁用自动播放、无限滚动等关键成瘾性功能。 | 地区多国紧急斡旋 美官员称美伊紧张态势趋缓 | 中汽协：上半年我国汽车行业运行总体平稳 | 以色列媒体：以愿参与对伊打击 正等特朗普表态
-  - 其他: 绿色氢能新突破：中国实现铂族催化剂分钟级制备 | 李强主持召开国务院常务会议，研究自然资源保护利用有关工作。（央视） | 李强主持召开国务院常务会议，听取数字中国建设情况汇报。（央视） | 李强主持召开国务院常务会议，研究新兴支柱产业培育有关工作。（央视） | 卡塔尔与美国和伊朗进行谈判，以缓和局势。（纽约时报）
+  - 头版/首屏: 2年期美国国债收益率升至2025年2月以来的最高水平。 | 美媒称约20艘商船通过霍尔木兹海峡 | 伊朗称胡齐斯坦省遭美方袭击 | 华尔街见闻早餐 | 2026年7月13日 | 美国否认伊朗袭击致3名美军士兵死亡 | 英国、法国、德国发表联合声明，谴责伊朗在霍尔木兹袭击船只，呼吁恢复停火和谈判。 | 伊朗否认布什尔核电站区域遭袭 | 提醒：日内请重点关注（以下均为北京时间）
+  - 其他: AI算力需求爆发 光纤量价齐升 多家企业启动扩产计划 | 年内激增超过2000亿元，A股科技类ETF规模突破5400亿元 | 产能满产+订单充足 多家铝企上半年业绩倍增 | 稀土龙头下调三季度报价 终结七个季度连涨行情 | 15个交易日逾千亿元，A股半导体主题ETF“吸金”
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Breaking | Shein receives approval for Hong Kong IPO from Chinese regulators | China’s circuit-board makers push capex towards record to feed AI boom | China Economy | Developing | China issues temporary helium export ban as Iran war strains global supplies | Politics | Typhoon Bavi loses eye but system expands to 1,263 times the size of Hong Kong | Global Economy | Tanker transit through Strait of Hormuz plunges as US-Iran ceasefire fractures
-  - 其他: Beijing clears the online retail giant to seek an initial public offering in Hong Kong, after its plans to float in London and New York hit a dead end. | The ban on shipments of the gas, a crucial raw material in semiconductors and other sectors, comes as Middle East conflict stretches stocks. | Experts warn the change has dissipated Bavi’s energy from the core to its overall cloud structure, making it potentially more dangerous. | Renewed hostilities could undermine credibility of future ceasefires with long-term impact on global energy markets, inflation and risk premiums, analyst says. | 10 scientists and experts who have left US and UK for China so far in 2026
+  - 头版/首屏: Exclusive | Wu Shicun on why Beijing will not rule out Scarborough Shoal construction | Beijing slams Manila’s South China Sea claims ahead of 2016 Hague anniversary | China Economy | Why factories in southern China are feeling the squeeze despite pickup in orders | Middle East | US launches more strikes against Iran as conflict  over Hormuz escalates | Education | Hong Kong IB students beat the global average this year. Here’s how they did it
+  - 其他: Leading Chinese expert says more fixed facilities could be built in the South China Sea if ‘external forces leave us no choice’. | Manufacturers hoping for stimulus measures turn attention to coming Politburo meeting as costs eat into profits and investment. | The flare-up is the latest to undermine an interim agreement between Washington and Tehran aimed at ending their war. | Hong Kong students scored average of 37.02 points for IB, nearly 20 per cent higher than global average of 30.88. | What does China’s J-16 jet ‘beast mode’ upgrade mean for regional air power?
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 解禁后即配股兼发CB筹160亿，MiniMax股价未止泻 | 中国6月CPI升1%逊预期 PPI近4年高 | 美连续两日炸伊 击中90军事目标 | 三星暴利史诗遭见光死，藏ATM“实用”反击暗涌 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数24290.82+260.64(+1.08%)
-                    etnet.com.hk@copyright | 国企指数8079.07+81.78(+1.02%)
+  - 其他: 恒生指数24175.12+144.94(+0.60%)
+                    etnet.com.hk@copyright | 国企指数8039.19+41.90(+0.52%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 華爾街還願意給AI多少溢價？今夜，SK海力士美股首秀或揭曉答案 | 段永平再度增持泡泡瑪特股票，持股比例增至7.65% | 希音國際控股有限公司港股上市獲中國證監會備案 | 本週美股牛股 | 阿里巴巴周累漲近16%，長鑫上市股權估值千億，瑞銀研判阿里電商減虧、雲業務強勢增長；博通漲超11%，獲蘋果超300億美元大單 | 北水減倉港股近60億港元，淨買入智譜超28億港元，賣出騰訊控股逾28億港元 | 募資265億美元！SK海力士(SKHY.US)今晚登陸納斯達克 能否擺脫「韓國折價」？ | 日本政府欲用萬億「巨鯨」穩市！財長喊話最大養老基金增持本土資產，但現實很「骨感」 | 存儲瘋狂擴產，半導體設備迎來"超級時代"！
-  - 其他: 收市速睇 | 三大指數漲跌不一，恒指漲0.6%，科指跌0.21%；科網股普漲，小米漲超3%，阿里漲超2%；芯片股下跌，兆易創新跌超21%，華虹宏力跌超8% | SemiAnalysis創始人最新訪談：存儲還有翻倍空間，CPU只是配角，CPO落地推遲至2029年 | 265億美元IPO、九位數承銷費，SK海力士讓華爾街賺麻了 | AI PC市場迎來多方佈局！英偉達之後，三星開發AI PC專用芯片「GAIA」，已向聯想、惠普供樣測試 | 五大工作組來了—沃什「統一戰線」，意在減息？
+  - 头版/首屏: 富途早報 | 美伊周末衝突升級！海峽通行成謎；三星龍仁芯片廠提前投產，SK海力士CEO：2030年存儲仍供不應求；兆易創新港股今日基石解禁 | 霍爾木茲衝突升級！伊朗導彈橫掃海灣多國，再次宣佈關閉海峽 | 黃仁勳親赴大摩英偉達路演：季度收入近千億美元、增速還在加快，Rubin Ultra沒有延期 | 一週前瞻 | 沃什國會首秀撞上6月CPI！華爾街五大行開啓Q2業績期，台積電、阿斯麥檢驗AI需求；美伊「邊打邊談」牽動油價 | Palantir喊出「忍無可忍」的背後：其他企業對大模型「贏家通吃」的恐懼 | 國會山地震！格雷厄姆驟逝引爆共和黨權鬥，參議院席位爭奪戰連夜打響 | 港股IPO週報：鼎龍股份等A股公司遞表 多隻新股掛牌首日破發 | AI熱潮推動下，行業人士：HBM4價格明年或翻倍
+  - 其他: 機構實地調研：台積電贏了現在的CPO，三星在押注下一場 | 週末讀物 | 打破經典價投與硅谷的「心之壁」！科技投資大神加文·貝克的AI投資啓示錄 | 全球存儲擴產+海外設備交付卡脖子，國產半導體設備迎「超級時代」 | 三星電子將龍仁首座芯片廠投產提前至2029年，比原計劃早1-2年 | 週末讀物 | 當AI開始擁有身體：物理AI會成爲下一輪科技主線麼？
 
 ## 二、跨站主题（多站出现 = 更重要）
 
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **伊朗/中东局势** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
+- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
 - **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **加密货币** — 出现于: Benzinga (EN) (1 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
+- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
+- 伊朗/中东局势（5 站）
 - 科技股/个股（5 站）
-- 伊朗/中东局势（3 站）
-- 油价/能源（3 站）
-- 中国/欧盟（3 站）
+- 关税/贸易政策（2 站）
+- 油价/能源（2 站）
+- 加密货币（2 站）
 - 黄金/大宗商品（2 站）
-- 美联储/利率（2 站）
-- 加密货币（1 站）
-- 就业/经济数据（1 站）
+- 中国/欧盟（2 站）
+- 美联储/利率（1 站）
 - 中国政策（1 站）
-- 关税/贸易政策（0 站）
+- 就业/经济数据（0 站）

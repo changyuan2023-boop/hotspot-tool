@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年7月10日`
+`早间热点线索 · 2026年7月13日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026071020
+抓取时间: 2026071309
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- Wall Street braces for today's blockbuster SK Hynix debut
-- Delta Q2 earnings beat as premium growth softens fuel-cost bite
-- Nasdaq's hottest winners just fell behind the pack
-- Delta Q2 earnings beat as premium growth softens fuel-cost bite
-- Nasdaq's hottest winners just fell behind the pack
-- JPMorgan builds AI agents that beat 60/40 portfolio in backtests
-- Circle wins final regulatory approval to open US trust bank, shares rise
-- Stock futures diverge ahead of SK Hynix's mega US IPO
-- SK Hynix's US debut sparks rush of single-stock ETF filings
-- Fed officials fret over inflation risk, weigh rate hikes
-- UAE oil production hit a record high in June: IEA
+- U.S. markets closed
+- Lindsey Graham dies at 71 after sudden illness
+- US, Iran trade attacks as Tehran declares Hormuz closed
+- Here's what retirees want financial advisers to tell them
+- US, Iran trade attacks as Tehran declares Hormuz closed
+- Maritime group says Hormuz route is open despite Iran's declaration
+- Here's what retirees want financial advisers to tell them
+- NY Fed: Businesses aren't done raising prices to offset tariffs
+- Earnings season kicks off as a wave of inflation data arrives this week
+- Traders grapple with a world that's good for dollar, bad for bonds
+- Building in America is 'the strategy that's working': Nissan CEO
+- Coinbase, Lyft prove there's more going on than the 'Magnificent 7'
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- After Apple, India's smartphone making boom enters new phase
-- UK to directly oversee Microsoft, Google clouds to protect financial stability
-- Tencent in talks for stake to unwind Meta's $2B Manus deal
-- China fails to set jobs goal for first time in decades as AI spreads
+- Tata Consultancy Services plans for up to 8,900 AI deployment engineers
+- More tech workers are retiring early to avoid AI-related changes
+- Chipmakers cash in as Big Tech pays for the AI boom
+- Mark Zuckerberg reveals Meta's plans to offset massive AI spending
 - Popular
-- Mark Cuban holds Guinness record for largest single e-commerce deal
-- Elon Musk's No. 2 gave millions of kids a share of SpaceX each
+- When is a retiree considered 'wealthy' in America?
+- Minimum net worth to be 'upper class' in your 60s
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,67 +145,64 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Why Is Zhibao Technology Stock Gaining Friday?
-- This Travelers Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Friday
-- Bitcoin Has Not Left the $60,000-$70,000 Range in 307 Days: What Is Happening?
-- Wall Street's Most Accurate Analysts Spotlight On 3 Energy Stocks With Over 10% Dividend Yields
-- Coinbase Stock Trades Higher After Circle Receives OCC Approval to Open National Trust Bank
-- Stock Market Today: Dow Jones Futures Gain, Nasdaq 100 Falls as Investors Await SK Hynix Debut and US Reportedly Mulls ‘Technical Talks’ With Iran— PMGC Holdings, WD-40, Netflix In Focus
-- Anthropic
-- Stock Market: Will S&P 500 Open Up or Down Today?
-- Commerce Bancshares Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
-- Top 3 Real Estate Stocks That May Rocket Higher In July
+- I've Tried Every Budgeting App and Nothing Sticks. Could a Spreadsheet Actually Be the Answer?
+- Bank Earnings Week: Goldman, JPMorgan, Citi, BofA, Morgan Stanley Set to Deliver a Profit Bonanza
+- Mark Zuckerberg’s Net Worth Jumps as Meta Stock Gains Momentum
+- Top S&P 500 Stocks to Watch This Week: Goldman Sachs, Netflix, GE Aerospace
+- Citi Analysts Name Three Tech Stocks to Buy Ahead of Earnings
+- US NATO Ambassador Whitaker Says Trump Open to Iran Deal If Tehran Stops 'Acting Crazy'
+- Lindsey Graham
+- Elon Musk
+- AT&T Shares Pause Friday: What's Going On?
+- Elon Musk Says ‘Sadly, Yes’ Jeff Bezos’ Ex-Wife MacKenzie Scott Has Donated Over $26 Billion — And It’s Making the World Worse
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 伊朗高级官员：敌方攻击伊基础设施必遭回击
-- META美股盘前股价涨幅扩大至3.8%。
-- 达美航空第二季度调整后营收为176.7亿美元，市场预期为175.3亿美元。
-第二季度调整后净利润为10.3亿美元，市场预期为9.852亿美元。
-第二季度调整后每股收益为1.56美元，市场预期为1.51美元。
-达美航空仍预计全年调整后每股收益
-- 消息人士：巴基斯坦与卡塔尔再次斡旋美伊重返谈判
-- 欧盟委员会：Meta应对Instagram和Facebook进行调整，禁用自动播放、无限滚动等关键成瘾性功能。
-- 地区多国紧急斡旋 美官员称美伊紧张态势趋缓
-- 中汽协：上半年我国汽车行业运行总体平稳
-- 以色列媒体：以愿参与对伊打击 正等特朗普表态
-- 工信部公开征求《5G+工业互联网场景下通信设备电磁兼容性要求和测量方法 第8部分：汽车制造行业》等70项通信行业标准报批意见。
-- 口服降糖版司美格鲁肽片中国说明书更新
-- 早间要闻汇总
+- 2年期美国国债收益率升至2025年2月以来的最高水平。
+- 美媒称约20艘商船通过霍尔木兹海峡
+- 伊朗称胡齐斯坦省遭美方袭击
+- 华尔街见闻早餐 | 2026年7月13日
+- 美国否认伊朗袭击致3名美军士兵死亡
+- 英国、法国、德国发表联合声明，谴责伊朗在霍尔木兹袭击船只，呼吁恢复停火和谈判。
+- 伊朗否认布什尔核电站区域遭袭
 - 提醒：日内请重点关注（以下均为北京时间）
+- 美参议员格雷厄姆因主动脉夹层猝死
+- 布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。
+- 伊朗外交部谴责美军袭击 称将坚定抵御军事侵略
+- 伊朗多地再次传出爆炸声
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 绿色氢能新突破：中国实现铂族催化剂分钟级制备
-- 李强主持召开国务院常务会议，研究自然资源保护利用有关工作。（央视）
-- 李强主持召开国务院常务会议，听取数字中国建设情况汇报。（央视）
-- 李强主持召开国务院常务会议，研究新兴支柱产业培育有关工作。（央视）
-- 卡塔尔与美国和伊朗进行谈判，以缓和局势。（纽约时报）
-- 李强主持召开国务院常务会议，进一步部署防汛抗洪救灾工作。（央视）
-- 广东将防汛Ⅳ级应急响应调整为防风Ⅳ级应急响应。（央视）
-- 中国—瓦努阿图提升经济伙伴关系协定首轮谈判以视频方式举行
-- 自然资源部对闽浙启动地质灾害防御Ⅲ级响应。（新华社）
-- 希音国际控股有限公司港股上市获中国证监会备案。
+- AI算力需求爆发 光纤量价齐升 多家企业启动扩产计划
+- 年内激增超过2000亿元，A股科技类ETF规模突破5400亿元
+- 产能满产+订单充足 多家铝企上半年业绩倍增
+- 稀土龙头下调三季度报价 终结七个季度连涨行情
+- 15个交易日逾千亿元，A股半导体主题ETF“吸金”
+- 立邦涂料据悉将出价86亿美元收购阿克苏诺贝尔的涂料部门。（彭博）
+- 城投债短端发行约束强化，融资期限结构加速调整
+- 合规风暴下的助贷“生死劫” 24%利率红线锁利，“套娃式”获客模式终结
+- 现货黄金跌至4080美元/盎司下方，日内跌近1%。
+- 泰国曼谷一啤酒餐厅发生火灾致27人死亡、60多人受伤。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Breaking | Shein receives approval for Hong Kong IPO from Chinese regulators
-- China’s circuit-board makers push capex towards record to feed AI boom
+- Exclusive | Wu Shicun on why Beijing will not rule out Scarborough Shoal construction
+- Beijing slams Manila’s South China Sea claims ahead of 2016 Hague anniversary
 - China Economy
-- Developing | China issues temporary helium export ban as Iran war strains global supplies
-- Politics
-- Typhoon Bavi loses eye but system expands to 1,263 times the size of Hong Kong
-- Global Economy
-- Tanker transit through Strait of Hormuz plunges as US-Iran ceasefire fractures
+- Why factories in southern China are feeling the squeeze despite pickup in orders
+- Middle East
+- US launches more strikes against Iran as conflict  over Hormuz escalates
+- Education
+- Hong Kong IB students beat the global average this year. Here’s how they did it
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Beijing clears the online retail giant to seek an initial public offering in Hong Kong, after its plans to float in London and New York hit a dead end.
-- The ban on shipments of the gas, a crucial raw material in semiconductors and other sectors, comes as Middle East conflict stretches stocks.
-- Experts warn the change has dissipated Bavi’s energy from the core to its overall cloud structure, making it potentially more dangerous.
-- Renewed hostilities could undermine credibility of future ceasefires with long-term impact on global energy markets, inflation and risk premiums, analyst says.
-- 10 scientists and experts who have left US and UK for China so far in 2026
+- Leading Chinese expert says more fixed facilities could be built in the South China Sea if ‘external forces leave us no choice’.
+- Manufacturers hoping for stimulus measures turn attention to coming Politburo meeting as costs eat into profits and investment.
+- The flare-up is the latest to undermine an interim agreement between Washington and Tehran aimed at ending their war.
+- Hong Kong students scored average of 37.02 points for IB, nearly 20 per cent higher than global average of 30.88.
+- What does China’s J-16 jet ‘beast mode’ upgrade mean for regional air power?
 - Science
-- Long March-10B: China’s net-capture rocket joins space race with edge on SpaceX
-- Soon after launch, the first stage of the rocket returned vertically and was recovered via a sea platform: state media.
-- Diplomacy
-- China boosts North Korea partnership with rare praise during high-profile visit
+- Could China’s lunar laser tower bring Nikola Tesla’s free energy dream to life?
+- Chinese scientists show how wireless electricity may become reality on the moon, with laser network to beam solar energy into dark craters.
+- Economics
+- UK deal to serve as testing ground for India’s Western trade ambitions
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -222,9 +219,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数24290.82+260.64(+1.08%)
+- 恒生指数24175.12+144.94(+0.60%)
                     etnet.com.hk@copyright
-- 国企指数8079.07+81.78(+1.02%)
+- 国企指数8039.19+41.90(+0.52%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -237,35 +234,35 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 華爾街還願意給AI多少溢價？今夜，SK海力士美股首秀或揭曉答案
-- 段永平再度增持泡泡瑪特股票，持股比例增至7.65%
-- 希音國際控股有限公司港股上市獲中國證監會備案
-- 本週美股牛股 | 阿里巴巴周累漲近16%，長鑫上市股權估值千億，瑞銀研判阿里電商減虧、雲業務強勢增長；博通漲超11%，獲蘋果超300億美元大單
-- 北水減倉港股近60億港元，淨買入智譜超28億港元，賣出騰訊控股逾28億港元
-- 募資265億美元！SK海力士(SKHY.US)今晚登陸納斯達克 能否擺脫「韓國折價」？
-- 日本政府欲用萬億「巨鯨」穩市！財長喊話最大養老基金增持本土資產，但現實很「骨感」
-- 存儲瘋狂擴產，半導體設備迎來"超級時代"！
+- 富途早報 | 美伊周末衝突升級！海峽通行成謎；三星龍仁芯片廠提前投產，SK海力士CEO：2030年存儲仍供不應求；兆易創新港股今日基石解禁
+- 霍爾木茲衝突升級！伊朗導彈橫掃海灣多國，再次宣佈關閉海峽
+- 黃仁勳親赴大摩英偉達路演：季度收入近千億美元、增速還在加快，Rubin Ultra沒有延期
+- 一週前瞻 | 沃什國會首秀撞上6月CPI！華爾街五大行開啓Q2業績期，台積電、阿斯麥檢驗AI需求；美伊「邊打邊談」牽動油價
+- Palantir喊出「忍無可忍」的背後：其他企業對大模型「贏家通吃」的恐懼
+- 國會山地震！格雷厄姆驟逝引爆共和黨權鬥，參議院席位爭奪戰連夜打響
+- 港股IPO週報：鼎龍股份等A股公司遞表 多隻新股掛牌首日破發
+- AI熱潮推動下，行業人士：HBM4價格明年或翻倍
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 收市速睇 | 三大指數漲跌不一，恒指漲0.6%，科指跌0.21%；科網股普漲，小米漲超3%，阿里漲超2%；芯片股下跌，兆易創新跌超21%，華虹宏力跌超8%
-- SemiAnalysis創始人最新訪談：存儲還有翻倍空間，CPU只是配角，CPO落地推遲至2029年
-- 265億美元IPO、九位數承銷費，SK海力士讓華爾街賺麻了
-- AI PC市場迎來多方佈局！英偉達之後，三星開發AI PC專用芯片「GAIA」，已向聯想、惠普供樣測試
-- 五大工作組來了—沃什「統一戰線」，意在減息？
-- 中國實現運載火箭一子級可控回收，港股商業航天概念股集體走強
-- 科網股延續近期反彈，港股互聯網巨頭AI佈局密集落地，恒科指數估值處於近十年低位
-- 港股午評 | 港股三大指數持續上行，科指漲2.69%；科網股延續漲勢，小米漲近5%，阿里漲近4%；生物技術、光通信、機器人概念股表現亮眼，昭衍新藥漲超14%，長飛光纖光纜漲超5%，埃斯頓漲超7%
-- 大摩上調聯想評級：從「內存逆風」到「服務器利潤爆發」
-- 讓前沃爾瑪CEO校準通脹？一文讀懂：沃什五大工作組選人有多絕！
+- 機構實地調研：台積電贏了現在的CPO，三星在押注下一場
+- 週末讀物 | 打破經典價投與硅谷的「心之壁」！科技投資大神加文·貝克的AI投資啓示錄
+- 全球存儲擴產+海外設備交付卡脖子，國產半導體設備迎「超級時代」
+- 三星電子將龍仁首座芯片廠投產提前至2029年，比原計劃早1-2年
+- 週末讀物 | 當AI開始擁有身體：物理AI會成爲下一輪科技主線麼？
+- 手機成大模型競爭新賽場，AI「超級載體」利好哪些硬件環節？
+- 伊朗宣佈關閉霍爾木茲海峽，美軍稱正在對伊朗發動打擊、伊朗多地傳出爆炸聲
+- 從「百鏡大戰」到「iPhone時刻」 2028年或成行業關鍵爆發節點
+- 大模型「雙雄」配股募資：國資熱捧智譜，外資觀望MiniMax
+- 週末讀物 | 算力租賃要變天了？
 
 --- 跨站重点主题（多站出现=更重要）---
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), SCMP (EN/中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
 - 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 加密货币: Benzinga (EN)
-- 就业数据: Yahoo Finance (EN)
+- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
