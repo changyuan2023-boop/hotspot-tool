@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026071320
+抓取时间: 2026071409
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- Morgan Stanley sees profit boost for stocks beyond tech
-- US and Iran trade fresh strikes, dispute whether Hormuz is open
-- AI buildout drives up laptop and electricity costs
-- US and Iran trade fresh strikes, dispute whether Hormuz is open
-- Meta's Louisiana data center to top $250 billion
-- AI buildout drives up laptop and electricity costs
-- EU to present plan to restrict children’s access to social media
-- Stock futures slip as Hormuz tensions rattle markets, oil
-- Earnings season kicks off as a wave of inflation data arrives this week
-- Wall Street to Warsh: Skip the guidance, but tell us what you think about the economy
-- Wall Street feasts on fees from SpaceX IPO and mergers
+- U.S. markets closed
+- Trump vows to charge 20% 'on all cargo shipped' in renewed Hormuz blockade, oil spikes
+- Tariff refunds accelerated sharply in June as the US paid out almost $50 billion to businesses
+- The wildest claims in Apple's trade secrets suit against OpenAI
+- Tariff refunds accelerated sharply in June as the US paid out almost $50 billion to businesses
+- The wildest claims in Apple's trade secrets suit against OpenAI
+- State AGs sue to block Paramount's $110B Warner Bros deal
+- As SpaceX stock dips below IPO price, bulls make Buy argument
+- Fed's Waller says higher rates may be needed in near term
+- Warsh’s balance-sheet panel runs into market reality check
+- What happened to inflation in June?
+- Netflix may be sitting on another tough quarter
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- Asian tech firms seeking to follow SK Hynix may find foreign investors more selective
-- Apple’s $600 billion rally fueled by traders fleeing AI selloff
-- TSMC posts record revenue in Q2 on AI demand
-- Xi to debut at China’s flagship AI summit as US rivalry heats up
+- Musk trolls OpenAI CEO Sam Altman over Apple trade secrets suit
+- Sam Altman's space data center trash talk echoes expert views
+- Canada regulator warned banks on Anthropic's Claude Mythos
+- Intel invests €5 billion in Ireland to keep up in AI chip race
 - Popular
-- Musk roasts OpenAI's Apple lawsuit, Altman hits back
-- The Great Wealth Transfer will be smaller than many think
+- Disney exiting streaming could spur 40% rally, Wells Fargo says
+- Costco worker earns $33/hr but is a millionaire — here's how
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,65 +42,41 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Elon Musk's First SpaceX Hire Tom Mueller Says Moon is ‘More Important Than Mars’ in Near Term For This Key Reason
-- Apple Stock Trending After Suing OpenAI for Allegedly Stealing Hardware Trade Secrets
-- Ripple Considered Shutdown, Distributing XRP to Shareholders During SEC Legal Battle, CEO Reveals
-- Why Is Mint Stock Gaining Monday?
-- Weride Stock Struggles as International Growth Meets a Bearish Technical Setup
-- Stock Market Today: Dow Futures Gain, S&P 500 Slips as US and Iran Exchange Strikes—Saratoga, Exxon Mobil, Levi Strauss in Focus
-- Lindsey Graham
+- Investors Debate Which Stock Will Create the Most Millionaires in the Next 10 Years. 'Not the Safest. Not Your Favorite'
+- This Time, Investing in Japan Actually Pays
+- Penguin Solutions Stock Tumbles On Proposed Private Offering
+- Neuberger Launches NQLT Quality ETF as Active ETF Demand Grows
+- Bitcoin Bears Are Getting Weaker Despite Drop to $62,000, Analyst Argues
+- EXCLUSIVE: SpaceX Sparked New ETF Race for Private Market Access;  'Passive Funds Are Buying at $1.75T What We Bought Years Earlier,' Says ERShares CIO
+- Strait Of Hormuz
+- Data Center
 - Elon Musk
-- Economist Justin Wolfers Says 'the Puzzle' Behind Record Highs 'Goes Away' Once You Take Out AI
-- Robinhood Chain: Why These 3 Crypto Projects Could Gain From Rising Adoption
+- Anthropic Accuses Rival Abnormal AI of Mimicking Its Brand
 
 ## 华尔街见闻 (简中)
-头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 英国政府将伊斯兰革命卫队列为恐怖组织。（英国天空新闻）
-- 美国中央司令部：美军并未袭击伊朗哈尔克岛。
-- 白宫计划就AI电力成本达成自愿承诺。（路透）
-- 伊媒：阿巴斯港和格什姆岛附近传出爆炸声
-- 伊朗电视台称，霍尔木兹海峡将继续关闭，直到美国停止干涉。
-- 伊朗外长：将与阿曼继续磋商霍尔木兹海峡管理事宜
-- 伊朗：局势升级直接责任在美国 外交努力仍在继续
-- 报道：大众汽车CEO备忘录称该公司或需进一步裁员5万人
-- 美股盘前，存储芯片股普跌，SK海力士跌近10%
-- 伊朗：不会允许海峡成为对伊朗的威胁。
-- 伊朗称不会同意IAEA进入核设施的请求。（彭博）
-- 阿克苏诺贝尔拒绝立邦对其装饰涂料业务86亿美元的收购提议
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 阶跃星辰AI手机STEPX Neo正式亮相，同步发布大模型原生终端品牌
-- TCL中环：预计上半年净亏损30亿元-33亿元，上年同期亏损42.4亿元
-- 博杰股份：预计2026年上半年净利润1.5亿-1.85亿元，同比增长642.86%-816.20%
-- 【生益电子：预计上半年净利润10.82亿元到11.37亿元，同比增加104%到114%】受益于AI算力及高速通信等下游领域的高景气需求，公司紧扣战略定位，深入实施“市场引领，双轮驱动”方针，持续聚焦高端市场的结构性增长机会，优化产品结构，有
-- 【TCL科技：预计上半年净利润同比增长96%-108%】TCL科技公告，预计2026年上半年净利润为37亿元—39.2亿元，同比增长96%—108%。报告期内，公司聚焦半导体显示、新能源光伏和半导体材料业务的核心主业发展，坚持战略引领、创新
-- 【胜宏科技：网络平台上流传关于公司产品、市场份额、项目进展等负面传闻，内容严重失实】1、网络流传相关言论不属实。公司是国内外AI头部大客户的长期战略合作伙伴，胜宏科技始终将“品质”和“安全”视为企业的生命线，公司严格按照客户标准管理。
-2、
-- 也门政府：胡塞武装劫持一架红十字国际委员会飞机
-- 汇成股份：子公司拟投资不低于75亿元建设先进封装研发产业化项目
-- 李强主持召开经济形势专家和企业家座谈会
-- 印度通胀率17个月来首次超过印度央行目标水平
+（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f2e0a9f86b0>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Japan’s ‘destructive potential’ in South China Sea may eclipse the US: analyst
-- Beijing slams Manila’s South China Sea claims ahead of 2016 Hague anniversary
-- Tech
-- In just 7 days: China’s Midea rushes 20,000 air cons to France amid heatwave
-- Hong Kong Economy
-- Hongkongers spend record HK$2,000 per month on cats as ‘silver’ pet market grows
+- Trump to restore Iran blockade, charge fees for Strait of Hormuz shipping
+- Iran closes Hormuz, attacks Gulf states as US says strait remains open
 - Diplomacy
-- China rejects US, Panamanian claims of ‘weaponising’ ship inspections
+- Will Manila and Hanoi’s maritime deal challenge Beijing in the South China Sea?
+- Lindsey Graham’s death removes one of Washington’s most influential China hawks
+- Business
+- ‘Good time to enter market’: rebates rise as Hong Kong property demand recovers
+- Is the Year of the Horse’s sixth month lucky for you? Forecasts for all signs
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Japan’s recent firing of an anti-ship missile was first time it had shown its ‘military muscle’ since World War II, security round table told.
-- Europe’s lethal heatwave drives China’s appliance giant to sprint production and slash delivery times.
-- Hong Kong Cat Expo organiser says growing proportion of ageing felines will drive future market growth as owners seek better care for pets.
-- Beijing cites data showing Panama-flagged vessels suffered multiple serious accidents in Chinese waters this year.
-- China supercharges AI with 100-fold faster optical chip breakthrough
-- China Business
-- Can AI collaborations power China’s next wave of blockbuster drug deals?
-- China develops 30 per cent of new therapies worldwide as it rises to the top tier in innovation efficiency, drug supervision official says.
-- Tech Trends
-- China’s Zhipu AI defies market slump with pursuit of AGI over quick profits
+- US president says Iranian ships and those trading with Iran will be barred, while other commercial traffic will pay a 20% transit fee.
+- A new cooperation agreement chips away at China’s bilateral negotiation tactic, but experts say its value is mostly symbolic.
+- Graham’s sister will fill his Senate seat, but his role as one of Trump’s closest foreign policy advisers may prove harder to replace.
+- Mortgage battle intensifies as lenders raise cash rebates to lure buyers amid Fed rate uncertainty.
+- Global Economy
+- Amid rising dollar risks, Plaza Accord-style unity not feasible: ex-IMF adviser
+- Economic historian Barry Eichengreen says if current policy paths persist, modern rifts could bring about a confidence crisis in the US currency.
+- US tariff probe unlikely to derail fall Xi-Trump meeting: analysts
+- Experts say both sides remain focused on trade negotiations and new tariff-free mechanisms despite fresh investigations.
+- Politics
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -131,35 +107,17 @@
 ## 智通财经 (简中)
 
 ## 富途资讯 (繁中)
-头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美股前瞻 | 伊朗：霍爾木茲海峽仍關閉，與美備忘錄已進入「危機」階段，WTI原油漲超3%；黃仁勳親赴大摩英偉達路演，Rubin Ultra確認明年出貨；三星已完成特斯拉AI5芯片流片
-- 韓國央行駁斥見頂擔憂：AI驅動的芯片「超級週期」將持續
-- 李強主持召開經濟形勢專家和企業家座談會：要系統施策釋放內需潛力 加快培育消費新增長點
-- 韓國政府：將設立「未來應對基金」，推進AI半導體等三大「超級項目」
-- 沃什國會首秀在即，華爾街喊話：可以不給利率路徑，但請亮明你對經濟的看法
-- 聯儲局新主席沃什首迎國會大考：「少說多做」能否奏效？通脹與獨立性成質詢焦點
-- AI 數據中心軍備競賽仍在升級！Meta追加400億美元押注能否澆滅算力過剩論？
-- 美股Q2業績期前瞻：非科技股盈利韌性凸顯 科技股「答卷」超預期才能過關
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 全球步入「動盪之夏」，警惕三大市場風暴
-- 巨頭千億豪賭AI，市場等待業績「交卷」
-- 北水加倉港股超90億港元，智譜、網易分別獲淨買入超47億、15億港元，建滔積層板、建滔集團分別遭淨賣出逾32億、18億港元
-- META宣佈將追加400億美元投資路易斯安那州數據中心 將該數據中心擴展至5GW的計算容量
-- 亞太股市集體殺跌：韓股熔斷存儲芯片下跌，央行喊話AI半導體超級週期延續
-- 張憶東硅谷調研歸來最新交流：AI大時代遠未結束，機會將從「光」向外擴散
-- SK海力士較高位跌近40%，抄底機會？還是風險剛開始？
-- 收市速睇 | 三大指數漲跌不一，恒生科技指數跌0.96%；PCB概念、半導體股多數下跌，建滔集團跌超19%，兆易創新跌超15%；汽車股走低，賽力斯跌超13%
-- 摩根士丹利解讀：英偉達還有42%空間，增長從哪裏來？
-- 「大空頭」殺瘋了! 邁克爾·伯裏從底層技術狙擊AI信仰：當參數陷阱撞上產能洪峰，AI牛市迎來「清算時刻」
+（抓取失败: HTTPSConnectionPool(host='news.futunn.com', port=443): Max retries exceeded with url: /hk/main (Caused by ConnectTimeoutError(<HTTPSConnection(host='news.futunn.com', port=443) at 0x7f2e09bb7590>, 'Connection to news.futunn.com timed out. (connect timeout=30)'))）
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN), SCMP (EN/中)
 - 加密货币: Yahoo Finance (EN), Benzinga (EN)
-- 黄金/大宗: Benzinga (EN), SCMP (EN/中)
-- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 美国关税: 富途资讯 (繁中)
+- 美联储: Yahoo Finance (EN), SCMP (EN/中)
+- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
+- 伊朗/中东: SCMP (EN/中)
+- 就业数据: SCMP (EN/中)
+- 黄金/大宗: Benzinga (EN)
 
 --- 粘贴结束 ---
