@@ -3,30 +3,21 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 30m | IBM's historic crash exposes a deeper tech divide: Chart of the Day | Trump pledges to escalate attacks until Iran relents on Hormuz | J&J quarterly earnings beat Wall Street estimates on strength of medicines unit | Trump pledges to escalate attacks until Iran relents on Hormuz | UN warns Strait of Hormuz too dangerous for ships | PNC beats estimates as lending income, fees counter higher costs | J&J quarterly earnings beat Wall Street estimates on strength of medicines unit
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Intel turns to next-gen ASML tool to make laptop chips | Huang says Nvidia's Vera Rubin is on track
+  - 头版/首屏: U.S. markets closed | SpaceX stock falls below IPO price | Stocks rise as Apple notches record high, semiconductors sell-off | Apple, Goldman Sachs, and Chevron are powering the Dow — for wildly different reasons: AlphaCheck | Stocks rise as Apple notches record high, semiconductors sell-off | King Street restricts client withdrawals from its hedge fund | Apple, Goldman Sachs, and Chevron are powering the Dow — for wildly different reasons: AlphaCheck | PayPal stock soars on report of buyout proposal from Stripe, Advent
+  - 其他: Top Stories | Markets & Economy | Tech & AI | Anthropic plans IPO investor meetings as listing nears | Palantir’s CTO sees Chinese AI models posing economic risk to US
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: UnitedHealth Stock in the Spotlight Ahead of Q2 Earnings Thursday | SpaceX Engineers Raise $115 Million to Make Construction Faster, Cheaper and Safer After Learning At ‘a Crazy Pace’ Under Elon Musk | The Fed Has Missed Its 2% Inflation Target for 64 Straight Months— And One Market Strategist Says It Has 'Lost All Credibility' | What's Going on With IBM Stock Wednesday? | This Check Point Software Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Wednesday
+  - 其他: Widow, 74, Applied For A HELOC Alone For The First Time Since Her Husband Died — And The Bank Said No | Trump Approval Rating 37%, More Voters Disapprove of Iran War Since April | Jamie Dimon Says Anthropic’s Mythos Access Debate Is a Warning Sign for AI’s Future | Elon Musk Just Ditched His Clean‑Energy Image With a Billion‑Dollar Fossil‑Fuel Play | XRP Flashes Monthly Buy Signal as Binance Reserves Hit Lowest Level Since February
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 美国已完成对伊朗的晨间打击 | 摩根士丹利美股盘前转跌，此前一度涨近3%。 | 美国白宫国家经济委员会主任哈塞特：数据显示没有理由提高利率。
-相信沃什会带领美联储就利率作出正确决定。
-伊朗挟持全球经济的能力已经下降。
-几天前见过沃什。
-和沃什进行了一次愉快的交谈。
-就委员会人选问题称赞沃什。 | 摩根士丹利第二季度净营收213.5亿美元，预估195.8亿美元。
-第二季度每股收益3.46美元。
-第二季度净利息收入27.8亿美元，预估27.2亿美元。
-第二季度股票销售和交易业务营收63.0亿美元，预估44.7亿美元。
-第二季度固定收益、 | 阿里巴巴对汇通达网络的持股比例从16.56%降至0%。 | 小鹏拟（明年）第一季度在中国自有门店部署机器人作为购物助手。（华尔街日报） | 报道：巴菲特因爱泼斯坦丑闻审查终止对盖茨基金会的捐赠 | 美国7月10日当周MBA抵押贷款申请活动指数周环比 -2.7%，前值 -2.2%。
-  - 其他: 阿里发布实时语音交互对话模型Qwen-Audio-3.0-Realtime | 蔚来现身长鑫科技IPO战略投资名单 | 特朗普周二就伊朗举行了战情室会议，讨论了扩大对伊朗的打击。（AXIOS） | 美军称对伊朗进行持续七小时打击 | 机构：6月全球玩家移动游戏支出环比下降7%
+  - 头版/首屏: 美国螺旋蝇疫情给墨西哥牧场主带来惨痛代价 | 做空者蜂拥做空SpaceX，账面利润逼近40亿美元 | 据伊朗迈赫尔通讯社16日凌晨报道，伊朗首都德黑兰启动防空系统，以应对敌对威胁。（新华社） | 巴林拉响防空警报 并传出数声爆炸声 | SpaceX IPO推动华尔街股权资本市场收入创2021年以来新高 | 美国贸易代表格里尔：美国在推进稀土生产。 | 霍尔木兹海峡通行费“秒变”投资协议 内情披露 | 美国贸易代表格里尔：在301调查方面正在快速推进。
+  - 其他: 周三（7月15日），彭博电动汽车价格回报指数涨0.62%，报3417.66点，全天处于上涨状态。 | 美国总统特朗普声称：美国很快将对“非法”卡车司机采取行动。 | 美国总统特朗普兜售来自摩根大通与Kratos的投资。 | 白宫顾问哈塞特：美国财长贝森特与我今天开会，讨论未来的税收议程。 | King Street对旗下对冲基金赎回设限
 
 - **SCMP (EN/中)** ✓
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 传DeepSeek年内递上市申请，长飞光纤料中期多赚逾7倍 | 内地6月出口增27%进口飙36% 胜预期 | 工党349人支持 伯纳姆下周任新英相 | 4.3%和5.9%，二季度GDP藏“薛定谔的猫” | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 国寿发盈喜料中期多赚逾两倍，获大行唱好股价借势回吐 | 内地6月出口增27%进口飙36% 胜预期 | 特朗普弃霍峡征费 改要求海湾国家投资 | 4.3%和5.9%，二季度GDP藏“薛定谔的猫” | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数24681.10+340.37(+1.40%)
                     etnet.com.hk@copyright | 国企指数8184.38+81.30(+1.00%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -35,31 +26,31 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 7款手機AI獲備案：蘋果智能牽手阿里千問，努比亞豆包也在列 | 阿斯麥Q2業績全面超預期，再度上調全年指引，2027年低NA EUV產能增加30% | 諾基亞攜英偉達推出AI-RAN商用平台 未來基站會有什麼變化？ | 美股溢價飛天！海力士的「美股-韓股」套利交易最早要到7月29日，且散戶無法參與 | 北水掃貨港股逾133億港元，阿里巴巴、騰訊控股、智譜分別獲淨買入30億、18億、15億港元 | 上半年我國GDP同比增長4.7%，新動能貢獻率超四成……權威解讀來了 | 伊朗耗得起，特朗普耗不起：中期選舉下的海峽耐力賽 | 當所有人擠進AI主題，聰明資金尋覓「逆向交易」對沖拋售風暴：兼具低估值與防禦屬性的英國股市
-  - 其他: 阿里千問將作爲AI能力集成至蘋果智能 | 美伊戰火愈演愈烈？特朗普被曝白宮戰情室開會，討論對伊「毀滅性打擊」 | 收市速睇 | 三大指數齊升，恒生指數漲1.4%；生物技術股、科網股普漲，昭衍新藥漲超23%，美團漲超5%；AI應用股走強，MINIMAX漲超13%，智譜漲超6% | 史上第一次，人比軟件便宜？AI要是沒用好，比人可貴多了！ | Stripe要買PayPal？傳聞中530億美元大交易背後有哪些看點
+  - 头版/首屏: 富途早報 | 特朗普炮轟紐約暫停AI數據中心審批，沃什重申聯儲局獨立性；黃仁勳現身東京，推動AI與機器人合作；Anthropic最快10月啓動IPO | 特朗普重申希望利率下降，稱按兵不動總比加息好、很尊重沃什 | 沃什結束國會山之行！一文梳理：這兩天他都說了些啥？ | 韓國央行三年半來首次加息 | SpaceX連跌4日至IPO發行價附近，空頭賬面盈利接近39億美元 | 聯儲局理事庫克：通脹風險已壓倒就業風險，若通脹不降溫將採取行動 | 成交額TOP20 | 上市走出過山車行情！SK海力士收跌9%，美光、閃迪跟跌8%；蘋果擬收購AI芯片企業漲4%創新高；阿斯麥光刻機或漲價，台積電抗議 | 報道稱蘋果尋求收購芯片公司，加速佈局AI服務器能力
+  - 其他: 特朗普批評紐約暫停AI數據中心審批：這是"糟糕透頂的決定"，稅收與就業是"液態黃金" | 美股收盤 | PPI確認通脹降溫，股指齊漲；Mag7走強，谷歌、亞馬遜、Meta漲超3%；中概股回暖，阿里漲近5%；SpaceX盤中首次破發；金油走V | 美伊衝突持續威脅，美國或再出手壓制油價，白宮被曝考慮再次延長「船禁」豁免 | 報道：ASML計劃上調光刻機價格，台積電表示反對 | 美股三大指數集體收漲 存儲概念股、計算機硬件板塊逆市大跌
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
+- **伊朗/中东局势** — 出现于: Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
 - **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
-- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **加密货币** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
-- **加密货币** — 出现于: Benzinga (EN) (1 站)
+- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
 - **就业/经济数据** — 出现于: Benzinga (EN) (1 站)
-- **黄金/大宗商品** — 出现于: Benzinga (EN) (1 站)
+- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 伊朗/中东局势（4 站）
 - 科技股/个股（4 站）
+- 伊朗/中东局势（3 站）
 - 油价/能源（3 站）
-- 美联储/利率（3 站）
-- 中国/欧盟（3 站）
-- 关税/贸易政策（2 站）
+- 黄金/大宗商品（3 站）
+- 加密货币（2 站）
+- 中国/欧盟（2 站）
 - 中国政策（2 站）
-- 加密货币（1 站）
+- 关税/贸易政策（1 站）
 - 就业/经济数据（1 站）
-- 黄金/大宗商品（1 站）
+- 美联储/利率（1 站）
