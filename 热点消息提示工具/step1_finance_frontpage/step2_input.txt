@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026071720
+抓取时间: 2026072020
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - U.S. markets open in 1h 30m
-- Stocks fall after Netflix whiff, chips sell-off hammers Nasdaq
-- China's Moonshot unveils world's largest open AI model
-- Trump stokes doubts on US election security in combative speech
-- China's Moonshot unveils world's largest open AI model
-- DeepSeek champions China’s bid to flood the world with cheap AI
-- Fears mount of US and Iran escalation after sixth day of clashes
-- Trump Media to sell early access to Trump's Truth posts
-- The $3.3T chip sell-off is nearing a bear market: Chart of the Day
-- Analysts react to Asian shares 'bloodbath' amid global rout
-- US corporate insiders are selling stocks at a near record pace
-- Oil rises on intensifying US-Iran hostilities
+- US stocks edge up on glimmer of MidEast peace hope
+- US-Iran war pushes oil back above $90, gas above $4 again
+- Big Tech earnings to test Wall Street's big rotation this week
+- US-Iran war pushes oil back above $90, gas above $4 again
+- Big Tech earnings to test Wall Street's big rotation this week
+- It's getting harder to afford a starter home, even as shortage eases
+- US bombs Iran for ninth day as Hormuz standoff deepens
+- Bristol Myers buys Nvidia's latest AI system for drug research
+- The S&P 500 is tearing up the earnings playbook
+- Chinese traders unwind leveraged bets at fastest pace since 2016
+- Airline Ryanair's profit sinks 34% as Iran war hits demand, ups fuel costs
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- Netflix stock tanks after Q3 revenue falls short, co-CEO says not all views are 'created equal'
-- SpaceX stock drops after first test flight since IPO scrubbed
-- Alphabet, Intel results in focus for AI trade as US earnings rev up
-- Indonesia copyright rewrite puts Google, AI platforms on notice
+- Bezos backs AI startup to discover new materials for chipmaking
+- How AI is supercharging drug development
+- AI boom could make ASML Europe's first trillion-dollar firm
+- Netflix paid $587M for Ben Affleck’s AI filmmaking startup
 - Popular
-- Investigators eye Taylor Farms lettuce at Taco Bell amid cyclosporiasis outbreak
-- How to play the weight-loss drugs boom: One Big Investment Idea
+- Mercedes CLA 250+ is a more luxurious Tesla Model 3 — at a good price
+- Man set to retire finds wife moved $300,000 to secret account
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,57 +42,64 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Why Is Intuitive Surgical Stock Sinking Friday?
-- These Analysts Slash Their Forecasts On Intuitive Surgical Following Q2 Earnings
-- Top Wall Street Forecasters Revamp WR Berkley Expectations Ahead Of Q2 Earnings
-- Wall Street's Most Accurate Analysts Spotlight On 3 Materials Stocks Delivering High-Dividend Yields
-- The Cost of the AI Race: Is Oracle Investing Its Way to Junk Status?
-- Stock Market Today: Dow Futures, S&P 500 Futures Slump Even as Trump Says US Is Doing 'Great'—Netflix, Coca-Cola, Nebius in Focus
-- Kevin Warsh
-- Anduril Industries
-- Analyst Says Americans Spent '$308 Million More' on Gas in a Day as Prices Near $4 a Gallon
-- Top 3 Financial Stocks That Could Blast Off In Q3
+- These Analysts Revise Their Forecasts On Truist Financial Following Q2 Results
+- Exclusive: Don’t Buy Crude ETFs for the Refining Crunch—Veteran Trader Warns of a ‘Temporary Crude Surplus’
+- RTX's Pratt & Whitney Wins British Airways Engine Deal
+- Global Payments To Rally More Than 28%? Here Are 10 Top Analyst Forecasts For Monday
+- Nebius Stock in Focus After $775 Million Secured Debt Facility, New Partner Model
+- Stock Market Today: S&P 500, Dow Jones Futures Gain as Trump Says Iran is 'Very, Very Badly Damaged'— Eva Live, RTX, Synopsys in Focus
+- Elon Musk
+- Elizabeth Warren
+- Samsung, SK Hynix Tumble in Seoul as China AI Breakthrough Weighs on AI Infrastructure Stocks
+- D.R. Horton Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 报道：美军袭击伊朗南部发电站和机场
-- 美军袭击摧毁了伊朗一座海上交通控制塔。（伊通社）
-- 伊朗革命卫队打击卡塔尔美军基地
-- 一些现就职于OpenAI的前苹果员工收到了法律信函。（英国《金融时报》）
-- 美国企业高管大举减持股票 抛售规模接近峰值水平
-- 科威特称水厂和发电站在伊朗袭击中受损，多台发电机组在伊朗袭击中受损，水厂和发电厂发生火灾，火势已得到控制，有关部门正努力使受损机组恢复运行。（彭博）
-- 德国准备就裕信银行收购德国商业银行一事展开谈判。（彭博）
-- 美股期货跌幅扩大， 纳斯达克100指数期货跌2%，标普500指数期货跌1%，道指期货跌0.6%。
-- 美股盘前，存储芯片股普跌，闪迪跌约6%，纳斯达克100指数期货跌1.8%
-- 英国海上贸易运营中心（UKMTO）：油轮在阿曼附近遭不明抛射物击中。
-阿曼附近遭袭油轮报告轻微结构损伤。
-- 报道：伊朗伊斯兰革命卫队袭击位于阿曼的雷达系统
-- 伊朗革命卫队称打击叙利亚美军指挥中心
+- 调解人提议伊朗和美国恢复到7月9日前的状态。（ISNA）
+- 美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货跌0.6%，道指期货跌0.4%。
+布伦特原油5分钟内下跌1.32美元/桶，报86.9美元/桶；WTI原油5分钟内下跌1.28美元/桶，报80.24美元/桶。
+现货黄金5分钟内
+- GE Aerospace：已完成首次混合动力飞行，飞行高度超过30,000英尺。
+已与NASA（美国国家航空航天局）、飞机制造公司Beta Technologies及波音公司建立合作关系。
+- 美股存储芯片股盘前走高，闪迪涨约4%，SK海力士涨约5%，美光科技涨约4%，西部数据、希捷科技涨约2%。
+- 阿里云发布轻量应用服务器“智能体专用型实例”
+- 达美乐比萨第二季度营收11.9亿美元，同比增长4.3%，预估11.8亿美元。
+第二季度每股收益4.07美元，上年同期3.81美元，预估4.18美元。
+达美乐比萨美股盘前涨超2%。
+- 美伊冲突升级 霍尔木兹海峡的交通周一近乎瘫痪
+- 报道：腾讯正就收购SuperPlay进行洽谈 对后者估值最高15亿美元
+- 千问发布语音合成大模型Qwen-Audio-3.0-TTS
+- 波音防务加紧生产关键拦截弹寻的器
+- 波音CEO：市场“极具韧性”。
+- 伊朗外交部发言人宣布：伊朗内政部长将于本周一出访巴基斯坦。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 多氟多：G5级电子级氢氟酸已持续稳定批量供应长鑫存储等
-- 【世界黄金协会：中国市场黄金ETF上半年实现显著流入】7月17日，世界黄金协会数据显示，6月金价走弱，抹去前期涨幅，上半年最终以下跌收官。尽管6月有流出，中国市场黄金ETF上半年仍实现显著流入，推动资产管理总规模（AUM）小幅升至2430亿
-- 伯纳姆：这是一个值得骄傲的时刻，我已经准备好了。
-尚未就核心团队人选做出决定。
-这是实现改变的最后机会。
-我们应寻求与其他政党寻求共识。
-我将确立一条鲜明体现工党理念的发展方向。
-我将成为一位亲商的工党领袖。
-- 安迪·伯纳姆当选英国工党党首，将接替斯塔默出任英国首相。（新华社）
-- 两融集中强平？多家券商回应：未出现大规模平仓
-- 领益智造：公司增加回购公司股份的资金总额，回购股份资金总额由“不低于2亿元（含），不超过4亿元（含）”调整为“不低于4亿元（含），不超过8亿元（含）”。
-- 智微智能：2026年上半年营业收入30.5亿元，同比增长56.64%。净利润3.88亿元，同比增长281.92%。
-- 四人共同操纵股票获利近1.57亿元，被证监会罚没6.27亿
-- 习近平会见柬埔寨首相洪玛奈
-- 涪陵电力：国网综能正在筹划将公司控股股东川东电力持有的公司全部股份划转至国网综能。本次股份划转完成后，川东电力不再持有公司股份，国网综能将直接持有公司41.65%股权并成为公司控股股东，国家电网有限公司仍为公司最终控股股东，公司实际控制人仍
+- 美股期货走高，标普500指数期货上涨0.2%，纳斯达克100指数期货上涨0.6%。
+- 伊朗多地传出爆炸声
+- 英国首相伯纳姆：承诺彻底解决无家可归者露宿问题。
+将采取措施终结英国的无家可归者露宿街头现象。
+让我们把这一刻变为“我们重燃希望”的时刻。
+- 上海：持续深化人工智能全栈布局，系统提升全链条自主创新能力
+- 英国首相伯纳姆：已接受组建政府的邀请。
+英国需要证明，我们能够重获稳定。
+我们将把权力从威斯敏斯特转移到各地区。
+我今年将提出英国新的十年规划。
+将必需品重新置于更强的公共管控之下。
+我明天将公布有关降低生活成本的措施。
+我们将建造更多市政
+- 英国新首相伯纳姆发表就职演讲
+- 伊朗总统称伊正处于“全面战争”之中
+- 俄罗斯延长对中国公民的免签入境政策
+- 布伦特原油日内跌幅达2.0%，报86.34美元/桶；WTI原油日内跌幅达2.5%，报79.73美元/桶。
+- 三花智控：控股股东三花控股集团提议以2亿元-4亿元回购公司A股股份
 
 ## SCMP (EN/中)
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 纽约州停建大型资料中心，AI大模型及硬件股又急跌
-- “七下八上”防汛关键期 水利部料涝重于旱
-- 特朗普拟扩军事行动 迫伊让步停袭霍峡
+- 收锂电池消费税兼锂价创4个月低，赣锋天齐股价续寻底
+- ​DeepSeek将推V4正式版 性能追GPT-5.6
+- 美军2死1失踪 与伊连续8日对轰
 - 两“深水炸弹”引爆，中国太极反制AI铁幕
 - 指数环球商品外汇
 - 国金观点
@@ -102,9 +109,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数24562.24-446.36(-1.78%)
+- 恒生指数25143.05+580.81(+2.36%)
                     etnet.com.hk@copyright
-- 国企指数8136.73-181.41(-2.18%)
+- 国企指数8381.90+245.17(+3.01%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -117,33 +124,32 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 槓桿崩塌與泡沫擔憂引爆！全球AI硬科技「血雨腥風」，熊市來了嗎？
-- 不是AI泡沫要破，而是逃離擁擠! 華爾街策略風向從「AI算力貝塔」切換至「現金流阿爾法」
-- 中際旭創通過港交所上市聆訊，中金公司、廣發證券、高盛等爲聯席保薦人
-- 緊盯AI交易最重要的風向標—美光，機構：短期回調後估值偏低
-- 一圖前瞻 | 美股科技巨頭業績來襲！特斯拉、谷歌下週亮相，AI強勁盈利能否繼續支撐股價？
-- 面對崩潰論，Altman承認：過去12個月OpenAI表現不佳，「主要是我的錯」
-- 本週美股牛股 | PayPal周累漲超22%，被曝或被Stripe豪擲530億「收編」；信達思漲近15%，業績顯示利潤增長加速；湯森路透漲超10%，正積極推進人工智能全面部署
-- 北水減倉港股逾14億港元，阿里巴巴、美團、華虹宏力分別遭淨賣出逾24億、20億、19億港元
+- 伊朗方面稱調解方提議美伊停火10天
+- 花旗宣告「Mag 7」概念已死：AI投資邏輯從「科技巨頭」轉向「成長集群」
+- Hut 8宣佈簽署第二份爲期15年、總價值98億美元的算力租賃協議
+- 近期芯片股回調僅是暫時？摩通：Q2業績期將吹響下一輪上漲號角！
+- Anthropic被曝測試AMD GPU，AI巨頭正在系統性降低單一算力依賴
+- 本週最大懸念：Mag 7業績，能否給美股"續命"？
+- 韓國券商Meritz：中東主權AI資金入場採購韓國內存，Kimi K3是利好不是衝擊
+- 北水減倉港股逾59億港元，淨買入阿里巴巴逾18億港元，加倉網易超14億港元，淨賣出騰訊控股近6億港元
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 汽車交付是底座，物理AI才是牛市引擎！特斯拉業績來襲，大摩緊盯Robotaxi、擎天柱與儲能「三箭齊發」
-- 美股芯片股，距熊市僅一步之遙
-- SK海力士股價較高位跌去近四成，崔泰源喊話堅守持倉：AI現在就像個4歲的小孩，要長成大人，必然離不開內存
-- 收市速睇 | 三大指數走低，恒生科技指數跌4.37%；半導體股多股下行，華虹宏力、兆易創新跌超11%；生物技術股下挫，康方生物跌超13%，榮昌生物跌超10%
-- 大空頭Burry看多港股：AI熱潮退溫後的估值窪地，現在是抄底港股的絕佳時機，已增持京東
-- 機構低配、基本面企穩、估值探底，港股能否走出「三重底部」？
-- 從「瘋狂燒錢」到「計算回報」，全球科技股遭遇估值大考，蘋果逆襲成科技避風港
-- 韓股暴跌背後：高槓杆下，韓國每30名成年人就有1人被追加按金
-- 瑞銀：維持韓國KOSPI 9200點目標價，但去槓桿或使短期波動加劇
-- 當前韓股暴跌，是A股2015年的翻版嗎？
+- AMD AI大會本週來襲！瑞銀：CPU/GPU技術路線是重頭戲 客戶擴容預期不宜過高
+- 美加墨世界盃落下帷幕 FIFA預估狂攬90億美元收入
+- 中金：極致結構市的三種「結局」
+- 自研CXL會砸自己DRAM飯碗？三星、SK海力士、美光同時放棄CXL控制器自研
+- 外資最新怎麼看？認爲AI擁擠但非泡沫，不預期加息
+- 收市速睇 | 三大指數齊升，科指漲2.79%；煤炭股、石油股上行，兗礦能源漲超9%，中煤能源漲超8%，中海油漲超6%；中國軟件國際大漲22%，與月之暗面簽署合作協議
+- AI交易退潮疊加地緣風險升溫！華爾街押注美股夏季或迎「高波動風暴」
+- Alphabet業績前瞻：強勁增長光芒背後，市場五大疑問亟待解答
+- 價值投資者逐頁讀完英偉達10-Q：134億美元浮盈粉飾業績，真實PE或高達60倍
+- 彭博：香港交易所考慮延長股票交易時間，取消午休時段
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 美国关税: 富途资讯 (繁中)
 - 加密货币: Benzinga (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
