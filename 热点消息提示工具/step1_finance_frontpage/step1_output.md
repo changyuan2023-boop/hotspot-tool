@@ -3,34 +3,28 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 30m | US stocks edge up on glimmer of MidEast peace hope | US-Iran war pushes oil back above $90, gas above $4 again | Big Tech earnings to test Wall Street's big rotation this week | US-Iran war pushes oil back above $90, gas above $4 again | Big Tech earnings to test Wall Street's big rotation this week | It's getting harder to afford a starter home, even as shortage eases | US bombs Iran for ninth day as Hormuz standoff deepens
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Bezos backs AI startup to discover new materials for chipmaking | How AI is supercharging drug development
+  - 头版/首屏: U.S. markets closed | Trump announces 50% tariffs on Canadian autos, dairy, and alcohol | Trump vows Iran 'will pay' for US deaths as mediators push truce | Paramount–WBD merger paused as judge issues restraining order | Trump vows Iran 'will pay' for US deaths as mediators push truce | Paramount–WBD merger paused as judge issues restraining order | Why it's time to retire the 'Magnificent 7' name: Strategist | Goldman Sachs picks 36 market winners that aren't AI stocks
+  - 其他: Top Stories | Markets & Economy | Tech & AI | Google jumps on report company is developing new AI chip | AMD rallies on price target bumps, Microsoft deal
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: These Analysts Revise Their Forecasts On Truist Financial Following Q2 Results | Exclusive: Don’t Buy Crude ETFs for the Refining Crunch—Veteran Trader Warns of a ‘Temporary Crude Surplus’ | RTX's Pratt & Whitney Wins British Airways Engine Deal | Global Payments To Rally More Than 28%? Here Are 10 Top Analyst Forecasts For Monday | Nebius Stock in Focus After $775 Million Secured Debt Facility, New Partner Model
+  - 其他: Elon Musk Says AI and Robots Will Do ‘So Much Stuff’ We Run Out of Things for Humans to Do — But ‘We’ll Basically Just Issue Money to People’ | Trump Hits Canada with New Tariffs Up to 50% on Hockey Sticks, Other Goods | Jeff Bezos Backs UK startup Racing To Fix Chip Materials | 2.6 Million People Lost Their Medicare Advantage Plan This Year: Here's How To Avoid Being Caught Off Guard For 2027 | Merck Just Won The Race For The First Cholesterol Pill: What It Means For Your Heart And Your Portfolio
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 调解人提议伊朗和美国恢复到7月9日前的状态。（ISNA） | 美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货跌0.6%，道指期货跌0.4%。
-布伦特原油5分钟内下跌1.32美元/桶，报86.9美元/桶；WTI原油5分钟内下跌1.28美元/桶，报80.24美元/桶。
-现货黄金5分钟内 | GE Aerospace：已完成首次混合动力飞行，飞行高度超过30,000英尺。
-已与NASA（美国国家航空航天局）、飞机制造公司Beta Technologies及波音公司建立合作关系。 | 美股存储芯片股盘前走高，闪迪涨约4%，SK海力士涨约5%，美光科技涨约4%，西部数据、希捷科技涨约2%。 | 阿里云发布轻量应用服务器“智能体专用型实例” | 达美乐比萨第二季度营收11.9亿美元，同比增长4.3%，预估11.8亿美元。
-第二季度每股收益4.07美元，上年同期3.81美元，预估4.18美元。
-达美乐比萨美股盘前涨超2%。 | 美伊冲突升级 霍尔木兹海峡的交通周一近乎瘫痪 | 报道：腾讯正就收购SuperPlay进行洽谈 对后者估值最高15亿美元
-  - 其他: 美股期货走高，标普500指数期货上涨0.2%，纳斯达克100指数期货上涨0.6%。 | 伊朗多地传出爆炸声 | 英国首相伯纳姆：承诺彻底解决无家可归者露宿问题。
-将采取措施终结英国的无家可归者露宿街头现象。
-让我们把这一刻变为“我们重燃希望”的时刻。 | 上海：持续深化人工智能全栈布局，系统提升全链条自主创新能力 | 英国首相伯纳姆：已接受组建政府的邀请。
-英国需要证明，我们能够重获稳定。
-我们将把权力从威斯敏斯特转移到各地区。
-我今年将提出英国新的十年规划。
-将必需品重新置于更强的公共管控之下。
-我明天将公布有关降低生活成本的措施。
-我们将建造更多市政
+  - 头版/首屏: 台积电回应中央硝子被曝停产高纯度六氟化钨：目前预期不会对营运产生影响 | 加拿大总理就美国拟加征关税发表声明：我们准备好与美国就美墨加协定现代化进行对话。
+美国加征的关税违反了美墨加协定。
+加拿大准备进行密集沟通以解决与美国的问题。
+我们已提出解决与美国贸易争端的提议。
+加拿大有权对汽车征收与美国相同的关税。 | 华尔街见闻早餐 | 2026年7月21日 | 贝莱德正寻求出售超过120亿美元的债券，以协助为Meta Platforms Inc. 位于德克萨斯州埃尔帕索的数据中心提供融资。（彭博） | 伊朗军方发射多枚导弹，打击科威特境内目标Camp Arifjan（阿里夫坚军营）。（伊朗官方媒体IRIB） | 提醒：日内请重点关注（以下均为北京时间） | 美国总统特朗普声称：与英国首相伯纳姆关系非常不错。
+我们讨论了北海石油和贸易问题。
+将在不久的将来与伯纳姆会见。 | 西班牙队在马德里举行世界杯夺冠庆祝活动
+  - 其他: 特朗普暗示美军将对伊朗发动强硬报复 | WTI 8月原油期货收涨0.74美元，涨幅将近0.90%，报83.23美元/桶，亚太时段高位窄幅震荡，北京时间16:00以来持稳于82美元一线、在一波短线V形行情中于19:43刷新日低至80.27美元。
+布伦特9月原油期货收涨1.12美元， | 美国参议院Graham对参议院宣称：上周，伊朗导弹命中美国在约旦军事基地的兵营。（华尔街日报） | 现代汽车因无线充电技术遭专利侵权诉讼 | DoubleLine：美债收益率上升将有助于美联储维持利率不变
 
 - **SCMP (EN/中)** ✓
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 收锂电池消费税兼锂价创4个月低，赣锋天齐股价续寻底 | ​DeepSeek将推V4正式版 性能追GPT-5.6 | 美军2死1失踪 与伊连续8日对轰 | 两“深水炸弹”引爆，中国太极反制AI铁幕 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 新模型参数媲美Kimi兼月之暗面拟IPO，阿里曾飙逾半成 | ​DeepSeek将推V4正式版 性能追GPT-5.6 | 美军累计17人阵亡 加大反击 | 两“深水炸弹”引爆，中国太极反制AI铁幕 | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数25143.05+580.81(+2.36%)
                     etnet.com.hk@copyright | 国企指数8381.90+245.17(+3.01%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -39,28 +33,31 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 伊朗方面稱調解方提議美伊停火10天 | 花旗宣告「Mag 7」概念已死：AI投資邏輯從「科技巨頭」轉向「成長集群」 | Hut 8宣佈簽署第二份爲期15年、總價值98億美元的算力租賃協議 | 近期芯片股回調僅是暫時？摩通：Q2業績期將吹響下一輪上漲號角！ | Anthropic被曝測試AMD GPU，AI巨頭正在系統性降低單一算力依賴 | 本週最大懸念：Mag 7業績，能否給美股"續命"？ | 韓國券商Meritz：中東主權AI資金入場採購韓國內存，Kimi K3是利好不是衝擊 | 北水減倉港股逾59億港元，淨買入阿里巴巴逾18億港元，加倉網易超14億港元，淨賣出騰訊控股近6億港元
-  - 其他: AMD AI大會本週來襲！瑞銀：CPU/GPU技術路線是重頭戲 客戶擴容預期不宜過高 | 美加墨世界盃落下帷幕 FIFA預估狂攬90億美元收入 | 中金：極致結構市的三種「結局」 | 自研CXL會砸自己DRAM飯碗？三星、SK海力士、美光同時放棄CXL控制器自研 | 外資最新怎麼看？認爲AI擁擠但非泡沫，不預期加息
+  - 头版/首屏: 富途早報 | 美國宣佈對加拿大部分產品加徵50%關稅；美股空頭押注逼近歷史高位，科技巨頭業績定方向；港交所稱延長交易時間仍處早期探討 | 全球第九、開源第一即遭算力「熔斷」：Kimi K3的排名突破，反而坐實了硬件需求邏輯 | 每一次證監會穩市場座談會後，資本市場都發生了什麼？ | 雙線資本預計聯儲局今年或維持利率不變，沃什鷹派立場已在市場中建起較強公信力 | 314億配售後七天浮虧44%：智譜兩日再蒸發3000億，萬億敘事退潮拷問AI估值邏輯 | 三步部署、30分鐘跑通Agent：英偉達將AI智能體裝進了桌面工作站 | 成交額TOP20 | 美光、閃迪漲約2%，SK海力士跌近2%；AMD Helios拿下微軟全棧訂單；谷歌開發Gemini專屬芯片；甲骨文跌4%，數據中心成本暴增 | 美股收盤 | 三大指數高開低走齊收跌；雲服務商迎訂單潮，IREN飆升20%，Hut 8漲超10%；中概走強，阿里巴巴漲近5%；加密反彈，Circle漲8%
+  - 其他: 特朗普宣佈對部分加拿大商品加徵50%關稅，指責其存在貿易歧視 | 貝萊德擬發逾120億美元債券，爲Meta得州數據中心提供融資 | 比Rubin貴四成卻拿下微軟全棧訂單？AMD產品周前用「定價權」重新定義AI芯片競爭 | AI動量交易面臨挑戰，高盛：對沖基金過去兩個月創紀錄拋售美國科技股 | 空中出租車公司變身軍工玩家，美eVTOL企業開闢防務市場股價暴漲
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中) (5 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
 - **加密货币** — 出现于: Benzinga (EN) (1 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
+- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 伊朗/中东局势（4 站）
-- 油价/能源（4 站）
-- 中国/欧盟（3 站）
-- 黄金/大宗商品（2 站）
+- 关税/贸易政策（3 站）
+- 油价/能源（3 站）
+- 黄金/大宗商品（3 站）
+- 伊朗/中东局势（2 站）
+- 中国/欧盟（2 站）
 - 加密货币（1 站）
+- 就业/经济数据（1 站）
+- 美联储/利率（1 站）
 - 中国政策（1 站）
-- 关税/贸易政策（0 站）
-- 就业/经济数据（0 站）
-- 美联储/利率（0 站）
