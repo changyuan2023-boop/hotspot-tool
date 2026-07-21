@@ -3,61 +3,59 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | Trump announces 50% tariffs on Canadian autos, dairy, and alcohol | Trump vows Iran 'will pay' for US deaths as mediators push truce | Paramount–WBD merger paused as judge issues restraining order | Trump vows Iran 'will pay' for US deaths as mediators push truce | Paramount–WBD merger paused as judge issues restraining order | Why it's time to retire the 'Magnificent 7' name: Strategist | Goldman Sachs picks 36 market winners that aren't AI stocks
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Google jumps on report company is developing new AI chip | AMD rallies on price target bumps, Microsoft deal
+  - 头版/首屏: U.S. markets open in 1h 30m | GM lifts guidance after Q2 earnings beat | Nasdaq leads US stocks higher as chip names revive | Alibaba's Apple tie-up adds fuel to China's hottest ETF | Nasdaq leads US stocks higher as chip names revive | Alibaba's Apple tie-up adds fuel to China's hottest ETF | Trump prepares fresh tariffs on dozens of countries | Boeing asks US to intervene over record EU loan to Airbus
+  - 其他: Top Stories | Markets & Economy | Tech & AI | Google parent Alphabet to report Q2 earnings in latest test of AI trade | Ben Affleck's AI company is sold for more than $500 million
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Elon Musk Says AI and Robots Will Do ‘So Much Stuff’ We Run Out of Things for Humans to Do — But ‘We’ll Basically Just Issue Money to People’ | Trump Hits Canada with New Tariffs Up to 50% on Hockey Sticks, Other Goods | Jeff Bezos Backs UK startup Racing To Fix Chip Materials | 2.6 Million People Lost Their Medicare Advantage Plan This Year: Here's How To Avoid Being Caught Off Guard For 2027 | Merck Just Won The Race For The First Cholesterol Pill: What It Means For Your Heart And Your Portfolio
+  - 其他: This Insmed Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Tuesday | Goldman Sachs, Morgan Stanley, Valero Energy And More On CNBC’s ‘Final Trades’ | Robinhood To Rally Around 24%? Here Are 10 Top Analyst Forecasts For Tuesday | Why Is Archer Aviation Stock Gaining Tuesday? | United States Antimony Trending: A Month of AI Ambitions, Defense Contract Milestones
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 台积电回应中央硝子被曝停产高纯度六氟化钨：目前预期不会对营运产生影响 | 加拿大总理就美国拟加征关税发表声明：我们准备好与美国就美墨加协定现代化进行对话。
-美国加征的关税违反了美墨加协定。
-加拿大准备进行密集沟通以解决与美国的问题。
-我们已提出解决与美国贸易争端的提议。
-加拿大有权对汽车征收与美国相同的关税。 | 华尔街见闻早餐 | 2026年7月21日 | 贝莱德正寻求出售超过120亿美元的债券，以协助为Meta Platforms Inc. 位于德克萨斯州埃尔帕索的数据中心提供融资。（彭博） | 伊朗军方发射多枚导弹，打击科威特境内目标Camp Arifjan（阿里夫坚军营）。（伊朗官方媒体IRIB） | 提醒：日内请重点关注（以下均为北京时间） | 美国总统特朗普声称：与英国首相伯纳姆关系非常不错。
-我们讨论了北海石油和贸易问题。
-将在不久的将来与伯纳姆会见。 | 西班牙队在马德里举行世界杯夺冠庆祝活动
-  - 其他: 特朗普暗示美军将对伊朗发动强硬报复 | WTI 8月原油期货收涨0.74美元，涨幅将近0.90%，报83.23美元/桶，亚太时段高位窄幅震荡，北京时间16:00以来持稳于82美元一线、在一波短线V形行情中于19:43刷新日低至80.27美元。
-布伦特9月原油期货收涨1.12美元， | 美国参议院Graham对参议院宣称：上周，伊朗导弹命中美国在约旦军事基地的兵营。（华尔街日报） | 现代汽车因无线充电技术遭专利侵权诉讼 | DoubleLine：美债收益率上升将有助于美联储维持利率不变
+  - 头版/首屏: 巴基斯坦总理谢里夫在伊斯兰堡会见伊朗内政部长 | 诺和诺德就减肥药广告起诉礼来。（彭博） | 嘉信理财第二季度净新增资产1187亿美元，预期1111.3亿美元。
+第二季度调整后每股收益为1.62美元，预期1.55美元。
+第二季度净营收为70.7亿美元，预期69.2亿美元。
+嘉信理财美股盘前跌1.5%。 | 总部位于美国的生物技术公司Axiom寻求在香港上市。（彭博） | 通用汽车美股盘前走低，现跌超4%，此前一度涨超4%。 | 伊朗总统称与最高领袖的沟通有所增加 且能更方便地与其接触 | 通用汽车第二季度净销售额和营收480.3亿美元，预估466.1亿美元。
+第二季度调整后每股收益3.57美元，预估3.19美元。
+第二季度调整后息税前利润39.4亿美元，预估37亿美。
+通用汽车预计全年调整后每股收益12美元至14美元，此前预 | 科威特北部传出爆炸声
+  - 其他: 质量督察工作首次启动实施 4个督察组陆续进驻有关省份 | 科威特称伊朗周一袭击其发电和海水淡化厂 | 兴业银行：坚定看好中国资本市场发展前景 | 胡塞武装发出警告 所有船只勿停靠沙特港口 | 联合石油数据库JODI：沙特阿拉伯石油产品出口量在5月增加7.4万桶/日，达到108.3万桶/日。
+沙特阿拉伯5月原油库存增加282.7万桶，达到1.42794亿桶。
 
 - **SCMP (EN/中)** ✓
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 新模型参数媲美Kimi兼月之暗面拟IPO，阿里曾飙逾半成 | ​DeepSeek将推V4正式版 性能追GPT-5.6 | 美军累计17人阵亡 加大反击 | 两“深水炸弹”引爆，中国太极反制AI铁幕 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25143.05+580.81(+2.36%)
-                    etnet.com.hk@copyright | 国企指数8381.90+245.17(+3.01%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 哈电料中期多赚逾六成，股价飙逾两成 | 贷款报价利率14个月不变 分析：有机会减息 | 美军累计17人阵亡 加大反击 | 两“深水炸弹”引爆，中国太极反制AI铁幕 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25132.29-10.76(-0.04%)
+                    etnet.com.hk@copyright | 国企指数8360.68-21.22(-0.25%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 美國宣佈對加拿大部分產品加徵50%關稅；美股空頭押注逼近歷史高位，科技巨頭業績定方向；港交所稱延長交易時間仍處早期探討 | 全球第九、開源第一即遭算力「熔斷」：Kimi K3的排名突破，反而坐實了硬件需求邏輯 | 每一次證監會穩市場座談會後，資本市場都發生了什麼？ | 雙線資本預計聯儲局今年或維持利率不變，沃什鷹派立場已在市場中建起較強公信力 | 314億配售後七天浮虧44%：智譜兩日再蒸發3000億，萬億敘事退潮拷問AI估值邏輯 | 三步部署、30分鐘跑通Agent：英偉達將AI智能體裝進了桌面工作站 | 成交額TOP20 | 美光、閃迪漲約2%，SK海力士跌近2%；AMD Helios拿下微軟全棧訂單；谷歌開發Gemini專屬芯片；甲骨文跌4%，數據中心成本暴增 | 美股收盤 | 三大指數高開低走齊收跌；雲服務商迎訂單潮，IREN飆升20%，Hut 8漲超10%；中概走強，阿里巴巴漲近5%；加密反彈，Circle漲8%
-  - 其他: 特朗普宣佈對部分加拿大商品加徵50%關稅，指責其存在貿易歧視 | 貝萊德擬發逾120億美元債券，爲Meta得州數據中心提供融資 | 比Rubin貴四成卻拿下微軟全棧訂單？AMD產品周前用「定價權」重新定義AI芯片競爭 | AI動量交易面臨挑戰，高盛：對沖基金過去兩個月創紀錄拋售美國科技股 | 空中出租車公司變身軍工玩家，美eVTOL企業開闢防務市場股價暴漲
+  - 头版/首屏: 谷歌業績前夜，德銀力挺：別光盯着Capex，真正的驚喜可能來自谷歌雲 | AI存儲需求再加碼：英偉達CMX明年或消耗超1億TB NAND，三星已開始供貨 | 金價大跌20%後迎佈局機會？華爾街：逢低買入邏輯仍在 | 智譜1GW數據中心落地！國產AI芯片+中科院Infra+自研模型，構建自主技術閉環？ | 摩根大通：韓股去槓桿過程已過半，KOSPI仍看到12500點 | 中場休息：融資熱vs資金緊 | 北水加倉港股近72億港元，華虹宏力、中芯國際、智譜分別淨買入超22億、19億、11億港元，騰訊控股遭淨賣出逾10億港元 | 美財長貝森特宣稱：美國很快將控制全球80%的算力
+  - 其他: 高盛：霍爾木茲若長期受阻，油價年底或升破120美元/桶 | 台積電計劃在2027年將先進和成熟芯片代工服務的價格提高最多10% | 收市速睇 | 三大指數漲跌不一，科指漲1.32%；AI應用股、半導體股大漲，智譜狂飆36%，華虹宏力、瀾起科技漲超17%；黃金股普漲，紫金黃金國際漲超10% | 以媒：10天停火提議系由伊方提出 | AI「斯普特尼克時刻」！Kimi K3震動硅谷，Stability AI聯合創始人：推理成本還有10至50倍下降空間
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中) (5 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **油价/能源/霍尔木兹** — 出现于: Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
 - **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中) (1 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN) (1 站)
 - **加密货币** — 出现于: Benzinga (EN) (1 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
-- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 关税/贸易政策（3 站）
-- 油价/能源（3 站）
 - 黄金/大宗商品（3 站）
-- 伊朗/中东局势（2 站）
-- 中国/欧盟（2 站）
+- 中国/欧盟（3 站）
+- 油价/能源（2 站）
+- 伊朗/中东局势（1 站）
+- 关税/贸易政策（1 站）
 - 加密货币（1 站）
-- 就业/经济数据（1 站）
-- 美联储/利率（1 站）
 - 中国政策（1 站）
+- 就业/经济数据（0 站）
+- 美联储/利率（0 站）
