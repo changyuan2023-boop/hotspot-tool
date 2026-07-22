@@ -3,23 +3,17 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 30m | GM lifts guidance after Q2 earnings beat | Nasdaq leads US stocks higher as chip names revive | Alibaba's Apple tie-up adds fuel to China's hottest ETF | Nasdaq leads US stocks higher as chip names revive | Alibaba's Apple tie-up adds fuel to China's hottest ETF | Trump prepares fresh tariffs on dozens of countries | Boeing asks US to intervene over record EU loan to Airbus
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Google parent Alphabet to report Q2 earnings in latest test of AI trade | Ben Affleck's AI company is sold for more than $500 million
+  - 头版/首屏: U.S. markets closed | Supermicro stock jumps amid record $60 billion backlog | Bloomberg warns Trump's AI ownership plan would make 'George Orwell blush' | Trump plans 100% tariff on generic drugs from August 2028 | Bloomberg warns Trump's AI ownership plan would make 'George Orwell blush' | Trump plans 100% tariff on generic drugs from August 2028 | Senators question 'Insider' access to Trump Truth Social posts | Trump plays down prospects for Iran talks amid Red Sea threat
+  - 其他: Top Stories | Markets & Economy | Tech & AI | Google parent Alphabet to report Q2 earnings in latest test of AI trade | OpenAI names BNY, Nubank CEOs to board ahead of IPO
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: This Insmed Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Tuesday | Goldman Sachs, Morgan Stanley, Valero Energy And More On CNBC’s ‘Final Trades’ | Robinhood To Rally Around 24%? Here Are 10 Top Analyst Forecasts For Tuesday | Why Is Archer Aviation Stock Gaining Tuesday? | United States Antimony Trending: A Month of AI Ambitions, Defense Contract Milestones
+  - 其他: Man, 60, Sold His Business For $2 Million — His Brother Keeps Pushing Him To Put It Into His Startup Instead Of Retirement | Mechanic Refuses to Give Cheating Ex-Wife's Family Back Car Shop He Inherited — Says It's ‘My Legacy’ After Putting ‘Blood and Tears Into It' Since 15 | Stock Of The Day: Where Is The Top For Archer Aviation? | QUICK SPARK: Jim Cramer Flags Dell as the Next Winner After SMCI Preliminary Results | Rocket Lab Stock Rises After the Bell: Here's Why
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 巴基斯坦总理谢里夫在伊斯兰堡会见伊朗内政部长 | 诺和诺德就减肥药广告起诉礼来。（彭博） | 嘉信理财第二季度净新增资产1187亿美元，预期1111.3亿美元。
-第二季度调整后每股收益为1.62美元，预期1.55美元。
-第二季度净营收为70.7亿美元，预期69.2亿美元。
-嘉信理财美股盘前跌1.5%。 | 总部位于美国的生物技术公司Axiom寻求在香港上市。（彭博） | 通用汽车美股盘前走低，现跌超4%，此前一度涨超4%。 | 伊朗总统称与最高领袖的沟通有所增加 且能更方便地与其接触 | 通用汽车第二季度净销售额和营收480.3亿美元，预估466.1亿美元。
-第二季度调整后每股收益3.57美元，预估3.19美元。
-第二季度调整后息税前利润39.4亿美元，预估37亿美。
-通用汽车预计全年调整后每股收益12美元至14美元，此前预 | 科威特北部传出爆炸声
-  - 其他: 质量督察工作首次启动实施 4个督察组陆续进驻有关省份 | 科威特称伊朗周一袭击其发电和海水淡化厂 | 兴业银行：坚定看好中国资本市场发展前景 | 胡塞武装发出警告 所有船只勿停靠沙特港口 | 联合石油数据库JODI：沙特阿拉伯石油产品出口量在5月增加7.4万桶/日，达到108.3万桶/日。
-沙特阿拉伯5月原油库存增加282.7万桶，达到1.42794亿桶。
+  - 头版/首屏: 伊朗武装部队回应特朗普袭击核设施言论 | 特朗普批准与沙特达成的具有里程碑意义的核协议。（华尔街日报） | 美国：完成对伊朗的第11晚打击。
+霍尔木兹海峡仍对商船开放通行。 | 滔搏：收到耐克通知，本集团目前的耐克产品在线平台销售将全面终止，该终止将在短期内对本集团的业务造成重大负面影响。 | SK海力士：没有收购英特尔俄亥俄州芯片园区的计划 | 特朗普试图阻止BBC在百亿美元诉讼中发出的传票被驳回 | 据伊朗媒体报道，伊朗南部锡里克和贝赫巴汉遭到空袭。 | 德黑兰防空系统启动。
+  - 其他: 周二（7月21日），彭博电动汽车价格回报指数涨1.68%，报3344.29点，亚太早盘持续上涨。 | 马斯克旗下太空探索公司SpaceX收涨3.1%，结束此前连续七个交易日下跌的趋势。 | 中概指数收跌约0.7%，KWEB跌超1.5%，腾讯、网易跌超3%，阿里跌约2%，CQQQ涨3.8%，日月光半导体涨超8.4% | 纳斯达克100指数收涨超1.9%，半导体指数涨超5.2% | OpenAI表示，Hugging Face遭遇的安全漏洞事件是由其旗下一个模型导致的。（Axios）
 
 - **SCMP (EN/中)** ✓
 
@@ -33,29 +27,30 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 谷歌業績前夜，德銀力挺：別光盯着Capex，真正的驚喜可能來自谷歌雲 | AI存儲需求再加碼：英偉達CMX明年或消耗超1億TB NAND，三星已開始供貨 | 金價大跌20%後迎佈局機會？華爾街：逢低買入邏輯仍在 | 智譜1GW數據中心落地！國產AI芯片+中科院Infra+自研模型，構建自主技術閉環？ | 摩根大通：韓股去槓桿過程已過半，KOSPI仍看到12500點 | 中場休息：融資熱vs資金緊 | 北水加倉港股近72億港元，華虹宏力、中芯國際、智譜分別淨買入超22億、19億、11億港元，騰訊控股遭淨賣出逾10億港元 | 美財長貝森特宣稱：美國很快將控制全球80%的算力
-  - 其他: 高盛：霍爾木茲若長期受阻，油價年底或升破120美元/桶 | 台積電計劃在2027年將先進和成熟芯片代工服務的價格提高最多10% | 收市速睇 | 三大指數漲跌不一，科指漲1.32%；AI應用股、半導體股大漲，智譜狂飆36%，華虹宏力、瀾起科技漲超17%；黃金股普漲，紫金黃金國際漲超10% | 以媒：10天停火提議系由伊方提出 | AI「斯普特尼克時刻」！Kimi K3震動硅谷，Stability AI聯合創始人：推理成本還有10至50倍下降空間
+  - 头版/首屏: 富途早報 | 市場暴力反彈！存儲領頭半導體飆升；美國將出臺新關稅政策，替代年初10%全球進口關稅；中際旭創港股定價不超1010港元，料成年內最大IPO | AMD AI大會前英偉達秀亮CPU「戰果」，Vera Rubin全面量產，超300合作伙伴部署 | 降低「AI成本」大勢所趨！Meta要做「模型路由」，復刻OpenRouter | Vera Rubin實測性能首度披露，性能大幅提升！英偉達在AMD大會之前「砸場子」 | 韓國綜合指數盤初漲超5%，SK海力士漲超8%；美股存儲概念股夜盤續漲 | 新訂單突破600億美元、積壓訂單創新高，超微電腦股價應聲大漲 | Oklo、X-Energy股價大漲，據稱入選白宮AI核電建設加速計劃 | 蘋果銷售模式大變革：聯手Klarna推出設備租賃計劃，降低購機門檻刺激銷售
+  - 其他: 特朗普：仿製藥0關稅政策將實行兩年，隨後收100%、200% | 成交額TOP20 | 美光大漲12%重返萬億；SpaceX收漲3%終結7連跌；英偉達Vera Rubin全面量產；谷歌Gemini模型三連發；蘋果將推Apple Upgrade | 美股收盤 | 存儲暴力反彈力撐股指走高，費半指數大漲5%；雲服務商續漲，NEBIUS暴漲19%；Coinbase漲10%，CLARITY法案臨近落定 | 傳SK海力士正洽購英特爾俄亥俄州園區，擬在美生產存儲芯片 | OpenAI奧特曼將向美國官員介紹下一代AI模型，美國AI審查框架預計幾周內完成
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中) (5 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
+- **加密货币** — 出现于: Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
 - **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中) (1 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN) (1 站)
-- **加密货币** — 出现于: Benzinga (EN) (1 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **美联储/利率** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
+- 伊朗/中东局势（4 站）
+- 加密货币（3 站）
 - 黄金/大宗商品（3 站）
-- 中国/欧盟（3 站）
-- 油价/能源（2 站）
-- 伊朗/中东局势（1 站）
-- 关税/贸易政策（1 站）
-- 加密货币（1 站）
+- 关税/贸易政策（2 站）
+- 美联储/利率（2 站）
+- 中国/欧盟（2 站）
+- 油价/能源（1 站）
 - 中国政策（1 站）
 - 就业/经济数据（0 站）
-- 美联储/利率（0 站）
