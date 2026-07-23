@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026072309
+抓取时间: 2026072320
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- Google falls as capex growth spooks investors
-- Tesla falls on profit miss, but cash burn comes in below expectations
-- Capital One $425 million settlement payouts to customers ‘substantially delayed’ after appeal
-- Tesla falls on profit miss, but cash burn comes in below expectations
-- House backs Trump Iran war budget despite midterm election fears
-- Capital One $425 million settlement payouts to customers ‘substantially delayed’ after appeal
-- US, Iran suggest peace talks aren't imminent as attacks widen
-- Stocks close lower after Google, Tesla earnings took focus
-- Nearly 1 in 4 Americans are stuck in jobs for insurance reasons
-- 30-year Treasury yield flashes a warning not seen since 2007
-- The US has collected $13B of Venezuela's oil money. Where is it?
+- U.S. markets open in 1h 31m
+- Tesla stock slides on profit miss with cash burn in focus
+- Google Cloud is becoming Alphabet's new profit engine: Chart of the Day
+- Google falls as $205B spending spree spooks investors
+- Google Cloud is becoming Alphabet's new profit engine: Chart of the Day
+- Google falls as $205B spending spree spooks investors
+- German Bond Yields Hit 15-Year High as Oil Spikes Before ECB
+- Why midterms could be a buying opportunity for S&P 500
+- US stocks slide amid AI cost fears, oil pressures
+- Hedge funds' favorite US bond trade is sputtering
+- US investors rethink bonds' role as inflation reshapes portfolios
+- Why Intel needs more than blowout earnings
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- IBM CEO addresses earnings shortfall and historic stock plunge
-- ServiceNow stock pops on AI-driven subscription outlook
-- OpenAI models breach Hugging Face, sparking cyber alarms
-- Samsung debuts 3 new foldable phones as Apple readies its own
+- AMD expected to launch next generation of AI infrastructure to challenge Nvidia
+- EU fines Google 890 mn euros, risking US fury
+- IBM CEO defends AI strategy after earnings miss, historic rout
+- SpaceX attempts major Starship flight test again
 - Popular
-- Will SpaceX buy Tesla? Musk is not revealing his plans
-- Oracle cuts 21,000 employees during AI spending spree
+- Get ready for Trump’s tariff Plan C
+- NJ transit avoids World Cup meltdown after pouring in millions
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,56 +42,66 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Wife, 38, Discovered Her Husband Racked Up $72,000 In Gambling Debt Across Six Credit Cards — She Found Out When A Collector Called Her Directly
-- Elon Musk vs. Comcast: ‘The Odyssey’ Scores at Box Office, but Billionaire Thinks He Can Make Movie Better
-- Elon Musk Says ‘If You Value Tesla as Just an Auto Company, Fundamentally, It’s Just the Wrong Framework’ — More Like ‘A Dozen Technology Startups’
-- Quick Spark: Trump Signs Landmark US-Saudi Nuclear Deal, Expanding Civilian Energy Partnership
-- Alphabet Q2 2026 Earnings Call Transcript (CORRECTED)
-- Is SpaceX Stock's 45% Drop a Buying Opportunity? Cathie Wood Thinks So — These ETFs Are Making the Biggest Bet
+- America Has a 4.7 Million Home Shortage, but Zillow Says 300,000 Vacant Lots Sitting for Sale in These States Could Ease the Pain Fast
+- Jim Cramer: ‘Regional Banks Have Been A Fantastic Place To Be’
+- Aerospace and Defense Giant RTX Raises Outlook, Citing Strong Demand and $289 Billion Backlog
+- Paramount Skydance Wins EU Approval for Warner Bros. Discovery Deal After Offering This Key Concession— but US Hurdles Loom
+- This Rollins Analyst Turns Bearish; Here Are Top 5 Downgrades For Thursday
+- Stock Market Today: Dow Jones, S&P 500 Futures Slip As GOOGL, Elon Musk's TSLA Drag After Q2 Earnings—Intel, ServiceNow, Quantumscape in Focus
 - Marco Rubio
 - Michael Burry
-- Alphabet CFO Says Demand Still Outpaces Capacity: AI Infrastructure Stocks Rise
-- Twitter Founder Jack Dorsey is Making a New Slack — Should Salesforce Investors Be Worried?
+- IBM's Q2 Deal Slippage Is a 'Temporary Speed Bump,' Says Michael Lee as CEO Arvind Krishna Says Delayed Deals Are Closing
+- Intel Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 伊朗南部和西南部多地遭袭
-- 韩美首个投资项目或于8月公布 或聚焦能源领域
-- 华尔街见闻早餐 | 2026年7月23日
-- 美国能源部长赖特表示，能源部幕僚长卡尔·科将辞职，Charlie Dankert将接替科担任能源部幕僚长。
-- 谷歌A二季度分析师电话会要点总结
-- 特斯拉第二季度业绩电话会议要点总结
-- 韩国最快可能会在8月份宣布双边贸易协议中第一个对美国投资项目。（韩联社）
-- 提醒：特斯拉分析师电话会议结束。
-- 马斯克：特斯拉正在进行二战以来美国最快的工业规模扩张。
-我们试图在美国生产大量光伏产品。
-- 分析师：电话会进一步证实，特斯拉仍处于“建设模式”，可能会继续如此
-- Evercore ISI分析师Amit Daryanani在IBM财报发布后表示，（针对全年营收指引的）这一降幅“好于市场担忧”。
-在IBM上周发布初步业绩（显示基础设施及相关软件销售疲软）后，华尔街许多人士已预期该公司会下调指引。
-- 美军称对伊朗发动新一轮军事打击
+- 纳斯达克100指数期货跌幅扩大至0.9%。
+- 谷歌：在SpaceX首次公开募股后持有其940亿美元股份
+- IMAX第二季度营收1.028亿美元，预估9,390万美元。
+第二季度调整后EBITDA 4,800万美元，预估3,930万美元。
+第二季度调整后每股收益0.43美元，预估0.28美元。
+IMAX美股盘前涨近4%。
+- 黑石集团第二季度总收入38.0亿美元，预期33.9亿美元。
+第二季度可分配每股收益1.52美元，预期1.33美元。
+黑石集团二季度管理资产1.35万亿美元，预期1.33万亿美元。
+黑石集团美股盘前跌近3%。
+- 美国航空第二季度调整后每股收益15美分，预期2.7美分。
+美国航空预计第三季度营收增长16%至19%。
+美国航空预计第三季度调整后每股亏损10美分至70美分，市场预期每股收益31美分。
+美国航空预计全年调整后每股亏损65美分至每股收益65美
+- IBM将收购HRL实验室以赋能量子计算的未来。（彭博）
+- 礼来计划于2027年第一季度向美国食品药品监督管理局（FDA）提交瑞他鲁肽（Retatrutide）的生物制品许可申请（BLA）。礼来称，瑞他鲁肽实现了显著减重效果，瑞他鲁肽在III期试验中达到主要终点。（彭博）
+- 百济神州追加3亿美元投资扩大美国生产布局
+- 伊朗军方：将继续打击美军目标直至美方罢手
+- 伊通社：伊朗总统与伊拉克总理举行双边会晤。
+伊朗和伊拉克承诺深化战略关系。
+伊朗和伊拉克讨论新的合作领域。
+- 阿曼称正与沙特和也门等方面协调 以重启外交进程、恢复地区安全
+- 洛克希德马丁第二季度净销售额200.6亿美元，预期193.3亿美元
+第二季度每股收益7.94美元，去年同期1.46美元。
+洛克希德马丁预计全年净销售额797.5亿至817.5亿美元，市场预期791.3亿美元。
+洛克希德马丁预计全年营业利润8
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 谷歌CFO：季度资本开支主要用于AI基础设施。
-- 特斯拉二季度利润远逊预期，成本攀升拖累业绩
-- 伊朗南部Sirik传出爆炸声。（IRIB）
-- Alphabet二季度录得980亿美元投资收益，推动单季利润大超预期
-- 特朗普：预计美联邦政府在9月将出现“停摆”
-- 美股大类资产类ETF多数收跌，小盘股指ETF跌超0.9%，大豆、黄金、布油基金涨超1%
-- 谷歌Pichai：2026年世界杯期间，搜索创历史新高。
-Gemini驱动谷歌云增长。
-公司看到人工智能（AI）基础设施带来强劲需求。
-- 美国众议院以216票赞成、212票反对的微弱优势通过规模达1.15万亿美元的《国防授权法案》。
-7名共和党议员投票反对，6名民主党议员投票支持。
-- 德州仪器：汽车业务在二季度加速。
-- 美国与沙特阿拉伯签署核合作协议
+- 韩美首个投资项目或于8月公布 或聚焦能源领域
+- 特朗普：美沙协议以沙特加入《亚伯拉罕协议》为条件。
+美国与沙特的协议不包含材料浓缩。
+- 【普冉股份：预计2026年上半年净利润同比增长1925.36%】普冉股份公告，预计2026年半年度实现归属于母公司所有者的净利润约为8.25亿元，与上年同期（法定披露数据）相比，将增加7.84亿元左右，同比增加1925.36%左右。2026
+- 美国10年期国债收益率触及年内新高，报4.69%。
+- 伊拉克与科威特边境口岸遭伊朗打击
+- 英镑兑美元下跌0.3%至1.3340，创7月8日以来新低。
+- 美国2年期国债收益率攀升至4.32%，创下年内新高。
+- 吴伟任中国投资有限责任公司党委副书记
+- 红板科技：全资子公司赣州红板拟在现有厂区内实施高阶mSAP高端精密电路板产业化项目，预计总投资不超过人民币50亿元。
+- 红果短剧将启动专项治理，整治“高频AI脸”
 
 ## SCMP (EN/中)
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- Nike明年起终止中国线上销售，滔搏急泻逾两成
-- A股半导体芯片板块反弹 创指涨逾7%
-- 新英相伯纳姆组阁 希利爆冷任财相
+- 金沙季绩显著倒退逊预期，获大行力撑股价先跌后急升
+- 深圳地铁3措施 提速优化安检排队
+- 美威胁轰镐山核设施 恐扩中东战争
 - 两“深水炸弹”引爆，中国太极反制AI铁幕
 - 指数环球商品外汇
 - 国金观点
@@ -101,9 +111,9 @@ Gemini驱动谷歌云增长。
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数24892.66-239.63(-0.95%)
+- 恒生指数25210.81+318.15(+1.28%)
                     etnet.com.hk@copyright
-- 国企指数8251.07-109.61(-1.31%)
+- 国企指数8352.67+101.60(+1.23%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -116,35 +126,34 @@ Gemini驱动谷歌云增长。
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 巨頭業績亮眼！惟「加速燒錢」令市場分歧；美伊互放狠話，升息預期重燃；百度已就主要轉換向港交所提出申請
-- 谷歌Q2雲業務超預期飆升82%，雲積壓訂單達5140億美元，自由現金流轉負，上調全年資本開支
-- 特斯拉電話會：馬斯克稱正進行「二戰以來美國最快的工業規模擴張」，獲美光存儲芯片「超級配額」
-- 特斯拉Q2營收大增26%但盈利降18%遠遜預期，現金流轉負，強調處最大投資階段
-- 美股夜盤：谷歌績後跌近3%，AI基礎設施公司受提振，美光科技漲超2%
-- 沃什執掌聯儲局後政策不確定性上升，市場對7月是否加息存在較大分歧
-- WTI衝上六週高位！特朗普稱"德黑蘭市內"納入打擊座標，庫欣庫存觸底與產量回落共振
-- 成交額TOP20 | AMD聯手Anthropic佈局算力；SpaceX收跌7%，即將再度試射星艦；英特爾、亞馬遜開啓新一輪裁員；蘋果全面改版Mac產品線
+- 業績後股價或波動12%，英特爾需要回答市場最關心的三個問題
+- OpenAI官宣Presence，大模型廠要搶軟件商的飯碗了？
+- 段永平：十年內大概率不會賣泡泡瑪特，計劃賣出SpaceX、特斯拉和PLTR的Put
+- 星艦第13次試飛倒計時！關鍵一飛牽動SpaceX太空雄心及萬億估值
+- 7月議息會議臨近市場預期分歧加大，高油價推升聯儲局加息不確定性
+- 布油逼近100美元大關，全球債市先「跌」爲敬，押注「利率更高更久」
+- SEC批准納斯達克微盤股退市新規，市場大型IPO募資規模大幅提升
+- 意法半導體Q3營收指引未達市場預期，股價下跌
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- "債券義警"陰影重現，30年期美債收益率高於5%的天數創近二十年最多
-- AI狂熱與巨頭「吸血」：美股年內股權融資破3000億美元，超級週期還是流動性大考？
-- 特朗普：預計美聯邦政府在9月將出現「停擺」
-- 美股收盤 | 加息預期重燃，三大股指承壓收跌；英偉達強勢收漲2%領跑Mag7；超微電腦飆升20%；軟件股疲軟，Palantir跌超6%；油價飆至六週高位
-- 也門胡塞武裝稱襲擊兩艘沙特油輪，警告或對沙特境內發動更大規模打擊
-- 特斯拉盤後跌幅擴大至5%，馬斯克在分析師電話會上表示：Optimus將是特斯拉最難實現規模化量產的產品。
-- 谷歌上調2026全年資本開支指引
-- ServiceNow 2026年Q2營收39.87億美元，同比增長24%；調整後EPS0.9美元
-- 德州儀器2026年Q2營收54.63億美元，同比增加23%；稀釋後EPS2.14美元，同比增長52%
-- IBM 2026年Q2營收172億美元，同比增長1%；調整後EPS2.93美元，同比增長5%
+- 北水減倉港股逾42億港元，美團獲淨買入超6億港元，騰訊控股、阿里巴巴分別遭淨賣出15億、11億港元
+- 低價AI崛起≠投資崩潰！全球最大資管研判：芯片股拋過頭了
+- SpaceX大幅跌破IPO價？木頭姐力挺：或成爲「全球歷史上最重要的公司」！
+- 谷歌、特斯拉雙雙現金流轉負，對於AI交易意味着什麼？
+- 收市速睇 | 三大指數齊漲，恒指漲1.28%；鋰電池股上揚，贛鋒鋰業漲近10%，天齊鋰業漲近7%；半導體股多數走低，華虹宏力、天數智芯跌超7%
+- 套利者夢碎！SK海力士美股溢價居高不下，2.5%轉換紅線成「攔路虎」
+- 「油金蹺蹺板」不靈了？黃金收復4100美元大關，ETF資金流出速放緩
+- 商務部：中美正就降稅安排徵求意見並將儘快推動實施
+- 段永平：泡泡瑪特才剛開始買，10年內大概率是不會賣的；已經賣了一些MU的put，這幾天會賣space X、特斯拉、pltr的put
+- AI數據中心業務成新增長引擎 諾基亞Q2利潤大超預期
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 伊朗/中东: 华尔街见闻 (简中), 经济通 (繁中)
 - 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美国关税: Yahoo Finance (EN)
 - 就业数据: Yahoo Finance (EN)
 - 黄金/大宗: 华尔街见闻 (简中)
-- 美联储: 华尔街见闻 (简中)
-- 中国/欧盟: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
