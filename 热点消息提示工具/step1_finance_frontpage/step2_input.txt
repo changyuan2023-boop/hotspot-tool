@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026072220
+抓取时间: 2026072309
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- A violent AI unwind is hiding beneath a resilient stock market
-- Nasdaq leads stocks' slide with Google, Tesla earnings on deck
-- Google parent Alphabet to report Q2 earnings in latest test of AI trade
-- Nasdaq leads stocks' slide with Google, Tesla earnings on deck
-- Google parent Alphabet to report Q2 earnings in latest test of AI trade
-- Boeing's Ghost Bat leads race for uncrewed fighter jets
-- US tariffs on Brazil take effect as Trump readies fresh flurry
-- Supermicro shares jump on record $60B backlog in orders
-- AT&T stock pops after wireless subscribers top targets
+- U.S. markets closed
+- Google falls as capex growth spooks investors
+- Tesla falls on profit miss, but cash burn comes in below expectations
+- Capital One $425 million settlement payouts to customers ‘substantially delayed’ after appeal
+- Tesla falls on profit miss, but cash burn comes in below expectations
+- House backs Trump Iran war budget despite midterm election fears
+- Capital One $425 million settlement payouts to customers ‘substantially delayed’ after appeal
+- US, Iran suggest peace talks aren't imminent as attacks widen
+- Stocks close lower after Google, Tesla earnings took focus
+- Nearly 1 in 4 Americans are stuck in jobs for insurance reasons
+- 30-year Treasury yield flashes a warning not seen since 2007
 - The US has collected $13B of Venezuela's oil money. Where is it?
-- Intel results to test if AI-fueled rally has room to run
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- Nvidia touts Vera Rubin performance ahead of rival's big AI event
-- Meta suit shows that if AI fires you, proving it is hard
-- Tesla Q2 preview: Sales jump but Optimus, Robotaxi need more cash
-- Samsung in talks to invest in Mistral at €20bn valuation
+- IBM CEO addresses earnings shortfall and historic stock plunge
+- ServiceNow stock pops on AI-driven subscription outlook
+- OpenAI models breach Hugging Face, sparking cyber alarms
+- Samsung debuts 3 new foldable phones as Apple readies its own
 - Popular
-- Trump plans 100% tariff on generic drugs from August 2028
-- GM is quietly becoming a subscriptions company
+- Will SpaceX buy Tesla? Musk is not revealing his plans
+- Oracle cuts 21,000 employees during AI spending spree
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,49 +42,47 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Why Is Exxon Mobil Stock Gaining Wednesday?
-- What’s Going on With T3 Defense Stock on Wednesday?
-- How to Earn $500 a Month From Dow Stock Ahead of Q2 Earnings
-- Google Parent Alphabet Stock Sits Below Key Averages Ahead of Earnings Report
-- After Argentina, Pakistan Reportedly Seeks $10 Billion US Backstop Facility to Bolster Fragile Economy
-- Stock Market Today: S&P 500, Nasdaq 100 Futures Fall As Chip Stocks Cool Down and Tesla, Alphabet Gear Up for Earnings— Super Micro, Adtran, Capital One in Focus
-- Larry Fink
-- Kevin Warsh
-- Trump Reportedly Greenlights Massive 30-Year Saudi Nuclear Deal Worth Billions as Uranium Enrichment Clause Sparks Alarm
-- What's Going on With Arm Stock Wednesday?
+- Wife, 38, Discovered Her Husband Racked Up $72,000 In Gambling Debt Across Six Credit Cards — She Found Out When A Collector Called Her Directly
+- Elon Musk vs. Comcast: ‘The Odyssey’ Scores at Box Office, but Billionaire Thinks He Can Make Movie Better
+- Elon Musk Says ‘If You Value Tesla as Just an Auto Company, Fundamentally, It’s Just the Wrong Framework’ — More Like ‘A Dozen Technology Startups’
+- Quick Spark: Trump Signs Landmark US-Saudi Nuclear Deal, Expanding Civilian Energy Partnership
+- Alphabet Q2 2026 Earnings Call Transcript (CORRECTED)
+- Is SpaceX Stock's 45% Drop a Buying Opportunity? Cathie Wood Thinks So — These ETFs Are Making the Biggest Bet
+- Marco Rubio
+- Michael Burry
+- Alphabet CFO Says Demand Still Outpaces Capacity: AI Infrastructure Stocks Rise
+- Twitter Founder Jack Dorsey is Making a New Slack — Should Salesforce Investors Be Worried?
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 百度主要上市申请已获联交所确认收悉，或赶上9月港股通窗口
-- 巴林：警报已拉响。
-- 王毅出席东盟外长会期间与鲁比奥会面
-- GE Vernova美股盘前跌幅扩大至10%。
-- 伊朗外交部发言人：伊朗“镐山”并无核活动
-- 美国7月17日当周MBA抵押贷款申请活动指数周环比 1.9%，前值 -2.7%。
-- 伊朗袭击了位于费萨尔和哈桑王子基地的美国资产。（塔斯尼姆通讯社）
-- GE Vernova美股盘前下挫，现跌超6%，此前一度涨近7%。
-- 商务部新闻发言人就法国“反超快时尚”法有关问题答记者问
-- AT&T第二季度营收316亿美元，同比增长2.6%，预估317.7亿美元。
-第二季度调整后每股收益0.65美元，上年同期0.54美元，预估0.59美元。
-第二季度调整后息税折旧及摊销前利润123亿美元，同比增长5.1%，预估121亿美元。
-- GE Vernova第二季度营收111亿美元，预期108.2亿美元。
-第二季度每股收益2.47美元，去年同期为1.86美元。
- 第二季度调整后EBITDA为12.5亿美元，预期为12.9亿美元。
-积压订单达1760亿美元。
-GE Verno
-- 约旦称击落伊朗4枚导弹和4架无人机
+- 伊朗南部和西南部多地遭袭
+- 韩美首个投资项目或于8月公布 或聚焦能源领域
+- 华尔街见闻早餐 | 2026年7月23日
+- 美国能源部长赖特表示，能源部幕僚长卡尔·科将辞职，Charlie Dankert将接替科担任能源部幕僚长。
+- 谷歌A二季度分析师电话会要点总结
+- 特斯拉第二季度业绩电话会议要点总结
+- 韩国最快可能会在8月份宣布双边贸易协议中第一个对美国投资项目。（韩联社）
+- 提醒：特斯拉分析师电话会议结束。
+- 马斯克：特斯拉正在进行二战以来美国最快的工业规模扩张。
+我们试图在美国生产大量光伏产品。
+- 分析师：电话会进一步证实，特斯拉仍处于“建设模式”，可能会继续如此
+- Evercore ISI分析师Amit Daryanani在IBM财报发布后表示，（针对全年营收指引的）这一降幅“好于市场担忧”。
+在IBM上周发布初步业绩（显示基础设施及相关软件销售疲软）后，华尔街许多人士已预期该公司会下调指引。
+- 美军称对伊朗发动新一轮军事打击
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 伊朗武装部队回应特朗普袭击核设施言论
-- 特朗普批准与沙特达成的具有里程碑意义的核协议。（华尔街日报）
-- 美国：完成对伊朗的第11晚打击。
-霍尔木兹海峡仍对商船开放通行。
-- 滔搏：收到耐克通知，本集团目前的耐克产品在线平台销售将全面终止，该终止将在短期内对本集团的业务造成重大负面影响。
-- SK海力士：没有收购英特尔俄亥俄州芯片园区的计划
-- 第12批集采7月31日上海开标：65个品种，设三大规则
-- 越疆科技创业板IPO过会
-- 国务院国资委：深入实施“AI+”专项行动
-- 国务院国资委：着力抓好新一轮国资国企改革方案的高质量实施
-- 容百科技：2026年上半年净利润1.09亿元，上年同期亏损6839.46万元
+- 谷歌CFO：季度资本开支主要用于AI基础设施。
+- 特斯拉二季度利润远逊预期，成本攀升拖累业绩
+- 伊朗南部Sirik传出爆炸声。（IRIB）
+- Alphabet二季度录得980亿美元投资收益，推动单季利润大超预期
+- 特朗普：预计美联邦政府在9月将出现“停摆”
+- 美股大类资产类ETF多数收跌，小盘股指ETF跌超0.9%，大豆、黄金、布油基金涨超1%
+- 谷歌Pichai：2026年世界杯期间，搜索创历史新高。
+Gemini驱动谷歌云增长。
+公司看到人工智能（AI）基础设施带来强劲需求。
+- 美国众议院以216票赞成、212票反对的微弱优势通过规模达1.15万亿美元的《国防授权法案》。
+7名共和党议员投票反对，6名民主党议员投票支持。
+- 德州仪器：汽车业务在二季度加速。
+- 美国与沙特阿拉伯签署核合作协议
 
 ## SCMP (EN/中)
 
@@ -118,33 +116,33 @@ GE Verno
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 本週韓國總統+AI存儲雙雄同赴美國，與黃仁勳、OpenAI CEO共議AI大計
-- 谷歌重磅業績夜，將上調Capex指引？資深分析師：2026年或衝擊2000億美元
-- AI數據中心訂單爆發，GE Vernova Q2營收同比增長22%，EPS遜於預期
-- 特朗普政府投入50億美元啓動「AI+科研」計劃，藥物研發與先進材料迎政策風口
-- 川普關稅「換馬甲」，這次有什麼不一樣？
-- 北水加倉港股超75億港元，華虹宏力獲淨買入超12億港元，騰訊控股、阿里巴巴遭淨賣出逾27億港元
-- 特朗普爲何突然盯上伊朗「鎬山」？原油市場高度關注
-- 美國務卿魯比奧：美國仍願就伊朗問題展開談判
+- 富途早報 | 巨頭業績亮眼！惟「加速燒錢」令市場分歧；美伊互放狠話，升息預期重燃；百度已就主要轉換向港交所提出申請
+- 谷歌Q2雲業務超預期飆升82%，雲積壓訂單達5140億美元，自由現金流轉負，上調全年資本開支
+- 特斯拉電話會：馬斯克稱正進行「二戰以來美國最快的工業規模擴張」，獲美光存儲芯片「超級配額」
+- 特斯拉Q2營收大增26%但盈利降18%遠遜預期，現金流轉負，強調處最大投資階段
+- 美股夜盤：谷歌績後跌近3%，AI基礎設施公司受提振，美光科技漲超2%
+- 沃什執掌聯儲局後政策不確定性上升，市場對7月是否加息存在較大分歧
+- WTI衝上六週高位！特朗普稱"德黑蘭市內"納入打擊座標，庫欣庫存觸底與產量回落共振
+- 成交額TOP20 | AMD聯手Anthropic佈局算力；SpaceX收跌7%，即將再度試射星艦；英特爾、亞馬遜開啓新一輪裁員；蘋果全面改版Mac產品線
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 無視美元走強，黃金強勢站上4100美元，反轉信號出現了嗎？
-- 收市速睇 | 三大股指齊跌，科指跌超3%；科網股普跌，騰訊跌超7%；黃金股上揚，赤峰黃金、靈寶黃金漲超15%；PCB概念、光通信股下挫，建滔積層板跌超15%，長飛光纖光纜跌超10%
-- Rubin備受期待之際，英偉達持續優化Blackwell，GB200能效三個月翻4倍
-- 韓國總統李在明將出席在舊金山舉辦的人工智能峰會
-- 特朗普強推「美國製造」推高成本，台積電預警海外擴產將長期侵蝕利潤率
-- 特斯拉銷量回來了，但華爾街開始擔心另一件事：AI豪賭正在吞噬現金
-- SpaceX做空比例飆至32%，馬斯克警告空頭：幾無存活可能！
-- 否認了！SK海力士：沒有收購英特爾美國晶圓廠
-- 媒體實探英偉達Rubin：數十家客戶已拿到測試機架，生產過程比Blackwell順利，預計明年放量
-- 美債長端收益率擊穿關鍵防線！實際利率創16年新高，油價衝擊重燃加息恐慌
+- "債券義警"陰影重現，30年期美債收益率高於5%的天數創近二十年最多
+- AI狂熱與巨頭「吸血」：美股年內股權融資破3000億美元，超級週期還是流動性大考？
+- 特朗普：預計美聯邦政府在9月將出現「停擺」
+- 美股收盤 | 加息預期重燃，三大股指承壓收跌；英偉達強勢收漲2%領跑Mag7；超微電腦飆升20%；軟件股疲軟，Palantir跌超6%；油價飆至六週高位
+- 也門胡塞武裝稱襲擊兩艘沙特油輪，警告或對沙特境內發動更大規模打擊
+- 特斯拉盤後跌幅擴大至5%，馬斯克在分析師電話會上表示：Optimus將是特斯拉最難實現規模化量產的產品。
+- 谷歌上調2026全年資本開支指引
+- ServiceNow 2026年Q2營收39.87億美元，同比增長24%；調整後EPS0.9美元
+- 德州儀器2026年Q2營收54.63億美元，同比增加23%；稀釋後EPS2.14美元，同比增長52%
+- IBM 2026年Q2營收172億美元，同比增長1%；調整後EPS2.93美元，同比增長5%
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中)
 - 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
-- 加密货币: Benzinga (EN)
+- 就业数据: Yahoo Finance (EN)
+- 黄金/大宗: 华尔街见闻 (简中)
 - 美联储: 华尔街见闻 (简中)
 - 中国/欧盟: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
