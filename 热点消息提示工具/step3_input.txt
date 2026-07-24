@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年7月23日`
+`早间热点线索 · 2026年7月24日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026072320
+抓取时间: 2026072409
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 31m
-- Tesla stock slides on profit miss with cash burn in focus
-- Google Cloud is becoming Alphabet's new profit engine: Chart of the Day
-- Google falls as $205B spending spree spooks investors
-- Google Cloud is becoming Alphabet's new profit engine: Chart of the Day
-- Google falls as $205B spending spree spooks investors
-- German Bond Yields Hit 15-Year High as Oil Spikes Before ECB
+- U.S. markets closed
+- Trump administration announces next phase of global tariffs
+- 'Magnificent 7' shed $797 billion as AI spending fears grip Wall Street
+- Trump says US to use Iranian funds to pay for damage to ships
+- 'Magnificent 7' shed $797 billion as AI spending fears grip Wall Street
+- Trump says US to use Iranian funds to pay for damage to ships
 - Why midterms could be a buying opportunity for S&P 500
-- US stocks slide amid AI cost fears, oil pressures
-- Hedge funds' favorite US bond trade is sputtering
-- US investors rethink bonds' role as inflation reshapes portfolios
-- Why Intel needs more than blowout earnings
+- Everything is going wrong for oil markets right now
+- World Bank confirms plan to phase out China lending by 2031
+- Goldman offers way to trade AI junk bonds $250 million at a time
+- Stocks fall as Big Tech sinks, oil hits $100
+- 30-year Treasury yield flashes a warning not seen since 2007
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- AMD expected to launch next generation of AI infrastructure to challenge Nvidia
-- EU fines Google 890 mn euros, risking US fury
-- IBM CEO defends AI strategy after earnings miss, historic rout
-- SpaceX attempts major Starship flight test again
+- Patreon lays off 20% of its workforce
+- SAP CFO says AI must move beyond chatbot 'low-hanging fruit' before seeing returns
+- Intel soars after earnings crush expectations
+- Tesla tanks to 11-month low after earnings spook investors
 - Popular
-- Get ready for Trump’s tariff Plan C
-- NJ transit avoids World Cup meltdown after pouring in millions
+- The AI boom didn't stop Google from hiring nearly 12,000 people
+- The super rich use 401(k)s and IRAs to sidestep taxes. This proposed law would cut them off.
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,57 +145,44 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- America Has a 4.7 Million Home Shortage, but Zillow Says 300,000 Vacant Lots Sitting for Sale in These States Could Ease the Pain Fast
-- Jim Cramer: ‘Regional Banks Have Been A Fantastic Place To Be’
-- Aerospace and Defense Giant RTX Raises Outlook, Citing Strong Demand and $289 Billion Backlog
-- Paramount Skydance Wins EU Approval for Warner Bros. Discovery Deal After Offering This Key Concession— but US Hurdles Loom
-- This Rollins Analyst Turns Bearish; Here Are Top 5 Downgrades For Thursday
-- Stock Market Today: Dow Jones, S&P 500 Futures Slip As GOOGL, Elon Musk's TSLA Drag After Q2 Earnings—Intel, ServiceNow, Quantumscape in Focus
-- Marco Rubio
-- Michael Burry
-- IBM's Q2 Deal Slippage Is a 'Temporary Speed Bump,' Says Michael Lee as CEO Arvind Krishna Says Delayed Deals Are Closing
-- Intel Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- The Nasdaq Drops 1.5% and the 'Doom Posts Start Flooding in,' Says one Investor. Asks, When Will People Learn?
+- Shaq Thought Cruises Were Just for ‘Old People’ Until Carnival Made Him The Chief Fun Officer — Now He Says ‘People Don’t Know What You Rolling With’
+- 5 Early Earnings Winners Setting the Pace in Q2
+- Trump Hits 60 Countries with 10% to 12.5% Tariffs as Temporary Levies Expire
+- Oracle Stock Jumps After The Close: Here's Why
+- NVIDIA's Next Breakout? Market Veteran Sees Plenty of Fuel Left in the AI Leader
+- 4 Reasons to Buy Alphabet Stock After the CAPEX Shock: Bank of America
+- Where Will The Tesla Selloff End?
+- Databricks Just Hit A $188B Valuation: Co-Founder Ion Stoica On AI Bubble, Jobs, And Why Humans Still Matter
+- Palisade Bio Draws Bullish Call, Lead IBD Drug Advances Toward Phase 2
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 纳斯达克100指数期货跌幅扩大至0.9%。
-- 谷歌：在SpaceX首次公开募股后持有其940亿美元股份
-- IMAX第二季度营收1.028亿美元，预估9,390万美元。
-第二季度调整后EBITDA 4,800万美元，预估3,930万美元。
-第二季度调整后每股收益0.43美元，预估0.28美元。
-IMAX美股盘前涨近4%。
-- 黑石集团第二季度总收入38.0亿美元，预期33.9亿美元。
-第二季度可分配每股收益1.52美元，预期1.33美元。
-黑石集团二季度管理资产1.35万亿美元，预期1.33万亿美元。
-黑石集团美股盘前跌近3%。
-- 美国航空第二季度调整后每股收益15美分，预期2.7美分。
-美国航空预计第三季度营收增长16%至19%。
-美国航空预计第三季度调整后每股亏损10美分至70美分，市场预期每股收益31美分。
-美国航空预计全年调整后每股亏损65美分至每股收益65美
-- IBM将收购HRL实验室以赋能量子计算的未来。（彭博）
-- 礼来计划于2027年第一季度向美国食品药品监督管理局（FDA）提交瑞他鲁肽（Retatrutide）的生物制品许可申请（BLA）。礼来称，瑞他鲁肽实现了显著减重效果，瑞他鲁肽在III期试验中达到主要终点。（彭博）
-- 百济神州追加3亿美元投资扩大美国生产布局
-- 伊朗军方：将继续打击美军目标直至美方罢手
-- 伊通社：伊朗总统与伊拉克总理举行双边会晤。
-伊朗和伊拉克承诺深化战略关系。
-伊朗和伊拉克讨论新的合作领域。
-- 阿曼称正与沙特和也门等方面协调 以重启外交进程、恢复地区安全
-- 洛克希德马丁第二季度净销售额200.6亿美元，预期193.3亿美元
-第二季度每股收益7.94美元，去年同期1.46美元。
-洛克希德马丁预计全年净销售额797.5亿至817.5亿美元，市场预期791.3亿美元。
-洛克希德马丁预计全年营业利润8
+- 英伟达与Amkor签署价值15亿美元的芯片封装协议
+- 伊朗拒绝由美国提出的、伊拉克领导人转交的停火协议。（纽约时报）
+- 华尔街见闻早餐 | 2026年7月24日
+- 美参议院否决限制特朗普对伊战争权力的决议案
+- 韩国将与美国财政部围绕外汇问题继续沟通。
+- 自由港二季度电话会
+- 韩国将于7月31日针对ETF实施基本存款要求（BDR）。
+必要时将对个股杠杆ETF采取更多措施。
+- 美媒：中国品牌占欧洲插混车市场34%，创下历史新高
+- 伊朗称拦截一枚美军“战斧”导弹，伊南部传出爆炸声
+- 波士顿啤酒公司股价上涨，因关税影响下调全年毛利率预期
+- 也门胡塞武装外交事务负责人：已对美军行动做好应对准备
+- 新加坡GIC警告：气候行动不及预期，投资组合风险正日益加剧
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 韩美首个投资项目或于8月公布 或聚焦能源领域
-- 特朗普：美沙协议以沙特加入《亚伯拉罕协议》为条件。
-美国与沙特的协议不包含材料浓缩。
-- 【普冉股份：预计2026年上半年净利润同比增长1925.36%】普冉股份公告，预计2026年半年度实现归属于母公司所有者的净利润约为8.25亿元，与上年同期（法定披露数据）相比，将增加7.84亿元左右，同比增加1925.36%左右。2026
-- 美国10年期国债收益率触及年内新高，报4.69%。
-- 伊拉克与科威特边境口岸遭伊朗打击
-- 英镑兑美元下跌0.3%至1.3340，创7月8日以来新低。
-- 美国2年期国债收益率攀升至4.32%，创下年内新高。
-- 吴伟任中国投资有限责任公司党委副书记
-- 红板科技：全资子公司赣州红板拟在现有厂区内实施高阶mSAP高端精密电路板产业化项目，预计总投资不超过人民币50亿元。
-- 红果短剧将启动专项治理，整治“高频AI脸”
+- 英特尔销售增速创最近十五年最快，需求“空前”
+- 中概指数收跌约0.6%，CQQQ跌2%，日月光半导体跌超2.5%，阿里跌超2.1%
+- 美国没有将任何国家列为汇率操纵国。
+- 纳指科技指数收跌2%，半导体指数在美股临近结束交易时显著地收复失地
+- Alphabet持有的Anthropic股份价值飙升至约1240亿美元
+- 非美货币普跌，南非兰特跌超2.6%，纽元、墨西哥比索跌约0.8%
+- 美国两年期国债收益率涨超5.3个基点，投资者关注中东局势的影响
+- 特斯拉跌幅扩大至15.2%，刷新日低，S3 Partners董事总经理Ihor Dusaniwsky表示，这轮抛售使得押注特斯拉股价下跌的投资者有望获得大约41.2亿美元的单日盯市(mark-to-market)利润。
+SpaceX一度涨1
+- 美元指数涨超0.3%，日元跌0.4%逼近164
+- 美国司法部在总统特朗普飞机调查中撤销针对纽约时报的传唤。
 
 ## SCMP (EN/中)
 
@@ -229,34 +216,35 @@ IMAX美股盘前涨近4%。
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 業績後股價或波動12%，英特爾需要回答市場最關心的三個問題
-- OpenAI官宣Presence，大模型廠要搶軟件商的飯碗了？
-- 段永平：十年內大概率不會賣泡泡瑪特，計劃賣出SpaceX、特斯拉和PLTR的Put
-- 星艦第13次試飛倒計時！關鍵一飛牽動SpaceX太空雄心及萬億估值
-- 7月議息會議臨近市場預期分歧加大，高油價推升聯儲局加息不確定性
-- 布油逼近100美元大關，全球債市先「跌」爲敬，押注「利率更高更久」
-- SEC批准納斯達克微盤股退市新規，市場大型IPO募資規模大幅提升
-- 意法半導體Q3營收指引未達市場預期，股價下跌
+- 富途早報 | 美國新關稅今日生效，中東風險抬升加息預期；英特爾業績超預期，AI芯片競爭格局生變；寧德時代今日放榜
+- AI需求引爆十五年最強增長，英特爾Q2營收增25%大超預期，指引保持高增
+- 英特爾電話會：AI業務暴增70%，預計供應短缺繼續存在，明年資本支出遠超今年
+- AMD密集「上新」押注2萬億AI計算市場，Helios全面量產、Venice性能領先英偉達20%
+- 韓國提前3天上調單股槓桿ETF交易的現金存款要求
+- 新關稅框架落地！美國對數十個國家加徵10%-12.5%的關稅，石油、天然氣、食品得到豁免
+- 成交額TOP20 | 特斯拉重挫15%，空頭單日狂攬41億美元；谷歌跌7%，資本開支激增5000億美元；AMD密集「上新」爭奪2萬億算力藍海
+- 美股收盤 | AI開支擔憂重創美股，納指跌2%；Mag7單日蒸發8000億美元市值，特斯拉跌超14%；存儲股逆勢走高，美光漲超3%；布油再破百
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 北水減倉港股逾42億港元，美團獲淨買入超6億港元，騰訊控股、阿里巴巴分別遭淨賣出15億、11億港元
-- 低價AI崛起≠投資崩潰！全球最大資管研判：芯片股拋過頭了
-- SpaceX大幅跌破IPO價？木頭姐力挺：或成爲「全球歷史上最重要的公司」！
-- 谷歌、特斯拉雙雙現金流轉負，對於AI交易意味着什麼？
-- 收市速睇 | 三大指數齊漲，恒指漲1.28%；鋰電池股上揚，贛鋒鋰業漲近10%，天齊鋰業漲近7%；半導體股多數走低，華虹宏力、天數智芯跌超7%
-- 套利者夢碎！SK海力士美股溢價居高不下，2.5%轉換紅線成「攔路虎」
-- 「油金蹺蹺板」不靈了？黃金收復4100美元大關，ETF資金流出速放緩
-- 商務部：中美正就降稅安排徵求意見並將儘快推動實施
-- 段永平：泡泡瑪特才剛開始買，10年內大概率是不會賣的；已經賣了一些MU的put，這幾天會賣space X、特斯拉、pltr的put
-- AI數據中心業務成新增長引擎 諾基亞Q2利潤大超預期
+- Alphabet百年債首次跌破面值九成，超大規模雲服務商債券信用利差走闊
+- 一週末打通AMD全套適配：Anthropic用Claude自舉而非英偉達硬件，打破CUDA「人力壁壘」
+- 谷歌研究：AI目前更多是在輔助員工 而非取代員工
+- 艾馬克技術與英偉達達成一項多年期戰略合作
+- 甲骨文股價擊穿52周低點：OCI增長敘事退潮，AI資本開支回報疑慮持續重壓
+- MaxLinear2026財年第二季度總營收1.69億美元，同比增長55%；調整後每股收益0.35美元
+- SAP2026年Q2營收98.78億歐元，同比增長9%；調整後EPS1.59歐元，同比增長6%
+- 特斯拉暴跌15%，空頭單日狂賺41億美元，個人投資者逆勢加倉
+- 英特爾2026年Q2營收161億美元，同比增長25%；調整後EPS0.42美元，銷售增速創最近十五年最快，需求「空前」
+- 美股三大指數集體收跌，納指跌2.15%，標普500指數跌1.21%，道指跌0.97%。特斯拉大跌超14%，Q2淨利不及預期且毛利率進一步下滑。谷歌跌超7%，總市值跌破4萬億美元。
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 伊朗/中东: 华尔街见闻 (简中), 经济通 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 美国关税: Yahoo Finance (EN)
-- 就业数据: Yahoo Finance (EN)
-- 黄金/大宗: 华尔街见闻 (简中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中)
+- 美国关税: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 就业数据: Benzinga (EN)
+- 美联储: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
