@@ -3,58 +3,63 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | Nvidia sinks, dragging chip stocks lower | Trump admin's proposed prediction market rule faces public pushback | Trump says there's a 'good chance' of an Iran deal amid pause | Trump admin's proposed prediction market rule faces public pushback | Trump says there's a 'good chance' of an Iran deal amid pause | Earnings live: LVMH sales grow as US luxury shoppers boost results | Cracker Barrel CEO departs a year after Trump backlash over logo
-  - 其他: Top Stories | Markets & Economy | Tech & AI | SpaceX hits new low despite 'over the moon' Starship test | SK Hynix slumps below US IPO price as mega-listings turn sour
+  - 头版/首屏: U.S. markets open in 1h 30m | The bond market's danger zone is the new normal | Nasdaq sinks as chipmaker rout snowballs | 'Super El Niño' is set to squeeze commodities even further | Nasdaq sinks as chipmaker rout snowballs | 'Super El Niño' is set to squeeze commodities even further | Chip stock charts just sent a bearish signal of more losses | Nvidia behind $50 billion lease on Texas data center: FT
+  - 其他: Top Stories | Markets & Economy | Tech & AI | China begins production on its own DUV chipmaking tools | AI's decimation of call center jobs has begun
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Woman, 26, Says Boyfriend Opened A Credit Card In Her Name And Ran Up $12,000 Without Her Knowing — She Found Out From A Collections Call | Nvidia Funds AI Frenzy: Timeline of its Circular Financing Deals ... So Far | EXCLUSIVE: Webull Just Made 'Smart Money' Bond Strategy Available For $500 | Getting Fired 2 Years From Retirement Is a Nightmare for Most People. Do You Call a Lawyer, Join a Competitor, or Apply for Unemployment? | Mark Cuban Takes Swing at Major League Baseball: Here’s the Team He’s Investing In
+  - 其他: These Analysts Boost Their Forecasts On Cadence Design Systems Following Upbeat Q2 Earnings | Cardano Founder Calls Trump 'Disgusting', Though Harris Administration Would Have Been 'Worse' for Crypto | Applied Digital Stock Swings After Q4 Earnings Beat: What to Know | Is the AI Boom A 'Virtuous Circle' Or a Ponzi Scheme? Wall Street Is Split | EXCLUSIVE: Co-Diagnostics Announces Successful Proof of Concept for Extraction-Free Ebola Test
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 阿里云真武超节点适配Kimi K3 | 百度香港主要上市转换再提速，8月26日将召开股东特别大会 | 美国主导的以色列和黎巴嫩会谈将于8月4日至6日在罗马举行。以色列、黎巴嫩和美国预计将于下周举行会谈。（Axios） | 纳斯达克100指数期货下跌0.3%。 | Applied Digital业绩报告和分析师电话会议要点总结 | Rambus二季度分析师电话会议要点总结 | 铿腾电子二季度分析师电话会议要点总结 | 特朗普为何突然叫停对伊空袭？潜在“最直接原因”曝光：攻击性弹药消耗过多
-  - 其他: Rambus二季度每股收益（EPS）为0.61美元，运营利润率31%。
-预计三季度调整后EPS为0.75-0.82美元，产品收入1.10亿-1.16亿美元，合同与其他收入0.25亿-0.31亿美元。 | 纳微半导体（Navitas Semiconductor）二季度营收1050万美元，分析师预期997万美元。
-二季度每股亏损0.04美元，分析师预期亏损0.043美元。
-二季度调整后净亏损931万美元，分析师预期亏损1000万美元。
-二季度调 | 特朗普：有足够耐心与伊朗达成新协议，否则就开打 | Amkor二季度业绩报告和分析师电话会要点总结 | 英伟达收跌约5%，存储芯片指数跌约5.3%，闪迪跌11%，SK海力士ADR收盘破发
+  - 头版/首屏: 波音第二季度营收245.6亿美元，市场预估242.6亿美元。
+第二季度调整后自由现金流6.31亿美元，市场预估负3.314亿美元。
+波音盘前股价跌1.5%。 | 康宁美股盘前大跌超15%，公司预计第三季度核心销售额49亿至50亿美元，市场预估50亿美元。 | PayPal盘前股价抹去此前涨幅，转而下跌1.4%。 | 以防长证实以境内美军机持续参与对伊打击行动 | AMD与Core Scientific达成基础设施合作伙伴关系 | 葛兰素史克第二季度调整后每股收益50.5便士，预期46.8便士。
+第二季度营收84.1亿英镑，预期82.5亿英镑。
+葛兰素史克仍预计全年按固定汇率计算销售额增长3%至5%。
+葛兰素史克仍预计全年调整后每股收益增长7%至9%。
+葛兰素史克仍预 | PayPal第二季度调整后每股收益1.38美元，预估1.27美元。
+第二季度净营收86.8亿美元，同比增长4.8%，预估84.6亿美元。
+第二季度活跃客户账户数4.4亿，同比增长0.2%，预估4.4亿。
+第二季度调整后运营收益15.1亿美元 | 百度开始与Lyft、Uber在伦敦测试无人驾驶出租车服务。（彭博）
+  - 其他: 香港特区政府与国家工信部签署《关于推进部港共建制造业创新中心的合作协议》 | OPEC+代表：OPEC+预计9月后将维持2026年产量稳定。 | 外媒：长鑫科技将撼动全球存储行业垄断格局 | 《财富》世界500强排行榜揭晓：亚马逊登顶，沃尔玛第二，中国国家电网第三 | 联合国秘书长访问塞浦路斯推动和谈重启
 
 - **SCMP (EN/中)** ✓
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 长鑫科技首挂曾飙逾5倍，惟芯片股调整未完 | “红霞”侵袭 粤转移逾80万人 | 美伊暂停互轰 特朗普权衡军事外交方案 | 离岸避税、流量地租，“817大棋”再落子 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25207.18+243.95(+0.98%)
-                    etnet.com.hk@copyright | 国企指数8365.38+94.32(+1.14%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 次季业绩大走样遭大行降目标，老铺黄金股价急跌逾两成 | 长鑫首挂飙4.6倍 A股新股王 | 美伊暂停互轰 特朗普权衡军事外交方案 | 离岸避税、流量地租，“817大棋”再落子 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25308.76+101.58(+0.40%)
+                    etnet.com.hk@copyright | 国企指数8435.86+70.48(+0.84%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 市場「用腳投票」！給OpenAI擔保2500億美元，英偉達市值應聲蒸發2500億美元 | 富途早報 | 特朗普稱美伊談判窗口有限，若談判破裂將重啓軍事行動；蘋果市值超越英偉達重回全球第一；SpaceX、SK海力士創上市後新低；康寧、可口可樂盤前放榜 | 全球「股王」易主！英偉達市值被蘋果反超 風向徹底變了？ | 自由現金流「耗竭」下，算力資本開支、全球AI週期是否見頂？ | 特朗普：暫停打擊伊朗是給談判再一次機會，會談可能有成果，談不攏就「重新大打」 | 成交額TOP20 | SK海力士步SpaceX破發後塵；蘋果重回全球市值第一；英偉達跌5%，CDS價差創紀錄飆升；阿斯麥DUV業務或遭衝擊 | 特朗普力挺沃什減息，喊美國利率要全球最低，炮轟聯儲局「阻降派」 | CME全天候黃金期貨上線首週末需求強勁，成交近1.5萬份合約，個人投資者積極入場
-  - 其他: 報道：特朗普政府即將敲定AI自願監管框架 | SpaceX逼近100美元，市場預期差在哪？ | 加息概率飆至35%、對沖基金美股敏感度卻攀至五年峰值，彭博警告VaR連鎖平倉風險 | 美股收盤 | 英偉達循環融資引質疑，股指高開低走；芯片股承壓，閃迪接近腰斬，邁威爾較高點回落40%；軟件股走高，Palantir大漲7%；原油重挫 | 英偉達循環融資引發憂慮：CDS價差創紀錄飆升，股價大跌5%，蘋果重奪市值第一
+  - 头版/首屏: 日韓「存儲三雄」業績本週亮相：強勁業績能否拯救腰斬的股價？ | 波音第二季度營收245.6億美元，同比增長8%，高於市場預期 | 康寧Q2核心銷售額47.38億美元，同比增長17%；核心每股收益同比增長30% | 140億美元落地得州數據中心園區！Meta拉上資管巨頭貝萊德，再掀AI基建軍備賽 | AI的免費午餐吃完了？ | 算力資源有限，亞馬遜砍掉多款自研AI，All in「旗艦大模型」 | 北水減倉港股近25億港元，淨買入小米集團超3億港元，淨賣出美團逾9億港元 | 車企扎堆「造人」！比亞迪人形機器人8月發佈、小鵬IRON量產在即，理想雙路並進
+  - 其他: 中東戰火壓平歐洲利率曲線 交易員仍押注「停火即拐點」 | 收市速睇 | 三大指數齊漲，科指漲0.61%；科網股走高，網易、京東漲超4%；存儲概念股大跌，南方兩倍做多海力士跌30%，兆易創新跌超17% | 業績、通脹、聯儲局決議「三連擊」：華爾街繫緊安全帶，市場迎最強風暴周 | 傳英偉達簽署500億美元德州數據中心租約，或爲AI算力擴張鋪路 | 黑色星期二，全球芯片股遭血洗，SK海力士重挫14%，AI回報成市場最大擔心
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中), 经济通 (繁中) (2 站)
+- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中) (1 站)
 - **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
-- **加密货币** — 出现于: 华尔街见闻 (简中) (1 站)
-- **就业/经济数据** — 出现于: Benzinga (EN) (1 站)
-- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
+- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 伊朗/中东局势（4 站）
 - 科技股/个股（4 站）
+- 中国/欧盟（3 站）
 - 油价/能源（2 站）
-- 美联储/利率（2 站）
-- 中国/欧盟（2 站）
+- 加密货币（2 站）
+- 就业/经济数据（2 站）
+- 黄金/大宗商品（2 站）
+- 伊朗/中东局势（1 站）
 - 关税/贸易政策（1 站）
-- 加密货币（1 站）
-- 就业/经济数据（1 站）
-- 黄金/大宗商品（1 站）
+- 美联储/利率（1 站）
 - 中国政策（1 站）
