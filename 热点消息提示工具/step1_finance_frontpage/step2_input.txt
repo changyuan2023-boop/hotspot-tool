@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026072720
+抓取时间: 2026072809
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- The Fed's rate move this week is the hardest to call in years
-- US stocks surge as oil slumps after pause in US-Iran attacks
-- Big Tech bonanza, Fed meeting, $100 oil: Brace for a busy week
-- US stocks surge as oil slumps after pause in US-Iran attacks
-- China's CXMT can go on to rally over 1,200% from IPO: Nomura
-- Big Tech bonanza, Fed meeting, $100 oil: Brace for a busy week
-- Investors can soon bet on SpaceX without trading a single share
-- Earnings live: AstraZeneca stock rises to kick off a busy earnings week
-- Oil prices sink as US and Iran pause strikes
-- US, Iran keep attacks on pause as Trump gives talks 'some space'
-- Morgan Stanley: AI adoption is key to profit outlook this season
+- U.S. markets closed
+- Nvidia sinks, dragging chip stocks lower
+- Trump admin's proposed prediction market rule faces public pushback
+- Trump says there's a 'good chance' of an Iran deal amid pause
+- Trump admin's proposed prediction market rule faces public pushback
+- Trump says there's a 'good chance' of an Iran deal amid pause
+- Earnings live: LVMH sales grow as US luxury shoppers boost results
+- Cracker Barrel CEO departs a year after Trump backlash over logo
+- Stocks close mixed as chip trade stumbles, oil eases
+- Ford's guidance is all that matters in light of GM's results: Q2 preview
+- Oil prices settle at lowest in over a week, as US pauses attacks on Iran
+- Jersey Mike's IPO said to be more than 10 times oversubscribed
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- Nvidia in talks with OpenAI to guarantee $250B financing: WSJ
-- Chinese chipmaker CXMT's shares jump 466% at IPO
-- Nvidia rallies the open-weight AI camp — apart from Anthropic
-- China's Moonshot to release Kimi K3 AI model for public download
+- SpaceX hits new low despite 'over the moon' Starship test
+- SK Hynix slumps below US IPO price as mega-listings turn sour
+- Cadence rises on booming demand for AI chip design
+- Why Microsoft, Meta, and Amazon earnings could crush the S&P 500
 - Popular
-- Musk says America is '1,000% going to go bankrupt'
-- Bernie Sanders: 'The real welfare queen is the Walton family'
+- How the Fed's rate decision affects your bank accounts, loans, credit cards, and investments
+- Americans have more spending power than ever. It doesn't feel that way.
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,54 +42,57 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Ford To Rally Around 22%? Here Are 10 Top Analyst Forecasts For Monday
-- This Damora Therapeutics Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Monday
-- Rocket Lab Secures Biggest Launch Deal Yet as Space Demand Grows
-- AsiaInfo Bets On AI, Space Communications To Revive Flagging Business
-- Why Is Profusa Stock Falling Monday?
-- Stock Market Today: S&P 500, Dow Jones Futures Rise as US-Iran Halt Retaliatory Strikes—Microchip Technology, AMD, Nucor in Focus
-- Elon Musk
-- United Airlines Pitched a Merger With Delta Before Its Failed American Airlines Bid: Report
-- Top Wall Street Forecasters Revamp Amkor Technology Expectations Ahead Of Q2 Earnings
-- Cadence Likely To Report Higher Q2 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- Woman, 26, Says Boyfriend Opened A Credit Card In Her Name And Ran Up $12,000 Without Her Knowing — She Found Out From A Collections Call
+- Nvidia Funds AI Frenzy: Timeline of its Circular Financing Deals ... So Far
+- EXCLUSIVE: Webull Just Made 'Smart Money' Bond Strategy Available For $500
+- Getting Fired 2 Years From Retirement Is a Nightmare for Most People. Do You Call a Lawyer, Join a Competitor, or Apply for Unemployment?
+- Mark Cuban Takes Swing at Major League Baseball: Here’s the Team He’s Investing In
+- 'The World's Most Powerful Network': X Money Rolls Out, Challenging Venmo, Robinhood, Apple Pay
+- Anthropic
+- Celestica Stock Extends Gains After Q2 Results Beat Estimates
+- Coca-Cola's Earnings Could Put $10.7 Billion In Market Value On The Line
+- EXCLUSIVE: China Is Coming For SanDisk—But Not Yet For Micron’s Memory Crown (CORRECTED)
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 腾讯QQ宣布QQ宠物回归，接入腾讯混元Hy3大模型
-- 理想汽车产品线负责人：7月中下旬i6产量减少，整车生产现已恢复正常
-- 美宣称拟对中国人工智能企业开展调查并实施制裁 商务部回应
-- 蚂蚁正式发布LLaDA2.2
-- 商务部新闻发言人就美发布“强迫劳动”301调查最终措施答记者问
-- OpenAI宣布在爱尔兰设立新的欧盟总部，并新增250个工作岗位。（彭博）
-- 消息人士：内塔尼亚胡访美行程推迟，原因未明
-- 工信部检查埃安、小鹏，与电池故障有关？内部人士：没听说有必然关联 或是全行业督查
-- 英伟达牵头成立开放AI安全联盟
-- 腾讯云：10月30日起，实时互动-教育版产品退市
-- 伊朗称与阿曼就霍尔木兹海峡进行的会谈与美国无关
-- 伊朗外交部：霍尔木兹海峡仍然关闭
+- 阿里云真武超节点适配Kimi K3
+- 百度香港主要上市转换再提速，8月26日将召开股东特别大会
+- 美国主导的以色列和黎巴嫩会谈将于8月4日至6日在罗马举行。以色列、黎巴嫩和美国预计将于下周举行会谈。（Axios）
+- 纳斯达克100指数期货下跌0.3%。
+- Applied Digital业绩报告和分析师电话会议要点总结
+- Rambus二季度分析师电话会议要点总结
+- 铿腾电子二季度分析师电话会议要点总结
+- 特朗普为何突然叫停对伊空袭？潜在“最直接原因”曝光：攻击性弹药消耗过多
+- 华尔街见闻早餐 | 2026年7月28日
+- 黎巴嫩总统：以色列持续违反协议的行为不可接受
+- 贝莱德避开AI债券滑铁卢，123亿美元债务发行受追捧
+- 美国医生：参议员麦康奈尔仍无法返回参议院工作
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 营收同比增长超七成 2026年上半年上海地区证券经纪业务分支机构成绩单出炉
-- 罗博特科：全资子公司ficonTEC与交易对手方，即一家于纽交所上市的公司H的子公司在2026年7月23日签订单笔日常经营合同，金额约为1,674万欧元，系用于光纤阵列（FAU）等光学元器件量产的自动化制造设备及服务订单，占公司2025年度
-- 耀才证券回应被香港证监会罚款280万港元：诚恳接受处罚决定
-- 金融监管总局：稳步推进中小金融机构改革化险，有效防范化解重点领域风险
-- 工信部：加快编制出台智能网联新能源汽车产业发展“十五五”规划
-- 摩根士丹利看好AI应用者的盈利前景
-- 英国首相发言人Wells：取消英国市政税、印花税不在积极考虑范围内。
-税收决定是财政大臣在财务预算案中负责的事项。
-英国政府正为泰晤士水务（Thames Water）的所有可能情况做准备。
-泰晤士水务“财务保持稳定”。
-- 长芯博创：控股子公司签署45亿元光纤光缆长期合作协议
-- 三花智控：拟以2亿元-4亿元回购公司股份
-- 财政部、应急管理部紧急预拨1.8亿元中央自然灾害救灾资金支持广东、辽宁等6省做好防汛防台风应急抢险救灾工作。（央视）
+- Rambus二季度每股收益（EPS）为0.61美元，运营利润率31%。
+预计三季度调整后EPS为0.75-0.82美元，产品收入1.10亿-1.16亿美元，合同与其他收入0.25亿-0.31亿美元。
+- 纳微半导体（Navitas Semiconductor）二季度营收1050万美元，分析师预期997万美元。
+二季度每股亏损0.04美元，分析师预期亏损0.043美元。
+二季度调整后净亏损931万美元，分析师预期亏损1000万美元。
+二季度调
+- 特朗普：有足够耐心与伊朗达成新协议，否则就开打
+- Amkor二季度业绩报告和分析师电话会要点总结
+- 英伟达收跌约5%，存储芯片指数跌约5.3%，闪迪跌11%，SK海力士ADR收盘破发
+- 纳指科技指数收跌0.5%，半导体指数跌超2.2%
+- 中概指数收涨2.5%，KWEB涨2.7%，小米涨约9%，金山云涨超4.8%，网易、阿里、腾讯、阿里至少涨超2%
+- 亚马逊Leo拟部署5105颗卫星，进军手机直连通信市场
+- 周一（7月27日）纽约尾盘，彭博电动汽车价格回报指数涨1.56%，报3280.64点。
+指数全天处于上涨状态，亚太时段持续走高，美股盘初刷新日高至3290.35点。
+成分股中，小米集团H股收涨7.34%，禾赛科技ADR目前涨5.6%，文远知
+- 中长期美债收益率跌超3个基点
 
 ## SCMP (EN/中)
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- ​中期多赚42%增派息斥400亿回购，宁德时代获大行唱好
+- 长鑫科技首挂曾飙逾5倍，惟芯片股调整未完
 - “红霞”侵袭 粤转移逾80万人
-- 美连轰伊13晚后 传特朗普下令停空袭
+- 美伊暂停互轰 特朗普权衡军事外交方案
 - 离岸避税、流量地租，“817大棋”再落子
 - 指数环球商品外汇
 - 国金观点
@@ -114,33 +117,36 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 除了選舉，現階段真正壓制美股的核心變量，是什麼?
-- AI基礎設施軍備競賽加速：英偉達推出Spectrum-6，算力競爭進入十億瓦新紀元
-- TrendForce：英偉達、博通CPO交換機展開小量出貨，光引擎良率、先進封裝產能成關鍵因素
-- 美銀：8月或開啓美股「最艱難的三個月」，美元黃金迎來機會
-- 商務部新聞發言人就美宣稱擬對中國人工智能企業開展調查並實施制裁答記者問
-- 北水減倉港股近16億港元，淨買入美團超12億港元，淨賣出小米集團逾12億港元
-- 英偉達牽頭成立開放AI安全聯盟
-- 英國央行議息前瞻：國內通脹壓力終現緩解，伊朗戰事令「按兵不動」成唯一共識
+- 市場「用腳投票」！給OpenAI擔保2500億美元，英偉達市值應聲蒸發2500億美元
+- 富途早報 | 特朗普稱美伊談判窗口有限，若談判破裂將重啓軍事行動；蘋果市值超越英偉達重回全球第一；SpaceX、SK海力士創上市後新低；康寧、可口可樂盤前放榜
+- 全球「股王」易主！英偉達市值被蘋果反超 風向徹底變了？
+- 自由現金流「耗竭」下，算力資本開支、全球AI週期是否見頂？
+- 特朗普：暫停打擊伊朗是給談判再一次機會，會談可能有成果，談不攏就「重新大打」
+- 成交額TOP20 | SK海力士步SpaceX破發後塵；蘋果重回全球市值第一；英偉達跌5%，CDS價差創紀錄飆升；阿斯麥DUV業務或遭衝擊
+- 特朗普力挺沃什減息，喊美國利率要全球最低，炮轟聯儲局「阻降派」
+- CME全天候黃金期貨上線首週末需求強勁，成交近1.5萬份合約，個人投資者積極入場
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 高市早苗民調下滑或觸發「財政加碼」 警惕日本市場風險沿收益率外溢至全球股債
-- 特斯拉Optimus項目遭「潑冷水」，知名投資人：短期不會產生收入
-- 知名經濟學家Peter Schiff：黃金與石油相關性正在逆轉，黃金買入機會和築底信號雙雙浮現
-- 收市速睇 | 三大指數齊漲，科指漲1.57%；科網股多數上漲，小米漲超7%；PCB概念股衝高，建滔積層板漲超6%；MiniMax大漲超17%
-- Meta、微軟、亞馬遜大考周：AI燒錢越來越猛，市場的耐心不多了
-- 報道：三星考慮採用中國DRAM，以降低Galaxy A系列成本
-- AI算力引爆高端PCB景氣潮，機構稱未來PCB價值量將穩步提升
-- AI資本支出成績單將至：微軟亞馬遜拼雲計算，Meta拼廣告
-- AI牛市最大的敵人，不是泡沫，而是債市？美銀Hartnett最新報告
-- 港股機器人概念股走高，特斯拉Optimus年底量產在即，人形機器人產業化提速
+- 報道：特朗普政府即將敲定AI自願監管框架
+- SpaceX逼近100美元，市場預期差在哪？
+- 加息概率飆至35%、對沖基金美股敏感度卻攀至五年峰值，彭博警告VaR連鎖平倉風險
+- 美股收盤 | 英偉達循環融資引質疑，股指高開低走；芯片股承壓，閃迪接近腰斬，邁威爾較高點回落40%；軟件股走高，Palantir大漲7%；原油重挫
+- 英偉達循環融資引發憂慮：CDS價差創紀錄飆升，股價大跌5%，蘋果重奪市值第一
+- 中國DRAM巨頭攪動全球格局，美股存儲芯片承壓，SK海力士破發，閃迪一個月接近腰斬
+- 奧特曼赴華盛頓遊說：將展示OpenAI模型能力，回應開放模型與安全爭議
+- 天弘科技Q2營收47億美元，同比增長62%，調整後每股收益爲2.54美元。
+- 納微半導體2026年Q2營收0.10億美元，同比下降28%；攤薄每股虧損爲0.95美元
+- Rambus2026財年Q2營收2.07億美元，同比增長20%；調整後EPS0.77美元。
 
 --- 跨站重点主题（多站出现=更重要）---
 - 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
+- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中)
+- 美国关税: 华尔街见闻 (简中)
+- 加密货币: 华尔街见闻 (简中)
+- 就业数据: Benzinga (EN)
 - 黄金/大宗: 华尔街见闻 (简中)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
