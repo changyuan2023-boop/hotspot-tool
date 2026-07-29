@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026072909
+抓取时间: 2026072920
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- SK Hynix's record profit misses investors' lofty AI expectations
-- Trump asks Supreme Court to scrap $83.3M guilty verdict payout
-- Trump dials back Iran threats, hosts Netanyahu at White House
-- Trump asks Supreme Court to scrap $83.3M guilty verdict payout
-- Trump dials back Iran threats, hosts Netanyahu at White House
-- Earnings: PayPal stock pops, Coca-Cola stock surges
-- Citadel securities’ Fed rate hike call adds to market angst
-- Why this analyst is down on Apple stock even as it hovers near record highs
-- Trump administration to end drug plan subsidy for Medicare
-- Oil falls to 2-week low after several days without US-Iran strikes
-- Ford earnings beat expectations as profits rise
+- U.S. markets open in 1h 31m
+- The chip crash is exposing the brutal cost of leverage
+- US stocks steady ahead of Fed decision, AI earnings test
+- What are credit default swaps and why are they spooking AI investors?
+- US stocks steady ahead of Fed decision, AI earnings test
+- What are credit default swaps and why are they spooking AI investors?
+- Fed expected to hold rates steady, but Iran war adds tension
+- GE HealthCare profit beats thanks to imaging demand, tariff refunds
+- Microsoft earnings: Wall Street wants proof AI spending is paying off
+- Iran attacks US bases, while Saudi Arabia joins strikes in Iraq
+- K-shaped spending trends might be reversing
+- BMW aims to cut 8,000 jobs by end of next year
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- OpenAI's rogue agent has compromised a customer at a second tech firm
-- Micron, SK Hynix stocks sink as AI chip sell-off deepens
-- SpaceX stock recovers slightly after new all-time low
-- 6 Congresspersons bought SpaceX stock, including one Democrat
+- Why Apple is set for its strongest quarterly sales growth in 5 years
+- SK Hynix stock slumps 10% after record profit still falls short
+- A single AI chip trade blew up $60 million in crypto bets
+- Google's DeepMind dismantles its Nobel-winning AI team
 - Popular
-- Saudi Prince Alwaleed takes 5% stake in EV-maker Lucid
-- eBay agreed to pay nearly $50 million to couple sent cockroaches, bloody pig mask
+- Why retiring at 65 is a big mistake for millions of Americans
+- Trump asks Supreme Court to scrap $83.3M guilty verdict payout
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,67 +42,62 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Dad, 61, Bought A Lake House Inside His Self-Directed IRA — Now His Son Wants To Use It Rent Free And Doesn't Understand Why That's Not Allowed
-- Is $200K an Impressive Net Worth at 30, or Is $500K the New Standard? Social Media Makes Almost Everyone Feel Poor
-- QUICK SPARK: Goldman's High Beta Momentum Basket Heads for Worst Month Ever
-- NXP Semiconductors Shares Slip Despite Q2 Earnings Beat
-- Meta Pledged 100% Renewable Energy in 2016: 10 Years Later, It's Ditching the Plan
-- SK Hynix Earnings Could Decide Whether Wall Street Has Misread The AI Memory Selloff
+- Microsoft Likely To Report Higher Q4 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- HYPE Is Cheaper Than COIN, HOOD, CRCL, PYPL, Grayscale Argues—So Why Is PURR Going Down?
+- AI Valuations Take Flight, While China’s Low-altitude Economy Crashes Into Reality
+- Wall Street's Most Accurate Analysts Give Their Take On 3 Industrials Stocks Delivering High-Dividend Yields
+- Elizabeth Warren Offers a 'Theory' on Why Trump Refused To Sign Bipartisan Housing Bill: 'No Gold Statues...No Gold Bars'
+- Stock Market Today: Dow Jones, S&P 500 Futures Rise as Investors Await Federal Reserve's Decision on Interest Rates—Ford Motor, Bloom Energy, Microsoft in Focus
 - Anthropic
-- Robinhood Q2 Preview: Prediction Markets, Meme Coins & Trump Accounts Could Power Earnings
-- Stock of the Day: Where Will the Autodesk Rally End?
-- Amazon, Apple, Meta, Microsoft Earnings on Deck: 33% of Benzinga Viewers Say This is Top Report to Watch
+- Why Is Bloom Energy Stock Soaring Wednesday?
+- Peter Schiff Says the AI Bubble Has 'a Lot More Air' Left to Come Out Amid SPCX Decline
+- Top 3 Consumer Stocks That May Rocket Higher In Q3
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- SK海力士：将加强在NAND闪存领域的业务阵容。
-- SK海力士：进行投资时将考量电力供应、用水及人才因素。
+- 宝洁第四财季销售净额212.0亿美元，预估213.4亿美元。
+第四财季内生性收入增长0％，预估增长1.85％。
+第四财季核心每股收益1.43美元，预估1.41美元。
+宝洁预计2027年内生性收入增长1％至3％，预估增长2.44％。
+宝洁预计
+- 美国7月24日当周MBA抵押贷款申请活动指数周环比 -6.4%，前值 1.9%。
+- 伊媒称美空袭伊朗与伊拉克边境地区
+- 英美资源集团据悉正洽谈以约10亿美元出售钻石开采与销售公司戴比尔斯。（彭博）
+- 伊媒称“敌方导弹”击中西阿塞拜疆省一无人居住区
+- 英媒：美国轰炸难让伊朗屈服
+- 美国将向七家科技公司提供8.74亿美元研发资金 并取得其少数股权
+- “敌方发射物”击中伊朗西阿塞拜疆省。（法尔斯通讯社）
+- 伊朗要求霍尔木兹海峡通行船只须经伊朗水域
+- 新东方第四季度净营收15.3亿美元，市场预估14.7亿美元。
+第四季度经营利润8,580万美元，市场预估7,550万美元。
+预计2027年净营收64.5亿美元至66.8亿美元。
+- 中际旭创港股暗盘跌超1%，报968港元，发行价980港元/股。
+- 希捷科技盘前涨近5%，公司上季营收超预期增近50%、毛利率大幅跃升突破50%，指引更强劲。
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - 特朗普：我和内塔尼亚胡的会晤非常愉快，讨论了很多重要议题。
 - 美参议院通过制裁俄罗斯和伊朗法案程序性投票
 - SK海力士：处于自2027年起量产HBM4E的正轨上。
 正与主要客户就2027年HBM供应进行商讨。
-- OpenAI：发布开源的代码安全命令行工具。
+- OpenAI发布开源版Codex Security CLI
 - SK海力士：预计下半年位元出货量增长将高于上半年。
 产品销售结构影响了二季度的平均销售单价。
 - SK海力士承诺，将通过长期协议巩固其在HBM领域的领先地位。
+- 美国44个州的检察长发函CFTC：该机构无权监管预测市场平台上的体育相关事件合约
 - SK海力士：人工智能基础设施投资在2027年以后仍将保持稳健。
 预计长期协议不会导致供应过剩。
 长期协议条款各不相同，但通常为5年。
-- 美国与沙特阿拉伯打击伊拉克境内由伊朗支持的武器据点。
+- 美军称打击伊拉克境内受伊朗支持的目标
 - SK海力士：目前没有看到人工智能投资放缓的迹象。
-- 美参议院批准杰伊·克莱顿出任美国家情报总监
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 思佳讯：董事会用20亿美元回购计划取代原来的回购计划，决定不宣布任何季度派息。
-- Teradyne（泰瑞达）二季度净营收13.3亿美元，分析师预期12.2亿美元。
-二季度调整后每股收益（EPS）为2.47美元，分析师预期2.04美元。
-预计三季度营收12亿-13亿美元，分析师预期10.4亿美元。
-预计三季度调整后EPS为
-- 行业周报：美国上周API原油库存减少大约330万桶
-- 周二（7月28日），美股行业ETF多数收涨，全球航空业ETF涨2.87%，医疗业ETF涨2.38%，网络股指数ETF涨1.59%，能源业ETF跌1.35%，科技行业ETF跌1.84%，全球科技股指数ETF跌2.08%，半导体ETF跌3.45
-- 希捷科技第四财季营收36.5亿美元，分析师预期34.9亿美元。
-第四财季调整后每股收益（EPS）为5.71美元，分析师预期5.08美元。
-第四财季调整后运营利润率44.6%，分析师预期41.9%。
-预计第一财季营收40亿-42亿美元，分析师
-- 藤森庆子宣誓就任秘鲁总统
-- 提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。
-- 周二（7月28日），美股存储芯片与硬件供应链指数跌9.11%，连续三个交易日下跌（累跌20.20%），报172.37点，较6月22日所创收盘历史最高位累计回撤将近37.31%。
-美股存储芯片概念股普跌，闪迪收跌14.25%，Rambus跌8
-- Bloom Energy二季度调整后每股收益（EPS）为0.78美元，分析师预期0.40美元。
-二季度营收10.7亿美元，分析师预期8.387亿美元。
-预计全年营收39亿-42亿美元，公司原本预计34亿-38亿美元。
-- 科磊第四财季营收36.6亿美元，分析师预期36亿美元。
-第四财季资本开支8930万美元，分析师预期9630万美元。
-预计第一财季营收38亿-42亿美元，分析师预期39.4亿美元。
 
 ## SCMP (EN/中)
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 油价重挫兼暑运旺季，中资航空股升势却昙花一现
-- 长鑫首挂飙4.6倍 A股新股王
+- 小米即将发布新车，车企密集布局机器人，汽车股齐急升
+- 青海兴海县1日四连震 2次超5级
 - 日本熊本7.1级地震 商场塌30员工失踪
-- 长鑫“屠龙”易，“1到100”难
+- 好奇害死猫，FOMO接飞刀
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -111,9 +106,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25310.85+103.67(+0.41%)
+- 恒生指数25807.92+497.07(+1.96%)
                     etnet.com.hk@copyright
-- 国企指数8436.25+70.87(+0.85%)
+- 国企指数8623.52+187.27(+2.22%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -126,34 +121,36 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 伊朗突襲美軍基地，WTI原油反彈3%；SK海力士、希捷科技、福特汽車、Bloom Energy、泰瑞達績後上漲；中際旭創今日港股暗盤；微軟、Meta、高通美股盤後將公佈業績
-- SK海力士Q2利潤暴增六倍仍「未達標」，與10家客戶敲定長協，HBM4下半年將加速放量
-- 希捷電話會：全年每季毛利率都會漲，近線產能鎖至2028、客戶還在搶2029，存儲需求「不是單季爆發」
-- 今夜無眠！聯儲局決議陷入史詩級不確定性，華爾街上演「空前對決」
-- BTC納指相關性觸底，FOMC決議失效？
-- 美股收盤 | 費半指數跌破關鍵支撐，納指承壓，道指漲1%；藍籌股獲資金追捧，蘋果首破5萬億美元，可口可樂績後漲5%創新高；油價三連跌
-- SK海力士2026年Q2營收79.3萬億韓元，分析師預期83.85萬億韓元；營業利潤60.54萬億韓元
-- AI存儲需求炸裂，希捷上季營收超預期增近50%、毛利率大幅躍升突破50%，指引更強勁
+- 聯儲局決議今夜凌晨2:00來襲！華爾街緊盯這四大看點……
+- Margin Call響起！AI暴跌導致對沖基金「史詩級」虧損，高盛、摩根大通率先追保
+- 「好得不能再好」！SK海力士利潤暴增六倍，但機構警告：這或已是巔峰
+- 台積電熊本工廠震後啓動分階段復產，設備詳細檢查仍在進行，擴建施工因餘震暫停
+- 美股投資必備！8月重磅大事搶先看，這些影響漲跌的日子都圈出來了
+- Alphabet失利在前，微軟、Meta今晚能逃過AI資本支出「詛咒」嗎？
+- 多年來「最不確定」的一次！今晚凌晨2:00的聯儲局會給「驚嚇」嗎？
+- 北水減倉港股近56億港元，淨買入阿里巴巴超13億港元，加倉騰訊控股超8億港元，淨賣出中芯國際逾20億港元，拋售小米集團超19億港元
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 蘋果市值首破5萬億美元重奪全球第一：不燒錢的AI策略，正成爲最稀缺的避險屬性
-- OpenAI「失控智能體」入侵Modal Labs的一名客戶
-- 非正式停火告吹，伊朗今晨向美軍基地發射導彈，原油應聲走高
-- 恩智浦Q2營收與Q3指引均超預期
-- OPEC+計劃9月後暫停增產，稱將評估伊朗戰爭對供應的影響
-- 成交額TOP20 | 閃迪重挫14%，SK海力士、美光跌9%；康寧績後跌超12%；亞馬遜全力押注旗艦模型；谷歌最高440億美元擔保數據中心租賃
-- 伊朗開價重開霍爾木茲海峽：船須走伊朗水道，廢TSS、禁第三方排雷
-- xAI推出AI編程產品：Grok Build模式可通過自然語言生成網站、應用
-- 費城半導體指數跌破11200點關鍵支撐，AI牛市懸了！
-- 恩智浦2026財年Q2營收34.96億美元，同比增長19%；調整後每股收益3.61美元
+- 存儲暴跌之際，希捷送上一劑「強心針」
+- 高質量+稀缺消費接管AI暴跌後的投資基調! 愛馬仕以41%利潤率與129億歐元現金守住稀缺性溢價
+- 收市速睇 | 三大指數齊升，科指漲近3%，恒指漲近2%；科網股上揚，小米漲近9%，騰訊漲超4%；新消費概念、汽車股走強，布魯可大漲近16%，理想汽車漲近10%
+- 「不該這麼快推出」！韓國財長就槓桿ETF致歉，金融委員會會長：考慮限制准入並下調槓桿倍數
+- 韓媒：財政部、金融委員會、金融監督院、韓國銀行將於當地時間下午6時召開緊急市場會議
+- AI擁擠交易迎來大清算！科技巨頭割裂分化，資金血洗半導體奔入「價值避風港」
+- 小米集團續漲，澎程系列新車明晚亮相，機器人領域取得多項進展
+- 韓國政府「暫不救市」，稱目前無需啓動平準基金，股市暴跌不全怪槓桿ETF
+- 渣打集團發佈2026年中期業績，除稅前溢利48億美元，同比增加9%，宣佈新一輪10億美元的股份回購計劃
+- 韓股能否「收復失地」？野村：從「去槓桿」到「回購救市」
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中)
-- 加密货币: 富途资讯 (繁中)
+- 美联储: Yahoo Finance (EN), Benzinga (EN)
+- 美国关税: Yahoo Finance (EN)
+- 油价/霍尔木兹: 华尔街见闻 (简中)
+- 加密货币: Yahoo Finance (EN)
+- 就业数据: Yahoo Finance (EN)
+- 中国/欧盟: Benzinga (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
