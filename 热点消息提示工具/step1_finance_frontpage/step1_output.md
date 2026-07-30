@@ -3,27 +3,21 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 31m | The chip crash is exposing the brutal cost of leverage | US stocks steady ahead of Fed decision, AI earnings test | What are credit default swaps and why are they spooking AI investors? | US stocks steady ahead of Fed decision, AI earnings test | What are credit default swaps and why are they spooking AI investors? | Fed expected to hold rates steady, but Iran war adds tension | GE HealthCare profit beats thanks to imaging demand, tariff refunds
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Why Apple is set for its strongest quarterly sales growth in 5 years | SK Hynix stock slumps 10% after record profit still falls short
+  - 头版/首屏: U.S. markets closed | Meta tumbles after earnings miss | Divided Fed holds interest rates steady | Warsh gets the 'good family fight' he wanted as 3 officials dissent | Divided Fed holds interest rates steady | Warsh gets the 'good family fight' he wanted as 3 officials dissent | SpaceX stock sags again to a new low as earnings approach | Moms are showing us that child care is an economic issue
+  - 其他: Top Stories | Markets & Economy | Tech & AI | Microsoft jumps after earnings beat highlights cloud growth | Qualcomm earnings top revenue expectations
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Microsoft Likely To Report Higher Q4 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call | HYPE Is Cheaper Than COIN, HOOD, CRCL, PYPL, Grayscale Argues—So Why Is PURR Going Down? | AI Valuations Take Flight, While China’s Low-altitude Economy Crashes Into Reality | Wall Street's Most Accurate Analysts Give Their Take On 3 Industrials Stocks Delivering High-Dividend Yields | Elizabeth Warren Offers a 'Theory' on Why Trump Refused To Sign Bipartisan Housing Bill: 'No Gold Statues...No Gold Bars'
+  - 其他: Woman, 24, Says She Just Found Out Her Parents Emptied A $9,000 Childhood Savings Account She Didn't Know Existed — 'It Was Supposed To Be Mine' | Congressman Makes First Stock Trade in Office: Here’s The Magnificent Seven Name He Sold | Maxing Out a 401(k) Is Often Treated as a No-Brainer, But Do People Over 50 Regret it? 'The Ones That Died Early Aren't Here to Speak About it' | Ares Flags More Distressed Borrowers as AI Disrupts Private Credit Portfolio | FormFactor Stock Surges on Better-Than-Expected Q2 Earnings
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 宝洁第四财季销售净额212.0亿美元，预估213.4亿美元。
-第四财季内生性收入增长0％，预估增长1.85％。
-第四财季核心每股收益1.43美元，预估1.41美元。
-宝洁预计2027年内生性收入增长1％至3％，预估增长2.44％。
-宝洁预计 | 美国7月24日当周MBA抵押贷款申请活动指数周环比 -6.4%，前值 1.9%。 | 伊媒称美空袭伊朗与伊拉克边境地区 | 英美资源集团据悉正洽谈以约10亿美元出售钻石开采与销售公司戴比尔斯。（彭博） | 伊媒称“敌方导弹”击中西阿塞拜疆省一无人居住区 | 英媒：美国轰炸难让伊朗屈服 | 美国将向七家科技公司提供8.74亿美元研发资金 并取得其少数股权 | “敌方发射物”击中伊朗西阿塞拜疆省。（法尔斯通讯社）
-  - 其他: 特朗普：我和内塔尼亚胡的会晤非常愉快，讨论了很多重要议题。 | 美参议院通过制裁俄罗斯和伊朗法案程序性投票 | SK海力士：处于自2027年起量产HBM4E的正轨上。
-正与主要客户就2027年HBM供应进行商讨。 | OpenAI发布开源版Codex Security CLI | SK海力士：预计下半年位元出货量增长将高于上半年。
-产品销售结构影响了二季度的平均销售单价。
+  - 头版/首屏: 美国防长海格塞斯：今天早些时候已与以色列总理内塔尼亚胡会晤。 | 据伊朗新闻电视台30日报道，伊朗南部多地传出爆炸声。（新华社） | 伊朗的基什岛、格什姆岛和阿布穆萨岛附近发生爆炸，阿巴斯港发生爆炸。 | 特朗普周三会见了沙特国防部长。（AXIOS） | 美军再对伊朗发动打击 | 摩根大通将美联储加息预期提前至12月 | 标普500指数期货涨幅扩大至0.5%。 | 中金：美联储按兵不动加剧市场风险
+  - 其他: 金价在美联储决议声明发布日涨0.9%，沃什新闻发布会期间刷新日高 | Meta：涨薪和法务开销造成开支增长。 | 沙特阿拉伯寻求组建联盟以保障红海航运安全。（路透） | 以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”，希望逐步摆脱美方援助 | SpaceX获得美国太空军16亿美元的合同
 
 - **SCMP (EN/中)** ✓
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 小米即将发布新车，车企密集布局机器人，汽车股齐急升 | 青海兴海县1日四连震 2次超5级 | 日本熊本7.1级地震 商场塌30员工失踪 | 好奇害死猫，FOMO接飞刀 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 上季税前多赚2%增派息兼回购​，渣打股价曾飙逾半成 | 青海兴海县1日四连震 2次超5级 | 日本熊本7.1级地震 商场塌30员工失踪 | 好奇害死猫，FOMO接飞刀 | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数25807.92+497.07(+1.96%)
                     etnet.com.hk@copyright | 国企指数8623.52+187.27(+2.22%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -32,31 +26,30 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 聯儲局決議今夜凌晨2:00來襲！華爾街緊盯這四大看點…… | Margin Call響起！AI暴跌導致對沖基金「史詩級」虧損，高盛、摩根大通率先追保 | 「好得不能再好」！SK海力士利潤暴增六倍，但機構警告：這或已是巔峰 | 台積電熊本工廠震後啓動分階段復產，設備詳細檢查仍在進行，擴建施工因餘震暫停 | 美股投資必備！8月重磅大事搶先看，這些影響漲跌的日子都圈出來了 | Alphabet失利在前，微軟、Meta今晚能逃過AI資本支出「詛咒」嗎？ | 多年來「最不確定」的一次！今晚凌晨2:00的聯儲局會給「驚嚇」嗎？ | 北水減倉港股近56億港元，淨買入阿里巴巴超13億港元，加倉騰訊控股超8億港元，淨賣出中芯國際逾20億港元，拋售小米集團超19億港元
-  - 其他: 存儲暴跌之際，希捷送上一劑「強心針」 | 高質量+稀缺消費接管AI暴跌後的投資基調! 愛馬仕以41%利潤率與129億歐元現金守住稀缺性溢價 | 收市速睇 | 三大指數齊升，科指漲近3%，恒指漲近2%；科網股上揚，小米漲近9%，騰訊漲超4%；新消費概念、汽車股走強，布魯可大漲近16%，理想汽車漲近10% | 「不該這麼快推出」！韓國財長就槓桿ETF致歉，金融委員會會長：考慮限制准入並下調槓桿倍數 | 韓媒：財政部、金融委員會、金融監督院、韓國銀行將於當地時間下午6時召開緊急市場會議
+  - 头版/首屏: 富途早報 | 特朗普稱將痛擊伊朗，美軍擬定兩週的空襲方案；三星電子Q2營業利潤同比大增超1800%；績優股微軟夜盤漲近8%，泛林集團漲超8%；蘋果、亞馬遜今日盤後將發佈業績；中際旭創港股今日上市 | 微軟上季雲+AI強勁答卷：Azure收入增超40%，資本支出低於預期，新增數據中心租約超1300億 | 微軟電話會：2026年資本開支「變相」下降，Azure需求持續超越可用容量，AI變現進入加速軌道 | Meta營收超預期難掩AI投入焦慮，Q3指引遜色、自由現金流創四年新低 | 特朗普面臨艱難選擇：美軍司令提出兩週「猛轟計劃」，伊朗戰火或升級 | 沃什：2%通脹目標不動搖，保持獨立性，關注AI變革（附全文） | 沃什拒絕「給方向」，債市自己動手收緊，30年期美債收益率創下2007年以來新高 | 沃什拒絕給方向，美債市場怒了！岡拉克警告：想回2%就必須加息
+  - 其他: 三星電子Q2銷售額171.50萬億韓元，營業利潤89.49萬億韓元 | 美伊和平之路又「添堵」？特朗普誓言報復，還想動用「關稅武器」！ | Meta電話會：AI變現見成效，出售算力是愚蠢的，開源模型不如前沿模型強大 | 成交額TOP20 | Meta十連跌；SK海力士利潤創新高仍遭拋售，美光跟跌10%，希捷漲2%「穩軍心」；黃仁勳擬推5000億美元本土生產計劃 | 美股收盤 | 聯儲局按兵不動難掩鷹派分歧，納指六連跌，道指狂泄逾千點；可口可樂續漲1%年內漲近30%；金龍指數三連陽；美長債收益率飆升
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN) (1 站)
-- **油价/能源/霍尔木兹** — 出现于: 华尔街见闻 (简中) (1 站)
-- **加密货币** — 出现于: Yahoo Finance (EN) (1 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
-- **中国/欧盟** — 出现于: Benzinga (EN) (1 站)
+- **伊朗/中东局势** — 出现于: Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
+- **加密货币** — 出现于: 华尔街见闻 (简中) (1 站)
+- **就业/经济数据** — 出现于: 华尔街见闻 (简中) (1 站)
+- **中国/欧盟** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（4 站）
-- 伊朗/中东局势（2 站）
-- 黄金/大宗商品（2 站）
-- 美联储/利率（2 站）
+- 伊朗/中东局势（3 站）
+- 美联储/利率（3 站）
+- 油价/能源（2 站）
 - 关税/贸易政策（1 站）
-- 油价/能源（1 站）
 - 加密货币（1 站）
 - 就业/经济数据（1 站）
 - 中国/欧盟（1 站）
 - 中国政策（1 站）
+- 黄金/大宗商品（0 站）
