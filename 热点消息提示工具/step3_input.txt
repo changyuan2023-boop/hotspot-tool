@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年7月30日`
+`早间热点线索 · 2026年7月31日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026073020
+抓取时间: 2026073109
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- Microsoft's $41B bet on AI just cleared a major test
-- US stocks rebound ahead of inflation data, more Big Tech earnings
-- Meta's AI spending spree leaves it in a 'compute' dilemma
-- US stocks rebound ahead of inflation data, more Big Tech earnings
-- Meta's AI spending spree leaves it in a 'compute' dilemma
-- 30-year Treasury yield hits highest level since 2007
-- Bond rout sends warning to Warsh that tough talk isn't enough
-- Starbucks pops on sales growth, upbeat earnings outlook
-- Shell profit surges as Mideast war fuels oil prices
-- Jeep maker Stellantis swings to profit on robust N. America demand
-- Rivian preview: R2 production ramp-up, profit path in focus
+- U.S. markets closed
+- Apple falls despite earnings beat
+- Microsoft stock's 15% jump makes stock market history
+- SEC chair defends proposal to allow companies to report earnings only twice a year
+- Microsoft stock's 15% jump makes stock market history
+- SEC chair defends proposal to allow companies to report earnings only twice a year
+- Jersey Mike's stock falls 5% from IPO price, raising nearly $1B
+- Trump faces escalation conundrum as Iran war flares once again
+- Warsh hints at new inflation roadmap, stoking investor angst
+- Tech powers Nasdaq surge, Dow and S&P 500 rebound
+- Rivian reports strong results, lifts guidance
+- Treasury yields jump amid Fed's 'inflation credibility shock'
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- Meta stock tumbles after Q2 earnings fall short
-- Microsoft jumps after earnings beat highlights cloud growth
-- Samsung posts massive 1,800% jump in profit on AI boom
-- Intel to license chip tech to a startup led by CEO Tan's co-investor
+- Amazon soars after earnings showcase strong AI, chip demand
+- Electronic Arts set to close $55B go-private deal next week
+- Meta stock tanks on earnings miss, 'barely passable' quarterly results
+- Why Meta and Microsoft stocks diverged after earnings
 - Popular
-- Rich young Americans are ditching the stock market
-- Jersey Mike's employees get a bite of the $7 billion IPO, thanks to Blackstone
+- Trump's court losses leave taxpayers facing millions in legal fees
+- The rent was already high. Then came the $200 work-from-home fee.
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,51 +145,51 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Red Cat Trending After Landing $2.49 Million Air Force Contract for Black Widow Drones
-- This Lemonade Analyst Is No Longer Bearish; Here Are Top 5 Upgrades For Thursday
-- These Analysts Revise Their Forecasts On Tenable Holdings Following Q2 Earnings
-- Happy Birthday, Ethereum! 'ETH's New Leadership Era Is Here,' Expert Says
-- SiteOne Landscape Supply Analysts Cut Their Forecasts After Downbeat Q2 Results
-- Stock Market Today: S&P 500, Nasdaq 100 Futures Gain as Federal Reserve Holds Interest Rates—Meta, Microsoft, Apple in Focus
-- Federal Reserve
-- Kevin Warsh
-- Mark Zuckerberg
-- Stock Market: Will S&P 500 Open Up or Down Today?
+- My 52-Year-Old Wife Inherited $780K From Her Dad and Won't Tell Me Where She's Investing It. She Told Me, 'It's Mine to Protect, Even From You'
+- I'm 66 With Nothing Saved for Retirement. Dave Ramsey Says It's Still Worth Investing. Here's How Much Saving 15% Could Add Up to in 10 Years
+- Elon Musk Says Only 1% of Government Workers Actually Work 40 Hours a Week — Aside From Security Guards or Maintenance Crews
+- Forget XRP, Bitcoin: These 3 Coins Are Signaling 20%+ Upside Right Now
+- Scott Bessent Presses Senate On 'Floor-Ready' CLARITY Act, Tom Lee Agrees: 'This Needs to Be Passed'
+- Jensen Huang Wants Open-Source AI Models: BofA Says Chipmakers Get Paid Either Way
+- Inflation
+- First Solar Shares Climb After Mixed Q2 Report — Details
+- Elon Musk Sees Humans on Mars in 5–7 Years — And He Has $112 Billion Riding on It
+- Stock of the Day: SoFi Bounces Off Support — Is There More to Come?
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 雷军：现在油价这么贵，我要求团队一定要支持92号油
-- 美股存储板块盘前走强，美光科技、SK海力士涨超3%，闪迪涨6%。
-- 雷军：小米想打造“可移动的房子”，有SUV外观、驾驶性和通过性，还有类似房车的空间和布置的灵活性
-- 雷军：小米澎程综合续航最高1705km，从上海开到北京中间绝对不用充电和加油
-- 京东与七腾机器人达成战略合作
-- 雷军：小米汽车累计交付70多万辆
-- 伊朗军方称打击约旦美军基地并摧毁3架F-35战机
-- 携程回应“1.5万元国际机票仅退款432元”事件：已补偿该订单退票损失费用14727元。
-- 小米辟谣“小蓝灯”“小米澎程F码”相关网传信息
-- 伊朗伊斯兰革命卫队：周四早上瞄准了位于约旦的美国基地。
-- SK海力士美股盘前转涨，此前一度跌近5%，报道称SK集团会长崔泰源买入3600股SK海力士。
-- 网易副总裁庞大智：游戏行业呼唤更高维度的“原创力”
+- 特朗普将于美东时间周五上午11点在戴维营主持召开内阁会议。
+- 特朗普下令限制美国出口含关键矿产工业废料
+- 华尔街见闻早餐 | 2026年7月31日
+- 苹果第三财季分析师电话会议要点总结：存储芯片百年一遇的暴涨，CEO库克卸任致辞
+- Monolithic Power业绩强劲且指引超预期，股价盘后大涨
+- 黑石集团将斥资250亿美元，收购汇丰澳大利亚250亿美元房贷资产包
+- 环球时报：美多名议员阻挠苹果采购中国芯片
+- 知情的市场消息人士表示，日本干预了日元。（彭博）
+- Xbox CEO在备忘录中针对利润率目标表示，微软计划将Xbox的利润率提升至与竞争对手们相一致的水平。（CNBC）
+- 美股存储芯片指数收涨超16.9%，闪迪涨约26%，SK海力士ADR涨超17.5%
+- 美国财长：日元似乎被“严重低估”
+- 提醒：日内请重点关注（以下均为北京时间）
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 伊朗的基什岛、格什姆岛和阿布穆萨岛附近发生爆炸，阿巴斯港发生爆炸。
-- 特朗普周三会见了沙特国防部长。（AXIOS）
-- 美军再对伊朗发动打击
-- 摩根大通将美联储加息预期提前至12月
-- 标普500指数期货涨幅扩大至0.5%。
-- 中金：美联储按兵不动加剧市场风险
-- 德国7月CPI同比初值 2.8%，预期 2.7%，前值 2.3%。
-- 德国7月CPI环比初值 0.8%，预期 0.7%，前值 -0.3%。
-- 德国7月调和CPI环比初值 0.9%，预期 0.8%，前值 -0.2%。
-- 德国7月调和CPI同比初值 2.8%，预期 2.8%，前值 2.4%。
+- 标普500指数的11个板块中，信息技术/科技板块收涨5.24%，可选消费板块涨1.57%，原材料板块涨1%，电信板块跌2.52%。
+- 周四（7月30日），美股行业ETF多数收涨，半导体ETF涨6.88%，全球科技股指数ETF、科技行业ETF至少涨5.5%。
+- 周四（7月30日），彭博电动汽车价格回报指数涨1.78%，报3315.10点，亚太早盘冲高回落、北京时间13:03刷新日低至3250.10点之后持续上扬。
+- Roblox二季度营收14.7亿美元，分析师预期14.2亿美元。
+- Coinbase连续第三季度营收下滑并录得亏损
+- Reddit业绩指引强劲，但暂无新AI数据授权协议
+- 第一太阳能维持全年资本开支预期在8亿-10亿美元不变，分析师预期8.758亿美元。
+- 微软市值单日大增4500亿美元，创个股历史之最
+- 亚马逊AWS净销售超预期，股价盘后涨9%
+- 中概指数收涨1%，KWEB涨超0.9%，世纪互联涨约16.4%，日月光半导体涨超11.7%，万国数据涨约8.1%，新东方跌3.4%
 
 ## SCMP (EN/中)
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 百威亚太业绩对办股价曾飙一成，其他饮料股也可再吼？
+- 联储局维持利率不变惟分歧明显，地产股银行股暂缺方向
 - 数学奖特稿“王的猜想”走红 报纸加印
-- 熊本地震增至14死 6心肺停止4失踪
+- 日本熊本地震累计34死 256次余震阻救援
 - 沃什秀口才游花园，9月加息藏两暗礁
 - 指数环球商品外汇
 - 国金观点
@@ -214,35 +214,35 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 今晚20:30，GDP與PCE數據或改變9月利率定價
-- 同一晚兩份業績，微軟爲何能跑贏Meta？
-- 緊急救市！報道：韓國監管層擬重啓賣空禁令、縮小30%漲跌停板限制
-- 摩通：美股AI獨舞背後，一個傳統板塊正迎來盈利拐點
-- SemiAnalysis：AWS、Meta推行「模塊化」數據中心，建設週期壓縮36%、降本8%
-- 北水拋售港股近86億港元，淨買入騰訊控股超10億港元，淨賣出中芯國際近13億港元，減倉阿里巴巴逾11億港元
-- 霍爾木茲航運逆勢回暖難掩安全溢價，全球油氣貿易進入「護航時代」
-- 收市速睇 | 三大指數漲跌不一，科指跌超1%；半導體股走低，天數智芯跌近15%，中芯國際跌近8%；新東方績後大漲近19%；中際旭創上市首日跌超2%
+- AI信仰重塑？韓股飆升15%創紀錄，崔泰源卡在申報紅線下「抄底」，SK海力士應聲暴漲25%，日股升4%，軟銀大漲15%觸及漲停
+- 富途早報 | 特朗普稱哈馬斯同意解除武裝，以色列將撤軍；Meta報告稱未來支出承諾接近7000億美元，亞馬遜績後大漲9%，上調全年資本支出至2200億美元；日股鎧俠盤後將公佈業績
+- 特朗普宣佈加沙和談破局：哈馬斯同意全面解除武裝
+- 爲日本干預站臺！美國財長貝森特：日元「非常低估」
+- 蘋果上季iPhone收入增22%略超預期，但服務和中國市場業績遜色，警示供應短缺傷害
+- 亞馬遜電話會：在手訂單近5000億美元，CEO豪言「AWS將成萬億美元業務」，內存成本推高資本支出
+- 日韓股市強勁反彈，韓股一度飆升14%創歷史最大漲幅
+- 「AI股神」崩了，「帶血的籌碼」出了，華爾街押注AI見底了
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 高盛：市場仍處"後去槓桿廢墟"，但風險尚未出清，建議主動買入保護
-- 三星電話會：存儲供不應求「明年比今年更緊張」，60-70%產能分給長期協議，HBM4收入將佔六成
-- 中共中央政治局召開會議 決定召開二十屆五中全會 分析研究當前經濟形勢和經濟工作
-- 安克創新盤中創新高，近期正式進入港股通，儲能與智能家居業務高速放量
-- 港股銀行股普漲，「五大行」齊創歷史新高
-- 港股午評 | 三大指數漲跌不一，科指跌1.14%；新消費概念股、銀行股上漲，鳴鳴很忙漲超5%，老鋪黃金漲超3%，農業銀行漲超2%；半導體股走弱，天數智芯跌近10%，華虹宏力跌超8%
-- OpenAI年化收入提速，CFO內部喊話：7月一個月頂過整個二季度
-- 賽力斯股價上漲，問界M6純電Max+開啓交付，公司前瞻佈局機器人業務
-- 近半個世紀來最鎮不住場的聯儲局主席？沃什第二次開會就爆3票反對！
-- 警惕地緣衝突尾部風險，機構給出美伊局勢下兩大紅線：美軍地面部隊直接參戰、曼德海峽封鎖
+- 華爾街「AI股神」據傳遭遇強平風暴，老牌資本笑納「帶血籌碼」
+- Strategy二季度計提82億美元比特幣減值損失！塞勒調整囤幣策略，強化流動性管理以應對加密寒冬
+- 庫克最後一場蘋果電話會：外匯和供應限制打壓業績指引，飆升的存儲成本重壓毛利率，「爲供應鏈受限苦苦掙扎」，「正評估所有的供應選項」
+- 蘋果庫克的最後一份業績贏了業績，輸了預期
+- 亞馬遜大漲！AWS以37%的超預期增速回應AI燒錢質疑，市場無視現金流轉負、資本開支上調
+- 美股收盤 | AI股神倒在黎明前，費半指數漲逾8%；雲存光爆拉，閃迪飆漲26%，NEBIUS大漲27%，Lumentum漲超15%；美元跳水，黃金奪回4100
+- 成交額TOP20 | 微軟飆漲15%，市值暴增4500億美元創股市之最；Meta承諾近7000億美元支出；谷歌發佈新一代機器人AI；台積電攻堅先進芯片封裝技術
+- 韓國被曝罕見拋售美元，交易員懷疑日韓聯手干預匯市
+- 日元盤中暴漲超3%！日媒稱日本再幹預，分析師稱「順勢出手」時機聰明
+- 美國PCE數據後長端美債壓力未解：30年期收益率逼近5.2%，期限利差走闊
 
 --- 跨站重点主题（多站出现=更重要）---
+- 美国关税: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 伊朗/中东: 华尔街见闻 (简中)
-- 美国关税: 富途资讯 (繁中)
-- 加密货币: Benzinga (EN)
-- 中国政策/两会: 华尔街见闻 (简中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
+- 加密货币: Benzinga (EN), 华尔街见闻 (简中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
+- 油价/霍尔木兹: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
