@@ -3,55 +3,56 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | Leopold Aschenbrenner just learned Wall Street's oldest lesson | Trump says yen intervention is signal of friendship with Japan | Trump holds off Iran strikes on pledge a Hormuz deal is close | Trump says yen intervention is signal of friendship with Japan | Trump holds off Iran strikes on pledge a Hormuz deal is close | Chevy's halo car with new V8, hybrid power hits the sweet spot | 3 brilliant quotes on the challenge of valuing companies
-  - 其他: Top Stories | Markets & Economy | Tech & AI | 6 Congresspersons bought SpaceX stock, including one Democrat | Apple's iPhone leasing program: How it works, what to consider
+  - 头版/首屏: U.S. markets open in 1h 30m | Morgan Stanley's Wilson: Earnings will revive momentum trade | AMD to report Q2 earnings as chip stocks continue to waver | July jobs report, SpaceX earnings, AI struggles: What to watch | AMD to report Q2 earnings as chip stocks continue to waver | July jobs report, SpaceX earnings, AI struggles: What to watch | Leopold Aschenbrenner just learned Wall Street's oldest lesson | How US drinkers fell out of love with Bud Light
+  - 其他: Top Stories | Markets & Economy | Tech & AI | India eyes extending tax breaks for contract manufacturing | SpaceX's first results put Musk's AI spending under microscope
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: SanDisk Stock is Down 50% From the YTD High: Will Earnings Spark a Rebound? | AMC Stock Forms Golden Cross as Newest 'Spider-Man' Sets Eyes Opening Day Record | AMD Stock Rally Stalls Ahead of Earnings as Options Predict a 12% Move | We're 49, Debt-Free Except for a $120K Mortgage, and Have a $2.5M Net Worth. Should I Still Be Maxing Out My 401(k)? | RSP ETF Beating VOO, SPY as S&P 500 Equal Weight Fund Nears $100 Billion Milestone
+  - 其他: How To Earn $500 A Month From Caterpillar Stock Ahead Of Q2 Earnings | ArcelorMittal Expands Microsoft Partnership To Accelerate AI-Led Digital Transformation | This One-Year-Old Start Up Built a CUDA Rival in Just 10 Hours — Is Nvidia's Moat Under Threat? | S&P 500 Faces ‘Worst Two Months’ of the Year: Wall Street Strategist Warns Investors to Brace for August and September Volatility | Top Wall Street Forecasters Revamp Clorox Expectations Ahead Of Q4 Earnings
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 摩根大通：将美联储加息时点预期提前至12月，10年期美债收益率料在4.85% | 随着美伊将重启谈判，美国国债收益率全线下跌。 | 美军称对伊朗海上封锁仍在继续 | 7月新能源车企销量分化，年度目标完成进度拉开差距 | 华尔街见闻早餐 | 2026年8月3日 | 提醒：日内请重点关注（以下均为北京时间） | 英国海军：有油轮报告8月2日近距离听到爆炸声。 | 特朗普称美伊3日将举行谈判
-  - 其他: 银行间主要利率债收益率盘初普遍下行，30年期国债“26超长特别国债02”收益率下行1bp报2.1750%，10年期国债“26附息国债10”收益率下行0.3bp下破1.70%关口，现报1.6980%，创6月1日以来新低。 | 两市融资余额增加46.58亿元 | 日元兑美元短线持续拉升，日内上涨200多点或1.4%，报155.30。 | 日元兑美元盘中涨破156.00关口，日内涨约1%。 | 阿曼附近一艘油轮报告听到爆炸声
+  - 头版/首屏: 纳斯达克100指数期货回吐日内全部涨幅，存储芯片概念股盘前走低，美光科技跌5%，SK海力士、闪迪跌超4%。 | 礼来盘前涨约1%，Olomorasib获美国FDA突破性疗法认定，用于胰腺癌治疗。 | 三菱日联预计美联储或于2027年降息 | 小米：2人使用AI生成虚假车祸视频抹黑公司被处罚。 | 调查：八成以上美国金融业高管认为 AI技能比MBA更有价值 | 阿斯利康：英卓凡正式在华上市 | 伊朗处决两名为以色列提供情报的间谍 | 威廉姆斯：通胀将在下半年回落，利率仍处于良好位置
+  - 其他: 澳大利亚首次出现H5型禽流感导致大规模鸟类死亡事件 | 北京君正：香港联交所审议公司发行H股。 | 泽连斯基任命乌梅罗夫出任乌克兰对外情报局局长 | 瑞幸咖啡第二季度净营收158.9亿元人民币，同比增长29%，预估154.3亿元人民币。
+第二季度净利润14.9亿元人民币，同比增长19%。
+第二季度经调整每股ADS净收益5.44元人民币，同比增长24%。 | 石大胜华：全资子公司胜华新能源科技（东营）有限公司的下属企业东营石大胜华新能源有限公司拟投资建设23万吨/年液态锂盐项目，项目预计总投资19亿元，项目报批投资17.97亿元。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: China’s military goal is to stand neck and neck with  US: ex-PLA colonel Zhou Bo | Science | Chinese rocket scientists find ‘most effective’ way to nuke a doomsday asteroid | Banking & Finance | AIIB explores digital payments, eyes Hong Kong hub as it raises record funds | 2 fire service contractors linked to Tai Po tragedy still in business | Military | ‘Rich and powerful options in South China Sea toolbox’: Beijing warns Manila
-  - 其他: Prominent commentator shares insights on the PLA’s 2027 goal, competition with the US, the Taiwan issue and the peacetime dilemma. | Lawmakers concerned about public safety and potential project abandonment as SCMP investigation reveals China Status and Victory Fire’s active status. | Strongly worded PLA Daily article is latest in a series of countermeasures as Scarborough Shoal row flares, including military drills. | China EVs | Price war fears grip China’s EV market after woeful July sales figures
+  - 头版/首屏: China’s DeepSeek tests AI ‘harness’ as cheap V4 model jolts Silicon Valley | China Economy | AI boom, factory gloom: China tech soars while traditional industries feel chill | Global Economy | Rare US-Japan intervention as yen hits 40-year low: what does it mean? | Health & Environment | Non-stop summer rain leaves Hong Kong farmers with heavy losses as crops fail | Military
+  - 其他: Hangzhou-based firm is recruiting developers to test software that turns language models into autonomous agents, escalating price war with US rivals. | Farmers in Yuen Long suffer six-figure losses as frequent downpours flood sunflower, melon and vegetable fields. | Are commercial sea drones new headache for PLA in South China Sea and Taiwan? | A crewless vessel’s footage of a Chinese warship operating near the Philippines highlights their potential intelligence-gathering role. | Lifestyle & Culture
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 联储局维持利率不变惟分歧明显，地产股银行股暂缺方向 | 沪指险守3800关 创指年内涨幅几抹平 | 日本熊本地震累计34死 256次余震阻救援 | 沃什秀口才游花园，9月加息藏两暗礁 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25884.43+25.55(+0.10%)
-                    etnet.com.hk@copyright | 国企指数8612.15-32.56(-0.38%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 联储局维持利率不变惟分歧明显，地产股银行股暂缺方向 | 超强台风“白海豚”逼近 浙苏部署防御 | 欧盟开紧急会议 商休达偷渡潮危机 | 日圆干预偷袭：this time is different? | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数26009.40+124.97(+0.48%)
+                    etnet.com.hk@copyright | 国企指数8652.15+40.00(+0.46%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 美伊或將明日舉行談判，三大美股期指齊漲，WTI原油跌近5%；貝森特稱上週五與日本協調幹預日元；亞馬遜完成對OpenAI總計500億美元全額投資；Palantir業績今日美股盤後將發佈 | 特朗普叫停對伊新打擊，稱美伊3日將舉行談判，伊朗重申「不會恢復至戰前」 | 美日聯合干預：新「廣場協議」，佈雷頓森林體系2.0的開端與日元套利時代的終結 | 一週前瞻 | 密集出爐！美國7月非農數據週五發佈，中國7月CPI、PPI週日公佈；SpaceX上市後首份業績來襲，疊加大規模解禁考驗流動性；AMD、閃迪、西部數據將發佈業績 | 特朗普高調背書美日聯手託市、貝森特筆記泄露天機，日元空頭瑟瑟發抖 | 8月港股「分紅除淨清單」：10只高息股全梳理，最高每手收息1020港元 | 美國財長貝森特稱上週五與日本協調幹預日元 | 中信建投：日元再幹預，本次何不同？
-  - 其他: AI能否回本？科技巨頭上週的股價走勢，市場給出了答案 | 部署下半年八大重點！央行定調：適時調整、加力擴內需 | 韓國存儲調研：三星長協「限制跌幅、不限漲幅」，現貨價格在四季度旺季前持續反彈 | 被「忽略」的市場大事：美日韓聯合干預，美國財政部「罕見」下場！貝森特悄悄「救市」？ | 伊朗軍方：特朗普稱伊朗要求停止攻擊是「謊言」
+  - 头版/首屏: 「InP短缺將比內存更嚴峻」！Lumentum、SemiAnalysis警告：光互聯成AI新瓶頸 | 北水掃貨港股超110億港元，淨買入阿里巴巴逾41億港元，加倉騰訊控股超24億港元，淨賣出中芯國際逾10億港元 | 華爾街大行：美股最猛烈拋售或已過 但「抄底」仍有風險 | 三星晶圓代工產能利用率年內預計將達100%，扭虧爲盈進入倒計時 | 谷歌表外擔保規模9個月漲6倍至438億美元，用「財務兜底」換TPU芯片訂單 | 一週前瞻 | 密集出爐！美國7月非農數據週五發佈，中國7月CPI、PPI週日公佈；SpaceX上市後首份業績來襲，疊加大規模解禁考驗流動性；AMD、閃迪、西部數據將發佈業績 | 收市速睇 | 三大指數齊漲，科指漲近1%；科網股上行，阿里漲7%，騰訊、快手漲超3%；存儲概念下跌，南方兩倍做多海力士跌近17% | AI牛市最糟糕的時候過去了嗎？華爾街：真正的考驗才剛開始
+  - 其他: 伊朗外交部稱目前沒有在與美國進行會談 | 18.8萬桶象徵性增產後，歐佩克+靜待霍爾木茲海峽「開閘」 | 美國罕見干預的背後：託日元實爲護美債，但根本矛盾仍未消除 | 韓股巨震不止！監管層醞釀「大招」 擬緊急時調降槓桿產品倍數 | SpaceX首次業績本週重磅登場！除業績外，市場還將關注這些
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (3 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
+- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (3 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN) (1 站)
 - **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
-- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
+- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 伊朗/中东局势（5 站）
 - 科技股/个股（5 站）
-- 中国政策（3 站）
-- 关税/贸易政策（2 站）
-- 油价/能源（2 站）
-- 黄金/大宗商品（2 站）
-- 中国/欧盟（2 站）
+- 伊朗/中东局势（4 站）
+- 中国/欧盟（3 站）
+- 美联储/利率（2 站）
+- 油价/能源（1 站）
 - 就业/经济数据（1 站）
-- 美联储/利率（1 站）
+- 黄金/大宗商品（1 站）
+- 中国政策（1 站）
+- 关税/贸易政策（0 站）
 - 加密货币（0 站）
