@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年7月31日`
+`早间热点线索 · 2026年8月3日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026073120
+抓取时间: 2026080309
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- Stock buybacks are losing their punch thanks to the AI boom
-- AI gets a reprieve in Griffin's rescue of Situational Awareness
-- Nasdaq climbs despite Apple's post-earnings slide
-- AI gets a reprieve in Griffin's rescue of Situational Awareness
-- Nasdaq climbs despite Apple's post-earnings slide
-- Chevron earnings beat forecast as refining margins soar, rival Exxon misses estimates
-- Trump administration rolls back red tape on smallest US banks to boost lending
-- Fed's Warsh faces hard choice on inflation after bond market's 'red flag'
-- Trump lifts red tape on smallest US banks to boost lending
-- Korean stocks jump record 14% on renewed AI trade optimism
-- Oil prices head for 20% monthly gain despite recent slide
+- U.S. markets closed
+- Leopold Aschenbrenner just learned Wall Street's oldest lesson
+- Trump says yen intervention is signal of friendship with Japan
+- Trump holds off Iran strikes on pledge a Hormuz deal is close
+- Trump says yen intervention is signal of friendship with Japan
+- Trump holds off Iran strikes on pledge a Hormuz deal is close
+- Chevy's halo car with new V8, hybrid power hits the sweet spot
+- 3 brilliant quotes on the challenge of valuing companies
+- Oil slumps as Trump holds off Iran attack as talks to resume
+- What the changes in entry-level jobs mean for new college graduates
+- What soaring Treasury yields mean for your finances
+- Trump just invoked a 1930 tariff law no president has ever used
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- Apple is growing without the AI spending spree: Chart of the Day
-- Apple sinks despite earnings beat as China sales disappoint
-- Musk dismisses report of Tesla's potential China business sale
-- Anthropic's Claude AI hacked three companies during tests
+- 6 Congresspersons bought SpaceX stock, including one Democrat
+- Apple's iPhone leasing program: How it works, what to consider
+- Rivian spinoff Also to start delivering e-bikes after months of delays
+- AI is creating a two-speed jobs market in the UK: Indeed
 - Popular
-- The 'magic number' you need for $12K/month in retirement
-- Tim Cook signs off final Apple earnings call with a warning
+- Equifax's $2.2 million credit settlement: who qualifies
+- Jensen Huang says AI centers will unlock 6-figure trades jobs
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,52 +145,66 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- CoreWeave Trending After Partnering With Leidos to Bring AI Cloud to National Security
-- Rivian Stock Jumps After Q2 Double Beat, R2 Deliveries Begin
-- This Plexus Analyst Turns Bullish; Here Are Top 4 Upgrades For Friday
-- Jim Cramer Says INTC Stock ‘Belongs at $110,’ Blames Situational Awareness Blowup for Intel’s Post-Earnings ’Hideous Selling’
-- Magna International Stock Hits 52-Week High - Here's Why
-- Stock Market Today: S&P 500, Dow Jones Futures Rise After Cooler June PCE Inflation Data—Apple, Amazon, Coinbase in Focus
-- Inflation
-- Elon Musk Dismisses Report Tesla Could Sell Chinese Business for SpaceX Merger: 'Absurdly Fake News'
-- Wall Street's Most Accurate Analysts Weigh In On 3 Materials Stocks With Over 4% Dividend Yields
-- 'The Breakout the Stock Needed': Analyst Cheers Amazon's AWS Surge
+- SanDisk Stock is Down 50% From the YTD High: Will Earnings Spark a Rebound?
+- AMC Stock Forms Golden Cross as Newest 'Spider-Man' Sets Eyes Opening Day Record
+- AMD Stock Rally Stalls Ahead of Earnings as Options Predict a 12% Move
+- We're 49, Debt-Free Except for a $120K Mortgage, and Have a $2.5M Net Worth. Should I Still Be Maxing Out My 401(k)?
+- RSP ETF Beating VOO, SPY as S&P 500 Equal Weight Fund Nears $100 Billion Milestone
+- Bill Ackman Warns NYC's Luxury Home Tax Will Backfire, Says It Could Lower Property Values and Tax Receipts
+- Bill Ackman
+- Elon Musk
+- PayPal Shares Pause as Raised Guidance Validates Turnaround Narrative
+- Chuck Schumer Says 'Trump Is Making Americans Less Safe,' Links Iran War to Cyberattacks on US Water Systems
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 因虚假发票担忧，交易商与Radiant World断绝关系，意大利银行Intesa Sanpaolo与Jefferies旗下基金正在审查对Radiant World的风险敞口。
-- 艾伯维二季度净营收169.9亿美元，预估167.7亿美元。
-二季度调整后每股收益3.65美元，预估3.61美元。
-艾伯维预计全年调整后每股收益为13.87至14.07美元，此前预期为13.91至14.11美元。
-艾伯维美股盘前跌近3%。
-- 诺和诺德盘前跌超8%，公司表示，抗炎药物Ziltivekimab在MACE风险降低方面与安慰剂相比未显示出显著差异。
-- 中国企业家代表团访美与政商各界开展广泛交流
-- 上海市委网信办联合多部门对汽车类“自媒体”开展合规指导
-- 伊朗首都德黑兰北部发生4.6级地震。（央视）
-- 埃克森美孚第二季度收入及其他收益1,160.2亿美元，预估1,031亿美元。
-第二季度调整后每股收益3.52美元，预估3.54美元。
-埃克森美孚美股盘前跌超2%。
-- 雪佛龙二季度营收及其他收入700.6亿美元，预估679.3亿美元。
-二季度调整后每股收益6.06美元，预估5.65美元。
-雪佛龙预计全年资本支出位于180亿至190亿美元区间的低端，此前预期为180亿至190亿美元。
-雪佛龙美股盘前涨近1%
-- 协合新能源：与特斯拉签订购售电协议 容量合计约469兆瓦
-- 加拿大鹅大中华区最新财季营收增长44%
-- 美股盘前，亚马逊延续此前涨势，涨超10%，Q2云业务增长超预期；苹果跌超6%，预计供应限制拖累营收；SK海力士涨近7%，美光科技涨超3%。
-- 马斯克否认“特斯拉正在考虑剥离其中国业务”，外交部回应
+- 摩根大通：将美联储加息时点预期提前至12月，10年期美债收益率料在4.85%
+- 随着美伊将重启谈判，美国国债收益率全线下跌。
+- 美军称对伊朗海上封锁仍在继续
+- 7月新能源车企销量分化，年度目标完成进度拉开差距
+- 华尔街见闻早餐 | 2026年8月3日
+- 提醒：日内请重点关注（以下均为北京时间）
+- 英国海军：有油轮报告8月2日近距离听到爆炸声。
+- 特朗普称美伊3日将举行谈判
+- 日本财务大臣：将于周一宣布东京与华盛顿采取联合行动遏制日元贬值。
+- 以总理通过特朗普社媒得知美叫停对伊打击，“我们有几个小时处于完全的信息真空”
+- 摩洛哥内政部：在试图大规模越境进入休达期间，有10人溺水身亡，另有1人坠崖死亡。
+- 提醒：周一（8月3日），Palantir、安森美半导体等将发布业绩报告；
+周二，SpaceX、AMD、卡特彼勒等将发布业绩报告；
+周三，诺和诺德、闪迪、西部数据、迪士尼等发布业绩报告。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 巴基斯坦军方：今年反恐行动已击毙2084名恐怖分子
-- 里海管道联盟（CPC）将在周五晚些时候决定是否暂停石油运营。
-- 四川防汛应急响应升为三级 注意防范
-- 华恒生物：收到公司实际控制人郭恒华女士家属通知，郭恒华女士因涉嫌非法吸收公众存款罪被检察机关批准逮捕。
-- 铭普光磁：拟定增募资不超过12.8亿元，用于高速光模块智能制造项目、高速光器件及高端无源器件产业化建设项目、高速光芯片智能制造项目、补充流动资金。
-- 我国新核准8台核电机组，项目总投资超1700亿元
-- 国务院常务会议：研究健康优先发展战略实施有关工作
-- 国务院常务会议：学习贯彻习近平总书记关于上半年经济形势和做好下半年经济工作的重要讲话精神
-- 国务院常务会议：决定核准辽宁庄河一期工程等四个核电项目
-- 规范互联网渠道售卡管理 运营商停止第三方互联网渠道号卡办理
+- 银行间主要利率债收益率盘初普遍下行，30年期国债“26超长特别国债02”收益率下行1bp报2.1750%，10年期国债“26附息国债10”收益率下行0.3bp下破1.70%关口，现报1.6980%，创6月1日以来新低。
+- 两市融资余额增加46.58亿元
+- 日元兑美元短线持续拉升，日内上涨200多点或1.4%，报155.30。
+- 日元兑美元盘中涨破156.00关口，日内涨约1%。
+- 阿曼附近一艘油轮报告听到爆炸声
+- 日经225指数日内跌幅扩大至2%。
+- 花旗：云厂商强劲开支利好中国光模块公司 半年报披露或为买入时机
+- 中国外汇交易中心（CFETS）：7月31日人民币汇率指数按周跌0.56至102.19。
+- 日元兑美元短线大幅拉升100多个点，刷新日高至156.49。
+- 韩国7月制造业PMI 53.1，前值 52.1。
 
 ## SCMP (EN/中)
+头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
+- China’s military goal is to stand neck and neck with  US: ex-PLA colonel Zhou Bo
+- Science
+- Chinese rocket scientists find ‘most effective’ way to nuke a doomsday asteroid
+- Banking & Finance
+- AIIB explores digital payments, eyes Hong Kong hub as it raises record funds
+- 2 fire service contractors linked to Tai Po tragedy still in business
+- Military
+- ‘Rich and powerful options in South China Sea toolbox’: Beijing warns Manila
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- Prominent commentator shares insights on the PLA’s 2027 goal, competition with the US, the Taiwan issue and the peacetime dilemma.
+- Lawmakers concerned about public safety and potential project abandonment as SCMP investigation reveals China Status and Victory Fire’s active status.
+- Strongly worded PLA Daily article is latest in a series of countermeasures as Scarborough Shoal row flares, including military drills.
+- China EVs
+- Price war fears grip China’s EV market after woeful July sales figures
+- Three premium Chinese electric car makers saw sales decline in July, intensifying concerns that the industry is heading for another discount war.
+- Politics
+- Philippines eyes Ukraine’s drone know-how for South China Sea
+- Manila likes the look of Kyiv’s low-cost drones, but adapting battlefield tech to grey-zone sea stand-offs won’t be easy.
+- Business
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -222,36 +236,36 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 160億「帶血籌碼」交割完畢：Citadel拆彈AI暴跌潮，是出清終點還是多米諾骨牌起點？
-- 韓國券商KIS：三星電子被「嚴重低估」，上調目標價10%至65萬韓元
-- 高盛：聯儲局框架不透明或適得其反，長端利率或倒逼再度加息
-- 數據揭秘 | 7月北水上演「高切低」！豪擲近290億港元買入智譜，阿里吸金近77億港元
-- 「干預傳聞」實錘？日央行數據暗示週四出手，規模或達8.45萬億日元，財務大臣迴避置評
-- 韓國收緊槓桿ETF首日：成交額下降75%，KOSPI大漲18%，散戶直呼「被擋在門外」
-- 本週美股牛股 | 佳明本週大漲超22%，Q2營收同比增長11%超預期，上調全年業績指引；奇波雷墨西哥燒烤累漲超21%，Q2營收同比增長超9%，機構稱公司最早可能在Q4擴大利潤率
-- 北水淨買入小米集團超17億港元，加倉阿里巴巴超12億港元，淨賣出美團逾6億港元
+- 富途早報 | 美伊或將明日舉行談判，三大美股期指齊漲，WTI原油跌近5%；貝森特稱上週五與日本協調幹預日元；亞馬遜完成對OpenAI總計500億美元全額投資；Palantir業績今日美股盤後將發佈
+- 特朗普叫停對伊新打擊，稱美伊3日將舉行談判，伊朗重申「不會恢復至戰前」
+- 美日聯合干預：新「廣場協議」，佈雷頓森林體系2.0的開端與日元套利時代的終結
+- 一週前瞻 | 密集出爐！美國7月非農數據週五發佈，中國7月CPI、PPI週日公佈；SpaceX上市後首份業績來襲，疊加大規模解禁考驗流動性；AMD、閃迪、西部數據將發佈業績
+- 特朗普高調背書美日聯手託市、貝森特筆記泄露天機，日元空頭瑟瑟發抖
+- 8月港股「分紅除淨清單」：10只高息股全梳理，最高每手收息1020港元
+- 美國財長貝森特稱上週五與日本協調幹預日元
+- 中信建投：日元再幹預，本次何不同？
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- AI引擎重啓，歐股強勢刷新歷史高位！泛歐斯托克600劍指四連陽
-- 收市速睇 | 三大指數漲跌不一，科指漲0.53%；AI應用概念股走高，智譜大漲超14%，阿里漲近5%；存儲概念反彈，南方兩倍做多海力士暴漲近68%
-- 鎧俠Q1營業利潤1.27萬億日元不及預期，毛利率78%，長協有望鎖定2028年50%產能
-- SpaceX即將發佈IPO後首份業績，大摩警告最危險時刻來臨
-- 中金：聯合解讀政治局會議
-- 科技巨頭業績期留下的懸念：「資本開支」與「AI收入」都在增長，誰會贏得敘事？
-- MiniMax發佈開源全模態模型H3：視頻編輯能力登頂全球第一，定價砍至同行三分之一
-- 小米殺入增程大SUV，SkyNomad定價體現「衝量野心」，華爾街緊盯銷量和毛利
-- 上調資本開支預期依舊大漲，亞馬遜這份業績意味着什麼？
-- 港股午評 | 三大指數漲跌不一，科指漲0.7%；存儲概念、AI應用股狂飆，南方兩倍做多海力士漲超59%，智譜漲超20%，兆易創新漲超14%；光通信股走高，中際旭創漲近12%
+- AI能否回本？科技巨頭上週的股價走勢，市場給出了答案
+- 部署下半年八大重點！央行定調：適時調整、加力擴內需
+- 韓國存儲調研：三星長協「限制跌幅、不限漲幅」，現貨價格在四季度旺季前持續反彈
+- 被「忽略」的市場大事：美日韓聯合干預，美國財政部「罕見」下場！貝森特悄悄「救市」？
+- 伊朗軍方：特朗普稱伊朗要求停止攻擊是「謊言」
+- 週末讀物 | 把「什麼也不做」執行過了頭！「英國巴菲特」特里·史密斯坦誠反思，半年換倉一半，但要買英偉達海力士們，要等「廢墟」到來的機會
+- TACO！特朗普「取消對伊朗打擊」，此前沙特王儲致電「敦促緩和局勢」
+- 週末讀物 | 英偉達曾經差點「破產」後，黃仁勳悟出了創業最重要的一課
+- 特朗普：同意取消對伊朗的打擊
+- 美以擬週末對伊朗能源基礎設施實施「猛烈轟炸」 ，瞄準發電廠、煉油廠，伊朗：全面反擊方案已就緒
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 中国政策/两会: 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 就业数据: Yahoo Finance (EN), Benzinga (EN)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 伊朗/中东: 华尔街见闻 (简中)
-- 加密货币: Benzinga (EN)
-- 黄金/大宗: 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
+- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
+- 就业数据: Yahoo Finance (EN)
+- 美联储: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
