@@ -3,25 +3,26 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 30m | Morgan Stanley's Wilson: Earnings will revive momentum trade | AMD to report Q2 earnings as chip stocks continue to waver | July jobs report, SpaceX earnings, AI struggles: What to watch | AMD to report Q2 earnings as chip stocks continue to waver | July jobs report, SpaceX earnings, AI struggles: What to watch | Leopold Aschenbrenner just learned Wall Street's oldest lesson | How US drinkers fell out of love with Bud Light
-  - 其他: Top Stories | Markets & Economy | Tech & AI | India eyes extending tax breaks for contract manufacturing | SpaceX's first results put Musk's AI spending under microscope
+  - 头版/首屏: U.S. markets closed | Palantir soars after 'otherwordly' quarter | TikTok settling three teen social media lawsuits ahead of trial | Trump blasts Exxon, Chevron for profits, demands lower gas prices | TikTok settling three teen social media lawsuits ahead of trial | Trump blasts Exxon, Chevron for profits, demands lower gas prices | The AI spending boom is hitting a key Wall Street metric | White House props up yen amid Washington-Tokyo trade deal
+  - 其他: Top Stories | Markets & Economy | Tech & AI | Snap stock jumps as World Cup ads boost revenue | SpaceX's first-ever earnings report comes as stock hits new low
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: How To Earn $500 A Month From Caterpillar Stock Ahead Of Q2 Earnings | ArcelorMittal Expands Microsoft Partnership To Accelerate AI-Led Digital Transformation | This One-Year-Old Start Up Built a CUDA Rival in Just 10 Hours — Is Nvidia's Moat Under Threat? | S&P 500 Faces ‘Worst Two Months’ of the Year: Wall Street Strategist Warns Investors to Brace for August and September Volatility | Top Wall Street Forecasters Revamp Clorox Expectations Ahead Of Q4 Earnings
+  - 其他: 3 Retirement Accounts, 3 Different Opinions: What Self-Employed Workers Should Know Before Choosing One | Spotify Earnings Prediction Market Preview: What Will Its New Co-CEOs Say? | Sam Altman Tells Parents to Use ChatGPT to Connect With Family and Gets Roasted: ‘What If You Just Talked to Your Children’ | Congressman Who Spent Millions on Magnificent Seven Stocks Just Bought Another Tech Giant | Ameresco Stock Soars on Q2 Results as Data Center Demand Accelerates
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 纳斯达克100指数期货回吐日内全部涨幅，存储芯片概念股盘前走低，美光科技跌5%，SK海力士、闪迪跌超4%。 | 礼来盘前涨约1%，Olomorasib获美国FDA突破性疗法认定，用于胰腺癌治疗。 | 三菱日联预计美联储或于2027年降息 | 小米：2人使用AI生成虚假车祸视频抹黑公司被处罚。 | 调查：八成以上美国金融业高管认为 AI技能比MBA更有价值 | 阿斯利康：英卓凡正式在华上市 | 伊朗处决两名为以色列提供情报的间谍 | 威廉姆斯：通胀将在下半年回落，利率仍处于良好位置
-  - 其他: 澳大利亚首次出现H5型禽流感导致大规模鸟类死亡事件 | 北京君正：香港联交所审议公司发行H股。 | 泽连斯基任命乌梅罗夫出任乌克兰对外情报局局长 | 瑞幸咖啡第二季度净营收158.9亿元人民币，同比增长29%，预估154.3亿元人民币。
-第二季度净利润14.9亿元人民币，同比增长19%。
-第二季度经调整每股ADS净收益5.44元人民币，同比增长24%。 | 石大胜华：全资子公司胜华新能源科技（东营）有限公司的下属企业东营石大胜华新能源有限公司拟投资建设23万吨/年液态锂盐项目，项目预计总投资19亿元，项目报批投资17.97亿元。
+  - 头版/首屏: 花旗：阿里巴巴股价最近的强劲表现，可能反映的是亚马逊AWS和微软Azure云业务收入增长趋势的积极预期，以及千问3.8-Max基准分率的显著提高。重申对公司的买入评级，目标价192美元。 | 摩根士丹利：阿里云收入增长料加速 并为阿里巴巴股价的关键催化剂 | SK海力士与闪迪联合发布首个高带宽闪存（HBF）标准规范。 | 城堡证券：美股牛市驱动因素依然稳固，散户杠杆押注降温 | 华尔街见闻早餐 | 2026年8月4日 | 报道：台积电熊本第一工厂已恢复正常运营 | 提醒：美国政府临时融资立法草案在参议院通过程序性投票，这为参议院全体表决扫清了障碍。 | 古巴政府：天气因素干扰到今天（当地时间8月3日）的电网的运行。
+  - 其他: 投行：日本使用美联储工具或将考验日元决心 | 周一（8月3日）纽约尾盘，ICE美元指数大致持平，报99.906点，日内交投区间为99.418-100.017点，亚太早盘低开低走、北京时间08:45刷新日低，之后持续震荡上扬。
+彭博美元指数跌0.06%，报1206.06点，日内交投区间为 | 纽约可可期货涨约9.4% | 伊朗最高领袖顾问Mohsen Rezaee通过国家电视台表示：美国必须迈出第一步行动，并改变其行为方式，这可能是一个积极的开端。
+如果特朗普不撤销封锁，美军基地、战舰都将沦为我方的打击目标。
+如果美国遵守备忘录的条款，这可能表明其行为出现了 | 芝加哥玉米、小麦期货涨超1.9%
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: China’s DeepSeek tests AI ‘harness’ as cheap V4 model jolts Silicon Valley | China Economy | AI boom, factory gloom: China tech soars while traditional industries feel chill | Global Economy | Rare US-Japan intervention as yen hits 40-year low: what does it mean? | Health & Environment | Non-stop summer rain leaves Hong Kong farmers with heavy losses as crops fail | Military
-  - 其他: Hangzhou-based firm is recruiting developers to test software that turns language models into autonomous agents, escalating price war with US rivals. | Farmers in Yuen Long suffer six-figure losses as frequent downpours flood sunflower, melon and vegetable fields. | Are commercial sea drones new headache for PLA in South China Sea and Taiwan? | A crewless vessel’s footage of a Chinese warship operating near the Philippines highlights their potential intelligence-gathering role. | Lifestyle & Culture
+  - 头版/首屏: ‘Surprising’ how fast China’s military is closing US gap: analyst Lyle Goldstein | Diplomacy | US tech giants invited to discuss AI security tests at White House | Trump claims ‘last chance’ for Iran to strike deal in latest warning | Society | Why are Hong Kong delivery drivers unhappy about proposed payouts for injuries? | Markets | Not like South Korea? Chinese brokers forecast A-share tech and chip rebound
+  - 其他: Beijing’s challenge is to resist temptation to build the PLA into a ‘hammer looking for a nail’, former US Naval War College professor says. | Unions and delivery riders say government’s proposed compensation scheme should also include logged-on waiting time. | As global investors pull money from South Korea, top domestic brokerages expect strong domestic fundamentals to drive fresh buying in China. | China | Chinese executive filmed taking cash on Colombia metro project
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 联储局维持利率不变惟分歧明显，地产股银行股暂缺方向 | 超强台风“白海豚”逼近 浙苏部署防御 | 欧盟开紧急会议 商休达偷渡潮危机 | 日圆干预偷袭：this time is different? | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 联储局维持利率不变惟分歧明显，地产股银行股暂缺方向 | 超强台风“白海豚”逼近 浙苏部署防御 | 欧盟开紧急会议 商休达偷渡潮危机 | 算法突破再下一城，少年股神提前祭旗 | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数26009.40+124.97(+0.48%)
                     etnet.com.hk@copyright | 国企指数8652.15+40.00(+0.46%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -30,29 +31,30 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 「InP短缺將比內存更嚴峻」！Lumentum、SemiAnalysis警告：光互聯成AI新瓶頸 | 北水掃貨港股超110億港元，淨買入阿里巴巴逾41億港元，加倉騰訊控股超24億港元，淨賣出中芯國際逾10億港元 | 華爾街大行：美股最猛烈拋售或已過 但「抄底」仍有風險 | 三星晶圓代工產能利用率年內預計將達100%，扭虧爲盈進入倒計時 | 谷歌表外擔保規模9個月漲6倍至438億美元，用「財務兜底」換TPU芯片訂單 | 一週前瞻 | 密集出爐！美國7月非農數據週五發佈，中國7月CPI、PPI週日公佈；SpaceX上市後首份業績來襲，疊加大規模解禁考驗流動性；AMD、閃迪、西部數據將發佈業績 | 收市速睇 | 三大指數齊漲，科指漲近1%；科網股上行，阿里漲7%，騰訊、快手漲超3%；存儲概念下跌，南方兩倍做多海力士跌近17% | AI牛市最糟糕的時候過去了嗎？華爾街：真正的考驗才剛開始
-  - 其他: 伊朗外交部稱目前沒有在與美國進行會談 | 18.8萬桶象徵性增產後，歐佩克+靜待霍爾木茲海峽「開閘」 | 美國罕見干預的背後：託日元實爲護美債，但根本矛盾仍未消除 | 韓股巨震不止！監管層醞釀「大招」 擬緊急時調降槓桿產品倍數 | SpaceX首次業績本週重磅登場！除業績外，市場還將關注這些
+  - 头版/首屏: 富途早報 | 特朗普稱霍爾木茲海峽可能最遲明天重開；亞馬遜市值首破3萬億美元，馬斯克稱認同SpaceX「買入良機」；白宮擬舉辦人工智能企業會議，谷歌、Meta等將參會；SpaceX、AMD、卡特彼勒將放榜 | Palantir大漲！美國商業收入超預期飆升149%，大幅上調全年營收指引至81.6億美元，CEO直言商業需求「非同尋常」 | 罕見干預操作！貝森特拋歐元、指示聯儲局「借錢」，讓日本「別拋美債」，市場擔心「套利交易逆轉」 | DigiTimes報道：存儲三大原廠「2027年產能已提前售罄」，應驗「明年是存儲最短缺年份」 | 數據中心「電力引擎」大爆發! AI狂潮外溢至電力鏈，安森美半導體Q2現金流翻兩番，業績展望超預期 | 世界盃廣告送暖，Snap Q2營收超預期股價飆漲，CEO卻稱AR眼鏡才是「最大長期機遇」 | 亞馬遜正式躋身3萬億美元俱樂部！AWS負責人：「與客戶籤五年期長期合同，需求遠超供給」 | 8000億資本開支不是頂？高盛：少算了非美及私募投資，今年AI實際投資有望超過1萬億
+  - 其他: 特朗普怒批石油巨頭「賺太多」：要求利潤回饋公衆，汽油價格必須降！ | 伊朗否認與美談判後，特朗普斥伊「兩面三刀」、堅稱雙方在談，料霍爾木茲最遲週二重開 | 亞馬遜創始人傑夫·貝索斯出售價值40.7億美元的股票。 | 美股收盤 | 地緣風險溢價消退，道指創收盤新高，納指漲逾2%；雲計算股全線走強，CoreWeave大漲19%，NEBIUS漲超11%；原油重挫7%破80美元 | Millennium管理基金7月虧損2.1%，AI股震盪重創對沖基金
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
-- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (3 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN) (1 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
-- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
+- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **加密货币** — 出现于: 华尔街见闻 (简中) (1 站)
+- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
 - 伊朗/中东局势（4 站）
-- 中国/欧盟（3 站）
-- 美联储/利率（2 站）
-- 油价/能源（1 站）
-- 就业/经济数据（1 站）
-- 黄金/大宗商品（1 站）
+- 油价/能源（4 站）
+- 中国/欧盟（4 站）
+- 关税/贸易政策（3 站）
+- 黄金/大宗商品（2 站）
+- 加密货币（1 站）
+- 美联储/利率（1 站）
 - 中国政策（1 站）
-- 关税/贸易政策（0 站）
-- 加密货币（0 站）
+- 就业/经济数据（0 站）
