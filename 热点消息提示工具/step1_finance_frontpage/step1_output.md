@@ -3,46 +3,52 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | Palantir soars after 'otherwordly' quarter | TikTok settling three teen social media lawsuits ahead of trial | Trump blasts Exxon, Chevron for profits, demands lower gas prices | TikTok settling three teen social media lawsuits ahead of trial | Trump blasts Exxon, Chevron for profits, demands lower gas prices | The AI spending boom is hitting a key Wall Street metric | White House props up yen amid Washington-Tokyo trade deal
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Snap stock jumps as World Cup ads boost revenue | SpaceX's first-ever earnings report comes as stock hits new low
+  - 头版/首屏: U.S. markets open in 1h 31m | Palantir soars after 'otherworldly' quarter | Trump giving Iran 'every last chance' for Hormuz deal | Elizabeth Warren demands SEC probe Trump memecoin | Trump giving Iran 'every last chance' for Hormuz deal | Elizabeth Warren demands SEC probe Trump memecoin | Asia hedge funds suffer widespread losses in July rout | How a pharma megamerger could squelch R&D
+  - 其他: Top Stories | Markets & Economy | Tech & AI | Apple's India sales top $10 billion on retail push | SpaceX's first-ever earnings report comes as stock hits new low
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: 3 Retirement Accounts, 3 Different Opinions: What Self-Employed Workers Should Know Before Choosing One | Spotify Earnings Prediction Market Preview: What Will Its New Co-CEOs Say? | Sam Altman Tells Parents to Use ChatGPT to Connect With Family and Gets Roasted: ‘What If You Just Talked to Your Children’ | Congressman Who Spent Millions on Magnificent Seven Stocks Just Bought Another Tech Giant | Ameresco Stock Soars on Q2 Results as Data Center Demand Accelerates
+  - 其他: These Analysts Increase Their Forecasts On Jazz Pharmaceuticals Following Q2 Results | Snap To Rally More Than 217%? Here Are 10 Top Analyst Forecasts For Tuesday | This Palantir Analyst Turns Bullish; Here Are Top 5 Upgrades For Tuesday | Boeing’s Smallest 737 Max Finally Wins FAA Certification After a Decade of Delays— but Passengers Still Won’t Board One Until 2027 | Sandisk Stock Is Gaining Tuesday: What's Going On?
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 花旗：阿里巴巴股价最近的强劲表现，可能反映的是亚马逊AWS和微软Azure云业务收入增长趋势的积极预期，以及千问3.8-Max基准分率的显著提高。重申对公司的买入评级，目标价192美元。 | 摩根士丹利：阿里云收入增长料加速 并为阿里巴巴股价的关键催化剂 | SK海力士与闪迪联合发布首个高带宽闪存（HBF）标准规范。 | 城堡证券：美股牛市驱动因素依然稳固，散户杠杆押注降温 | 华尔街见闻早餐 | 2026年8月4日 | 报道：台积电熊本第一工厂已恢复正常运营 | 提醒：美国政府临时融资立法草案在参议院通过程序性投票，这为参议院全体表决扫清了障碍。 | 古巴政府：天气因素干扰到今天（当地时间8月3日）的电网的运行。
-  - 其他: 投行：日本使用美联储工具或将考验日元决心 | 周一（8月3日）纽约尾盘，ICE美元指数大致持平，报99.906点，日内交投区间为99.418-100.017点，亚太早盘低开低走、北京时间08:45刷新日低，之后持续震荡上扬。
-彭博美元指数跌0.06%，报1206.06点，日内交投区间为 | 纽约可可期货涨约9.4% | 伊朗最高领袖顾问Mohsen Rezaee通过国家电视台表示：美国必须迈出第一步行动，并改变其行为方式，这可能是一个积极的开端。
-如果特朗普不撤销封锁，美军基地、战舰都将沦为我方的打击目标。
-如果美国遵守备忘录的条款，这可能表明其行为出现了 | 芝加哥玉米、小麦期货涨超1.9%
+  - 头版/首屏: 美国财长贝森特：观察到利率已经上升，而AI投资热潮并未减弱。 | 麦当劳预计全年资本支出37亿美元至39亿美元，市场预估37.3亿美元。 | 美国财长贝森特（被问及美联储和沃什的策略时）：把这看作是排毒。
+沃什想要保留选项。
+美联储肯定会平衡增长和通胀任务。 | 美财长：可能明日与伊朗达成协议以开放霍尔木兹海峡 | 美国财长贝森特：美联储考虑扩大FIMA回购工具规模是合理的。
+美联储的FIMA回购工具与外汇互换额度没有区别。
+与包括欧洲央行在内的欧洲各方保持密切联系。
+已向欧洲方面保证，只是储备的重新分配。
+在我看来，欧元更接近均衡价格。
+不认为利差交 | 乘联分会：结合7月初步汇总数据，6月厂商批发销量万辆以上的乘用车车企，7月新能源销量合计达138万辆。以6月占比测算，7月全国新能源乘用车批发销量约147万辆，同比增长23%，环比下降1%。 | 贝莱德：即便美联储按兵不动 美国国债收益率仍将走高 | 伊朗消息人士称伊方希望控制霍尔木兹海峡进港航运
+  - 其他: 中欧基金申报首只ETF！非货前20大基金公司，全员布局 | 上海：到2035年全面建成国际领先的智慧气象城市 | 美国财长贝森特：与日本的片山皋月有良好的工作关系。
+一直与日本保持密切联系。
+日本正在努力遏制日元被低估。
+稳定的日元对美国以及整个亚洲地区都很重要。
+很荣幸能与日本站在一起，帮助稳定局势。 | 联创光电：因公司及伍锐先生涉嫌未按规定披露非经营性资金往来等违法行为，中国证监会决定对公司及伍锐先生立案。 | 天津发文促进带薪年休假制度落实
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: ‘Surprising’ how fast China’s military is closing US gap: analyst Lyle Goldstein | Diplomacy | US tech giants invited to discuss AI security tests at White House | Trump claims ‘last chance’ for Iran to strike deal in latest warning | Society | Why are Hong Kong delivery drivers unhappy about proposed payouts for injuries? | Markets | Not like South Korea? Chinese brokers forecast A-share tech and chip rebound
-  - 其他: Beijing’s challenge is to resist temptation to build the PLA into a ‘hammer looking for a nail’, former US Naval War College professor says. | Unions and delivery riders say government’s proposed compensation scheme should also include logged-on waiting time. | As global investors pull money from South Korea, top domestic brokerages expect strong domestic fundamentals to drive fresh buying in China. | China | Chinese executive filmed taking cash on Colombia metro project
+  - 头版/首屏: Is China’s DF-17 hypersonic glider ready to strike from anywhere at any time? | Diplomacy | How China’s US$900 million port deal in Angola shows its lead on US interests | Law and Crime | Hong Kong, Macau police arrest 8 over HK$100m Vietnam coffee investment scam | China Economy | China unveils world’s first hybrid boring-and-blasting tunnel machine | Wealth
+  - 其他: PLA anniversary series suggests the world’s first operational weapon of its kind may have achieved a ‘constant state of readiness’. | Standard tunnel boring machines slow down in extremely hard or fractured mountain rock, which has led to delays in infrastructure projects. | How China’s new offshore trust tax rules could shake billionaires’ fortunes | Soho China founder Pan Shiyi’s Cayman trust faces scrutiny as Beijing’s tax overhaul puts offshore wealth strategies in focus. | Tech Trends
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 联储局维持利率不变惟分歧明显，地产股银行股暂缺方向 | 超强台风“白海豚”逼近 浙苏部署防御 | 欧盟开紧急会议 商休达偷渡潮危机 | 算法突破再下一城，少年股神提前祭旗 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数26009.40+124.97(+0.48%)
-                    etnet.com.hk@copyright | 国企指数8652.15+40.00(+0.46%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 药明康德经调整多赚83%兼上调全年指引，大行齐唱好 | 机构：DeepSeek新推V4-Flash 成本全球最低 | 特宣称美伊再谈判 惟无透露细节 | 算法突破再下一城，少年股神提前祭旗 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25852.92-156.48(-0.60%)
+                    etnet.com.hk@copyright | 国企指数8574.26-77.89(-0.90%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 特朗普稱霍爾木茲海峽可能最遲明天重開；亞馬遜市值首破3萬億美元，馬斯克稱認同SpaceX「買入良機」；白宮擬舉辦人工智能企業會議，谷歌、Meta等將參會；SpaceX、AMD、卡特彼勒將放榜 | Palantir大漲！美國商業收入超預期飆升149%，大幅上調全年營收指引至81.6億美元，CEO直言商業需求「非同尋常」 | 罕見干預操作！貝森特拋歐元、指示聯儲局「借錢」，讓日本「別拋美債」，市場擔心「套利交易逆轉」 | DigiTimes報道：存儲三大原廠「2027年產能已提前售罄」，應驗「明年是存儲最短缺年份」 | 數據中心「電力引擎」大爆發! AI狂潮外溢至電力鏈，安森美半導體Q2現金流翻兩番，業績展望超預期 | 世界盃廣告送暖，Snap Q2營收超預期股價飆漲，CEO卻稱AR眼鏡才是「最大長期機遇」 | 亞馬遜正式躋身3萬億美元俱樂部！AWS負責人：「與客戶籤五年期長期合同，需求遠超供給」 | 8000億資本開支不是頂？高盛：少算了非美及私募投資，今年AI實際投資有望超過1萬億
-  - 其他: 特朗普怒批石油巨頭「賺太多」：要求利潤回饋公衆，汽油價格必須降！ | 伊朗否認與美談判後，特朗普斥伊「兩面三刀」、堅稱雙方在談，料霍爾木茲最遲週二重開 | 亞馬遜創始人傑夫·貝索斯出售價值40.7億美元的股票。 | 美股收盤 | 地緣風險溢價消退，道指創收盤新高，納指漲逾2%；雲計算股全線走強，CoreWeave大漲19%，NEBIUS漲超11%；原油重挫7%破80美元 | Millennium管理基金7月虧損2.1%，AI股震盪重創對沖基金
+  - 头版/首屏: 雲廠商集體大漲，基礎設施產業鏈承壓，AI行情轉向「用鏟人」？ | 美國財長：可能明日與伊朗達成協議以開放霍爾木茲海峽 | 國際油價短線走低！卡塔爾：已就潛在美伊協議起草文本，各方正努力通過外交途徑解決衝突 | 從基建淘金邁向應用變現！高盛研判：AI主線迎來重大切換 微軟有望成核心受益者 | 北水加倉港股近26億港元，阿里巴巴、華虹宏力、中芯國際分別獲淨買入超15億、11億、10億港元，美團遭淨賣出逾12億港元 | 收市速睇 | 三大指數漲跌不一，科指漲0.21%；半導體股上行，天數智芯漲近12%，中芯國際漲近5%；光通信、PCB概念股走強，中際旭創漲17%，芯碁微裝漲超22% | 亞馬遜兩日跳漲20%背後：AWS加速增長驗證AI需求 資本開支與折舊壓力引擔憂 | 過去一個月，整個美股AI板塊跌了多少？
+  - 其他: 韓股「W型」轉漲，韓國財長喊話託市，反彈能否持續？ | 開源vs閉源—大摩推演AI終局：三種情景下的投資圖譜與確定性贏家 | 算力景氣上行PCB量價齊升，芯碁微裝、大族數控漲幅居前 | 美伊官員稱伊朗與阿曼接近達成霍爾木茲海峽航行協議 | 大廠業績提振雲計算板塊，AI公有云有望顯著提振金山雲二季度業績
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
 - **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
-- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
-- **加密货币** — 出现于: 华尔街见闻 (简中) (1 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **中国/欧盟** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
+- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
 - **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
@@ -50,11 +56,11 @@
 
 - 科技股/个股（5 站）
 - 伊朗/中东局势（4 站）
-- 油价/能源（4 站）
-- 中国/欧盟（4 站）
-- 关税/贸易政策（3 站）
-- 黄金/大宗商品（2 站）
-- 加密货币（1 站）
+- 油价/能源（3 站）
+- 中国/欧盟（2 站）
+- 关税/贸易政策（1 站）
 - 美联储/利率（1 站）
 - 中国政策（1 站）
+- 加密货币（0 站）
 - 就业/经济数据（0 站）
+- 黄金/大宗商品（0 站）
