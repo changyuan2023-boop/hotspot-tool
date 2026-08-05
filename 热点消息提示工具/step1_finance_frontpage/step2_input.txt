@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026080420
+抓取时间: 2026080509
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 31m
-- Palantir soars after 'otherworldly' quarter
-- Trump giving Iran 'every last chance' for Hormuz deal
-- Elizabeth Warren demands SEC probe Trump memecoin
-- Trump giving Iran 'every last chance' for Hormuz deal
-- Elizabeth Warren demands SEC probe Trump memecoin
-- Asia hedge funds suffer widespread losses in July rout
-- How a pharma megamerger could squelch R&D
-- Nasdaq futures lead way as earnings roll in, Palantir stock soars
-- Earnings: Snap stock jumps on World Cup boost, Whirlpool falls
-- McDonald's to report earnings as consumers remain under stress
-- BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price
+- U.S. markets closed
+- SpaceX beats estimates in earnings debut
+- Musk: SpaceX will rely exclusively on Nvidia to power AI push
+- Southwest's extra-seat policy has changed. What passengers need to know.
+- Musk: SpaceX will rely exclusively on Nvidia to power AI push
+- Southwest's extra-seat policy has changed. What passengers need to know.
+- Palantir proves to be 'several steps ahead,' stock skyrockets
+- Iran weighs allowing Europe to clear mines in Strait of Hormuz
+- Oil holds two-day drop on signs of progress toward Hormuz deal
+- Dow, S&P 500 surge to record highs on Hormuz deal hopes
+- Lucid losses widen as automaker launches 'operational reset'
+- Paramount profit dips as TV declines offset streaming gains
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- Apple's India sales top $10 billion on retail push
-- SpaceX's first-ever earnings report comes as stock hits new low
-- Inside Google's $200B Wall Street machine for Anthropic
-- After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’
+- OpenAI says models breached boundaries during outside testing
+- AMD stock tumbles despite earnings beat
+- Samsung reveals new 3D-memory roadmap in bid for AI tech lead
+- Marvell, Sandisk, SK Hynix lead semiconductor rally
 - Popular
-- UFC loses $30m on Freedom 250 event at White House
-- You're in! Private colleges admit more students who didn't apply
+- Mystery buyer bets $20M SpaceX could triple by Friday
+- Taco Bell has a plan to win back customers after diarrhea outbreak
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,93 +42,80 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- These Analysts Increase Their Forecasts On Jazz Pharmaceuticals Following Q2 Results
-- Snap To Rally More Than 217%? Here Are 10 Top Analyst Forecasts For Tuesday
-- This Palantir Analyst Turns Bullish; Here Are Top 5 Upgrades For Tuesday
-- Boeing’s Smallest 737 Max Finally Wins FAA Certification After a Decade of Delays— but Passengers Still Won’t Board One Until 2027
-- Sandisk Stock Is Gaining Tuesday: What's Going On?
-- Stock Market Today: S&P 500, Dow and Nasdaq Futures Rise After Strong Monday Gains— McDonald's, AMD, Palantir in Focus
+- She Wouldn't Lend Her Brother $700 to Save His Job. Her Family Was Furious After She Spent $1,200 on Her Dog 2 Months Later
+- SpaceX's Starlink Mobile Plans to Take 'Quite a Few' T-Mobile, Verizon, AT&T Customers [CORRECTED]
+- SpaceX Stock Falls: Gene Munster Calls Q2 ‘A Blow Out’ — ‘Market Missing the Point’
+- Musk Praises Vera Rubin Platform on SpaceX Earnings Call, Nvidia Stock Climbs
+- Why Bed Bath & Beyond Stock Is Falling After Q2 Financial Results
+- Semiconductors Just Posted Their Best Four-Day Rally Since March 2020. These Five Stocks Led the Charge
 - Inflation
 - Anthropic
-- Snap CEO Says Only 3% of Snapchat Users Pay for Subscriptions— He Thinks That's Actually Good News
-- Top Wall Street Forecasters Revamp AMD Expectations Ahead Of Q2 Earnings
+- Disney Q3 Preview: Stock Priced for More Pain, But 'Doomsday' Is Coming (And That's A Good Thing)
+- Nebius Shares Rise ~6% After Key Trading Signal
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美国财长贝森特：观察到利率已经上升，而AI投资热潮并未减弱。
-- 麦当劳预计全年资本支出37亿美元至39亿美元，市场预估37.3亿美元。
-- 美国财长贝森特（被问及美联储和沃什的策略时）：把这看作是排毒。
-沃什想要保留选项。
-美联储肯定会平衡增长和通胀任务。
-- 美财长：可能明日与伊朗达成协议以开放霍尔木兹海峡
-- 美国财长贝森特：美联储考虑扩大FIMA回购工具规模是合理的。
-美联储的FIMA回购工具与外汇互换额度没有区别。
-与包括欧洲央行在内的欧洲各方保持密切联系。
-已向欧洲方面保证，只是储备的重新分配。
-在我看来，欧元更接近均衡价格。
-不认为利差交
-- 乘联分会：结合7月初步汇总数据，6月厂商批发销量万辆以上的乘用车车企，7月新能源销量合计达138万辆。以6月占比测算，7月全国新能源乘用车批发销量约147万辆，同比增长23%，环比下降1%。
-- 贝莱德：即便美联储按兵不动 美国国债收益率仍将走高
-- 伊朗消息人士称伊方希望控制霍尔木兹海峡进港航运
-- Needham首次覆盖SK海力士，给予“买入”评级，目标价200美元。
-- 麦当劳第二季度营收71.0亿美元，预估71.2亿美元。
-第二季度调整后每股收益3.38美元，预估3.32美元。
-第二季度每股收益3.32美元，上年同期3.14美元。
-第二季度美国同店销售增长0.8％，预估增长0.93％。
-麦当劳美股盘前涨约
-- 卡塔尔外交部发言人：为美伊和解所做的努力“正在进行中”。
-已就美伊可能达成的协议“拟定了相关措辞”。
-关于可能的协议草案已在各方之间传阅。
-当前重点在于短期解决方案。
-达成短期解决方案将有助于美伊重回谈判桌。
-目前尚无美伊直接对话的既定安排
-- 辉瑞第二季度营收150.3亿美元，预估144.1亿美元。
-第二季度调整后每股收益0.77美元。
-第二季度ELIQUIS收入 24.3亿美元，预估20.9亿美元。
-第二季度PREVNAR特许费收入 13.4亿美元。
-辉瑞预计全年营收605亿美
+- 美国堪萨斯城联储主席施密德：需要解决美联储资产负债表中的久期问题。
+美联储自身正在影响收益率曲线的长端。
+美联储工作小组将向联邦公开市场委员会（FOMC）提供建议，而非做出决定。
+- 美国堪萨斯城联储主席施密德：科技投资中的杠杆水平值得讨论。
+- 美国堪萨斯城联储主席施密德（Jeff Schmid）：需要更紧缩的政策才能使通胀率回落至2%。
+通胀始终是供给和需求共同作用的结果。
+劳动力市场大致处于平衡状态，经济增长具有韧性。
+不认为美联储当前的政策立场具有限制性。
+高通胀在商品和服务
+- 华尔街见闻早餐 | 2026年8月5日
+- AMD分析师电话会议要点总结
+- 提醒：日内请重点关注（以下均为北京时间）
+- 卡特彼勒分析师电话会议要点回顾
+- Lattice Semiconductor二季度营收2.011亿美元，分析师预期1.856亿美元。
+二季度调整后毛利润率71.7%，分析师预期70%。
+- 周三亚太盘初，纳指期货跌超0.2%，道指期货涨超0.2%。
+- 美国撤销巴西驻美大使签证
+- 报道：美国告知AI企业，将不对开放权重模型进行安全测试
+- 美股存储芯片指数收涨超6.7%，闪迪、泰瑞达涨超10%，超大规模云服务商板块四天涨约16%
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 中欧基金申报首只ETF！非货前20大基金公司，全员布局
-- 上海：到2035年全面建成国际领先的智慧气象城市
-- 美国财长贝森特：与日本的片山皋月有良好的工作关系。
-一直与日本保持密切联系。
-日本正在努力遏制日元被低估。
-稳定的日元对美国以及整个亚洲地区都很重要。
-很荣幸能与日本站在一起，帮助稳定局势。
-- 联创光电：因公司及伍锐先生涉嫌未按规定披露非经营性资金往来等违法行为，中国证监会决定对公司及伍锐先生立案。
-- 天津发文促进带薪年休假制度落实
-- 国家邮政局依法对申通快递立案调查 申通回应：立行立改、全力配合各项调查
-- 霍尔木兹海峡附近货船遇袭起火 一船员失踪
-- 2026年7月A股新开户265.54万户 同比增长35.23%
-- 国家邮政局依法对申通快递有限公司立案调查
-- 景顺长城全球芯片LOF：本基金将于2026年8月5日开市起停牌，自2026年8月5日10:30起复牌，停牌期间本基金赎回业务照常办理。
+- 提醒：SpaceX分析师电话会议开始。
+- SpaceX二季度财报核心亮点
+- SpaceX二季度AI Segment资本开支158.3亿美元，分析师预期130.9亿美元。
+- 提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。
+- 布伦特原油日内跌幅达6.0%，报78.74美元/桶。
+- AMD二季度调整后每股收益（EPS）为1.66美元，分析师预期1.62美元。
+二季度营收115.4亿美元，分析师预期113.1亿美元。
+二季度调整后运营利润率27%，分析师预期26.9%。
+二季度调整后运营利润30.9亿美元，分析师预期30
+- 美国国务院：撤销巴西大使的签证。
+- Match Group二季度营收8.531亿美元，分析师预期8.566亿美元。
+预计三季度营收8.85亿-8.95亿美元，分析师预期8.912亿美元。
+- 周二（8月4日），彭博电动汽车价格回报指数涨1.29%，报3395.93点，亚太早盘曾微幅下跌、北京时间10:03刷新日低至3340.03点，随后持续走高。
+- SpaceX营收在二季度增超90%，AI成本飙涨
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Is China’s DF-17 hypersonic glider ready to strike from anywhere at any time?
-- Diplomacy
-- How China’s US$900 million port deal in Angola shows its lead on US interests
-- Law and Crime
-- Hong Kong, Macau police arrest 8 over HK$100m Vietnam coffee investment scam
-- China Economy
-- China unveils world’s first hybrid boring-and-blasting tunnel machine
-- Wealth
+- Why China’s military is laser-focused on ‘disruptive’ technologies
+- Big Tech
+- Slapped with reality: why Huawei’s top chip scientist embraces war-hero mindset
+- US AI leaders are using Chinese open models for cybersecurity. Here’s why
+- Society
+- Burst pipes increase pressure on Hong Kong to replace ageing water mains
+- Banking & Finance
+- Why China’s new sovereign bond sale in Hong Kong is drawing global interest
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- PLA anniversary series suggests the world’s first operational weapon of its kind may have achieved a ‘constant state of readiness’.
-- Standard tunnel boring machines slow down in extremely hard or fractured mountain rock, which has led to delays in infrastructure projects.
-- How China’s new offshore trust tax rules could shake billionaires’ fortunes
-- Soho China founder Pan Shiyi’s Cayman trust faces scrutiny as Beijing’s tax overhaul puts offshore wealth strategies in focus.
-- Tech Trends
-- Chinese chip-tool maker AMEC says preliminary first-half profit up 282%
-- First-half outlook an early bellwether for domestic equipment sector as Chinese memory and advanced-logic fabs expand capacity.
-- People
-- Arrest of ‘fake Filipino’ sharpens concerns over security risks in key sectors
-- The case of Maxipro president Lawrence Ke Sy underscores a shift in how Philippine authorities approach national security, analysts say.
+- From artificial intelligence to quantum technology and hypersonic weapons, the PLA is in a race to define the next era of warfare.
+- Three bursts in one area within a week have raised fresh concerns about ageing water infrastructure in the city.
+- Arriving hot on the heels of the city’s landmark China government bond futures rollout, the latest tranche reinforces Hong Kong's role as a super-connector.
+- Business
+- Ningbo-backed innovation platform buys Hong Kong office tower
+- Analysts say purchase adds to signs that state-backed buyers from mainland are taking advantage of lower prices for commercial properties.
+- Economics
+- Are Indonesia’s Prabowo and ultra rich ‘9 Dragons’ on a collision course?
+- Analysts say the pressure on Indonesia’s older business elite forms part of a broader two-pronged strategy of state capitalism.
+- Chairman of global tech brand TCL sees digital future in ‘Screen Universe’
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 药明康德经调整多赚83%兼上调全年指引，大行齐唱好
+- 汇控次季税前盈利升60%胜预期兼重启回购
 - 机构：DeepSeek新推V4-Flash 成本全球最低
 - 特宣称美伊再谈判 惟无透露细节
 - 算法突破再下一城，少年股神提前祭旗
@@ -155,32 +142,34 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 雲廠商集體大漲，基礎設施產業鏈承壓，AI行情轉向「用鏟人」？
-- 美國財長：可能明日與伊朗達成協議以開放霍爾木茲海峽
-- 國際油價短線走低！卡塔爾：已就潛在美伊協議起草文本，各方正努力通過外交途徑解決衝突
-- 從基建淘金邁向應用變現！高盛研判：AI主線迎來重大切換 微軟有望成核心受益者
-- 北水加倉港股近26億港元，阿里巴巴、華虹宏力、中芯國際分別獲淨買入超15億、11億、10億港元，美團遭淨賣出逾12億港元
-- 收市速睇 | 三大指數漲跌不一，科指漲0.21%；半導體股上行，天數智芯漲近12%，中芯國際漲近5%；光通信、PCB概念股走強，中際旭創漲17%，芯碁微裝漲超22%
-- 亞馬遜兩日跳漲20%背後：AWS加速增長驗證AI需求 資本開支與折舊壓力引擔憂
-- 過去一個月，整個美股AI板塊跌了多少？
+- 富途早報 | 貝森特稱即將達成協議開放海峽，道指、標普500指數齊創新高；Palantir、卡特彼勒績後大漲；Anthropic再籤百億美元算力採購協議；Circle、閃迪、西部數據將發佈業績
+- SpaceX上市後首份業績營收增92%大超預期，星鏈獨撐利潤，AI虧損收窄但支出高於預期
+- SpaceX電話會：劍指美國「第四大運營商」，或提前實現萬億收入目標，芯片鎖定英偉達
+- zHBM！三星公佈全新3D內存路線圖，力爭在AI技術領域取得領先
+- 全球DRAM市場格局變局：三星2026年Q2奪回全球第一，市佔39%重登王座，美光追近海力士
+- AMD大跌！Q2營收、利潤均超預期，數據中心業務翻倍，Q3增長預期未能「驚豔」市場
+- SpaceX將獨家採用英偉達AI計算架構，擬部署太空數據中心
+- AMD電話會：「我們仍處AI週期的早期」，預計2027年數據中心銷售翻倍
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 韓股「W型」轉漲，韓國財長喊話託市，反彈能否持續？
-- 開源vs閉源—大摩推演AI終局：三種情景下的投資圖譜與確定性贏家
-- 算力景氣上行PCB量價齊升，芯碁微裝、大族數控漲幅居前
-- 美伊官員稱伊朗與阿曼接近達成霍爾木茲海峽航行協議
-- 大廠業績提振雲計算板塊，AI公有云有望顯著提振金山雲二季度業績
-- SK海力士聯手閃迪發佈全球首個HBF標準規範，谷歌加入生態
-- 港股午評 | 三大指數齊跌，恒指跌0.49%；光通信股爆發，中際旭創、劍橋科技漲超16%，長飛光纖光纜漲近8%；生物技術股、半導體股上揚，藥明康德、天數智芯漲超10%
-- 龍頭上調業績指引點燃CXO板塊，創新藥訂單持續放量，BD高景氣成核心驅動力
-- 單月狂吞20萬噸！美國颳起史上最猛「搶銅潮」
-- Palantir電話會：力推「主權AI」架構，「沒用我們產品的企業，正在浪費Token、泄露商業機密」
+- 美股收盤 | 地緣緩和+AI業績共振，標普、道指再創新高；費半指數大漲6%；存儲、光通信全線上揚，邁威爾科技漲超12%，閃迪漲超10%；油價再遭重挫
+- 成交額TOP20 | 美光大漲7%，市值重回萬億美元關口；Palantir績後飆升29%；SpaceX聯手英偉達合作設計衛星計算載荷
+- 伊朗稱與阿曼談霍爾木茲取得「積極進展」，被曝放棄「雙向全控」、首次考慮允許歐洲排雷
+- AMD CEO：預計數據中心銷售將在2027年翻倍 將於2027年推出機架級產品
+- 馬斯克：今年將嘗試回收星艦V3的第一級和第二級
+- 黑石擬牽頭360億美元融資，Anthropic與谷歌的資金閉環再擴一環
+- AI算力基建支撐，卡特彼勒Q2營收首次跨過200億門檻，全面上調全年業績指引
+- Astera Labs2026年Q2營收3.924億美元，同比增長104%；調整後EPS0.80美元
+- 誰是AI競賽大贏家？黃仁勳點名馬斯克：他有三大優勢
+- AMD2026年Q2營收115.36億美元，同比增長50%；調整後EPS1.66美元，同比增長246%
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
-- 美国关税: 华尔街见闻 (简中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
+- 美国关税: 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
+- 就业数据: SCMP (EN/中)
+- 黄金/大宗: 华尔街见闻 (简中)
 - 美联储: 华尔街见闻 (简中)
 - 中国政策/两会: 华尔街见闻 (简中)
 

@@ -3,34 +3,30 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 31m | Palantir soars after 'otherworldly' quarter | Trump giving Iran 'every last chance' for Hormuz deal | Elizabeth Warren demands SEC probe Trump memecoin | Trump giving Iran 'every last chance' for Hormuz deal | Elizabeth Warren demands SEC probe Trump memecoin | Asia hedge funds suffer widespread losses in July rout | How a pharma megamerger could squelch R&D
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Apple's India sales top $10 billion on retail push | SpaceX's first-ever earnings report comes as stock hits new low
+  - 头版/首屏: U.S. markets closed | SpaceX beats estimates in earnings debut | Musk: SpaceX will rely exclusively on Nvidia to power AI push | Southwest's extra-seat policy has changed. What passengers need to know. | Musk: SpaceX will rely exclusively on Nvidia to power AI push | Southwest's extra-seat policy has changed. What passengers need to know. | Palantir proves to be 'several steps ahead,' stock skyrockets | Iran weighs allowing Europe to clear mines in Strait of Hormuz
+  - 其他: Top Stories | Markets & Economy | Tech & AI | OpenAI says models breached boundaries during outside testing | AMD stock tumbles despite earnings beat
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: These Analysts Increase Their Forecasts On Jazz Pharmaceuticals Following Q2 Results | Snap To Rally More Than 217%? Here Are 10 Top Analyst Forecasts For Tuesday | This Palantir Analyst Turns Bullish; Here Are Top 5 Upgrades For Tuesday | Boeing’s Smallest 737 Max Finally Wins FAA Certification After a Decade of Delays— but Passengers Still Won’t Board One Until 2027 | Sandisk Stock Is Gaining Tuesday: What's Going On?
+  - 其他: She Wouldn't Lend Her Brother $700 to Save His Job. Her Family Was Furious After She Spent $1,200 on Her Dog 2 Months Later | SpaceX's Starlink Mobile Plans to Take 'Quite a Few' T-Mobile, Verizon, AT&T Customers [CORRECTED] | SpaceX Stock Falls: Gene Munster Calls Q2 ‘A Blow Out’ — ‘Market Missing the Point’ | Musk Praises Vera Rubin Platform on SpaceX Earnings Call, Nvidia Stock Climbs | Why Bed Bath & Beyond Stock Is Falling After Q2 Financial Results
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 美国财长贝森特：观察到利率已经上升，而AI投资热潮并未减弱。 | 麦当劳预计全年资本支出37亿美元至39亿美元，市场预估37.3亿美元。 | 美国财长贝森特（被问及美联储和沃什的策略时）：把这看作是排毒。
-沃什想要保留选项。
-美联储肯定会平衡增长和通胀任务。 | 美财长：可能明日与伊朗达成协议以开放霍尔木兹海峡 | 美国财长贝森特：美联储考虑扩大FIMA回购工具规模是合理的。
-美联储的FIMA回购工具与外汇互换额度没有区别。
-与包括欧洲央行在内的欧洲各方保持密切联系。
-已向欧洲方面保证，只是储备的重新分配。
-在我看来，欧元更接近均衡价格。
-不认为利差交 | 乘联分会：结合7月初步汇总数据，6月厂商批发销量万辆以上的乘用车车企，7月新能源销量合计达138万辆。以6月占比测算，7月全国新能源乘用车批发销量约147万辆，同比增长23%，环比下降1%。 | 贝莱德：即便美联储按兵不动 美国国债收益率仍将走高 | 伊朗消息人士称伊方希望控制霍尔木兹海峡进港航运
-  - 其他: 中欧基金申报首只ETF！非货前20大基金公司，全员布局 | 上海：到2035年全面建成国际领先的智慧气象城市 | 美国财长贝森特：与日本的片山皋月有良好的工作关系。
-一直与日本保持密切联系。
-日本正在努力遏制日元被低估。
-稳定的日元对美国以及整个亚洲地区都很重要。
-很荣幸能与日本站在一起，帮助稳定局势。 | 联创光电：因公司及伍锐先生涉嫌未按规定披露非经营性资金往来等违法行为，中国证监会决定对公司及伍锐先生立案。 | 天津发文促进带薪年休假制度落实
+  - 头版/首屏: 美国堪萨斯城联储主席施密德：需要解决美联储资产负债表中的久期问题。
+美联储自身正在影响收益率曲线的长端。
+美联储工作小组将向联邦公开市场委员会（FOMC）提供建议，而非做出决定。 | 美国堪萨斯城联储主席施密德：科技投资中的杠杆水平值得讨论。 | 美国堪萨斯城联储主席施密德（Jeff Schmid）：需要更紧缩的政策才能使通胀率回落至2%。
+通胀始终是供给和需求共同作用的结果。
+劳动力市场大致处于平衡状态，经济增长具有韧性。
+不认为美联储当前的政策立场具有限制性。
+高通胀在商品和服务 | 华尔街见闻早餐 | 2026年8月5日 | AMD分析师电话会议要点总结 | 提醒：日内请重点关注（以下均为北京时间） | 卡特彼勒分析师电话会议要点回顾 | Lattice Semiconductor二季度营收2.011亿美元，分析师预期1.856亿美元。
+二季度调整后毛利润率71.7%，分析师预期70%。
+  - 其他: 提醒：SpaceX分析师电话会议开始。 | SpaceX二季度财报核心亮点 | SpaceX二季度AI Segment资本开支158.3亿美元，分析师预期130.9亿美元。 | 提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。 | 布伦特原油日内跌幅达6.0%，报78.74美元/桶。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Is China’s DF-17 hypersonic glider ready to strike from anywhere at any time? | Diplomacy | How China’s US$900 million port deal in Angola shows its lead on US interests | Law and Crime | Hong Kong, Macau police arrest 8 over HK$100m Vietnam coffee investment scam | China Economy | China unveils world’s first hybrid boring-and-blasting tunnel machine | Wealth
-  - 其他: PLA anniversary series suggests the world’s first operational weapon of its kind may have achieved a ‘constant state of readiness’. | Standard tunnel boring machines slow down in extremely hard or fractured mountain rock, which has led to delays in infrastructure projects. | How China’s new offshore trust tax rules could shake billionaires’ fortunes | Soho China founder Pan Shiyi’s Cayman trust faces scrutiny as Beijing’s tax overhaul puts offshore wealth strategies in focus. | Tech Trends
+  - 头版/首屏: Why China’s military is laser-focused on ‘disruptive’ technologies | Big Tech | Slapped with reality: why Huawei’s top chip scientist embraces war-hero mindset | US AI leaders are using Chinese open models for cybersecurity. Here’s why | Society | Burst pipes increase pressure on Hong Kong to replace ageing water mains | Banking & Finance | Why China’s new sovereign bond sale in Hong Kong is drawing global interest
+  - 其他: From artificial intelligence to quantum technology and hypersonic weapons, the PLA is in a race to define the next era of warfare. | Three bursts in one area within a week have raised fresh concerns about ageing water infrastructure in the city. | Arriving hot on the heels of the city’s landmark China government bond futures rollout, the latest tranche reinforces Hong Kong's role as a super-connector. | Business | Ningbo-backed innovation platform buys Hong Kong office tower
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 药明康德经调整多赚83%兼上调全年指引，大行齐唱好 | 机构：DeepSeek新推V4-Flash 成本全球最低 | 特宣称美伊再谈判 惟无透露细节 | 算法突破再下一城，少年股神提前祭旗 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 汇控次季税前盈利升60%胜预期兼重启回购 | 机构：DeepSeek新推V4-Flash 成本全球最低 | 特宣称美伊再谈判 惟无透露细节 | 算法突破再下一城，少年股神提前祭旗 | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数25852.92-156.48(-0.60%)
                     etnet.com.hk@copyright | 国企指数8574.26-77.89(-0.90%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -39,28 +35,30 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 雲廠商集體大漲，基礎設施產業鏈承壓，AI行情轉向「用鏟人」？ | 美國財長：可能明日與伊朗達成協議以開放霍爾木茲海峽 | 國際油價短線走低！卡塔爾：已就潛在美伊協議起草文本，各方正努力通過外交途徑解決衝突 | 從基建淘金邁向應用變現！高盛研判：AI主線迎來重大切換 微軟有望成核心受益者 | 北水加倉港股近26億港元，阿里巴巴、華虹宏力、中芯國際分別獲淨買入超15億、11億、10億港元，美團遭淨賣出逾12億港元 | 收市速睇 | 三大指數漲跌不一，科指漲0.21%；半導體股上行，天數智芯漲近12%，中芯國際漲近5%；光通信、PCB概念股走強，中際旭創漲17%，芯碁微裝漲超22% | 亞馬遜兩日跳漲20%背後：AWS加速增長驗證AI需求 資本開支與折舊壓力引擔憂 | 過去一個月，整個美股AI板塊跌了多少？
-  - 其他: 韓股「W型」轉漲，韓國財長喊話託市，反彈能否持續？ | 開源vs閉源—大摩推演AI終局：三種情景下的投資圖譜與確定性贏家 | 算力景氣上行PCB量價齊升，芯碁微裝、大族數控漲幅居前 | 美伊官員稱伊朗與阿曼接近達成霍爾木茲海峽航行協議 | 大廠業績提振雲計算板塊，AI公有云有望顯著提振金山雲二季度業績
+  - 头版/首屏: 富途早報 | 貝森特稱即將達成協議開放海峽，道指、標普500指數齊創新高；Palantir、卡特彼勒績後大漲；Anthropic再籤百億美元算力採購協議；Circle、閃迪、西部數據將發佈業績 | SpaceX上市後首份業績營收增92%大超預期，星鏈獨撐利潤，AI虧損收窄但支出高於預期 | SpaceX電話會：劍指美國「第四大運營商」，或提前實現萬億收入目標，芯片鎖定英偉達 | zHBM！三星公佈全新3D內存路線圖，力爭在AI技術領域取得領先 | 全球DRAM市場格局變局：三星2026年Q2奪回全球第一，市佔39%重登王座，美光追近海力士 | AMD大跌！Q2營收、利潤均超預期，數據中心業務翻倍，Q3增長預期未能「驚豔」市場 | SpaceX將獨家採用英偉達AI計算架構，擬部署太空數據中心 | AMD電話會：「我們仍處AI週期的早期」，預計2027年數據中心銷售翻倍
+  - 其他: 美股收盤 | 地緣緩和+AI業績共振，標普、道指再創新高；費半指數大漲6%；存儲、光通信全線上揚，邁威爾科技漲超12%，閃迪漲超10%；油價再遭重挫 | 成交額TOP20 | 美光大漲7%，市值重回萬億美元關口；Palantir績後飆升29%；SpaceX聯手英偉達合作設計衛星計算載荷 | 伊朗稱與阿曼談霍爾木茲取得「積極進展」，被曝放棄「雙向全控」、首次考慮允許歐洲排雷 | AMD CEO：預計數據中心銷售將在2027年翻倍 將於2027年推出機架級產品 | 馬斯克：今年將嘗試回收星艦V3的第一級和第二級
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **中国/欧盟** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
-- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
+- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
+- **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
+- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
 - **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 伊朗/中东局势（4 站）
-- 油价/能源（3 站）
+- 伊朗/中东局势（3 站）
+- 关税/贸易政策（2 站）
+- 油价/能源（2 站）
 - 中国/欧盟（2 站）
-- 关税/贸易政策（1 站）
+- 就业/经济数据（1 站）
+- 黄金/大宗商品（1 站）
 - 美联储/利率（1 站）
 - 中国政策（1 站）
 - 加密货币（0 站）
-- 就业/经济数据（0 站）
-- 黄金/大宗商品（0 站）
