@@ -3,55 +3,65 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | This week brings key checks on AI infrastructure and inflation | Gold's breakout could force investors back in: Chart of the Day | Wait for Hormuz deal stretches on as Iran says terms must be met | Gold's breakout could force investors back in: Chart of the Day | Wait for Hormuz deal stretches on as Iran says terms must be met | Wealthy shoppers are propping up the furniture industry's recovery | Rivian R2 road test: The make-or-break midsize EV delivers
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Zoox prepares for launch and Uber's AV empire | How AI agents can power the S&P 500 higher
+  - 头版/首屏: U.S. markets open in 1h 30m | JPMorgan strategists raise S&P 500 target as AI capex pays off | AI and inflation: What to watch this week | Retail investors sold SpaceX shares for first time on Friday | AI and inflation: What to watch this week | Retail investors sold SpaceX shares for first time on Friday | Trump hints US will let economic pressure on Iran do the work | New York is having a summer for the ages
+  - 其他: Top Stories | Markets & Economy | Tech & AI | TSMC July 2026 revenue jumps 44.7% on AI chip demand | Meta launches new AI model as Zuckerberg champions open-source
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: I Was Forced Into Retirement at 51 After Losing My IT Job of 25 Years. How Do I Not Run Out of Money Before I Die? | Simon Property Group Stock: What to Expect Ahead of Q2 Earnings | Applied Materials Stock: What to Expect From Q3 Earnings | Nvidia-Backed Lumentum Soaring Again: Will It Rise or Fall After Earnings? | This Couple Saved $50,000 For A Rental Property—Then They Disagreed On Whether To Buy One At All
+  - 其他: Worried the S&P 500 Bull Run Is Getting Old? Top Strategist Says 3.8 Years Is No Reason to Sell: 'Usually Last Many, Many More Years' | Nebius Stock Trades 30% Above Its 200-Day Average Ahead of Wednesday's Earnings | This Guidewire Software Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Monday | How To Earn $500 A Month From Cisco Stock Ahead Of Q4 Earnings | CoreWeave Stock Trades Below Its 200-Day Average Just Ahead of Q2 Earnings
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问 | 华尔街见闻早餐 | 2026年8月10日 | 提醒：日内请重点关注（以下均为北京时间） | 美国芝加哥市发生多起枪击事件 致3死10伤 | 伊朗最高领袖任命佐勒加德尔为其政治顾问 | 特朗普称正在“低调处理”伊朗问题 | 伊媒说议会国家安全委员会批准霍尔木兹海峡安全纲要 | “木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期
-  - 其他: 社保基金接连出手，助力量子科技加速从实验室走向产业化 | 上证报头版文章：货币政策工具储备充足，增量措施有望适时出台 | “白海豚”已减弱为热带风暴 | 内塔尼亚胡被曝曾同意从加沙部分地区撤军 现已反悔 | 布油和WTI原油期货均上涨逾每桶1美元，受霍尔木兹海峡重开的不确定性影响。
+  - 头版/首屏: Anthropic、麦格理与GIC据报达成数据中心合作伙伴关系。（彭博） | MarineMax美股盘前涨超45%。 | 游戏零售商GameStop的科恩据称正考虑撤回对eBay的560亿美元收购要约。（彭博） | 英特尔美股盘前跌超3%，公司将发行150亿美元普通股。英特尔称，此次发行旨在帮助公司实现增长。英特尔提到在人工智能计算领域前所未有的投资。 | 白宫经济顾问哈塞特：如果我现在在美联储，我会选择维持利率不变或降息。
+人工智能或许是未来两年最重要的政策议题。
+政府正在认真研究人工智能安全问题。
+我不会接替丽莎·库克出任美联储理事。
+我不会接替丽莎·库克出任美联储理事。
+日元行动属于贝森 | 苹果美股盘前下跌约1.2%，Jefferies将苹果评级从持有下调至跑输大盘，并指出苹果通过推出价格更高的iPhone来推动增长的产品路线面临挑战。Jefferies将苹果目标价从285.56美元下调至263.66美元。 | 农夫山泉钟睒睒谈“百事和可口可乐竞争”：从来不往下面打价格，低价就等于占领市场是市场经济不成熟的表现 | 特朗普不得已对伊朗降低调门
+  - 其他: 德邦科技：2026年半年度净利润6805.53万元，同比增49.33% | 宇树科技：科创板IPO网上发行最终中签率0.0181% | 幸福蓝海：开展上市十周年股东回馈活动 | 日本经济财政大臣城内实：预计日元贬值不会持续。
+投资增加对日元有利。
+为削减消费税筹集5万亿日元并非难事。
+政府尊重日本央行独立性的立场不变。
+日本央行的政策工作做得很好。 | 美前空军部长被指泄密
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Historian Wang Gungwu on why Xi thinks ‘only the party can save China’ | Diplomacy | China waits in wings as Mecca pact signals Gulf move beyond US security umbrella | Can Europe stay united in China trade battle? Ceuta crisis offers a warning | Society | Youth membership in Hong Kong uniformed groups drops 8% over 5 years | Middle East | Trump says US is ‘low-keying it’ with Iran, stresses economic pain
-  - 其他: The 95-year-old sinologist gives his take on the superpower rivalry, the US advantage and Taiwan, and explains why the past is so important. | Low birth rates contribute to decline despite steady government funding, prompting some lawmakers to call for KPIs to ensure prudent spending. | ‘We are just watching Iran with its huge inflation and the fact they have no money,’ the US president was quoted as saying. | China Business | China retail is ‘hardest’ market to crack due to online price wars, DFI CEO says
+  - 头版/首屏: Beijing official hails China and Cuba as ‘good brothers’ in show of solidarity | Tech Trends | AgiBot dethrones Unitree as world’s top humanoid maker ahead of IPOs | Global Economy | China hits US, Mexican pecans with preliminary anti-dumping curbs | Health & Environment | 7 in 10 Gen Z Hongkongers retouch photos of themselves before posting: survey | Politics
+  - 其他: Liu Haixing, who heads party’s international department, says ties are at ‘unprecedented new height’ during talks with counterpart in Havana. | Frequent photo-editing linked to low self-compassion and negative criticism of appearance, mental health expert says. | Why Taiwan is conducting its first-ever mobile network throttling exercise | Critics question value of tests as authorities aim to prepare public for outages caused by war, cyberattacks or natural disaster. | Diplomacy
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 美高梅中期少賺20%同步減派息，反可趁低吸？ | DeepSeek预告 全面上调API定价 | 伊朗阿曼达霍峡协议 料征通行费 | 双轮驱动出口续韧，人币估值博弈升温 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25668.03+137.75(+0.54%)
-                    etnet.com.hk@copyright | 国企指数8531.58+32.85(+0.39%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 药明康德获美法院涉军企名单，飙逾半成可以点部署？ | 渤海首个千亿方大气田 首期项目投产 | 胡塞袭沙特阿美炼油厂 生产局部中断 | 热浪“空前”非“绝后”，厄尔尼诺引爆通胀？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25937.49+269.46(+1.05%)
+                    etnet.com.hk@copyright | 国企指数8621.84+90.26(+1.06%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 長線進攻信號？伯克希爾Q2大舉動用現金重倉谷歌；AI硬件分歧？週末熱議「空存多光」策略；馬斯克意顛覆光刻機，採用FEL技術挑戰阿斯麥 | 華爾街談「中概」：從「無力」到「機會性看多」 | 美股夜盤：太空概念股續漲，SpaceX再漲近3%；光通信股再度走高 | 一週前瞻 | 通脹大考來襲！美國CPI接棒非農；騰訊、京東領銜中概業績潮，美股AI產業鏈巨頭集中交卷 | 美財長「三箭齊發」穩美債：聯合干預日元、調整發債措辭、力挺沃什，華爾街嗅到焦慮信號 | 霍爾木茲海峽通航前景仍不明朗！伊朗、阿曼尚未達成新航道協議+沙特煉油廠遇襲 | 美銀Hartnett：「戰術」看跌，但「戰略」看漲，因爲政策制定者不會允許市場崩盤 | 芯片股「撞牆」，但市場沒有
-  - 其他: 微軟缺算力，馬斯克補上？SemiAnalysis：SpaceX 2027年新增算力或超10GW，ARR或達3000億美元 | 摩爾線程：籌劃發行H股股票並在香港聯合交易所有限公司主板上市。 | 週末讀物 | 達利歐近期對話：已經出現了典型的泡沫跡象，刺破它的通常是貨幣環境收緊，投資組合的1%是比特幣 | 週末熱議：「空存、多光」？ | 「新王」登基「三把火」：伯克希爾開始「花錢」了，淨買入200億美元股票
+  - 头版/首屏: Meta發佈小型AI模型，一塊顯卡即可本地運行，扎克伯格喊話美國政府：降低對開源AI的准入門檻 | 花旗Q2持倉市值突破3000億美元，大舉增持半導體產業鏈，美光、AMD均獲顯著加倉 | 中國人民銀行印發《中國人民銀行「十五五」改革發展規劃》 | 韓國砸5萬億韓元補半導體短板，軍用機場將爲芯片項目讓路 | Meta發佈新蒸餾版模型 扎克伯格談開源競爭：美國要想領先得減少限制 | 德銀Q2增持美光科技，英偉達位列第一重倉股 開倉2億美元SpaceX | 北水加倉港股超20億港元，MINIMAX、建滔積層板分別獲淨買入10億、6億港元，中芯國際遭淨賣出逾4億港元 | 從GPU到存儲 再到半導體設備與雲計算! 資管巨頭貝萊德Q2增持AI算力 精準預判雲巨頭們崛起
+  - 其他: 高盛前瞻中國互聯網巨企次季業績：聚焦雲增長及AI資本開支，板塊前景具建設性 | 「縮表≠緊縮」！摩根士丹利詳解聯儲局「非對稱縮表」 | 存儲危機愈演愈烈 蘋果iPhone 17今天就要漲價？秋季發佈會有望定檔9月9日 | 拐點已至！高盛：AI開始改寫SaaS業績，贏家與輸家名單浮現 | 城堡證券今年來首次喊多黃金：五大催化劑共振有望引爆金價
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (6 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN) (1 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN) (1 站)
-- **加密货币** — 出现于: Yahoo Finance (EN) (1 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
+- **加密货币** — 出现于: Benzinga (EN) (1 站)
+- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
+- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
+- **中国/欧盟** — 出现于: SCMP (EN/中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 伊朗/中东局势（6 站）
 - 科技股/个股（5 站）
-- 就业/经济数据（3 站）
-- 黄金/大宗商品（3 站）
-- 中国/欧盟（3 站）
-- 关税/贸易政策（1 站）
-- 油价/能源（1 站）
+- 伊朗/中东局势（4 站）
+- 关税/贸易政策（2 站）
+- 油价/能源（2 站）
+- 就业/经济数据（2 站）
+- 中国政策（2 站）
 - 加密货币（1 站）
-- 中国政策（1 站）
-- 美联储/利率（0 站）
+- 黄金/大宗商品（1 站）
+- 美联储/利率（1 站）
+- 中国/欧盟（1 站）
