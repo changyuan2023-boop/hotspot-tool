@@ -3,55 +3,53 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | Fed's Hammack: More than 1 rate hike will be needed to curb inflation | Trump lashes out after Iranian demands, with deal hopes dimming | NFL coach says Tesla's Autopilot may have been engaged during accident | Trump lashes out after Iranian demands, with deal hopes dimming | NFL coach says Tesla's Autopilot may have been engaged during accident | Stock market indicator flashes sign not seen since dot-com bubble | Here's how SpaceX hits this $100 billion number in under 5 months
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Zuckerberg reveals AI plans in lengthy manifesto, derides rivals | OpenAI buys back $7B of employee shares in tender offer
+  - 头版/首屏: U.S. markets open in 1h 30m | Intel's huge rally is helping pay for its AI comeback | Trump hardens stance on Iran, clouding Hormuz deal hopes | Fed's Hammack: More than 1 rate hike will be needed to curb inflation | Trump hardens stance on Iran, clouding Hormuz deal hopes | Fed's Hammack: More than 1 rate hike will be needed to curb inflation | More Americans now live near data centers. It doesn't seem to be affecting their home values — yet | China's car sales extend slide as shift accelerates to overseas markets
+  - 其他: Top Stories | Markets & Economy | Tech & AI | TSMC, Sony to invest $4.7 billion in joint venture for image sensors | DayOne Data Centers files for $5 billion US IPO
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Peter Thiel Was Bullied So Badly Neighborhood Kids Put 'For Sale' Signs Outside His House — but the Palantir Co-founder Was 'Destined for Greatness' | Coherent Could Swing $10.3 Billion In Value After Earnings | My Husband Secretly Took Out A $30K Loan to Bail Out His Dad's Failing Business 2 Weeks Before We Closed on Our First Home — Now Our Mortgage Is Denied | Elon Musk Has 'Believers, Not Investors,' Steve Eisman Says—Is That Why SPCX Pumped Into the 911 Million Share Unlock? | NFL Coach Crashes Tesla Car Using Autopilot: After 40 Stitches Says ‘You Can’t Take Your Eyes Off the Road’
+  - 其他: Why Haven't Bitcoin, Ethereum Moved in Weeks? Technical Analysis May Have the Answer | Elon Musk's SpaceX Lands a New Asian Customer as Vietnam Steps Up Its Space Ambitions | Why Is Intel Stock Falling Tuesday? | NVIDIA's Jensen Huang Says AI Isn’t Just Tech Anymore — It’s Infrastructure, and Wall Street Is Financing It | SpaceX Could Be Worth $14 Trillion? Billionaire Investor Ron Baron Has a Wild 10-Year Vision
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 报道：Anthropic与比特币挖矿公司Riot达成91亿美元算力协议 | 报道：英特尔拟扩大股票发售规模，筹资约200亿美元 | 华尔街见闻早餐 | 2026年8月11日 | 取消涨价50%计划：Anthropic永久锁定Sonnet 5低价，AI代理成本趋稳 | 谷歌AI团队告知求职者：其HR筛选系统不可靠 | 提醒：日内请重点关注（以下均为北京时间） | 特朗普称美军已“100%控制”霍尔木兹海峡 | 加拿大皇家银行（RBC）与蒙特利尔银行（BMO）将按大约20亿加元转让Moneris给Francisco Partners。
-  - 其他: 特朗普淡化与沃什接触：自从沃什接任美联储主席以来，和他谈过一次 | 美国10年期国债收益率涨超5个基点 | 美国总统特朗普声称：你们会知道（关于伊朗问题的消息）的。 | 美国总统特朗普签署关于疫苗推荐的命令。 | JBS股票恢复交易，股价目前跌5%。
+  - 头版/首屏: Beyond Meat美股盘前一度跌近21%，公司董事会批准按1:30比例进行反向股票分割 | 油价短线走低，巴基斯坦称有迹象显示美伊接近达成某种安排 | 巴基斯坦内政部长抵达德黑兰进行会谈。（伊朗媒体MEHR） | 韩国多家券商下调三星、SK海力士目标价，最深下调超30% | 卡塔尔称阿曼与伊朗的会谈已进入深入阶段。（半岛电视台） | 美国7月NFIB中小企业乐观程度指数 99.8%，前值 97.4%。 | 台积电：董事会核准第二季每股现金股利7.0台币。 | SK海力士拟将中国工厂NAND产能提高50%
+  - 其他: 金融监管总局：保险业对近期重大自然灾害累计已赔付76亿元 | 北京文化：公司作为联合出品方的部分电影项目已于2026年暑期档上映，公司参投比例较低，预计不会对业绩产生重大影响。 | 500兆瓦冲击式水电机组转子成功吊装 | 五矿资源：上半年权益持有人应占利润同比增长164%至8.97亿美元。 | 应急管理部针对北京启动国家地质灾害四级应急响应
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: China’s aviation regulator steps up safety communication with foreign carriers | Science | 2,300-year-old wine found near Great Wall ruin reveals ancient brewing secrets | Military | China’s Long March 7A rocket explodes after launch, satellite lost | Law and Crime | Hong Kong’s IOMed ‘ready to tackle state disputes, serve as Asian legal hub’ | Banking & Finance
-  - 其他: The Civil Aviation Administration of China, following some operational changes, has increased its aircraft checks as an additional safety measure. | IOMed head Teresa Cheng says six countries have nominated 26 mediators to handle such disputes, as Hong Kong seeks Asia legal capital role. | China’s banks look to unload US$8.2b in bad credit-card loans | The pace of disposal efforts has accelerated since July, coinciding with the country’s slowing economy. | Politics
+  - 头版/首屏: Chinese paratrooper killed in Qinghai exercise as PLA acknowledges casualties | Politics | Over 8,200 detained as China launches year-long crackdown on organised crime | Policy | China’s central bank eyes global yuan in first solo 5-year plan in over a decade | Society | Search under way for missing cruise passenger off Hong Kong mega bridge | Big Tech
+  - 其他: Death of 23-year-old was one of two parachute-related incidents in consecutive months recently made public by the PLA. | Review of on-board security footage led the vessel’s operator to suspect the man had fallen into the sea during the voyage. | Alibaba tests paid AI appetite with US$30 annual QwenWork subscription | The e-commerce giant launches paid tiers for its QwenWork assistant as costs for artificial intelligence mount. | Diplomacy
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 药明康德获美法院涉军企名单，飙逾半成可以点部署？ | 渤海首个千亿方大气田 首期项目投产 | 胡塞袭沙特阿美炼油厂 生产局部中断 | 热浪“空前”非“绝后”，厄尔尼诺引爆通胀？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25937.49+269.46(+1.05%)
-                    etnet.com.hk@copyright | 国企指数8621.84+90.26(+1.06%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 机构料iPhone18Pro成本暴增近四成，苹概股未宜沾手？ | 全球人形机器人上半年出货 中国占97% | 美共和党经济议题支持度 远逊民主党 | 热浪“空前”非“绝后”，厄尔尼诺引爆通胀？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25652.82-284.67(-1.10%)
+                    etnet.com.hk@copyright | 国企指数8528.10-93.74(-1.09%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 特朗普稱「100%控制」海峽，美伊圍繞賠償互不相讓；聯儲局鷹派稱或需多次加息，9月加息概率升破五成；英偉達攜華爾街籌建5000億美元AI融資平台 | 英偉達聯手華爾街六大巨頭，籌5000億美元押注AI基礎設施，信用違約互換創兩週最大漲幅 | 中金：反彈還有多少後勁？ | Rocket Lab績後大跌！Q2業績好壞參半+Q3盈利預測遜於預期 Neutron火箭項目面臨延期風險 | 1年大漲400%後！英特爾增發200億美元，爲「未來增長」籌資 | 特朗普否認與沃什頻繁通話：自從沃什接任以來，只談過一次 | 英偉達(NVDA.US)獲華爾街5000億美元融資承諾，AI「循環融資」擔憂再起 | 克利夫蘭聯儲主席稱或需多次加息抑制通脹，特朗普持續施壓要求減息，聯儲局獨立性爭議升溫
-  - 其他: 成交額TOP20 | 英偉達聯手華爾街巨頭，籌劃5000億美元押注AI基礎設施；SpaceaX再漲4%，股價重回發行價上方；Meta發佈小型AI模型；英特爾增發150億美元普通股 | 美股收盤 | 三大股指小幅收跌，半導體指數跌近3%；光通信板塊高開低走，Coherent跌超14%，Lumentum跌超8%；海峽僵局助推油價大漲5% | 取消漲價50%計劃！Anthropic永久鎖定Sonnet 5低價，AI代理成本趨穩 | USA Rare Earth2026年Q2營收580萬美元；調整後每股虧損0.15美元 | AST SpaceMobile2026年Q2營收3150萬美元；稀釋後每股虧損0.77美元
+  - 头版/首屏: 巴基斯坦就美伊談判發出信號：已「接近達成某種安排」 | AI算力鏈「風向標」迎大考：超微電腦今夜放榜！期權市場押注13.4%股價波動，看漲情緒濃厚 | 存儲見頂擔憂升溫，韓國多家券商下調三星、SK海力士目標價，最深下調超30% | 美國7月CPI明日來襲！摩通推演五大情景，美股巨震將至？ | 北水減倉港股近14億港元，淨買入中信證券超5億港元，賣出阿里巴巴逾3億港元 | 股價錯殺？據稱蘋果玻璃機身iPhone仍在推進，但放棄全玻璃設計 | Rocket LabQ2電話會：Neutron首飛時間窗口「正在收窄」，調整後EBITDA轉正季度取決於試飛成功時間 | 「新聯儲局通訊社」重磅警示：9月加息與否，通脹數據說了算！
+  - 其他: 美股光通信板塊暴跌，路透一篇舊調查爲什麼突然成了利空？ | AI槓桿、美債利率與霍爾木茲海峽--這個夏天主導全球市場的三大因素 | 收市速睇 | 三大指數齊跌，科指跌近2%；機器人概念股、石油股走強，微創機器人漲超7%，中國海洋石油漲超3%；黃金股走弱，靈寶黃金跌超8%，紫金黃金國際跌超7% | 半導體行業調研熱度，被反超了 | 高盛：AI下一主線從算力轉向人形機器人
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (3 站)
-- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
-- **就业/经济数据** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **加密货币** — 出现于: 华尔街见闻 (简中) (1 站)
-- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **加密货币** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 伊朗/中东局势（5 站）
 - 科技股/个股（5 站）
+- 中国/欧盟（5 站）
 - 油价/能源（4 站）
-- 中国/欧盟（3 站）
-- 关税/贸易政策（2 站）
-- 就业/经济数据（2 站）
-- 美联储/利率（2 站）
-- 加密货币（1 站）
-- 黄金/大宗商品（1 站）
-- 中国政策（0 站）
+- 伊朗/中东局势（3 站）
+- 加密货币（2 站）
+- 美联储/利率（1 站）
+- 中国政策（1 站）
+- 关税/贸易政策（0 站）
+- 就业/经济数据（0 站）
+- 黄金/大宗商品（0 站）
