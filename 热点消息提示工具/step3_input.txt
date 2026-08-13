@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年8月12日`
+`早间热点线索 · 2026年8月13日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026081220
+抓取时间: 2026081309
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 31m
-- CoreWeave soars after 'an important inflection point'
-- US consumer prices likely increased in July as gasoline prices eased
-- Inside David Ellison's desperate fight for Warner Bros.
-- US consumer prices likely increased in July as gasoline prices eased
-- Inside David Ellison's desperate fight for Warner Bros.
-- Bank of America pledges $250 billion for US infrastructure financing
-- Norway $2.3 trillion fund posts best quarter since 2020
-- Older Americans are dropping out of the workforce. Blame the soaring stock market.
-- Nasdaq futures rise on strong earnings ahead of CPI data
-- Nvidia partner Hon Hai profit beats on AI spending
-- Yen traders use options for 'flexibility' into US inflation data
+- U.S. markets closed
+- Trump officials say Hormuz stats are wrong amid doubts of US control
+- Why are fast food chains are going all in on energy drinks?
+- Paramount considering oversight body for CNN in Warner deal
+- Why are fast food chains are going all in on energy drinks?
+- Paramount considering oversight body for CNN in Warner deal
+- Iran takes more aggressive military stance with US talks frozen
+- Richest to profit in Trump's capital gain tax ideas for midterms
+- Stocks edge higher as inflation eases, earnings impress
+- Gas prices have never been so high this late into the summer
+- S&P 500 earnings are so good investors are starting to worry
+- Consumer inflation eased to 3.4% in July, despite energy shocks
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- Tech stocks are getting cheaper even as earnings stay strong: Chart of the Day
-- Supermicro stock jumps on strong earnings, Q1 guidance
-- Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts
-- SK Hynix, Samsung extend gains after report Temasek to invest
+- Tokenomics is not a pricing problem - it's an architecture problem.
+- AI cloud provider Lambda prices loan for Nvidia-tied chip deal
+- Cisco, Cerebras results signal strong AI demand, but stocks fall
+- AI infrastructure stocks surge after CoreWeave, Supermicro results
 - Popular
-- US sells Venezuela-linked tanker seized after high-seas chase
-- Iran wants a 'protection' toll on the Strait of Hormuz
+- Here's what your Social Security COLA could be in 2027
+- Musk's planned $16.8B chip factory is 5x the world's largest building
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,73 +145,71 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- CoreWeave To Rally Around 95%? Here Are 10 Top Analyst Forecasts For Wednesday
-- EXCLUSIVE: Scienture Launches Highest-Dose Naloxone Nasal Spray Rezenopy in US
-- Leonardo DRS Eyes Bigger UAE Defense Footprint With Space42 Satellite Deal
-- Wall Street's Most Accurate Analysts Weigh In On 3 Industrials Stocks With Over 3% Dividend Yields
-- Exclusive: Scott Bessent Says K-Shaped Economy Is Over, but Wall Street Veteran Says Wealth Divide Is Worsening: ‘50% of Americans Own No Stocks and Are Getting Left Behind’
-- Stock Market Today: S&P 500, Nasdaq 100 Futures Rise Ahead of July CPI Print—CoreWeave, Nebius, Super Micro, Lumentum in Focus
+- Trump Says Giving Away Free Rent, Food and Housing Sounds Good at First — It ‘Leads to Death, Destruction and Squalor 100% of the Time’
+- The Cavs' Tristan Thompson Told Teammates to Long Bitcoin: 'Stack Digital Gold, Buy it Every Day'
+- Is Dogecoin Expensive? Another Run Could 'Still Take a Bit,' Veteran Trader Says
+- Alpha And Omega Semiconductor Stock Falls on Q4 Earnings, Soft Guidance
+- Congressman Violates Stock Act: Reports 22 Trades After Deadline, Including Some Nearly Two Years Old
+- Nate Silver's New Election Model Makes Democrats Favorites to Flip Senate—Prediction Markets Aren't so Sure
 - Strait Of Hormuz
-- Trump Accounts Just Became More Attractive to Working Parents: Employers Can Contribute $2,500 Tax-Free Under New Treasury Guidance
-- Coherent Likely To Report Higher Q4 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
-- Top 3 Tech And Telecom Stocks That Are Set To Fly This Quarter
+- Uber Sells Serve Robotics Stake, Catches Company Off Guard: ‘Differing Views’ Sour Partnership
+- The Crypto Shakeout Investors Should Actually Welcome
+- Elon Musk Says Money Won’t Matter In 10 Years — Ex-Google X Executive Mo Gawdat Told Me The Same Thing, But His Warning Is Darker
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美股存储芯片股盘前普涨，SK海力士涨超4%，闪迪涨超4%，希捷科技、美光科技涨近3%，西部数据涨超3%。
-- 高盛将以23亿美元收购ETF供应商NEOS。（彭博）
-- 三星电子引入Anthropic Claude，芯片验证从一个月压缩至两天
-- 高盛：美联储或许2026年全年都维持利率不变 通胀将趋于缓和
-- 文远知行第二季度营收2.317亿元人民币，同比+82%，预估1.707亿元人民币
-第二季度净亏损4.007亿元人民币，预估亏损3.013亿元人民币。
-第二季度毛利率37.5％，上年同期28.1％。
-第二季度研发支出4.343亿元人民币，同比
-- 美国8月7日当周MBA抵押贷款申请活动指数周环比 3.6%，前值 -2.9%。
-- 巴基斯坦外长：对话与外交仍是解决地区问题唯一有效途径
-- 特朗普政府将至少花费9亿美元用于白宫翻修。（华盛顿邮报）
-- 中共中央 全国人大常委会 国务院 全国政协讣告 朱镕基同志逝世
-- 美股期指短线拉升，纳斯达克100指数期货上涨0.7%。
-美国国债上涨，美国10年期国债收益率下行3个基点至4.66%。
-- WorkBuddy PC端6月访问量突破2000万
-- 腾讯Q2财报：模型与产品双向赋能，云收入同比增长，Hy4近期发布
+- 华尔街见闻早餐 | 2026年8月13日
+- CoreWeave新增风险提示：若需从英伟达芯片转向其他芯片将面临困难
+- 提醒：日内请重点关注（以下均为北京时间）
+- 周三（8月12日）纽约尾盘，现货黄金涨0.86%，报4408.84美元/盎司。
+现货白银冲高回落，日内涨幅1.02%，报65.322美元/盎司。
+COMEX铜期货倒V反转，盘中一度走强1.25%，随后涨幅全部回吐，最终日内跌幅0.37%，报
+- 美油主力合约收跌0.75%，报82.58美元/桶；布油主力合约跌0.6%，报88.38美元/桶。美国上周原油库存意外大幅增加1742.3万桶，远超出市场原本减少的预期，叠加欧佩克下调了全球原油需求增长预测，对油价形成压制。
+- 周三（8月12日）纽约尾盘（周三北京时间04:59），美元兑离岸人民币（CNH）报6.7464元，持平于周二纽约尾盘汇价，日内整体交投于6.74193-6.74873元区间。
+- "光通信巨头"Coherent业绩与指引全面超越市场预期
+- “英伟达挑战者”Cerebras Q2营收翻倍但亏损依旧，盘后跳水逾12%
+- 中概股普遍下跌，纳斯达克中国金龙指数跌2.4%
+- 思科2027财年销售额指引超出市场预期，盘后股价涨2%
+- 周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌
+- 超微电脑收盘上涨19%，创7月22日以来最佳单日表现。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 中国央行：预计本轮主要经济体央行货币政策调整将相对温和
-- 中国央行：将着力推动数据报告库强化组织建设，完善各项制度规则
-- 中国央行：以市场化方式引导地方法人金融机构加大对民营企业的信贷投放
-- 中国央行：逐步增加隔夜逆回购的操作频率，进一步畅通政策利率向市场利率的传导
-- 硕贝德：拟定增募资不超过10.96亿元，用于服务器散热模组项目、智能眼镜轻量化射频组件项目、低轨卫星通信天线及模组项目、补充流动资金。
-- 中国央行：淡化对贷款这个单一融资渠道的关注，把贷款和债券融资等合并观察
-- 中国央行：稳定市场预期，防范汇率超调风险
-- 中国央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持
-- 中国央行：及时谋划出台务实管用的增量政策，加大逆周期调节力度
-- 中国央行发布2026年第二季度中国货币政策执行报告
+- 美国农业部：将阿根廷2025/2026年度大豆产量预期从之前的5000万吨下调至4950万吨；将巴西2025/2026年度大豆产量预期从之前的1.8亿吨上调至1.805亿吨。维持阿根廷2025/2026年度玉米产量预期在6300万吨不变；将
+- 俄罗斯7月CPI环比上涨0.54%，预估增幅为0.68%。俄罗斯7月CPI同比上涨5.98%；预估增幅为6.10%。
+- Jane Street发行146亿美元债券 10年期收益率逾8%
+- 渣打牵头的Anchorpoint推出港元稳定币
+- 瑞士拟立法强制延迟银行高管奖金发放 最长可达五年
+- 欧洲斯托克50指数收盘跌0.2%，德国DAX指数跌0.2%，英国富时100指数跌0.12%，法国CAC 40指数跌0.46%。
+- SpaceXAI宣布推出Grok 4.6
+- 美国银行将以约19亿美元收购Jio金融子公司49.9%的股份。（彭博）
+- 美银对冲基金客户继续大买美股 单周规模创出2008年以来之最
+- 特朗普因计划出售Truth Social帖文快速访问权限计划遭起诉。（彭博）
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Developing | Zhu Rongji, China’s chief engineer of economic reform, dies aged 97
-- Politics
-- Blackout at Terracotta Army museum prompts cultural safety review in China
+- Zhu Rongji, China’s chief engineer of economic reform, dies aged 97
+- Obituary | Zhu Rongji: leading China’s transformation through ‘minefield or abyss’
+- John Lee leads tributes as Zhu remembered for putting steel in city’s spine
+- In Focus | Singapore and South Korea eye science opportunity as US-China ties shatter
+- Hong Kong Economy
+- In Focus | What comes next for Hong Kong as a global financial hub?
+- US-China ‘Board of Investment’ stalls before expected Trump-Xi meeting
 - Banking & Finance
-- HSBC reshuffles insurance division after CEO’s surprise departure: internal memo
-- Health & Environment
-- Contractor ordered to fix faulty lifts causing Queen Mary Hospital block delay
-- In Focus | Why does Hong Kong need a 5-year plan – and will it curb its free-market economy?
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Zhu, who rose to become premier, spearheaded China’s entry into the World Trade Organization.
-- Lawmaker says situation involving Anlev Elex Elevator ‘unacceptable’, warning it could further delay HK$13.5 billion redevelopment project.
-- As Hong Kong embraces long-term planning for the first time, economists and officials debate whether strategic state guidance can coexist with its open, market-led economy.
+- Zhu, who rose to become premier, spearheaded China’s entry into the World Trade Organization
+- New research hubs are emerging in other countries in response to Washington’s restrictions – but there are likely to be few winners overall.
+- Will Warren Buffett’s firm lose its aura in China as he steps back?
+- As the company’s new leader makes a mark by ending a 14-quarter net-selling streak, analysts discuss the staying power of value investing.
+- China
+- China offers Colombia quake aid as new government pivots towards US
+- Beijing pledges help after the magnitude 7.4 earthquake, but its ambassador’s request for a coordinator remains unanswered.
 - Diplomacy
-- China approves Japanese envoy in Chongqing, ending 8-month vacancy
-- Shigehiro Nishiumi fills post at consulate in southwestern megacity left open amid diplomatic row over Sanae Takaichi’s Taiwan comments.
-- Policy
-- EU’s new packaging rules leave China’s traders feeling boxed in
-- As trade tensions rise, Brussels has implemented new rules aimed at reducing packaging waste, with the threat of fines and bans for non-compliance.
-- Business
+- US charges 11 over sham marriages involving Chinese nationals, American soldiers
+- More than 1,000 marriages were allegedly arranged in decade-long immigration fraud scheme that generated tens of millions of dollars.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 阿里云拟将全球数据中心产能提升逾两倍，可看高一线？
+- 传SK拟恢复大连NAND工厂建设，AI股逆市炒上怎么决定
 - 中国大学关键技术专利占比 达美8倍
 - 哥伦比亚7.4级地震 最少164死数百伤
 - 热浪“空前”非“绝后”，厄尔尼诺引爆通胀？
@@ -238,35 +236,37 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 五五開的加息賭局：今晚20:30，CPI或決定聯儲局9月是「開槍」還是繼續觀望
-- 「遍地撒網」式搶電反釀堵車！千吉瓦申請僅三成落地，美國AI競賽或被「幽靈項目」拖慢腳步
-- 「全球資產定價之錨」迎來關鍵時刻！若美國CPI送來鴿派驚喜，美債空頭回補或助推風險資產漲勢
-- CPI前市場極度緊張！PIMCO給出「定心丸」：利率必然暴跌！
-- 韓媒：三星、SK海力士醞釀「史詩級」分紅回購 ，合計或超1400億美元
-- 「泡泡瑪特保險公司」繼續營業 段永平通過期權交易回補好倉
-- 央行：及時謀劃出臺務實管用的增量政策，加大逆週期調節力度
-- 三星電子引入Anthropic Claude，芯片驗證從一個月壓縮至兩天
+- 富途早報 | AI「不缺需求缺算力」！大摩稱供應瓶頸或持續數年；DeepSeek V4 Pro正式版上線，撞車Grok 4.6；閃迪投資者日、中芯華虹業績今日來襲
+- SpaceXAI新「殺器」：Grok 4.6智能體測試力壓GPT-5.6、Fable 5，定價僅競品一半
+- 黃金反彈能走多遠？加息預期降溫只是開始，傑克遜霍爾或成下一道關卡
+- 花旗大膽看多：銀價未來6-12個月有望衝擊90美元/盎司
+- Cerebras績後大跌！硬件營收意外下滑，「挑戰英偉達」之路遇需求波動
+- DeepSeek V4 Pro正式版深夜「突襲」：多項測試逼近Fable 5，撞車Grok 4.6
+- 思科上季營收創紀錄，AI訂單爆發、狂攬40億，本財年指引更超預期
+- 華爾街點評騰訊業績：AI價值已在廣告業務顯現，高額資本開支旨在換取長期AI基礎設施門票
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 馬斯克：五年後AI將佔SpaceX估值99%，目標明年底建成10吉瓦算力
-- 「全球資產定價之錨」迎來關鍵時刻! 若美國CPI送來鴿派驚喜 美債空頭回補或助推風險資產漲勢
-- 北水減倉港股超29億港元，淨買入MINIMAX超7億港元，加倉騰訊控股近7億港元，淨賣出阿里巴巴逾14億港元，拋售建滔積層板近10億港元
-- 騰訊Q2營收同比增長11%超預期，算力採購大幅推高資本開支至527.8億元，自由現金流轉負
-- 段永平對泡泡瑪特持股比例從5.55%升至7.70%
-- 黃金殺回4400美元，牛市重啓了嗎？
-- 但斌最新持倉來了！新進7家公司
-- 中金：資產配置——全球流動性到拐點了嗎？
-- 騰訊控股Q2營收2047.85億元，同比增長11%；經調整淨利潤684.15億元，同比增長9%
-- 算力即抵押品：英偉達正在複製一場70年代的金融創新
+- 中金：恒生科技擴容的影響與意義
+- 光通信巨頭Coherent業績與指引全面超預期，稱新財年需求異常強勁，績後仍走低
+- Cerebras電話會：「快速推理需求是無限的」，明年一季度上線AWS Bedrock
+- 白宮新聞秘書辭職，特朗普中期選舉前痛失「最鋒利的話筒」
+- 成交額TOP20 | SpaceX勁升10%，發佈新「殺器」Grok 4.6；雲計算雙雄績後大漲，NEBIUS飆升34%，CoreWeave漲逾19%；谷歌Pixel 11系列正式發佈
+- 據悉蘋果洽談向出版商付費，以提升其人工智能Siri
+- 美股收盤 | 溫和CPI緩解加息壓力，標普500指數逼近歷史新高；存儲、光通信、雲計算齊飛，SK海力士漲超9%，Lumentum漲超13%，NEBIUS暴漲34%；黃金延續強勢
+- MSCI中國旗艦指數調整：新納入智譜等33只標的
+- 美國10年期國債發行收益率創2007年金融危機以來最高
+- 「大空頭」增持NBIS、美光、甲骨文、SOXX空頭頭寸，MELI、ZTS多頭頭寸
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
 - 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
 - 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
-- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 美国关税: Benzinga (EN)
-- 黄金/大宗: 华尔街见闻 (简中)
-- 美联储: 华尔街见闻 (简中)
+- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 美国关税: 华尔街见闻 (简中)
+- 加密货币: Benzinga (EN)
+- 就业数据: SCMP (EN/中)
+- 中国/欧盟: SCMP (EN/中)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
