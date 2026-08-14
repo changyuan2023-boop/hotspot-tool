@@ -3,61 +3,54 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | S&P 500 hits record high as inflation worries ease | Selena Gomez accused of fraud by mental-health startup investors | In a new test, AI mortgage assistants got nearly 1 in 4 answers wrong | Selena Gomez accused of fraud by mental-health startup investors | In a new test, AI mortgage assistants got nearly 1 in 4 answers wrong | Car insurance premiums are climbing again in more than half the US | Cheesecake Factory is crushing Chipotle in rare restaurant rotation
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Applied Materials stock falls after solid earnings fail to impress | 'Big Short' investor Steve Eisman says Anthropic and OpenAI are the 'Achilles' heel' of the AI trade
+  - 头版/首屏: U.S. markets open in 1h 30m | Wall Street's riskiest trades are suddenly back on top: Chart of the Day | One Big Investment Idea: The next AI winners may look nothing like Nvidia or Micron | JPMorgan debanked Polymarket over regulatory concern | One Big Investment Idea: The next AI winners may look nothing like Nvidia or Micron | JPMorgan debanked Polymarket over regulatory concern | BofA's Hartnett sees a Republican Senate win fueling stock rally | US says dozens of countries helped China dodge Trump's tariffs
+  - 其他: Top Stories | Markets & Economy | Tech & AI | Reddit stock surges after S&P 500 inclusion | OpenAI sheds senior execs in pre-IPO refresh
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Buyers Hear It's a Buyer's Market and Start Making Offers Way Below Asking. That Doesn't Mean Every Seller Is Desperate | Reddit Stock Pops on Long-Awaited S&P 500 Inclusion | T. Rowe Price Crypto Chief Says AI Stole Crypto's 'Marginal Buyer' but She Still Remains Bullish | Congressman Ditches Blue Chip Stocks for Municipal Bonds: Here Are the Sales | QUICK SPARK: Dell, JPMorgan, Merck All Mark New All-Time Highs
+  - 其他: Applied Industrial Technologies To Rally Around 12%? Here Are 10 Top Analyst Forecasts For Friday | Hunt For Rare Earths Gets Harder As JL MAG Drops Australia Deal | Wall Street's Most Accurate Analysts Spotlight On 3 Materials Stocks Delivering High-Dividend Yields | 2,000 Robotaxis, Four New Cities: Pony AI, Uber Accelerate Europe’s Driverless Push | Tencent Music Posts Slowest Growth In 2 Years Amid ByteDance Competition
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 发警报迫使特朗普换机 中情局质疑以色列用意 | 美财长称将对伊朗实施前所未见措施 | 华尔街见闻早餐 | 2026年8月14日 | 苹果CEO库克亮相苹果休斯顿工厂 | 美国能源部长赖特：美国知道每天有多少艘船只进出霍尔木兹海峡。
-每天有800万至900万桶石油经由霍尔木兹海峡运输。
-伊朗正试图以全球经济为要挟。
-美国护送和运送货物的能力正在增强。
-霍尔木兹海峡石油运输量将继续增加。 | 提醒：日内请重点关注（以下均为北京时间） | 伊朗划“红线” 美军组特遣队 海峡博弈再度升级 | 美国芝加哥联储主席Goolsbee（2027年FOMC票委）：最新通胀数据“略有改善”。
-用一个词来形容美国的经济，那就是“稳定”。
-  - 其他: 美防长称可无限期封锁伊朗 | 第二艘超级油轮现身沙特主要石油出口码头，装船活动或在回升 | 美国股债相关性创30年来新高，达到互联网泡沫破裂前几年的水平 | 上期所基本金属夜盘多数下跌，不锈钢跌0.94% | Anthropic首席财务官克里正主导与投资者进行早期IPO沟通，目前尚未讨论估值问题。（CNBC）
+  - 头版/首屏: 腾讯控股：本公司于二零二六年八月十四日，根据购股权计划的条款向雇员参与者授予1,952,440份购股权，以认购股份（惟须待获授人接纳后方可作实）。 | 北汽蓝谷Robotaxi将规模落地欧洲市场 | 阿里巴巴：调整2032年到期零息可交换债券交换率 | 美股存储芯片股盘前走高，闪迪涨超6%，美光科技涨3%，西部数据涨近3%，希捷科技涨超2%。 | OpenAI首席营收官任职不到一年离职 | 百度文库网盘GenFlow官宣中文名「库库AI」，推出「库库AI」办公独立端 | 美银：货币市场和债券基金单周吸金最多 | 阿里超15亿美金向中信资本出售灵犀互娱
+  - 其他: 北京文化：2026年半年度净利润亏损3920.48万元 | 深交所：本周对近期股价严重异常波动的“蓝盾光电”进行重点监控。 | 国家发改委紧急安排3000万元支持河南灾后应急恢复 | 浪潮集团架构调整：智能终端并入智慧科技，董事长孙业志卸任 | 美国银行将联想评级从中性上调至买入，目标价46港元。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: In Focus | Why Singapore scholarships are drawing China’s brightest STEM talent | China Economy | Shifting tides in maritime sector float Chinese shipyard’s outlook | Military | Satellite images show 50 per cent boost to China’s Type 054B missile capacity | In Focus | Hong Kong’s university town: where’s the money and what will success look like? | Diplomacy | US accuses 9 Latin American countries of helping China avoid Trump’s tariffs
-  - 其他: City state’s scholarships for students from China form an early-stage talent pipeline into its highly skilled workforce, experts say. | In order for universities to expand successfully into the Northern Metropolis, clear development parameters, timelines and financing models are needed. | More than 40 countries targeted for helping Beijing illegally avoid tariffs by rerouting trade via nations with lower American import duties. | Hong Kong to reappoint insurance regulator as industry braces for tough period | Insurance Authority CEO Clement Cheung Wan-ching will be reappointed Friday to help industry navigate Beijing’s tax clampdown, sources said.
+  - 头版/首屏: Zhipu launches GLM-5.3 model as China seeks Mythos-level edge in cyber defence | Military | Could new transport-tanker capability boost PLA power past first island chain? | Diplomacy | China urged to avoid ‘us or them’ split with US over AI governance | Hong Kong Economy | Hong Kong garners 16,000 submissions from consultation for city’s first 5-year plan | Science
+  - 其他: Company says GLM-5.3 outperformed leading US systems in cybersecurity tests, beating Anthropic’s Mythos 5 and OpenAI’s GPT-5.6 on CyberGym. | Minister Janice Tse says analysis of public submissions shows general support for more focused integration into national development. | Miles ahead: China team boosts atom entanglement distance record fourfold | The breakthrough is expected to provide a foundation for scalable quantum communications, computing and networked sensing. | Big Tech
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 腾讯次季资本开支激增1.8倍，股价下挫是危还是机？ | Manus：与Meta分拆 将恢复独立营运 | 特秘密转机 被批漠视空军一号人员安全 | 热浪“空前”非“绝后”，厄尔尼诺引爆通胀？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25396.51-43.66(-0.17%)
-                    etnet.com.hk@copyright | 国企指数8426.49-19.78(-0.23%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 长和长实中期盈利大升但派息仅增5%，股价齐插半成 | 长鑫超腾讯 中国市值最高上市公司 | 普京首访南千岛群岛 日方强烈抗议 | 热浪“空前”非“绝后”，厄尔尼诺引爆通胀？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25116.85-279.66(-1.10%)
+                    etnet.com.hk@copyright | 国企指数8340.83-85.66(-1.02%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 與市場分歧加劇！「超鷹」聯儲官員喊話加息；閃迪劍指2030年中高雙位數增長，毛利率目標約80%；美股機構Q2持倉今迎披露截止日 | 閃迪押注AI重塑閃存市場：規模或從600億飆至5000億美元，預計FY2028-30營收中高雙位數增長 | 成交額TOP20 | 閃迪拋出重磅財務指引，股價大漲13%，SK海力士跟漲7%；谷歌推出Gemini 3.7 Flash；思科績後跌超8% | 谷歌密集上新Gemini Flash：編程能力提升、價格腰斬，旗艦模型發佈時間仍未定 | 美股收盤 | PPI數據再緩加息壓力，三大指數齊升標普收新高；Workday飆升18%，帶動軟件股集體衝高，IGV漲超3%；中概股走低，京東績後跌超7%，拼多多跌超5% | Workday大漲18%，軟件股衝高，報道：Silver Lake擬收購Workday | OpenAI 上市前年化營收突破 400 億美元 | 京東集團Q2營收同比降近3%但仍超預期，外賣業務拖累減弱，經營利潤同比扭虧
-  - 其他: OpenAI首席營收官突然離職 本週第二位核心高管出走 | 高達100% 美國將對進口無人機及零部件徵收關稅 | 應用材料2026財年Q3營收91.2億美元，同比增長25%；調整後EPS3.50美元，同比增長41% | 美股三大指數集體收漲，道指漲0.13%，納指漲0.81%，標普500指數漲0.65%。存儲板塊大漲，閃迪漲超13%，西部數據、海力士漲超7%。光通信板塊走低，Coherent跌約8%，Lumentum、康寧、Applied Optoelectronics跌超5%。 | 華爾街最鷹！美銀重申激進預測：聯儲局今年將加息三次
+  - 头版/首屏: 告別「不排除」：SK海力士赴美實地選址前端晶圓廠，AI巨頭施壓倒逼內存供應鏈重構 | 高盛解析閃迪投資者日：長期盈利目標超預期 HBF瞄準AI「內存牆」 | 中期選舉成AI牛市分水嶺？ 美銀Hartnett ：若共和黨守住參議院，AI股或一路「狂飆」至2027年 | 本週美股牛股 | NEBIUS周累計漲近36%，業績超預期加手握400億美元訂單；閃迪漲超26%，投資者日表述積極；超微電腦漲近26%，業績與業績展望雙超預期，毛利率強勢修復 | 韓股周漲11%結束七週連跌，但主力倉位還沒到，逼空行情箭在弦上？ | 大摩解析SpaceX「1太瓦算力」最快路徑：不是數據中心，而是22億臺機器人 | 既押AI算力繁榮，也防擁擠交易清算！瑞銀Q2狂買美光與納指Call，增持禮來Call、指數Put | 北水減倉港股超13億港元，MINIMAX、智譜均獲淨買入超13億港元，騰訊控股獲淨買入超11億港元；聯想集團、阿里巴巴遭淨賣出近11億港元
+  - 其他: OpenAI、Anthropic推出新指標——「cost-per-task」，以更好衡量AI成本 | 英偉達CPO交換機全面量產，AI數據中心邁入「硅光時代」！ | LG與英偉達簽署協議：2027年推出搭載英偉達芯片的人形機器人 | 870億美元干預反成套利者做空良機：日元回吐一半漲幅逼近160，高市政府力挺秋季加息 | 收市速睇 | 三大指數齊跌，科指跌1.77%，MINIMAX跌超12%；存儲概念、光通信股走強，南方最多兩倍做多海力士漲超10%，劍橋科技漲超9%；醫藥股下行，康方生物跌超7%
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (6 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
+- **伊朗/中东局势** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
 - **油价/能源/霍尔木兹** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **加密货币** — 出现于: Benzinga (EN) (1 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
+- **就业/经济数据** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 科技股/个股（6 站）
-- 关税/贸易政策（4 站）
-- 中国/欧盟（3 站）
+- 科技股/个股（5 站）
+- 中国/欧盟（5 站）
 - 伊朗/中东局势（2 站）
+- 关税/贸易政策（2 站）
 - 油价/能源（2 站）
-- 黄金/大宗商品（2 站）
 - 美联储/利率（2 站）
-- 加密货币（1 站）
+- 中国政策（2 站）
 - 就业/经济数据（1 站）
-- 中国政策（1 站）
+- 加密货币（0 站）
+- 黄金/大宗商品（0 站）

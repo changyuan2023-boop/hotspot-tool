@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：早间**
-**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
+**当前模式：晚间**
+**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`早间热点线索 · 2026年8月14日`
+`晚间热点线索 · 2026年8月14日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 早间模式操作指令
+## 晚间模式操作指令
 
-聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
+聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
 重点关注（按重要性排序写入）：
-1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
-2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
-3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
-4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
+1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
+4. 其他值得今晚关注的美股消息
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026081409
+抓取时间: 2026081420
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- S&P 500 hits record high as inflation worries ease
-- Selena Gomez accused of fraud by mental-health startup investors
-- In a new test, AI mortgage assistants got nearly 1 in 4 answers wrong
-- Selena Gomez accused of fraud by mental-health startup investors
-- In a new test, AI mortgage assistants got nearly 1 in 4 answers wrong
-- Car insurance premiums are climbing again in more than half the US
-- Cheesecake Factory is crushing Chipotle in rare restaurant rotation
-- White House: 40 US trading partners are helping China evade tariffs
-- Hertz shares fall after Ackman's Pershing sells stake in firm
-- Wholesale prices didn't accelerate in July, but they weren't cool either
-- Mortgage rates see first drop in 6 weeks
+- U.S. markets open in 1h 30m
+- Wall Street's riskiest trades are suddenly back on top: Chart of the Day
+- One Big Investment Idea: The next AI winners may look nothing like Nvidia or Micron
+- JPMorgan debanked Polymarket over regulatory concern
+- One Big Investment Idea: The next AI winners may look nothing like Nvidia or Micron
+- JPMorgan debanked Polymarket over regulatory concern
+- BofA's Hartnett sees a Republican Senate win fueling stock rally
+- US says dozens of countries helped China dodge Trump's tariffs
+- Stocks waver after stocks hit record high
+- Cooler inflation data may force Warsh's divided Fed to hold the line on rates
+- AI-driven surge in bond yields could be risk for markets and growth
+- China's high-tech boom seen failing to halt slowdown of economy
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- Applied Materials stock falls after solid earnings fail to impress
-- 'Big Short' investor Steve Eisman says Anthropic and OpenAI are the 'Achilles' heel' of the AI trade
-- Reddit shares surge on S&P 500 inclusion later this month
-- Nvidia bulls may have a small problem
+- Reddit stock surges after S&P 500 inclusion
+- OpenAI sheds senior execs in pre-IPO refresh
+- Z.ai aims to catch Anthropic, OpenAI in coding with new AI model
+- Apple trains its own AI model for China market with Alibaba's support
 - Popular
-- BofA issues urgent message for Intel after $20B offering
-- Trump gets sued for selling $100,000 fast passes to his social posts
+- Jim Cramer names 6 AI stocks primed to surge
+- Michael Burry takes aim at surging AI stock
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,76 +145,74 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Buyers Hear It's a Buyer's Market and Start Making Offers Way Below Asking. That Doesn't Mean Every Seller Is Desperate
-- Reddit Stock Pops on Long-Awaited S&P 500 Inclusion
-- T. Rowe Price Crypto Chief Says AI Stole Crypto's 'Marginal Buyer' but She Still Remains Bullish
-- Congressman Ditches Blue Chip Stocks for Municipal Bonds: Here Are the Sales
-- QUICK SPARK: Dell, JPMorgan, Merck All Mark New All-Time Highs
-- Anthropic Weighs Its Largest-Ever Acquisition, a $6 Billion Deal for Decart
+- Applied Industrial Technologies To Rally Around 12%? Here Are 10 Top Analyst Forecasts For Friday
+- Hunt For Rare Earths Gets Harder As JL MAG Drops Australia Deal
+- Wall Street's Most Accurate Analysts Spotlight On 3 Materials Stocks Delivering High-Dividend Yields
+- 2,000 Robotaxis, Four New Cities: Pony AI, Uber Accelerate Europe’s Driverless Push
+- Tencent Music Posts Slowest Growth In 2 Years Amid ByteDance Competition
+- Stock Market Today: Dow Jones Futures Slip, S&P 500 Gains as US Says it Can Maintain Iran Blockade 'Indefinitely'—SanDisk, Workday, JD.com, Applied Materials in Focus
 - Strait Of Hormuz
 - Anthropic
-- Abnormal AI CEO Says the Age of AI Attacks Is Forcing a Rethink of Cybersecurity
-- Nebius Has Found a New Way to Finance AI Infrastructure
+- Luigi Mangione to Reportedly Plead Guilty in Federal Case Over UnitedHealthcare CEO Brian Thompson’s Killing: UNH Stock in Focus
+- Sandisk Leads Institutional Order Flow Activity As Capital Expands Across Market Sectors
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 发警报迫使特朗普换机 中情局质疑以色列用意
-- 美财长称将对伊朗实施前所未见措施
-- 华尔街见闻早餐 | 2026年8月14日
-- 苹果CEO库克亮相苹果休斯顿工厂
-- 美国能源部长赖特：美国知道每天有多少艘船只进出霍尔木兹海峡。
-每天有800万至900万桶石油经由霍尔木兹海峡运输。
-伊朗正试图以全球经济为要挟。
-美国护送和运送货物的能力正在增强。
-霍尔木兹海峡石油运输量将继续增加。
-- 提醒：日内请重点关注（以下均为北京时间）
-- 伊朗划“红线” 美军组特遣队 海峡博弈再度升级
-- 美国芝加哥联储主席Goolsbee（2027年FOMC票委）：最新通胀数据“略有改善”。
-用一个词来形容美国的经济，那就是“稳定”。
-- 美联储9月维持利率不变的概率为65.2%
-- OpenAI 上市前年化营收突破 400 亿美元
-- 文件显示AMD的47.5亿美元高级无担保票据发行定价方案已确定，共分为四个批次。
-- 富时中国A50指数期货夜盘收盘涨0.03%。
+- 腾讯控股：本公司于二零二六年八月十四日，根据购股权计划的条款向雇员参与者授予1,952,440份购股权，以认购股份（惟须待获授人接纳后方可作实）。
+- 北汽蓝谷Robotaxi将规模落地欧洲市场
+- 阿里巴巴：调整2032年到期零息可交换债券交换率
+- 美股存储芯片股盘前走高，闪迪涨超6%，美光科技涨3%，西部数据涨近3%，希捷科技涨超2%。
+- OpenAI首席营收官任职不到一年离职
+- 百度文库网盘GenFlow官宣中文名「库库AI」，推出「库库AI」办公独立端
+- 美银：货币市场和债券基金单周吸金最多
+- 阿里超15亿美金向中信资本出售灵犀互娱
+- 腾讯混元徐灿转岗微信WeLM
+- SK海力士因可交换债换股及股价上涨确认3.98万亿韩元损失
+- 中国1至7月新增人民币贷款 103800亿人民币，前值 107200亿人民币。
+中国7月M2货币供应同比 7.7%，前值 8%。
+中国7月M1货币供应同比 4%，前值 4%。
+中国7月M0货币供应同比 11.6%，前值 11.8%。
+- 叮咚买菜：将进驻合肥市场 今年长三角地区计划新增超百个前置仓
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 美防长称可无限期封锁伊朗
-- 第二艘超级油轮现身沙特主要石油出口码头，装船活动或在回升
-- 美国股债相关性创30年来新高，达到互联网泡沫破裂前几年的水平
-- 上期所基本金属夜盘多数下跌，不锈钢跌0.94%
-- Anthropic首席财务官克里正主导与投资者进行早期IPO沟通，目前尚未讨论估值问题。（CNBC）
-- 美国30年期国债发行的中标收益率创2001年以来新高
-- OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。
-- 谷歌推出新版 Gemini Flash，但顶级AI模型仍延迟发布
-- 伦敦股市13日下跌
-- 美国：成立新的无人机特遣部队，部队将使用来自美国及伙伴国的攻击无人机。
+- 北京文化：2026年半年度净利润亏损3920.48万元
+- 深交所：本周对近期股价严重异常波动的“蓝盾光电”进行重点监控。
+- 国家发改委紧急安排3000万元支持河南灾后应急恢复
+- 浪潮集团架构调整：智能终端并入智慧科技，董事长孙业志卸任
+- 美国银行将联想评级从中性上调至买入，目标价46港元。
+- 乍得总统特赦前总理马斯拉等政治人物
+- 美媒爆料：泽连斯基面临棘手难题，关键时刻找不到合适的驻美大使人选
+- 名创优品：预计2026年上半年期内利润约人民币9.4亿元至人民币9.6亿元，同比增加约4%至6%
+- 富力地产前7个月总销售收入约80.3亿元
+- 金融监管总局：上半年保险公司原保险保费收入3.9万亿元，同比增长3.2%
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- In Focus | Why Singapore scholarships are drawing China’s brightest STEM talent
-- China Economy
-- Shifting tides in maritime sector float Chinese shipyard’s outlook
+- Zhipu launches GLM-5.3 model as China seeks Mythos-level edge in cyber defence
 - Military
-- Satellite images show 50 per cent boost to China’s Type 054B missile capacity
-- In Focus | Hong Kong’s university town: where’s the money and what will success look like?
+- Could new transport-tanker capability boost PLA power past first island chain?
 - Diplomacy
-- US accuses 9 Latin American countries of helping China avoid Trump’s tariffs
+- China urged to avoid ‘us or them’ split with US over AI governance
+- Hong Kong Economy
+- Hong Kong garners 16,000 submissions from consultation for city’s first 5-year plan
+- Science
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- City state’s scholarships for students from China form an early-stage talent pipeline into its highly skilled workforce, experts say.
-- In order for universities to expand successfully into the Northern Metropolis, clear development parameters, timelines and financing models are needed.
-- More than 40 countries targeted for helping Beijing illegally avoid tariffs by rerouting trade via nations with lower American import duties.
-- Hong Kong to reappoint insurance regulator as industry braces for tough period
-- Insurance Authority CEO Clement Cheung Wan-ching will be reappointed Friday to help industry navigate Beijing’s tax clampdown, sources said.
-- Politics
-- South Korea’s moon landing, quantum chips: Seoul bets big on post-AI economy
-- The country has identified seven next-generation industries, including nuclear fusion and small modular reactors, to stem sluggish growth potential.
-- Business
-- Why Hong Kong’s strategic advantages attract global talent
+- Company says GLM-5.3 outperformed leading US systems in cybersecurity tests, beating Anthropic’s Mythos 5 and OpenAI’s GPT-5.6 on CyberGym.
+- Minister Janice Tse says analysis of public submissions shows general support for more focused integration into national development.
+- Miles ahead: China team boosts atom entanglement distance record fourfold
+- The breakthrough is expected to provide a foundation for scalable quantum communications, computing and networked sensing.
+- Big Tech
+- Back in the Harness: DeepSeek continues its pivot towards agentic AI
+- With the launch of Harness, China’s DeepSeek continues to build the foundational digital scaffolding for autonomous AI agents.
+- People
+- Families of Lion Air crash victims suffer again, ‘predatory’ lawyer evades jail
+- Keith Griffin has admitted that he knew his boss Tom Girardi failed to distribute settlement funds to families of the Lion Air victims.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 腾讯次季资本开支激增1.8倍，股价下挫是危还是机？
-- Manus：与Meta分拆 将恢复独立营运
-- 特秘密转机 被批漠视空军一号人员安全
+- 长和长实中期盈利大升但派息仅增5%，股价齐插半成
+- 长鑫超腾讯 中国市值最高上市公司
+- 普京首访南千岛群岛 日方强烈抗议
 - 热浪“空前”非“绝后”，厄尔尼诺引爆通胀？
 - 指数环球商品外汇
 - 国金观点
@@ -224,9 +222,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25396.51-43.66(-0.17%)
+- 恒生指数25116.85-279.66(-1.10%)
                     etnet.com.hk@copyright
-- 国企指数8426.49-19.78(-0.23%)
+- 国企指数8340.83-85.66(-1.02%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -239,37 +237,35 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 與市場分歧加劇！「超鷹」聯儲官員喊話加息；閃迪劍指2030年中高雙位數增長，毛利率目標約80%；美股機構Q2持倉今迎披露截止日
-- 閃迪押注AI重塑閃存市場：規模或從600億飆至5000億美元，預計FY2028-30營收中高雙位數增長
-- 成交額TOP20 | 閃迪拋出重磅財務指引，股價大漲13%，SK海力士跟漲7%；谷歌推出Gemini 3.7 Flash；思科績後跌超8%
-- 谷歌密集上新Gemini Flash：編程能力提升、價格腰斬，旗艦模型發佈時間仍未定
-- 美股收盤 | PPI數據再緩加息壓力，三大指數齊升標普收新高；Workday飆升18%，帶動軟件股集體衝高，IGV漲超3%；中概股走低，京東績後跌超7%，拼多多跌超5%
-- Workday大漲18%，軟件股衝高，報道：Silver Lake擬收購Workday
-- OpenAI 上市前年化營收突破 400 億美元
-- 京東集團Q2營收同比降近3%但仍超預期，外賣業務拖累減弱，經營利潤同比扭虧
+- 告別「不排除」：SK海力士赴美實地選址前端晶圓廠，AI巨頭施壓倒逼內存供應鏈重構
+- 高盛解析閃迪投資者日：長期盈利目標超預期 HBF瞄準AI「內存牆」
+- 中期選舉成AI牛市分水嶺？ 美銀Hartnett ：若共和黨守住參議院，AI股或一路「狂飆」至2027年
+- 本週美股牛股 | NEBIUS周累計漲近36%，業績超預期加手握400億美元訂單；閃迪漲超26%，投資者日表述積極；超微電腦漲近26%，業績與業績展望雙超預期，毛利率強勢修復
+- 韓股周漲11%結束七週連跌，但主力倉位還沒到，逼空行情箭在弦上？
+- 大摩解析SpaceX「1太瓦算力」最快路徑：不是數據中心，而是22億臺機器人
+- 既押AI算力繁榮，也防擁擠交易清算！瑞銀Q2狂買美光與納指Call，增持禮來Call、指數Put
+- 北水減倉港股超13億港元，MINIMAX、智譜均獲淨買入超13億港元，騰訊控股獲淨買入超11億港元；聯想集團、阿里巴巴遭淨賣出近11億港元
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- OpenAI首席營收官突然離職 本週第二位核心高管出走
-- 高達100% 美國將對進口無人機及零部件徵收關稅
-- 應用材料2026財年Q3營收91.2億美元，同比增長25%；調整後EPS3.50美元，同比增長41%
-- 美股三大指數集體收漲，道指漲0.13%，納指漲0.81%，標普500指數漲0.65%。存儲板塊大漲，閃迪漲超13%，西部數據、海力士漲超7%。光通信板塊走低，Coherent跌約8%，Lumentum、康寧、Applied Optoelectronics跌超5%。
-- 華爾街最鷹！美銀重申激進預測：聯儲局今年將加息三次
-- 需求疲軟信號再現，30年期美債標售得標利率創2001年來新高
-- 谷歌：推出Gemini 3.7 Flash模型。Gemini 3.7 Flash將在今年年底前以限時優惠價格提供，輸入價格爲每100萬個詞元0.75美元，輸出價格爲每100萬個詞元3.75美元。Gemini 3.7 Flash在複雜文檔處理方面性能超過Gemini 3.6 Flash。
-- 小幅反彈！美國上週首申人數升至20.9萬，就業市場韌性猶存
-- Gemini 3.5 Pro延遲發佈、人才持續流失——谷歌新AI掌門接手一個「爛攤子」
-- 投資中的科學：運氣到底有多重要？
+- OpenAI、Anthropic推出新指標——「cost-per-task」，以更好衡量AI成本
+- 英偉達CPO交換機全面量產，AI數據中心邁入「硅光時代」！
+- LG與英偉達簽署協議：2027年推出搭載英偉達芯片的人形機器人
+- 870億美元干預反成套利者做空良機：日元回吐一半漲幅逼近160，高市政府力挺秋季加息
+- 收市速睇 | 三大指數齊跌，科指跌1.77%，MINIMAX跌超12%；存儲概念、光通信股走強，南方最多兩倍做多海力士漲超10%，劍橋科技漲超9%；醫藥股下行，康方生物跌超7%
+- 蘋果在華押注「雙軌AI戰略」：一邊接入阿里千問，一邊打造自己的本土大模型
+- 美銀重申Rocket Lab「買入」評級：短期發射擾動是噪音，估值核心看2026年Neutron首飛
+- 礦企第二季度衆生相：爭搶AI數據中心，賺到錢了嗎？
+- 智譜發佈GLM-5.3模型、「爲編程而生」，性能比肩Fable 5
+- 日元再度逼近160關口，日本前外匯外交官警告：美日「隨時」可能再次聯手干預、日本央行或加快加息步伐
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 美国关税: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 伊朗/中东: 华尔街见闻 (简中), 富途资讯 (繁中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中)
-- 黄金/大宗: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 加密货币: Benzinga (EN)
-- 就业数据: Yahoo Finance (EN)
-- 中国政策/两会: 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), Benzinga (EN)
+- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
+- 就业数据: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
