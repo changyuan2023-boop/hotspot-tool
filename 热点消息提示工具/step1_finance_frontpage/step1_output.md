@@ -3,56 +3,56 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | Markets just flipped the script on Warsh's Fed | As jobs disappear, could economic mobility be for sale? | Why Medicare Advantage providers are cutting plans | As jobs disappear, could economic mobility be for sale? | Why Medicare Advantage providers are cutting plans | CEO who fired 900 staff before Christmas is now mad that he got fired | Walmart and big box store earnings: What to watch this week
-  - 其他: Top Stories | Tech & AI | Markets & Economy | Skyrocketing beef prices have Americans reaching their limit | 20 reasons why Wendy's may be doomed
+  - 头版/首屏: U.S. markets open in 1h 31m | Walmart and big box store earnings: What to watch this week | China's recovery sputters as consumption, output lose steam | Asian refiners avoid Red Sea for Saudi oil pickup | China's recovery sputters as consumption, output lose steam | Asian refiners avoid Red Sea for Saudi oil pickup | The AI trade got crushed. The bull market barely noticed. | Why Medicare Advantage providers are cutting plans — and what to do
+  - 其他: Top Stories | Tech & AI | Markets & Economy | Stock futures waver ahead of retail earnings | Japan's 10-year bond yield hits a 30-year high as growth data disappoints
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Suze Orman Says 'I'll Work Longer' Isn't a Retirement Plan. It Can Make Sense but Is 'a Dangerous Strategy' | AeroVironment Stock Faces Key Earnings Test as Analysts Remain Divided | Analog Devices Earnings Could Trigger a Move as Options Price in Modest Volatility | 5 Great Stocks This $9.7 Billion Value Fund Just Bought | My Boomer Dad Got Laid Off After Refusing to Learn New Software. He Thought They Couldn't Get Rid of Him
+  - 其他: This Onto Innovation Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Monday | This Aehr Test Systems Analyst Begins Coverage On A Bullish Note; Here Are Top 4 Initiations For Friday (CORRECTED) | Bitcoin Stuck Around $63,000 but Volatility Is Coming, Analyst Warns | What's Going On With Experion Stock On Monday? | Bill Gates’ Foundation Cut $800 Million in Q2 From Warren Buffett’s Berkshire Hathaway — Here’s Where It Put the Money Instead
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 涉中美AI，美被曝想逼多国“二选一” | AI融资需求不断攀升 Alphabet考虑首次发行澳元债券 | 伊朗总统：伊美谅解备忘录“维护尊严、展现实力” | 华尔街见闻早餐 | 2026年8月17日 | 杠杆出清行情或近尾声，全球科技股再迎资金流入 | 特朗普要求“大幅缩减”美韩军演规模 | 提醒：日内请重点关注（以下均为北京时间） | 特朗普：欢迎沙土巴三国签署共同防务协议
-  - 其他: 旺季临近叠加供给收缩，钨价有望企稳回升 | 自营理财逐步退场，中小银行财富管理业务换“打法” | 新发基金频现提前结募，多位绩优基金经理看好科技成长 | 半年回调压力释放，专家：黄金步入筑底向上阶段 | 哥伦比亚强震已致289人死亡 逾18万人受灾
+  - 头版/首屏: 高盛：对冲基金大举买入更像调仓而非重新增加风险敞口 8月迄今亚洲净卖出最多 | Snap美股盘前跌幅收窄至5%，此前一度跌16%。 | 特朗普威胁称，如果阿曼妨碍美国，美国将轰炸阿曼 | Snap美股盘前跌幅扩大至逾15%。 | 伊朗称正与阿曼敲定霍尔木兹海峡谅解协议 | 阿里推出AI音乐模型快乐虾米 | 百度AI漫剧季度分润增长88%，二线短剧平台看到新机会 | 特朗普再称伊朗绝不能拥有核武器
+  - 其他: 以色列总理发言人：内塔尼亚胡会见库什纳、Mladenov以及布莱尔 | 长安基金“易主”后换帅：43岁万联证券CIO陈卓权接任董事长，崔晓健届满离任 | 复旦微电：2026年上半年净利润8.49亿元，同比增长338.58% | 日本第22轮核污染水排海总量近8000吨 | 我国算力需求扩张 带动全产业链投资大幅增加
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Nirupama Rao and Lin Minwang on the great India-China face-off | Economy | More interest in home-grown C919 lays bare demand-supply mismatch at Comac | Politics | Communist Party invokes Jiang’s legacy in call to rally round Xi’s leadership | Education | How to help more of Hong Kong’s non-Chinese-speaking students reach university | Military
-  - 其他: Experts debate the deep fault lines in bilateral ties – from the long-running border dispute to trust and competing narratives. | Admission rate for NCS students sitting university entrance exam has remained persistently low over past five academic years. | From cargo to combat: China urged to prepare civilian ships for wartime use | Defence researcher at top planning agency says Beijing should draw lessons from the Falklands conflict to commandeer commercial vessels. | People
+  - 头版/首屏: China’s pharma contractors rally on pushback to US supply chain pressure | Politics | China’s Xi praises former president Jiang’s contribution in show of party unity | China Business | Billionaire Geely Auto head Li Shufu steps down as profit slips | Society | Hong Kong halves environmental impact review times with AI in efficiency drive | Diplomacy
+  - 其他: Genscript posted adjusted net profit of US$62.52 million for the six months ended June 30, a 203 per cent year-on-year surge. | Government rolls out first batch of 30 projects across 13 departments to improve services such as food licensing, leisure facility bookings. | Can China follow its own ‘technological path’ amid growing AI rivalry with US? | The country must adapt to external pressure by building the capacity to set international standards, according to one leading commentator. | China Economy
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 长和长实中期盈利大升但派息仅增5%，股价齐插半成 | 长鑫超腾讯 中国市值最高上市公司 | 普京首访南千岛群岛 日方强烈抗议 | 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25116.85-279.66(-1.10%)
-                    etnet.com.hk@copyright | 国企指数8340.83-85.66(-1.02%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 中芯次季多赚2.6倍，华虹次季多赚3.8倍，中芯更值博？ | 阿里千问下载破30亿次 超Meta及Google | 伊朗阿曼传达共识 霍峡将辟新航道 | 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25453.23+336.38(+1.34%)
+                    etnet.com.hk@copyright | 国企指数8439.97+99.14(+1.19%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | AI基建開始兌現利潤？標普盈利增速創30年新高；英偉達首度披露SpaceX持倉，成後者第六大股東；美國數據中心需求向發電儲能設備外溢 | 美股迎「零售業績周」：沃爾瑪領銜登場，市場押注聯儲局9月按兵不動概率超70% | 一週前瞻 | 港股超級業績周！阿里、小米、快手、泡泡瑪特等集體放榜；聯儲局會議紀要週四來襲 | 特斯拉Roadster或本月亮相：搭載SpaceX推進器，能「飛行」的超級跑車 | 出路在哪裏？多國央行陷入「救火-加槓桿-再救火」的循環困境 | 20年期美債拍賣成本週焦點，收益率或創2020年重啓以來新高 | 「前所未見」的對伊制裁會打向哪裏？美國正評估這些關鍵方向 | 高盛宣告「第二太空時代」降臨：太空經濟正崛起爲全新機構資產類別
-  - 其他: 納斯達克一天交易23小時，搶的是誰的生意？ | OpenAI內部動盪加劇：重組不斷，員工疲憊，高管離職潮持續，上市計劃悄然推遲 | 韓國「存儲雙雄」散戶股東激增，每五名成年人中有一人持有三星股票 | 德銀：央行購金+ETF流入，黃金處於「爆炸性」上漲階段 | 週末讀物 | 蒸餾風暴：AI公司不願公開談論的技術競賽
+  - 头版/首屏: Anthropic IPO估值有多激進？華爾街押注：2028年收入狂飆至2000億美元 | Neocloud經濟模型圖解：需求不缺，資本效率決定勝負 | 中金：海外流動性會出問題麼？ | 大摩：亞馬遜AWS的萬億美元營收之路 | 北水加倉港股近31億港元，淨買入中芯國際近18億港元，掃貨智譜近17億港元，淨賣出華虹宏力近8億港元 | 銀價還能再漲近40%？花旗堅持看多白銀 | 霍爾木茲海峽石油流量究竟是多少？美能源部與市場追蹤數據相差一倍 | 美國屢次「違約」，伊朗強硬派放棄對美幻想，被曝祕密擴軍備戰「新一輪對抗」
+  - 其他: 投資大佬德魯肯米勒兩年來首次買入中概股，大舉加倉亞馬遜和AMD，清倉博通、英特爾、美光 | 收市速睇 | 三大指數齊漲，科指漲1.58%，科網股表現亮眼，阿里漲近2%；光通信、存儲、PCB概念股普漲，長飛光纖光纜漲超12%，瀾起科技、建滔積層板漲超9% | 從「砍掉存儲」到「請來李錫熙」，英特爾爲何再次轉身？ | 統計局：7月份全國規模以上工業增加值同比增長4.5% | 國家統計局：1—7月份社會消費品零售總額287744億元，同比增長1.2%
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (3 站)
-- **油价/能源/霍尔木兹** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
-- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
-- **美国关税（15%等）** — 出现于: 富途资讯 (繁中) (1 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
-- **中国/欧盟** — 出现于: SCMP (EN/中) (1 站)
-- **中国重大政策/两会** — 出现于: 富途资讯 (繁中) (1 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (6 站)
+- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
+- **加密货币** — 出现于: Benzinga (EN) (1 站)
+- **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 科技股/个股（5 站）
+- 科技股/个股（6 站）
 - 伊朗/中东局势（3 站）
-- 油价/能源（2 站）
-- 加密货币（2 站）
-- 就业/经济数据（2 站）
+- 油价/能源（3 站）
+- 美联储/利率（3 站）
+- 中国/欧盟（3 站）
+- 关税/贸易政策（2 站）
 - 黄金/大宗商品（2 站）
-- 关税/贸易政策（1 站）
-- 美联储/利率（1 站）
-- 中国/欧盟（1 站）
-- 中国政策（1 站）
+- 中国政策（2 站）
+- 加密货币（1 站）
+- 就业/经济数据（1 站）
