@@ -3,23 +3,23 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 30m | Wall Street's riskiest trades are suddenly back on top: Chart of the Day | One Big Investment Idea: The next AI winners may look nothing like Nvidia or Micron | JPMorgan debanked Polymarket over regulatory concern | One Big Investment Idea: The next AI winners may look nothing like Nvidia or Micron | JPMorgan debanked Polymarket over regulatory concern | BofA's Hartnett sees a Republican Senate win fueling stock rally | US says dozens of countries helped China dodge Trump's tariffs
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Reddit stock surges after S&P 500 inclusion | OpenAI sheds senior execs in pre-IPO refresh
+  - 头版/首屏: U.S. markets closed | Markets just flipped the script on Warsh's Fed | As jobs disappear, could economic mobility be for sale? | Why Medicare Advantage providers are cutting plans | As jobs disappear, could economic mobility be for sale? | Why Medicare Advantage providers are cutting plans | CEO who fired 900 staff before Christmas is now mad that he got fired | Walmart and big box store earnings: What to watch this week
+  - 其他: Top Stories | Tech & AI | Markets & Economy | Skyrocketing beef prices have Americans reaching their limit | 20 reasons why Wendy's may be doomed
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Applied Industrial Technologies To Rally Around 12%? Here Are 10 Top Analyst Forecasts For Friday | Hunt For Rare Earths Gets Harder As JL MAG Drops Australia Deal | Wall Street's Most Accurate Analysts Spotlight On 3 Materials Stocks Delivering High-Dividend Yields | 2,000 Robotaxis, Four New Cities: Pony AI, Uber Accelerate Europe’s Driverless Push | Tencent Music Posts Slowest Growth In 2 Years Amid ByteDance Competition
+  - 其他: Suze Orman Says 'I'll Work Longer' Isn't a Retirement Plan. It Can Make Sense but Is 'a Dangerous Strategy' | AeroVironment Stock Faces Key Earnings Test as Analysts Remain Divided | Analog Devices Earnings Could Trigger a Move as Options Price in Modest Volatility | 5 Great Stocks This $9.7 Billion Value Fund Just Bought | My Boomer Dad Got Laid Off After Refusing to Learn New Software. He Thought They Couldn't Get Rid of Him
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 腾讯控股：本公司于二零二六年八月十四日，根据购股权计划的条款向雇员参与者授予1,952,440份购股权，以认购股份（惟须待获授人接纳后方可作实）。 | 北汽蓝谷Robotaxi将规模落地欧洲市场 | 阿里巴巴：调整2032年到期零息可交换债券交换率 | 美股存储芯片股盘前走高，闪迪涨超6%，美光科技涨3%，西部数据涨近3%，希捷科技涨超2%。 | OpenAI首席营收官任职不到一年离职 | 百度文库网盘GenFlow官宣中文名「库库AI」，推出「库库AI」办公独立端 | 美银：货币市场和债券基金单周吸金最多 | 阿里超15亿美金向中信资本出售灵犀互娱
-  - 其他: 北京文化：2026年半年度净利润亏损3920.48万元 | 深交所：本周对近期股价严重异常波动的“蓝盾光电”进行重点监控。 | 国家发改委紧急安排3000万元支持河南灾后应急恢复 | 浪潮集团架构调整：智能终端并入智慧科技，董事长孙业志卸任 | 美国银行将联想评级从中性上调至买入，目标价46港元。
+  - 头版/首屏: 涉中美AI，美被曝想逼多国“二选一” | AI融资需求不断攀升 Alphabet考虑首次发行澳元债券 | 伊朗总统：伊美谅解备忘录“维护尊严、展现实力” | 华尔街见闻早餐 | 2026年8月17日 | 杠杆出清行情或近尾声，全球科技股再迎资金流入 | 特朗普要求“大幅缩减”美韩军演规模 | 提醒：日内请重点关注（以下均为北京时间） | 特朗普：欢迎沙土巴三国签署共同防务协议
+  - 其他: 旺季临近叠加供给收缩，钨价有望企稳回升 | 自营理财逐步退场，中小银行财富管理业务换“打法” | 新发基金频现提前结募，多位绩优基金经理看好科技成长 | 半年回调压力释放，专家：黄金步入筑底向上阶段 | 哥伦比亚强震已致289人死亡 逾18万人受灾
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Zhipu launches GLM-5.3 model as China seeks Mythos-level edge in cyber defence | Military | Could new transport-tanker capability boost PLA power past first island chain? | Diplomacy | China urged to avoid ‘us or them’ split with US over AI governance | Hong Kong Economy | Hong Kong garners 16,000 submissions from consultation for city’s first 5-year plan | Science
-  - 其他: Company says GLM-5.3 outperformed leading US systems in cybersecurity tests, beating Anthropic’s Mythos 5 and OpenAI’s GPT-5.6 on CyberGym. | Minister Janice Tse says analysis of public submissions shows general support for more focused integration into national development. | Miles ahead: China team boosts atom entanglement distance record fourfold | The breakthrough is expected to provide a foundation for scalable quantum communications, computing and networked sensing. | Big Tech
+  - 头版/首屏: Nirupama Rao and Lin Minwang on the great India-China face-off | Economy | More interest in home-grown C919 lays bare demand-supply mismatch at Comac | Politics | Communist Party invokes Jiang’s legacy in call to rally round Xi’s leadership | Education | How to help more of Hong Kong’s non-Chinese-speaking students reach university | Military
+  - 其他: Experts debate the deep fault lines in bilateral ties – from the long-running border dispute to trust and competing narratives. | Admission rate for NCS students sitting university entrance exam has remained persistently low over past five academic years. | From cargo to combat: China urged to prepare civilian ships for wartime use | Defence researcher at top planning agency says Beijing should draw lessons from the Falklands conflict to commandeer commercial vessels. | People
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 长和长实中期盈利大升但派息仅增5%，股价齐插半成 | 长鑫超腾讯 中国市值最高上市公司 | 普京首访南千岛群岛 日方强烈抗议 | 热浪“空前”非“绝后”，厄尔尼诺引爆通胀？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 长和长实中期盈利大升但派息仅增5%，股价齐插半成 | 长鑫超腾讯 中国市值最高上市公司 | 普京首访南千岛群岛 日方强烈抗议 | 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久 | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数25116.85-279.66(-1.10%)
                     etnet.com.hk@copyright | 国企指数8340.83-85.66(-1.02%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -28,29 +28,31 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 告別「不排除」：SK海力士赴美實地選址前端晶圓廠，AI巨頭施壓倒逼內存供應鏈重構 | 高盛解析閃迪投資者日：長期盈利目標超預期 HBF瞄準AI「內存牆」 | 中期選舉成AI牛市分水嶺？ 美銀Hartnett ：若共和黨守住參議院，AI股或一路「狂飆」至2027年 | 本週美股牛股 | NEBIUS周累計漲近36%，業績超預期加手握400億美元訂單；閃迪漲超26%，投資者日表述積極；超微電腦漲近26%，業績與業績展望雙超預期，毛利率強勢修復 | 韓股周漲11%結束七週連跌，但主力倉位還沒到，逼空行情箭在弦上？ | 大摩解析SpaceX「1太瓦算力」最快路徑：不是數據中心，而是22億臺機器人 | 既押AI算力繁榮，也防擁擠交易清算！瑞銀Q2狂買美光與納指Call，增持禮來Call、指數Put | 北水減倉港股超13億港元，MINIMAX、智譜均獲淨買入超13億港元，騰訊控股獲淨買入超11億港元；聯想集團、阿里巴巴遭淨賣出近11億港元
-  - 其他: OpenAI、Anthropic推出新指標——「cost-per-task」，以更好衡量AI成本 | 英偉達CPO交換機全面量產，AI數據中心邁入「硅光時代」！ | LG與英偉達簽署協議：2027年推出搭載英偉達芯片的人形機器人 | 870億美元干預反成套利者做空良機：日元回吐一半漲幅逼近160，高市政府力挺秋季加息 | 收市速睇 | 三大指數齊跌，科指跌1.77%，MINIMAX跌超12%；存儲概念、光通信股走強，南方最多兩倍做多海力士漲超10%，劍橋科技漲超9%；醫藥股下行，康方生物跌超7%
+  - 头版/首屏: 富途早報 | AI基建開始兌現利潤？標普盈利增速創30年新高；英偉達首度披露SpaceX持倉，成後者第六大股東；美國數據中心需求向發電儲能設備外溢 | 美股迎「零售業績周」：沃爾瑪領銜登場，市場押注聯儲局9月按兵不動概率超70% | 一週前瞻 | 港股超級業績周！阿里、小米、快手、泡泡瑪特等集體放榜；聯儲局會議紀要週四來襲 | 特斯拉Roadster或本月亮相：搭載SpaceX推進器，能「飛行」的超級跑車 | 出路在哪裏？多國央行陷入「救火-加槓桿-再救火」的循環困境 | 20年期美債拍賣成本週焦點，收益率或創2020年重啓以來新高 | 「前所未見」的對伊制裁會打向哪裏？美國正評估這些關鍵方向 | 高盛宣告「第二太空時代」降臨：太空經濟正崛起爲全新機構資產類別
+  - 其他: 納斯達克一天交易23小時，搶的是誰的生意？ | OpenAI內部動盪加劇：重組不斷，員工疲憊，高管離職潮持續，上市計劃悄然推遲 | 韓國「存儲雙雄」散戶股東激增，每五名成年人中有一人持有三星股票 | 德銀：央行購金+ETF流入，黃金處於「爆炸性」上漲階段 | 週末讀物 | 蒸餾風暴：AI公司不願公開談論的技術競賽
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **伊朗/中东局势** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (3 站)
 - **油价/能源/霍尔木兹** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
-- **就业/经济数据** — 出现于: 华尔街见闻 (简中) (1 站)
+- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
+- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **美国关税（15%等）** — 出现于: 富途资讯 (繁中) (1 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
+- **中国/欧盟** — 出现于: SCMP (EN/中) (1 站)
+- **中国重大政策/两会** — 出现于: 富途资讯 (繁中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 中国/欧盟（5 站）
-- 伊朗/中东局势（2 站）
-- 关税/贸易政策（2 站）
+- 伊朗/中东局势（3 站）
 - 油价/能源（2 站）
-- 美联储/利率（2 站）
-- 中国政策（2 站）
-- 就业/经济数据（1 站）
-- 加密货币（0 站）
-- 黄金/大宗商品（0 站）
+- 加密货币（2 站）
+- 就业/经济数据（2 站）
+- 黄金/大宗商品（2 站）
+- 关税/贸易政策（1 站）
+- 美联储/利率（1 站）
+- 中国/欧盟（1 站）
+- 中国政策（1 站）

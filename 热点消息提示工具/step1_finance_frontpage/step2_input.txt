@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026081420
+抓取时间: 2026081709
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- Wall Street's riskiest trades are suddenly back on top: Chart of the Day
-- One Big Investment Idea: The next AI winners may look nothing like Nvidia or Micron
-- JPMorgan debanked Polymarket over regulatory concern
-- One Big Investment Idea: The next AI winners may look nothing like Nvidia or Micron
-- JPMorgan debanked Polymarket over regulatory concern
-- BofA's Hartnett sees a Republican Senate win fueling stock rally
-- US says dozens of countries helped China dodge Trump's tariffs
-- Stocks waver after stocks hit record high
-- Cooler inflation data may force Warsh's divided Fed to hold the line on rates
-- AI-driven surge in bond yields could be risk for markets and growth
-- China's high-tech boom seen failing to halt slowdown of economy
+- U.S. markets closed
+- Markets just flipped the script on Warsh's Fed
+- As jobs disappear, could economic mobility be for sale?
+- Why Medicare Advantage providers are cutting plans
+- As jobs disappear, could economic mobility be for sale?
+- Why Medicare Advantage providers are cutting plans
+- CEO who fired 900 staff before Christmas is now mad that he got fired
+- Walmart and big box store earnings: What to watch this week
+- Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
+- Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’
+- The shifting flight path of electric air taxis
+- SpaceX stock volatility: What to do next if you own shares
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
-- Markets & Economy
 - Tech & AI
-- Reddit stock surges after S&P 500 inclusion
-- OpenAI sheds senior execs in pre-IPO refresh
-- Z.ai aims to catch Anthropic, OpenAI in coding with new AI model
-- Apple trains its own AI model for China market with Alibaba's support
+- Markets & Economy
+- Skyrocketing beef prices have Americans reaching their limit
+- 20 reasons why Wendy's may be doomed
+- The market for older condos is cratering as buyers shun HOA fees
+- Crypto wallet provider discloses data breach affecting nearly 40,000 users
 - Popular
-- Jim Cramer names 6 AI stocks primed to surge
-- Michael Burry takes aim at surging AI stock
+- Kraft, McDonald's, Whirlpool CEOs flag same concern over US consumers
+- What Intel returning to memory could mean for investors
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,67 +42,64 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Applied Industrial Technologies To Rally Around 12%? Here Are 10 Top Analyst Forecasts For Friday
-- Hunt For Rare Earths Gets Harder As JL MAG Drops Australia Deal
-- Wall Street's Most Accurate Analysts Spotlight On 3 Materials Stocks Delivering High-Dividend Yields
-- 2,000 Robotaxis, Four New Cities: Pony AI, Uber Accelerate Europe’s Driverless Push
-- Tencent Music Posts Slowest Growth In 2 Years Amid ByteDance Competition
-- Stock Market Today: Dow Jones Futures Slip, S&P 500 Gains as US Says it Can Maintain Iran Blockade 'Indefinitely'—SanDisk, Workday, JD.com, Applied Materials in Focus
-- Strait Of Hormuz
-- Anthropic
-- Luigi Mangione to Reportedly Plead Guilty in Federal Case Over UnitedHealthcare CEO Brian Thompson’s Killing: UNH Stock in Focus
-- Sandisk Leads Institutional Order Flow Activity As Capital Expands Across Market Sectors
+- Suze Orman Says 'I'll Work Longer' Isn't a Retirement Plan. It Can Make Sense but Is 'a Dangerous Strategy'
+- AeroVironment Stock Faces Key Earnings Test as Analysts Remain Divided
+- Analog Devices Earnings Could Trigger a Move as Options Price in Modest Volatility
+- 5 Great Stocks This $9.7 Billion Value Fund Just Bought
+- My Boomer Dad Got Laid Off After Refusing to Learn New Software. He Thought They Couldn't Get Rid of Him
+- EXCLUSIVE: Ross Gerber Says Tesla Could ‘Double’ Sales Without Elon Musk, Warns Investors on SpaceX Merger
+- Ross Gerber
+- Anthony Scaramucci
+- HeartFlow Shares Soar Following Strong Q2 Results and Upgraded Guidance
+- Anthony Scaramucci's Clapback, World Liberty's Bank Charter and More: This Week In Crypto
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 腾讯控股：本公司于二零二六年八月十四日，根据购股权计划的条款向雇员参与者授予1,952,440份购股权，以认购股份（惟须待获授人接纳后方可作实）。
-- 北汽蓝谷Robotaxi将规模落地欧洲市场
-- 阿里巴巴：调整2032年到期零息可交换债券交换率
-- 美股存储芯片股盘前走高，闪迪涨超6%，美光科技涨3%，西部数据涨近3%，希捷科技涨超2%。
-- OpenAI首席营收官任职不到一年离职
-- 百度文库网盘GenFlow官宣中文名「库库AI」，推出「库库AI」办公独立端
-- 美银：货币市场和债券基金单周吸金最多
-- 阿里超15亿美金向中信资本出售灵犀互娱
-- 腾讯混元徐灿转岗微信WeLM
-- SK海力士因可交换债换股及股价上涨确认3.98万亿韩元损失
-- 中国1至7月新增人民币贷款 103800亿人民币，前值 107200亿人民币。
-中国7月M2货币供应同比 7.7%，前值 8%。
-中国7月M1货币供应同比 4%，前值 4%。
-中国7月M0货币供应同比 11.6%，前值 11.8%。
-- 叮咚买菜：将进驻合肥市场 今年长三角地区计划新增超百个前置仓
+- 涉中美AI，美被曝想逼多国“二选一”
+- AI融资需求不断攀升 Alphabet考虑首次发行澳元债券
+- 伊朗总统：伊美谅解备忘录“维护尊严、展现实力”
+- 华尔街见闻早餐 | 2026年8月17日
+- 杠杆出清行情或近尾声，全球科技股再迎资金流入
+- 特朗普要求“大幅缩减”美韩军演规模
+- 提醒：日内请重点关注（以下均为北京时间）
+- 特朗普：欢迎沙土巴三国签署共同防务协议
+- 特朗普：“不满”美国早前同意参加与韩国的联合军演
+- 埃及总统会见库什纳 呼吁各方落实加沙停火
+- 哈马斯政治局主席访问埃及 讨论加沙地带局势
+- 以军袭击已致黎巴嫩4346人死亡
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 北京文化：2026年半年度净利润亏损3920.48万元
-- 深交所：本周对近期股价严重异常波动的“蓝盾光电”进行重点监控。
-- 国家发改委紧急安排3000万元支持河南灾后应急恢复
-- 浪潮集团架构调整：智能终端并入智慧科技，董事长孙业志卸任
-- 美国银行将联想评级从中性上调至买入，目标价46港元。
-- 乍得总统特赦前总理马斯拉等政治人物
-- 美媒爆料：泽连斯基面临棘手难题，关键时刻找不到合适的驻美大使人选
-- 名创优品：预计2026年上半年期内利润约人民币9.4亿元至人民币9.6亿元，同比增加约4%至6%
-- 富力地产前7个月总销售收入约80.3亿元
-- 金融监管总局：上半年保险公司原保险保费收入3.9万亿元，同比增长3.2%
+- 旺季临近叠加供给收缩，钨价有望企稳回升
+- 自营理财逐步退场，中小银行财富管理业务换“打法”
+- 新发基金频现提前结募，多位绩优基金经理看好科技成长
+- 半年回调压力释放，专家：黄金步入筑底向上阶段
+- 哥伦比亚强震已致289人死亡 逾18万人受灾
+- A股科技修复行情延续，机构：结构性轮动或成主旋律
+- 周一亚市盘初，国际油价小幅走高，WTI原油期货现涨0.4%。
+- 针对工业园区污水污染等问题，八部门联合印发通知
+- 君正股份：公司本次H股发行的价格最高不超过102.80港元。公司本次发行的H股预计于2026年8月25日在香港联交所挂牌并开始上市交易。
+- 湖南裕能：已于2026年8月17日向香港联交所递交境外上市外资股（H股）发行并上市申请并刊发申请资料。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Zhipu launches GLM-5.3 model as China seeks Mythos-level edge in cyber defence
+- Nirupama Rao and Lin Minwang on the great India-China face-off
+- Economy
+- More interest in home-grown C919 lays bare demand-supply mismatch at Comac
+- Politics
+- Communist Party invokes Jiang’s legacy in call to rally round Xi’s leadership
+- Education
+- How to help more of Hong Kong’s non-Chinese-speaking students reach university
 - Military
-- Could new transport-tanker capability boost PLA power past first island chain?
-- Diplomacy
-- China urged to avoid ‘us or them’ split with US over AI governance
-- Hong Kong Economy
-- Hong Kong garners 16,000 submissions from consultation for city’s first 5-year plan
-- Science
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Company says GLM-5.3 outperformed leading US systems in cybersecurity tests, beating Anthropic’s Mythos 5 and OpenAI’s GPT-5.6 on CyberGym.
-- Minister Janice Tse says analysis of public submissions shows general support for more focused integration into national development.
-- Miles ahead: China team boosts atom entanglement distance record fourfold
-- The breakthrough is expected to provide a foundation for scalable quantum communications, computing and networked sensing.
-- Big Tech
-- Back in the Harness: DeepSeek continues its pivot towards agentic AI
-- With the launch of Harness, China’s DeepSeek continues to build the foundational digital scaffolding for autonomous AI agents.
+- Experts debate the deep fault lines in bilateral ties – from the long-running border dispute to trust and competing narratives.
+- Admission rate for NCS students sitting university entrance exam has remained persistently low over past five academic years.
+- From cargo to combat: China urged to prepare civilian ships for wartime use
+- Defence researcher at top planning agency says Beijing should draw lessons from the Falklands conflict to commandeer commercial vessels.
 - People
-- Families of Lion Air crash victims suffer again, ‘predatory’ lawyer evades jail
-- Keith Griffin has admitted that he knew his boss Tom Girardi failed to distribute settlement funds to families of the Lion Air victims.
+- Lee Kuan Yew’s Montblanc pen sells for US$360,000 in Singapore auction
+- The sterling silver Montblanc Meisterstuck No 146 fountain pen drew 111 bids and sold for nearly 10 times its highest valuation.
+- Japan looks to Australia, India to sustain defence readiness
+- Tokyo is seeking to mitigate risks linked to potential US munitions shortages and maintain credible deterrence, analysts say.
+- Business
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -110,7 +107,7 @@
 - 长和长实中期盈利大升但派息仅增5%，股价齐插半成
 - 长鑫超腾讯 中国市值最高上市公司
 - 普京首访南千岛群岛 日方强烈抗议
-- 热浪“空前”非“绝后”，厄尔尼诺引爆通胀？
+- 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -134,34 +131,36 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 告別「不排除」：SK海力士赴美實地選址前端晶圓廠，AI巨頭施壓倒逼內存供應鏈重構
-- 高盛解析閃迪投資者日：長期盈利目標超預期 HBF瞄準AI「內存牆」
-- 中期選舉成AI牛市分水嶺？ 美銀Hartnett ：若共和黨守住參議院，AI股或一路「狂飆」至2027年
-- 本週美股牛股 | NEBIUS周累計漲近36%，業績超預期加手握400億美元訂單；閃迪漲超26%，投資者日表述積極；超微電腦漲近26%，業績與業績展望雙超預期，毛利率強勢修復
-- 韓股周漲11%結束七週連跌，但主力倉位還沒到，逼空行情箭在弦上？
-- 大摩解析SpaceX「1太瓦算力」最快路徑：不是數據中心，而是22億臺機器人
-- 既押AI算力繁榮，也防擁擠交易清算！瑞銀Q2狂買美光與納指Call，增持禮來Call、指數Put
-- 北水減倉港股超13億港元，MINIMAX、智譜均獲淨買入超13億港元，騰訊控股獲淨買入超11億港元；聯想集團、阿里巴巴遭淨賣出近11億港元
+- 富途早報 | AI基建開始兌現利潤？標普盈利增速創30年新高；英偉達首度披露SpaceX持倉，成後者第六大股東；美國數據中心需求向發電儲能設備外溢
+- 美股迎「零售業績周」：沃爾瑪領銜登場，市場押注聯儲局9月按兵不動概率超70%
+- 一週前瞻 | 港股超級業績周！阿里、小米、快手、泡泡瑪特等集體放榜；聯儲局會議紀要週四來襲
+- 特斯拉Roadster或本月亮相：搭載SpaceX推進器，能「飛行」的超級跑車
+- 出路在哪裏？多國央行陷入「救火-加槓桿-再救火」的循環困境
+- 20年期美債拍賣成本週焦點，收益率或創2020年重啓以來新高
+- 「前所未見」的對伊制裁會打向哪裏？美國正評估這些關鍵方向
+- 高盛宣告「第二太空時代」降臨：太空經濟正崛起爲全新機構資產類別
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- OpenAI、Anthropic推出新指標——「cost-per-task」，以更好衡量AI成本
-- 英偉達CPO交換機全面量產，AI數據中心邁入「硅光時代」！
-- LG與英偉達簽署協議：2027年推出搭載英偉達芯片的人形機器人
-- 870億美元干預反成套利者做空良機：日元回吐一半漲幅逼近160，高市政府力挺秋季加息
-- 收市速睇 | 三大指數齊跌，科指跌1.77%，MINIMAX跌超12%；存儲概念、光通信股走強，南方最多兩倍做多海力士漲超10%，劍橋科技漲超9%；醫藥股下行，康方生物跌超7%
-- 蘋果在華押注「雙軌AI戰略」：一邊接入阿里千問，一邊打造自己的本土大模型
-- 美銀重申Rocket Lab「買入」評級：短期發射擾動是噪音，估值核心看2026年Neutron首飛
-- 礦企第二季度衆生相：爭搶AI數據中心，賺到錢了嗎？
-- 智譜發佈GLM-5.3模型、「爲編程而生」，性能比肩Fable 5
-- 日元再度逼近160關口，日本前外匯外交官警告：美日「隨時」可能再次聯手干預、日本央行或加快加息步伐
+- 納斯達克一天交易23小時，搶的是誰的生意？
+- OpenAI內部動盪加劇：重組不斷，員工疲憊，高管離職潮持續，上市計劃悄然推遲
+- 韓國「存儲雙雄」散戶股東激增，每五名成年人中有一人持有三星股票
+- 德銀：央行購金+ETF流入，黃金處於「爆炸性」上漲階段
+- 週末讀物 | 蒸餾風暴：AI公司不願公開談論的技術競賽
+- AI打破存儲盛衰週期？美光目標價迎大幅上調，市值看向3萬億美元
+- 英偉達悄然縮減OpenAI數據中心擔保規模，從2500億美元降至1200億美元以下
+- 週末讀物 | 重溫巴菲特和蓋茨的頂級對話：做好20個投資決定，就能變得非常富裕
+- 海峽控制權「各說各話」：特朗普放話「拿下」霍爾木茲，伊朗稱已與阿曼就通行方案達成協議
+- AI債務狂潮背後：700億美元表外隱性負債引發債券投資者擔憂
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 伊朗/中东: 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
 - 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN)
-- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 就业数据: 华尔街见闻 (简中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 就业数据: Yahoo Finance (EN), SCMP (EN/中)
+- 黄金/大宗: 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: 富途资讯 (繁中)
+- 美联储: Yahoo Finance (EN)
+- 中国/欧盟: SCMP (EN/中)
+- 中国政策/两会: 富途资讯 (繁中)
 
 --- 粘贴结束 ---
