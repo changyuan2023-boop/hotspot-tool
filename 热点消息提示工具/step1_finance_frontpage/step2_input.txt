@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026081809
+抓取时间: 2026081820
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- Trump threatens to 'bomb' Oman
-- Amazon is destroying rare texts to train AI
-- SpaceX's major investors are finally visible as millions of shares unlock
-- Amazon is destroying rare texts to train AI
-- SpaceX's major investors are finally visible as millions of shares unlock
-- Gen Z swaps retirement saving for sports betting
-- Duesenberg wins Pebble Beach as auctions surge to $747.9M
-- Anthropic revenue run rate surpasses $65 billion ahead of IPO
-- Nvidia to back OpenAI data center with upwards of $105 billion
-- Stripe's $7 billon OpenRouter deal could create AI's ledger
-- SpaceX bulls would be wise to remember one thing
+- U.S. markets open in 1h 30m
+- Dow, S&P 500, Nasdaq futures extend losses amid US-Iran tensions
+- Home Depot tops Q2 forecasts as customers stick to small projects
+- Klarna stock sinks after volume outlook cut
+- Home Depot tops Q2 forecasts as customers stick to small projects
+- Klarna stock sinks after volume outlook cut
+- The bond market is daring the Fed to hike
+- Mamdani is going to town on the annoyance economy
+- Meta to face massive social media addiction trial today
+- Top humanoid maker and its dancing robots waltz towards record IPO
+- Uber COO says there's a downside to being at the top
+- Round Hill files $1B copyright infringement suits against Suno, Anthropic
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Tech & AI
 - Markets & Economy
-- Stocks fall as Treasury yields, US-Iran tensions rise
-- US bond sell-off drives 30-Year yields to highest since 2007
-- The Strategic Petroleum Reserve is at a 1982 low. How low is too low?
-- Why the stock market's 'immaculate' run may be nearing an end
+- US 30-year yields hit highest level since 2007 as war, oil worries fester
+- Cash home sales are in decline, but a handful show a bump
+- Nasdaq confirms 23-hour trading with new overnight session
+- Asia shares decline as rising oil prices outweigh earnings boost
 - Popular
-- Trump spurned again by Supreme Court on $5 million Carroll Award
-- Nike's stock plunge is relentless
+- Burger King is taking a bite out of McDonald's lunch
+- Xi Jinping’s failing Chinese economy is becoming dangerous
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,80 +42,75 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Anthony Scaramucci Says He Was 'Rolled in Broken Glass' and Put Through a 'Sausage Grinder' After Being Fired by Trump: His One Rule for Bouncing Back
-- Walmart Could Swing $42.1 Billion In Value After Earnings
-- ‘Hun, I Think We Have a Problem and It’s You’ — Dave Ramsey Tells Man, 72, With $0 in Retirement to Cut Off His Wife’s Money Access if She Overspends
-- Senator Worth Reported $100M+ Discloses Trades in 5 Private Companies
-- ​​​​​​DOJ Probes Andreessen Horowitz Over Rival AI Board Roles
-- Nvidia Is the Best S&P 500 Stock of the Past 10, 15, 20 Years — but 4 Stocks Beat It Over the Past 5 Years
+- Iran Blames Netanyahu for Blocking, Derailing the US Ceasefire Deal, Says Israel's Efforts Are Ongoing: 'Biggest Opponent and Obstacle'
+- Super League Stock Extends Volatile Run After Q2 Performance
+- What's Going On With Marvell Technology Stock Tuesday?
+- Jack Henry Gears Up For Q4 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts
+- What's Going On With Taiwan Semiconductor Stock Tuesday?
+- Stock Market Today: Dow Jones, S&P 500 Futures Fall as Trump Rejects Extending Ceasefire With Iran—Home Depot, Super League, Flexsteel in Focus
 - Anthony Scaramucci
 - Jamie Dimon
 - Anthropic
-- Amylyx Pharmaceuticals Stock Soars After the Close: Here's Why
+- Cathie Wood Endorses ‘Best Way’ to Invest in This Crypto Cycle: ‘Get as Close to the End User as Possible’
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 微软、Salesforce与ADP意向收购人力资源科技公司Darwinbox。（Mint）
-- 华尔街见闻早餐 | 2026年8月18日
-- 三星Samsung Display将建设额外的OLED显示设施。（韩国每日经济新闻Maeil）
-- 必和必拓全财年利润增长30%，商品价格提振盈利，铜收入首次超过铁矿石
-- 提醒：日内请重点关注（以下均为北京时间）
-- 民调显示特朗普支持率创第二任期内新低
-- 报道：美国要求韩国将存储芯片作为首个对美投资重点
-- 数据显示霍尔木兹海峡和曼德海峡航运活动持续低迷
-- 嘉吉年度收益上升，市场波动利好交易业务
-- 巴斯家族将剩余湖人股份出售给库什纳和艾格
-- 巴西财政部长：若总统卢拉赢得连任，必须解决财政困境
-- Petrobras CEO称Morpho井将在15-20天内完工
+- 小米卢伟冰：下半年存储涨价或趋缓，小米将有旗舰手机和澎程系列上市
+- 卡塔尔：重点是重返美伊谈判。
+- 网易传媒发布“蜜蜂AI”
+- 高盛同意以最高4.1亿美元收购房地产公司LCN。（彭博）
+- 小米表示内存芯片价格涨幅下半年将趋于缓和。
+- 爱奇艺：二季度收入62.9亿元 运营亏损收窄
+- 腾讯8月18日购回价值3.005亿港元的股票。
+- 家得宝 第二季度同店销售增长1.7％，预估增长0.94％。
+第二季度销售净额478.6亿美元，同比增长5.7%，预估473.3亿美元。
+第二季度调整后每股收益4.92美元，上年同期4.68美元，预估4.73美元。
+- 小米集团：在OpenRouter平台上，Xiaomi MiMo-V2.5周调用量位列第一
+- 小米集团 第二季度营收1,089.2亿元人民币，同比下降6.1%，预估1,083.3亿元人民币。
+第二季度营业利润108.7亿元人民币，同比下降19%，预估58.5亿元人民币。
+第二季度净利润94.6亿元人民币，同比下降21%，预估57.6
+- 爱奇艺美股盘前一度跌超8%，现跌幅收窄至不足4%，公司第二季度收入62.9亿元人民币，预估64亿元人民币。
+- 小马智行Q2财报：二季度总营收2.46亿元，同比增长68.8%，Robotaxi贡献三分之一营收
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 报道：美国对加拿大汽车现行25%的关税有可能下调至15%
-- 美国贸易代表格里尔称，总统特朗普扬言对英国征收100%关税并非虚张声势。
-当被问及英国废除数字服务税是否设有最后期限时，格里尔表示：“我不会设定人为划定的时间期限。”（英国泰晤士报）
-- 特斯拉已告知员工正为Cybercab面向公众推出做准备。这是特斯拉首款没有方向盘和刹车踏板的车型。
-特斯拉计划首先在德克萨斯州奥斯汀向公众推出Cybercab，最快可能本月启动。（The Information）
-- 周一（8月17日）纽约尾盘，美元兑日元涨0.10%，报159.47日元，日内交投区间为158.85-159.60日元，北京时间15:42刷新日低、随后逐步上扬。
-欧元兑日元涨0.17%，报184.63日元；英镑兑日元涨0.13%，报215.
-- 周一（8月17日）纽约尾盘，ICE美元指数跌0.04%，报99.627点，全天处于下跌状态、交投区间为99.647-99.294点，整体呈现出V形走势、北京时间16:30刷新日低。
-彭博美元指数跌0.07%，报1200.29点，日内交投区间
-- 周一（8月17日）纽约尾盘，ICE原糖期货涨1.81%，ICE白糖期货涨2.37%。
-ICE阿拉比卡咖啡期货涨2.74%，咖啡“C”期货涨1.07%。罗布斯塔咖啡期货涨1.50%。
-纽约可可期货涨5.28%，报6078美元/吨。伦敦可可期货
-- 伊朗总统佩泽希齐扬： 我们自由的国民在被俘岁月里所遭受的一切，绝非仅仅是战争史的片段。
-这是一群历经苦难却绝不舍弃伊朗尊严之人的坚毅叙事。
-面对日益加剧的外部压力与威胁，忍耐、团结与希望，是伊朗坚守不屈的关键。
-- 芝加哥大豆期货涨约2%，大豆油涨超2.6%
-- 库什纳称美伊双方尚未达成共识
-- 美国能源部长Wright：（美国）战略石油储备（SPR）目前仍保有3亿桶库存，伊朗冲突结束后，其储备量将高于冲突前水平。
-美国政府将在未来几日公布若干举措，助力炼油企业提高燃料产量。
+- 小米卢伟冰：新一代小米玄戒芯片即将发布，一系列旗舰产品会密集上市
+- 粤港澳大湾区首次推行“关铁协同”模式 中欧班列再提速
+- 韩国前第一夫人金建希面临新指控
+- 俄外交部召见日本大使 提出强烈抗议
+- 德国30年期国债发行收益率创2011年以来新高
+- 亿联网络：2026年上半年净利润15.24亿元，同比增22.92%
+- 习近平同厄瓜多尔总统诺沃亚会谈
+- 华友钴业：2026年半年度净利润35.07亿元，同比增长29.38%
+- 中信建投：上半年净利润76.4亿元人民币，同比增长69.44%
+- 一鸣食品：如公司股票价格进一步异常上涨，公司可能申请停牌核查。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Claims Hegseth close to exit raise questions over future US-China defence ties
-- Diplomacy
-- Trump lets 60-day deadline for Iran peace deal expire, threatens to ‘bomb’ Oman
-- Pentagon orders 30 US universities to scrutinise Chinese research ties
-- Hong Kong Economy
-- How Hong Kong infrastructure, AI firms are tapping Malaysia’s growth prospects
-- China Business
-- China’s state funds exit Kweichow Moutai as 25-year profit growth comes to end
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Donald Trump is losing patience with the Pentagon chief because of the stalled Iran war, according to several sources.
-- Executives say they are actively pursuing business opportunities in Malaysia and that adapting to local market dynamics is key.
-- Central Huijin Investment and China Securities Finance are not among Kweichow Moutai’s top 10 shareholders as of second quarter.
+- China eyes rural markets, local town centres to tackle national consumption woes
+- Military
+- Taiwan launches first live-fire exercise with first-person view drones
 - Politics
-- Why the Arctic sea route has become so important for China and Russia
-- Global shipping disruptions, along with oil and gas projects, have added to the strategic value of the Northern Sea Route.
-- Economics
-- Can Indonesia build a lasting EV ‘ecosystem’ and not just a market?
-- Analysts say stricter local-content rules and a stronger production framework will be needed to boost Indonesia up the EV supply chain.
+- Xi Jinping leads party elite in final farewell for ex-premier Zhu Rongji
+- Society
+- Owner of unleashed 60kg dog arrested after 2 small pets killed in Hong Kong
+- Big Tech
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- The nation is looking beyond its higher-tier cities like Beijing and Shanghai to address weak domestic demand.
+- Animal welfare group’s deputy director calls for a penalty review, urging an extension of the leash requirement to all dogs, regardless of size.
+- Baidu’s AI surge fails to stem quarterly revenue decline
+- Helping cushion the fall, revenue from AI-related operations jumped 25 per cent year on year to 12.5 billion yuan.
+- PLA troops sent New Taiwan and US dollars in ‘wartime financial support’ drill
+- A drone was used to deliver camouflage cases filled with gold bars and bundles of cash, according to state newspaper report.
+- Marcos slammed over US$3b family estate tax, says ‘very busy’ with government
+- His anti-corruption push has revived questions over his family’s unpaid estate taxes and ill-gotten wealth.
 - Business
+- Why Hong Kong’s strategic advantages attract global talent
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
 - 名创优品中期利润跌27%，股价急插破底可否趁低吸？
-- 阿里千问下载破30亿次 超Meta及Google
-- 伊朗阿曼传达共识 霍峡将辟新航道
+- 中国稀土检测关键技术 获重要进展
+- 美伊谈判停火 60日限期届满
 - 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久
 - 指数环球商品外汇
 - 国金观点
@@ -125,9 +120,9 @@ ICE阿拉比卡咖啡期货涨2.74%，咖啡“C”期货涨1.07%。罗布斯塔
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25453.23+336.38(+1.34%)
+- 恒生指数25471.15+17.92(+0.07%)
                     etnet.com.hk@copyright
-- 国企指数8439.97+99.14(+1.19%)
+- 国企指数8453.20+13.23(+0.16%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -140,35 +135,35 @@ ICE阿拉比卡咖啡期货涨2.74%，咖啡“C”期货涨1.07%。罗布斯塔
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 美伊僵局再添通脹變數，長債壓力持續升溫；大摩稱AWS未來十年或邁向萬億美元營收，美國要求韓國優先投資存儲芯片；小米、兆易創新今日盤後放榜
-- AI資本開支疑慮緩解，美光、閃迪等存儲股迎來重估，帶動費城半導體指數重返技術性牛市
-- AI大戰轉折點？與管理層會面後，華爾街的感受：騰訊在打「中途島戰役」
-- 特朗普：不着急結束伊朗戰爭，若阿曼阻礙談判、將「狠狠轟炸」，伊朗警告轉向全面進攻
-- 告別方向盤，特斯拉Cybercab瞄準8月奧斯汀公開首發
-- 城堡證券：聯儲局「按兵不動」引擔憂，長期美債收益率逼近20年高位加劇市場風險
-- 30年期美債收益率創2007年以來新高：油價、財政赤字與AI發債共推長端利率上行
-- 6月份外國持有的美國國債數量下降，日本減持規模居首
+- 小米Q2營收1089.22億元，經調整淨利潤62.19億元，存儲漲價疊加需求疲軟，手機出貨量下降26.5%
+- 全球長債收益率飆升：財政赤字、AI發債與傳統買家退場，一場「利率重估」正在上演
+- 長端利率悄然突破，這次聯儲局或許無能爲力
+- Robotaxi收入暴增691%！小馬智行Q2營收同增69%，經營槓桿撬動虧損大幅收窄
+- 淨利同比增1091.5%！兆易創新2026年半年度淨利潤達69億，營收同比增179%
+- 北水掃貨港股超140億港元，淨買入阿里巴巴24億港元，加倉中芯國際近12億港元
+- 美債收益率飆升，過去5年20次有17次亞太股市回調
+- 百度Q2營收313億元微遜預期，AI業務佔比過半，GPU雲強勁增長283%
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 成交額TOP20 | 存儲逆勢走強，閃迪大漲近9%，美光漲超4%；特斯拉8月將推出Cybercab出租車；蘋果iPhone 17系列將全球調價
-- 美股收盤 | 美伊局勢再添變數，三大指數兩連跌；光通信逆勢大漲，AXTI勁升17%，邁威爾漲超5%；原油、黃金雙雙走強
-- 本土擴產遇外部壓力：韓美圍繞存儲芯片投資陷入博弈
-- 半年翻7倍！Anthropic「年化營收」據傳已突破650億美元
-- OpenAI高管接連離職引擔憂，總裁「滅火」：其實很正常，只是我們太受關注
-- 美股三大指數集體收跌，納指跌0.32%，道指跌0.51%，標普500指數跌0.52%。存儲、光通信等AI概念板塊逆勢走強，鎧俠ADR漲超13%，閃迪漲超8%，西部數據漲超5%，美光科技漲超4%。Coherent漲超7%，康寧、Lumentum漲超4%。
-- 華爾街神祕頂部指標再度亮燈？頂流私募被曝重啓上市進程
-- 特朗普：美國不尋求延長與伊朗的諒解備忘錄
-- 日元貶值壓力難消 前財務省高官：日銀應每次會議都加息
-- 致敬利弗莫爾！「期貨大作手」的璀璨與悲涼：他的2個成功經驗要學，這些坑更要避
+- 美銀全球基金經理調查：債市失控已升至第二大尾部風險，僅次於AI泡沫
+- 60/40組合失效後，黃金站上「防禦C位」？大摩Wilson：25年牛市仍未結束
+- 美債暴跌還沒完？三大隱憂懸頂：機構警告美債拋售潮或進一步惡化
+- 收市速睇 | 三大指數漲跌不一，科指跌0.90%；科網股、半導體股多數走低，美團跌超2%，華虹宏力跌近8%，阿里逆勢漲近4%；生物醫藥股多數上漲，金斯瑞生物科技漲超8%，藥明合聯漲超7%
+- 10年美債收益率逼近5%，「債券義警」蠢蠢欲動！Yardeni：已進入關鍵警戒區
+- 蘋果罕見鬆口：坦言監管重壓下，千億服務業務正受到侵蝕
+- AI暗雷！美科技巨頭表外負債膨脹至3萬億美元，約爲年資本開支的5倍
+- 大摩拆解中國AI算力賬：國內雲廠ROIC可達13%-20%，阿里雲最具優勢
+- 首筆對美投資項目生變？傳美國施壓三星、SK海力士赴美建內存廠，韓國緊急否認但拒絕披露細節
+- 對沖基金連續五日掃貨美股，科技板塊逼空行情主導年內第二快買入潮
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: 华尔街见闻 (简中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), SCMP (EN/中)
+- 黄金/大宗: 华尔街见闻 (简中), SCMP (EN/中)
+- 加密货币: Benzinga (EN)
 - 就业数据: 华尔街见闻 (简中)
-- 黄金/大宗: 华尔街见闻 (简中)
-- 美联储: 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN)
+- 中国/欧盟: SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
