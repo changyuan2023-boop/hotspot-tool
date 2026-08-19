@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：早间**
-**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
+**当前模式：晚间**
+**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`早间热点线索 · 2026年8月19日`
+`晚间热点线索 · 2026年8月19日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 早间模式操作指令
+## 晚间模式操作指令
 
-聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
+聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
 重点关注（按重要性排序写入）：
-1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
-2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
-3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
-4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
+1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
+4. 其他值得今晚关注的美股消息
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026081909
+抓取时间: 2026081920
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- New 50% tariffs on Canadian goods set to take effect at midnight
-- Meta social media addiction trial kicks off with major implications for company's future
-- Stocks fall as chip trade sinks, bond yields rattle markets
-- Meta social media addiction trial kicks off with major implications for company's future
-- Stocks fall as chip trade sinks, bond yields rattle markets
-- Klarna stock closes down more than 20% on trimmed guidance
-- US oil producers set to ink production deals with Venezuela
-- Cerebras says latest offering is 'fastest AI accelerator in the industry' as it takes aim at Nvidia
-- The chip comeback just hit a wall. Here's how to play the downside.
-- OpenAI slows model training to up security after Hugging Face hack
-- BofA sees Nvidia trading at up to 50% discount on AI risks
+- U.S. markets open in 1h 30m
+- Wall Street's hot streak is running into a midterm-year curse
+- Moderna stock soars on melanoma vaccine trial success
+- Target delivers earnings beat, CEO 'encouraged' by turnaround traction
+- Moderna stock soars on melanoma vaccine trial success
+- Target delivers earnings beat, CEO 'encouraged' by turnaround traction
+- Lowe's cautious outlook sends stock lower, flags 'pressure' in DIY spending
+- 50% tariffs on Canadian goods paused in eleventh-hour deal
+- Nvidia stock's deep discount creates a 'compelling opportunity: BofA
+- SK Hynix stock rises amid $29B treasury buyback plan
+- Cerebras claims 'fastest AI accelerator' in Nvidia swipe
+- Chery's robot unit eyes IPO, targets overseas market for police robots
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Tech & AI
 - Markets & Economy
-- The bond market is daring the Fed to hike
-- US 30-year yields hit highest level since 2007 as war, oil worries fester
-- SEC proposes new rules for crypto assets
-- Bessent says the K-shaped economy is 'over.' He may be onto something.
+- Dow, S&P 500, Nasdaq futures stall after Trump pauses tariffs on Canada
+- Oil hits three-week high on uncertainty over Hormuz
+- Hong Kong Exchange posts record earnings on IPO, trading boom
+- War and heatwaves threaten to push bread and pasta prices higher
 - Popular
-- UAE says Iran fired 2 missiles at country as war drags on
-- Trump making ballroom 'fait accompli,' foes tell Supreme Court
+- Bank of America warns bond investors on $40T national debt
+- World’s top humanoid robot maker surges in blockbuster market debut in China
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,75 +145,84 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Back In The ‘90s Elon Musk Turned His Dorm Room Into A Club And Charged A $5 Cover To Pay Rent — Now He's The Richest Man Alive And Still Rents
-- Carvana Stock Slides Tuesday: What's Going On? (UPDATED)
-- Congressman Missed Out on Millions by Selling Comfort Systems in 2020 — Now It's the Best Stock of the Last Five Years
-- Anthropic's Pre-IPO Credit Line Is Growing — and Banks Are Angling for Underwriting Roles
-- Tom Lee Says Ethereum Is the 'Downstream Story' for AI's New 'Hive Mind'
+- This Alnylam Pharmaceuticals Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Wednesday
+- Jim Cramer: United Microelectronics Is A ‘Tough’ One, Pass On This Industrial Stock
+- Why Apple Is the Blueprint for SK Hynix's AI Cash Mountain
+- Netflix, Eli Lilly, Elanco Animal Health And More Stock On CNBC’s ‘Final Trades’
+- How To Earn $500 A Month From Deere Stock Ahead Of Q3 Earnings
+- Merck and Moderna Release Landmark Personalized Cancer Therapy Trial Success, Stocks Soar
 - Foldable IPhone
 - Jamie Dimon
 - Anthropic
 - Warren Buffett
-- IREN Is Quietly Outpacing CoreWeave on One AI Metric that Matters
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 韩国表示，将减少与美国的联合军事演习。
-- 法国官员：政府将引入人工智能工具测试系统网络安全漏洞
-- 消息人士称韩美联合军演日程将减半 韩国防部：无法确认
-- 华尔街见闻早餐 | 2026年8月19日
-- 媒体：日本企业盈利超预期，提振市场广泛上涨预期
-- 美官员：特朗普要求谈判团队暂停与伊朗接触
-- 提醒：日内请重点关注（以下均为北京时间）
-- 报道：Anthropic预计将在几周内IPO
-- 韩国能源公司LG Energy与美国谈判无人机电池。
-- 百度二季度分析师电话会议要点总结
-- 中通快递二季度调整后每份ADS为3.79元人民币。
-二季度营收145.5亿元人民币，同比增长23%。
-- 美国商务部长卢特尼克：美国商务部人口普查局刚刚发布的分析报告显示，2020年大选中有超过24000名非公民非法投票。
-这批人不只是完成选民登记，而是确确实实进行了非法投票。
-而这仅仅是开始。未来数周内，还有超过3200万条选民记录将接受分析
+- 甲骨文医疗扩展临床AI智能体功能。（彭博）
+- 美股盘前：疫苗股大涨，Moderna涨102%
+- Moderna美股盘前涨超80%，公司与默沙东宣布黑色素瘤疫苗研究取得成功。
+- 美国8月14日当周MBA抵押贷款申请活动指数周环比 -0.4%，前值 3.6%。
+- 伊朗称若利益受损，将通过提高霍尔木兹海峡关税等方式反制
+- 但斌再度加码科技股
+- 塔吉特第二季度净销售额265.4亿美元，预期261.1亿美元。
+第二季度调整后每股收益4.11美元。
+第二季度同店销售额增长3.8%，预期增长2.43%。
+塔吉特预计全年调整后每股收益为9.90至10.90美元。
+塔吉特美股盘前跌近1%。
+- 空客A350F订单破百 预计2027年下半年交付
+- 雅诗兰黛第四季度净销售额36.3亿美元，预期35.5亿美元。
+第四季度调整后每股收益39美分，预期32美分。
+雅诗兰黛预计2027年净销售额增长3%至5%。
+雅诗兰黛预计2027年调整后每股收益为3.10至3.35美元，市场预期3.19美元
+- 劳氏（Lowe‘s）第二季度调整后每股收益4.40美元，上年同期4.33美元，预估4.22美元。
+第二季度销售净额259.6亿美元，同比增长8.3%，预估261.3亿美元。
+第二季度毛利85.8亿美元，同比增长5.9%，市场预估85.4亿美
+- 港交所行政总裁：IPO储备强劲 北向交易料保持活跃
+- 微博第二季度净营收4.538亿美元，预估4.411亿美元。
+第二季度调整后每股收益0.38美元，预估0.35美元。
+第二季度调整后息税折旧及摊销前利润1.332亿美元，预估1.23亿美元。
+第二季度月活跃用户5.6亿，预估5.7亿。
+第二季
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 美国外交官：土耳其可以合理回应以色列空袭
-- 伊朗最高国家安全委员会秘书雷扎伊：美国在霍尔木兹海峡的失利，标志波斯湾进入“后美国时代秩序”。
-- 美国SEC公布加密货币监管方案，推进数字资产监管进程
-- 伊朗宣布两名法国外交人员为“不受欢迎的人”
-- 周二（8月18日）纽约尾盘，ICE美元指数持平，报99.638点，日内交投区间为99.521-99.693点。
-彭博美元指数涨0.08%，报1201.24点，日内交投区间为1199.46-1201.60点。
-- 美国得州证券交易所迎来首批一级上市ETF
-- 美国得州电网预测用电需求将创纪录，高温加剧、风力减弱
-- 据知情人士透露，美国总统特朗普考虑给予加拿大关税豁免。（Politico）
-- 美国总统特朗普本周为食品药品管理局（FDA）局长面试多名候选人。
-- 世卫组织：埃博拉疫情仍构成国际关注的突发公共卫生事件
+- 【特斯拉上线豆包大模型】据火山引擎消息，特斯拉上线豆包大模型。据介绍，特斯拉车机现已陆续推送。
+- Nebius美股盘前跌超7%，公司拟发行45亿美元可转换优先票据。
+- 计划训超大模型后，字节Seed基模团队调整了组织架构
+- 东方财富证券陈果： 今天这样的整体急跌不会持续，大A后续依然充满机会
+- 康强电子：上半年归母净利润同比增长6.44%
+- 司法部发布关于欧盟外国补贴调查相关做法构成不当域外管辖的公告
+- 东微半导：2026年半年度净利润1.06亿元，同比增长285.41%
+- 中天火箭：上半年归母净利润同比增长329.31%
+- 沪硅产业：2026年上半年净利润亏损9.65亿元
+- 光迅科技：2026年上半年净利润5.82亿元，同比增56.34%
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- In Focus | A matter of trust: China’s wealthy grapple with new offshore asset tax rules
-- Science
-- Breaking | China’s LandSpace beats SpaceX with steel-booster recovery after orbital launch
-- Diplomacy
-- Harvard, MIT among 30 US universities ordered to audit China research ties
-- Banking & Finance
-- Use of yuan hits 6-month high in Hong Kong’s fast-payment system
-- Economy, Trade & Business
+- China to build monitoring station near disputed Scarborough Shoal
+- As Xi’s US visit approaches, basic details of planned AI talks remain uncertain
+- Hong Kong Economy
+- Mable Chan uses Qatar Airways office opening to drop Central Asia route reveal
+- Malaysia fears military ‘miscalculation’ near Sabah amid US-China rivalry
+- China Economy
+- Shanghai Port sees Christmas shipment delays as twin typhoons create backlog
+- Military
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Once a reliable vehicle for tax avoidance, offshore trusts are being reconsidered as enforcement bodies step up their efforts, backed by new regulations.
-- Yuan-denominated payments rise 34 per cent, with Payment Connect mechanism acting as catalyst for multiplying cross-border use cases.
-- US urged to follow China’s lead in treating data as an economic asset
-- Congressional advisory panel urges Washington to develop national strategy as Beijing’s data push gives Chinese firms edge in AI, robotics.
-- US Democrats rebuke Trump for easing sanctions on Beijing, Hong Kong officials
-- Lawmakers said sanctions should remain as mainland Chinese, Hong Kong officials were ‘complicit in Beijing’s dismantling of Hong Kong’s autonomy’.
-- Politics
-- How China got caught in the crossfire of a US bacon fight
-- A dispute over animal welfare and pork production has become the latest flashpoint in America’s increasingly heated farm politics.
-- Lifestyle
+- Beijing’s ecological initiatives around the South China Sea flashpoint have been a growing source of tension with Manila and Washington.
+- Defence Minister Mohamed Khaled Nordin says any escalation in areas close to Malaysia could have wider implications for its security.
+- The extreme weather arrives during a prolonged pre-Christmas peak shipping season for the port.
+- Is South China Sea warship breakdown a sign US is ‘taxing reserve capacity’?
+- After USS Benfold lost power for four days last month, analysts say prolonged operations in the Middle East could be taking a toll.
+- Record graduate influx lifts China’s youth jobless rate to 17.9% in July
+- An estimated 12.7 million university graduates have entered the job market this summer.
+- Business
+- Why Hong Kong’s strategic advantages attract global talent
+- Diplomacy
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
 - MiniMax智谱急插逾一成，伺低吸纳博染蓝？
-- 中国稀土检测关键技术 获重要进展
-- 美伊谈判停火 60日限期届满
+- A股最贵新股 频准激光首挂飙逾5倍
+- 美征加国50%新关税 恐阻北美贸协谈判
 - 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久
 - 指数环球商品外汇
 - 国金观点
@@ -223,9 +232,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25471.15+17.92(+0.07%)
+- 恒生指数25495.07+23.92(+0.09%)
                     etnet.com.hk@copyright
-- 国企指数8453.20+13.23(+0.16%)
+- 国企指数8471.21+18.01(+0.21%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -238,36 +247,34 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 美債期權轉押2027年減息，9月加息預期明顯降溫；美國多州收緊數據中心用電監管，OpenAI與Anthropic盈利分化；港交所午間交卷，快手、恒瑞盤後放榜
-- 發生了什麼？美股AI硬件股遭拋售，AI債務融資擔憂加劇，美伊談判前景蒙塵
-- 美國債市遭「重錘」，華爾街：這一次恐非「暫時」，看起來很像2007
-- 美國長債拋售壓力加劇！政府債務逼近40萬億美元，30年期收益率逼近本世紀高位
-- 美股收盤 | AI債務化擔憂發酵，股指三連跌，芯片指數重挫6%；醫藥、紅利板塊輪動走強，強生創收盤新高；美長債走V；油價觸及三週高位
-- 美官員：特朗普要求談判團隊暫停與伊朗接觸
-- 據悉OpenAI二季度營收環比增長18%，但虧損擴大
-- 比特幣巨鯨結束拋售，60天增持超27億美元
+- Moderna股價翻倍暴漲，與默沙東宣佈mRNA癌症疫苗三期試驗成功，黑色素瘤治療迎來歷史性突破
+- 美債最敏感時刻：160億美元長債拍賣+聯儲局紀要，週四凌晨考驗市場
+- AI算力租賃商NEBIUS擬發行45億美元可轉換優先票據
+- SK海力士擬回購註銷40萬億韓元股份，承諾將50%現金流回饋股東
+- 摩通實地調研特斯拉：兩大核心敘事—Robotaxi、Optimus商業化路徑逐漸清晰
+- 超80%船舶走阿曼航線！霍爾木茲海峽控制權，伊朗已經丟了大半？
+- AI盛世，日本製造業爲何「只賺錢不擴產」？
+- 一圖前瞻｜長飛光纖中期業績週五揭曉！盈喜淨利最高預增9倍，光纖漲價與AI需求能否形成「雙擊」？
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 蘋果向歐盟監管讓步：取消核心技術費，歐洲App Store佣金全面下調
-- 數據中心反對聲浪成美國中期選舉敏感議題，賓州出臺全美「最嚴格」數據中心監管規則
-- 成交額TOP20 | AI基建全線回調，閃迪、LITE雙雙跌超9%；蘋果逆勢上漲1.5%，將下調歐洲APP Store費用；Meta「生死官司」正式開審
-- 英偉達被低估50%？美銀稱AI融資風險定價過度
-- 科技基建融資代價高昂，黑石QTS以垃圾債利率發行投資級債券，認購達六倍
-- OpenAI又宣佈「暫緩前沿模型訓練」？這是怎麼一回事
-- 宏觀策略凸顯抗震盪能力，橋水中國全天候基金7月僅受「輕傷」
-- IPO臨近「彈藥庫」加碼！Anthropic被曝擬將信貸額度擴大至超百億美元
-- 甲骨文「星際之門」關鍵AI數據中心配套天然氣管道兩度被拒，尋求改道
-- 美股AI行情與蘋果股價背離，投資者重新審視其技術佈局
+- 政策收緊下美清潔能源仍逆勢爆發，數據中心建設和美伊衝突均是推手
+- 北水拋售港股超106億港元，華虹宏力、小米集團分別遭淨賣出逾29億、15億港元
+- 快手Q2營收355.4億元符合預期，可靈AI收入漲超200%，月活用戶大超預估
+- 收市速睇 | 三大指數漲跌不一，科指跌1.21%；科網股多數上漲，小米漲近5%，美團漲近2%；機器人概念、半導體股回調，埃斯頓跌超14%，華虹宏力跌近12%
+- 智譜創始人唐傑聊Scaling Law：大模型萬億參數曾是行業走的彎路，下一步關鍵在後訓練
+- 高盛研報解讀：博通 AI 收入明年看漲 12%，競爭敘事被過度定價
+- 全球矚目！聯儲局會議紀要今夜凌晨2:00來襲，能否抑制「美債風暴」？
+- Cerebras推出CS-4系統強勢對標英偉達，稱其推理速度可達GPU服務器的30倍
+- SK海力士擬回購40萬億韓元，回購股份用於註銷並回報股東
+- 見礦超200米、金品位1.68克/噸，鑽探超預期！ 希爾威(SVM.US)中亞百噸級金礦估值重塑提速
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 中国/欧盟: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 加密货币: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 就业数据: SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中)
+- 伊朗/中东: 华尔街见闻 (简中), 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), SCMP (EN/中)
+- 加密货币: Benzinga (EN)
+- 美联储: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---

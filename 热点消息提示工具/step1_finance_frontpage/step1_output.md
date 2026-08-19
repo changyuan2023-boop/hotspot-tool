@@ -3,57 +3,58 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | New 50% tariffs on Canadian goods set to take effect at midnight | Meta social media addiction trial kicks off with major implications for company's future | Stocks fall as chip trade sinks, bond yields rattle markets | Meta social media addiction trial kicks off with major implications for company's future | Stocks fall as chip trade sinks, bond yields rattle markets | Klarna stock closes down more than 20% on trimmed guidance | US oil producers set to ink production deals with Venezuela
-  - 其他: Top Stories | Tech & AI | Markets & Economy | The bond market is daring the Fed to hike | US 30-year yields hit highest level since 2007 as war, oil worries fester
+  - 头版/首屏: U.S. markets open in 1h 30m | Wall Street's hot streak is running into a midterm-year curse | Moderna stock soars on melanoma vaccine trial success | Target delivers earnings beat, CEO 'encouraged' by turnaround traction | Moderna stock soars on melanoma vaccine trial success | Target delivers earnings beat, CEO 'encouraged' by turnaround traction | Lowe's cautious outlook sends stock lower, flags 'pressure' in DIY spending | 50% tariffs on Canadian goods paused in eleventh-hour deal
+  - 其他: Top Stories | Tech & AI | Markets & Economy | Dow, S&P 500, Nasdaq futures stall after Trump pauses tariffs on Canada | Oil hits three-week high on uncertainty over Hormuz
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: Back In The ‘90s Elon Musk Turned His Dorm Room Into A Club And Charged A $5 Cover To Pay Rent — Now He's The Richest Man Alive And Still Rents | Carvana Stock Slides Tuesday: What's Going On? (UPDATED) | Congressman Missed Out on Millions by Selling Comfort Systems in 2020 — Now It's the Best Stock of the Last Five Years | Anthropic's Pre-IPO Credit Line Is Growing — and Banks Are Angling for Underwriting Roles | Tom Lee Says Ethereum Is the 'Downstream Story' for AI's New 'Hive Mind'
+  - 其他: This Alnylam Pharmaceuticals Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Wednesday | Jim Cramer: United Microelectronics Is A ‘Tough’ One, Pass On This Industrial Stock | Why Apple Is the Blueprint for SK Hynix's AI Cash Mountain | Netflix, Eli Lilly, Elanco Animal Health And More Stock On CNBC’s ‘Final Trades’ | How To Earn $500 A Month From Deere Stock Ahead Of Q3 Earnings
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 韩国表示，将减少与美国的联合军事演习。 | 法国官员：政府将引入人工智能工具测试系统网络安全漏洞 | 消息人士称韩美联合军演日程将减半 韩国防部：无法确认 | 华尔街见闻早餐 | 2026年8月19日 | 媒体：日本企业盈利超预期，提振市场广泛上涨预期 | 美官员：特朗普要求谈判团队暂停与伊朗接触 | 提醒：日内请重点关注（以下均为北京时间） | 报道：Anthropic预计将在几周内IPO
-  - 其他: 美国外交官：土耳其可以合理回应以色列空袭 | 伊朗最高国家安全委员会秘书雷扎伊：美国在霍尔木兹海峡的失利，标志波斯湾进入“后美国时代秩序”。 | 美国SEC公布加密货币监管方案，推进数字资产监管进程 | 伊朗宣布两名法国外交人员为“不受欢迎的人” | 周二（8月18日）纽约尾盘，ICE美元指数持平，报99.638点，日内交投区间为99.521-99.693点。
-彭博美元指数涨0.08%，报1201.24点，日内交投区间为1199.46-1201.60点。
+  - 头版/首屏: 甲骨文医疗扩展临床AI智能体功能。（彭博） | 美股盘前：疫苗股大涨，Moderna涨102% | Moderna美股盘前涨超80%，公司与默沙东宣布黑色素瘤疫苗研究取得成功。 | 美国8月14日当周MBA抵押贷款申请活动指数周环比 -0.4%，前值 3.6%。 | 伊朗称若利益受损，将通过提高霍尔木兹海峡关税等方式反制 | 但斌再度加码科技股 | 塔吉特第二季度净销售额265.4亿美元，预期261.1亿美元。
+第二季度调整后每股收益4.11美元。
+第二季度同店销售额增长3.8%，预期增长2.43%。
+塔吉特预计全年调整后每股收益为9.90至10.90美元。
+塔吉特美股盘前跌近1%。 | 空客A350F订单破百 预计2027年下半年交付
+  - 其他: 【特斯拉上线豆包大模型】据火山引擎消息，特斯拉上线豆包大模型。据介绍，特斯拉车机现已陆续推送。 | Nebius美股盘前跌超7%，公司拟发行45亿美元可转换优先票据。 | 计划训超大模型后，字节Seed基模团队调整了组织架构 | 东方财富证券陈果： 今天这样的整体急跌不会持续，大A后续依然充满机会 | 康强电子：上半年归母净利润同比增长6.44%
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: In Focus | A matter of trust: China’s wealthy grapple with new offshore asset tax rules | Science | Breaking | China’s LandSpace beats SpaceX with steel-booster recovery after orbital launch | Diplomacy | Harvard, MIT among 30 US universities ordered to audit China research ties | Banking & Finance | Use of yuan hits 6-month high in Hong Kong’s fast-payment system | Economy, Trade & Business
-  - 其他: Once a reliable vehicle for tax avoidance, offshore trusts are being reconsidered as enforcement bodies step up their efforts, backed by new regulations. | Yuan-denominated payments rise 34 per cent, with Payment Connect mechanism acting as catalyst for multiplying cross-border use cases. | US urged to follow China’s lead in treating data as an economic asset | Congressional advisory panel urges Washington to develop national strategy as Beijing’s data push gives Chinese firms edge in AI, robotics. | US Democrats rebuke Trump for easing sanctions on Beijing, Hong Kong officials
+  - 头版/首屏: China to build monitoring station near disputed Scarborough Shoal | As Xi’s US visit approaches, basic details of planned AI talks remain uncertain | Hong Kong Economy | Mable Chan uses Qatar Airways office opening to drop Central Asia route reveal | Malaysia fears military ‘miscalculation’ near Sabah amid US-China rivalry | China Economy | Shanghai Port sees Christmas shipment delays as twin typhoons create backlog | Military
+  - 其他: Beijing’s ecological initiatives around the South China Sea flashpoint have been a growing source of tension with Manila and Washington. | Defence Minister Mohamed Khaled Nordin says any escalation in areas close to Malaysia could have wider implications for its security. | The extreme weather arrives during a prolonged pre-Christmas peak shipping season for the port. | Is South China Sea warship breakdown a sign US is ‘taxing reserve capacity’? | After USS Benfold lost power for four days last month, analysts say prolonged operations in the Middle East could be taking a toll.
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | MiniMax智谱急插逾一成，伺低吸纳博染蓝？ | 中国稀土检测关键技术 获重要进展 | 美伊谈判停火 60日限期届满 | 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25471.15+17.92(+0.07%)
-                    etnet.com.hk@copyright | 国企指数8453.20+13.23(+0.16%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | MiniMax智谱急插逾一成，伺低吸纳博染蓝？ | A股最贵新股 频准激光首挂飙逾5倍 | 美征加国50%新关税 恐阻北美贸协谈判 | 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25495.07+23.92(+0.09%)
+                    etnet.com.hk@copyright | 国企指数8471.21+18.01(+0.21%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 美債期權轉押2027年減息，9月加息預期明顯降溫；美國多州收緊數據中心用電監管，OpenAI與Anthropic盈利分化；港交所午間交卷，快手、恒瑞盤後放榜 | 發生了什麼？美股AI硬件股遭拋售，AI債務融資擔憂加劇，美伊談判前景蒙塵 | 美國債市遭「重錘」，華爾街：這一次恐非「暫時」，看起來很像2007 | 美國長債拋售壓力加劇！政府債務逼近40萬億美元，30年期收益率逼近本世紀高位 | 美股收盤 | AI債務化擔憂發酵，股指三連跌，芯片指數重挫6%；醫藥、紅利板塊輪動走強，強生創收盤新高；美長債走V；油價觸及三週高位 | 美官員：特朗普要求談判團隊暫停與伊朗接觸 | 據悉OpenAI二季度營收環比增長18%，但虧損擴大 | 比特幣巨鯨結束拋售，60天增持超27億美元
-  - 其他: 蘋果向歐盟監管讓步：取消核心技術費，歐洲App Store佣金全面下調 | 數據中心反對聲浪成美國中期選舉敏感議題，賓州出臺全美「最嚴格」數據中心監管規則 | 成交額TOP20 | AI基建全線回調，閃迪、LITE雙雙跌超9%；蘋果逆勢上漲1.5%，將下調歐洲APP Store費用；Meta「生死官司」正式開審 | 英偉達被低估50%？美銀稱AI融資風險定價過度 | 科技基建融資代價高昂，黑石QTS以垃圾債利率發行投資級債券，認購達六倍
+  - 头版/首屏: Moderna股價翻倍暴漲，與默沙東宣佈mRNA癌症疫苗三期試驗成功，黑色素瘤治療迎來歷史性突破 | 美債最敏感時刻：160億美元長債拍賣+聯儲局紀要，週四凌晨考驗市場 | AI算力租賃商NEBIUS擬發行45億美元可轉換優先票據 | SK海力士擬回購註銷40萬億韓元股份，承諾將50%現金流回饋股東 | 摩通實地調研特斯拉：兩大核心敘事—Robotaxi、Optimus商業化路徑逐漸清晰 | 超80%船舶走阿曼航線！霍爾木茲海峽控制權，伊朗已經丟了大半？ | AI盛世，日本製造業爲何「只賺錢不擴產」？ | 一圖前瞻｜長飛光纖中期業績週五揭曉！盈喜淨利最高預增9倍，光纖漲價與AI需求能否形成「雙擊」？
+  - 其他: 政策收緊下美清潔能源仍逆勢爆發，數據中心建設和美伊衝突均是推手 | 北水拋售港股超106億港元，華虹宏力、小米集團分別遭淨賣出逾29億、15億港元 | 快手Q2營收355.4億元符合預期，可靈AI收入漲超200%，月活用戶大超預估 | 收市速睇 | 三大指數漲跌不一，科指跌1.21%；科網股多數上漲，小米漲近5%，美團漲近2%；機器人概念、半導體股回調，埃斯頓跌超14%，華虹宏力跌近12% | 智譜創始人唐傑聊Scaling Law：大模型萬億參數曾是行業走的彎路，下一步關鍵在後訓練
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
-- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **黄金/大宗商品** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中) (3 站)
+- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
+- **加密货币** — 出现于: Benzinga (EN) (1 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 伊朗/中东局势（4 站）
-- 中国/欧盟（3 站）
-- 关税/贸易政策（2 站）
+- 中国/欧盟（4 站）
+- 关税/贸易政策（3 站）
+- 伊朗/中东局势（2 站）
 - 油价/能源（2 站）
-- 加密货币（2 站）
-- 黄金/大宗商品（2 站）
-- 美联储/利率（2 站）
-- 就业/经济数据（1 站）
+- 加密货币（1 站）
+- 美联储/利率（1 站）
 - 中国政策（1 站）
+- 就业/经济数据（0 站）
+- 黄金/大宗商品（0 站）
