@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026082009
+抓取时间: 2026082020
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- Treasury's bond move could make Kevin Warsh's job harder
-- Trump says US starting 'economic warfare' operation against Iran
-- Bessent becomes most interventionist Treasury chief in decades
-- Trump says US starting 'economic warfare' operation against Iran
-- Bessent becomes most interventionist Treasury chief in decades
-- Several Fed officials wanted to raise rates last month. If inflation doesn't come down, more of them see hikes.
-- US national debt surpasses $40 trillion
-- Tech today: More testimony in Meta trial, OpenAI's growth sags
-- SpaceX attempted to acquire AI coding startup Cognition
-- Chip firm Fractile seeks $6.5 billion value after Anthropic deal
-- Amazon plans drone delivery expansion to about 500 US locales
+- U.S. markets open in 1h 31m
+- Scott Bessent just cried uncle on the bond market
+- Walmart stock drops amid slower sales growth, raises guidance
+- Why Airbnb stock isn't far from a record high
+- Walmart stock drops amid slower sales growth, raises guidance
+- Why Airbnb stock isn't far from a record high
+- Bugatti CEO: Can't build cars fast enough for growing collector base
+- Moderna falls after record rally — Here's what Wall Street thinks comes next
+- Gains in AI company stakes juice second-quarter earnings for S&P 500
+- Alibaba dips as Q2 profit misses estimates despite AI cloud growth
+- Anthropic, OpenAI clash over strict Massachusetts AI safeguards
+- SK Hynix workers to get 60% of this year's bonuses in stock
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Tech & AI
 - Markets & Economy
-- Stocks snap 3-day losing streak as bonds rally, Moderna booms
-- Ken Fisher's firm seen behind $4 billion contrarian bond trade
-- Iran risks losing key lifeline with UAE halting trade
-- 15 S&P 500 stocks are up 100% or more this year — here's what they have in common
+- Stock futures steady after Treasury's bond intervention buoys markets
+- Bitcoin roars past $70,000 as yields sink, Trump sparks optimism
+- Oil hits 3-week high on Middle East supply concerns amid war impasse
+- Bond relief ebbs, stocks fall as investors question rescue efforts
 - Popular
-- Crypto prices rise after SEC announces proposed regulation
-- Mysterious trader buys millions ahead of Trump meeting
+- Meta faces a $1.4T threat that reaches across tech
+- Companies are spending trillions on AI — Nobody's in charge
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,77 +42,74 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- I’m 64 and Living on $1,650 a Month on Social Security While My Ex Collects $3,800 — He Says, ‘You Should’ve Worked More’ But I Was Raising Our Kids
-- Merck, Moderna Cancer Vaccine Breakthrough Could Be Catalyst the mRNA ETF Trade Has Been Waiting For
-- Bitcoin Hits $69,000, Ethereum Goes on 20% Bull Rampage, XRP, SOL Pump 10% on Historic Crypto Day
-- Samsung Tumbled Nearly 8% in Seoul Even as AI Demand Drives Chip Prices Up To 15%
-- Why Everything From Your Mortgage To Your Car Payment Just Got More Expensive
+- This Sphere Entertainment Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Thursday
+- How To Earn $500 A Month From Ross Stores Stock Ahead Of Q2 Earnings
+- Amazon, Target And More On CNBC’s ‘Final Trades’
+- Is Fortnite Down? Here’s Why Servers Are Offline as Season 4: Override Arrives (UPDATED)
+- ‘It’s Done’: Investor Warns Warren Buffett’s Berkshire Can’t Beat the S&P 500 — Bets on PayPal and Intel Instead
+- Iran 'Partially Lost Control' on Strait of Hormuz as US Navy Gains Upper Hand, Analysts Say—'They Were Never Completely in Control'
+- Strait Of Hormuz
 - Jamie Dimon
 - Anthropic
-- Warren Buffett
-- Coty Stock Slips After Wider-Than-Expected Q4 Loss
-- Michael Saylor Warns Strategy Investors: 'We Have to Be Prepared to Have Difficult Years'
+- Why Is Robinhood Stock Surging Thursday?
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 东方财富证券研究所副所长、首席策略官陈果：美国如期出手压制长端利率，利好黄金、数字货币和人民币资产。
-对A股来说，利好黄金股乃至有色、医药股、必选消费股、红利股和稳定增长蓝筹股。
-利空美元汇率，而且这次出手很可能只是个开始，美国几乎别无选择
-- 华尔街见闻早餐| 2026年8月20日
-- 特朗普宣布对伊朗采取“史上最严厉经济行动”
-- 特朗普：宣布对伊朗实施最严厉的经济行动。
-- 提醒：日内请重点关注（以下均为北京时间）
-- 特朗普称掌握可严厉制裁伊朗措施
-- 富国：美国扩大回购是“豪赌”短端利率会走低
-- 谷歌表示，Waymo将Gemini集成到定制无人驾驶出租车Ojai中。
-- 据日经新闻，日本五大商社之一伊藤忠商事宣布进军数据中心开发领域，计划2030年前投入数千亿日元，在东京圈、大阪及九州等地建设约10座数据中心，并出租给美国科技巨头等企业。
-- 美国国债突破40万亿美元大关
-- 周三（8月19日），医疗保健ETF大涨3.51%，可选消费ETF涨1.92%，太阳能ETF涨1.18%，日常消费ETF涨1.10%。地区银行和KBW银行ETF则下挫逾2%。
-- 美国商品期货交易委员会（CFTC）就算力期货合约公开征求意见
+- 纳斯达克100指数期货跌幅扩大至0.5%。
+- 阿里巴巴吴泳铭：平头哥AI芯片下半年将持续放量
+- 阿里巴巴吴泳铭：阿里AI年化收入突破495亿元
+- 网易有道：二季度净收入达14.7亿元，同比增长3.5%
+- 报道：Meta已悄然成为微软最大的AI客户之一
+- 沃尔玛第二季度营收1,879.4亿美元，预估1,868.7亿美元。
+第二季度调整后每股收益0.81美元，预估0.74美元。
+沃尔玛预计第三季度调整后每股收益0.62美元至0.64美元。
+沃尔玛预计全年调整后每股收益2.80美元至2.87美元
+- 卡塔尔称其将当前的努力重点放在美伊调解上
+- 斗鱼：二季度总收入9.81亿元，毛利润同比增长12%
+- 菜鸟CEO万霖：跨境电商是重要经济引擎，菜鸟将在多个APEC经济体建设机器人仓储
+- 阿里财报：中国电商CMR增长1%，即时零售减亏快于市场预期
+- 阿里巴巴：27财年Q1资本性支出为人民币676.78亿元，较去年同期增长75%
+- 阿里27财年Q1自由现金流净流出446.7亿元同比扩大，系云基础设施支出增加所致
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- OpenAI宣布将于9月推出面向前沿模型的“私有安全处理”服务，并承诺对客户数据实行“零留存”政策，相关数据不会被保留或用于模型训练。
-此举旨在强化企业客户的数据隐私保护，提升其在B端市场的竞争力，同时回应监管与用户对AI数据安全的核心关切
-- 支付巨头Stripe同意收购AI路由公司OpenRouter。
-- 美国财政部20年期国债拍卖得标利率5.204%，高于前次的5.163%，间接投标者获配比例62.9%，低于前次比例69.1%。
-拍卖结束后，20年期美债收益率几乎没有变化。
-- 国际铜夜盘收涨0.40%，沪铜收涨0.23%，沪铝收跌0.23%，沪锌收跌0.22%，沪铅收涨0.19%，沪镍收涨1.94%，沪锡收涨0.92%。
-氧化铝夜盘收涨0.04%。
-不锈钢夜盘收涨0.81%。
-- 委内瑞拉石油部长：已准备好签署石油协议
-- 美国商品期货交易委员会CFTC就算力衍生品合约的上市征求意见。
-- 美国能源公司Crossover Energy首席执行官表示，公司已与委内瑞拉国家石油公司敲定石油交易协议。
-- Moderna暴涨160%，空头亏损50亿美元，黑色素瘤疫苗研究取得成功
-- 印尼东努沙登加拉省区域发生5.7级地震
-- 欧洲央行行长拉加德仍受到世界经济论坛招揽，希望其出任高层职务。
+- 越南外交部：欢迎中方将越南纳入过境免签政策范围
+- 中金公司：换股吸收合并东兴证券、信达证券，将于8月27日上会审核
+- 泡泡玛特褚音：中国市场上半年移位焕新超20家门店，店销实现双位数增长
+- 新易盛：拟推2026年限制性股票激励计划，向激励对象授予的限制性股票总量为648.12万股，本激励计划首次及预留授予的限制性股票授予价格均为212元/股。
+- 【兆易创新：拟以10亿元-20亿元回购公司股份】兆易创新公告，拟以不低于人民币10亿元（含）且不超过人民币20亿元（含）回购公司A股股份，回购价格不超过750元/股（含）。回购股份将全部用于注销并减少注册资本，回购期限自股东会审议通过之日起
+- WTI原油日内涨3%，报86.94美元/桶。布伦特原油日内涨2.6%，报94.10美元/桶。
+- 天赐材料：2026年上半年净利润28.61亿元，同比增967.91%
+- 中国中免：上半年净利润31.06亿元，同比增长19.49%
+- 煌上煌：上半年归母净利润8625.93万元，同比增长12.14%。
+- 腾远钴业：2026年上半年净利润8.81亿元，同比增87.82%
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Why China will need a ‘more persuasive security offer’ to win over middle powers
-- Global Economy
-- Money and ‘a lot of noise’: how the US’ critical-minerals sector vies with China
-- Golden Dome may not fully protect US from Chinese and Russian threats: experts
-- Companies
-- AIA first-half profit up 11%, driven by growth in Hong Kong and Asia sales
-- Trump says he plans to meet Kim Jong-un this year, citing good relationship
+- Alibaba’s AI cloud growth surge drives earnings despite soaring tech spending
 - Diplomacy
+- In Seoul, Wang Yi urges South Korea to chart a neutral path between China and US
+- Global Economy
+- From travel warnings to visa fees: why Chinese tourism to Japan is in free fall
+- Hong Kong Economy
+- Hong Kong jobless rate steady at 3.7% since start of 2026 but pressure mounts
+- China’s top diplomat calls on US to change ‘hostile policy’ on North Korea
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- American allies caught in the superpower rivalry are trying to reduce dependence on Washington without drifting into Beijing’s orbit.
-- Insurer sees value of new business rise 10 per cent year on year to record high of US$3.21 billion.
-- US president says North Korea has 57 ‘very powerful’ nuclear weapons, as Pyongyang denies direct communication between the two leaders.
-- Chinese national charged with voter fraud during 2024 US presidential election
-- Yupeng Sun was arrested for allegedly submitting a fraudulent voter registration and ballot, while impersonating a fellow countryman.
+- Tech giant posts fastest growth in cloud and AI revenue in 22 quarters, with capex up 75% amid fierce competition in the sector.
+- Fresh graduates and school leavers entering job market may pose some pressure on the unemployment rate, labour chief warns.
+- Wang also says Beijing is committed to playing ‘constructive role’ in peace and stability of peninsula in talks with counterpart in Seoul.
 - Politics
-- US drill cuts threaten South Korea’s wartime command plans
-- By cutting Ulchi Freedom Shield short, Washington may have set back Seoul’s bid to reclaim wartime military command delegated decades ago.
-- Lifestyle
-- What drives 4 Shaw Prize laureates in pursuit of scientific discovery
+- Anwar’s Taiwan remarks put Malaysia’s Beijing calculus in focus
+- Analysts say the comments did not change Malaysia’s one-China policy, but could reinforce perceptions of closer alignment with Beijing.
+- US Treasury Department steps in amid bond rout: will it work?
+- Analysts said the impact on global asset allocations would depend on whether the move could bring long-end Treasury yields sustainably lower.
+- Business
+- Why Hong Kong’s strategic advantages attract global talent
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 宇树科技高开6倍，港影子股效应消散，股价急回
-- A股最贵新股 频准激光首挂飙逾5倍
-- 美征加国50%新关税 恐阻北美贸协谈判
+- 联通少赚35%兼停派中期息，跌逾一成宁吼其他电讯股？
+- 朱雀三号试验成功 首实现火箭陆地回收
+- 美原周三征加50%关税 推迟3天生效
 - 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久
 - 指数环球商品外汇
 - 国金观点
@@ -122,9 +119,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25495.07+23.92(+0.09%)
+- 恒生指数25698.49+203.42(+0.80%)
                     etnet.com.hk@copyright
-- 国企指数8471.21+18.01(+0.21%)
+- 国企指数8547.84+76.63(+0.90%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -137,35 +134,35 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 美聯邦債務首破40萬億美元！聯儲局會議紀要：更多官員認爲或需加息；Moderna「癌症疫苗」引爆行情，醫藥巨頭齊刷新高；阿里巴巴、泡泡瑪特今日交卷
+- 阿里2027財年Q1營收2690億元，阿里雲收入同比增長45%，AI基礎設施投入推高資本開支
+- SK海力士勞資達成初步薪資協議：漲薪6.3%，六成績效獎改爲股票發放
+- 報道：Meta悄然躋身微軟最大AI客戶，每年採購規模達數億美元
+- 網易Q2營收同比增8%至301億元，經調整每股ADS收益12.02元不及預期，遊戲基本盤穩健
+- 北水拋售港股超104億港元，淨買入阿里巴巴超22億港元，加倉快手超11億港元；淨賣出石藥集團近11億港元
 - 華爾街怎麼看美財政部意外出手？變種QT來了，又一次「特朗普看跌期權」，沃什控通脹麻煩了
-- 沃什擬"砍會"？聯儲局會議紀要放鷹，地緣衝突、AI 雙重變量擾動！
-- mRNA個性化癌症疫苗！Moderna的突破意味着什麼？
-- 美國擴大國債回購：當貝森特怕了，美債交易員就不用怕了？
-- 加密市場「牛」來了？比特幣突然暴漲，一度突破7萬美元，如何解讀？
-- 美股收盤 | 美國財政部出手救長債，三大指數齊漲；Moderna飆升引爆生物醫藥行情，默沙東漲逾12%，標普生物ETF漲近6%；比特幣、黃金大幅拉升
-- 特朗普宣佈對伊朗採取史上最嚴厲的經濟制裁措施
+- 聯儲局緊縮邏輯遭遇挑戰！沃什想讓長債「替央行加息」，貝森特回購出手打亂佈局
+- 華爾街解讀海力士回購計劃：股東回報率明年高達8%、到2027年或再回報股東至少1300億美元
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 成交額TOP20 | Moderna爆升177%，黑色素瘤治療迎歷史性突破；邁威爾漲近10%，牽手谷歌開發定製芯片；禮來漲超4%再創新高，市值達1.2萬億美元
-- 治療癌症的「聖盃」？Moderna黑色素瘤mRNA疫苗三期試驗成功，收漲近180%
-- 「債務死亡螺旋」風險加劇！美國聯邦政府債務史上首破40萬億，十年翻一倍多
-- OpenAI內部大會釋放失落信號：今年IPO可能性愈發渺茫
-- 聯儲局會議紀要偏鷹：7月加息陣營不止三人，多人認爲若通脹不降需行動，部分料AI推升通脹
-- 美國聯邦政府債務突破40萬億美元，特朗普再度敦促減息
-- 美股三大指數集體收漲，納指漲0.16%，道指漲0.22%，標普500指數漲0.22%。存儲、光通信板塊下挫，希捷科技跌超7%，西部數據跌超6%，閃迪跌超3%。Lumentum跌超5%，Coherent跌超6%，康寧跌超5%。Moderna股價暴漲177%。
-- 美國祕密開闢霍爾木茲海峽航道，每天運出約1000萬桶石油
-- 美國年輕人對AI態度大轉彎：55%受訪者「擔憂超過興奮」
-- 聯儲局7月28-29日會議紀要：多數與會者支持維持利率不變，但有數人贊成加息
+- 泡泡瑪特上半年營收、淨利潤均低於預期，海外收入承壓，國內「星星人」逆勢增超580%，擬最高50億元回購股份
+- 過去40年從未「在選舉年下半年轉鷹」，聯儲局「這一次不一樣」？
+- 泡泡瑪特上半年營收171.73億元，同比增長23.8%
+- 收市速睇 | 三大指數齊漲，科指漲0.39%；科網、生物技術、黃金股多數上漲，百度漲超2%，雲頂新耀漲超41%，紫金黃金國際漲超11%；MINIMAX漲超6%
+- 專爲AI高性能計算設計，台積電1.6nm級A16工藝目標Q4量產
+- 摩根大通：美國債券回購治標不治本，長端利率或持續走高
+- AI債務洪峰來襲，9月才是美債的考驗期
+- 貝森特「救美債」就是「放棄美元」，花旗：強烈看多黃金！
+- 上海出臺樓市「滬八條」
+- 「大空頭」稱「英偉達殺手」出現了：3名哈佛輟學生創辦的小公司
 
 --- 跨站重点主题（多站出现=更重要）---
-- 美国关税: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 油价/霍尔木兹: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 黄金/大宗: 华尔街见闻 (简中), SCMP (EN/中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中)
+- 美国关税: Yahoo Finance (EN), 经济通 (繁中)
+- 就业数据: Yahoo Finance (EN), SCMP (EN/中)
+- 加密货币: Yahoo Finance (EN)
+- 黄金/大宗: 华尔街见闻 (简中)
+- 中国政策/两会: 富途资讯 (繁中)
 
 --- 粘贴结束 ---

@@ -3,61 +3,58 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | Treasury's bond move could make Kevin Warsh's job harder | Trump says US starting 'economic warfare' operation against Iran | Bessent becomes most interventionist Treasury chief in decades | Trump says US starting 'economic warfare' operation against Iran | Bessent becomes most interventionist Treasury chief in decades | Several Fed officials wanted to raise rates last month. If inflation doesn't come down, more of them see hikes. | US national debt surpasses $40 trillion
-  - 其他: Top Stories | Tech & AI | Markets & Economy | Stocks snap 3-day losing streak as bonds rally, Moderna booms | Ken Fisher's firm seen behind $4 billion contrarian bond trade
+  - 头版/首屏: U.S. markets open in 1h 31m | Scott Bessent just cried uncle on the bond market | Walmart stock drops amid slower sales growth, raises guidance | Why Airbnb stock isn't far from a record high | Walmart stock drops amid slower sales growth, raises guidance | Why Airbnb stock isn't far from a record high | Bugatti CEO: Can't build cars fast enough for growing collector base | Moderna falls after record rally — Here's what Wall Street thinks comes next
+  - 其他: Top Stories | Tech & AI | Markets & Economy | Stock futures steady after Treasury's bond intervention buoys markets | Bitcoin roars past $70,000 as yields sink, Trump sparks optimism
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: I’m 64 and Living on $1,650 a Month on Social Security While My Ex Collects $3,800 — He Says, ‘You Should’ve Worked More’ But I Was Raising Our Kids | Merck, Moderna Cancer Vaccine Breakthrough Could Be Catalyst the mRNA ETF Trade Has Been Waiting For | Bitcoin Hits $69,000, Ethereum Goes on 20% Bull Rampage, XRP, SOL Pump 10% on Historic Crypto Day | Samsung Tumbled Nearly 8% in Seoul Even as AI Demand Drives Chip Prices Up To 15% | Why Everything From Your Mortgage To Your Car Payment Just Got More Expensive
+  - 其他: This Sphere Entertainment Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Thursday | How To Earn $500 A Month From Ross Stores Stock Ahead Of Q2 Earnings | Amazon, Target And More On CNBC’s ‘Final Trades’ | Is Fortnite Down? Here’s Why Servers Are Offline as Season 4: Override Arrives (UPDATED) | ‘It’s Done’: Investor Warns Warren Buffett’s Berkshire Can’t Beat the S&P 500 — Bets on PayPal and Intel Instead
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 东方财富证券研究所副所长、首席策略官陈果：美国如期出手压制长端利率，利好黄金、数字货币和人民币资产。
-对A股来说，利好黄金股乃至有色、医药股、必选消费股、红利股和稳定增长蓝筹股。
-利空美元汇率，而且这次出手很可能只是个开始，美国几乎别无选择 | 华尔街见闻早餐| 2026年8月20日 | 特朗普宣布对伊朗采取“史上最严厉经济行动” | 特朗普：宣布对伊朗实施最严厉的经济行动。 | 提醒：日内请重点关注（以下均为北京时间） | 特朗普称掌握可严厉制裁伊朗措施 | 富国：美国扩大回购是“豪赌”短端利率会走低 | 谷歌表示，Waymo将Gemini集成到定制无人驾驶出租车Ojai中。
-  - 其他: OpenAI宣布将于9月推出面向前沿模型的“私有安全处理”服务，并承诺对客户数据实行“零留存”政策，相关数据不会被保留或用于模型训练。
-此举旨在强化企业客户的数据隐私保护，提升其在B端市场的竞争力，同时回应监管与用户对AI数据安全的核心关切 | 支付巨头Stripe同意收购AI路由公司OpenRouter。 | 美国财政部20年期国债拍卖得标利率5.204%，高于前次的5.163%，间接投标者获配比例62.9%，低于前次比例69.1%。
-拍卖结束后，20年期美债收益率几乎没有变化。 | 国际铜夜盘收涨0.40%，沪铜收涨0.23%，沪铝收跌0.23%，沪锌收跌0.22%，沪铅收涨0.19%，沪镍收涨1.94%，沪锡收涨0.92%。
-氧化铝夜盘收涨0.04%。
-不锈钢夜盘收涨0.81%。 | 委内瑞拉石油部长：已准备好签署石油协议
+  - 头版/首屏: 纳斯达克100指数期货跌幅扩大至0.5%。 | 阿里巴巴吴泳铭：平头哥AI芯片下半年将持续放量 | 阿里巴巴吴泳铭：阿里AI年化收入突破495亿元 | 网易有道：二季度净收入达14.7亿元，同比增长3.5% | 报道：Meta已悄然成为微软最大的AI客户之一 | 沃尔玛第二季度营收1,879.4亿美元，预估1,868.7亿美元。
+第二季度调整后每股收益0.81美元，预估0.74美元。
+沃尔玛预计第三季度调整后每股收益0.62美元至0.64美元。
+沃尔玛预计全年调整后每股收益2.80美元至2.87美元 | 卡塔尔称其将当前的努力重点放在美伊调解上 | 斗鱼：二季度总收入9.81亿元，毛利润同比增长12%
+  - 其他: 越南外交部：欢迎中方将越南纳入过境免签政策范围 | 中金公司：换股吸收合并东兴证券、信达证券，将于8月27日上会审核 | 泡泡玛特褚音：中国市场上半年移位焕新超20家门店，店销实现双位数增长 | 新易盛：拟推2026年限制性股票激励计划，向激励对象授予的限制性股票总量为648.12万股，本激励计划首次及预留授予的限制性股票授予价格均为212元/股。 | 【兆易创新：拟以10亿元-20亿元回购公司股份】兆易创新公告，拟以不低于人民币10亿元（含）且不超过人民币20亿元（含）回购公司A股股份，回购价格不超过750元/股（含）。回购股份将全部用于注销并减少注册资本，回购期限自股东会审议通过之日起
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Why China will need a ‘more persuasive security offer’ to win over middle powers | Global Economy | Money and ‘a lot of noise’: how the US’ critical-minerals sector vies with China | Golden Dome may not fully protect US from Chinese and Russian threats: experts | Companies | AIA first-half profit up 11%, driven by growth in Hong Kong and Asia sales | Trump says he plans to meet Kim Jong-un this year, citing good relationship | Diplomacy
-  - 其他: American allies caught in the superpower rivalry are trying to reduce dependence on Washington without drifting into Beijing’s orbit. | Insurer sees value of new business rise 10 per cent year on year to record high of US$3.21 billion. | US president says North Korea has 57 ‘very powerful’ nuclear weapons, as Pyongyang denies direct communication between the two leaders. | Chinese national charged with voter fraud during 2024 US presidential election | Yupeng Sun was arrested for allegedly submitting a fraudulent voter registration and ballot, while impersonating a fellow countryman.
+  - 头版/首屏: Alibaba’s AI cloud growth surge drives earnings despite soaring tech spending | Diplomacy | In Seoul, Wang Yi urges South Korea to chart a neutral path between China and US | Global Economy | From travel warnings to visa fees: why Chinese tourism to Japan is in free fall | Hong Kong Economy | Hong Kong jobless rate steady at 3.7% since start of 2026 but pressure mounts | China’s top diplomat calls on US to change ‘hostile policy’ on North Korea
+  - 其他: Tech giant posts fastest growth in cloud and AI revenue in 22 quarters, with capex up 75% amid fierce competition in the sector. | Fresh graduates and school leavers entering job market may pose some pressure on the unemployment rate, labour chief warns. | Wang also says Beijing is committed to playing ‘constructive role’ in peace and stability of peninsula in talks with counterpart in Seoul. | Politics | Anwar’s Taiwan remarks put Malaysia’s Beijing calculus in focus
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 宇树科技高开6倍，港影子股效应消散，股价急回 | A股最贵新股 频准激光首挂飙逾5倍 | 美征加国50%新关税 恐阻北美贸协谈判 | 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25495.07+23.92(+0.09%)
-                    etnet.com.hk@copyright | 国企指数8471.21+18.01(+0.21%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 联通少赚35%兼停派中期息，跌逾一成宁吼其他电讯股？ | 朱雀三号试验成功 首实现火箭陆地回收 | 美原周三征加50%关税 推迟3天生效 | 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25698.49+203.42(+0.80%)
+                    etnet.com.hk@copyright | 国企指数8547.84+76.63(+0.90%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 美聯邦債務首破40萬億美元！聯儲局會議紀要：更多官員認爲或需加息；Moderna「癌症疫苗」引爆行情，醫藥巨頭齊刷新高；阿里巴巴、泡泡瑪特今日交卷 | 華爾街怎麼看美財政部意外出手？變種QT來了，又一次「特朗普看跌期權」，沃什控通脹麻煩了 | 沃什擬"砍會"？聯儲局會議紀要放鷹，地緣衝突、AI 雙重變量擾動！ | mRNA個性化癌症疫苗！Moderna的突破意味着什麼？ | 美國擴大國債回購：當貝森特怕了，美債交易員就不用怕了？ | 加密市場「牛」來了？比特幣突然暴漲，一度突破7萬美元，如何解讀？ | 美股收盤 | 美國財政部出手救長債，三大指數齊漲；Moderna飆升引爆生物醫藥行情，默沙東漲逾12%，標普生物ETF漲近6%；比特幣、黃金大幅拉升 | 特朗普宣佈對伊朗採取史上最嚴厲的經濟制裁措施
-  - 其他: 成交額TOP20 | Moderna爆升177%，黑色素瘤治療迎歷史性突破；邁威爾漲近10%，牽手谷歌開發定製芯片；禮來漲超4%再創新高，市值達1.2萬億美元 | 治療癌症的「聖盃」？Moderna黑色素瘤mRNA疫苗三期試驗成功，收漲近180% | 「債務死亡螺旋」風險加劇！美國聯邦政府債務史上首破40萬億，十年翻一倍多 | OpenAI內部大會釋放失落信號：今年IPO可能性愈發渺茫 | 聯儲局會議紀要偏鷹：7月加息陣營不止三人，多人認爲若通脹不降需行動，部分料AI推升通脹
+  - 头版/首屏: 阿里2027財年Q1營收2690億元，阿里雲收入同比增長45%，AI基礎設施投入推高資本開支 | SK海力士勞資達成初步薪資協議：漲薪6.3%，六成績效獎改爲股票發放 | 報道：Meta悄然躋身微軟最大AI客戶，每年採購規模達數億美元 | 網易Q2營收同比增8%至301億元，經調整每股ADS收益12.02元不及預期，遊戲基本盤穩健 | 北水拋售港股超104億港元，淨買入阿里巴巴超22億港元，加倉快手超11億港元；淨賣出石藥集團近11億港元 | 華爾街怎麼看美財政部意外出手？變種QT來了，又一次「特朗普看跌期權」，沃什控通脹麻煩了 | 聯儲局緊縮邏輯遭遇挑戰！沃什想讓長債「替央行加息」，貝森特回購出手打亂佈局 | 華爾街解讀海力士回購計劃：股東回報率明年高達8%、到2027年或再回報股東至少1300億美元
+  - 其他: 泡泡瑪特上半年營收、淨利潤均低於預期，海外收入承壓，國內「星星人」逆勢增超580%，擬最高50億元回購股份 | 過去40年從未「在選舉年下半年轉鷹」，聯儲局「這一次不一樣」？ | 泡泡瑪特上半年營收171.73億元，同比增長23.8% | 收市速睇 | 三大指數齊漲，科指漲0.39%；科網、生物技術、黃金股多數上漲，百度漲超2%，雲頂新耀漲超41%，紫金黃金國際漲超11%；MINIMAX漲超6% | 專爲AI高性能計算設計，台積電1.6nm級A16工藝目標Q4量產
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中) (5 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
-- **油价/能源/霍尔木兹** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
-- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **伊朗/中东局势** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 经济通 (繁中) (2 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
+- **加密货币** — 出现于: Yahoo Finance (EN) (1 站)
+- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
+- **中国重大政策/两会** — 出现于: 富途资讯 (繁中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 关税/贸易政策（5 站）
 - 科技股/个股（5 站）
-- 伊朗/中东局势（4 站）
-- 加密货币（3 站）
-- 中国/欧盟（3 站）
-- 油价/能源（2 站）
-- 黄金/大宗商品（2 站）
-- 美联储/利率（2 站）
+- 中国/欧盟（4 站）
+- 油价/能源（3 站）
+- 伊朗/中东局势（2 站）
+- 关税/贸易政策（2 站）
+- 就业/经济数据（2 站）
+- 加密货币（1 站）
+- 黄金/大宗商品（1 站）
 - 中国政策（1 站）
-- 就业/经济数据（0 站）
+- 美联储/利率（0 站）
