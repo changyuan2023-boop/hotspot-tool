@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026082020
+抓取时间: 2026082109
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 31m
-- Scott Bessent just cried uncle on the bond market
-- Walmart stock drops amid slower sales growth, raises guidance
-- Why Airbnb stock isn't far from a record high
-- Walmart stock drops amid slower sales growth, raises guidance
-- Why Airbnb stock isn't far from a record high
-- Bugatti CEO: Can't build cars fast enough for growing collector base
-- Moderna falls after record rally — Here's what Wall Street thinks comes next
-- Gains in AI company stakes juice second-quarter earnings for S&P 500
-- Alibaba dips as Q2 profit misses estimates despite AI cloud growth
-- Anthropic, OpenAI clash over strict Massachusetts AI safeguards
-- SK Hynix workers to get 60% of this year's bonuses in stock
+- U.S. markets closed
+- Bessent signals more Treasury buybacks ahead
+- Anthropic expects to match SpaceX's record IPO size or top it
+- Why Bessent's moves to calm the bond market haven't worked so far
+- Anthropic expects to match SpaceX's record IPO size or top it
+- Why Bessent's moves to calm the bond market haven't worked so far
+- Trump moves ahead with new crypto rules, with key bill stalled in Congress
+- Mortgage rates dropped despite heightened bond market volatility
+- ChatGPT can now control iMessage, raising Apple privacy concerns
+- Anthropic could publicly file IPO paperwork as soon as this month
+- Broadcom seeks more than $60B in latest AI debt deal: Bloomberg
+- Nvidia denies report it is rolling out China AI chip by year-end
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Tech & AI
 - Markets & Economy
-- Stock futures steady after Treasury's bond intervention buoys markets
-- Bitcoin roars past $70,000 as yields sink, Trump sparks optimism
-- Oil hits 3-week high on Middle East supply concerns amid war impasse
-- Bond relief ebbs, stocks fall as investors question rescue efforts
+- Stocks close down as bond relief evaporates
+- Walmart promises price cuts after $2.9 billion tariff refund
+- How the US government pushed the national debt to $40 trillion
+- US housing affordability gauge worsens for first time since 2023
 - Popular
-- Meta faces a $1.4T threat that reaches across tech
-- Companies are spending trillions on AI — Nobody's in charge
+- Homebuyers may qualify for $28.5M settlement
+- 2 Binance employees were detained in UAE in recent weeks: NYT
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -35,79 +35,89 @@
 - Top Stories
 - QUICK LINKS
 - Markets Pulse
+- Sponsored Content
 - Why Is It Moving?™
 - Trending Stories
-- Sponsored Content
 - Expert Ideas
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- This Sphere Entertainment Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Thursday
-- How To Earn $500 A Month From Ross Stores Stock Ahead Of Q2 Earnings
-- Amazon, Target And More On CNBC’s ‘Final Trades’
-- Is Fortnite Down? Here’s Why Servers Are Offline as Season 4: Override Arrives (UPDATED)
-- ‘It’s Done’: Investor Warns Warren Buffett’s Berkshire Can’t Beat the S&P 500 — Bets on PayPal and Intel Instead
-- Iran 'Partially Lost Control' on Strait of Hormuz as US Navy Gains Upper Hand, Analysts Say—'They Were Never Completely in Control'
+- AMD CEO Lisa Su Once Said Her Parents Expected All A’s, the Best Schools and a PhD — ‘I Just Thought, Wow, That’s a Lot to Do,’ But It Helped Shape 'Who I Am'
+- Jason Calacanis Says He Supports Raising the Minimum Wage Now. People Making Under $40K Spend 100% of Their Income and 'Save Nothing'
+- Retired Couple, 66 And 68, Say Their Adult Son Moved Back In 'For A Few Months' — It's Been Two Years And They're $40,000 Deeper In Bills
+- OpenAI and Anthropic Clash Over Massachusetts’ AI Safety Push
+- Bitcoin Cracks $72,500: What Do Prediction Markets Say Happens Next?
+- Anthropic Is Coming for SpaceX's $86 Billion IPO Record
 - Strait Of Hormuz
-- Jamie Dimon
 - Anthropic
-- Why Is Robinhood Stock Surging Thursday?
+- Ross Stores Posts Double Beat in Q2, Raises 2026 Earnings Guidance
+- Biotech Is Booming, But These 2 Stocks Missed the Memo
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 纳斯达克100指数期货跌幅扩大至0.5%。
-- 阿里巴巴吴泳铭：平头哥AI芯片下半年将持续放量
-- 阿里巴巴吴泳铭：阿里AI年化收入突破495亿元
-- 网易有道：二季度净收入达14.7亿元，同比增长3.5%
-- 报道：Meta已悄然成为微软最大的AI客户之一
-- 沃尔玛第二季度营收1,879.4亿美元，预估1,868.7亿美元。
-第二季度调整后每股收益0.81美元，预估0.74美元。
-沃尔玛预计第三季度调整后每股收益0.62美元至0.64美元。
-沃尔玛预计全年调整后每股收益2.80美元至2.87美元
-- 卡塔尔称其将当前的努力重点放在美伊调解上
-- 斗鱼：二季度总收入9.81亿元，毛利润同比增长12%
-- 菜鸟CEO万霖：跨境电商是重要经济引擎，菜鸟将在多个APEC经济体建设机器人仓储
-- 阿里财报：中国电商CMR增长1%，即时零售减亏快于市场预期
-- 阿里巴巴：27财年Q1资本性支出为人民币676.78亿元，较去年同期增长75%
-- 阿里27财年Q1自由现金流净流出446.7亿元同比扩大，系云基础设施支出增加所致
+- 马斯克称有关SpaceX收购无线电频谱交易的报道“不属实”。
+- 华尔街见闻早餐 | 2026年8月21日
+- 特朗普签署备忘录以促进美航天发射，探索商业机器人登陆火星
+- 报道：SK海力士将在日本宫城县建设存储芯片工厂
+- 报道：莱姆苏格的对冲基金7月因不良信贷押注亏损8%
+- 提醒：日内请重点关注（以下均为北京时间）
+- 美国总统特朗普：经济从未像现在这般强劲。
+倘若我再度参选，我将以25个百分点的优势获胜。
+- 美国副总统万斯：我们确实有一套方案，让经济增速超过债务增长速度。
+- 美国总统特朗普在Michael Cohen播客中表示：在伊朗问题上，我们实际上很快控制了霍尔木兹海峡。
+伊朗有一些导弹和无人机，但产能很低。
+- 美国得州石油大亨浮出水面，成古巴镍矿商神秘竞标者
+- 牛津经济研究院分析师约翰·卡纳万（John Canavan）认为：本周四周和八周美国国库券拍卖均受到强烈追捧。财政部宣布增加长端曲线回购，可能会导致国库券发行量小幅对冲性增加，但不足以显著削弱需求。
+与此同时，美联储加息预期的下降以及货币市
+- 德意志银行策略师估计，日本在4月和5月的第一轮干预消耗了其超过一半的国库券持有量，并假设6月份国库券的减少是由于日本在外国逆回购资金池中重建美元存款。
+依赖美元存款和到期国库券的收益在经济上更为合理，因为存放在美联储外国逆回购资金池中的美元
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 越南外交部：欢迎中方将越南纳入过境免签政策范围
-- 中金公司：换股吸收合并东兴证券、信达证券，将于8月27日上会审核
-- 泡泡玛特褚音：中国市场上半年移位焕新超20家门店，店销实现双位数增长
-- 新易盛：拟推2026年限制性股票激励计划，向激励对象授予的限制性股票总量为648.12万股，本激励计划首次及预留授予的限制性股票授予价格均为212元/股。
-- 【兆易创新：拟以10亿元-20亿元回购公司股份】兆易创新公告，拟以不低于人民币10亿元（含）且不超过人民币20亿元（含）回购公司A股股份，回购价格不超过750元/股（含）。回购股份将全部用于注销并减少注册资本，回购期限自股东会审议通过之日起
-- WTI原油日内涨3%，报86.94美元/桶。布伦特原油日内涨2.6%，报94.10美元/桶。
-- 天赐材料：2026年上半年净利润28.61亿元，同比增967.91%
-- 中国中免：上半年净利润31.06亿元，同比增长19.49%
-- 煌上煌：上半年归母净利润8625.93万元，同比增长12.14%。
-- 腾远钴业：2026年上半年净利润8.81亿元，同比增87.82%
+- 中长期美债收益率涨约4个基点
+- 美国副总统万斯谈伊朗：我们如今进入了一个新阶段，对伊朗施加经济压力是我们手中最有效的手段。
+但这是一场微妙的博弈：当我们对其施加经济压力时，伊朗也会试图反过来对我们施加经济压力。
+不过过去几周的实际情况是，伊朗承受的压力远大于我们。
+我们会
+- 加拿大负责对美贸易事务的部长：加美两国仍在就潜在协议持续开展谈判。
+- 加拿大美加贸易事务部长勒布朗：加拿大与美国已非常接近达成协议，我们仍在持续取得进展。
+在敲定协议具体细节之前，我们将继续在此谈判。
+- 周四（8月20日）纽约尾盘，美元兑日元涨0.62%，刷新日高至159.18日元，亚太盘初以来持续上扬，8月19日出现的失地收复过半。
+欧元兑日元涨0.59%，报185.79日元，收复7月30日以来的绝大部分失地；英镑兑日元涨0.78%，报2
+- 美国投资公司协会（ICI）：8月20日当周，美国货币市场资产达到7.93万亿美元。
+- 周四（8月20日）纽约尾盘，ICE美元指数涨0.08%，报98.908点，日内交投区间为98.557-98.934点，整体呈现出V形反转行情、北京时间18:13刷新日低，美国财长贝森特讲话之初短暂下挫。
+彭博美元指数涨0.09%，报1193
+- 芝加哥玉米期货涨0.9%，大豆油涨2%
+- 摩根大通给予博通“增持”评级：市场仍低估其AI芯片领域的绝对领先优势
+- WTI 9月原油期货收涨2美元，涨幅2.33%，报87.83美元/桶。
+布伦特10月原油期货收涨2.16美元，涨幅将近2.36%，报93.78美元/桶。
+中东Abu Dhabi Murban原油期货涨1.60%，报100.99美元/桶。
+N
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Alibaba’s AI cloud growth surge drives earnings despite soaring tech spending
+- In Focus | As the US widens a Xinjiang trade ban, China’s cotton industry shrugs it off
 - Diplomacy
-- In Seoul, Wang Yi urges South Korea to chart a neutral path between China and US
-- Global Economy
-- From travel warnings to visa fees: why Chinese tourism to Japan is in free fall
+- US pushes China to back its ‘most crushing economic operation’ against Iran
+- US designates academic Min Zin as ‘wrongfully detained’ in China
 - Hong Kong Economy
-- Hong Kong jobless rate steady at 3.7% since start of 2026 but pressure mounts
-- China’s top diplomat calls on US to change ‘hostile policy’ on North Korea
+- Hong Kong beauty sector faces new claims of hard-sell tactics and abuse
+- Military
+- Taiwan proposes record US$35b defence budget for 2027 as PLA’s pressure grows
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Tech giant posts fastest growth in cloud and AI revenue in 22 quarters, with capex up 75% amid fierce competition in the sector.
-- Fresh graduates and school leavers entering job market may pose some pressure on the unemployment rate, labour chief warns.
-- Wang also says Beijing is committed to playing ‘constructive role’ in peace and stability of peninsula in talks with counterpart in Seoul.
-- Politics
-- Anwar’s Taiwan remarks put Malaysia’s Beijing calculus in focus
-- Analysts say the comments did not change Malaysia’s one-China policy, but could reinforce perceptions of closer alignment with Beijing.
-- US Treasury Department steps in amid bond rout: will it work?
-- Analysts said the impact on global asset allocations would depend on whether the move could bring long-end Treasury yields sustainably lower.
+- Dozens of firms that source from the region were added to a US import blacklist, but few appear worried after years of diversification.
+- Legal experts warn aggressive sales tactics may breach Trade Descriptions Ordinance prohibiting harassment, coercion and misleading claims.
+- The government is targeting an 18.2 per cent increase in spending, with much of the extra money needed to pay for US weapons.
 - Business
+- Hong Kong buyers hunt for bargains in city’s battered noncore office market
+- The noncore office market remains under pressure, but end users are taking advantage of low prices to buy up cheap office space.
+- Beijing rejects US tariff report as Mexico plans new China trade curbs
+- He Yadong says US levies threaten supply chains, while Mexico considers new duties on Chinese steel and textiles.
 - Why Hong Kong’s strategic advantages attract global talent
+- Peru vows to apply Hong Kong trade deal, but is silent on mainland China
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 联通少赚35%兼停派中期息，跌逾一成宁吼其他电讯股？
+- mRNA疫苗技术突破创新药概念爆升，仲有边只药股可吼？
 - 朱雀三号试验成功 首实现火箭陆地回收
 - 美原周三征加50%关税 推迟3天生效
 - 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久
@@ -134,35 +144,35 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 阿里2027財年Q1營收2690億元，阿里雲收入同比增長45%，AI基礎設施投入推高資本開支
-- SK海力士勞資達成初步薪資協議：漲薪6.3%，六成績效獎改爲股票發放
-- 報道：Meta悄然躋身微軟最大AI客戶，每年採購規模達數億美元
-- 網易Q2營收同比增8%至301億元，經調整每股ADS收益12.02元不及預期，遊戲基本盤穩健
-- 北水拋售港股超104億港元，淨買入阿里巴巴超22億港元，加倉快手超11億港元；淨賣出石藥集團近11億港元
-- 華爾街怎麼看美財政部意外出手？變種QT來了，又一次「特朗普看跌期權」，沃什控通脹麻煩了
-- 聯儲局緊縮邏輯遭遇挑戰！沃什想讓長債「替央行加息」，貝森特回購出手打亂佈局
-- 華爾街解讀海力士回購計劃：股東回報率明年高達8%、到2027年或再回報股東至少1300億美元
+- 富途早報 | 美債回購規模至少翻倍，貝森特預告財政整固新舉措；Anthropic最快月底公開遞表，IPO規模或追平SpaceX；恒指季檢今日揭曉，長飛、中際旭創盤後放榜
+- 回購美債影響力只有24小時？貝森特：我們有很多工具，拭目以待
+- 美光CEO：AI徹底重寫存儲芯片週期邏輯，客戶需求超出公司供給約50%
+- 沃什下週五將在傑克遜霍爾首秀，華爾街亟待聯儲局抗通脹路線圖
+- 折扣零售韌性凸顯！羅斯百貨兩度上調全年利潤預期，同店銷售創近五年最長連漲
+- 阿里AI雲進入利潤釋放期：AI業務利潤翻倍激增、利潤率升至12%，自研芯片覆蓋650家客戶
+- 貝森特干預債市，令沃什呼籲市場"跟着數據走"蒙上陰影
+- 美股收盤 | 貝森特干預一日遊，三大股指齊跌；存儲、光通信逆勢走強，美光漲近4%，Lumentum漲超6%；比特幣大漲5%，突破7.2萬美元創6月以來新高
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 泡泡瑪特上半年營收、淨利潤均低於預期，海外收入承壓，國內「星星人」逆勢增超580%，擬最高50億元回購股份
-- 過去40年從未「在選舉年下半年轉鷹」，聯儲局「這一次不一樣」？
-- 泡泡瑪特上半年營收171.73億元，同比增長23.8%
-- 收市速睇 | 三大指數齊漲，科指漲0.39%；科網、生物技術、黃金股多數上漲，百度漲超2%，雲頂新耀漲超41%，紫金黃金國際漲超11%；MINIMAX漲超6%
-- 專爲AI高性能計算設計，台積電1.6nm級A16工藝目標Q4量產
-- 摩根大通：美國債券回購治標不治本，長端利率或持續走高
-- AI債務洪峰來襲，9月才是美債的考驗期
-- 貝森特「救美債」就是「放棄美元」，花旗：強烈看多黃金！
-- 上海出臺樓市「滬八條」
-- 「大空頭」稱「英偉達殺手」出現了：3名哈佛輟學生創辦的小公司
+- Anthropic最快將於本月底公開遞交IPO文件，擬超越SpaceX衝擊史上最大IPO
+- 成交額TOP20 | 美光投百億美元設立研究實驗室；加密貨幣概念股再度走強，Strategy漲近8%；沃爾瑪同店銷售增速創六年新低，股價重挫9%
+- 博通尋求逾600億美元債務融資，爲Anthropic等AI企業提供芯片基礎設施
+- 特朗普簽署備忘錄以促進美航天發射 探索商業機器人登陸火星
+- 美股三大指數集體收跌，納指跌1%，道指跌1.31%，標普500指數跌0.86%。存儲、光通信板塊逆勢走強，SK海力士漲超4%，美光科技漲超3%，閃迪漲超2%；Applied Optoelectronics漲超5%，Lumentum漲超6%。
+- Anthropic據傳最快月底公開招股書 劍指史上最大募資紀錄
+- 特朗普收緊學生簽證衝擊顯現：美國大學國際生申請量暴跌10%，創至少十年最大降幅
+- 美債爲何遭拋售？聖路易斯聯儲主席：AI爭奪資金，非聯儲局信譽問題
+- 從買日元到增加美債回購，貝森特成數十年來最積極干預市場的美國財長
+- Waymo官宣自研芯片上車 劍指Robotaxi性能與成本雙提升
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中)
-- 美国关税: Yahoo Finance (EN), 经济通 (繁中)
-- 就业数据: Yahoo Finance (EN), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 伊朗/中东: 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中)
+- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
 - 黄金/大宗: 华尔街见闻 (简中)
-- 中国政策/两会: 富途资讯 (繁中)
+- 美联储: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---

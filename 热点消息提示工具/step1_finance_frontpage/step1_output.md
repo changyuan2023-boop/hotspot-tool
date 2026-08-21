@@ -3,26 +3,29 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 31m | Scott Bessent just cried uncle on the bond market | Walmart stock drops amid slower sales growth, raises guidance | Why Airbnb stock isn't far from a record high | Walmart stock drops amid slower sales growth, raises guidance | Why Airbnb stock isn't far from a record high | Bugatti CEO: Can't build cars fast enough for growing collector base | Moderna falls after record rally — Here's what Wall Street thinks comes next
-  - 其他: Top Stories | Tech & AI | Markets & Economy | Stock futures steady after Treasury's bond intervention buoys markets | Bitcoin roars past $70,000 as yields sink, Trump sparks optimism
+  - 头版/首屏: U.S. markets closed | Bessent signals more Treasury buybacks ahead | Anthropic expects to match SpaceX's record IPO size or top it | Why Bessent's moves to calm the bond market haven't worked so far | Anthropic expects to match SpaceX's record IPO size or top it | Why Bessent's moves to calm the bond market haven't worked so far | Trump moves ahead with new crypto rules, with key bill stalled in Congress | Mortgage rates dropped despite heightened bond market volatility
+  - 其他: Top Stories | Tech & AI | Markets & Economy | Stocks close down as bond relief evaporates | Walmart promises price cuts after $2.9 billion tariff refund
 
 - **Benzinga (EN)** ✓
-  - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Why Is It Moving?™ | Trending Stories | Sponsored Content | Expert Ideas
-  - 其他: This Sphere Entertainment Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Thursday | How To Earn $500 A Month From Ross Stores Stock Ahead Of Q2 Earnings | Amazon, Target And More On CNBC’s ‘Final Trades’ | Is Fortnite Down? Here’s Why Servers Are Offline as Season 4: Override Arrives (UPDATED) | ‘It’s Done’: Investor Warns Warren Buffett’s Berkshire Can’t Beat the S&P 500 — Bets on PayPal and Intel Instead
+  - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Sponsored Content | Why Is It Moving?™ | Trending Stories | Expert Ideas
+  - 其他: AMD CEO Lisa Su Once Said Her Parents Expected All A’s, the Best Schools and a PhD — ‘I Just Thought, Wow, That’s a Lot to Do,’ But It Helped Shape 'Who I Am' | Jason Calacanis Says He Supports Raising the Minimum Wage Now. People Making Under $40K Spend 100% of Their Income and 'Save Nothing' | Retired Couple, 66 And 68, Say Their Adult Son Moved Back In 'For A Few Months' — It's Been Two Years And They're $40,000 Deeper In Bills | OpenAI and Anthropic Clash Over Massachusetts’ AI Safety Push | Bitcoin Cracks $72,500: What Do Prediction Markets Say Happens Next?
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 纳斯达克100指数期货跌幅扩大至0.5%。 | 阿里巴巴吴泳铭：平头哥AI芯片下半年将持续放量 | 阿里巴巴吴泳铭：阿里AI年化收入突破495亿元 | 网易有道：二季度净收入达14.7亿元，同比增长3.5% | 报道：Meta已悄然成为微软最大的AI客户之一 | 沃尔玛第二季度营收1,879.4亿美元，预估1,868.7亿美元。
-第二季度调整后每股收益0.81美元，预估0.74美元。
-沃尔玛预计第三季度调整后每股收益0.62美元至0.64美元。
-沃尔玛预计全年调整后每股收益2.80美元至2.87美元 | 卡塔尔称其将当前的努力重点放在美伊调解上 | 斗鱼：二季度总收入9.81亿元，毛利润同比增长12%
-  - 其他: 越南外交部：欢迎中方将越南纳入过境免签政策范围 | 中金公司：换股吸收合并东兴证券、信达证券，将于8月27日上会审核 | 泡泡玛特褚音：中国市场上半年移位焕新超20家门店，店销实现双位数增长 | 新易盛：拟推2026年限制性股票激励计划，向激励对象授予的限制性股票总量为648.12万股，本激励计划首次及预留授予的限制性股票授予价格均为212元/股。 | 【兆易创新：拟以10亿元-20亿元回购公司股份】兆易创新公告，拟以不低于人民币10亿元（含）且不超过人民币20亿元（含）回购公司A股股份，回购价格不超过750元/股（含）。回购股份将全部用于注销并减少注册资本，回购期限自股东会审议通过之日起
+  - 头版/首屏: 马斯克称有关SpaceX收购无线电频谱交易的报道“不属实”。 | 华尔街见闻早餐 | 2026年8月21日 | 特朗普签署备忘录以促进美航天发射，探索商业机器人登陆火星 | 报道：SK海力士将在日本宫城县建设存储芯片工厂 | 报道：莱姆苏格的对冲基金7月因不良信贷押注亏损8% | 提醒：日内请重点关注（以下均为北京时间） | 美国总统特朗普：经济从未像现在这般强劲。
+倘若我再度参选，我将以25个百分点的优势获胜。 | 美国副总统万斯：我们确实有一套方案，让经济增速超过债务增长速度。
+  - 其他: 中长期美债收益率涨约4个基点 | 美国副总统万斯谈伊朗：我们如今进入了一个新阶段，对伊朗施加经济压力是我们手中最有效的手段。
+但这是一场微妙的博弈：当我们对其施加经济压力时，伊朗也会试图反过来对我们施加经济压力。
+不过过去几周的实际情况是，伊朗承受的压力远大于我们。
+我们会 | 加拿大负责对美贸易事务的部长：加美两国仍在就潜在协议持续开展谈判。 | 加拿大美加贸易事务部长勒布朗：加拿大与美国已非常接近达成协议，我们仍在持续取得进展。
+在敲定协议具体细节之前，我们将继续在此谈判。 | 周四（8月20日）纽约尾盘，美元兑日元涨0.62%，刷新日高至159.18日元，亚太盘初以来持续上扬，8月19日出现的失地收复过半。
+欧元兑日元涨0.59%，报185.79日元，收复7月30日以来的绝大部分失地；英镑兑日元涨0.78%，报2
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Alibaba’s AI cloud growth surge drives earnings despite soaring tech spending | Diplomacy | In Seoul, Wang Yi urges South Korea to chart a neutral path between China and US | Global Economy | From travel warnings to visa fees: why Chinese tourism to Japan is in free fall | Hong Kong Economy | Hong Kong jobless rate steady at 3.7% since start of 2026 but pressure mounts | China’s top diplomat calls on US to change ‘hostile policy’ on North Korea
-  - 其他: Tech giant posts fastest growth in cloud and AI revenue in 22 quarters, with capex up 75% amid fierce competition in the sector. | Fresh graduates and school leavers entering job market may pose some pressure on the unemployment rate, labour chief warns. | Wang also says Beijing is committed to playing ‘constructive role’ in peace and stability of peninsula in talks with counterpart in Seoul. | Politics | Anwar’s Taiwan remarks put Malaysia’s Beijing calculus in focus
+  - 头版/首屏: In Focus | As the US widens a Xinjiang trade ban, China’s cotton industry shrugs it off | Diplomacy | US pushes China to back its ‘most crushing economic operation’ against Iran | US designates academic Min Zin as ‘wrongfully detained’ in China | Hong Kong Economy | Hong Kong beauty sector faces new claims of hard-sell tactics and abuse | Military | Taiwan proposes record US$35b defence budget for 2027 as PLA’s pressure grows
+  - 其他: Dozens of firms that source from the region were added to a US import blacklist, but few appear worried after years of diversification. | Legal experts warn aggressive sales tactics may breach Trade Descriptions Ordinance prohibiting harassment, coercion and misleading claims. | The government is targeting an 18.2 per cent increase in spending, with much of the extra money needed to pay for US weapons. | Business | Hong Kong buyers hunt for bargains in city’s battered noncore office market
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 联通少赚35%兼停派中期息，跌逾一成宁吼其他电讯股？ | 朱雀三号试验成功 首实现火箭陆地回收 | 美原周三征加50%关税 推迟3天生效 | 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | mRNA疫苗技术突破创新药概念爆升，仲有边只药股可吼？ | 朱雀三号试验成功 首实现火箭陆地回收 | 美原周三征加50%关税 推迟3天生效 | 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久 | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数25698.49+203.42(+0.80%)
                     etnet.com.hk@copyright | 国企指数8547.84+76.63(+0.90%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -31,30 +34,30 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 阿里2027財年Q1營收2690億元，阿里雲收入同比增長45%，AI基礎設施投入推高資本開支 | SK海力士勞資達成初步薪資協議：漲薪6.3%，六成績效獎改爲股票發放 | 報道：Meta悄然躋身微軟最大AI客戶，每年採購規模達數億美元 | 網易Q2營收同比增8%至301億元，經調整每股ADS收益12.02元不及預期，遊戲基本盤穩健 | 北水拋售港股超104億港元，淨買入阿里巴巴超22億港元，加倉快手超11億港元；淨賣出石藥集團近11億港元 | 華爾街怎麼看美財政部意外出手？變種QT來了，又一次「特朗普看跌期權」，沃什控通脹麻煩了 | 聯儲局緊縮邏輯遭遇挑戰！沃什想讓長債「替央行加息」，貝森特回購出手打亂佈局 | 華爾街解讀海力士回購計劃：股東回報率明年高達8%、到2027年或再回報股東至少1300億美元
-  - 其他: 泡泡瑪特上半年營收、淨利潤均低於預期，海外收入承壓，國內「星星人」逆勢增超580%，擬最高50億元回購股份 | 過去40年從未「在選舉年下半年轉鷹」，聯儲局「這一次不一樣」？ | 泡泡瑪特上半年營收171.73億元，同比增長23.8% | 收市速睇 | 三大指數齊漲，科指漲0.39%；科網、生物技術、黃金股多數上漲，百度漲超2%，雲頂新耀漲超41%，紫金黃金國際漲超11%；MINIMAX漲超6% | 專爲AI高性能計算設計，台積電1.6nm級A16工藝目標Q4量產
+  - 头版/首屏: 富途早報 | 美債回購規模至少翻倍，貝森特預告財政整固新舉措；Anthropic最快月底公開遞表，IPO規模或追平SpaceX；恒指季檢今日揭曉，長飛、中際旭創盤後放榜 | 回購美債影響力只有24小時？貝森特：我們有很多工具，拭目以待 | 美光CEO：AI徹底重寫存儲芯片週期邏輯，客戶需求超出公司供給約50% | 沃什下週五將在傑克遜霍爾首秀，華爾街亟待聯儲局抗通脹路線圖 | 折扣零售韌性凸顯！羅斯百貨兩度上調全年利潤預期，同店銷售創近五年最長連漲 | 阿里AI雲進入利潤釋放期：AI業務利潤翻倍激增、利潤率升至12%，自研芯片覆蓋650家客戶 | 貝森特干預債市，令沃什呼籲市場"跟着數據走"蒙上陰影 | 美股收盤 | 貝森特干預一日遊，三大股指齊跌；存儲、光通信逆勢走強，美光漲近4%，Lumentum漲超6%；比特幣大漲5%，突破7.2萬美元創6月以來新高
+  - 其他: Anthropic最快將於本月底公開遞交IPO文件，擬超越SpaceX衝擊史上最大IPO | 成交額TOP20 | 美光投百億美元設立研究實驗室；加密貨幣概念股再度走強，Strategy漲近8%；沃爾瑪同店銷售增速創六年新低，股價重挫9% | 博通尋求逾600億美元債務融資，爲Anthropic等AI企業提供芯片基礎設施 | 特朗普簽署備忘錄以促進美航天發射 探索商業機器人登陸火星 | 美股三大指數集體收跌，納指跌1%，道指跌1.31%，標普500指數跌0.86%。存儲、光通信板塊逆勢走強，SK海力士漲超4%，美光科技漲超3%，閃迪漲超2%；Applied Optoelectronics漲超5%，Lumentum漲超6%。
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **伊朗/中东局势** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 经济通 (繁中) (2 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
-- **加密货币** — 出现于: Yahoo Finance (EN) (1 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (6 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
+- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
+- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
 - **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
-- **中国重大政策/两会** — 出现于: 富途资讯 (繁中) (1 站)
+- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 科技股/个股（5 站）
-- 中国/欧盟（4 站）
-- 油价/能源（3 站）
+- 科技股/个股（6 站）
+- 关税/贸易政策（4 站）
+- 加密货币（3 站）
+- 中国/欧盟（3 站）
 - 伊朗/中东局势（2 站）
-- 关税/贸易政策（2 站）
-- 就业/经济数据（2 站）
-- 加密货币（1 站）
+- 油价/能源（2 站）
+- 中国政策（2 站）
 - 黄金/大宗商品（1 站）
-- 中国政策（1 站）
-- 美联储/利率（0 站）
+- 美联储/利率（1 站）
+- 就业/经济数据（0 站）
