@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026082109
+抓取时间: 2026082120
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- Bessent signals more Treasury buybacks ahead
-- Anthropic expects to match SpaceX's record IPO size or top it
-- Why Bessent's moves to calm the bond market haven't worked so far
-- Anthropic expects to match SpaceX's record IPO size or top it
-- Why Bessent's moves to calm the bond market haven't worked so far
-- Trump moves ahead with new crypto rules, with key bill stalled in Congress
-- Mortgage rates dropped despite heightened bond market volatility
-- ChatGPT can now control iMessage, raising Apple privacy concerns
+- U.S. markets open in 1h 30m
+- Bitcoin nears best week in years — here's what's fueling the rally
+- Amid the chip bear market, healthcare is breaking out
+- Target-date funds are booming. But are they still right for your retirement?
+- Amid the chip bear market, healthcare is breaking out
+- Target-date funds are booming. But are they still right for your retirement?
+- Oil set for second weekly gain as US ramps up pressure on Iran
+- Bessent takes on bond vigilantes in $32T Treasury market
+- Nvidia in talks with chip startup Rebellions for potential deal
+- Samsung Electronics expects shareholder returns up to $80B this year
+- Bitcoin leaps past $75,000 as crypto rally continues in Asia
 - Anthropic could publicly file IPO paperwork as soon as this month
-- Broadcom seeks more than $60B in latest AI debt deal: Bloomberg
-- Nvidia denies report it is rolling out China AI chip by year-end
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Tech & AI
 - Markets & Economy
-- Stocks close down as bond relief evaporates
-- Walmart promises price cuts after $2.9 billion tariff refund
-- How the US government pushed the national debt to $40 trillion
-- US housing affordability gauge worsens for first time since 2023
+- Stock futures rise as bitcoin continues to climb
+- Goldman: Slowing inflation is best path to lower US yields
+- Bessent signals more Treasury buybacks ahead
+- BofA's Hartnett sees pressure on risk assets if bond plan fails
 - Popular
-- Homebuyers may qualify for $28.5M settlement
-- 2 Binance employees were detained in UAE in recent weeks: NYT
+- Ross Stores jumps as strong Q2 results drive outlook upgrade
+- AI data startup Micro1 reaches $500M gross run rate amid AI training boom
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,84 +42,72 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- AMD CEO Lisa Su Once Said Her Parents Expected All A’s, the Best Schools and a PhD — ‘I Just Thought, Wow, That’s a Lot to Do,’ But It Helped Shape 'Who I Am'
-- Jason Calacanis Says He Supports Raising the Minimum Wage Now. People Making Under $40K Spend 100% of Their Income and 'Save Nothing'
-- Retired Couple, 66 And 68, Say Their Adult Son Moved Back In 'For A Few Months' — It's Been Two Years And They're $40,000 Deeper In Bills
-- OpenAI and Anthropic Clash Over Massachusetts’ AI Safety Push
-- Bitcoin Cracks $72,500: What Do Prediction Markets Say Happens Next?
-- Anthropic Is Coming for SpaceX's $86 Billion IPO Record
+- Bitcoin Taps $79,000, Up 20% Since Monday. So Why Should Bulls Be Careful?
+- What's Going On With Sandisk Stock Friday?
+- Trump’s Bond Buyback Push Puts Kevin Warsh in a Tough Spot — Peter Schiff Says Treasury ‘Pulled the Rug Out From Under’
+- This Nvidia Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Friday
+- BJ's Wholesale Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- Stock Market Today: Dow Jones, S&P 500 Futures Gain as Scott Bessent Touts 'Toughest Sanctions' for Iran—Ross Stores, Strategy, Flowers Foods in Focus
 - Strait Of Hormuz
 - Anthropic
-- Ross Stores Posts Double Beat in Q2, Raises 2026 Earnings Guidance
-- Biotech Is Booming, But These 2 Stocks Missed the Memo
+- Ross Gerber Casts Doubt on Tesla’s Full Self-Driving Capabilities Following JPMorgan Note: ‘As I’ve Suspected…’
+- Wall Street's Most Accurate Analysts Weigh In On 3 Energy Stocks With Over 3% Dividend Yields
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 马斯克称有关SpaceX收购无线电频谱交易的报道“不属实”。
-- 华尔街见闻早餐 | 2026年8月21日
-- 特朗普签署备忘录以促进美航天发射，探索商业机器人登陆火星
-- 报道：SK海力士将在日本宫城县建设存储芯片工厂
-- 报道：莱姆苏格的对冲基金7月因不良信贷押注亏损8%
-- 提醒：日内请重点关注（以下均为北京时间）
-- 美国总统特朗普：经济从未像现在这般强劲。
-倘若我再度参选，我将以25个百分点的优势获胜。
-- 美国副总统万斯：我们确实有一套方案，让经济增速超过债务增长速度。
-- 美国总统特朗普在Michael Cohen播客中表示：在伊朗问题上，我们实际上很快控制了霍尔木兹海峡。
-伊朗有一些导弹和无人机，但产能很低。
-- 美国得州石油大亨浮出水面，成古巴镍矿商神秘竞标者
-- 牛津经济研究院分析师约翰·卡纳万（John Canavan）认为：本周四周和八周美国国库券拍卖均受到强烈追捧。财政部宣布增加长端曲线回购，可能会导致国库券发行量小幅对冲性增加，但不足以显著削弱需求。
-与此同时，美联储加息预期的下降以及货币市
-- 德意志银行策略师估计，日本在4月和5月的第一轮干预消耗了其超过一半的国库券持有量，并假设6月份国库券的减少是由于日本在外国逆回购资金池中重建美元存款。
-依赖美元存款和到期国库券的收益在经济上更为合理，因为存放在美联储外国逆回购资金池中的美元
+- 经济学家上调美国三季度增长预期 料美联储到明年7月都按兵不动
+- 伊朗总统表示，最好今天就体面地结束冲突。（ISNA）
+- 美银称贝森特回购计划相当于准QE 如果无效恐催生风险资产做空押注
+- 乘联分会：初步推算本月狭义乘用车总市场约为158万辆，其中新能源零售可达104万左右，渗透率预计可达65.8%。
+- 特朗普允许对部分进口牛绞肉给予关税宽减
+- 肇庆小鹏新能源投资有限公司召回部分小鹏G6、P7+、X9汽车
+- 特斯拉（上海）有限公司、特斯拉汽车（北京）有限公司召回部分国产及进口纯电动汽车
+- 贝壳：2026年上半年净利润人民币38.79亿元
+- SK海力士：尚未就日本工厂作出任何决定。
+将在今日起一个月内进行进一步披露。
+- 腾讯于8月21日购回价值3.003亿港元的股份。
+- 瑞银全球财富管理将标普500指数2026年底目标价从7,900点调升至8,100点；将标普500指数2027年中目标价从8,200点调升至8,400点。
+- 美银：美国股票基金吸引三周以来最大规模资金流入
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 中长期美债收益率涨约4个基点
-- 美国副总统万斯谈伊朗：我们如今进入了一个新阶段，对伊朗施加经济压力是我们手中最有效的手段。
-但这是一场微妙的博弈：当我们对其施加经济压力时，伊朗也会试图反过来对我们施加经济压力。
-不过过去几周的实际情况是，伊朗承受的压力远大于我们。
-我们会
-- 加拿大负责对美贸易事务的部长：加美两国仍在就潜在协议持续开展谈判。
-- 加拿大美加贸易事务部长勒布朗：加拿大与美国已非常接近达成协议，我们仍在持续取得进展。
-在敲定协议具体细节之前，我们将继续在此谈判。
-- 周四（8月20日）纽约尾盘，美元兑日元涨0.62%，刷新日高至159.18日元，亚太盘初以来持续上扬，8月19日出现的失地收复过半。
-欧元兑日元涨0.59%，报185.79日元，收复7月30日以来的绝大部分失地；英镑兑日元涨0.78%，报2
-- 美国投资公司协会（ICI）：8月20日当周，美国货币市场资产达到7.93万亿美元。
-- 周四（8月20日）纽约尾盘，ICE美元指数涨0.08%，报98.908点，日内交投区间为98.557-98.934点，整体呈现出V形反转行情、北京时间18:13刷新日低，美国财长贝森特讲话之初短暂下挫。
-彭博美元指数涨0.09%，报1193
-- 芝加哥玉米期货涨0.9%，大豆油涨2%
-- 摩根大通给予博通“增持”评级：市场仍低估其AI芯片领域的绝对领先优势
-- WTI 9月原油期货收涨2美元，涨幅2.33%，报87.83美元/桶。
-布伦特10月原油期货收涨2.16美元，涨幅将近2.36%，报93.78美元/桶。
-中东Abu Dhabi Murban原油期货涨1.60%，报100.99美元/桶。
-N
+- 华大基因：2026年半年度净利润4740.46万元，同比增长718.24%
+- 华尔街见闻获悉，享界G9 24小时大定突破5000台。
+- 景旺电子：上半年归母净利润6.02亿元，同比下降7.38%。
+- 江波龙：香港联交所上市委员会已审阅公司的H股上市申请。
+- 东方财富：2026年上半年净利润80.64亿元，同比增长44.85%
+- 同花顺：2026年上半年净利润9.52亿元，同比增长89.76%
+- 特变电工：2026年上半年净利润25.52亿元，同比下降19.84%。
+- 章建平新进成为中际旭创第九大股东
+- 香港证监会行政总裁梁凤仪会晤印尼金融监管及证券交易所代表团
+- 中际旭创：2026年上半年净利润同比增长241.70%，拟10派12元
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- In Focus | As the US widens a Xinjiang trade ban, China’s cotton industry shrugs it off
+- China unveils measures to boost weak consumption amid calls for policy support
+- Science
+- China’s drone production capacity can only meet 60% of war demand: study
+- Health & Environment
+- CUHK researchers perform city’s first robot-assisted pelvic fracture surgery
 - Diplomacy
-- US pushes China to back its ‘most crushing economic operation’ against Iran
-- US designates academic Min Zin as ‘wrongfully detained’ in China
-- Hong Kong Economy
-- Hong Kong beauty sector faces new claims of hard-sell tactics and abuse
-- Military
-- Taiwan proposes record US$35b defence budget for 2027 as PLA’s pressure grows
+- The Mistral paradox: Europe’s push for tech sovereignty relies on China’s Z.ai
+- Tech
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Dozens of firms that source from the region were added to a US import blacklist, but few appear worried after years of diversification.
-- Legal experts warn aggressive sales tactics may breach Trade Descriptions Ordinance prohibiting harassment, coercion and misleading claims.
-- The government is targeting an 18.2 per cent increase in spending, with much of the extra money needed to pay for US weapons.
-- Business
-- Hong Kong buyers hunt for bargains in city’s battered noncore office market
-- The noncore office market remains under pressure, but end users are taking advantage of low prices to buy up cheap office space.
-- Beijing rejects US tariff report as Mexico plans new China trade curbs
-- He Yadong says US levies threaten supply chains, while Mexico considers new duties on Chinese steel and textiles.
-- Why Hong Kong’s strategic advantages attract global talent
-- Peru vows to apply Hong Kong trade deal, but is silent on mainland China
+- China rolls out credit subsidies for cars, home renovations to boost weak economy but some analysts warn the measures fall short.
+- AI race contender’s decision to offer GL-5.2 a sign of how European political and commercial incentives can pull in different directions.
+- What’s next for Alibaba as US$56 billion AI spending plan hits halfway mark?
+- Aggressive spending strains cash, but Alibaba’s AI cloud growth points to strong long-term returns, analysts say.
+- China Business
+- Evergrande’s fine, China cuts US Treasury holdings: the numbers moving markets
+- CXMT’s valuation, Unitree’s listing surge and retirement expectations for Hong Kong’s wealthy are among stories leading this week’s market numbers.
+- China Economy
+- China’s strategic mineral shipments rebound to US but slump for Japan
+- July customs data shows Beijing easing supplies of rare earth magnets to the US while export curbs deepen Japan’s material shortages.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- mRNA疫苗技术突破创新药概念爆升，仲有边只药股可吼？
-- 朱雀三号试验成功 首实现火箭陆地回收
-- 美原周三征加50%关税 推迟3天生效
+- 美国加码回购长债，金价创两月新高，拣买金股或ETF？
+- 沪楼市松绑 “卖旧买新”最高补贴8万人币
+- 美军秘密护送石油 日千万桶越霍峡
 - 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久
 - 指数环球商品外汇
 - 国金观点
@@ -129,9 +117,9 @@ N
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25698.49+203.42(+0.80%)
+- 恒生指数26009.46+310.97(+1.21%)
                     etnet.com.hk@copyright
-- 国企指数8547.84+76.63(+0.90%)
+- 国企指数8634.34+86.50(+1.01%)
                     etnet.com.hk@copyright
 - 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright
@@ -144,35 +132,35 @@ N
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 美債回購規模至少翻倍，貝森特預告財政整固新舉措；Anthropic最快月底公開遞表，IPO規模或追平SpaceX；恒指季檢今日揭曉，長飛、中際旭創盤後放榜
-- 回購美債影響力只有24小時？貝森特：我們有很多工具，拭目以待
-- 美光CEO：AI徹底重寫存儲芯片週期邏輯，客戶需求超出公司供給約50%
+- AI算力紅利持續釋放，中際旭創上半年淨利暴增241.7%，章建平新進成爲第九大股東
+- 保偏光纖需求爆發，長飛光纖上半年淨利潤同比增長888.88%
 - 沃什下週五將在傑克遜霍爾首秀，華爾街亟待聯儲局抗通脹路線圖
-- 折扣零售韌性凸顯！羅斯百貨兩度上調全年利潤預期，同店銷售創近五年最長連漲
-- 阿里AI雲進入利潤釋放期：AI業務利潤翻倍激增、利潤率升至12%，自研芯片覆蓋650家客戶
-- 貝森特干預債市，令沃什呼籲市場"跟着數據走"蒙上陰影
-- 美股收盤 | 貝森特干預一日遊，三大股指齊跌；存儲、光通信逆勢走強，美光漲近4%，Lumentum漲超6%；比特幣大漲5%，突破7.2萬美元創6月以來新高
+- 美伊衝突致每天去庫300萬桶，花旗警示原油庫存70天紅線將臨
+- 恒生指數公司：恒生指數成份股數目將由93只增加至95只，加入華虹宏力、濰柴動力
+- 本週美股牛股 | Moderna周累計漲近111%，mRNA領域首次突破癌症疫苗；Strategy漲近21%，特朗普與加密行業高管爲推動清晰法案展開最後衝刺；AngloGold Ashanti周漲近20%， 美國財政部出手回購長債推升金價
+- 北水拋售港股超76億港元，阿里巴巴遭淨賣出近13億港元，小米集團、騰訊控股均遭淨賣出逾7億港元
+- 神祕AI模型編程測試超越GPT-5.6和Claude，技術特徵指向智譜未發佈新模型
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Anthropic最快將於本月底公開遞交IPO文件，擬超越SpaceX衝擊史上最大IPO
-- 成交額TOP20 | 美光投百億美元設立研究實驗室；加密貨幣概念股再度走強，Strategy漲近8%；沃爾瑪同店銷售增速創六年新低，股價重挫9%
-- 博通尋求逾600億美元債務融資，爲Anthropic等AI企業提供芯片基礎設施
-- 特朗普簽署備忘錄以促進美航天發射 探索商業機器人登陸火星
-- 美股三大指數集體收跌，納指跌1%，道指跌1.31%，標普500指數跌0.86%。存儲、光通信板塊逆勢走強，SK海力士漲超4%，美光科技漲超3%，閃迪漲超2%；Applied Optoelectronics漲超5%，Lumentum漲超6%。
-- Anthropic據傳最快月底公開招股書 劍指史上最大募資紀錄
-- 特朗普收緊學生簽證衝擊顯現：美國大學國際生申請量暴跌10%，創至少十年最大降幅
-- 美債爲何遭拋售？聖路易斯聯儲主席：AI爭奪資金，非聯儲局信譽問題
-- 從買日元到增加美債回購，貝森特成數十年來最積極干預市場的美國財長
-- Waymo官宣自研芯片上車 劍指Robotaxi性能與成本雙提升
+- 白宮加密峰會全拆解：特朗普力挺鏈上交易所入美，9 月 15 日加密新規表決才是生死線
+- 英偉達洽購韓國「K-Nvidia計劃主角」 Rebellions，黃仁勳AI芯片帝國擴張再下一城
+- 三星公佈韓國史上最大股東回報計劃，今年擬返還至多790億美元，佔自由現金流五成
+- 收市速睇 | 三大指數齊漲，科指漲1.4%；科網股多數上漲，小米、網易漲超4%；黃金、AI應用、光通信概念股多數上漲，赤峰黃金漲超12%，智譜漲超10%，長飛光纖光纜漲超5%
+- BTC破7.5萬：空頭退潮，ETF與Strategy定調
+- 三星預計2026年股東回報至多將達110萬億韓元
+- 中國平安發佈半年報：創七年來同期最快業績增速！
+- 蘋果9月換帥後最大懸念：會不會砸錢買AI大公司？
+- 新一輪半導體漲價潮將至！意法半導體擬於8月23日宣佈提價
+- 摩根士丹利：蘋果App Store收入四年來首次下滑，PC需求加速萎縮
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 伊朗/中东: 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 黄金/大宗: 华尔街见闻 (简中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 美国关税: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 经济通 (繁中)
 - 美联储: 华尔街见闻 (简中)
+- 中国/欧盟: SCMP (EN/中)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
