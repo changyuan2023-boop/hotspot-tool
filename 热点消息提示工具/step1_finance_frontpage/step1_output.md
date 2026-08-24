@@ -3,20 +3,21 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 30m | Bitcoin nears best week in years — here's what's fueling the rally | Amid the chip bear market, healthcare is breaking out | Target-date funds are booming. But are they still right for your retirement? | Amid the chip bear market, healthcare is breaking out | Target-date funds are booming. But are they still right for your retirement? | Oil set for second weekly gain as US ramps up pressure on Iran | Bessent takes on bond vigilantes in $32T Treasury market
-  - 其他: Top Stories | Tech & AI | Markets & Economy | Stock futures rise as bitcoin continues to climb | Goldman: Slowing inflation is best path to lower US yields
+  - 头版/首屏: U.S. markets closed | Scott Bessent just kicked the bitcoin debasement trade into another gear | Nvidia earnings and Jackson Hole: What to watch this week | Luxury auto CEOs say there's a K-shaped economy even at the very top of the market | Nvidia earnings and Jackson Hole: What to watch this week | Luxury auto CEOs say there's a K-shaped economy even at the very top of the market | Trump's stock disclosure shows more than 1,000 trades in June | Target-date funds are booming. But are they still right for your retirement?
+  - 其他: Top Stories | Tech & AI | Markets & Economy | How the US government pushed the national debt to $40 trillion | Amazon quietly hiked prices overnight to offset 'significant increases' in memory costs
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Sponsored Content | Why Is It Moving?™ | Trending Stories | Expert Ideas
-  - 其他: Bitcoin Taps $79,000, Up 20% Since Monday. So Why Should Bulls Be Careful? | What's Going On With Sandisk Stock Friday? | Trump’s Bond Buyback Push Puts Kevin Warsh in a Tough Spot — Peter Schiff Says Treasury ‘Pulled the Rug Out From Under’ | This Nvidia Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Friday | BJ's Wholesale Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+  - 其他: My Landlord Owns 12 Houses and Said ‘Just Save $50K for a Down Payment’ — I Make $18 an Hour and Have $400 in Savings | Zoom Communications Stock Rally Faces Its Biggest Test | Affirm Stock Wavers Ahead of Earnings: Will it Fall Like Klarna? | Alibaba Stock Flashes a Bearish Pattern as a $10 Billion Risk Looms | Top S&P 500 Stocks to Watch This Week: CrowdStrike, Salesforce, Workday
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 经济学家上调美国三季度增长预期 料美联储到明年7月都按兵不动 | 伊朗总统表示，最好今天就体面地结束冲突。（ISNA） | 美银称贝森特回购计划相当于准QE 如果无效恐催生风险资产做空押注 | 乘联分会：初步推算本月狭义乘用车总市场约为158万辆，其中新能源零售可达104万左右，渗透率预计可达65.8%。 | 特朗普允许对部分进口牛绞肉给予关税宽减 | 肇庆小鹏新能源投资有限公司召回部分小鹏G6、P7+、X9汽车 | 特斯拉（上海）有限公司、特斯拉汽车（北京）有限公司召回部分国产及进口纯电动汽车 | 贝壳：2026年上半年净利润人民币38.79亿元
-  - 其他: 华大基因：2026年半年度净利润4740.46万元，同比增长718.24% | 华尔街见闻获悉，享界G9 24小时大定突破5000台。 | 景旺电子：上半年归母净利润6.02亿元，同比下降7.38%。 | 江波龙：香港联交所上市委员会已审阅公司的H股上市申请。 | 东方财富：2026年上半年净利润80.64亿元，同比增长44.85%
+  - 头版/首屏: 加拿大预计与美国的贸易战可能持续到中期选举之后 | 华尔街见闻早餐 | 2026年8月24日 | 美国财长贝森特在英国《金融时报》发文表示，伊朗正面临经济领域的“决战日”（D-Day）。 | 提醒：日内请重点关注（以下均为北京时间） | 美军称在中东地区海域开展舰艇补给作业 | 阿里新股配售，中东、欧洲、亚洲主要主权基金积极认购 | 伊朗最高国家安全委员会秘书雷扎伊：如果经济战持续，将不会有一滴石油得以出口，无论是经由霍尔木兹海峡，还是波斯湾其他出口通道。
+伊朗将把任何参与或支持美国针对伊朗民众发动经济战的国家，视作战争行为。 | 伊朗官员：若美打经济战 霍尔木兹海峡和波斯湾将再无石油出口
+  - 其他: 权益回暖推盈利劲增，多家头部公募上半年净利超过10亿元 | 新西兰二季度零售销售季环比 -0.5%，前值 0.9%。 | 资产负债管理新规落地，负债成本下行打开险资权益配置空间 | 希音在港交所公告称，IPO发售价区间为47.6-49.5港元，预计9月1日开始在联交易上市交易。 | 周一亚市盘初，油价走低，WTI原油期货现跌0.8%报86.37美元/盎司。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: China unveils measures to boost weak consumption amid calls for policy support | Science | China’s drone production capacity can only meet 60% of war demand: study | Health & Environment | CUHK researchers perform city’s first robot-assisted pelvic fracture surgery | Diplomacy | The Mistral paradox: Europe’s push for tech sovereignty relies on China’s Z.ai | Tech
-  - 其他: China rolls out credit subsidies for cars, home renovations to boost weak economy but some analysts warn the measures fall short. | AI race contender’s decision to offer GL-5.2 a sign of how European political and commercial incentives can pull in different directions. | What’s next for Alibaba as US$56 billion AI spending plan hits halfway mark? | Aggressive spending strains cash, but Alibaba’s AI cloud growth points to strong long-term returns, analysts say. | China Business
+  - 头版/首屏: US economist Barry Eichengreen on how de-dollarisation could actually look | Science | China puts off Chang’e-7 mission to drill for ice near lunar south pole | Your backyard could hold a rare earth fortune and this orange lichen is the clue | Education | Record non-DSE admissions to Hong Kong’s universities spark calls for quotas | Diplomacy | Chinese archaeologists head to Peru for joint project to explore ancient sites
+  - 其他: The former IMF adviser examines how de-dollarisation is gaining pace and what lies ahead for China’s yuan. | Number of non-DSE students in Hong Kong public universities surges 63 per cent, while local exam-takers fall to 72 per cent of intake. | The partnership – part of a wider effort to expand cultural ties – will explore sites associated with the 5,000-year-old Caral civilisation. | Europe | Macron hosts Saudi’s crown prince for visit ranging from esports to Middle East
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 美国加码回购长债，金价创两月新高，拣买金股或ETF？ | 沪楼市松绑 “卖旧买新”最高补贴8万人币 | 美军秘密护送石油 日千万桶越霍峡 | 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久 | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -28,17 +29,18 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: AI算力紅利持續釋放，中際旭創上半年淨利暴增241.7%，章建平新進成爲第九大股東 | 保偏光纖需求爆發，長飛光纖上半年淨利潤同比增長888.88% | 沃什下週五將在傑克遜霍爾首秀，華爾街亟待聯儲局抗通脹路線圖 | 美伊衝突致每天去庫300萬桶，花旗警示原油庫存70天紅線將臨 | 恒生指數公司：恒生指數成份股數目將由93只增加至95只，加入華虹宏力、濰柴動力 | 本週美股牛股 | Moderna周累計漲近111%，mRNA領域首次突破癌症疫苗；Strategy漲近21%，特朗普與加密行業高管爲推動清晰法案展開最後衝刺；AngloGold Ashanti周漲近20%， 美國財政部出手回購長債推升金價 | 北水拋售港股超76億港元，阿里巴巴遭淨賣出近13億港元，小米集團、騰訊控股均遭淨賣出逾7億港元 | 神祕AI模型編程測試超越GPT-5.6和Claude，技術特徵指向智譜未發佈新模型
-  - 其他: 白宮加密峰會全拆解：特朗普力挺鏈上交易所入美，9 月 15 日加密新規表決才是生死線 | 英偉達洽購韓國「K-Nvidia計劃主角」 Rebellions，黃仁勳AI芯片帝國擴張再下一城 | 三星公佈韓國史上最大股東回報計劃，今年擬返還至多790億美元，佔自由現金流五成 | 收市速睇 | 三大指數齊漲，科指漲1.4%；科網股多數上漲，小米、網易漲超4%；黃金、AI應用、光通信概念股多數上漲，赤峰黃金漲超12%，智譜漲超10%，長飛光纖光纜漲超5% | BTC破7.5萬：空頭退潮，ETF與Strategy定調
+  - 头版/首屏: 富途早報 | 美擬於美東時間週一盤中公佈對伊經濟戰具體措施；英偉達夜盤漲近1%，服務器被曝漲價15%；阿里完成800億港元新股配售定價，擬全部投入AI建設；君正股份將於今日開啓港股暗盤 | 阿里巴巴擬在香港配售新股，配售總額爲800億港元，資金全部投入AI建設 | 恒生科技擬擴容至50只，影響幾何？短期利好新納入個股，長期增強科技代表性 | 一週前瞻 | 沃什將首次亮相傑克遜霍爾；英偉達、美團業績陸續放榜；PCE、非農年度修訂重磅公佈 | 沃什傑克遜霍爾「首秀」倒計時：聯儲局指引模糊，長期美債面臨進一步拋售風險 | 「經濟諾曼底登陸」將至，美國財長稱要切斷伊朗的全部經濟命脈 | 比特幣強勢反攻！貨幣貶值交易復甦助力衝向8萬美元，多頭押注牛市飛輪再啓動 | 瑞·達里歐最新宏觀分析全文：多買黃金，再買點比特幣
+  - 其他: 伊朗議會推進霍爾木茲收費，最高安全官員：經濟戰若繼續，一滴石油都別想出口 | 全球AI「軍備競賽」升級，阿里巴巴宣佈800億港元港股配售 | 英偉達業績「萬衆矚目」：Rubin週期、循環融資與遠期市場份額 | 免費、強大！神祕模型「牛來」引發網絡熱議，猜測是智譜還是另有其人？ | SemiAnalysis：閃存製造正「由鎢轉鉬」
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), 经济通 (繁中) (3 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
+- **油价/能源/霍尔木兹** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (4 站)
+- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (3 站)
+- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **就业/经济数据** — 出现于: Benzinga (EN) (1 站)
+- **黄金/大宗商品** — 出现于: Benzinga (EN) (1 站)
 - **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 - **中国/欧盟** — 出现于: SCMP (EN/中) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
@@ -46,12 +48,12 @@
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 加密货币（4 站）
-- 黄金/大宗商品（4 站）
+- 关税/贸易政策（4 站）
+- 油价/能源（4 站）
 - 伊朗/中东局势（3 站）
-- 关税/贸易政策（3 站）
-- 油价/能源（3 站）
+- 加密货币（2 站）
+- 就业/经济数据（1 站）
+- 黄金/大宗商品（1 站）
 - 美联储/利率（1 站）
 - 中国/欧盟（1 站）
 - 中国政策（1 站）
-- 就业/经济数据（0 站）
