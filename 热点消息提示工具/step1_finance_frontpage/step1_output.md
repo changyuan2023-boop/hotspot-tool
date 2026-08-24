@@ -3,57 +3,61 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | Scott Bessent just kicked the bitcoin debasement trade into another gear | Nvidia earnings and Jackson Hole: What to watch this week | Luxury auto CEOs say there's a K-shaped economy even at the very top of the market | Nvidia earnings and Jackson Hole: What to watch this week | Luxury auto CEOs say there's a K-shaped economy even at the very top of the market | Trump's stock disclosure shows more than 1,000 trades in June | Target-date funds are booming. But are they still right for your retirement?
-  - 其他: Top Stories | Tech & AI | Markets & Economy | How the US government pushed the national debt to $40 trillion | Amazon quietly hiked prices overnight to offset 'significant increases' in memory costs
+  - 头版/首屏: U.S. markets open in 1h 30m | This Nvidia earnings fact will frustrate you | Why Olipop's founder hasn't sold out to Pepsi or Coca-Cola | How Taco Bell is trying to recover from cyclosporiasis | Why Olipop's founder hasn't sold out to Pepsi or Coca-Cola | How Taco Bell is trying to recover from cyclosporiasis | Why gold and silver prices have added $5T in value | US set to unveil fresh Iran sanctions as rial hits record low
+  - 其他: Top Stories | Tech & AI | Markets & Economy | Stock futures mixed after US-Canada talks break down | Morgan Stanley's Wilson sees higher oil as key risk for equities
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Sponsored Content | Why Is It Moving?™ | Trending Stories | Expert Ideas
-  - 其他: My Landlord Owns 12 Houses and Said ‘Just Save $50K for a Down Payment’ — I Make $18 an Hour and Have $400 in Savings | Zoom Communications Stock Rally Faces Its Biggest Test | Affirm Stock Wavers Ahead of Earnings: Will it Fall Like Klarna? | Alibaba Stock Flashes a Bearish Pattern as a $10 Billion Risk Looms | Top S&P 500 Stocks to Watch This Week: CrowdStrike, Salesforce, Workday
+  - 其他: How To Earn $500 A Month From Kohl's Stock Ahead Of Q2 Earnings | This Brinker International Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Monday | Wall Street's Most Accurate Analysts Spotlight On 3 Financial Stocks With Over 5% Dividend Yields | What's Going On With Olenox Industries Stock Monday? | Billionaire Haven East Hampton, New York, Is at War Over Gas Leaf Blowers. Yard Tool Has Become a Partisan Flashpoint Nationwide
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 加拿大预计与美国的贸易战可能持续到中期选举之后 | 华尔街见闻早餐 | 2026年8月24日 | 美国财长贝森特在英国《金融时报》发文表示，伊朗正面临经济领域的“决战日”（D-Day）。 | 提醒：日内请重点关注（以下均为北京时间） | 美军称在中东地区海域开展舰艇补给作业 | 阿里新股配售，中东、欧洲、亚洲主要主权基金积极认购 | 伊朗最高国家安全委员会秘书雷扎伊：如果经济战持续，将不会有一滴石油得以出口，无论是经由霍尔木兹海峡，还是波斯湾其他出口通道。
-伊朗将把任何参与或支持美国针对伊朗民众发动经济战的国家，视作战争行为。 | 伊朗官员：若美打经济战 霍尔木兹海峡和波斯湾将再无石油出口
-  - 其他: 权益回暖推盈利劲增，多家头部公募上半年净利超过10亿元 | 新西兰二季度零售销售季环比 -0.5%，前值 0.9%。 | 资产负债管理新规落地，负债成本下行打开险资权益配置空间 | 希音在港交所公告称，IPO发售价区间为47.6-49.5港元，预计9月1日开始在联交易上市交易。 | 周一亚市盘初，油价走低，WTI原油期货现跌0.8%报86.37美元/盎司。
+  - 头版/首屏: 特斯拉Robotaxi迎来规模化拐点？业内人士：若放到L4场景，FSD仍无法完全处理所有极端情况 | 美国国债延续涨势，10年期国债收益率下行4个基点至4.70%。美国股指期货收窄部分跌幅，标普500指数和道指期货现跌约0.1%，纳指期货跌约0.4%。此前报道称，美国财政部可动用近1万亿美元的财政部一般账户为债券回购提供资金。 | 报道：贝森特可动用近1万亿美元的财政部一般账户为债券回购提供资金 | 王沪宁会见第三届中美1.5轨对话美方代表 | 拼多多美股盘前走低后迅速拉升，现涨超3%，此前一度跌近5%。 | 拼多多美股盘前跌近5%，公司第二季度营收不及预期。
+小鹏汽车美股盘前跌超6%，公司第二季度营收不及预期。 | 拼多多第二季度营收1,124亿元人民币，预估1,152亿元人民币。
+第二季度调整后每ADS收益 19.33元人民币，预估18.51元人民币。
+第二季度调整后营业利润290.7亿元人民币，预估284.1亿元人民币。
+第二季度调整后净利润284 | 阿里管理层出手增持，蔡崇信、吴泳铭各增持8000万、4000万港元阿里股票
+  - 其他: 华安证券：2026年半年度净利润20.97亿元，同比增长102.55%。 | 新易盛：2026年上半年净利润75.29亿元，同比增长90.98% | 散布“天风证券分析师被罚8亿”不实消息，造谣者被行拘7日 | 国际能源署（IEA）署长：目前并未讨论第二轮战略石油储备释放。
+3月份的第一轮战略储备释放规模为4亿桶，占总储备的20%，目前仍有80%的储备余量。
+我们始终非常密切地关注市场动态。
+对今年冬季欧洲天然气状况感到担忧，原因包括库存偏低、中东 | ST长园：公司股票将于2026年8月25日停牌一天，自2026年8月26日起复牌交易，公司股票将撤销其他风险警示，A股股票简称由“ST长园”变更为“长园集团”。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: US economist Barry Eichengreen on how de-dollarisation could actually look | Science | China puts off Chang’e-7 mission to drill for ice near lunar south pole | Your backyard could hold a rare earth fortune and this orange lichen is the clue | Education | Record non-DSE admissions to Hong Kong’s universities spark calls for quotas | Diplomacy | Chinese archaeologists head to Peru for joint project to explore ancient sites
-  - 其他: The former IMF adviser examines how de-dollarisation is gaining pace and what lies ahead for China’s yuan. | Number of non-DSE students in Hong Kong public universities surges 63 per cent, while local exam-takers fall to 72 per cent of intake. | The partnership – part of a wider effort to expand cultural ties – will explore sites associated with the 5,000-year-old Caral civilisation. | Europe | Macron hosts Saudi’s crown prince for visit ranging from esports to Middle East
+  - 头版/首屏: China boosts coal’s economic value 700% after turning it to liquids: report | Tech War | Cut off from Europe, Nexperia China eyes self-reliance through domestic wafers | Politics | Banking veteran Li Yun fills senior Shenzhen posts in countdown to Apec | Health & Environment | Hong Kong to offer free dental check-ups to preschoolers from September | Diplomacy
+  - 其他: The technology has taken years to develop domestically and is transforming the country’s long-defined energy structure. | More than 70 per cent of kindergartens join scheme bringing screenings and fluoride treatment to campuses. | Brazil presidential debate zeroes in on Chinese investment and US tariffs | ‘What matters to Lulism is that we keep buying the finished product from China while we sell ore or sell our grain’: candidate Renan Santos. | Wealth
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 美国加码回购长债，金价创两月新高，拣买金股或ETF？ | 沪楼市松绑 “卖旧买新”最高补贴8万人币 | 美军秘密护送石油 日千万桶越霍峡 | 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数26009.46+310.97(+1.21%)
-                    etnet.com.hk@copyright | 国企指数8634.34+86.50(+1.01%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 美国加码回购长债，金价创两月新高，拣买金股或ETF？ | 人形机械人世运会 破多项人类世界纪录 | 贸谈破裂 加对美征对等关税9‧8生效 | 从侵侵“蒸汽航母”，看美债Jenga塔还能撑多久 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25517.33-492.13(-1.89%)
+                    etnet.com.hk@copyright | 国企指数8471.36-162.98(-1.89%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 美擬於美東時間週一盤中公佈對伊經濟戰具體措施；英偉達夜盤漲近1%，服務器被曝漲價15%；阿里完成800億港元新股配售定價，擬全部投入AI建設；君正股份將於今日開啓港股暗盤 | 阿里巴巴擬在香港配售新股，配售總額爲800億港元，資金全部投入AI建設 | 恒生科技擬擴容至50只，影響幾何？短期利好新納入個股，長期增強科技代表性 | 一週前瞻 | 沃什將首次亮相傑克遜霍爾；英偉達、美團業績陸續放榜；PCE、非農年度修訂重磅公佈 | 沃什傑克遜霍爾「首秀」倒計時：聯儲局指引模糊，長期美債面臨進一步拋售風險 | 「經濟諾曼底登陸」將至，美國財長稱要切斷伊朗的全部經濟命脈 | 比特幣強勢反攻！貨幣貶值交易復甦助力衝向8萬美元，多頭押注牛市飛輪再啓動 | 瑞·達里歐最新宏觀分析全文：多買黃金，再買點比特幣
-  - 其他: 伊朗議會推進霍爾木茲收費，最高安全官員：經濟戰若繼續，一滴石油都別想出口 | 全球AI「軍備競賽」升級，阿里巴巴宣佈800億港元港股配售 | 英偉達業績「萬衆矚目」：Rubin週期、循環融資與遠期市場份額 | 免費、強大！神祕模型「牛來」引發網絡熱議，猜測是智譜還是另有其人？ | SemiAnalysis：閃存製造正「由鎢轉鉬」
+  - 头版/首屏: 拼多多Q2營收1123.58億元，同比增長約8%；經調整淨利潤284.89億元超市場預期 | 報道：貝森特可動用近1萬億美元的財政部一般帳戶爲債券回購提供資金 | 小鵬集團Q2營收197.4億元，毛利率20.7％超預期 | 翻出沃什15年前的舊預測：他從來都是聯儲局裏最擔心通脹的那一位 | 阿里管理層出手增持，蔡崇信、吳泳銘分別增持8000萬、4000萬港元阿里股票 | 北水掃貨港股近116億港元，淨買入阿里巴巴近22億港元，加倉騰訊控股超15億港元；淨賣出中芯國際近19億港元，減倉華虹宏力近9億港元 | 收市速睇 | 三大指數齊跌，科指跌3.61%；科網股下挫，阿里跌超8%，小米跌超4%，騰訊跌近4%；中際旭創績後跌超11%，長飛光纖光纜微漲 | 貝森特「回購牌」失靈，日本下週兩場長債拍賣會否再補一刀？
+  - 其他: 跳出算法競速敘事 AI迎來藥物臨床開發實效大考 | 美債收益率升至多高，才會拖垮股市？ | 「七姐妹」分道揚鑣，誰來引領下一輪AI行情？ | 美銀：如果共和黨中選輸掉參議院，美股將跌超10%，德州選戰決定「AI政策」 | 若加息週期啓動誰最抗跌？巴克萊：歷史上只有能源股逆勢收漲
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (4 站)
-- **油价/能源/霍尔木兹** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (4 站)
-- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (3 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **就业/经济数据** — 出现于: Benzinga (EN) (1 站)
-- **黄金/大宗商品** — 出现于: Benzinga (EN) (1 站)
-- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
-- **中国/欧盟** — 出现于: SCMP (EN/中) (1 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
+- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 关税/贸易政策（4 站）
-- 油价/能源（4 站）
 - 伊朗/中东局势（3 站）
-- 加密货币（2 站）
-- 就业/经济数据（1 站）
-- 黄金/大宗商品（1 站）
-- 美联储/利率（1 站）
-- 中国/欧盟（1 站）
+- 关税/贸易政策（3 站）
+- 油价/能源（2 站）
+- 就业/经济数据（2 站）
+- 黄金/大宗商品（2 站）
+- 中国/欧盟（2 站）
 - 中国政策（1 站）
+- 加密货币（0 站）
+- 美联储/利率（0 站）
