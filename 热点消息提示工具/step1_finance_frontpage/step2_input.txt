@@ -1,11 +1,11 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026082719
+抓取时间: 2026082720
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 54m
+- U.S. markets open in 1h 30m
 - Nvidia stock soars on earnings beat, upbeat outlook
 - Here's how Nvidia quickly silenced the bears
 - Why this could be the next big Nvidia stock catalyst
@@ -15,16 +15,16 @@
 - Greer: US needs to consider bans on Canadian goods
 - Why Nvidia probably just lit a new fire under these once-hot trades
 - Nvidia predicts AI-fueled sales surge will extend into 2028
-- Nvidia is looking more like the central bank of AI
+- Nvidia is looking more like the central bank of AI: Chart of the Day
 - Amazon to buy 2 million Nvidia chips for data center build-out
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Tech & AI
 - Markets & Economy
+- Fed's Schmid says inflation is too hot on eve of Jackson Hole
 - Stock futures rise as Nvidia, Salesforce earnings boost tech
 - Why Nvidia has spooked Apple investors...again
 - Dollar gains ground ahead of Jackson Hole Fed remarks
-- Oil gains as traders weigh prospects of Hormuz reopening
 - Popular
 - Musk: SpaceX launched Tesla Roadster because failure risk was high
 - 14 executives who left OpenAI in 2026
@@ -42,11 +42,11 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- CoreWeave Stock Trending as Company Lands Deals With Hudson River Trading, Rescale
-- Cancer Drug Sales Power Up Kelun-Biotech’s Profit Engine
-- How To Earn $500 A Month From Gap Stock Ahead Of Q2 Earnings
-- What If AI Could Help Blind Workers See? Meta Glasses Are Transforming Warehouse Jobs While Drones Count Inventory in Minutes
-- Okta CEO Says AI Agent Security Could Become Cyber’s Biggest New Market
+- Trump Says He’s ‘Not in a Hurry’ for Iran Talks—Says US ‘Winning Very Big’ as Conflict Drags On
+- 'Attention Is Scarce': Why Bilibili’s CEO Says Quality Content Drives Revenue
+- NVDA Downplays 'Circular Financing' Concerns Days After Michael Burry Called it a Wall Street Stunt: 'We See it Differently'
+- Wall Street's Most Accurate Analysts Give Their Take On 3 Tech Stocks Delivering High-Dividend Yields
+- Jim Cramer: 'You Could Make Some Money With This 5.6% Yield'
 - Stock Market Today: S&P 500, Nasdaq 100 Futures Gain, While Dow Slips Following NVDA Blockbuster Q2 Report— CRM, CRWD, HPQ in Focus
 - Scott Bessent
 - Strait Of Hormuz
@@ -75,15 +75,15 @@
 - 机构：只有美国经济重新加速 美联储加息才是合理的
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - 百度新增香港为主要上市地，将于9月1日完成双重主要上市
-- 伊朗外交部：美国对伊政策是“闹剧”
-- 欧洲央行会议纪要：部分成员认为有理由实施适度限制性的利率政策。
-- 申万宏源：2026年上半年净利润57.3亿元，同比增长33.76%。
-- 港股IPO定价后，SHEIN据悉将筹集17亿美元。（彭博）
-- 协创数据：2026年上半年净利润18.38亿元，同比增长325.51%
-- 德国今年因高温死亡人数创十年来纪录
-- 山西焦煤：上半年净利润12.37亿元，同比增长22.03%。
-- 万科A：上半年净亏损149.5亿元，上年同期亏损119.47亿元。
-- 国产算力芯片爆单 智算超级工程获批
+- 天威视讯：2026年上半年净利润亏损4525.35万元，2025年同期亏损2714.9万元。
+- 曼彻斯特机场集团遭遇网络攻击，客户数据被盗。（天空新闻）
+- 乌官员称乌俄谈判代表可能于9月举行会晤
+- 商务部副部长兼国际贸易谈判副代表凌激会见拜耳集团全球执行副总裁伯宁格，双方就拜耳集团在华业务发展等议题进行交流。（商务部网站）
+- 海尔智家：2026年上半年净利润103.16亿元，同比下降14.27%
+- 中国贸促会副会长林红红会见秘鲁驻华大使卡洛斯·巴斯克斯
+- 中国贸促会副会长刘健男会见香港英国商会主席马绍辉一行
+- 世茂集团：清盘呈请首次聆讯日期定为11月11日
+- 以军称击落一架黎巴嫩真主党无人机
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -102,10 +102,10 @@
 - Law and Crime
 - 3 women charged over play-area brawl, police say grandmother was hit first
 - Force says dispute began over basketball attraction and investigators believe girl’s mother slapped 68‑year‑old first.
-- Tech Trends
-- Unitree’s stock slump begs question: is there a bubble in humanoid robotics?
-- Even after the sell-off, Unitree’s market value is more than four times the top of the range indicated by lead underwriter Citic Securities.
-- Lifestyle
+- Economics
+- South Korea prioritises financial stability with consecutive rate increases
+- Bank of Korea Governor Shin Hyun-song says the pre-emptive moves aim to help ‘reduce the costs to the economy’.
+- Business
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -146,25 +146,23 @@
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - 收市速睇 | 三大指數齊跌，恒指跌0.34%；PCB、光通信股逆市走強，建滔積層板、長飛光纖光纜漲超10%；「大模型雙雄」智譜大漲近13%，MINIMAX漲近4%
 - 鎧俠和閃迪計劃在日本投資310億美元擴建存儲器工廠。
+- 大摩：A股正迎來反攻窗口，港股暫時退居二線
+- 鎧俠宣佈在日本建第三座晶圓廠，聯手閃迪擴產NAND閃存
 - 阿里巴巴完成800億再融資，港美A效率大比拼：港股爲何是「首選彈藥庫」？
 - 商務部回應美考慮對華額外加徵7.5%關稅
 - 隱藏業績後的真相：英偉達或已化身「AI界央行」
 - 高盛：英偉達27年指引大超預期，毛利率「靴子落地」，上調目標價至300美元
 - 衝刺IPO前夜，Anthropic砸450億美元鎖定Nscale算力
 - 蜜雪集團上半年實現收入152.16億元，同比增長2.3%；淨利潤23.19億元，同比降14.68%
-- 王毅會見美國駐華大使龐德偉
-- 港股午評 | 三大指數漲跌不一，科指漲0.19%，智譜漲近9%，百度漲近7%；半導體、PCB、光通信概念股均上揚，瀾起科技漲超10%，建滔積層板漲超9%，長飛光纖光纜漲近9%
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 油价/霍尔木兹: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中)
 - 美国关税: Benzinga (EN), 华尔街见闻 (简中)
 - 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
-- 伊朗/中东: 华尔街见闻 (简中)
 - 加密货币: Yahoo Finance (EN)
-- 就业数据: Benzinga (EN)
-- 黄金/大宗: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
