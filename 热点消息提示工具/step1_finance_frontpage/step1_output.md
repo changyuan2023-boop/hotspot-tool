@@ -3,28 +3,26 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 30m | Nvidia earnings could reveal its fastest-growing business isn't chips | 4 reasons Nvidia stock is lagging | Dick’s Sporting Goods' stock crash signals trouble for Nike | 4 reasons Nvidia stock is lagging | Dick’s Sporting Goods' stock crash signals trouble for Nike | Trump’s Canada auto tariffs could hit US GDP: Oxford Economics | Here's when bitcoin may hit $500,000
-  - 其他: Top Stories | Tech & AI | Markets & Economy | Stock futures hold steady ahead of inflation data, Nvidia earnings | Beyond Cook, Trump has other ways to shape Fed policy team
+  - 头版/首屏: U.S. markets closed | Nvidia tops Q2 expectations, offers strong outlook | Salesforce, Crowdstrike, Okta surge as AI helps lift results | Apple to hold Sept. 9 foldable iPhone launch to start Ternus era | Salesforce, Crowdstrike, Okta surge as AI helps lift results | Apple to hold Sept. 9 foldable iPhone launch to start Ternus era | Meta's settlement is a challenge to TikTok and YouTube | Sticky PCE inflation leaves a divided Fed ahead of Jackson Hole retreat
+  - 其他: Top Stories | Tech & AI | Markets & Economy | Stocks close flat with Wall Street focused on Nvidia, inflation | Bessent's 'Treasury twist' has investors eyeing borrowing strategy shift
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Sponsored Content | Why Is It Moving?™ | Trending Stories | Expert Ideas
-  - 其他: Trump's Canada Trade War Is 'So Much Harder to Resolve': Top Economist Explains Why Mark Carney Won't Back Down | Why Is Photronics Stock Soaring Wednesday? | SpaceX Wants Millions of AI Satellites in Orbit—But Experts Say Elon Musk Must Solve a ‘Crazy’ Logistics Problem First | Wall Street's Most Accurate Analysts Give Their Take On 3 Industrials Stocks Delivering High-Dividend Yields | What's Going On With NVIDIA Stock Wednesday?
+  - 其他: Bitcoin Passes Meta, Tesla In Value: Here's How Close Crypto is to Rejoining Top 10 | Nvidia's Real Story Isn't the Beat — It's What Kress Said About 2028 | Woman Pays Boyfriend $1,500 Rent on His $2,200 Mortgage — He Says It’s Fair Because ‘You’re Not on the Deed’ | Veeva Stock Climbs After Stronger-Than-Expected Q2 Print | Nutanix Tops Estimates in Q4, Shares Jump
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 一针50万美元？莫德纳天价癌症疫苗引争议 | 伊朗总统：美国新一轮对伊经济制裁将一无所获 | 阿里巴巴：完成配售7.1亿股新股份 | 阿里巴巴、京东等多家头部平台企业高管将出席2026电子商务大会 | 柯尔百货第二季度毛利率43％，上年同期39.9％，预估40％。
-第二季度柯尔百货销售净额33.2亿美元，同比下降0.9%，预估33.4亿美元
-第二季度每股收益1.28美元，上年同期1.35美元，预估0.59美元。
-第二季度经营利润2.61亿 | 美国8月21日当周MBA抵押贷款申请活动指数周环比 -1%，前值 -0.4%。 | Bath & Body Works第二季度调整后每股收益0.62美元，上年同期0.37美元，预估0.24美元。
-第二季度销售净额15.1亿美元，同比-2.3%，预估15亿美元。
-第二季度调整后运营收益2.25亿美元，同比+31%，预估1.2 | 特斯拉回应“FSD入华无望”传言：不实消息，已向公安机关报案
-  - 其他: 【国务院食安办对“消杀公司违规使用敌敌畏为餐饮门店消杀”事件挂牌督办】记者今天了解到，针对近日舆论关注的福建省厦门市“消杀公司违规使用敌敌畏为餐饮门店消杀”事件，国务院食安办决定实行挂牌督办，并会同市场监管总局、国家疾控局成立联合工作组，赴 | 伊朗伊斯兰革命卫队：伊朗和阿曼就霍尔木兹海峡收入分配达成一致。 | 巨人网络：上半年净利润22.36亿元，同比增长177.23%；拟10派8元。 | 频准激光：2026年上半年净利润8833.57万元，同比增长24.58% | 宇晶股份：2.44亿元海外合同不再履行
+  - 头版/首屏: 英伟正在洽谈以超过130亿美元收购Hugging Face，目前尚未达成协议。（Business Insider） | 伊朗陆军发言人：伊朗军队所有武器系统已完成重建 | 百度：自9月1日起于香港联交所及纳斯达克双重主要上市 | 伊朗外交部：美国对伊政策是“闹剧” | 华尔街见闻早餐 | 2026年8月27日 | 美国主张必须调查价值15亿美元的EchoStar交易 | KKR将支付2.5亿美元，以解决美国司法部对其并购备案的诉讼。 | 新思科技分析师电话会议
+  - 其他: 特朗普政府：不会对加拿大关税反制措施采取报复行动 | 周三（8月26日）纽约尾盘，标普500股指期货最终涨0.24%，道指期货涨0.19%，纳斯达克100股指期货涨0.52%。
+罗素2000股指期货跌0.02%。 | 周三（8月26日）纽约尾盘，现货黄金跌1.38%，报4592.86美元/盎司，全天持续走低。
+现货白银跌0.81%，报68.0980美元/盎司。
+COMEX铜期货跌1.72%，报6.6985美元/磅。 | 英伟达股价盘后转涨，此前最多曾下跌近3%——超预期的财测没能让所有投资者都感到满意。 | 英伟达：未来将同时交付Blackwell与Rubin系统，目前正面临部分供应限制。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Fuelling future growth: China targets hi-tech pillars by 2030 to beat headwinds | Politics | Landslide on China-Nepal border engulfs checkpoint, causing ‘major casualties’ | Law and Crime | Hong Kong’s John Lee vows to review laws on dangerous dogs after string of attacks | Diplomacy | Frustration in China as US freezes green card interviews worldwide | Military
-  - 其他: Beijing bets on next-generation manufacturing – and stricter industrial oversight – to secure its economic strategy. | The cancelled appointments mark the latest squeeze in a tightening vice on legal immigration during Donald Trump’s second term. | Chinese navy fires radar-absorbing YJ-18A anti-ship missile in sea trial: expert | Black radar-absorbing finish on upgraded ship-launched weapon would improve penetration and visual camouflage over deep water, say analysts. | Big Tech
+  - 头版/首屏: In Focus | Is ‘resource curse’ to blame in regions hit harder by anti-corruption campaign? | Economy, Trade & Business | In a small Virginia town, distrust of Big Tech hampers Trump’s AI push | US seizes Chinese hacking platforms targeting Nasa, Fed and Senate | Health & Environment | In Focus | As Hong Kong faces more heatwaves, what must be done to improve its resilience? | Diplomacy | China vows payback for US Iran sanctions, testing stability ahead of summit
+  - 其他: China’s past CCDI annual plenums stress intensifying efforts to combat corruption where ‘power, funds and resources are concentrated’. | From supporting vulnerable residents to revamping laws and public spaces, experts say city must adopt comprehensive climate resilience strategy. | Beijing warns economic pressure will fail; semi-official Track 1.5 dialogue targets risk control before Chinese president visits US. | US critical minerals proposals to Brazil go unanswered as China looms | A US diplomat says Brasilia has not responded to two overtures, even as a US-backed rare earth acquisition in Brazil nears completion.
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 宇树上市5日股价近乎腰斩，美团投资搭沉船再插逾半成 | “紫檀”登陆 海口“三港”暂停驶 | 特报复征车辆50%关税 “不需要加拿大” | 贝森特两新招出击，伊朗“混合战”硬碰硬 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 海底捞中期盈利微升，股价飙逾半成可再吼？ | “紫檀”登陆 海口“三港”暂停驶 | 特报复征车辆50%关税 “不需要加拿大” | 宇树神话轰然现形，梅卡曼德值博几多？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数25652.97+141.87(+0.56%)
                     etnet.com.hk@copyright | 国企指数8533.84+88.47(+1.05%)
                     etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
@@ -33,29 +31,29 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 全球矚目！今晚20：30聯儲局「最青睞通脹指標」將出爐，利率劇本會否改寫？ | 英偉達業績今夜揭曉，AI牛市關鍵一戰，該如何交易？ | MINIMAX上半年收入同比暴增283%，開放平台成第一大收入來源，經調整淨虧損擴大111.2% | 智譜「認領」神祕AI模型Ox Alpha「牛來」，使用量已達DeepSeek兩倍以上 | MINIMAX上半年收入約1.17億美元，同比增長283.1%；經調整淨虧損2.93億美元 | 北水淨買入阿里巴巴超12億港元，加倉長飛光纖光纜超10億港元；淨賣出信達生物逾5億港元 | 理想汽車Q2營收257億元超預期，毛利率收窄至11％，三季度指引低於預期 | 天然氣取代石油成歐洲通脹「新火藥桶」：儲氣五年同期最低、TTF逼近五個月高位，央行加息風險重燃
-  - 其他: 收市速睇 | 三大指數齊漲，科指漲0.82%；科網股多數上行，小米、阿里漲超2%；有色、券商板塊走強，江西銅業股份漲近10%，中金公司漲超8% | 一圖前瞻 | 美團Q2業績週五出爐！外賣價格戰逐步收斂，經營修復拐點顯現？ | 月之暗面據悉與微軟、亞馬遜和谷歌洽談 Kimi K3 收入分成，最高可達 30% | 比特幣衝破8萬美元：挾淡倉行情之後，牛市來了嗎？ | 勝宏科技明日將發中期業績 摩通仍看好下半年盈利增長加速
+  - 头版/首屏: 富途早報 | 特朗普稱對伊復談無時間表；蘋果秋季發佈會定檔9月10日凌晨1點；績優股英偉達夜盤漲超4%，Okta大漲近21%；傑克遜霍爾全球央行年會將於美東時間週四開幕；邁威爾科技、IREN將於盤後發佈業績 | 英偉達上季營收超預期翻倍大增，本季料首破千億大關，下財年增長指引碾壓預期 | 日本債市30年變局：9 月加息前比特幣是避險還是陷阱？ | 特朗普稱「談判沒有時間表」，伊朗開出「重開海峽條件」，航運巨頭評價「市場低估了長期僵局風險」 | 翻倍長債回購還只是「過渡」？華爾街：貝森特更大的動作在後面 | 重返4600美元！美債波動引爆金價，這波行情還能走多遠？ | CrowdStrike Q2營收盈利雙超預期，CEO稱「守護AI是史上最大機遇」 | 英偉達電話會：明年客戶需求可達翻倍級別，預計明年營收將增長70%，黃仁勳強調「如果不受限制，我們的增長會高得多」
+  - 其他: 賽富時大漲！「軟件末日」終結？Q3指引超預期，與Anthropic擴大合作 | 一圖前瞻 | 美團Q2業績週五出爐！外賣價格戰逐步收斂，經營修復拐點顯現？ | 惠普Q3同比增長13%，盈利預測超預期，仍難擋股價重挫，市場聚焦PC需求隱憂 | 美股收盤 | 7月核心PCE符合預期，三大指數小幅收跌；存儲股逆勢走強，西部數據漲超4%；服裝股愛芬奇績後猛漲35%；黃金一度失守4600美元 | 成交額TOP20 | 蘋果官宣秋季發佈會，定檔9月10日凌晨；Meta達成社媒成癮「生死官司」和解；光通信股走強，LITE漲逾6%
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
 - **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中) (4 站)
-- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), 经济通 (繁中) (2 站)
-- **油价/能源/霍尔木兹** — 出现于: Benzinga (EN), 富途资讯 (繁中) (2 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **中国/欧盟** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **加密货币** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN) (1 站)
+- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
+- 伊朗/中东局势（4 站）
 - 关税/贸易政策（4 站）
-- 伊朗/中东局势（2 站）
+- 美联储/利率（4 站）
 - 油价/能源（2 站）
 - 加密货币（2 站）
-- 美联储/利率（2 站）
 - 中国/欧盟（2 站）
 - 中国政策（2 站）
 - 黄金/大宗商品（1 站）
