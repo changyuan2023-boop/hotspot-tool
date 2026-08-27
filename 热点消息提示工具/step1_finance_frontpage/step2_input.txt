@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026082709
+抓取时间: 2026082719
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- Nvidia tops Q2 expectations, offers strong outlook
+- U.S. markets open in 2h 1m
+- Nvidia stock soars on earnings beat, upbeat outlook
+- Here's how Nvidia quickly silenced the bears
+- Why this could be the next big Nvidia stock catalyst
+- Here's how Nvidia quickly silenced the bears
+- Why this could be the next big Nvidia stock catalyst
 - Salesforce, Crowdstrike, Okta surge as AI helps lift results
-- Apple to hold Sept. 9 foldable iPhone launch to start Ternus era
-- Salesforce, Crowdstrike, Okta surge as AI helps lift results
-- Apple to hold Sept. 9 foldable iPhone launch to start Ternus era
-- Meta's settlement is a challenge to TikTok and YouTube
-- Sticky PCE inflation leaves a divided Fed ahead of Jackson Hole retreat
-- Meta reaches $16.68B settlement with states
+- Greer: US needs to consider bans on Canadian goods
+- Why Nvidia probably just lit a new fire under these once-hot trades
+- Nvidia predicts AI-fueled sales surge will extend into 2028
 - Nvidia is looking more like the central bank of AI
 - Amazon to buy 2 million Nvidia chips for data center build-out
-- Why Anthropic's $30T sales pitch ahead of its IPO may add up
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Tech & AI
 - Markets & Economy
-- Stocks close flat with Wall Street focused on Nvidia, inflation
-- Bessent's 'Treasury twist' has investors eyeing borrowing strategy shift
-- Fed seen a bit more likely to hike after inflation data
-- Trump's Canada auto tariffs could end up denting US GDP
+- Stock futures rise as Nvidia, Salesforce earnings boost tech
+- Why Nvidia has spooked Apple investors...again
+- Dollar gains ground ahead of Jackson Hole Fed remarks
+- Oil gains as traders weigh prospects of Hormuz reopening
 - Popular
-- Iran, Oman agree to share Strait of Hormuz revenue, IRGC says
-- How millennials are joining the 401(k) millionaire club
+- Musk: SpaceX launched Tesla Roadster because failure risk was high
+- 14 executives who left OpenAI in 2026
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,76 +42,77 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Bitcoin Passes Meta, Tesla In Value: Here's How Close Crypto is to Rejoining Top 10
-- Nvidia's Real Story Isn't the Beat — It's What Kress Said About 2028
-- Woman Pays Boyfriend $1,500 Rent on His $2,200 Mortgage — He Says It’s Fair Because ‘You’re Not on the Deed’
-- Veeva Stock Climbs After Stronger-Than-Expected Q2 Print
-- Nutanix Tops Estimates in Q4, Shares Jump
-- Anthropic’s Claude Study Reveals Surprising Shift in How Humans Work With AI
+- Cancer Drug Sales Power Up Kelun-Biotech’s Profit Engine
+- How To Earn $500 A Month From Gap Stock Ahead Of Q2 Earnings
+- What If AI Could Help Blind Workers See? Meta Glasses Are Transforming Warehouse Jobs While Drones Count Inventory in Minutes
+- Okta CEO Says AI Agent Security Could Become Cyber’s Biggest New Market
+- Jinxin Fertility Back In Black As US Progeny Gains Traction
+- Stock Market Today: S&P 500, Nasdaq 100 Futures Gain, While Dow Slips Following NVDA Blockbuster Q2 Report— CRM, CRWD, HPQ in Focus
 - Scott Bessent
 - Strait Of Hormuz
-- SpaceX Bulls Aren't Thinking Big Enough, Morgan Stanley Says
-- Lumentum Shares Rise Over 4% After Key Trading Signal
+- NASA Chief Jared Isaacman Wants Data Centers In Space as AI Devours Electricity, Says US Should Tap ‘Free Fusion Reactor’ To Win AI Race
+- Autodesk Likely To Report Higher Q2 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 英伟正在洽谈以超过130亿美元收购Hugging Face，目前尚未达成协议。（Business Insider）
-- 伊朗陆军发言人：伊朗军队所有武器系统已完成重建
-- 百度：自9月1日起于香港联交所及纳斯达克双重主要上市
-- 伊朗外交部：美国对伊政策是“闹剧”
-- 华尔街见闻早餐 | 2026年8月27日
-- 美国主张必须调查价值15亿美元的EchoStar交易
-- KKR将支付2.5亿美元，以解决美国司法部对其并购备案的诉讼。
-- 新思科技分析师电话会议
-- 美联储理事库克针对美国总统特朗普重新着手将她免职做出回应，称自己不存在行为不当。
-库克发誓，将针对特朗普的企图做出反击。
-- 建筑与采矿机械生产/销售商小松制作所株式会社（Komatsu Ltd.）将扩大美国矿业设备维护的运营。（日经新闻）
-- 英媒：种植成本“贵到离谱”，美国农民陷入“40年来最严重危机”
-- 提醒：日内请重点关注（以下均为北京时间）
+- Moderna盘前跌幅扩大至8%，公司计划发行20亿美元可转换优先票据。
+- 韦德布什将英伟达目标价从330美元上调至345美元。
+- 百思买第二季度营收97.8 亿美元，预期95.9 亿美元。
+第二季度调整后每股收益1.47 美元，预期1.38 美元。
+百思买预计全年营收423亿至428亿美元，此前预期为412亿至421亿美元。
+百思买预计全年同店销售额增长1.9%至3%
+- 伊朗和卡塔尔外长在德黑兰举行会谈。（IRNA）
+- 哔哩哔哩美股盘前涨超2%，公司第二季度净营收79.4亿元人民币，同比增长8.2%，市场预估79.2亿元。
+- 哔哩哔哩第二季度调整后每股收益1.58元人民币，上年同期1.29元，市场预估1.51元。
+第二季度净营收79.4亿元人民币，同比增长8.2%，市场预估79.2亿元。
+第二季度广告营收31.3亿元，市场预估31.2亿元。
+第二季度移动游戏营收
+- 第二代VLA实现L2至L4能力贯通 小鹏汽车进入主驾无人关键道路验证
+- 美国司法部拟重启捕获法庭以便扣押伊朗油轮
+- 我国开展汽车产品质量提升专项行动
+- 网易有道办公助理Agent LobsterAI开放生态再扩容：率先接入智谱“牛来”大模型
+- 机构：只有美国经济重新加速 美联储加息才是合理的
+- 何小鹏：期望明年在欧洲获得监管许可并开始交付第二代VLA
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 特朗普政府：不会对加拿大关税反制措施采取报复行动
-- 周三（8月26日）纽约尾盘，标普500股指期货最终涨0.24%，道指期货涨0.19%，纳斯达克100股指期货涨0.52%。
-罗素2000股指期货跌0.02%。
-- 周三（8月26日）纽约尾盘，现货黄金跌1.38%，报4592.86美元/盎司，全天持续走低。
-现货白银跌0.81%，报68.0980美元/盎司。
-COMEX铜期货跌1.72%，报6.6985美元/磅。
-- 英伟达股价盘后转涨，此前最多曾下跌近3%——超预期的财测没能让所有投资者都感到满意。
-- 英伟达：未来将同时交付Blackwell与Rubin系统，目前正面临部分供应限制。
-- 英伟达：上半年，44%的总收入来自三大客户。
-一家直接客户在二季度总收入占比达到16%。
-- 英伟达二季度中国营收78.8亿美元。
-- 巴克莱称美联储将于10月起加大RMP购债力度，因回购市场趋紧
-- 嘉能可西班牙锌冶炼厂加入节电计划
-- 英伟达：Vera Rubin全面投产。
+- 伊朗外交部：美国对伊政策是“闹剧”
+- 德国今年因高温死亡人数创十年来纪录
+- 山西焦煤：上半年净利润12.37亿元，同比增长22.03%。
+- 万科A：上半年净亏损149.5亿元，上年同期亏损119.47亿元。
+- 国产算力芯片爆单 智算超级工程获批
+- 云南铜业：2026年上半年净利润18.97亿元，同比增长29.05%
+- 华熙生物：2026年上半年净利润1.53亿元，同比下降30.82%。
+- 宇树科技：承诺每年无偿赞助“天才少年”，项目内容不设限
+- 十四届全国人大常委会举行第七十二次委员长会议 听取有关草案和议案审议情况汇报 赵乐际主持
+- 联特科技：拟使用自有资金不超过1.5亿美元向全资子公司新加坡联特进行增资 。 同时 ， 新加坡联特向其全资子公司马来西亚联特增资不超过1.5亿美元，用于马来西亚高速光模块智造基地项目的投资建设，包括在马来西亚槟城州租赁标准厂房建设高速光模块
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- In Focus | Is ‘resource curse’ to blame in regions hit harder by anti-corruption campaign?
-- Economy, Trade & Business
-- In a small Virginia town, distrust of Big Tech hampers Trump’s AI push
-- US seizes Chinese hacking platforms targeting Nasa, Fed and Senate
-- Health & Environment
-- In Focus | As Hong Kong faces more heatwaves, what must be done to improve its resilience?
-- Diplomacy
-- China vows payback for US Iran sanctions, testing stability ahead of summit
+- Vice-Premier Ding signals fiscal reform to ease pressure on local governments
+- Politics
+- China-Nepal flash flood: death toll rises to 292, over 1,000 missing
+- Money
+- Hong Kong retirees’ living costs grow 3 times city’s 5-year average: index
+- Flights, ferries cancelled in Shanghai and Shenzhen as Typhoon Saudel closes in
+- Big Tech
+- Zhipu’s viral Ox Alpha AI model runs entirely on Chinese chips
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- China’s past CCDI annual plenums stress intensifying efforts to combat corruption where ‘power, funds and resources are concentrated’.
-- From supporting vulnerable residents to revamping laws and public spaces, experts say city must adopt comprehensive climate resilience strategy.
-- Beijing warns economic pressure will fail; semi-official Track 1.5 dialogue targets risk control before Chinese president visits US.
-- US critical minerals proposals to Brazil go unanswered as China looms
-- A US diplomat says Brasilia has not responded to two overtures, even as a US-backed rare earth acquisition in Brazil nears completion.
-- Bill Gates warns of AI’s impact, urges the US and China to cooperate
-- Tech titan argued on Wednesday artificial intelligence needs significant limits or else the harm to humans will outweigh any potential good.
-- Lifestyle
-- What drives 4 Shaw Prize laureates in pursuit of scientific discovery
-- Middle East
+- Ding Xuexiang discusses a fiscal reset through expanded local discretion, bigger outlays from the central government and scientific fiscal management pilots.
+- Saudel is forecast to make landfall on Friday morning, becoming the seventh typhoon to hit the mainland this year.
+- Model shows China can scale AI on domestic chips, setting a usage record as Beijing pushes to cut reliance on US hardware.
+- Law and Crime
+- 3 women charged over play-area brawl, police say grandmother was hit first
+- Force says dispute began over basketball attraction and investigators believe girl’s mother slapped 68‑year‑old first.
+- Tech Trends
+- Unitree’s stock slump begs question: is there a bubble in humanoid robotics?
+- Even after the sell-off, Unitree’s market value is more than four times the top of the range indicated by lead underwriter Citic Securities.
+- Business
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 海底捞中期盈利微升，股价飙逾半成可再吼？
-- “紫檀”登陆 海口“三港”暂停驶
-- 特报复征车辆50%关税 “不需要加拿大”
+- 江西铜中期盈利倍升迭加铜价创新高，股价飙一成
+- 泥石流袭西藏吉隆口岸 暂3死265失联
+- 巴拿马运河通行时段 拍卖价破780万
 - 宇树神话轰然现形，梅卡曼德值博几多？
 - 指数环球商品外汇
 - 国金观点
@@ -121,11 +122,9 @@ COMEX铜期货跌1.72%，报6.6985美元/磅。
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25652.97+141.87(+0.56%)
+- 恒生指数25550.23-102.74(-0.40%)
                     etnet.com.hk@copyright
-- 国企指数8533.84+88.47(+1.05%)
-                    etnet.com.hk@copyright
-- 上证指数3152.19+11.34(+0.36%)
+- 国企指数8484.57-49.27(-0.58%)
                     etnet.com.hk@copyright
 - 理财/管理
 - 时尚艺术
@@ -136,35 +135,36 @@ COMEX铜期货跌1.72%，报6.6985美元/磅。
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 特朗普稱對伊復談無時間表；蘋果秋季發佈會定檔9月10日凌晨1點；績優股英偉達夜盤漲超4%，Okta大漲近21%；傑克遜霍爾全球央行年會將於美東時間週四開幕；邁威爾科技、IREN將於盤後發佈業績
-- 英偉達上季營收超預期翻倍大增，本季料首破千億大關，下財年增長指引碾壓預期
-- 日本債市30年變局：9 月加息前比特幣是避險還是陷阱？
-- 特朗普稱「談判沒有時間表」，伊朗開出「重開海峽條件」，航運巨頭評價「市場低估了長期僵局風險」
-- 翻倍長債回購還只是「過渡」？華爾街：貝森特更大的動作在後面
-- 重返4600美元！美債波動引爆金價，這波行情還能走多遠？
-- CrowdStrike Q2營收盈利雙超預期，CEO稱「守護AI是史上最大機遇」
-- 英偉達電話會：明年客戶需求可達翻倍級別，預計明年營收將增長70%，黃仁勳強調「如果不受限制，我們的增長會高得多」
+- 嗶哩嗶哩Q2淨利大增55%，廣告成增長引擎，毛利率連續16季改善
+- 嗶哩嗶哩Q2營收79.4億元，同比增長約8%；調整後每股收益1.58元超市場預期
+- 研究合併創業板與主板？港交所回應：將持續研究上市機制優化措施
+- 英偉達已是AI界「央行」？亮眼業績背後，5300億美元表外承諾浮現，信用市場高度警惕
+- 北水加倉港股近32億港元，淨買入MINIMAX近9億港元，淨賣出智譜逾5億港元
+- 特朗普政府考慮給半導體「加稅」！範圍擴大至筆記本、遊戲主機、數據中心服務器等
+- 代理AI爆發之際，英偉達明年指引保守了！
+- 業績前瞻 | 智譜業績下週一出爐！ARR與Token量價成市場焦點，股價自高點腰斬後能否修復？
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 賽富時大漲！「軟件末日」終結？Q3指引超預期，與Anthropic擴大合作
-- 一圖前瞻 | 美團Q2業績週五出爐！外賣價格戰逐步收斂，經營修復拐點顯現？
-- 惠普Q3同比增長13%，盈利預測超預期，仍難擋股價重挫，市場聚焦PC需求隱憂
-- 美股收盤 | 7月核心PCE符合預期，三大指數小幅收跌；存儲股逆勢走強，西部數據漲超4%；服裝股愛芬奇績後猛漲35%；黃金一度失守4600美元
-- 成交額TOP20 | 蘋果官宣秋季發佈會，定檔9月10日凌晨；Meta達成社媒成癮「生死官司」和解；光通信股走強，LITE漲逾6%
-- 納指期貨盤初漲約1%，英偉達業績帶動AI概念股盤後走高
-- OpenAI發佈技術報告：詳解AI模型如何突破Hugging Face安全防線
-- 貿易戰火燒至選戰：特朗普關稅行動令共和黨中期選舉承壓
-- Anthropic上市前加速「囤算力」，再砸450億美元接手微軟退出的園區
-- 胰腺癌治療迎歷史性突破！FDA批准RevMed靶向新藥，預計2032年銷售超90億美元
+- 收市速睇 | 三大指數齊跌，恒指跌0.34%；PCB、光通信股逆市走強，建滔積層板、長飛光纖光纜漲超10%；「大模型雙雄」智譜大漲近13%，MINIMAX漲近4%
+- 鎧俠和閃迪計劃在日本投資310億美元擴建存儲器工廠。
+- 阿里巴巴完成800億再融資，港美A效率大比拼：港股爲何是「首選彈藥庫」？
+- 商務部回應美考慮對華額外加徵7.5%關稅
+- 隱藏業績後的真相：英偉達或已化身「AI界央行」
+- 高盛：英偉達27年指引大超預期，毛利率「靴子落地」，上調目標價至300美元
+- 衝刺IPO前夜，Anthropic砸450億美元鎖定Nscale算力
+- 蜜雪集團上半年實現收入152.16億元，同比增長2.3%；淨利潤23.19億元，同比降14.68%
+- 王毅會見美國駐華大使龐德偉
+- 港股午評 | 三大指數漲跌不一，科指漲0.19%，智譜漲近9%，百度漲近7%；半導體、PCB、光通信概念股均上揚，瀾起科技漲超10%，建滔積層板漲超9%，長飛光纖光纜漲近9%
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 美国关税: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
-- 加密货币: Benzinga (EN), 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 美国关税: Benzinga (EN), 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
+- 伊朗/中东: 华尔街见闻 (简中)
+- 加密货币: Yahoo Finance (EN)
+- 就业数据: Benzinga (EN)
 - 黄金/大宗: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---

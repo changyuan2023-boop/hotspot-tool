@@ -3,58 +3,61 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | Nvidia tops Q2 expectations, offers strong outlook | Salesforce, Crowdstrike, Okta surge as AI helps lift results | Apple to hold Sept. 9 foldable iPhone launch to start Ternus era | Salesforce, Crowdstrike, Okta surge as AI helps lift results | Apple to hold Sept. 9 foldable iPhone launch to start Ternus era | Meta's settlement is a challenge to TikTok and YouTube | Sticky PCE inflation leaves a divided Fed ahead of Jackson Hole retreat
-  - 其他: Top Stories | Tech & AI | Markets & Economy | Stocks close flat with Wall Street focused on Nvidia, inflation | Bessent's 'Treasury twist' has investors eyeing borrowing strategy shift
+  - 头版/首屏: U.S. markets open in 2h 1m | Nvidia stock soars on earnings beat, upbeat outlook | Here's how Nvidia quickly silenced the bears | Why this could be the next big Nvidia stock catalyst | Here's how Nvidia quickly silenced the bears | Why this could be the next big Nvidia stock catalyst | Salesforce, Crowdstrike, Okta surge as AI helps lift results | Greer: US needs to consider bans on Canadian goods
+  - 其他: Top Stories | Tech & AI | Markets & Economy | Stock futures rise as Nvidia, Salesforce earnings boost tech | Why Nvidia has spooked Apple investors...again
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Sponsored Content | Why Is It Moving?™ | Trending Stories | Expert Ideas
-  - 其他: Bitcoin Passes Meta, Tesla In Value: Here's How Close Crypto is to Rejoining Top 10 | Nvidia's Real Story Isn't the Beat — It's What Kress Said About 2028 | Woman Pays Boyfriend $1,500 Rent on His $2,200 Mortgage — He Says It’s Fair Because ‘You’re Not on the Deed’ | Veeva Stock Climbs After Stronger-Than-Expected Q2 Print | Nutanix Tops Estimates in Q4, Shares Jump
+  - 其他: Cancer Drug Sales Power Up Kelun-Biotech’s Profit Engine | How To Earn $500 A Month From Gap Stock Ahead Of Q2 Earnings | What If AI Could Help Blind Workers See? Meta Glasses Are Transforming Warehouse Jobs While Drones Count Inventory in Minutes | Okta CEO Says AI Agent Security Could Become Cyber’s Biggest New Market | Jinxin Fertility Back In Black As US Progeny Gains Traction
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 英伟正在洽谈以超过130亿美元收购Hugging Face，目前尚未达成协议。（Business Insider） | 伊朗陆军发言人：伊朗军队所有武器系统已完成重建 | 百度：自9月1日起于香港联交所及纳斯达克双重主要上市 | 伊朗外交部：美国对伊政策是“闹剧” | 华尔街见闻早餐 | 2026年8月27日 | 美国主张必须调查价值15亿美元的EchoStar交易 | KKR将支付2.5亿美元，以解决美国司法部对其并购备案的诉讼。 | 新思科技分析师电话会议
-  - 其他: 特朗普政府：不会对加拿大关税反制措施采取报复行动 | 周三（8月26日）纽约尾盘，标普500股指期货最终涨0.24%，道指期货涨0.19%，纳斯达克100股指期货涨0.52%。
-罗素2000股指期货跌0.02%。 | 周三（8月26日）纽约尾盘，现货黄金跌1.38%，报4592.86美元/盎司，全天持续走低。
-现货白银跌0.81%，报68.0980美元/盎司。
-COMEX铜期货跌1.72%，报6.6985美元/磅。 | 英伟达股价盘后转涨，此前最多曾下跌近3%——超预期的财测没能让所有投资者都感到满意。 | 英伟达：未来将同时交付Blackwell与Rubin系统，目前正面临部分供应限制。
+  - 头版/首屏: Moderna盘前跌幅扩大至8%，公司计划发行20亿美元可转换优先票据。 | 韦德布什将英伟达目标价从330美元上调至345美元。 | 百思买第二季度营收97.8 亿美元，预期95.9 亿美元。
+第二季度调整后每股收益1.47 美元，预期1.38 美元。
+百思买预计全年营收423亿至428亿美元，此前预期为412亿至421亿美元。
+百思买预计全年同店销售额增长1.9%至3% | 伊朗和卡塔尔外长在德黑兰举行会谈。（IRNA） | 哔哩哔哩美股盘前涨超2%，公司第二季度净营收79.4亿元人民币，同比增长8.2%，市场预估79.2亿元。 | 哔哩哔哩第二季度调整后每股收益1.58元人民币，上年同期1.29元，市场预估1.51元。
+第二季度净营收79.4亿元人民币，同比增长8.2%，市场预估79.2亿元。
+第二季度广告营收31.3亿元，市场预估31.2亿元。
+第二季度移动游戏营收 | 第二代VLA实现L2至L4能力贯通 小鹏汽车进入主驾无人关键道路验证 | 美国司法部拟重启捕获法庭以便扣押伊朗油轮
+  - 其他: 伊朗外交部：美国对伊政策是“闹剧” | 德国今年因高温死亡人数创十年来纪录 | 山西焦煤：上半年净利润12.37亿元，同比增长22.03%。 | 万科A：上半年净亏损149.5亿元，上年同期亏损119.47亿元。 | 国产算力芯片爆单 智算超级工程获批
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: In Focus | Is ‘resource curse’ to blame in regions hit harder by anti-corruption campaign? | Economy, Trade & Business | In a small Virginia town, distrust of Big Tech hampers Trump’s AI push | US seizes Chinese hacking platforms targeting Nasa, Fed and Senate | Health & Environment | In Focus | As Hong Kong faces more heatwaves, what must be done to improve its resilience? | Diplomacy | China vows payback for US Iran sanctions, testing stability ahead of summit
-  - 其他: China’s past CCDI annual plenums stress intensifying efforts to combat corruption where ‘power, funds and resources are concentrated’. | From supporting vulnerable residents to revamping laws and public spaces, experts say city must adopt comprehensive climate resilience strategy. | Beijing warns economic pressure will fail; semi-official Track 1.5 dialogue targets risk control before Chinese president visits US. | US critical minerals proposals to Brazil go unanswered as China looms | A US diplomat says Brasilia has not responded to two overtures, even as a US-backed rare earth acquisition in Brazil nears completion.
+  - 头版/首屏: Vice-Premier Ding signals fiscal reform to ease pressure on local governments | Politics | China-Nepal flash flood: death toll rises to 292, over 1,000 missing | Money | Hong Kong retirees’ living costs grow 3 times city’s 5-year average: index | Flights, ferries cancelled in Shanghai and Shenzhen as Typhoon Saudel closes in | Big Tech | Zhipu’s viral Ox Alpha AI model runs entirely on Chinese chips
+  - 其他: Ding Xuexiang discusses a fiscal reset through expanded local discretion, bigger outlays from the central government and scientific fiscal management pilots. | Saudel is forecast to make landfall on Friday morning, becoming the seventh typhoon to hit the mainland this year. | Model shows China can scale AI on domestic chips, setting a usage record as Beijing pushes to cut reliance on US hardware. | Law and Crime | 3 women charged over play-area brawl, police say grandmother was hit first
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 海底捞中期盈利微升，股价飙逾半成可再吼？ | “紫檀”登陆 海口“三港”暂停驶 | 特报复征车辆50%关税 “不需要加拿大” | 宇树神话轰然现形，梅卡曼德值博几多？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25652.97+141.87(+0.56%)
-                    etnet.com.hk@copyright | 国企指数8533.84+88.47(+1.05%)
-                    etnet.com.hk@copyright | 上证指数3152.19+11.34(+0.36%)
-                    etnet.com.hk@copyright | 理财/管理 | 时尚艺术
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 江西铜中期盈利倍升迭加铜价创新高，股价飙一成 | 泥石流袭西藏吉隆口岸 暂3死265失联 | 巴拿马运河通行时段 拍卖价破780万 | 宇树神话轰然现形，梅卡曼德值博几多？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25550.23-102.74(-0.40%)
+                    etnet.com.hk@copyright | 国企指数8484.57-49.27(-0.58%)
+                    etnet.com.hk@copyright | 理财/管理 | 时尚艺术 | 健康人生
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 特朗普稱對伊復談無時間表；蘋果秋季發佈會定檔9月10日凌晨1點；績優股英偉達夜盤漲超4%，Okta大漲近21%；傑克遜霍爾全球央行年會將於美東時間週四開幕；邁威爾科技、IREN將於盤後發佈業績 | 英偉達上季營收超預期翻倍大增，本季料首破千億大關，下財年增長指引碾壓預期 | 日本債市30年變局：9 月加息前比特幣是避險還是陷阱？ | 特朗普稱「談判沒有時間表」，伊朗開出「重開海峽條件」，航運巨頭評價「市場低估了長期僵局風險」 | 翻倍長債回購還只是「過渡」？華爾街：貝森特更大的動作在後面 | 重返4600美元！美債波動引爆金價，這波行情還能走多遠？ | CrowdStrike Q2營收盈利雙超預期，CEO稱「守護AI是史上最大機遇」 | 英偉達電話會：明年客戶需求可達翻倍級別，預計明年營收將增長70%，黃仁勳強調「如果不受限制，我們的增長會高得多」
-  - 其他: 賽富時大漲！「軟件末日」終結？Q3指引超預期，與Anthropic擴大合作 | 一圖前瞻 | 美團Q2業績週五出爐！外賣價格戰逐步收斂，經營修復拐點顯現？ | 惠普Q3同比增長13%，盈利預測超預期，仍難擋股價重挫，市場聚焦PC需求隱憂 | 美股收盤 | 7月核心PCE符合預期，三大指數小幅收跌；存儲股逆勢走強，西部數據漲超4%；服裝股愛芬奇績後猛漲35%；黃金一度失守4600美元 | 成交額TOP20 | 蘋果官宣秋季發佈會，定檔9月10日凌晨；Meta達成社媒成癮「生死官司」和解；光通信股走強，LITE漲逾6%
+  - 头版/首屏: 嗶哩嗶哩Q2淨利大增55%，廣告成增長引擎，毛利率連續16季改善 | 嗶哩嗶哩Q2營收79.4億元，同比增長約8%；調整後每股收益1.58元超市場預期 | 研究合併創業板與主板？港交所回應：將持續研究上市機制優化措施 | 英偉達已是AI界「央行」？亮眼業績背後，5300億美元表外承諾浮現，信用市場高度警惕 | 北水加倉港股近32億港元，淨買入MINIMAX近9億港元，淨賣出智譜逾5億港元 | 特朗普政府考慮給半導體「加稅」！範圍擴大至筆記本、遊戲主機、數據中心服務器等 | 代理AI爆發之際，英偉達明年指引保守了！ | 業績前瞻 | 智譜業績下週一出爐！ARR與Token量價成市場焦點，股價自高點腰斬後能否修復？
+  - 其他: 收市速睇 | 三大指數齊跌，恒指跌0.34%；PCB、光通信股逆市走強，建滔積層板、長飛光纖光纜漲超10%；「大模型雙雄」智譜大漲近13%，MINIMAX漲近4% | 鎧俠和閃迪計劃在日本投資310億美元擴建存儲器工廠。 | 阿里巴巴完成800億再融資，港美A效率大比拼：港股爲何是「首選彈藥庫」？ | 商務部回應美考慮對華額外加徵7.5%關稅 | 隱藏業績後的真相：英偉達或已化身「AI界央行」
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中) (4 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **加密货币** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
+- **美国关税（15%等）** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
 - **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
+- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中) (1 站)
+- **加密货币** — 出现于: Yahoo Finance (EN) (1 站)
+- **就业/经济数据** — 出现于: Benzinga (EN) (1 站)
 - **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 伊朗/中东局势（4 站）
-- 关税/贸易政策（4 站）
-- 美联储/利率（4 站）
-- 油价/能源（2 站）
-- 加密货币（2 站）
+- 油价/能源（3 站）
+- 关税/贸易政策（2 站）
+- 美联储/利率（2 站）
 - 中国/欧盟（2 站）
 - 中国政策（2 站）
+- 伊朗/中东局势（1 站）
+- 加密货币（1 站）
+- 就业/经济数据（1 站）
 - 黄金/大宗商品（1 站）
-- 就业/经济数据（0 站）
