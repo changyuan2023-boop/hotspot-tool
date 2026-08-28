@@ -3,59 +3,57 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 30m | Nvidia stock soars on earnings beat, upbeat outlook | Here's how Nvidia quickly silenced the bears | Why this could be the next big Nvidia stock catalyst | Here's how Nvidia quickly silenced the bears | Why this could be the next big Nvidia stock catalyst | Salesforce, Crowdstrike, Okta surge as AI helps lift results | Greer: US needs to consider bans on Canadian goods
-  - 其他: Top Stories | Tech & AI | Markets & Economy | Fed's Schmid says inflation is too hot on eve of Jackson Hole | Stock futures rise as Nvidia, Salesforce earnings boost tech
+  - 头版/首屏: U.S. markets closed | Investors, Fed watchers want one thing from Kevin Warsh in his Jackson Hole debut: Clarity | Tariff refunds contribute to record-setting corporate profit boost | Nvidia adds $442 billion in second biggest ever stock surge | Tariff refunds contribute to record-setting corporate profit boost | Nvidia adds $442 billion in second biggest ever stock surge | US in talks with Venezuela to take major stake in oil fields | Bessent, Warsh diverge on who should set the price of money
+  - 其他: Top Stories | Tech & AI | Markets & Economy | Stocks close higher as Nvidia earnings renew AI optimism | Millennials believe they are cooked. Employers disagree
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Sponsored Content | Why Is It Moving?™ | Trending Stories | Expert Ideas
-  - 其他: Trump Says He’s ‘Not in a Hurry’ for Iran Talks—Says US ‘Winning Very Big’ as Conflict Drags On | 'Attention Is Scarce': Why Bilibili’s CEO Says Quality Content Drives Revenue | NVDA Downplays 'Circular Financing' Concerns Days After Michael Burry Called it a Wall Street Stunt: 'We See it Differently' | Wall Street's Most Accurate Analysts Give Their Take On 3 Tech Stocks Delivering High-Dividend Yields | Jim Cramer: 'You Could Make Some Money With This 5.6% Yield'
+  - 其他: ‘Rich Dad, Poor Dad’ Author Robert Kiyosaki Warns 401(k) and IRA Investors ‘We May Be on the Brink of Another 1929 Crash’ — Wishes You ‘Good Luck’ | QUICK SPARK: FDA Approves Updated COVID Vaccines From Moderna, Pfizer, Novavax | Jensen Huang Passes Mark Zuckerberg, Larry Ellison: Here’s How Much Nvidia CEO is Worth | Bitcoin, SPX Still Have Room to Run Despite Real Estate Peaking, Analyst Says | Claude Is Getting a New Job: Operating Robots and Lab Equipment
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 美国堪萨斯城联储主席称政策并非处于限制性区间 | Moderna盘前跌幅扩大至8%，公司计划发行20亿美元可转换优先票据。 | 韦德布什将英伟达目标价从330美元上调至345美元。 | 百思买第二季度营收97.8 亿美元，预期95.9 亿美元。
-第二季度调整后每股收益1.47 美元，预期1.38 美元。
-百思买预计全年营收423亿至428亿美元，此前预期为412亿至421亿美元。
-百思买预计全年同店销售额增长1.9%至3% | 伊朗和卡塔尔外长在德黑兰举行会谈。（IRNA） | 哔哩哔哩美股盘前涨超2%，公司第二季度净营收79.4亿元人民币，同比增长8.2%，市场预估79.2亿元。 | 哔哩哔哩第二季度调整后每股收益1.58元人民币，上年同期1.29元，市场预估1.51元。
-第二季度净营收79.4亿元人民币，同比增长8.2%，市场预估79.2亿元。
-第二季度广告营收31.3亿元，市场预估31.2亿元。
-第二季度移动游戏营收 | 第二代VLA实现L2至L4能力贯通 小鹏汽车进入主驾无人关键道路验证
-  - 其他: 百度新增香港为主要上市地，将于9月1日完成双重主要上市 | 天威视讯：2026年上半年净利润亏损4525.35万元，2025年同期亏损2714.9万元。 | 曼彻斯特机场集团遭遇网络攻击，客户数据被盗。（天空新闻） | 乌官员称乌俄谈判代表可能于9月举行会晤 | 商务部副部长兼国际贸易谈判副代表凌激会见拜耳集团全球执行副总裁伯宁格，双方就拜耳集团在华业务发展等议题进行交流。（商务部网站）
+  - 头版/首屏: 美国中央司令部：已清除霍尔木兹海峡的水雷，国际航道已开放。
+未经美国许可，任何船只不得离开伊朗港口。 | 华尔街见闻早餐 | 2026年8月28日 | 特朗普的CDC不认可美国宾州州政府宣布当地出现两例麻疹相关死亡病例 | 专家：单纯靠制造地缘恐慌来逆转美国国债市场趋势，恐怕难以奏效 | SK海力士考虑与日本存储行业加深合作关系 | 美东北部面临强雷暴和洪水威胁，逾3800万人或受影响 | 欧盟实施包装新规，小微企业叫苦 | 美国官员们表示，白宫高级顾问们对美国中情局（CIA）局长John Ratcliffe的俄罗斯之行毫不知情。（华尔街日报）
+  - 其他: 加拿大总理卡尼：（与美国接壤的）湖泊就叫安大略湖，今天是这样、永远都将这样。 | 北美科技软件股指数ETF上涨7.74%，创2025年4月9日（收涨11.65%）以来最佳单日表现，报110.32美元。
+Global X网络安全ETF涨10.41%，纳斯达克网络安全ETF涨7.61%，ETFMG网络安全ETF涨10.41% | 中概指数收跌超0.7%，阿里跌超2.9%，拼多多跌超2.3%，CQQQ涨1.9%，金山云涨超3.5% | 纳指科技指数收涨超2.4%，半导体指数涨超2.3%，软件股表现突出 | 马斯克：猜测SpaceX到2033年左右营收将达到3.5万亿美元。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Vice-Premier Ding signals fiscal reform to ease pressure on local governments | Politics | China-Nepal flash flood: death toll rises to 292, over 1,000 missing | Money | Hong Kong retirees’ living costs grow 3 times city’s 5-year average: index | Flights, ferries cancelled in Shanghai and Shenzhen as Typhoon Saudel closes in | Big Tech | Zhipu’s viral Ox Alpha AI model runs entirely on Chinese chips
-  - 其他: Ding Xuexiang discusses a fiscal reset through expanded local discretion, bigger outlays from the central government and scientific fiscal management pilots. | Saudel is forecast to make landfall on Friday morning, becoming the seventh typhoon to hit the mainland this year. | Model shows China can scale AI on domestic chips, setting a usage record as Beijing pushes to cut reliance on US hardware. | Law and Crime | 3 women charged over play-area brawl, police say grandmother was hit first
+  - 头版/首屏: Chinese execs may join Xi’s US trip, as trade truce extension ‘almost certain’ | Science | Why climate extremes will not stop expansion of China’s nuclear power industry | Trump hints at Chinese bank sanctions over Iran ahead of Xi visit | Society | AI use on 1823 platform will cut frustration but data safeguards needed: experts | Politics | China-Nepal flash flood: death toll rises to 392, over 1,000 missing
+  - 其他: Inclusion of business leaders in delegation is under discussion and one-year deal agreed in Busan is likely to be extended, sources say. | Hong Kong lawmakers say enhanced AI could speed up complaint handling, but expert warns agentic systems pose privacy and automated error risks. | Premier Li Qiang at scene after ice-rock avalanche triggers disaster leaving hundreds of tourists from around the world unaccounted for. | Banking & Finance | Tiger, Futu surge overseas after Beijing clampdown strips mainland growth engine
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 江西铜中期盈利倍升迭加铜价创新高，股价飙一成 | 泥石流袭西藏吉隆口岸 暂3死265失联 | 巴拿马运河通行时段 拍卖价破780万 | 宇树神话轰然现形，梅卡曼德值博几多？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25550.23-102.74(-0.40%)
-                    etnet.com.hk@copyright | 国企指数8484.57-49.27(-0.58%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | MiniMax收入大升,智谱“认领”Ox Alpha,边只较值博？ | 泥石流袭西藏吉隆口岸 暂3死265失联 | 巴拿马运河通行时段 拍卖价破780万 | 宇树神话轰然现形，梅卡曼德值博几多？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25565.74-87.23(-0.34%)
+                    etnet.com.hk@copyright | 国企指数8490.31-43.53(-0.51%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术 | 健康人生
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: OPEC+產量份額降至40%，油市主導權迎結構性轉移 | 嗶哩嗶哩Q2淨利大增55%，廣告成增長引擎，毛利率連續16季改善 | 研究合併創業板與主板？港交所回應：將持續研究上市機制優化措施 | 英偉達已是AI界「央行」？亮眼業績背後，5300億美元表外承諾浮現，信用市場高度警惕 | 北水加倉港股近32億港元，淨買入MINIMAX近9億港元，淨賣出智譜逾5億港元 | 特朗普政府考慮給半導體「加稅」！範圍擴大至筆記本、遊戲主機、數據中心服務器等 | 代理AI爆發之際，英偉達明年指引保守了！ | 業績前瞻 | 智譜業績下週一出爐！ARR與Token量價成市場焦點，股價自高點腰斬後能否修復？
-  - 其他: 收市速睇 | 三大指數齊跌，恒指跌0.34%；PCB、光通信股逆市走強，建滔積層板、長飛光纖光纜漲超10%；「大模型雙雄」智譜大漲近13%，MINIMAX漲近4% | 鎧俠和閃迪計劃在日本投資310億美元擴建存儲器工廠。 | 大摩：A股正迎來反攻窗口，港股暫時退居二線 | 鎧俠宣佈在日本建第三座晶圓廠，聯手閃迪擴產NAND閃存 | 阿里巴巴完成800億再融資，港美A效率大比拼：港股爲何是「首選彈藥庫」？
+  - 头版/首屏: 富途早報 | 今夜22:00沃什傑克遜霍爾首秀；英偉達打破「業績日詛咒」，單日暴漲近9%；軟件股上一交易日普漲，分析師稱「SaaS末日論」反應過度；美團、比亞迪、瀾起科技盤後發財報 | 英偉達打破「業績日詛咒」！單日大漲超8%，市值飆升4400億美元，拯救科技股 | 鷹聲四起！沃什傑克遜霍爾首秀前夜 三位聯儲局官員齊發通脹警告 | SpaceX波動率大幅下降，馬斯克再放豪言2033年營收達3.5萬億美元 | 沃什傑克遜霍爾講話料乏善可陳，沃勒9月表態或更具交易價值 | 美股投資必備！9月重磅大事搶先看，這些影響漲跌的日子都圈出來了 | 特朗普拒絕回到6月協議，美伊談判連「起點」都沒了 | Workday Q2業績好壞參半，Q3訂閱積壓訂單指引不及預期考驗反彈動能
+  - 其他: 邁威爾科技Q2營收同比增長37%略超預期，Q3指引31.5億美元遠超預期 | 業績前瞻 | 智譜業績下週一出爐！ARR與Token量價成市場焦點，股價自高點腰斬後能否修復？ | 成交額TOP20 | 績優股集體飆升，英偉達大漲8%，市值增逾4000億美元，賽富時飆升22%，CRWD漲逾20%；馬斯克稱SpaceX2033年營收或將達3.5萬億美元 | 美國聯邦貿易委員會據悉正調查YouTube社交媒體政策 | 美媒稱英偉達暫停部分AI雲收入分成協議，涉360億美元承諾；英偉達發言人駁斥這一言論
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **油价/能源/霍尔木兹** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (3 站)
-- **伊朗/中东局势** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **美国关税（15%等）** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **加密货币** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
 - **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
-- **加密货币** — 出现于: Yahoo Finance (EN) (1 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
+- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 油价/能源（3 站）
-- 中国政策（3 站）
-- 伊朗/中东局势（2 站）
-- 关税/贸易政策（2 站）
+- 伊朗/中东局势（3 站）
+- 关税/贸易政策（3 站）
+- 中国/欧盟（3 站）
+- 油价/能源（2 站）
+- 加密货币（2 站）
 - 美联储/利率（2 站）
-- 中国/欧盟（2 站）
-- 加密货币（1 站）
-- 就业/经济数据（0 站）
-- 黄金/大宗商品（0 站）
+- 就业/经济数据（1 站）
+- 黄金/大宗商品（1 站）
+- 中国政策（1 站）
