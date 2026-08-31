@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026082820
+抓取时间: 2026083109
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- 2 Fed officials warn on inflation ahead of Warsh's Jackson Hole speech
-- Bitcoin and Cathie Wood are partying like it's 2021 again
-- Jackson Hole history shows Fed chief rarely shocks stock market
-- Bitcoin and Cathie Wood are partying like it's 2021 again
-- Jackson Hole history shows Fed chief rarely shocks stock market
-- Goldman: Hormuz oil flows at two-thirds of pre-war levels
-- Gap stock jumps amid earnings beat and raised guidance
-- PayPal sinks as Stripe, Advent abandon  $50B takeover pursuit
-- Nvidia could hit a $13T market cap: Analyst
-- Rivian’s CFO is leaving the company
-- Nvidia pauses revenue-sharing deals with AI cloud companies
+- U.S. markets closed
+- Trump reignites trade wars as Americans' opinions of tariffs continue to drop
+- US strikes Iranian rocket launchers in first attack in weeks
+- US Treasury bars reporters from several outlets from G20 meeting
+- US strikes Iranian rocket launchers in first attack in weeks
+- US Treasury bars reporters from several outlets from G20 meeting
+- Venezuelan oil will be used to refill US reserve: Trump
+- Trump urges FCC to probe media polling, punish NBC moderator
+- Musk’s faster path to more gas turbines comes with pollution problem
+- Caterpillar is bringing to AI deployment what it learned from automating mining
+- Apple's big handoff and a jobs report: What to watch this week
+- 'All about acceleration': The tech trade is getting more segmented
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Tech & AI
 - Markets & Economy
-- Stock futures mixed as the focus turns to Kevin Warsh's Jackson Hole speech
-- Fed watchers want one thing from Kevin Warsh at Jackson Hole: Clarity
-- BofA's Hartnett sees Warsh on yield tightrope at Jackson Hole
-- Dollar heads for weekly gain as Warsh remarks awaited
+- 'More than I expected to pay': Rents are rising at the fastest rate in over a year
+- Oil jumps at week's open as US military hits Iranian launchers
+- Wall Street's calm is colliding with its most volatile stretch
+- 'Functional unemployment' keeps climbing while Fed job rate holds
 - Popular
-- 'Equal weight' S&P 500 funds are having a moment
-- OpenAI era poses severe downside for Buffett-style value stocks
+- Charles Barkley calls himself an 'idiot' for buying luxury cars
+- Elon Musk drops stunning SpaceX forecast
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,67 +42,67 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- EXCLUSIVE: SpaceX May Lead the Launch Market, but Firefly CEO Says There's Still a Rocket Shortage
-- Bitcoin Hits 3-Month High Overnight, Pulls Back Below $80,000 Ahead of Warsh Speech
-- NVIDIA Growth Outlook Signals Multi-Year AI Demand Beyond Supply Limits: Analysts
-- How to Earn $500 a Month From SAIC Stock Ahead of Q2 Earnings
-- IREN Eyes $4 Billion ARR as AI Cloud Business Replaces Bitcoin Mining
-- Stock Market Today: S&P 500, Nasdaq 100 Futures Slip Ahead of Kevin Warsh's Jackson Hole Speech — MRVL, PYPL, IREN, GAP in Focus
-- Bond Market
-- Trade War
-- Trump's Tariffs Were Built to Close the Trade Gap. The AI Buildout Is Keeping It Open
-- Wall Street's Most Accurate Analysts Weigh In On 3 Materials Stocks With Over 3% Dividend Yields
+- Chevron Stock Sits Near Record High as it Plans Massive Venezuela Investment
+- Is $12,000 a Month Enough to Live an Upper-Class Life in Retirement? Here’s the Nest Egg You Actually Need
+- Nio Stock Forms a Bullish Pattern as Analysts Predict Strong Revenue Growth
+- Top 3 Software Stocks to Watch This Week: Palo Alto Networks, DocuSign, Snowflake
+- GameStop Stock Sinks to Two-Year Low: Can Earnings Reverse the Slide?
+- Venezuela's Delcy Rodriguez Unveils 25-Year US Oil Deal Targeting 1.5 Million Barrels a Day, $209 Billion Revenue
+- Scott Bessent
+- Kevin Warsh
+- MARA Holdings Stock Slides Amid Bitcoin Pullback: What's Happening?
+- iPhone Shipments Rise, Mac's AI Struggle and a Pikachu Visit: This Week in Appleverse
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 贝壳美股盘前涨约12%，此前，为改革完善房地产融资制度，国家金融监督管理总局印发五个管理办法。
-- SK海力士CEO：AI需求旺盛或推动存储器市场紧张局面延续至2030年
-- 机构：英伟达AI机柜产品世代交替，预估2027年NVL72产值贡献可突破7100亿美元
-- 美团：2026Q2核心本地商业经营溢利转正
-- 美团 第二季度营收1,046.4亿元人民币，预估1,010.8亿元人民币；
-第二季度核心本地商业收入715.3亿元人民币，预估685.8亿元人民币；
-第二季度新业务收入331.1亿元人民币，预估325.2亿元人民币；
-第二季度调整后净利润2
-- 特朗普：和普京谈得好，俄罗斯不会攻击北约
-- Valterra Platinum Ltd. 已非正式地接洽了其竞争对手——南非矿企Northam Platinum Holdings Ltd.，知情人士透露，此举旨在探索一项潜在交易，该交易或将打造出迄今为止全球规模最大的贵金属供应商。（
-- 美股盘前，PayPal下跌14%，因报道称Advent和Stripe放弃了对该公司的收购计划。迈威尔科技下跌8.4%，因其第二季度业绩及前景不佳。
-- 软银寻求再获100亿美元贷款，用于OpenAI股权投资
-- 伊朗战事快速消耗美海军预算
-- 伊朗称以色列总理吓唬特朗普
-- 连续三年！阿里云位居中国企业级智能客服市场份额第一
+- 约旦军方称拦截8枚入侵领空导弹
+- 美股期货跌幅扩大，纳斯达克100指数期货现跌0.7%。
+- 美国财长贝森特预计美国每周都会对伊朗公布新的二级制裁措施。
+- 华尔街见闻早餐 | 2026年8月31日
+- 伊朗革命卫队称摧毁位于约旦的美军基地相关基础设施
+- 消息人士称伊朗袭击驻约旦美军
+- 美大峡谷国家公园突发山洪 超20人失联
+- 提醒：日内请重点关注（以下均为北京时间）
+- 伊朗革命卫队：伊朗向美军基地发射导弹
+- 美军中央司令部：已改变83艘商船航行路线
+- 周一亚市盘初，国际油价涨超2%，此前美国对伊朗拉腊克岛进行打击。
+标普500指数期货基本持平，纳斯达克100指数期货微涨0.1%。
+- 美国财长贝森特：正如美国总统正在重振美国经济增长，并将其作为本届政府施政议程的核心，我们也采取相同思路。
+在主办今年二十国集团（G20）财金渠道会议之际，我们把经济增长列为优先事项。
+我们期待召集全球政策制定者与私营部门领袖，强调更强劲的经
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 两部门：个人住房贷款利率应当遵循市场化原则
-- 两部门：月房贷支出与收入比控制在50%以下（含50%）
-- 国家金融监督管理总局印发《商品住房开发贷款管理办法（试行）》
-- 【两部门印发《个人住房贷款管理办法（试行）》】国家金融监督管理总局、中国人民银行发布关于印发《个人住房贷款管理办法（试行）》的通知。个人住房贷款首付比例不得低于中国人民银行、国家金融监督管理总局确定的最低首付比例。贷款人可以根据当地房地产市
-- 国家金融监督管理总：商业地产贷款应当实行主办银行制
-- 【中国神华：2026年上半年净利润287.15亿元，同比增长4.1%】中国神华公告，2026年上半年营业收入1893.38亿元，同比增长7.9%；归属于上市公司股东的净利润287.15亿元，同比增长4.1%。
-- 爱旭股份：2026年上半年亏损7.54亿元，2025年同期亏损2.38亿元
-- 两部门：贷款人应核实城市更新项目贷款资金用途，不得用于缴纳土地出让金及相关税款
-- 智飞生物：2026年上半年净利润亏损8.09亿元，2025年同期亏损6.06亿元
-- 中国核电：2026年上半年净利润36.41亿元，同比下降35.74%
+- 日经225指数低开1.1%，韩国首尔综指低开2.6%。
+- 中国即将发行或正在发行的地方政府债
+- 中国即将发行或正在发行的国债和政策性金融债
+- 公募FOF年内合计募集逾1300亿元，规模超过去三年总和
+- 日本经济产业省预计8月份工业产出环比增长6.4%，9月份下滑4.2%。
+- 日本7月工业产出同比初值 4.1%，预期 3.4%，前值 4.9%。
+- 日本7月大型零售商销售同比 1.4%，前值 -1%。
+- 日本7月零售销售同比 4%，预期 3%，前值 0.5%。
+- 日本7月零售销售环比 2.4%，预期 1.7%，前值 -4.1%。
+- 日本7月工业产出环比初值 0.1%，预期 -0.9%，前值 1.9%。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Could the China-Nepal disaster spur a safety rethink for a flagship rail project?
-- Politics
-- China pledges to send urgent emergency aid to Nepal after deadly landslide
-- Transport
-- MTR Corp to deploy a world-first use of skidding method for Hung Shui Kiu station
-- Big Tech
-- China’s CXMT posts massive 870% revenue surge as ‘aggressive expansion’ pays off
+- Trita Parsi on why US air strikes strengthened Iran’s hand
 - Military
+- PLA shift to systems warfare means Taiwan’s defences need to change: experts
+- Politics
+- China-Nepal floods: 261 foreigners missing in Tibet, online rumours targeted
+- ‘Zero sense’ to view Hong Kong, Singapore as enemies in changing world: envoy
+- Middle East
+- US forces strike 2 launchers on Iran’s Larak Island, US official says
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Gyirong in Tibet is the start of a planned train line to Kathmandu and in an area prone to dangerous glacial lake floods.
-- China’s leading DRAM chipmaker outperforms its own forecasts in its first financial results since a blockbuster Shanghai listing.
-- Bangladesh confirms Chinese J-10CE jet deal, citing Rafale shot down by Pakistan
-- Dhaka’s decision to buy the fighters shows that views on Chinese weapons are shifting and the market is opening, military expert says.
-- Health & Environment
-- Hong Kong launches first regional mediation platform for medical disputes
-- New Healthcare Dispute Resolution Centre online platform provides both virtual and face-to-face services for patients and doctors.
-- China
-- Storm travel chaos as Typhoon Saudel makes double landfall in China
-- US embassy urges American citizens to stay clear of affected coastal and storm zones and track local news for updates.
+- Iranian-born and Washington-based expert analyses Tehran’s leverage, China’s non-intervention strategy and shifting Persian Gulf alliances.
+- Consul General Eric Teo calls for ‘win-win collaboration’ in wealth management despite competing tax packages to attract capital.
+- The official said Iran’s Revolutionary Guards had been ‘observed preparing to launch rockets with sea mines’ into the Strait of Hormuz.
+- Big Tech
+- Music publishers accuse Anthropic of ‘blatant theft’ in major new lawsuit
+- The case, brought by 35 music publishers, adds to the legal challenges facing Anthropic as the AI firm eyes a potential blockbuster IPO.
+- Law and Crime
+- Hong Kong WhatsApp hijacking scams surge 170% to nearly 2,000 cases
+- Police say victims lost HK$146 million in first seven months of 2026, with some suffering individual losses exceeding HK$10 million.
+- Business
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -132,34 +132,33 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美團Q2營收1046.43億元，同比增長14.4%；經調整淨利潤25.24億元大超預期，同比增長69%
-- 本週美股牛股 | Okta周累計漲近28%，本季表現優秀新產品訂單佔比躍升；賽富時漲近21%，業績與指引雙超預期疊加與Anthropic達成AI合作，CrowdStrike漲近19%，業績收入創紀錄，AI產品增速喜人
-- 黃金重新起飛！金礦股本月狂飆43%，碾壓芯片股最鼎盛時期
-- OpenAI押注Astra：AGI門檻已近在眼前？
-- 美股投資必備！9月重磅大事搶先看，這些影響漲跌的日子都圈出來了
-- 證監會：支持上市房地產開發企業併購重組
-- 9月港股「分紅除淨清單」：10只高息股全梳理，最高每手收息1000港元
-- 兩部門：《意見》將個人住房貸款期限由最長30年延長至最長40年，給予借貸雙方更大靈活度
+- 富途早報 | 美伊再次開打，國際油價走高；巴克萊稱AI模型公司35%-45%營業利潤流向三大雲巨頭；江波龍、優地機器人開啓港股申購；智譜今日放榜，希音、梅卡曼德機器人今日暗盤交易
+- 沃什轉鷹意味着什麼，接下來是否要加息？
+- 沃什「放鷹」後，市場聚焦「加息」，大摩：更可能縮表
+- 美軍夜襲霍爾木茲，摧毀伊朗兩處發射器，革命衛隊放話「必將報復」！
+- 一週前瞻 | 8月非農數據重磅來襲；馬斯克、黃仁勳、奧特曼將齊聚G20；Q2業績期步入尾聲，博通、智譜、戴爾放榜；跨境電商巨頭希音登陸港股
+- 日元再破160！貝森特發聲：日元「已得到控制」，日本央行「將做正確的事」，「安倍經濟學」已走到盡頭
+- 沃什放鷹後，金價何去何從？
+- 四年一輪迴，泡泡瑪特高增長神話爲何總被週期性打斷？
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 比亞迪股份：上半年淨利潤123.25億元，同比下降20.54%
-- 瀾起科技：上半年淨利潤19.97億元，同比增長72.33%
-- 北水加倉港股近12億港元，淨買入勝宏科技超4億港元，淨賣出中國人壽近9億港元
-- 住房城鄉建設部等三部門印發通知完善商品住房銷售制度：各地要有力有序推行商品住房現房銷售，實現「所見即所得」
-- 連漲五個月的歐洲股市迎來壓力測試! 阿斯麥領銜的半導體設備與HALO主題能否打破「九月魔咒」?
-- 收市速睇 | 三大指數漲跌不一，恒指微漲，科指跌0.33%；黃金股走強，中國黃金國際漲近8%創歷史新高；半導體股多數下跌，兆易創新跌近6%
-- 9月風險大集結：美日歐央行決議、Anthropic IPO與歐美債務，誰將引爆下一輪波動？
-- 「大空頭」炮轟英偉達！5000億美元融資，是不是「左手倒右手」？
-- 比華爾街最牛預測還要早7年！馬斯克親自「糾正」大摩：SpaceX(SPCX.US)2033年就能做到年營收3.5萬億美元
-- 傑克遜霍爾會議：懸念與影響？
+- 追隨三星，台積電所有制程，漲價10~15%？
+- 美銀Hartnett：逆向投資者正靜待兩大信號，隨時準備轉向避險模式
+- 港股迎全球「長錢」配置 外資6月底以來回流近千億港元
+- 諾貝爾經濟學獎得主克魯格曼：沃什「沒說的」比「說了的」更重要
+- 強制「5天模擬交易」！爲了「降溫」槓桿ETF，韓國「花樣百出」
+- 馬斯克解決發電瓶頸！SpaceX要自產「燃氣輪機葉片」
+- 中選之後，「特朗普交易」要反噬了？
+- 沃什轉鷹≠純粹利空？解讀傑克遜霍爾背後的市場邏輯
+- 英特爾14A傳來重大進展：缺陷下降速度創22納米以來最佳
+- 傑克遜霍爾大會結束了，除了沃什「放鷹」，還有這些要點
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 美国关税: Benzinga (EN), 华尔街见闻 (简中)
-- 油价/霍尔木兹: Yahoo Finance (EN), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
-- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 美国关税: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 伊朗/中东: 华尔街见闻 (简中)
+- 加密货币: Benzinga (EN)
 - 就业数据: Yahoo Finance (EN)
 - 美联储: Yahoo Finance (EN)
 - 中国/欧盟: SCMP (EN/中)
