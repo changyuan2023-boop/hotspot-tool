@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：早间**
-**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
+**当前模式：晚间**
+**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`早间热点线索 · 2026年8月31日`
+`晚间热点线索 · 2026年8月31日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 早间模式操作指令
+## 晚间模式操作指令
 
-聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
+聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
 重点关注（按重要性排序写入）：
-1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
-2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
-3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
-4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
+1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
+4. 其他值得今晚关注的美股消息
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026083109
+抓取时间: 2026083120
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- Trump reignites trade wars as Americans' opinions of tariffs continue to drop
-- US strikes Iranian rocket launchers in first attack in weeks
-- US Treasury bars reporters from several outlets from G20 meeting
-- US strikes Iranian rocket launchers in first attack in weeks
-- US Treasury bars reporters from several outlets from G20 meeting
+- U.S. markets open in 1h 30m
+- It's Tim Cook's last day as Apple CEO. Investors are $4 trillion richer because of him.
+- Stock market today: Dow, S&P 500, Nasdaq futures fall as US strikes Iran, rate-hike bets jump
 - Venezuelan oil will be used to refill US reserve: Trump
-- Trump urges FCC to probe media polling, punish NBC moderator
-- Musk’s faster path to more gas turbines comes with pollution problem
-- Caterpillar is bringing to AI deployment what it learned from automating mining
-- Apple's big handoff and a jobs report: What to watch this week
-- 'All about acceleration': The tech trade is getting more segmented
+- Stock market today: Dow, S&P 500, Nasdaq futures fall as US strikes Iran, rate-hike bets jump
+- Venezuelan oil will be used to refill US reserve: Trump
+- AI and robotics drive an IPO boom in China as Shein lists in Hong Kong
+- G20 finance chiefs gather in North Carolina with Iran sanctions and tariffs in focus
+- BYD shows Chinese carmakers' only way out of slump is abroad
+- Sony seeking up to $150K a song in lawsuit against Anthropic
+- SK Hynix weighs Japan memory fab partnership to supply AI boom
+- Meta says AI didn't do the firing. Ex-employees say otherwise.
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Tech & AI
 - Markets & Economy
-- 'More than I expected to pay': Rents are rising at the fastest rate in over a year
+- 'More than I expected': Rents are rising at an accelerating rate
 - Oil jumps at week's open as US military hits Iranian launchers
 - Wall Street's calm is colliding with its most volatile stretch
 - 'Functional unemployment' keeps climbing while Fed job rate holds
 - Popular
-- Charles Barkley calls himself an 'idiot' for buying luxury cars
-- Elon Musk drops stunning SpaceX forecast
+- Here's How Michael Burry's August Bets Fared
+- Charles Barkley says he was an 'idiot' for buying luxury cars
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,74 +145,72 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Chevron Stock Sits Near Record High as it Plans Massive Venezuela Investment
-- Is $12,000 a Month Enough to Live an Upper-Class Life in Retirement? Here’s the Nest Egg You Actually Need
-- Nio Stock Forms a Bullish Pattern as Analysts Predict Strong Revenue Growth
-- Top 3 Software Stocks to Watch This Week: Palo Alto Networks, DocuSign, Snowflake
-- GameStop Stock Sinks to Two-Year Low: Can Earnings Reverse the Slide?
-- Venezuela's Delcy Rodriguez Unveils 25-Year US Oil Deal Targeting 1.5 Million Barrels a Day, $209 Billion Revenue
+- XRP Goes Sideways but $1.70 Is Coming Soon, Analyst Says
+- Want to Invest Millions Tax-Free? America’s Wealthiest Are Turning to a ‘Roth IRA on Steroids’ and It’s Growing Fast
+- Trump Family Businesses Are Among Iran War’s Winners as Oil and Defense Spending Surge: Report
+- This Lumentum Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Monday
+- MongoDB Likely To Report Higher Q2 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- Stock Market Today: S&P 500, Dow Futures Fall as US-Iran Tensions Flare Up—WMT, RZLV, FNGR in Focus
 - Scott Bessent
 - Kevin Warsh
-- MARA Holdings Stock Slides Amid Bitcoin Pullback: What's Happening?
-- iPhone Shipments Rise, Mac's AI Struggle and a Pikachu Visit: This Week in Appleverse
+- Rezolve AI Expands Enterprise Footprint Through Tech Mahindra Alliance
+- Trump Says His Tariffs 'Saved' US Auto Industry, Citing Ford Plant Running 24/7—Calls Canada ‘The Worst’ for ‘Ripping Us Off’ for Decades
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 约旦军方称拦截8枚入侵领空导弹
-- 美股期货跌幅扩大，纳斯达克100指数期货现跌0.7%。
-- 美国财长贝森特预计美国每周都会对伊朗公布新的二级制裁措施。
-- 华尔街见闻早餐 | 2026年8月31日
-- 伊朗革命卫队称摧毁位于约旦的美军基地相关基础设施
-- 消息人士称伊朗袭击驻约旦美军
-- 美大峡谷国家公园突发山洪 超20人失联
-- 提醒：日内请重点关注（以下均为北京时间）
-- 伊朗革命卫队：伊朗向美军基地发射导弹
-- 美军中央司令部：已改变83艘商船航行路线
-- 周一亚市盘初，国际油价涨超2%，此前美国对伊朗拉腊克岛进行打击。
-标普500指数期货基本持平，纳斯达克100指数期货微涨0.1%。
-- 美国财长贝森特：正如美国总统正在重振美国经济增长，并将其作为本届政府施政议程的核心，我们也采取相同思路。
-在主办今年二十国集团（G20）财金渠道会议之际，我们把经济增长列为优先事项。
-我们期待召集全球政策制定者与私营部门领袖，强调更强劲的经
+- 网易云音乐宣布适配鸿蒙
+- 美国可能最快于周一批准扩大生物燃料豁免规模。（路透）
+- 美军袭击伊朗拉腊克岛致2人死亡 多人受伤
+- AMD、思科与HUMAIN扩大沙特阿拉伯AI基础设施，AMD Instinct系统正式上线。
+- 特朗普将于周二会见石油公司高管。（路透）
+- 礼来：Taltz和Zepbound在肥胖症治疗中的数据显示积极结果。
+- 斯伦贝谢重申其2026年向股东返还逾40亿美元的计划。（彭博）
+- 阿波罗基金将以34亿美元的全现金交易将Kelvion出售给SLB（斯伦贝谢）。（彭博）
+- 国家新闻出版署公布2026年8月份国产网络游戏审批信息，共209款游戏获批。
+国家新闻出版署公布2026年进口网络游戏审批信息，8月新增6款进口网络游戏。
+- 礼来将以最高28.75亿美元现金收购生物科技公司Merida Biosciences。（彭博）
+- 伊朗驳斥特朗普关于哈尔克岛遭摧毁的说法
+- 英特尔美股盘前上涨1.7%，报道称SK海力士计划将其下一代HBM的基础芯片（Base Die）外包给英特尔生产。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 日经225指数低开1.1%，韩国首尔综指低开2.6%。
-- 中国即将发行或正在发行的地方政府债
-- 中国即将发行或正在发行的国债和政策性金融债
-- 公募FOF年内合计募集逾1300亿元，规模超过去三年总和
-- 日本经济产业省预计8月份工业产出环比增长6.4%，9月份下滑4.2%。
-- 日本7月工业产出同比初值 4.1%，预期 3.4%，前值 4.9%。
-- 日本7月大型零售商销售同比 1.4%，前值 -1%。
-- 日本7月零售销售同比 4%，预期 3%，前值 0.5%。
-- 日本7月零售销售环比 2.4%，预期 1.7%，前值 -4.1%。
-- 日本7月工业产出环比初值 0.1%，预期 -0.9%，前值 1.9%。
+- 俄罗斯批准新版汽车工业发展战略
+- 香山股份：正在筹划发行股份及支付现金方式购买浙江武珞智慧城市技术有限公司100%的股份同时募集配套资金，股票停牌。
+- 习近平会见俄罗斯总统普京
+- 燕东微股价大跌，公司回应：利润受产能爬坡影响较大
+- 三安光电：8月31日，公司董事长林志强先生增持公司股份77万股，约占公司总股本的0.02%，增持金额人民币997.7万元。截至本公告日，林志强先生累计增持公司股份357万股，约占公司总股本的0.07%，累计增持金额人民币4985.78万元。
+- 智谱：8月年度经常性收入（ARR）达到16亿美元。
+- 中际旭创：拟以40亿元-80亿元回购股份，回购股份价格不超过人民币1200元/股。
+- 国务院常务会议：会议审议通过《中华人民共和国审计法实施条例（修订草案）》
+- 国务院常务会议：会议讨论并原则通过《中华人民共和国税收征收管理法（修订草案）》
+- 国务院常务会议：会议听取城市地下管网建设情况汇报
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Trita Parsi on why US air strikes strengthened Iran’s hand
-- Military
-- PLA shift to systems warfare means Taiwan’s defences need to change: experts
-- Politics
-- China-Nepal floods: 261 foreigners missing in Tibet, online rumours targeted
-- ‘Zero sense’ to view Hong Kong, Singapore as enemies in changing world: envoy
-- Middle East
-- US forces strike 2 launchers on Iran’s Larak Island, US official says
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Iranian-born and Washington-based expert analyses Tehran’s leverage, China’s non-intervention strategy and shifting Persian Gulf alliances.
-- Consul General Eric Teo calls for ‘win-win collaboration’ in wealth management despite competing tax packages to attract capital.
-- The official said Iran’s Revolutionary Guards had been ‘observed preparing to launch rockets with sea mines’ into the Strait of Hormuz.
+- Xi’s Cairo trip marks ‘best ties in history’ as Egypt seeks to balance West
 - Big Tech
-- Music publishers accuse Anthropic of ‘blatant theft’ in major new lawsuit
-- The case, brought by 35 music publishers, adds to the legal challenges facing Anthropic as the AI firm eyes a potential blockbuster IPO.
+- Huawei pours a quarter of revenue into research amid US-China chip war
+- China Economy
+- The double-edged sword China has unsheathed in the housing market
+- Hong Kong Economy
+- Land tender for flagship Northern Metropolis tech hub draws 6 bids
+- Chinese AI firm Z.ai posts 400% revenue jump as total losses narrow
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- Chinese president’s visit comes amid expanding Suez investment and joint air force exercises.
+- Operator Loop Hong Kong Park Company hails ‘enthusiastic response’ to four parcels earmarked for innovation and technology, housing talent.
+- First-half revenue from cloud-based deployment services soared over 2,700 per cent year on year.
 - Law and Crime
-- Hong Kong WhatsApp hijacking scams surge 170% to nearly 2,000 cases
-- Police say victims lost HK$146 million in first seven months of 2026, with some suffering individual losses exceeding HK$10 million.
+- Hong Kong government loses appeal over Fanling golf course housing plan
+- Court of Appeal’s ruling is likely to result in fresh public consultations on developing 9.5 hectares of land at Fanling course.
 - Business
+- Hong Kong leads Asia in start-up potential, ranks fifth globally: study
+- City shows growing strength in nurturing scalable ventures and unicorns, CB Insights study says.
+- Why Hong Kong’s strategic advantages attract global talent
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
 - 哔哩哔哩次季多赚25%，股价曾飙近半成仍有上升空间？
-- 西藏泥石流灾害 增至3死558失联
-- 美CIA局长访俄 被指为警告勿袭北约
+- 泥石流中尼至少768死 逾3千人失踪
+- 委石油协议 被批如新式美国殖民
 - 宇树神话轰然现形，梅卡曼德值博几多？
 - 指数环球商品外汇
 - 国金观点
@@ -222,9 +220,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25584.79+19.05(+0.07%)
+- 恒生指数25504.34-80.45(-0.31%)
                     etnet.com.hk@copyright
-- 国企指数8490.39+0.08(+0.00%)
+- 国企指数8493.55+3.16(+0.04%)
                     etnet.com.hk@copyright
 - 理财/管理
 - 时尚艺术
@@ -235,36 +233,35 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 美伊再次開打，國際油價走高；巴克萊稱AI模型公司35%-45%營業利潤流向三大雲巨頭；江波龍、優地機器人開啓港股申購；智譜今日放榜，希音、梅卡曼德機器人今日暗盤交易
-- 沃什轉鷹意味着什麼，接下來是否要加息？
-- 沃什「放鷹」後，市場聚焦「加息」，大摩：更可能縮表
-- 美軍夜襲霍爾木茲，摧毀伊朗兩處發射器，革命衛隊放話「必將報復」！
-- 一週前瞻 | 8月非農數據重磅來襲；馬斯克、黃仁勳、奧特曼將齊聚G20；Q2業績期步入尾聲，博通、智譜、戴爾放榜；跨境電商巨頭希音登陸港股
-- 日元再破160！貝森特發聲：日元「已得到控制」，日本央行「將做正確的事」，「安倍經濟學」已走到盡頭
-- 沃什放鷹後，金價何去何從？
-- 四年一輪迴，泡泡瑪特高增長神話爲何總被週期性打斷？
+- 雲端商業化提速，智譜上半年營收同比增近400%，開放平台及API收入暴增2736%
+- OpenAI和Anthropic也加入哄搶：蘋果Mac mini成爲AI行業最喜歡硬件
+- 傑克遜霍爾暴露「美歐信任危機」：特朗普想幹什麼就幹什麼！
+- 韓日芯片合作升溫，SK海力士研究在日本合資建存儲芯片廠
+- 北水加倉港股超21億港元，建滔積層板獲淨買入逾5億港元，建設銀行、智譜、美團分別遭淨賣出逾10億、9億、8億港元
+- 高盛的「AI實戰」：頂級投行如何探索Agent的產品化
+- 收市速睇 | 三大指數漲跌不一，科指漲0.32%；港股AI大模型股走強，MINIMAX漲超16%，智譜漲近10%；內房股走低，華潤置地跌9%
+- 爲降低HBM成本，SK海力士被曝評估英特爾代工方案
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 追隨三星，台積電所有制程，漲價10~15%？
-- 美銀Hartnett：逆向投資者正靜待兩大信號，隨時準備轉向避險模式
-- 港股迎全球「長錢」配置 外資6月底以來回流近千億港元
-- 諾貝爾經濟學獎得主克魯格曼：沃什「沒說的」比「說了的」更重要
-- 強制「5天模擬交易」！爲了「降溫」槓桿ETF，韓國「花樣百出」
-- 馬斯克解決發電瓶頸！SpaceX要自產「燃氣輪機葉片」
-- 中選之後，「特朗普交易」要反噬了？
-- 沃什轉鷹≠純粹利空？解讀傑克遜霍爾背後的市場邏輯
-- 英特爾14A傳來重大進展：缺陷下降速度創22納米以來最佳
-- 傑克遜霍爾大會結束了，除了沃什「放鷹」，還有這些要點
+- 博通業績在即，摩根大通堅定看好：市場嚴重低估AI業務增長，谷歌TPU「失寵」擔憂過頭
+- 收盤後生效！MSCI中國指數大換血：智譜、建滔集團、鼎泰高科等33股獲納入，硬科技集體入場
+- 智譜漲幅擴大，今日將披露中期業績，盤後正式進入MSCI中國指數
+- 全球AI牛市步入「秋天」！張憶東最新分享：要重點關注應用落地和業績兌現，擁抱兩條主線，今年黃金仍有機會到5000美元……
+- MiniMax走強，H3 Max打破AI實時直播門檻
+- 閱文集團上漲，《後西遊記》定檔點燃短劇概念，公司IP運營商業化加速兌現
+- 港股午評 | 三大指數齊跌，科指跌1.03%，比亞迪股份跌近7%，MINIMAX逆勢漲超6%；黃金股普跌，紫金黃金國際跌超7%；內銀、PCB概念股逆市上漲，中國銀行漲超5%，廣合科技漲近3%
+- 蘋果即將揭開新篇章，AI時代「新帥」特努斯如何出招？
+- 發AI視頻威脅「炸碎」伊朗哈爾克島，特朗普的伊朗「終局」越來越亂
+- TCL電子上漲，上半年歸母淨利同比增長四成，全球化及中高端化雙輪驅動
 
 --- 跨站重点主题（多站出现=更重要）---
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 美国关税: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 加密货币: Benzinga (EN)
+- 美国关税: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 就业数据: Yahoo Finance (EN)
-- 美联储: Yahoo Finance (EN)
-- 中国/欧盟: SCMP (EN/中)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
