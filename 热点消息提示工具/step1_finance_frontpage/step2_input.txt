@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026090109
+抓取时间: 2026090120
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- Stocks slip but cap winning month for stocks
+- U.S. markets open in 1h 30m
+- Software beat chips in August — but September has a rough history
+- Why Toyota and Honda would get hit hardest by Trump's Canadian auto tariffs
+- Two oil supertankers hit by projectiles in Hormuz: Marisks
+- Why Toyota and Honda would get hit hardest by Trump's Canadian auto tariffs
+- Two oil supertankers hit by projectiles in Hormuz: Marisks
+- Ather Energy's 130% stock surge leaves Tesla and BYD behind in 2026
 - FTC and 22 states sue Amazon over inflated advertising prices
-- Trump strikes Medicaid drug price deals with nine pharma firms
-- FTC and 22 states sue Amazon over inflated advertising prices
-- Trump strikes Medicaid drug price deals with nine pharma firms
-- What Tim Cook told employees on his last day at Apple
-- Trump promises his Venezuela oil deal will isn't as simple as it sounds
-- Apple says OpenAI is destroying evidence in trade secrets case
-- Polymarket funding round led by 1789 values firm at $21 billion
-- BoE chief warns of AI cyber risks
-- FTC sues Amazon over ‘secret ad surcharge scheme'
+- John Ternus's biggest challenges as Apple's new CEO
+- How you can quickly tell Wall Street still really loves tech stocks
+- Alphabet stock tanks to close out summer on 'brain drain' fears — what's next
+- Wall Street banks push Big Law to cut fees because of AI
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Tech & AI
 - Markets & Economy
-- AI could cause global economic downturn, Andrew Bailey warns G20
-- Oil prices surge on renewed fighting in US-Iran war
-- Warsh warns against inflation — but that's not why long-term rates are surging
-- Fed Chairman Kevin Warsh triggered a new problem for stocks
+- Stock futures fall as yields rise amid Fed rate-hike fears
+- Global bond selloff sends yields to 2008 highs as inflation fears persist
+- Dollar gains on rate hike expectations
+- Oil prices rise as latest fighting revives Mideast supply risks
 - Popular
-- Jim Cramer has strong message for Micron stock investors
-- 3 states retirees are choosing over Florida
+- Freedom Fuel praised by Trump for cheap gas — now accused of not paying a supplier
+- Shein just went public at about 25% of its peak valuation
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,84 +42,76 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Ben Shapiro Tells ‘Young People’ A Burrito Does Not Cost $20 — If You’re Not Rich And Spending That Much on One, ‘You’re Doing Life Wrong’
-- Broadcom Could Swing $139 Billion In Value After Earnings
-- Partners Group Faces $7 Billion Debt Wall as 3 Portfolio Companies Near Crisis
-- Warren Buffett Set Berkshire Hathaway Up for Years: Top 5 Stocks Yield $589 Million Each Quarter
-- MapQuest vs. Trump: OG of Maps Keeps Lake Ontario Name, Sees Download Surge and Stock Boost for Parent
-- Gold Jumps 10% in August — This Billionaire Gold Bug Is Banking Gains
+- Goldman Sachs Nasdaq-100 ETF, Nutrien And More: CNBC’s ‘Final Trades’
+- AstraZeneca Shares Dual Oncology Clinical and Regulatory Victories
+- Xpeng Eyes Overseas Expansion And Robotics For New Growth
+- Jim Cramer Warns of ‘Unholy Developments’ Crushing Rate-Cut Hopes as Brent Tops $92 After Strait of Hormuz Attacks
+- NIO Boosts Deliveries and Margins, but Soft Outlook Spoils the Mood
+- Stock Market Today: S&P 500, Dow Futures Drop After Trump Says Iran Is 'Totally Defeated', Brent Tops $92 — CBRS, PXS, PANW, DELL in Focus
 - Trade War
-- ChatGPT Ads Surge: How OpenAI's Rapid Expansion Imperils Google and Meta
-- Elon Musk Just Flagged AI's Next Bottleneck. Only a Few Companies Can Cast the Fix (CORRECTED)
-- Tim Cook Leaves Apple 13 Times Bigger Than He Found It: 5 Milestones From His 15 Years
+- Analyst Slams Trump’s Energy Promises, Strait of Hormuz Claims: ‘A Painful New Record…’
+- Domino’s Pizza China Operator's H1 Growth Driven By Store Expansion
+- Wall Street's Most Accurate Analysts Spotlight On 3 Utilities Stocks Delivering High-Dividend Yields
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 高盛副董事长、前美联储官员卡普兰表示，他倾向于加息；通胀前景良好，有望降至2%。
-- 百度公告称，于香港联交所第二上市地位变更为双重主要上市地位的转换今天生效。
-- 特朗普将于美东时间周二13:30会见油气零售商及炼油厂代表。
-- Anthropic与Lambda在美国德克萨斯州签署350亿美元云计算协议。（华尔街日报）
-- 华尔街见闻早餐 | 2026年9月1日
-- Anthropic在发生安全漏洞事件后将150名工程师调至安全部门，这是该公司的临时举措。
-该公司暂时停止模型发布之前的网络测试。
-- Anthropic：已要求所有对降低网络安全防护的预发布模型开展测试的机构，承诺遵守一套最佳实践准则。
-为有权使用Claude Mythos 5的合作方制定配套操作规范。
-- 委内瑞拉石油出口激增，特朗普寻求更大控制权
-- 美国副总统万斯：美军昨晚袭击了伊朗。
-美方正确保商业活动在霍尔木兹海峡自由流动。（福克斯新闻）
-- 特朗普再与九家制药商达成药品补助协议，百济神州位列其中
-- 报道：贝森特告知日本官员需要加息
-- 提醒：日内请重点关注（以下均为北京时间）
+- GoPro盘前一度大涨超100%，YouTube明星Markiplier晋升为最大股东
+- 李强会见美中贸易全国委员会董事会代表团
+- 瑞幸咖啡宣布董事会批准扩大股票回购计划，将回购授权规模从3亿美元增至5亿美元，有效期延续至原定回购期结束。
+- 蔚来汽车：第二季度营收321.4亿元人民币，同比增长69%，市场预期333.6亿元。
+第二季度汽车销售收入227.8亿元人民币，同比增长41%，市场预期298.3亿元。
+第二季度交付量107,658辆，同比增长49%，市场预期111,501
+- 纳斯达克100指数期货跌幅扩大至1%。
+- 对冲基金Jain Global自2024年成立以来两年内赚取了18亿美元。
+- 纳斯达克100期货跌幅扩大至0.5%，至日内低点。
+- 伊朗通过拉腊克岛管控霍尔木兹海峡
+- 郭明錤：英伟达重启推理预填充优化芯片Rubin CPX项目
+- 小鹏集团碳中和绿色ABS成功发行
+- 商务部等三部门：企业应加强境外反垄断合规建设，有效识别、评估和管控各类反垄断法律风险，诚信守法、公平竞争。
+- 商务部等三部门：企业应加强对东道国（地区）政治形势、宏观经济、社会安全、汽车产业等各方面风险研判，完善生产安全事故应急处理预案，定期排查风险隐患，提高境外安全生产管理水平。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 8月份，ICE原糖期货累涨21.35%。
-ICE阿拉比卡咖啡期货累涨3.84%，咖啡“C”期货累跌0.21%。
-纽约可可期货累涨22.25%，报6768美元/吨。芝加哥WCE双低油菜籽期货累涨5.69%。
-ICE棉花期货累涨13.67%。
-- 芝加哥小麦期货8月份涨约18.5%
-- 特朗普：沃什在利率问题上“会做他必须做的事”
-- 美国总统特朗普：伊朗打击（美军基地）的影响将是有限的。
-霍尔木兹海峡形势极其良好。
-大量石油正从霍尔木兹海峡运出。
-我们或许会打击伊朗，后续情况有待观察。
-昨晚有很多船只通过了霍尔木兹海峡，平均每晚有30艘船通过。
-伊朗方面不清楚谁是其领导
-- 美国环境保护署（EPA）：计划重新分配2026年及2027年履约义务中，小型炼油厂豁免配额的预估值与实际值之间的全部差额。
-- 亚马逊：亚马逊的定价方式并不存在损害消费者权益的情况，相关说法与事实相悖。
-美国联邦贸易委员会（FTC）的诉状本身并未举出消费者价格上涨的相关证据。
-联邦贸易委员会的指控从根本上误解了广告商的运作模式。
-- 伊朗军方：绝不容忍任何侵略行为
-- 日元在8月份涨约1.5%，一度跌穿160关口
-- 美国卫生部长：最新一批医药定价协议包含用于生产回流的196亿美元资金。
-- 彭博美元指数8月份跌约0.9%
+- 16家企业签署合作协议 服贸会“朋友圈”进一步扩大
+- 博纳影业：公司AI影视剧业务目前仍处于业务发展的早期阶段，相关技术路径、商业模式及市场接受度尚需持续验证。根据《2026年半年度报告》显示，2026年上半年，公司AI影视剧业务营业收入193.23万元，占公司整体营业收入的比例为0.42%。
+- 日本财务大臣片山皋月：（被问及10年期日本国债收益率升至3%以上时）将继续与市场保持密切对话。
+日本将继续努力同时实现强劲增长与财政可持续性。
+- 特朗普“密友”戴安斯再度访华，中美近期各领域互动频密
+- 国民技术：为持续全线提升公司MCU产品技术竞争优势，在嵌入式存储MCU技术优势外，进一步增强NOR Flash外置存储MCU定制化技术优势，公司拟使用公司H股“战略投资及收购”专项募集资金人民币6,000万元，按照投前估值5.90亿元参与认
+- 文件显示： 俄罗斯政府将2026年石油产量预测下调至4.942亿吨，为17年来最低水平。
+ 俄罗斯政府将2026年石油产品出口预测下调2410万吨至9850万吨。
+ 俄罗斯政府将2026年原油出口预测上调750万吨至2.447亿吨。
+- “豆包手机”获入网许可 9月上市销售
+- 长城汽车：8月公司汽车销量11.34万辆，同比下降1.87%。
+- 中际旭创：首次回购公司股份37.41万股，支付3.18亿元
+- 乘联分会崔东树：1-7月世界汽车销量达到5611万台
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- In Focus | China’s elderly need long-term care. Will a new insurance scheme provide it?
-- Diplomacy
-- US targets China’s global trade surplus at G20 meeting ahead of Xi-Trump summit
-- Trump praises China for being ‘relatively inactive’ in Strait of Hormuz crisis
-- Prediction markets have priced the Trump-Xi summit. Do the bets have any value?
-- Banking & Finance
-- Shein shares plunge up to 28% in grey market ahead of Hong Kong debut
-- Education
+- Trump envoy Daines visits Chinese AI, space firms ahead of Xi summit in US
+- Military
+- How China’s revised defence law could harness AI and drones for war
+- Society
+- Subdivided-flat registration rate at 42.5% as ‘early bird’ phase deadline passes
+- Politics
+- Glacier risk hangs over China-Nepal border as region remembers mudslide victims
+- China Business
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- The central government has announced plans to provide nationwide coverage by 2028, but uneven regional development is a major hurdle.
-- Trump has announced a September 24 meeting, but Beijing has not. As prediction market bets multiply, they may begin to shape diplomacy.
-- Shares slid ahead of its Hong Kong debut, deepening investor doubts on its latest listing attempt.
-- Elite Hong Kong schools urged to raise the bar, challenge high-ability students
-- External reviewers find top schools must design more demanding lessons for top performers and adjust difficulty for struggling students.
-- Xi, Putin vow to deepen strategic ties after meeting at SCO summit
-- Xi said relevant departments from both sides are implementing initiatives he and Putin discussed during Putin’s state visit to China in May.
-- Business
-- Why Hong Kong’s strategic advantages attract global talent
-- Chile fines Chinese mafia inmate after cocaine found at maximum-security prison
+- Montana Republican’s trip coincides with intensifying tech war that has become a core front in the US-China strategic rivalry.
+- Emergency crews and residents stop to commemorate the more than 1,000 dead in last week’s disaster.
+- China ends dividend tax exemption for expats, applying 20% rate
+- The exemption previously enjoyed by overseas nationals on gains from foreign-funded firms in China was cancelled in an announcement on Tuesday.
+- China Economy
+- China’s 3 major airlines bet on global demand to offset deep losses: analysts
+- Chinese carriers choose low fares, long-term expansion as regional conflicts and weak domestic demand affect revenues.
+- Science
+- Swedish chip expert Henry Homayoun Radamson dies in China of ‘sudden illness’
+- Sudden death of Guangdong-based researcher, who specialised in the medical use of technology, leaves a ‘profound void’.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
 - 比亚迪多赚三成仍逊预期,股价急插逾半成,可否趁低吸？
-- 泥石流中尼至少768死 逾3千人失踪
-- 委石油协议 被批如新式美国殖民
+- 8月官方制造业PMI升至49.8 胜预期
+- 美袭伊火箭装置 一个月以来首交火
 - 宇树神话轰然现形，梅卡曼德值博几多？
 - 指数环球商品外汇
 - 国金观点
@@ -129,9 +121,9 @@ ICE棉花期货累涨13.67%。
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25566.99-17.80(-0.07%)
+- 恒生指数25329.73-237.26(-0.93%)
                     etnet.com.hk@copyright
-- 国企指数8513.18+22.79(+0.27%)
+- 国企指数8462.64-50.54(-0.59%)
                     etnet.com.hk@copyright
 - 理财/管理
 - 时尚艺术
@@ -142,36 +134,35 @@ ICE棉花期货累涨13.67%。
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 特朗普稱可能會打擊伊朗，重申美國利率過高；閃迪納入MSCI全部國家全球指數；Anthropic簽署由英偉達支持的350億美元雲服務協議；希音、梅卡曼德機器人今日港股上市
-- 庫克卸任蘋果CEO：致全員信告別15年掌舵歲月，稱將懷念這份工作
-- 美國在G20拋出「化債方案」：貝森特、沃什齊聲呼籲「走出困境的唯一途徑是增長」
-- 英偉達當「紅娘」，Anthropic與「AI雲」Lamda達成350億美元「算力協議」
-- 高盛評Q2業績：「AI投資巨浪」遠未結束，2028年才能達到供需平衡！
-- OpenAI買幾萬台Mac搞強化訓練！英偉達的活被蘋果搶了
-- 特朗普豪言美國GDP能漲20%，還要求聯儲局減息
-- 成交額TOP20 | 閃迪尾盤爆拉5%，正式納入MSCI全球指數；特斯拉漲逾5.5%，在港澳推出平價版Model 3；美國FTC起訴亞馬遜操縱廣告價格
+- 霍爾木茲油輪遇襲推升油價，美股三大期指跳水，全球債市拋售加劇，黃金失守4400美元
+- 全球債市「壓艙石」鬆動：日本10年期收益率重返3%意味着什麼？多位專家解讀
+- 郭明錤：英偉達重啓推理預填充優化芯片Rubin CPX項目
+- 蘋果(AAPL.US)正式完成「換帥」：庫克遞出4.6萬億美元「封神答卷」，特納斯能否續寫？
+- 蔚來Q2營收同比增69%，毛利率升至18.4%，Q3營收指引332.9億-340.5億
+- 高盛堅定看好阿里：算力投入或在3年內回本，雲業務加速，2030年外部雲收入劍指千億美元
+- 北水掃貨港股超77億港元，淨買入騰訊控股超11億港元，加倉MINIMAX逾7億港元；淨賣出美團逾5億港元
+- 貝森特與植田和男會面看點：雙方就加快加息達成共識，「安倍經濟學」或走向終結
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 貝森特與日本央行行長及財務大臣相繼會談 稱日本有必要明確加息路線
-- 美股收盤 | 美伊局勢升級疊加鷹派預期，三大股指普跌；加密貨幣概念逆勢走強，Circle漲超9%，8月大漲52%；原油大漲；公用事業股重挫
-- 亞馬遜遭FTC聯合22州起訴：被指操縱廣告競價，5年多收廣告主超200億美元
-- 美元連跌兩月，美國財政部回購逼退投機多頭，沃什鷹派僅換來一日反彈
-- 美股三大指數集體收跌，道指跌0.7%，納指跌0.12%，標普500指數跌0.33%。亞馬遜跌超2%，法庭文件顯示，美國聯邦貿易委員會起訴亞馬遜。加密貨幣概念股走強，Circle漲超9%，Coinbase漲超5%，Strategy漲超4%；特斯拉漲超5%，閃迪漲超5%。
-- 特朗普稱可能打擊會打擊伊朗，重申美國利率過高
-- 數據中心拖累選情 特朗普急喊：反對AI基建最終將「落後且貧窮」
-- 貝森特釋放日本央行加息信號，並稱美債市場表現「良好」
-- 庫克最後一封CEO內部信：我深愛這個職位，對交棒特努斯感到安心
-- 美官員：特朗普或批准重啓對伊朗的打擊行動
+- 收市速睇 | 三大指數齊跌，科指跌1.49%；科網股普跌，阿里、京東跌超3%；8月交付數據出爐，蔚來跌超6%；希音上市首日收跌0.12%，盤中一度跌約10%
+- 主權債息創2008年新高！美日國債相繼破位，全球債市爲何全線潰敗？
+- 今年蘋果發佈會最大的懸念，不是摺疊屏
+- Strategy重啓BTC買入：STRC脫錨危機，終於階段性緩解？
+- 造車新勢力8月數據：零跑單月交付再破10萬；小鵬、理想、蔚來維持3-4萬輛區間
+- 港股內銀股延續近期漲勢，工中建交等多家大行創歷史新高，六大行分紅比例將集體提升至31%
+- 韓國公佈2027年創紀錄預算案！芯片紅利全面注入AI與國防
+- 英矽智能上揚，公司聯合國際團隊，揭示阿爾茨海默病新靶點與早期生物標誌物
+- 中金：如何理解沃什的態度轉向？聯儲局面臨「三重約束」
+- 蔚來8月交付35836輛汽車，同比增長14.5%
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
-- 加密货币: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 就业数据: Yahoo Finance (EN), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 中国/欧盟: Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 加密货币: Yahoo Finance (EN), 富途资讯 (繁中)
 - 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
 - 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 美国关税: 华尔街见闻 (简中)
-- 中国/欧盟: SCMP (EN/中)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
