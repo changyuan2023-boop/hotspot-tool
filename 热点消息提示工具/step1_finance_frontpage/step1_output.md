@@ -3,61 +3,67 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | Carney to US: stop ‘throwing shade’ to resume trade talks | Trump ramps up pressure on squeezed refiners to ease pump prices | Congress sends funding bill to avert US shutdown to Trump | Trump ramps up pressure on squeezed refiners to ease pump prices | Congress sends funding bill to avert US shutdown to Trump | SEC preps plan to widen investor access to private markets | US strikes on Iran push Brent oil toward $95 per barrel
-  - 其他: Top Stories | Tech & AI | Markets & Economy | Global bond yields surge as oil prices fuel inflation worries | How soaring Treasury yields could hit your finances
+  - 头版/首屏: U.S. markets open in 1h 30m | Nvidia's next act is bigger than selling AI chips | Where will the $100B funding come from in Trump's Venezuela oil deal? | US diesel hits highest since April as wars strain global supply | Where will the $100B funding come from in Trump's Venezuela oil deal? | US diesel hits highest since April as wars strain global supply | Bessent's bond gains wiped out as 30-year yields jump once again | Chevron expands Venezuela position, to invest $7B in next 5 years
+  - 其他: Top Stories | Tech & AI | Markets & Economy | Stock futures fall as US-Iran war escalates, inflation jitters return | Oil prices fall after hitting over one-month high; traders weigh supply risks
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Sponsored Content | Why Is It Moving?™ | Trending Stories | Expert Ideas
-  - 其他: Tim Cook’s Greatest Contribution Wasn’t Apple Stock Gains But This, Says Market Expert | Bank of America Mourns VP Killed in 'Random and Unprovoked' Times Square Stabbing | QUICK SPARK: Invesco’s RSP Hits $100 Billion as Equal-Weight ETFs Gain Ground | GitLab Shares Jump Over 15% on Strong Q2 Print: Details Inside | Partners Group Replaces CEO After Performance Income Drops 39%
+  - 其他: Jim Cramer Says This Tech Stock Is Up 40% For The Year: It Is A ‘Great’ Company | CLARITY Act Faces Make-or-Break September: What Do Prediction Markets Say? | How To Earn $500 A Month From NetApp Stock Ahead Of Q1 Earnings | Russia Is Secretly Helping Iran Build Advanced Supersonic Missiles, Report Says — Moscow’s Engineers Are Sharing Technology That Could Threaten US Warships | Hewlett Packard Enterprise Likely To Report Higher Q3 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 伊朗革命卫队：对在伊拉克的一处美军基地发动打击 | 报道：Cognition拟以470亿美元估值融资约10亿美元 | 英伟达本周即将达成以近140亿美元收购Hugging Face的交易。（彭博） | 特朗普提名高雄出任下一任美国海军部长 | 戴尔分析师电话会议：AI浪潮有望给本公司带来超1万亿美元潜在市场机会 | PANW分析师电话会议要点总结 | 伊朗称袭击约旦哈桑王子空军基地 摧毁多架无人机 | 华尔街见闻早餐 | 2026年9月2日
-  - 其他: 美国国家航空航天局（NASA）授予蓝色起源火星通信网络项目合同。
-贝佐斯旗下蓝色起源火星轨道器相关合同最高价值约7亿美元。 | 美国将发布二十国集团（G20）轮值主席国声明，但不会有（达成共识的）联合公报。（英国金融时报） | 据华尔街日报，谷歌公司最快可能将在周三发布Gemini 3.8 Flash。
-谷歌正在筹备一款编程能力更强的全新AI模型，力求缩小与OpenAI以及Anthropic之间的技术差距。
-谷歌A美股盘后涨1.2%。 | 派拓网络预计全年corptex营收将较上年增长大约30%。 | 美股加密货币与加密货币关联指数跌5.04%，报66.38点，跳空低开之后低位震荡。
-00:55
-最近24小时，比特币跌1.96%，暂报77310.62美元，整体持续下挫。
-以太坊跌2.37%，报2414.265美元。
+  - 头版/首屏: 标普500指数期货抹去此前跌幅，现涨0.02%。 | 美国财长贝森特：雪佛龙CEO在管理委内瑞拉资产方面做得非常出色。
+与加拿大的贸易协定对美国物价几乎没有影响。 | 美国能源部长Wright：Betancourt 公司在委内瑞拉一直是称职的运营商。
+该架构将由美国进行监督，并执行法律与合同。
+我们认为这将增强对委内瑞拉法律和合同安全的信心。
+预计到明年上半年，委内瑞拉日产量将远超 150 万桶。
+美国可 | 伊朗称已击落50架美军MQ-9无人机 | 美国商务部长卢特尼克：市场将会趋于稳定。
+债券市场将推动收益率回落。
+如果在美国建厂，将给予关税减免。
+将在半导体领域取得成功。
+会看到有针对性的关税政策。 | Uber盘前涨超1%，公司将在重组中裁员3300人，以减少管理层级。 | 美国8月28日当周MBA抵押贷款申请活动指数周环比 0.8%，前值 -1%。 | 伯克希尔哈撒韦首席执行官格雷格.阿贝尔：伯克希尔哈撒韦对谷歌母公司Alphabet的押注，是受该公司人工智能优势的推动。
+将人工智能数据中心视为伯克希尔哈撒韦能源的重要机会，愿意承接超大规模企业的数据中心能源需求。
+对美国楼市的押注是长期行
+  - 其他: 布伦特原油日内跌幅达0.5%，报94.16美元/桶。 | 沙特称伊朗在霍尔木兹海峡袭击了沙特锡德尔号船只。 | 英国首相伯纳姆：市场动荡源于保守党增加债务的记录。
+我们提前设定预算日期以缩短投机期。
+本届政府将以财政责任为基础。 | 中国人民银行公布2026年第二季度支付体系运行总体情况 | 荷兰央行已将86吨黄金从纽约和渥太华转运至伦敦，以提升黄金的可交易性。（路透）
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Mainland China stepping up preparations for Taiwan blockade, report says | Diplomacy | Xi, Trump and Putin may hold trilateral meeting at next Apec forum, Kremlin says | US military carries out new strikes on Iranian targets as hostilities flare | Education | HKU partners with tech giants to offer AI labs at expanded Shanghai campus | China Business | What tech-driven company earnings say about China’s diverging growth paths
-  - 其他: Defence ministry says PLA exercises are increasingly focused on plans to cut off the island and control air and sea routes. | University’s campus in Zhangjiang Science City, Shanghai, welcomed more than 300 students for new term, with plans to expand intake. | AI demand and local chip substitution spark boom for tech firms, leaving traditional industries far behind. | Economy, Trade & Business | Congress advances new bill to give US edge in open-source AI race with China
+  - 头版/首屏: Iran wins SCO backing against US strikes: will it be enough? | Diplomacy | EU trade enforcers descend on Beijing demanding China fix ‘untenable’ imbalances | Law and Crime | Saleswoman arrested over aggressive sales tactics, third suspect linked to Opatra | US universities curb international student internships following federal warning | China Economy | How Japan fell from China’s tourism top 3 despite record summer travel boom
+  - 其他: Despite strong rhetoric out of Bishkek, support from groupings like the SCO and Brics may be more symbolic than substantial, analysts say. | The restrictions could have a major impact on Chinese students, who often pursue off-campus work experience while studying in the US. | Mainland carriers scrap more than 30 per cent of flights to Japan as travellers turn to South Korea, Thailand and Malaysia. | Watchdog sets integrity standards for government computers to fight misuse | Head of anti-graft agency unveils standards after revealing ICAC found that some computer systems had loopholes.
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 美伊战火重燃油价升破90美元，三桶油绩优可以点拣？ | 8月官方制造业PMI升至49.8 胜预期 | 美袭伊火箭装置 一个月以来首交火 | 宇树神话轰然现形，梅卡曼德值博几多？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25329.73-237.26(-0.93%)
-                    etnet.com.hk@copyright | 国企指数8462.64-50.54(-0.59%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 美加息预期升温，内地修订境外投资规则，地产股可博否 | 外籍个人股息红利不再免税 缴20% | 特或重估马尔维纳斯群岛立场 施压英加军费 | 腾讯“雇佣兵”累蚀49亿，燧原科技造富last call？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25311.21-18.52(-0.07%)
+                    etnet.com.hk@copyright | 国企指数8450.10-12.54(-0.15%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术 | 健康人生
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 美伊衝突再升級，WTI原油站上90美元關口；蘋果上一交易日收漲近3%，特努斯稱下週iPhone發佈將「非同凡響」；三星稱HBM5性能目標提升至HBM4E兩倍；博通今日美股盤後公佈業績 | 戴爾「AI印鈔機」加速：Q2淨利暴增逾兩倍、AI服務器積壓訂單950億美元，全年營收指引猛增至1920億美元 | AI黑客成常態！Palo Alto Networks成最大贏家，2027財年指引全面超預期 | SK海力士硅晶圓採購環比暴增104%：AI存儲軍備競賽下的「搶糧」與漲價博弈 | 美伊三天兩度交火，特朗普放狠話：最終打擊正在醞釀，伊朗或「所剩無幾」，美股受累跳水 | 複雜任務最高降本45%，編程與科研能力大幅提升，Fable 5.1如何撐起Anthropic 2萬億美元估值 | 美債回購「奇招」曇花一現，長債拋售潮捲土重來，30年期收益率重返5.27%干預前高位 | 美股收盤 | 美伊衝突升級，9月首日上演股債雙殺；軟硬件齊挫，IGV跌超3%，SOXX跌超2%；黃金失守4350，油價飆升，比特幣承壓
-  - 其他: 貝森特：霍爾木茲海峽兩年內或被「繞過」，將變成「一文不值的水域」 | 高盛：半導體五大關鍵辯論 | 成交額TOP20 | 蘋果換帥首日大漲3%，新CEO預告下週「非同凡響」；美光臺灣身陷罷工風波；谷歌簽署史上最大地熱電力協議 | OpenAI斷供Cursor引爆編程AI洗牌：巨頭恩怨成導火索，Anthropic加碼算力搶食份額 | 據華爾街日報：谷歌本週將發佈Gemini 3.8 Flash人工智能模型。
+  - 头版/首屏: 戴爾增長邏輯變了！高盛：AI驅動企業換機，傳統服務器需求超預期爆發！ | 70%增長目標還是保守了？英偉達投資者會議「攤牌」：FY28若不受供應限制，業務規模或翻倍！ | 持續半年的伊朗戰爭，打亂聯儲局9月利率決策 | 格雷格·阿貝爾：AI數據中心是伯克希爾能源的重要機會，巴菲特主導了對谷歌投資 | 全球債市拋售潮的「暗雷」：中性利率抬升，主要央行或需更激進加息 | 北水加倉港股近41億港元，淨買入友邦保險超9億港元，淨賣出阿里巴巴逾7億港元 | 恒生指數公司：希音將快速納入恒生綜合指數 | 美團二季報：外賣不虧了，但三季度還有季節性波動
+  - 其他: Circle 與 OKX 合作擴大 USDC 流動性與交易效用 | 2026全球債市「慢熊」來襲：烈度遠遜2022年，但痛苦或更持久 | 收市速睇 | 三大指數跌幅收窄，恒指收盤微跌；科網股漲跌不一，美團漲近3%，小米漲近2%，快手跌近3%；長飛光纖光纜、建滔積層板漲超3% | 黃金賣壓即將枯竭！德銀：鷹派聯儲局也難阻貴金屬走強，下一輪上漲或由主動資金接棒 | 高盛9月「確信名單」更新：美股納入福泰製藥，歐股力推萊茵、Adyen和塔蘭克斯
 
 ## 二、跨站主题（多站出现 = 更重要）
 
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中) (4 站)
-- **美国关税（15%等）** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
-- **加密货币** — 出现于: 华尔街见闻 (简中) (1 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN) (1 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **就业/经济数据** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
+- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
+- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
+- **美联储/利率** — 出现于: SCMP (EN/中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
+- 伊朗/中东局势（5 站）
 - 科技股/个股（5 站）
-- 伊朗/中东局势（4 站）
-- 油价/能源（4 站）
-- 中国/欧盟（4 站）
-- 关税/贸易政策（2 站）
+- 关税/贸易政策（3 站）
+- 油价/能源（3 站）
 - 就业/经济数据（2 站）
-- 黄金/大宗商品（2 站）
-- 加密货币（1 站）
+- 中国/欧盟（2 站）
+- 中国政策（2 站）
+- 黄金/大宗商品（1 站）
 - 美联储/利率（1 站）
-- 中国政策（1 站）
+- 加密货币（0 站）
