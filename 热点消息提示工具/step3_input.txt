@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年9月1日`
+`早间热点线索 · 2026年9月2日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026090120
+抓取时间: 2026090209
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- Software beat chips in August — but September has a rough history
-- Why Toyota and Honda would get hit hardest by Trump's Canadian auto tariffs
-- Two oil supertankers hit by projectiles in Hormuz: Marisks
-- Why Toyota and Honda would get hit hardest by Trump's Canadian auto tariffs
-- Two oil supertankers hit by projectiles in Hormuz: Marisks
-- Ather Energy's 130% stock surge leaves Tesla and BYD behind in 2026
-- FTC and 22 states sue Amazon over inflated advertising prices
-- John Ternus's biggest challenges as Apple's new CEO
-- How you can quickly tell Wall Street still really loves tech stocks
-- Alphabet stock tanks to close out summer on 'brain drain' fears — what's next
-- Wall Street banks push Big Law to cut fees because of AI
+- U.S. markets closed
+- Carney to US: stop ‘throwing shade’ to resume trade talks
+- Trump ramps up pressure on squeezed refiners to ease pump prices
+- Congress sends funding bill to avert US shutdown to Trump
+- Trump ramps up pressure on squeezed refiners to ease pump prices
+- Congress sends funding bill to avert US shutdown to Trump
+- SEC preps plan to widen investor access to private markets
+- US strikes on Iran push Brent oil toward $95 per barrel
+- Dell stock surges on record orders for AI servers
+- Before giving AI more authority, decide what it can decide
+- Tesla touts European supervised self-driving safety data ahead of EU vote
+- OpenAI will limit access to new Astra model's cybersecurity features
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Tech & AI
 - Markets & Economy
-- Stock futures fall as yields rise amid Fed rate-hike fears
-- Global bond selloff sends yields to 2008 highs as inflation fears persist
-- Dollar gains on rate hike expectations
-- Oil prices rise as latest fighting revives Mideast supply risks
+- Global bond yields surge as oil prices fuel inflation worries
+- How soaring Treasury yields could hit your finances
+- July jobs data shows a gridlocked labor market
+- US jobs most likely to grow or shrink in the next decade
 - Popular
-- Freedom Fuel praised by Trump for cheap gas — now accused of not paying a supplier
-- Shein just went public at about 25% of its peak valuation
+- "Greed gone wild": Inside the fake invoice scheme that cost Amazon millions
+- Warren Buffett's 5-minute plan to fix the US deficit
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,74 +145,76 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Goldman Sachs Nasdaq-100 ETF, Nutrien And More: CNBC’s ‘Final Trades’
-- AstraZeneca Shares Dual Oncology Clinical and Regulatory Victories
-- Xpeng Eyes Overseas Expansion And Robotics For New Growth
-- Jim Cramer Warns of ‘Unholy Developments’ Crushing Rate-Cut Hopes as Brent Tops $92 After Strait of Hormuz Attacks
-- NIO Boosts Deliveries and Margins, but Soft Outlook Spoils the Mood
-- Stock Market Today: S&P 500, Dow Futures Drop After Trump Says Iran Is 'Totally Defeated', Brent Tops $92 — CBRS, PXS, PANW, DELL in Focus
+- Tim Cook’s Greatest Contribution Wasn’t Apple Stock Gains But This, Says Market Expert
+- Bank of America Mourns VP Killed in 'Random and Unprovoked' Times Square Stabbing
+- QUICK SPARK: Invesco’s RSP Hits $100 Billion as Equal-Weight ETFs Gain Ground
+- GitLab Shares Jump Over 15% on Strong Q2 Print: Details Inside
+- Partners Group Replaces CEO After Performance Income Drops 39%
+- Dow Jones Industrial Average Dividend Winners: These 5 Stocks Yield 2.9% or More
 - Trade War
-- Analyst Slams Trump’s Energy Promises, Strait of Hormuz Claims: ‘A Painful New Record…’
-- Domino’s Pizza China Operator's H1 Growth Driven By Store Expansion
-- Wall Street's Most Accurate Analysts Spotlight On 3 Utilities Stocks Delivering High-Dividend Yields
+- EXCLUSIVE: DeepSeek Was Just the Start. New ETF Targets China’s AI Tigers in a 'Convergence Trade'
+- Nebius Shares Rise Over 3% After Key Trading Signal
+- Broadcom Q3 Preview: Nvidia Record Results Bring Added Pressure — ‘Has to Prove’
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- GoPro盘前一度大涨超100%，YouTube明星Markiplier晋升为最大股东
-- 李强会见美中贸易全国委员会董事会代表团
-- 瑞幸咖啡宣布董事会批准扩大股票回购计划，将回购授权规模从3亿美元增至5亿美元，有效期延续至原定回购期结束。
-- 蔚来汽车：第二季度营收321.4亿元人民币，同比增长69%，市场预期333.6亿元。
-第二季度汽车销售收入227.8亿元人民币，同比增长41%，市场预期298.3亿元。
-第二季度交付量107,658辆，同比增长49%，市场预期111,501
-- 纳斯达克100指数期货跌幅扩大至1%。
-- 对冲基金Jain Global自2024年成立以来两年内赚取了18亿美元。
-- 纳斯达克100期货跌幅扩大至0.5%，至日内低点。
-- 伊朗通过拉腊克岛管控霍尔木兹海峡
-- 郭明錤：英伟达重启推理预填充优化芯片Rubin CPX项目
-- 小鹏集团碳中和绿色ABS成功发行
-- 商务部等三部门：企业应加强境外反垄断合规建设，有效识别、评估和管控各类反垄断法律风险，诚信守法、公平竞争。
-- 商务部等三部门：企业应加强对东道国（地区）政治形势、宏观经济、社会安全、汽车产业等各方面风险研判，完善生产安全事故应急处理预案，定期排查风险隐患，提高境外安全生产管理水平。
+- 伊朗革命卫队：对在伊拉克的一处美军基地发动打击
+- 报道：Cognition拟以470亿美元估值融资约10亿美元
+- 英伟达本周即将达成以近140亿美元收购Hugging Face的交易。（彭博）
+- 特朗普提名高雄出任下一任美国海军部长
+- 戴尔分析师电话会议：AI浪潮有望给本公司带来超1万亿美元潜在市场机会
+- PANW分析师电话会议要点总结
+- 伊朗称袭击约旦哈桑王子空军基地 摧毁多架无人机
+- 华尔街见闻早餐 | 2026年9月2日
+- Credo分析师电话会议要点总结
+- 美国总统特朗普：阿什维尔G20会议进行了富有成效、积极的对话。
+- 伊朗官方媒体IRIB：伊斯兰革命卫队向约旦的美国空军基地发动导弹打击。
+- 美驻卡塔尔使馆发布安全警报 称存在局势升级可能
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 16家企业签署合作协议 服贸会“朋友圈”进一步扩大
-- 博纳影业：公司AI影视剧业务目前仍处于业务发展的早期阶段，相关技术路径、商业模式及市场接受度尚需持续验证。根据《2026年半年度报告》显示，2026年上半年，公司AI影视剧业务营业收入193.23万元，占公司整体营业收入的比例为0.42%。
-- 日本财务大臣片山皋月：（被问及10年期日本国债收益率升至3%以上时）将继续与市场保持密切对话。
-日本将继续努力同时实现强劲增长与财政可持续性。
-- 特朗普“密友”戴安斯再度访华，中美近期各领域互动频密
-- 国民技术：为持续全线提升公司MCU产品技术竞争优势，在嵌入式存储MCU技术优势外，进一步增强NOR Flash外置存储MCU定制化技术优势，公司拟使用公司H股“战略投资及收购”专项募集资金人民币6,000万元，按照投前估值5.90亿元参与认
-- 文件显示： 俄罗斯政府将2026年石油产量预测下调至4.942亿吨，为17年来最低水平。
- 俄罗斯政府将2026年石油产品出口预测下调2410万吨至9850万吨。
- 俄罗斯政府将2026年原油出口预测上调750万吨至2.447亿吨。
-- “豆包手机”获入网许可 9月上市销售
-- 长城汽车：8月公司汽车销量11.34万辆，同比下降1.87%。
-- 中际旭创：首次回购公司股份37.41万股，支付3.18亿元
-- 乘联分会崔东树：1-7月世界汽车销量达到5611万台
+- 美国国家航空航天局（NASA）授予蓝色起源火星通信网络项目合同。
+贝佐斯旗下蓝色起源火星轨道器相关合同最高价值约7亿美元。
+- 美国将发布二十国集团（G20）轮值主席国声明，但不会有（达成共识的）联合公报。（英国金融时报）
+- 据华尔街日报，谷歌公司最快可能将在周三发布Gemini 3.8 Flash。
+谷歌正在筹备一款编程能力更强的全新AI模型，力求缩小与OpenAI以及Anthropic之间的技术差距。
+谷歌A美股盘后涨1.2%。
+- 派拓网络预计全年corptex营收将较上年增长大约30%。
+- 美股加密货币与加密货币关联指数跌5.04%，报66.38点，跳空低开之后低位震荡。
+00:55
+最近24小时，比特币跌1.96%，暂报77310.62美元，整体持续下挫。
+以太坊跌2.37%，报2414.265美元。
+- 周二（9月1日）纽约尾盘，标普500股指期货最终跌0.63%，道指期货跌0.75%，纳斯达克100股指期货跌1.26%。
+罗素2000股指期货跌1.15%。
+- 戴尔：公司全年运营费用率约为营收的8%，为该公司42年历史上最低水平。
+- 戴尔科技CFO：在客户解决方案集团业务中，将继续平衡客户需求与供应可得性，以实现盈利性份额增长。
+- 明晟公司MSCI新兴市场股票指数找那个0.5%，外汇指数涨0.1%。
+- 伊朗伊斯兰革命卫队：已对约旦亚喀巴湾附近的美军海军陆战队基地蒂丁营地实施大规模弹道导弹打击，此次袭击造成美军重大人员伤亡，摧毁多处关键设施以及攻击直升机。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Trump envoy Daines visits Chinese AI, space firms ahead of Xi summit in US
-- Military
-- How China’s revised defence law could harness AI and drones for war
-- Society
-- Subdivided-flat registration rate at 42.5% as ‘early bird’ phase deadline passes
-- Politics
-- Glacier risk hangs over China-Nepal border as region remembers mudslide victims
+- Mainland China stepping up preparations for Taiwan blockade, report says
+- Diplomacy
+- Xi, Trump and Putin may hold trilateral meeting at next Apec forum, Kremlin says
+- US military carries out new strikes on Iranian targets as hostilities flare
+- Education
+- HKU partners with tech giants to offer AI labs at expanded Shanghai campus
 - China Business
+- What tech-driven company earnings say about China’s diverging growth paths
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Montana Republican’s trip coincides with intensifying tech war that has become a core front in the US-China strategic rivalry.
-- Emergency crews and residents stop to commemorate the more than 1,000 dead in last week’s disaster.
-- China ends dividend tax exemption for expats, applying 20% rate
-- The exemption previously enjoyed by overseas nationals on gains from foreign-funded firms in China was cancelled in an announcement on Tuesday.
-- China Economy
-- China’s 3 major airlines bet on global demand to offset deep losses: analysts
-- Chinese carriers choose low fares, long-term expansion as regional conflicts and weak domestic demand affect revenues.
-- Science
-- Swedish chip expert Henry Homayoun Radamson dies in China of ‘sudden illness’
-- Sudden death of Guangdong-based researcher, who specialised in the medical use of technology, leaves a ‘profound void’.
+- Defence ministry says PLA exercises are increasingly focused on plans to cut off the island and control air and sea routes.
+- University’s campus in Zhangjiang Science City, Shanghai, welcomed more than 300 students for new term, with plans to expand intake.
+- AI demand and local chip substitution spark boom for tech firms, leaving traditional industries far behind.
+- Economy, Trade & Business
+- Congress advances new bill to give US edge in open-source AI race with China
+- Legislation to promote adoption of US open-source models while publicising the risks associated with using their Chinese counterparts.
+- People
+- North Korea’s next ruler? Kim Jong-un’s daughter, Seoul’s spies say
+- She has the leather coat and state media backing, but analysts say Kim Ju-ae’s youth and gender will complicate her rise.
+- Lifestyle
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 比亚迪多赚三成仍逊预期,股价急插逾半成,可否趁低吸？
+- 美伊战火重燃油价升破90美元，三桶油绩优可以点拣？
 - 8月官方制造业PMI升至49.8 胜预期
 - 美袭伊火箭装置 一个月以来首交火
 - 宇树神话轰然现形，梅卡曼德值博几多？
@@ -237,35 +239,36 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 霍爾木茲油輪遇襲推升油價，美股三大期指跳水，全球債市拋售加劇，黃金失守4400美元
-- 全球債市「壓艙石」鬆動：日本10年期收益率重返3%意味着什麼？多位專家解讀
-- 郭明錤：英偉達重啓推理預填充優化芯片Rubin CPX項目
-- 蘋果(AAPL.US)正式完成「換帥」：庫克遞出4.6萬億美元「封神答卷」，特納斯能否續寫？
-- 蔚來Q2營收同比增69%，毛利率升至18.4%，Q3營收指引332.9億-340.5億
-- 高盛堅定看好阿里：算力投入或在3年內回本，雲業務加速，2030年外部雲收入劍指千億美元
-- 北水掃貨港股超77億港元，淨買入騰訊控股超11億港元，加倉MINIMAX逾7億港元；淨賣出美團逾5億港元
-- 貝森特與植田和男會面看點：雙方就加快加息達成共識，「安倍經濟學」或走向終結
+- 富途早報 | 美伊衝突再升級，WTI原油站上90美元關口；蘋果上一交易日收漲近3%，特努斯稱下週iPhone發佈將「非同凡響」；三星稱HBM5性能目標提升至HBM4E兩倍；博通今日美股盤後公佈業績
+- 戴爾「AI印鈔機」加速：Q2淨利暴增逾兩倍、AI服務器積壓訂單950億美元，全年營收指引猛增至1920億美元
+- AI黑客成常態！Palo Alto Networks成最大贏家，2027財年指引全面超預期
+- SK海力士硅晶圓採購環比暴增104%：AI存儲軍備競賽下的「搶糧」與漲價博弈
+- 美伊三天兩度交火，特朗普放狠話：最終打擊正在醞釀，伊朗或「所剩無幾」，美股受累跳水
+- 複雜任務最高降本45%，編程與科研能力大幅提升，Fable 5.1如何撐起Anthropic 2萬億美元估值
+- 美債回購「奇招」曇花一現，長債拋售潮捲土重來，30年期收益率重返5.27%干預前高位
+- 美股收盤 | 美伊衝突升級，9月首日上演股債雙殺；軟硬件齊挫，IGV跌超3%，SOXX跌超2%；黃金失守4350，油價飆升，比特幣承壓
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 收市速睇 | 三大指數齊跌，科指跌1.49%；科網股普跌，阿里、京東跌超3%；8月交付數據出爐，蔚來跌超6%；希音上市首日收跌0.12%，盤中一度跌約10%
-- 主權債息創2008年新高！美日國債相繼破位，全球債市爲何全線潰敗？
-- 今年蘋果發佈會最大的懸念，不是摺疊屏
-- Strategy重啓BTC買入：STRC脫錨危機，終於階段性緩解？
-- 造車新勢力8月數據：零跑單月交付再破10萬；小鵬、理想、蔚來維持3-4萬輛區間
-- 港股內銀股延續近期漲勢，工中建交等多家大行創歷史新高，六大行分紅比例將集體提升至31%
-- 韓國公佈2027年創紀錄預算案！芯片紅利全面注入AI與國防
-- 英矽智能上揚，公司聯合國際團隊，揭示阿爾茨海默病新靶點與早期生物標誌物
-- 中金：如何理解沃什的態度轉向？聯儲局面臨「三重約束」
-- 蔚來8月交付35836輛汽車，同比增長14.5%
+- 貝森特：霍爾木茲海峽兩年內或被「繞過」，將變成「一文不值的水域」
+- 高盛：半導體五大關鍵辯論
+- 成交額TOP20 | 蘋果換帥首日大漲3%，新CEO預告下週「非同凡響」；美光臺灣身陷罷工風波；谷歌簽署史上最大地熱電力協議
+- OpenAI斷供Cursor引爆編程AI洗牌：巨頭恩怨成導火索，Anthropic加碼算力搶食份額
+- 據華爾街日報：谷歌本週將發佈Gemini 3.8 Flash人工智能模型。
+- 三星公佈下一代存儲路線圖：HBM5性能爲HBM4E的2倍，zHBM加速性能提升8倍
+- Palo Alto Networks2026財年Q4營收34.1億美元，同比增長30%；調整後EPS1.02美元
+- MongoDB 2027財年Q2營收7.72億美元，同比增長30%；調整後EPS 1.90美元
+- Credo Technology2027財年Q1營收4.79億美元，同比增長114.7%；調整後EPS1.20美元，非GAAP毛利率爲68.0%
+- 戴爾科技2027財年Q2營收470億美元，同比增長58%；調整後EPS7.04美元，強勢上調全年營收指引
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
-- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 加密货币: Yahoo Finance (EN), 富途资讯 (繁中)
-- 黄金/大宗: Benzinga (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
+- 美国关税: Benzinga (EN), 华尔街见闻 (简中)
+- 就业数据: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 黄金/大宗: 华尔街见闻 (简中), SCMP (EN/中)
+- 加密货币: 华尔街见闻 (简中)
+- 美联储: Yahoo Finance (EN)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
