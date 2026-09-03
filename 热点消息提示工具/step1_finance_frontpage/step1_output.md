@@ -3,36 +3,32 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 30m | Nvidia's next act is bigger than selling AI chips | Where will the $100B funding come from in Trump's Venezuela oil deal? | US diesel hits highest since April as wars strain global supply | Where will the $100B funding come from in Trump's Venezuela oil deal? | US diesel hits highest since April as wars strain global supply | Bessent's bond gains wiped out as 30-year yields jump once again | Chevron expands Venezuela position, to invest $7B in next 5 years
-  - 其他: Top Stories | Tech & AI | Markets & Economy | Stock futures fall as US-Iran war escalates, inflation jitters return | Oil prices fall after hitting over one-month high; traders weigh supply risks
+  - 头版/首屏: U.S. markets closed | White House and ship trackers disagree over what’s getting through the Strait of Hormuz | TikTok backs out of House meeting to avoid kids safety questions | Goldman Sachs warns investors to expect lower returns over the next year | TikTok backs out of House meeting to avoid kids safety questions | Goldman Sachs warns investors to expect lower returns over the next year | Trump says Iran strikes to be short, asserts Hormuz control | Snowflake stock soars on upbeat outlook as CEO touts AI 'flywheel'
+  - 其他: Top Stories | Tech & AI | Markets & Economy | Oil holds three-day gain as Trump says Iran strikes to be brief | Australian earnings beat estimates for first time in four years
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Sponsored Content | Why Is It Moving?™ | Trending Stories | Expert Ideas
-  - 其他: Jim Cramer Says This Tech Stock Is Up 40% For The Year: It Is A ‘Great’ Company | CLARITY Act Faces Make-or-Break September: What Do Prediction Markets Say? | How To Earn $500 A Month From NetApp Stock Ahead Of Q1 Earnings | Russia Is Secretly Helping Iran Build Advanced Supersonic Missiles, Report Says — Moscow’s Engineers Are Sharing Technology That Could Threaten US Warships | Hewlett Packard Enterprise Likely To Report Higher Q3 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+  - 其他: Jeff Bezos’ Father Fled Cuba Alone at 16 — His Mother Made Him a Heavy Coat From Cleaning Rags: 'My Dad's Story Really Shows That People Help Each Other' | Bitcoin Rallied 25% in August but You May Not Want to Get Too Excited | Datadog Stock Jumps After the Close: Here's Why | Can Bitcoin Treasury Firms Become the Next Berkshire Hathaway? | Five Below Stock Pops After Q2 Results Impress: Details Inside
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 标普500指数期货抹去此前跌幅，现涨0.02%。 | 美国财长贝森特：雪佛龙CEO在管理委内瑞拉资产方面做得非常出色。
-与加拿大的贸易协定对美国物价几乎没有影响。 | 美国能源部长Wright：Betancourt 公司在委内瑞拉一直是称职的运营商。
-该架构将由美国进行监督，并执行法律与合同。
-我们认为这将增强对委内瑞拉法律和合同安全的信心。
-预计到明年上半年，委内瑞拉日产量将远超 150 万桶。
-美国可 | 伊朗称已击落50架美军MQ-9无人机 | 美国商务部长卢特尼克：市场将会趋于稳定。
-债券市场将推动收益率回落。
-如果在美国建厂，将给予关税减免。
-将在半导体领域取得成功。
-会看到有针对性的关税政策。 | Uber盘前涨超1%，公司将在重组中裁员3300人，以减少管理层级。 | 美国8月28日当周MBA抵押贷款申请活动指数周环比 0.8%，前值 -1%。 | 伯克希尔哈撒韦首席执行官格雷格.阿贝尔：伯克希尔哈撒韦对谷歌母公司Alphabet的押注，是受该公司人工智能优势的推动。
-将人工智能数据中心视为伯克希尔哈撒韦能源的重要机会，愿意承接超大规模企业的数据中心能源需求。
-对美国楼市的押注是长期行
-  - 其他: 布伦特原油日内跌幅达0.5%，报94.16美元/桶。 | 沙特称伊朗在霍尔木兹海峡袭击了沙特锡德尔号船只。 | 英国首相伯纳姆：市场动荡源于保守党增加债务的记录。
-我们提前设定预算日期以缩短投机期。
-本届政府将以财政责任为基础。 | 中国人民银行公布2026年第二季度支付体系运行总体情况 | 荷兰央行已将86吨黄金从纽约和渥太华转运至伦敦，以提升黄金的可交易性。（路透）
+  - 头版/首屏: 伊朗称新战略将摧毁敌方根基 | 美国新泽西州请求最高法院审理预测市场管辖权争议 | 特朗普：与委内瑞拉合作非常好。 | 特朗普：我们在伊朗问题上进展非常顺利，我们现在控制霍尔木兹海峡。 | 博通分析师电话会议要点总结 | 华尔街见闻早餐 | 2026年9月3日 | 白宫：特朗普今日签署了临时拨款法案使其成法。 | 福特汽车将电动卡车Fathom Truck上市后第一年销售目标定在超过10万辆，起售价3万美元。
+  - 其他: Snowflake美股盘后涨18%。
+该公司二季度营收15.5亿美元，分析师预期14.9亿美元。
+二季度产品收入14.9亿美元，分析师预期14.2亿美元。
+二季度调整后、稀释后每股收益（EPS）为0.62美元，分析师预期0.45美元。
+预计 | C3.ai第一财季营收5240万美元，分析师预期5230万美元。
+维持全年营收预期在2.10亿-2.40亿美元不变，分析师预期2.272亿美元。
+预计第二财季营收5100万-5500万美元，分析师预期5680万美元。
+C3.ai美股盘后涨7 | 惠与（HPE）第三财季净营收122.1亿美元，分析师预期119亿美元。
+预计全年调整后每股收益（EPS）为3.75-3.85美元，公司原本预计3.35-3.45美元。
+惠与美股盘后转而下跌7%。 | 标普500指数的11个板块中，原材料板块收涨1.54%，电信板块涨1.16%，信息技术/科技板块涨0.33%，能源板块涨0.32%，房地产板块则跌0.79%。 | 周三（9月2日），彭博电动汽车价格回报指数跌1.65%，报3385.97点，亚太盘初低开低走、北京时间08:00-10:00跌幅突出，随后在持续低位震荡行情中逐步微弱地收复失地。
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Iran wins SCO backing against US strikes: will it be enough? | Diplomacy | EU trade enforcers descend on Beijing demanding China fix ‘untenable’ imbalances | Law and Crime | Saleswoman arrested over aggressive sales tactics, third suspect linked to Opatra | US universities curb international student internships following federal warning | China Economy | How Japan fell from China’s tourism top 3 despite record summer travel boom
-  - 其他: Despite strong rhetoric out of Bishkek, support from groupings like the SCO and Brics may be more symbolic than substantial, analysts say. | The restrictions could have a major impact on Chinese students, who often pursue off-campus work experience while studying in the US. | Mainland carriers scrap more than 30 per cent of flights to Japan as travellers turn to South Korea, Thailand and Malaysia. | Watchdog sets integrity standards for government computers to fight misuse | Head of anti-graft agency unveils standards after revealing ICAC found that some computer systems had loopholes.
+  - 头版/首屏: In Focus | The world at home: why more Chinese are opting for Sino-foreign universities | Diplomacy | Trump can’t wait for Xi’s Washington visit, but claims US leads China in AI race | Law and Crime | In Focus | Nude photo became a sticker: Hong Kong women say image abuse thrives despite law | New Zealand ‘must never be seen as a proxy’, former PM Helen Clark warns | Business | ‘What you see is what you get’: China’s new home finance rules reduce buyer risk
+  - 其他: China’s growing number of educational joint ventures receive more applicants as students seek a simpler path to an international edge. | Calling the US Pacific strategy a ‘game of bluff’, Clark urges Wellington to defend its independent foreign policy tradition. | Analysts say lower mortgage payments alone may not persuade buyers to jump in while prices remain under pressure. | Politics | US lawmakers target China, birth tourism as citizenship fight intensifies
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 美加息预期升温，内地修订境外投资规则，地产股可博否 | 外籍个人股息红利不再免税 缴20% | 特或重估马尔维纳斯群岛立场 施压英加军费 | 腾讯“雇佣兵”累蚀49亿，燧原科技造富last call？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 蔚来次季转盈第三季逊预期，股价插逾半成未宜沾手？ | 外籍个人股息红利不再免税 缴20% | 特或重估马尔维纳斯群岛立场 施压英加军费 | 车企股价齐躺平，决战“双轮＋AI”求存 | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数25311.21-18.52(-0.07%)
                     etnet.com.hk@copyright | 国企指数8450.10-12.54(-0.15%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术 | 健康人生
@@ -40,30 +36,31 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 戴爾增長邏輯變了！高盛：AI驅動企業換機，傳統服務器需求超預期爆發！ | 70%增長目標還是保守了？英偉達投資者會議「攤牌」：FY28若不受供應限制，業務規模或翻倍！ | 持續半年的伊朗戰爭，打亂聯儲局9月利率決策 | 格雷格·阿貝爾：AI數據中心是伯克希爾能源的重要機會，巴菲特主導了對谷歌投資 | 全球債市拋售潮的「暗雷」：中性利率抬升，主要央行或需更激進加息 | 北水加倉港股近41億港元，淨買入友邦保險超9億港元，淨賣出阿里巴巴逾7億港元 | 恒生指數公司：希音將快速納入恒生綜合指數 | 美團二季報：外賣不虧了，但三季度還有季節性波動
-  - 其他: Circle 與 OKX 合作擴大 USDC 流動性與交易效用 | 2026全球債市「慢熊」來襲：烈度遠遜2022年，但痛苦或更持久 | 收市速睇 | 三大指數跌幅收窄，恒指收盤微跌；科網股漲跌不一，美團漲近3%，小米漲近2%，快手跌近3%；長飛光纖光纜、建滔積層板漲超3% | 黃金賣壓即將枯竭！德銀：鷹派聯儲局也難阻貴金屬走強，下一輪上漲或由主動資金接棒 | 高盛9月「確信名單」更新：美股納入福泰製藥，歐股力推萊茵、Adyen和塔蘭克斯
+  - 头版/首屏: 富途早報 | 特朗普安撫市場後油價漲勢暫歇；英偉達稱FY28 70%同比增長非需求端上限，微軟十餘年來首次大改業績結構；績優股Snowflake夜盤大漲超23%；特斯拉今日舉行Cybercab發佈會 | 博通上季營收增86%，AI芯片收入增兩倍，本季指引「瑕疵」但AI收入料三年高增 | 傑富瑞：Workbuddy「開放共贏」，Harness成騰訊「皇冠上的明珠」 | 「小非農」低於預期！美國8月ADP新增就業3.8萬人，創下今年以來最低單月增長紀錄 | 特朗普稱對伊朗新一輪打擊不會「持續太久」，油價漲勢暫歇 | 美國8月非農明晚來襲！美銀：僅是「開胃菜」 維持聯儲局9月加息預期 | 新股消息 | 傳月之暗面向港交所祕密交表 正式啓動IPO | AI服務器與網絡需求「爆單」難解供應鏈之困 慧與科技 Q3業績超預期盤後仍跳水
+  - 其他: 霍爾木茲海峽要改名「特朗普海峽」？特朗普又放話：中期選舉不會影響伊朗戰爭 | 微軟業績大變革：Azure營收按季披露，與Office業務合併命名爲「Agents and Infra」 | 博通電話會：未來兩年AI收入將連續翻倍至2300億美元，定製芯片性能「不輸GPU且成本減半」 | 成交額TOP20 | 戴爾大漲15%，AI倒逼企業換機潮；Meta發佈新一代AI，直言躋身第一梯隊；英偉達漲超3%，黃仁勳放話萬億美元投資 | 微軟十餘年來首次大改業績結構：雲計算單獨成軍！
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中) (3 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
-- **就业/经济数据** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
-- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (6 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
+- **美国关税（15%等）** — 出现于: Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中) (4 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
+- **就业/经济数据** — 出现于: Benzinga (EN), SCMP (EN/中), 富途资讯 (繁中) (3 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **中国/欧盟** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
-- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
-- **美联储/利率** — 出现于: SCMP (EN/中) (1 站)
+- **加密货币** — 出现于: Benzinga (EN) (1 站)
+- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 伊朗/中东局势（5 站）
-- 科技股/个股（5 站）
-- 关税/贸易政策（3 站）
-- 油价/能源（3 站）
-- 就业/经济数据（2 站）
+- 科技股/个股（6 站）
+- 伊朗/中东局势（4 站）
+- 关税/贸易政策（4 站）
+- 油价/能源（4 站）
+- 就业/经济数据（3 站）
+- 黄金/大宗商品（2 站）
 - 中国/欧盟（2 站）
 - 中国政策（2 站）
-- 黄金/大宗商品（1 站）
+- 加密货币（1 站）
 - 美联储/利率（1 站）
-- 加密货币（0 站）

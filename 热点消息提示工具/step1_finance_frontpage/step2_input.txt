@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026090220
+抓取时间: 2026090309
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- Nvidia's next act is bigger than selling AI chips
-- Where will the $100B funding come from in Trump's Venezuela oil deal?
-- US diesel hits highest since April as wars strain global supply
-- Where will the $100B funding come from in Trump's Venezuela oil deal?
-- US diesel hits highest since April as wars strain global supply
-- Bessent's bond gains wiped out as 30-year yields jump once again
-- Chevron expands Venezuela position, to invest $7B in next 5 years
-- Apple rallies on day Ternus takes helm—how to protect the stock for almost nothing
+- U.S. markets closed
+- White House and ship trackers disagree over what’s getting through the Strait of Hormuz
+- TikTok backs out of House meeting to avoid kids safety questions
+- Goldman Sachs warns investors to expect lower returns over the next year
+- TikTok backs out of House meeting to avoid kids safety questions
+- Goldman Sachs warns investors to expect lower returns over the next year
+- Trump says Iran strikes to be short, asserts Hormuz control
+- Snowflake stock soars on upbeat outlook as CEO touts AI 'flywheel'
+- Tax breaks for Big Tech data centers lose states billions in revenue
 - Amazon stock just entered the danger zone
-- What Dell and Nvidia just proved to the AI stock haters
-- Here's the biggest thing keeping AI stock investors up at night
+- Broadcom stock sinks as chipmaker fails 'to keep investors happy'
+- Trump administration backs OpenAI in copyright battle
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Tech & AI
 - Markets & Economy
-- Stock futures fall as US-Iran war escalates, inflation jitters return
-- Oil prices fall after hitting over one-month high; traders weigh supply risks
-- Dollar hits two-week high as Middle East conflict, rate paths in focus
-- How soaring Treasury yields could hit your finances
+- Oil holds three-day gain as Trump says Iran strikes to be brief
+- Australian earnings beat estimates for first time in four years
+- Your grocery bill could rise even faster next year — here's why
+- Amazon, Walmart face data requests in DOJ beef antitrust probe
 - Popular
-- GitLab stock soars after Q2 revenue jumps as AI demand drives bookings
-- Trump calls data center opponents 'backwards and poor'
+- Boomers' $90T wealth is making America 'G-shaped'
+- Trump expands drug pricing deals with 9 pharma companies
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,86 +42,85 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Jim Cramer Says This Tech Stock Is Up 40% For The Year: It Is A ‘Great’ Company
-- CLARITY Act Faces Make-or-Break September: What Do Prediction Markets Say?
-- How To Earn $500 A Month From NetApp Stock Ahead Of Q1 Earnings
-- Russia Is Secretly Helping Iran Build Advanced Supersonic Missiles, Report Says — Moscow’s Engineers Are Sharing Technology That Could Threaten US Warships
-- Hewlett Packard Enterprise Likely To Report Higher Q3 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
-- Stock Market Today: Nasdaq 100, S&P 500 Futures Fall as US-Iran Tensions Escalate — DELL, PANW, MDB, AVGO in Focus
+- Jeff Bezos’ Father Fled Cuba Alone at 16 — His Mother Made Him a Heavy Coat From Cleaning Rags: 'My Dad's Story Really Shows That People Help Each Other'
+- Bitcoin Rallied 25% in August but You May Not Want to Get Too Excited
+- Datadog Stock Jumps After the Close: Here's Why
+- Can Bitcoin Treasury Firms Become the Next Berkshire Hathaway?
+- Five Below Stock Pops After Q2 Results Impress: Details Inside
+- EXCLUSIVE: Anthropic Is Now 15% of a Photonics ETF. Its CEO Names the 3 Bottlenecks Behind the Bet
+- Jobs Report
+- 10-Year Treasury Yield
 - Trade War
-- Why Is Dell Technologies Stock Surging Wednesday?
-- AOC Fires Back at Trump Over Data Centers After President’s ‘Let Data Reign’ Call: ‘How About We Put One in Mar-a-Lago?’
-- Wall Street's Most Accurate Analysts Weigh In On 3 Consumer Stocks With Over 3% Dividend Yields
+- The Private Equity Pizza Playbook Is Getting Tested Again With Pizza Hut
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 标普500指数期货抹去此前跌幅，现涨0.02%。
-- 美国财长贝森特：雪佛龙CEO在管理委内瑞拉资产方面做得非常出色。
-与加拿大的贸易协定对美国物价几乎没有影响。
-- 美国能源部长Wright：Betancourt 公司在委内瑞拉一直是称职的运营商。
-该架构将由美国进行监督，并执行法律与合同。
-我们认为这将增强对委内瑞拉法律和合同安全的信心。
-预计到明年上半年，委内瑞拉日产量将远超 150 万桶。
-美国可
-- 伊朗称已击落50架美军MQ-9无人机
-- 美国商务部长卢特尼克：市场将会趋于稳定。
-债券市场将推动收益率回落。
-如果在美国建厂，将给予关税减免。
-将在半导体领域取得成功。
-会看到有针对性的关税政策。
-- Uber盘前涨超1%，公司将在重组中裁员3300人，以减少管理层级。
-- 美国8月28日当周MBA抵押贷款申请活动指数周环比 0.8%，前值 -1%。
-- 伯克希尔哈撒韦首席执行官格雷格.阿贝尔：伯克希尔哈撒韦对谷歌母公司Alphabet的押注，是受该公司人工智能优势的推动。
-将人工智能数据中心视为伯克希尔哈撒韦能源的重要机会，愿意承接超大规模企业的数据中心能源需求。
-对美国楼市的押注是长期行
-- 乘联分会称，根据月度初步乘联数据综合：2026年8月全国乘用车厂商新能源批发预估151万辆，同比增长16%，环比增长4%。
-- 报道：伊朗曾试图对美国基础设施发动网络攻击
-- 沙特一船只在霍尔木兹海峡发生事故，2人遇难
-- 纳斯达克100指数期货跌幅扩大至0.5%。
-欧洲斯托克600指数跌幅扩大至0.5%。
+- 伊朗称新战略将摧毁敌方根基
+- 美国新泽西州请求最高法院审理预测市场管辖权争议
+- 特朗普：与委内瑞拉合作非常好。
+- 特朗普：我们在伊朗问题上进展非常顺利，我们现在控制霍尔木兹海峡。
+- 博通分析师电话会议要点总结
+- 华尔街见闻早餐 | 2026年9月3日
+- 白宫：特朗普今日签署了临时拨款法案使其成法。
+- 福特汽车将电动卡车Fathom Truck上市后第一年销售目标定在超过10万辆，起售价3万美元。
+- Palo Alto Networks按5亿美元（现金+股票）收购Console。（TechCrunch）
+- 丰田将把美国产电动汉兰达SUV的上市时间从2026年下半年推迟至2027年或更晚。
+- 提醒：日内请重点关注（以下均为北京时间）
+- 野村将组建新的债券承销部门。（日经新闻）
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 布伦特原油日内跌幅达0.5%，报94.16美元/桶。
-- 沙特称伊朗在霍尔木兹海峡袭击了沙特锡德尔号船只。
-- 英国首相伯纳姆：市场动荡源于保守党增加债务的记录。
-我们提前设定预算日期以缩短投机期。
-本届政府将以财政责任为基础。
-- 中国人民银行公布2026年第二季度支付体系运行总体情况
-- 荷兰央行已将86吨黄金从纽约和渥太华转运至伦敦，以提升黄金的可交易性。（路透）
-- 中国船舶：下属子公司联合签订逾10亿美元造船合同
-- 美国商务部长卢特尼克：加拿大对美国“缺乏尊重”。
-- 8月A股新开户239.73万户
-- 中国东航董事长王志清：进一步精细成本管控 积极参与浦东机场四期扩建
-- 泽连斯基任命乌克兰陆军司令
+- Snowflake美股盘后涨18%。
+该公司二季度营收15.5亿美元，分析师预期14.9亿美元。
+二季度产品收入14.9亿美元，分析师预期14.2亿美元。
+二季度调整后、稀释后每股收益（EPS）为0.62美元，分析师预期0.45美元。
+预计
+- C3.ai第一财季营收5240万美元，分析师预期5230万美元。
+维持全年营收预期在2.10亿-2.40亿美元不变，分析师预期2.272亿美元。
+预计第二财季营收5100万-5500万美元，分析师预期5680万美元。
+C3.ai美股盘后涨7
+- 惠与（HPE）第三财季净营收122.1亿美元，分析师预期119亿美元。
+预计全年调整后每股收益（EPS）为3.75-3.85美元，公司原本预计3.35-3.45美元。
+惠与美股盘后转而下跌7%。
+- 标普500指数的11个板块中，原材料板块收涨1.54%，电信板块涨1.16%，信息技术/科技板块涨0.33%，能源板块涨0.32%，房地产板块则跌0.79%。
+- 周三（9月2日），彭博电动汽车价格回报指数跌1.65%，报3385.97点，亚太盘初低开低走、北京时间08:00-10:00跌幅突出，随后在持续低位震荡行情中逐步微弱地收复失地。
+- NetAPP第一财季净营收20.3亿美元，分析师预期18.3亿美元。
+- 派拓网络PANW收跌9.3%，创逾两年来最差单日表现。
+北美科技软件股指数ETF收跌2.6%，报103.42美元。
+Global X网络安全ETF跌2.36%，纳斯达克网络安全ETF跌2.77%，ETFMG网络安全ETF跌2.21%。
+- 中概指数、CQQQ至多收跌0.1%，蔚来跌超4.9%，阿里跌超0.9%，再鼎医药涨超4.6%
+- 纳指收涨超0.4%，半导体指数涨超0.4%，小盘股指涨超1.1%，银行指数涨约1.6%
+- 周三（9月2日）纽约尾盘，彭博谷物分类指数跌0.74%，报35.6390点，日内主要低位震荡——持稳于35.40点附近，美股开盘之后一度反弹转涨。
+CBOT玉米期货跌0.64%，CBOT小麦期货跌0.99%。
+CBOT大豆期货跌0.84%，
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Iran wins SCO backing against US strikes: will it be enough?
+- In Focus | The world at home: why more Chinese are opting for Sino-foreign universities
 - Diplomacy
-- EU trade enforcers descend on Beijing demanding China fix ‘untenable’ imbalances
+- Trump can’t wait for Xi’s Washington visit, but claims US leads China in AI race
 - Law and Crime
-- Saleswoman arrested over aggressive sales tactics, third suspect linked to Opatra
-- US universities curb international student internships following federal warning
-- China Economy
-- How Japan fell from China’s tourism top 3 despite record summer travel boom
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Despite strong rhetoric out of Bishkek, support from groupings like the SCO and Brics may be more symbolic than substantial, analysts say.
-- The restrictions could have a major impact on Chinese students, who often pursue off-campus work experience while studying in the US.
-- Mainland carriers scrap more than 30 per cent of flights to Japan as travellers turn to South Korea, Thailand and Malaysia.
-- Watchdog sets integrity standards for government computers to fight misuse
-- Head of anti-graft agency unveils standards after revealing ICAC found that some computer systems had loopholes.
-- Tech
-- ‘Slop’ purge: Chinese watchdog scrubs millions of harmful AI posts
-- Clampdown sweeps across 2,400 websites and apps as cyberspace watchdog escalates fight against generative tech abuse.
+- In Focus | Nude photo became a sticker: Hong Kong women say image abuse thrives despite law
+- New Zealand ‘must never be seen as a proxy’, former PM Helen Clark warns
 - Business
+- ‘What you see is what you get’: China’s new home finance rules reduce buyer risk
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- China’s growing number of educational joint ventures receive more applicants as students seek a simpler path to an international edge.
+- Calling the US Pacific strategy a ‘game of bluff’, Clark urges Wellington to defend its independent foreign policy tradition.
+- Analysts say lower mortgage payments alone may not persuade buyers to jump in while prices remain under pressure.
+- Politics
+- US lawmakers target China, birth tourism as citizenship fight intensifies
+- Congressional hearings put Chinese birth tourism in the spotlight as the Trump administration presses its challenge to automatic citizenship.
+- Chinese culture
+- How Africa’s first Shaolin Temple shares Chinese martial arts and culture
+- The temple in Zambia has become one of the most visible symbols of China’s cultural footprint in a country where its influence already runs deep.
 - Why Hong Kong’s strategic advantages attract global talent
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 美加息预期升温，内地修订境外投资规则，地产股可博否
+- 蔚来次季转盈第三季逊预期，股价插逾半成未宜沾手？
 - 外籍个人股息红利不再免税 缴20%
 - 特或重估马尔维纳斯群岛立场 施压英加军费
-- 腾讯“雇佣兵”累蚀49亿，燧原科技造富last call？
+- 车企股价齐躺平，决战“双轮＋AI”求存
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -143,35 +142,36 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 戴爾增長邏輯變了！高盛：AI驅動企業換機，傳統服務器需求超預期爆發！
-- 70%增長目標還是保守了？英偉達投資者會議「攤牌」：FY28若不受供應限制，業務規模或翻倍！
-- 持續半年的伊朗戰爭，打亂聯儲局9月利率決策
-- 格雷格·阿貝爾：AI數據中心是伯克希爾能源的重要機會，巴菲特主導了對谷歌投資
-- 全球債市拋售潮的「暗雷」：中性利率抬升，主要央行或需更激進加息
-- 北水加倉港股近41億港元，淨買入友邦保險超9億港元，淨賣出阿里巴巴逾7億港元
-- 恒生指數公司：希音將快速納入恒生綜合指數
-- 美團二季報：外賣不虧了，但三季度還有季節性波動
+- 富途早報 | 特朗普安撫市場後油價漲勢暫歇；英偉達稱FY28 70%同比增長非需求端上限，微軟十餘年來首次大改業績結構；績優股Snowflake夜盤大漲超23%；特斯拉今日舉行Cybercab發佈會
+- 博通上季營收增86%，AI芯片收入增兩倍，本季指引「瑕疵」但AI收入料三年高增
+- 傑富瑞：Workbuddy「開放共贏」，Harness成騰訊「皇冠上的明珠」
+- 「小非農」低於預期！美國8月ADP新增就業3.8萬人，創下今年以來最低單月增長紀錄
+- 特朗普稱對伊朗新一輪打擊不會「持續太久」，油價漲勢暫歇
+- 美國8月非農明晚來襲！美銀：僅是「開胃菜」 維持聯儲局9月加息預期
+- 新股消息 | 傳月之暗面向港交所祕密交表 正式啓動IPO
+- AI服務器與網絡需求「爆單」難解供應鏈之困 慧與科技 Q3業績超預期盤後仍跳水
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Circle 與 OKX 合作擴大 USDC 流動性與交易效用
-- 2026全球債市「慢熊」來襲：烈度遠遜2022年，但痛苦或更持久
-- 收市速睇 | 三大指數跌幅收窄，恒指收盤微跌；科網股漲跌不一，美團漲近3%，小米漲近2%，快手跌近3%；長飛光纖光纜、建滔積層板漲超3%
-- 黃金賣壓即將枯竭！德銀：鷹派聯儲局也難阻貴金屬走強，下一輪上漲或由主動資金接棒
-- 高盛9月「確信名單」更新：美股納入福泰製藥，歐股力推萊茵、Adyen和塔蘭克斯
-- 宋雪濤：加息也救不了長端利率
-- 中信證券：無風險利率上行壓制長久期資產，港股紅利相對佔優
-- 韓國做主權 AI，爲什麼先利好英偉達，不是海力士？
-- 植田和男「暗示9月加息」後，日本央行委員放話：加息幅度不一定是0.25%
-- 8月全球資產大洗牌 ：黃金飆升9.7%領跑，農產品狂飆 ，長債成最大輸家
+- 霍爾木茲海峽要改名「特朗普海峽」？特朗普又放話：中期選舉不會影響伊朗戰爭
+- 微軟業績大變革：Azure營收按季披露，與Office業務合併命名爲「Agents and Infra」
+- 博通電話會：未來兩年AI收入將連續翻倍至2300億美元，定製芯片性能「不輸GPU且成本減半」
+- 成交額TOP20 | 戴爾大漲15%，AI倒逼企業換機潮；Meta發佈新一代AI，直言躋身第一梯隊；英偉達漲超3%，黃仁勳放話萬億美元投資
+- 微軟十餘年來首次大改業績結構：雲計算單獨成軍！
+- 美股收盤 | 「國債風暴」暫緩，股指終結三連跌；戴爾暴漲16%，CRDO大跌20%；網安股重挫，PANW跌9%；油價企穩，黃金V形反轉
+- 報道：OPEC+或維持下月產量配額不變，暫緩進一步釋放閒置產能
+- 美委協議項下石油或11月進入美國儲備，雪佛龍擬向委投資70億美元擴產，股價創新高
+- 微軟2027財年起改革業績結構 將公佈Azure營收數據
+- 美國財政部正成爲"影子央行"，聯儲局貨幣政策獨立性面臨侵蝕
 
 --- 跨站重点主题（多站出现=更重要）---
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 就业数据: Benzinga (EN), SCMP (EN/中)
-- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 美国关税: Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 就业数据: Benzinga (EN), SCMP (EN/中), 富途资讯 (繁中)
+- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 黄金/大宗: 华尔街见闻 (简中)
-- 美联储: SCMP (EN/中)
+- 加密货币: Benzinga (EN)
+- 美联储: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
