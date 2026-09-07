@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026090420
+抓取时间: 2026090709
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- August jobs data expected to show labor market 'cooling, not cracking'
-- Lululemon's one stupid decision explains why its stock is getting blown up
-- Fed governor Waller just sent Wall Street back into its riskiest trades: Chart of the Day
-- Lululemon's one stupid decision explains why its stock is getting blown up
-- Fed governor Waller just sent Wall Street back into its riskiest trades: Chart of the Day
-- The rise of Texas
-- US grab of Venezuela denies China oil, billions in debt payments
-- One tech veteran's take on Nvidia's massive Hugging Face deal
-- Apple's first foldable iPhone may cost $2,000
-- The AI layoff scare may be overblown
-- Tesla is asking people if they want to buy and run Cybercab fleets
+- U.S. markets closed
+- Inflation data, Oracle earnings, and an energy supply crunch: What to watch this week
+- Iran says it targeted oil tankers in response to US strikes
+- US energy chief says Navy to defend Hormuz until Iran backs down
+- Iran says it targeted oil tankers in response to US strikes
+- US energy chief says Navy to defend Hormuz until Iran backs down
+- The biggest August jobs beat in nearly 30 years may be less impressive than it looks
+- No, the US does not have only 14 days Of oil left
+- These AI numbers are getting crazy
+- US's Wright plays down fuel export curbs as way to lower prices
+- Bond traders brace for more swings at both ends of US yield curve
+- Investors to pore over inflation data for signals on rate trajectory
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
-- Tech & AI
 - Markets & Economy
-- Stock futures hold steady ahead of key jobs report
-- US retail diesel hits record as Hormuz, Russia crises stretch on
-- Oil rallies for the week as U.S.-Iran fighting resumes; diesel hits record high
-- Bitcoin tops $80,000: 'Crypto winter is close to being over'
+- Your Money
+- Is the stock market open on Labor Day?
+- When will you get your Social Security check? Payment schedule for September.
+- Why it's a mistake to put your kids' college savings ahead of your own retirement
+- Why are home prices so high? How today's market impacts housing costs.
 - Popular
-- AMC stock rises following Leawood Films distribution launch
-- US commerce boss Lutnick says he trusts Anthropic CEO Dario Amodei again
+- Munster says Tesla Cybercab Austin launch signals end of Musk's 'paranoid' phase
+- No 'sympathy': Rogan stunned over claim boomers need $2M-$5M nest egg
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,68 +42,57 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- What's Going On With UiPath Stock Friday?
-- Wall Street's Most Accurate Analysts Spotlight On 3 Energy Stocks Delivering High-Dividend Yields
-- Ripple CEO Is 'Proud' About White House Crypto Meeting: What's Next for XRP?
-- Albemarle’s Next CEO Inherits A $250 Million Swing Per Dollar
-- Alibaba Cloud Expands Into Brazil With New Data Centers To Drive Latin America AI Growth
-- Stock Market Today: Dow Jones Futures Fall, S&P 500, Nasdaq 100 Rise Ahead of August's Jobs Report — LULU, PATH, DOCU in Focus
-- Jobs Report
-- Inflation
-- Strait Of Hormuz
-- 10-Year Treasury Yield
+- Mark Zuckerberg Doesn’t Drink Coffee — The Billionaire Doesn't Like 'Chemicals' That Mess With Him; Here's What He Does Instead to Energize Himself
+- ‘Ramsey Show’ Caller Says Her Husband, 52, Hasn't Worked in 8 Years Claiming He's Religiously Exempt — She Cleans Houses and Uses Child Support for Bills
+- Why Trade Desk, AppLovin and Lululemon Are Lagging
+- Salesforce Stock Has Surged as AI and Anthropic Bets Pay Off, But Technical Risks Remain
+- Joby and Archer Aviation Are Falling Just as Air Taxis Near Reality
+- Scott Bessent Says Trump’s ‘America First’ Policies Are Fueling US Manufacturing Boom: ‘Creating the Conditions’
+- Scott Bessent
+- Rand Paul
+- What's Going On With Rivian Stock Friday?
+- Anthropic's $2 Trillion IPO Approaches: The Companies Poised to Benefit
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 理想L9正式于阿联酋上市
-- 理想汽车回应26.5亿元增资欣旺达动力：有助于双方升级为长期利益共同体
-- 必和必拓回应涉西澳铁矿与中资合作传闻：会评估有利于股东的选项
-- 李斌：汽车行业已进入决赛最残酷的阶段！蔚来单车：内存涨1万元、电池涨三四千元，但下半年仍将保持价格稳定
-- 欣旺达：同意理想汽车出资26.5亿元人民币向欣旺达动力增资，认购欣旺达动力14亿元新增注册资本，对应本次增资完成后欣旺达动力8.79%的股份。
-- 消息人士称威特科夫与库什纳将于周末访问莫斯科和基辅
-- 哔哩哔哩：拟发行7亿美元可转换高级票据，同时进行股权配售和股票回购。
-- “末日博士”Nouriel Roubini：推动收益率上升的最大因素是科技支出。
-不认为人工智能属于泡沫。
-就业数据将保持正常，放缓由供给不足驱动。
-日本正经历结构性经济转型。
-日元中期内可能走强。
-- 特斯拉美股盘前跌1.7%，此前特斯拉Cybercab正式在美国奥斯汀投入运营。
-- 美股盘前，Lululemon跌超18%，公司下调全年利润和销售预期后。Adobe下跌3%，此前公司宣布更换CEO。
-- 摩根士丹利投诉多个引用其研报内容的X平台账户
-- 中美或将就农业及相关非关税壁垒发布声明？外交部：无信息提供
+- 特斯拉推出限时优惠政策，购买Model Y全系现车享现金激励10,000元
+- 华为、苹果正面交锋，折叠屏手机市场 将迎“72小时对决”
+- 华尔街见闻早餐 | 2026年9月7日
+- 美俄亥俄州州长竞选集会遭袭 多人受伤
+- 提醒：日内请重点关注（以下均为北京时间）
+- 一波音货机在美迈阿密国际机场冲出跑道 撞上多辆汽车后起火
+- 伊朗称未来几天将宣布霍尔木兹海峡“禁区”
+- 商品期货开盘，BR橡胶主力合约涨超5%，烧碱涨超3%，20号胶、纯碱、尿素、橡胶涨超2%。碳酸锂跌超3%，沪金、生猪、沪银、钯跌超1%。
+- 工信部等六部门印发《关于推动历史经典产业高质量发展的意见》
+- 日本外汇储备连续第四个月下降
+- 日经225指数涨幅扩大至2%，铠侠涨近8%，东京电子、软银集团涨超5%。
+- 财政部积极支持有关中央金融企业补充核心一级资本
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 福建福鼎受损水库排水过半，交通水电陆续恢复
-- 猪肾移植已存活285天创纪录，或成终末期肾病患者等待供肾的“生命桥梁”
-- 上交所对龙版传媒及有关责任人予以监管警示
-- 国开行成功簿记发行50亿元绿色金融债券
-- 国家金融监督管理总局有关司局负责人就《银行保险机构信息披露管理办法（征求意见稿）》答记者问
-- 浙江：鼓励企业在户外装备、智能穿戴、运动康复等领域创新
-- 浙江：到2030年全省体育产业总规模力争达到1万亿元
-- 北京：鼓励家政平台和相关企业加快研发创新养老照护机器人、情感陪伴机器人等新技术新产品
-- 超强厄尔尼诺将至 我国持续受到影响
-- 北京：推动重点家政平台和服务企业扩容提质，实现全市规模以上家政企业稳步增长
+- 2026中国文化旅游产业博览会项目签约115亿元
+- 四方精创：截至本公告披露日，香港联交所上市委员会已举行上市聆讯，审议公司本次发行上市的申请。根据本次发行上市的时间安排，公司按照有关规定在香港联交所网站刊登本次发行上市聆讯后资料集。
+- 海大集团：鱼粉价格创出历史新高，后续秘鲁捕捞进度将影响鱼粉价格走势
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- German companies want tougher EU-China policy despite supply chain reliance
+- Lan Xiaohuan on China’s balancing act to boost domestic consumption
+- Diplomacy
+- China marks major tunnel milestone for Central Asia railway bypassing Russia
+- European chamber chief in Hong Kong heads to Brussels to ‘reset city’s image’
 - Military
-- Chinese armed trainer jets drive away Philippine aircraft over Scarborough Shoal
-- Hong Kong Economy
-- Dairy Queen to return to Hong Kong with 4 stores. Is it scooping up cheap rents?
-- Big Tech
-- Apple poised to unveil most expensive iPhone yet, fuelled by memory price surge
-- China, US military commanders snap 2-year break with talks in Canada
+- What China’s Lop Nur desert base expansion means for PLA jets in race with US
+- Banking & Finance
+- China pumps massive US$54b into insurers, banks in financial powerhouse push
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- The DIHK finds German firms facing Chinese competition back stronger EU action, but its trade chief warns against ‘blanket measures’.
-- TrendForce says 20 per cent increase is “moderate”, with memory costs for 256-gigabyte iPhone 18 Pro model up nearly 400 per cent in a year.
-- Yang Zhibin and Samuel Paparo meet to keep communication lines open between the two armed forces.
-- Law and Crime
-- 5 ParknShop and contractor staff who forged pay claims plead guilty to fraud
-- Hong Kong corruption watchdog says defendants colluded to make pay claims for staff who were not on shift, defrauding retail giant of HK$3.2 million.
-- Lifestyle & Culture
-- Why US soldiers continue to flock to Thailand’s Pattaya
-- Military links have brought waves of Americans to Thailand since the 1940s, with the crew of the USS Abraham Lincoln the latest to visit.
+- The bestselling author also discusses how recent geopolitical events are shaping China and makes the case for a social safety net.
+- Remote site is ideal for quiet testing of sensitive, next-generation aircraft, analysts say, as some forecast faster high-end PLA deployment.
+- The rare capital boost of such magnitude seeks to shore up insurers and banks as solvency pressures mount and regulatory demands loom.
+- Why China is being urged to study Ukraine’s wartime PR blitz in the AI age
+- Study explores how Kyiv used a series of drone strikes on airbases deep inside Russia as part of its ‘information offensive’.
+- United States & Canada
+- 5 dead after Amazon cargo plane crashes at Miami airport, bursting into flames
+- All runways were closed after the crash involving several vehicles at Miami International Airport that left 5 people injured, 3 critically.
 - Business
+- Why Hong Kong’s strategic advantages attract global talent
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -133,36 +122,33 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美股前瞻 | 今晚20:30非農揭曉，9月加息預期迎考驗；AI產業鏈盤前分化，美光HBM產能年底前有望較去年翻倍；AMC盤前一度大漲20%，叫板Robinhood股票代幣
-- 美國8月非農今晚20:30揭曉，美銀：非農只是前哨，CPI才握着政策扳機；就業數據需「明顯轉弱」才可能改變預期
-- 百度等54只個股將被納入滬港通下港股通標的
-- 巴克萊：聯儲局鷹派預期已被市場大量計入，非農和CPI將是「反轉」關鍵
-- 本週美股牛股 | Robinhood本週累漲近20%，過去24小時網絡鏈收入創新高，機構稱預測市場收入有望爆發式增長；凱斯紐累漲超18%，與Bourgault Industries推出聯合品牌播種設備產品線
-- 特斯拉Cybercab來了！無方向盤和踏板，目標售價低於3萬美元，13歲以下禁乘，年內啓動小規模部署
-- 黃金將再次閃耀？法興重啓多頭、德銀稱「騎兵已至」，頭部資管正加速開倉
-- 北水拋售港股超100億港元，MINIMAX、智譜分別獲淨買入超9億、6億港元；騰訊控股、中芯國際分別遭淨賣出逾21億、9億港元
+- 富途早報 | 中東風險再升級，伊朗擬宣佈航行禁區；特朗普曬英特爾收益：我這麼做是爲了國家；八家中央金融企業補充資本約3600億元，週一美股休市
+- 美伊互襲油輪！伊朗再放話：霍爾木茲將設新「限制區」，報復將更快、更重、更痛苦
+- 三大投行齊聲看多黃金，但支撐邏輯各有側重
+- 一週前瞻｜美國8月PPI、CPI接連登場，加息預期迎來關鍵檢驗；蘋果摺疊屏iPhone首秀；甲骨文、Adobe將放榜；美股週一休市
+- 庫克時代之後首場「大考」！大摩：蘋果秋季發佈會爲十年來最重要，首款摺疊iPhone或引爆新一輪增長
+- 中金：誰是「聰明錢」？
+- 財政部大手筆注資銀行、險企，總量達數千億，今年特別國債注資有何新意？
+- AI交易太擁擠！全球資金開啓多元化配置：中國股票重回聚光燈下？
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 華爾街點評特斯拉Cybercab發佈會：增量有限，規模化和成本仍是核心關注點
-- 美光HBM產能年底前有望翻倍，追趕三星、SK海力士步伐
-- 收市速睇 | 三大指數齊漲，科指漲超2%；科網股上行，美團漲超5%，百度漲近5%，小米漲近4%；內房股走高，融創中國大漲超14%，龍湖集團漲超8%
-- CrowdStrike加速狂奔！年度用戶大會發布炸裂FY28業績指引，ARR增長目標24.6%，英偉達強調其爲最重要的安全合作伙伴
-- 傑富瑞首次覆蓋核能股：Cameco、BWX Technologies獲「買入」，核能迎來四十年最強需求週期
-- 萬斯又公開喊話聯儲局：應該減息
-- 報道：蘋果摺疊屏iPhone日產量僅「幾百」台，開售初期或供應緊張
-- 豬肉概念股漲幅居前，供應壓力緩和價格整體回暖，機構看好產能進一步加速去化
-- 沒有方向盤，也沒有剎車踏板：特斯拉Cybercab開始收費載客
-- 康方生物續漲，依沃西與K藥頭對頭研究獲顯著陽性結果
+- 美軍首度打擊三艘伊朗油輪，霍爾木茲海峽衝突從「炸設施」升級到「斷運輸」
+- 港股IPO週報：信立泰等多家公司遞表，希音、梅卡曼德機器人首周雙雙破發
+- 高盛合夥人：夏季結束了，市場焦點都在「債市風暴」，而美股恐慌指數已跌至特朗普任期低點
+- 大摩閉門會：MiniMax、智譜ARR雙雙狂奔，模型競爭將進入分層淘汰賽
+- 週末讀物 | OpenAI總裁深度訪談：Astra是首個「在10萬塊GPU上訓練的模型」，跨越了「應用門檻」
+- 摩根士丹利：微軟爲AI時代重塑業務架構，重申“增持“評級
+- 美伊互襲油輪！美軍稱「摧毀」3艘伊朗油輪，伊朗革命衛隊稱襲擊多艘油輪及美國船隻
+- 下週美國CPI會觸發9月加息嗎？美銀、花旗給出兩個相反劇本
+- 直擊2026國談首日：多家企業代表難掩喜色，中藥、慢病藥輪番上場
+- 高盛交易台主管：OpenAI的Astra模型「脫穎而出」，這正是「AI牛市一直在等的」
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 就业数据: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
-- 美国关税: 华尔街见闻 (简中)
-- 黄金/大宗: 华尔街见闻 (简中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), SCMP (EN/中)
+- 美国关税: Benzinga (EN)
+- 就业数据: Yahoo Finance (EN)
+- 中国/欧盟: SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
