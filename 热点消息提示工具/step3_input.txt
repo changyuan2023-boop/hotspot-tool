@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：早间**
-**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
+**当前模式：晚间**
+**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`早间热点线索 · 2026年9月8日`
+`晚间热点线索 · 2026年9月8日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 早间模式操作指令
+## 晚间模式操作指令
 
-聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
+聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
 重点关注（按重要性排序写入）：
-1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
-2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
-3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
-4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
+1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
+4. 其他值得今晚关注的美股消息
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026090809
+抓取时间: 2026090820
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- Inflation data, Oracle earnings, and energy: What to watch this week
-- Trump: Canada's Bombardier cannot sell in US unless it builds there
-- Canada set to hit back at Trump tariffs, risking wider trade war
-- Trump: Canada's Bombardier cannot sell in US unless it builds there
-- Canada set to hit back at Trump tariffs, risking wider trade war
-- OpenAI top scientist urges 'extreme caution' with pace of AI
-- AI computing demand may never be sated, says CEO of Nvidia partner Iren
-- Copper surges to all-time high as tariff turmoil rocks market
-- Oil prices rise to six-week highs on worsening Middle East conflict
-- Stocks dented by inflation risk from rising oil, dicey geopolitics
-- Shein’s value down $5 billion, among HK’s worst Post-IPO weeks
+- U.S. markets open in 1h 30m
+- Stocks have a powerful trend going for them
+- Why the CEO of Wegovy maker Novo Nordisk isn't yet sold on the peptide craze
+- Brent oil rises near $100 as risks of prolonged Mideast conflict fans supply worries
+- Why the CEO of Wegovy maker Novo Nordisk isn't yet sold on the peptide craze
+- Brent oil rises near $100 as risks of prolonged Mideast conflict fans supply worries
+- Canada's incoming tariffs target US cheese, honey, aluminum foil, more
+- Suez Canal revival gathers pace as Hormuz crisis reroutes ships
+- Stock futures slip amid rising oil prices
+- US earnings upgrades are on their longest run in 5 years
+- The wall of political and economic risks is growing
+- Japan's wages grow most since 1997, keeping BOJ on rate hike path
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
-- Your Money
-- Labor Day weekend gas prices have never been higher
-- Best high-yield savings interest rates: Earn up to 4.10% APY
-- Best CD rates: Lock in up to 4.35% APY
-- Mortgage and refinance interest rates: Fixed purchase rates lower than refi rates
+- Tech & AI
+- Anthropic said to walk away from $6B Decart acquisition
+- US stocks look undervalued given AI potential
+- ASML wins over TSMC, Samsung for new EUV machines as AI demand surges
+- Tech companies eye Patagonia for massive data centers
 - Popular
-- Social Security: What's really changing in 2027
-- Trump's new Social Security tax rules favor high-income seniors
+- Trump said he'll stop Canada's Bombardier from being sold in the US
+- Gas prices reach Labor Day high amid Iran war
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,87 +145,72 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- ‘Ramsey Show’ Caller, 38, Makes $220K a Year but Lives in His Car and Debates Moving Onto a Sailboat — ‘Am I Just Gonna Die With $900,000 in the Bank?’
-- Dollar-Yen Falls To Seven-Month Lows: Is the Carry Trade Now Broken?
-- EXCLUSIVE: AI Is Outpacing Pentagon Procurement, XTEND CEO Says
-- RFK Jr. Responds to CNN Claiming His $5 Salmon Meal Costs $70 — If You Put a ‘Squirt of Ketchup’ on a Burger, Would You Be ‘Charged for the Whole Bottle’?
-- EXCLUSIVE: AI Weapons Aren't Headed Where Most People Think, XTEND CEO Says
-- Brent Jumps to $97, German AfD Party Wins Big: Stock Market Today
+- Why Is Oracle Stock Surging on Tuesday?
+- Nebius Just Became Palantir’s Preferred Sovereign AI Infrastructure Partner
+- D-Wave Secures up to $100 Million in US Funding
+- Wall Street's Most Accurate Analysts Spotlight On 3 Health Care Stocks Delivering High-Dividend Yields
+- AI Could Eventually Crack Cancer and Drug Discovery, Says Arm CEO — But This Is What’s Holding It Back
+- Stock Market Today: S&P 500, Dow Futures Fall as Oil Tops $99 Despite Trump’s Price Drop Prediction — ASML, NVS, CASY in Focus
 - Donald Trump
 - Mark Zuckerberg
-- What's Going On With Rivian Stock Friday?
-- Labor Market Red Flags: June Layoffs Revised Up by 19,000 While Hires Sink by 16,000
+- Mark Cuban Says Data Center Economics Are 'Incredibly Profitable': Communities Should Use AI Boom to Score 'the Best Possible Deal'
+- Nvidia, Oracle, KLA And An Industrial Stock: CNBC’s ‘Final Trades’
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 报道：英特尔CPU暂定10月上旬再涨10%，高通、联发科趁隙抢攻IPC、IoT空缺
-- 华尔街见闻早餐 | 2026年9月8日
-- 报道：印尼首富家族将逾10亿美元资产转移至海外
-- DigitalBridge成立东京办事处，任命Soichiro Suda为日本总经理。
-- 报道：韩国与美国的协议将包括“在美国修建8座核电站”的计划
-- 提醒：日内请重点关注（以下均为北京时间）
-- 伊朗最高国家安全委员会秘书Mohsen Rezaee（穆赫辛·雷扎伊）：伊朗已经重新校正（武器）针对美国军舰和（位于中东地区的那些）军事基地的态势。
-- 巴拿马运河管理局：为保障水资源安全或将再减通航量
-- 周二（美国金融市场长周末归来）亚太盘初，标普500股指期货持平，道指期货跌0.6%，纳指期货跌0.1%。
-- 美国声称：在太平洋东部（海域）发现浮式燃油补给站点。
-美军在该海域击沉了相关船只。
-被袭击的船只与“贩毒”有关。
-涉事船只上的人员将被移交给厄瓜多尔政府。
-- 伊朗最高国家安全委员会秘书雷扎伊：近日，华盛顿已经收到伊朗新型导弹发出的明确警告。
-针对经济战，我方将在波斯湾直至封锁圈范围设立海上禁入区。
-针对美国军舰与军事基地的作战姿态已完成根本性调整。
-- 报道：英国首相即将对以色列实施新制裁，面临激怒特朗普的风险
+- 量子计算公司Rigetti Computing美股盘前涨近6%，公司与美国政府签署了一份价值1亿美元的协议，旨在加速超导量子计算的研发。
+- NextEra获得19亿美元美国贷款，用于重启杜安·阿诺德核电站
+- 通用电气航空航天公司将以117.5亿美元收购Consolidated Precision Products。（彭博）
+- Jefferies基金在伦敦的诉讼中指控Radiant World存在欺诈行为。（彭博）
+- 英特尔美股盘前涨超4%，Northland Capital将其评级从”与大盘持平”上调至”跑赢大盘”。
+- 报道：美国要求韩国提交一批投资项目 总额超过贸易协议约定数额
+- 汇丰的Sels认为美股被低估 但债券收益率飙升是股市面临的最大风险
+- 沃尔沃汽车大中华区销售公司总裁调整
+- 波士顿科学美股盘前跌近6%，公司表示网络攻击后2026年销售和利润预期恐难实现
+- 华为小米苹果折叠屏将在美团闪购首发
+- 网易有道推出免费AI 原生语音 Agent “网易叭哥说”，语音输入效率达键盘5倍
+- 伊朗外长：围绕霍尔木兹海峡临时安全航道的谈判取得“重大进展”
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 英国唐宁街：英国首相伯纳姆今日下午与美国总统特朗普通话。
-谈及经济议题，伯纳姆对美国最新就业数据向特朗普表示祝贺，同时指出英国本国经济显现增长积极信号。
-伯纳姆称，政府正在为英国营造更多向好态势，相关工作已取得进展，但仍有更多任务有待完成。
-- LME期铜收涨94美元，报14510美元/吨。
-LME期铝收涨18美元，报3312美元/吨。
-LME期锌收涨38美元，报3984美元/吨。
-LME期铅收跌8美元，报1900美元/吨。
-LME期镍收跌131美元，报16715美元/吨。
-LME
-- 欧洲顶级运营商洽谈成立卫星直连手机合资企业
-- 德国2/10年期国债收益率涨约5个基点
-- OpenAI首席科学家呼吁对AI发展速度保持"极度谨慎"
-- 黎巴嫩称以色列袭击黎南部已致27死69伤
-- 美总统特使称美代表团访俄乌取得“实质性进展”
-- 卡塔尔LNG运输船罕见尝试驶出霍尔木兹海峡，出口恢复信号增强
-- 周一（9月7日）欧市尾盘，英国10年期国债收益率涨3.9个基点，报5.172%。
-两年期英债收益率涨4.2个基点，报4.573%。
-30年期英债收益率涨4.2个基点，50年期英债收益率涨4.9个基点。
-2/10年期英债收益率利差涨0.017
-- 亿万富翁Mukesh Ambani旗下Reliance Industries Ltd.（信实工业）计划发行至多1250亿印度卢比（折合13亿美元）债券，那将是印度市场在2026年最大的单一债权人供应量。
+- 飞天茅台最高涨价70元
+- 丁薛祥在全国教材工作会议上强调 紧紧围绕立德树人根本任务 加快构建中国特色高质量教材体系
+- 委内瑞拉民众对与特朗普的石油协议看法分裂 半数认为美国获益更多
+- 南大环境：控股股东南大资本拟通过公开征集受让方方式协议转让不低于15%股份，可能导致控股股东及实际控制人发生变更。
+- 本川智能：全资子公司拟投资不超过10亿元建设高端PCB项目
+- 本川智能：拟投资约20亿元建设年产150万平方米AI算力高多层、高阶HDI电路板项目
+- 珠免集团：康格投资拟受让海投公司96.28%股权
+- 日本监管机构警惕利率上升给银行带来的风险
+- 韩正出席第二十六届中国国际投资贸易洽谈会开幕式并致辞
+- 第十三届北京香山论坛各项筹备工作已基本就绪
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- In Focus | How Tokyo is widening regional defence ties to complicate Beijing’s Taiwan calculus
+- China’s top court sets out new AI red lines with rules on deepfakes and privacy
 - Diplomacy
-- As clock counts down to Trump summit, Xi boosts global clout with diplomatic blitz
-- AI, chip firms among bidders for flagship Northern Metropolis tech hub at border
-- Business
-- Foreign, mainland students head to Hong Kong for study, sparking property demand
-- China Business
-- Labubu meets LVMH: Pop Mart to open its first European flagship store in Paris
+- US port pledge ups China rivalry in Pacific but island nations stick to own course
+- Hong Kong Economy
+- Shenzhen-Hong Kong-Guangzhou retains crown as world’s top innovation hub
+- Politics
+- China rallies Central Asian police chiefs on terrorism threats, energy and trade
+- Health & Environment
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Tokyo is strengthening partnerships across the Indo-Pacific and beyond, possibly bolstering its ability to withstand a prolonged armed conflict.
-- City to attract around 200,000 extra students, requiring international schools, uni campuses to expand, as incentives lure wealthy migrants.
-- The firm’s overseas revenue share slipped in first half, and Pop Mart is focusing on boosting international growth.
-- China
-- Rare drone film of suspected dumping spurs Chinese agencies into investigation
-- Authorities mount inquiry in wake of new rules holding officials responsible for life for serious environmental damage.
+- New guidelines provide a broader legal framework for everything from privacy breaches and sexual content to fraud and consumer protection.
+- Security ministers from five nations back Beijing initiative targeting extremism, border order and telecoms fraud.
+- Indonesia knew a volcano was erupting. Could it have prepared better?
+- An expert advises Jakarta to take steps such as announcing evacuation routes and releasing maps following a pre-eruption alert.
+- Science
+- Chinese scientists propose turning abandoned coal mines into underground farms
+- Insulated from surface weather and natural disasters, mining tunnels could offer agricultural advantages amid climate change, scientists say.
 - Policy
-- China targets youth with plan to revamp ‘outdated’ heritage products as ‘trendy’
-- Heritage is the latest sector targeted by authorities, following similar efforts in the sports, winter tourism and nightlife industries.
-- Lifestyle
+- China targets fourfold boost in AI computing capacity by 2030 in major tech push
+- The nation’s intelligent computing capacity hit 2,185 eflops at the end of June, up 177 per cent from a year earlier, according to MIIT.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
 - 小米今晚举行新品发布会，股价反急插4%可否趁机吸？
-- 长鑫全球DRAM营收市占率达10% 居第4
-- 中东石油出口挫39% 伊拉克拓新航线
-- 爆料女友、叫阵老胡，孙宇晨藏TRON算盘
+- 华为Mate XT 2三折机登场 掀手机大战
+- 伊霍峡外设限制区 制裁进入船只
+- 内银内险“输血”，左手倒右手之谜
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -234,9 +219,9 @@ LME
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25413.12-237.75(-0.93%)
+- 恒生指数25317.18-95.94(-0.38%)
                     etnet.com.hk@copyright
-- 国企指数8429.73-125.30(-1.46%)
+- 国企指数8397.32-32.41(-0.38%)
                     etnet.com.hk@copyright
 - 理财/管理
 - 时尚艺术
@@ -247,36 +232,36 @@ LME
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 美加貿易摩擦升級，美國通脹再添變數？AI硬件供需緊張延續，三星、海力士內存庫存據報不足10天；港股存儲上新，江波龍今日上市
-- 小米秋季新品發佈會：推出首款"中摺疊"旗艦手機，披露造芯210億投入，增程SUV澎程4分鐘鎖單突破萬台
-- 英特爾CPU售價再提10%，並擬淘汰低毛利產品
-- 伊朗擬在霍爾木茲海峽外設禁區，與阿曼協議即將達成
-- OPEC+維持10月產量配額不變，焦點轉向2027年產能上限
-- 消息稱英特爾CPU將再漲價10%
-- 歐洲運營商挑戰SpaceX星鏈？四大運營商擬聯手進軍衛星直連手機領域
-- 一週前瞻｜美國8月PPI、CPI接連登場，加息預期迎來關鍵檢驗；蘋果摺疊屏iPhone首秀；甲骨文、Adobe將放榜；美股週一休市
+- GPT-6 Astra發佈後，算力暴漲的故事又講得通了？
+- 別隻盯CPI！高盛：未來一週兩大AI催化劑更重要，或撬動美股「右尾」行情
+- 北水加倉港股超61億港元，長飛光纖光纜、阿里巴巴均獲淨買入超6億港元，中芯國際遭淨賣出逾6億港元
+- 從華爾街借到倫敦! 亞馬遜首次發行英鎊債 用多元融資需求駁斥AI泡沫
+- 特朗普「貿易斷交」威脅下，聯儲局主席沃什正迎來絕佳機會？
+- 智譜六連跌失守1000大關，發生了什麼？
+- 多國加息只是最明面的威脅？2026真正的「瘋狂劇本」要開啓了！
+- 國際油價走高！胡塞武裝對沙特進行「報復性打擊」，多國聯軍誓言反擊
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 倫銅創歷史新高！關稅套利引發倫銅擠倉，大礦減產推升供給端壓力
-- 小米汽車：澎程4分鐘鎖單突破10000台
-- 特朗普曬AI圖談炒股：「我已爲美國賺取數千億美元」
-- OpenAI總裁深度訪談：Astra是首個「在10萬塊GPU上訓練的模型」，跨越了「應用門檻」
-- 特斯拉Cybercab已經上路接單，但能把用戶送到終點只是起點
-- 別再拿老眼光看內存了！野村：這輪是商業模式的徹底換軌
-- 沙特阿美吉贊石油設施再遭襲擊，國際油價上揚
-- AI模型越強，存儲越吃香？OpenAI Astra重新點燃「存儲芯片交易」
-- 美股明顯處在一種「亢奮」狀態！霍華德·馬克斯：這是我投資生涯裏見過最難應對的局面之一，但未來看不清，並不是不投資的理由……
-- 高盛大幅上調光模塊市場預測：2028年規模或達1485億美元
+- 收市速睇 | 三大指數普跌，科指跌1.61%，智譜跌超10%，MINIMAX跌超5%；石油、有色金屬股逆市上行，崑崙能源漲近5%，洛陽鉬業漲超7%；海光芯正逆市飆漲超31%
+- 蘋果罕見簽3-5年NAND長約、或不設價格上限，AI擠佔產能令存儲議價權易主
+- 暗盤情報 | 「商用機器人產品公司」優地機器人現漲超52%，一手賺1506港元
+- 理想全速推進自研、車企集體引入「二供」，動力電池行業要變天了？
+- 單台4億美元光刻機獲新買單：三星和台積電態度逆轉，三大芯片巨頭全面擁抱阿斯麥最先進High NA EUV
+- AI算力賽道再現大單！Firmus、OpenAI簽署馬來西亞數據中心容量多年期協議
+- 警告聲不絕於耳！法興：一旦10年期美債收益率升破5.5% 股市將受重創
+- 「銅博士」將比「妖鎳」還貴？長達近兩個世紀的商品鐵律或被打破！
+- Arm首款集成神經加速器的Mali GPU來了，《燕雲十六聲》等多款遊戲率先嚐鮮
+- 業績爆表但估值低於同行，「AI定製芯片之王」博通成價值窪地？
 
 --- 跨站重点主题（多站出现=更重要）---
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中)
-- 伊朗/中东: 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中)
 - 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 加密货币: Benzinga (EN), 华尔街见闻 (简中)
-- 就业数据: 华尔街见闻 (简中), SCMP (EN/中)
-- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
-- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
+- 就业数据: SCMP (EN/中)
 - 黄金/大宗: 华尔街见闻 (简中)
+- 美联储: 华尔街见闻 (简中)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
