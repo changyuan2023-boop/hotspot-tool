@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026090720
+抓取时间: 2026090809
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - U.S. markets closed
-- Inflation data, Oracle earnings, and energy supply: What to watch this week
-- Goldman flags risk of $120 oil if Mideast ship attacks intensify
-- Iran says Strait of Hormuz deal with Oman just days away
-- Goldman flags risk of $120 oil if Mideast ship attacks intensify
-- Iran says Strait of Hormuz deal with Oman just days away
-- Huawei, Xiaomi to debut new top phones on eve of foldable iPhone
-- Amazon cargo plane overshoots runway in Miami, killing five
-- Oil prices hold near six-week highs on US-Iran attacks
-- US debt worse than it seems, economist warns
-- Yen hits seven-month high; dollar soft ahead of US inflation
-- Tech firms rally, with eyes on US inflation update
+- Inflation data, Oracle earnings, and energy: What to watch this week
+- Trump: Canada's Bombardier cannot sell in US unless it builds there
+- Canada set to hit back at Trump tariffs, risking wider trade war
+- Trump: Canada's Bombardier cannot sell in US unless it builds there
+- Canada set to hit back at Trump tariffs, risking wider trade war
+- OpenAI top scientist urges 'extreme caution' with pace of AI
+- AI computing demand may never be sated, says CEO of Nvidia partner Iren
+- Copper surges to all-time high as tariff turmoil rocks market
+- Oil prices rise to six-week highs on worsening Middle East conflict
+- Stocks dented by inflation risk from rising oil, dicey geopolitics
+- Shein’s value down $5 billion, among HK’s worst Post-IPO weeks
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Your Money
 - Labor Day weekend gas prices have never been higher
-- Is the stock market open on Labor Day?
-- Mortgage relief keeps slipping away for homeowners who've waited years
-- When will you get your Social Security check in September?
+- Best high-yield savings interest rates: Earn up to 4.10% APY
+- Best CD rates: Lock in up to 4.35% APY
+- Mortgage and refinance interest rates: Fixed purchase rates lower than refi rates
 - Popular
-- How much interest does $10,000 earn in one year?
-- Apple sets iPhone launch, first under new CEO John Ternus
+- Social Security: What's really changing in 2027
+- Trump's new Social Security tax rules favor high-income seniors
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,63 +42,78 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Labor Market Red Flags: June Layoffs Revised Up by 19,000 While Hires Sink by 16,000
-- Anthony Pompliano Raises Alarm Over August Jobs Report, Points to ‘Underlying Immigration Story’ — ‘You Don’t Get Such Significantly Skewed Results’
-- Dan Ives Warns 10%-15% of US Data Center Projects Could Be Cut as AI Boom Faces Political Backlash, Calls It the ‘Biggest Threat’
-- TSLA Critic Gordon Johnson Rips Cybercab Launch After Elon Musk's ‘Storm of Cybercabs’ Promise: ‘The Robotaxi Story Was Never About Robotaxis'
-- Iran, Oman Near ‘Safe Route’ Deal in Strait of Hormuz: Report
-- Is the Stock Market Open on Labor Day 2026? Here's What's Open and What's Closed
-- Scott Bessent
-- Rand Paul
+- ‘Ramsey Show’ Caller, 38, Makes $220K a Year but Lives in His Car and Debates Moving Onto a Sailboat — ‘Am I Just Gonna Die With $900,000 in the Bank?’
+- Dollar-Yen Falls To Seven-Month Lows: Is the Carry Trade Now Broken?
+- EXCLUSIVE: AI Is Outpacing Pentagon Procurement, XTEND CEO Says
+- RFK Jr. Responds to CNN Claiming His $5 Salmon Meal Costs $70 — If You Put a ‘Squirt of Ketchup’ on a Burger, Would You Be ‘Charged for the Whole Bottle’?
+- EXCLUSIVE: AI Weapons Aren't Headed Where Most People Think, XTEND CEO Says
+- Brent Jumps to $97, German AfD Party Wins Big: Stock Market Today
+- Donald Trump
+- Mark Zuckerberg
 - What's Going On With Rivian Stock Friday?
-- Jensen Huang Says 'AGI Has Arrived' With OpenAI's GPT-6 Astra, but Has It Really? — 'No Evidence and No Definitions,' Says Skeptic
+- Labor Market Red Flags: June Layoffs Revised Up by 19,000 While Hires Sink by 16,000
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 伊朗：卡塔尔代表团到访“帮助缓和局势”
-- 诺和诺德司美格鲁肽在儿童试验中达到主要终点
-- 苹果新机价格遭泄露：折叠屏iPhone Ultra或超1.3万元
-- 大众汽车重组获批后劳资博弈未止 工会反对“放手裁员”
-- 报道：1c nm有望2027年初成为SK海力士主流工艺
-- 早间要闻汇总
+- 报道：英特尔CPU暂定10月上旬再涨10%，高通、联发科趁隙抢攻IPC、IoT空缺
+- 华尔街见闻早餐 | 2026年9月8日
+- 报道：印尼首富家族将逾10亿美元资产转移至海外
+- DigitalBridge成立东京办事处，任命Soichiro Suda为日本总经理。
+- 报道：韩国与美国的协议将包括“在美国修建8座核电站”的计划
 - 提醒：日内请重点关注（以下均为北京时间）
-- 百度集团在港交所公告，本公司的A类普通股已获纳入为深港通下标的证券，自2026年9月7日起生效。
-- 中国AI大模型调用量连续十九周领跑：腾讯Hy4preview登顶，环比增长379%
-- 特斯拉推出限时优惠政策，购买Model Y全系现车享现金激励10,000元
-- 小米18 Fold陶瓷版售价15999元
-- 吴清会见沙特投资部助理大臣穆巴拉克
+- 伊朗最高国家安全委员会秘书Mohsen Rezaee（穆赫辛·雷扎伊）：伊朗已经重新校正（武器）针对美国军舰和（位于中东地区的那些）军事基地的态势。
+- 巴拿马运河管理局：为保障水资源安全或将再减通航量
+- 周二（美国金融市场长周末归来）亚太盘初，标普500股指期货持平，道指期货跌0.6%，纳指期货跌0.1%。
+- 美国声称：在太平洋东部（海域）发现浮式燃油补给站点。
+美军在该海域击沉了相关船只。
+被袭击的船只与“贩毒”有关。
+涉事船只上的人员将被移交给厄瓜多尔政府。
+- 伊朗最高国家安全委员会秘书雷扎伊：近日，华盛顿已经收到伊朗新型导弹发出的明确警告。
+针对经济战，我方将在波斯湾直至封锁圈范围设立海上禁入区。
+针对美国军舰与军事基地的作战姿态已完成根本性调整。
+- 报道：英国首相即将对以色列实施新制裁，面临激怒特朗普的风险
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 法国预算谈判料陷激战 大选临近党争恐更趋尖锐
-- 中科院上海光机所在多维复用光计算领域取得进展
-- 伊朗称与阿曼就霍尔木兹海峡谈判进入最后阶段
-- 亚康股份：下属公司签订11.88亿元算力云服务合同
-- 商务部：“丝路电商”已成为高质量共建“一带一路”新引擎
-- 章源钨业公布9月上半月长单采购报价
-- 全新一代华为MatePad Air正式发布
-- WorkBuddy上线鸿蒙手表端
-- 捷豹路虎首席执行官：将在未来两年内全球裁员约4000人。
-- 长鑫科技：已具备与国际主流厂商竞争的能力
+- 英国唐宁街：英国首相伯纳姆今日下午与美国总统特朗普通话。
+谈及经济议题，伯纳姆对美国最新就业数据向特朗普表示祝贺，同时指出英国本国经济显现增长积极信号。
+伯纳姆称，政府正在为英国营造更多向好态势，相关工作已取得进展，但仍有更多任务有待完成。
+- LME期铜收涨94美元，报14510美元/吨。
+LME期铝收涨18美元，报3312美元/吨。
+LME期锌收涨38美元，报3984美元/吨。
+LME期铅收跌8美元，报1900美元/吨。
+LME期镍收跌131美元，报16715美元/吨。
+LME
+- 欧洲顶级运营商洽谈成立卫星直连手机合资企业
+- 德国2/10年期国债收益率涨约5个基点
+- OpenAI首席科学家呼吁对AI发展速度保持"极度谨慎"
+- 黎巴嫩称以色列袭击黎南部已致27死69伤
+- 美总统特使称美代表团访俄乌取得“实质性进展”
+- 卡塔尔LNG运输船罕见尝试驶出霍尔木兹海峡，出口恢复信号增强
+- 周一（9月7日）欧市尾盘，英国10年期国债收益率涨3.9个基点，报5.172%。
+两年期英债收益率涨4.2个基点，报4.573%。
+30年期英债收益率涨4.2个基点，50年期英债收益率涨4.9个基点。
+2/10年期英债收益率利差涨0.017
+- 亿万富翁Mukesh Ambani旗下Reliance Industries Ltd.（信实工业）计划发行至多1250亿印度卢比（折合13亿美元）债券，那将是印度市场在2026年最大的单一债权人供应量。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Can China bring in more bullion as central banks shift gold reserves from US?
-- Tech Trends
-- Huawei unveils first-ever smartphone powered by Tau Scaling Law-based Kirin chip
-- China Economy
-- China hits vital Japanese chipmaking chemical with steep anti-dumping measures
+- In Focus | How Tokyo is widening regional defence ties to complicate Beijing’s Taiwan calculus
+- Diplomacy
+- As clock counts down to Trump summit, Xi boosts global clout with diplomatic blitz
+- AI, chip firms among bidders for flagship Northern Metropolis tech hub at border
 - Business
-- Banks’ reluctance to lend deepening Hong Kong shop slump: landlords
-- Politics
+- Foreign, mainland students head to Hong Kong for study, sparking property demand
+- China Business
+- Labubu meets LVMH: Pop Mart to open its first European flagship store in Paris
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Geopolitical tensions and US dollar concerns have seen Shanghai and Hong Kong step up efforts to build gold storage infrastructure.
-- Pressing owners to repay loans amid falling values while turning away new buyers could prolong wider economic drag, advocacy group says.
-- Rare Beijing spy series highlights real-life intelligence drama with Taiwan
-- TV series backed by Ministry of State Security and depicting espionage across Taiwan Strait proves ratings hit at its launch.
-- China’s capital injection a first step to easing financial strains: analysts
-- Capital boost strengthens buffers of financial institutions, but stronger fiscal support is needed to reignite credit demand, observers say.
-- Big Tech
-- What Tencent’s Bilibili bond swap tells us about its AI playbook
-- The deal allows Tencent to release capital from a legacy asset to support AI projects while retaining downside protection as a debt holder.
+- Tokyo is strengthening partnerships across the Indo-Pacific and beyond, possibly bolstering its ability to withstand a prolonged armed conflict.
+- City to attract around 200,000 extra students, requiring international schools, uni campuses to expand, as incentives lure wealthy migrants.
+- The firm’s overseas revenue share slipped in first half, and Pop Mart is focusing on boosting international growth.
+- China
+- Rare drone film of suspected dumping spurs Chinese agencies into investigation
+- Authorities mount inquiry in wake of new rules holding officials responsible for life for serious environmental damage.
+- Policy
+- China targets youth with plan to revamp ‘outdated’ heritage products as ‘trendy’
+- Heritage is the latest sector targeted by authorities, following similar efforts in the sports, winter tourism and nightlife industries.
 - Lifestyle
 
 ## 经济通 (繁中)
@@ -129,35 +144,35 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- IPO前的軍備競賽！Anthropic11個月內鎖定5170億美元算力，但仍落後OpenAI
-- 黃仁勳：AGI已到來！OpenAI Astra背後是英偉達，40萬張GPU即將上線
-- 特斯拉Cybercab載客首周，第一批用戶怎麼看？
-- 美債市場迎來關鍵一週：週三財政部回購詳情、週五8月CPI公佈
-- 紐約聯儲拆解全球美元儲備：美元份額退潮，但「去美元化」敘事過於誇大
-- 加息 VS 不加息，誰能阻止長債利率上行？
-- Astra橫空出世點燃AGI狂潮 RSI重塑AI訓練範式 英偉達增長神話未完待續
+- 富途早報 | 美加貿易摩擦升級，美國通脹再添變數？AI硬件供需緊張延續，三星、海力士內存庫存據報不足10天；港股存儲上新，江波龍今日上市
+- 小米秋季新品發佈會：推出首款"中摺疊"旗艦手機，披露造芯210億投入，增程SUV澎程4分鐘鎖單突破萬台
+- 英特爾CPU售價再提10%，並擬淘汰低毛利產品
+- 伊朗擬在霍爾木茲海峽外設禁區，與阿曼協議即將達成
+- OPEC+維持10月產量配額不變，焦點轉向2027年產能上限
+- 消息稱英特爾CPU將再漲價10%
+- 歐洲運營商挑戰SpaceX星鏈？四大運營商擬聯手進軍衛星直連手機領域
 - 一週前瞻｜美國8月PPI、CPI接連登場，加息預期迎來關鍵檢驗；蘋果摺疊屏iPhone首秀；甲骨文、Adobe將放榜；美股週一休市
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 中國央行連續22個月增持黃金，8月購金節奏進一步加快
-- 華爾街大行解讀今年SEMICON亮點：先進封裝向3D系統集成演進，CPO製造瓶頸在測試
-- 北水加倉港股近13億港元，小米集團、中際旭創分別獲淨買入近14億、4億港元；建滔積層板、華虹宏力分別遭淨賣出逾6億、5億港元
-- Anthropic 11個月狂籤5170億美元算力，但規模仍可能低於OpenAI
-- 美團守城，快手攻擂：港股互聯網盈利韌性大考
-- OpenAI初步實現自動化研究 「AI訓練AI」圖景加速形成 算力仍是未來重要瓶頸？
-- 被質疑爲「AI泡沫的代言人」，埃裏森本週能用甲骨文業績回應華爾街嗎？
-- 算力產業鏈集體大漲：政策定調2030算力發展目標、高盛大幅上調光模塊預期
-- 收市速睇 | 三大指數齊跌，科指跌0.92%，百度跌近5%，小米跌超3%；光通信、PCB概念、存儲概念股逆市上揚，劍橋科技大漲超24%，廣合科技漲近15%，南方兩倍做多三星電子漲超10%
-- 韓國券商警告：三星電子和SK海力士內存庫存降至不足10天供應量
+- 倫銅創歷史新高！關稅套利引發倫銅擠倉，大礦減產推升供給端壓力
+- 小米汽車：澎程4分鐘鎖單突破10000台
+- 特朗普曬AI圖談炒股：「我已爲美國賺取數千億美元」
+- OpenAI總裁深度訪談：Astra是首個「在10萬塊GPU上訓練的模型」，跨越了「應用門檻」
+- 特斯拉Cybercab已經上路接單，但能把用戶送到終點只是起點
+- 別再拿老眼光看內存了！野村：這輪是商業模式的徹底換軌
+- 沙特阿美吉贊石油設施再遭襲擊，國際油價上揚
+- AI模型越強，存儲越吃香？OpenAI Astra重新點燃「存儲芯片交易」
+- 美股明顯處在一種「亢奮」狀態！霍華德·馬克斯：這是我投資生涯裏見過最難應對的局面之一，但未來看不清，並不是不投資的理由……
+- 高盛大幅上調光模塊市場預測：2028年規模或達1485億美元
 
 --- 跨站重点主题（多站出现=更重要）---
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), 经济通 (繁中)
-- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: Benzinga (EN), 富途资讯 (繁中)
-- 就业数据: Benzinga (EN), 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中)
+- 伊朗/中东: 华尔街见闻 (简中), 经济通 (繁中), 富途资讯 (繁中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 加密货币: Benzinga (EN), 华尔街见闻 (简中)
+- 就业数据: 华尔街见闻 (简中), SCMP (EN/中)
 - 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 加密货币: Yahoo Finance (EN)
+- 黄金/大宗: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
