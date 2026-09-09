@@ -3,58 +3,53 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | Dow drops 600 points as global risks rattle investors | What a $2,000 foldable iPhone launch could mean for Apple's stock | How Elon Musk can unlock an 'unarguably massive opportunity' for SpaceX | What a $2,000 foldable iPhone launch could mean for Apple's stock | How Elon Musk can unlock an 'unarguably massive opportunity' for SpaceX | Home insurance rates are up 47% nationwide. Here's where rates rose the most. | White House announces a plan to ban Canadian dairy and alcohol after Canada slaps retaliatory tariffs on $20 billion in US goods
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Snowflake CEO after massive stock gain: AI is creating a flywheel | Qualcomm stock pops on custom chip deal with Amazon
+  - 头版/首屏: U.S. markets open in 1h 30m | Apple's new CEO John Ternus expected to debut foldable iPhone | What a $2,000 foldable iPhone launch could mean for Apple's stock | US-Canada trade war escalates as White House plans to ban certain products | What a $2,000 foldable iPhone launch could mean for Apple's stock | US-Canada trade war escalates as White House plans to ban certain products | 'I am the house now': Bessent warns currency traders not to bet against yen | Amazon is selling its first sterling bonds in four-part deal
+  - 其他: Top Stories | Markets & Economy | Tech & AI | SoftBank to repay $40 billion bridge loan for OpenAI stake | 'Nothing would matter' if China wins the AI race: Bessent
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Sponsored Content | Why Is It Moving?™ | Trending Stories | Expert Ideas
-  - 其他: 'I Should've Learned Options Sooner,' Says a Day Trader. She Put Them Off for Years Because They Seemed Too Confusing | SpaceX Stock Shrugs Off First 2 Share Unlocks — Will Round 3 Break the Streak? | Trump Approval Rating Falls Lower, Stock Market Gains Can’t Offset Voter Opinion About Iran War | Bitcoin Braces For CPI as Oil Nears $100 and ETF Inflows Hit $3.8 Billion | Elon Musk Documentary Gets Perfect Score After Film Festival Premiere, Trailer Shows Criticism of ‘Real-Life Iron Man’
+  - 其他: Casey's Beats on Both Lines in Q1 — Stock Falls Anyway | Bessent Says 'I Am the House Now' On the Yen: Is Bitcoin at Risk? | This Robinhood Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Wednesday | Amazon Gives Qualcomm a Major AI Boost With $60B Custom Chip Deal — Analyst Calls It a ‘Huge $QCOM Win’ | Why Is Rocket Lab Stock Gaining Wednesday?
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 为什么会与多家电芯制造伙伴合作？理想汽车回应 | 华尔街见闻早餐 | 2026年9月9日 | 美国官员：特朗普正在考虑针对庞巴迪的选项方案。 | 俄方称俄美元首通话“富有建设性且非常坦诚” | 美国官员：1月1日起对加拿大汽车征收50%关税的计划仍然保持。
-对与加拿大对话保持开放态度。
-对加拿大进口商品的禁止范围规模在数十亿美元。 | 美国官员：将禁止进口部分加拿大乳品及绝大多数酒类产品。 | 伊朗革命卫队打击约旦美军基地 | 特朗普修改加拿大汽车关税范围，拟禁止进口部分乳品和汽车
-  - 其他: 北美科技软件股指数ETF跌1.83%，Global X网络安全ETF跌1.28%，纳斯达克网络安全ETF跌0.61%，ETFMG网络安全ETF跌0.51%。 | 美国国家航空航天局（NASA）围绕加速月球表面科技（研究）征求方案/意见。
-NASA本次关注的是发电和氧气提取。 | 美国特使维特科夫从持有加密资产股权的实体获得1.07亿美元收入 | 欧盟称以色列扩张约旦河西岸定居点破坏“两国方案”前景 | 美股大类资产类ETF涨跌各异，黄金ETF收跌超1.7%，日元ETF涨超1.5%，布油基金涨约2.9%
+  - 头版/首屏: 美国银行集团首次使用美元挂钩的USBDC稳定币完成了实际交易 | 报道：陶氏化学考虑退出与沙特阿美的200亿美元化工合资项目 | 受强劲财报提振，巴克莱将标普500指数年末目标价上调至7,950点 | 加皇资本市场称美股回调至多10%的风险升温 中期选举恐加剧AI交易波动 | 优步将其首次欧元债券发行规模定为45亿欧元。（彭博） | 哔哩哔哩：完成本金总额5亿美元于2031年到期的票据发售，以及同步购回约1亿美元Z类普通股。 | 美国9月4日当周MBA抵押贷款申请活动指数周环比 -2.7%，前值 0.8%。 | 伊朗称通过霍尔木兹海峡受限区域的船只将面临制裁。
+  - 其他: 国家发展改革委召开“六张网”重大项目协调推进会 研究加强要素保障工作 | 德国10年期国债发行收益率创2009年以来新高 | 美军否认其海军舰艇被伊朗袭击 | 瑞萨电子再发涨价函 | 【伊朗称将设立新的海上“制裁区域”】伊朗伊斯兰革命卫队发言人9日表示，伊朗将设立新的海上“制裁区域”，该区域从恰巴哈尔港开始，延伸到阿曼湾和阿拉伯海部分海域。坐标另行公布。（新华社）
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Hong Kong’s first chief executive, Tung Chee-hwa, dies aged 89 | Tung Chee-hwa feted for ‘deep belief in dialogue’ by China Institute of America | What are some key policies by Hong Kong’s leaders that have changed the city? | In Focus | How Japan is digging in to deter – and withstand – a conflict over Taiwan | Diplomacy | Huawei goes on trial in US for racketeering after nearly decade of litigation | Hong Kong Economy | Hong Kong agencies warn of lingering Jakarta flight delays after volcano eruption
-  - 其他: Tung, who resigned as city leader in 2005 on health grounds, had not been seen in public since July 2021 | A planned Hiroshima defence hub highlights how Tokyo is accelerating preparations to sustain its military should a Taiwan crisis reach Japan. | Marco Rubio arrives in Colombia with China ties, trade deals on agenda | Washington’s top diplomat lands in Barranquilla on first leg of three-country tour, with critical minerals, civil nuclear deals to be signed. | Military
+  - 头版/首屏: Power of Siberia 2 pipeline talks stall over China-Russia price dispute: sources | Diplomacy | Beijing tells Manila to ‘stop lying’ after minister exposes South China Sea note | Education | Hong Kong astronaut inspires pupils across city’s schools in historic lecture | Humble leader and role model for a generation: Hong Kong’s Tung Chee-hwa mourned | Military | Merging air, land and sea swarms – the next frontier in China’s drone technology
+  - 其他: Moscow-Beijing negotiations over pipeline have halted as ‘no progress’ made on bridging a big gas price gap, sources say. | Tung, hailed as a ‘close friend of the Communist Party of China’ and credited with working to improve China-US relations, died on Tuesday. | CETC says mature formations of similar drones are the foundation for a combat network linking uncrewed assets across domains. | China Economy | Shanghai waives all out‑of‑pocket expenses for maternal care
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 8金融央企获3000亿注资,内银内险却齐下挫,是否仍可吼 | 华为Mate XT 2三折机登场 掀手机大战 | 伊霍峡外设限制区 制裁进入船只 | 内银内险“输血”，左手倒右手之谜 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数25317.18-95.94(-0.38%)
-                    etnet.com.hk@copyright | 国企指数8397.32-32.41(-0.38%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 光博会开幕叠加美光通讯爆升,长飞光纤曾飙一成可追否? | 字节跳动传推空间视频AI模型 撼Meta谷歌 | 巴拿马运河续旱 或再削通行船量 | 小米新品定价两极，“韬定律”商用换道超车 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数25274.96-42.22(-0.17%)
+                    etnet.com.hk@copyright | 国企指数8369.05-28.27(-0.34%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术 | 健康人生
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 貝森特今晚如何出手？市場關注美債回購規模；AI需求天花板再抬高，IREN稱算力供應難追需求；蘋果今晚發佈會，摺疊屏定價或受內存短缺影響 | 美伊衝突加劇，伊朗稱美軍導彈襲擊哈爾克島附近油輪、警告襲科威特巴林港油輪 | 貝森特如何「回購美債」？今晚23點初見端倪 | 韓國股市醞釀觸底博弈：外資拋售放緩、韓元走強，KOSPI 200估值降至十年第1分位 | Meta推出AI個人智能體Muse：月費最高100美元，瞄準下一代AI商業化入口 | 加拿大200億反制美國關稅生效，卡尼稱不尋求貿易戰升級但要加速擺脫對美依賴 | AMD大漲近6%！Helios超額訂單回擊算力需求見頂論，翻倍上調2030年AI市場規模預期 | 貝森特談日元：我是莊家，來對着幹試試
-  - 其他: 美股收盤 | 安進重挫拖累道指跌超1%；AI交易逆市大漲，CRWV、LITE飆升11%，英特爾、BE漲超9%；黃金三連跌，油價逼近100 | 成交額TOP20 | SpaceX漲4%重回2萬億美元俱樂部；存儲議價權易主，蘋果罕見籤NAND長協；馬斯克稱Cybercab已實現「零稀土」電機 | 有關「2000美元都打不住」的蘋果摺疊屏手機 背後有哪些故事？ | AI算力永遠不夠用？IRENCEO：供應曲線很難追上需求 | OpenAI企業業務「勢頭強勁」， CFO：7月環比增長32%
+  - 头版/首屏: 貝森特如何「回購美債」？今晚23點初見端倪 | 特朗普逼聯儲局減息，沃什卻可能反其道而行：下週會議面臨「三選一」 | 加息預期超40%從未落空，聯儲局9月加息或成「最不壞選擇」 | 「大空頭」Michael Burry最新調倉：Lululemon成最大持倉，做空倉位佔比超21% | Meta版「龍蝦」--扎克伯格豪賭的「AI助手Muse」正式發佈 | 北水加倉港股超37億港元，淨買入百度集團超17億港元，淨賣出信達生物逾7億港元 | 美國財政部託日元、壓美債收益率，美元逼近七個月低點！CPI能否扭轉空頭交易？ | OpenAI高管：Astra需求太猛，新的Pro訂閱或被迫暫停
+  - 其他: OpenAI牽手三星「造芯」：聯合開發下一代芯片 | 布油再破100美元大關，交易員卻不敢押遠期！大摩揭示原油「近端搶籌、遠月失血」新格局 | 大摩詳解GPT-6 Astra真正的意義：將「AI敘事」從「需求爭論」拉回「物理瓶頸」 | 收市速睇 | 三大指數下跌，科指跌0.76%；科網、藥品股走弱，美團、翰森製藥跌超3%；光通信、有色金屬股逆市上揚，曦智科技大漲超19%，中國宏橋漲4% | 美銀：油價可能還要漲50%
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **伊朗/中东局势** — 出现于: Benzinga (EN), 华尔街见闻 (简中), 富途资讯 (繁中) (3 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
-- **油价/能源/霍尔木兹** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
-- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
-- **中国/欧盟** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
-- **就业/经济数据** — 出现于: Benzinga (EN) (1 站)
-- **美联储/利率** — 出现于: 华尔街见闻 (简中) (1 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (6 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **加密货币** — 出现于: Benzinga (EN) (1 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 科技股/个股（5 站）
+- 科技股/个股（6 站）
+- 中国/欧盟（4 站）
 - 伊朗/中东局势（3 站）
-- 加密货币（3 站）
+- 油价/能源（3 站）
 - 关税/贸易政策（2 站）
-- 油价/能源（2 站）
-- 黄金/大宗商品（2 站）
-- 中国/欧盟（2 站）
-- 就业/经济数据（1 站）
-- 美联储/利率（1 站）
+- 美联储/利率（2 站）
+- 加密货币（1 站）
 - 中国政策（1 站）
+- 就业/经济数据（0 站）
+- 黄金/大宗商品（0 站）
