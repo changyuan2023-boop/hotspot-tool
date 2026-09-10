@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026090920
+抓取时间: 2026091009
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- Apple's new CEO John Ternus expected to debut foldable iPhone
-- What a $2,000 foldable iPhone launch could mean for Apple's stock
-- US-Canada trade war escalates as White House plans to ban certain products
-- What a $2,000 foldable iPhone launch could mean for Apple's stock
-- US-Canada trade war escalates as White House plans to ban certain products
-- 'I am the house now': Bessent warns currency traders not to bet against yen
-- Amazon is selling its first sterling bonds in four-part deal
-- Stock futures fall as oil prices near $100
-- Fearless US stock market vulnerable to shocks as midterms loom
-- Dollar eyes 7-month low with US buybacks, inflation in focus
-- US fixed 30-year mortgage rate climbs to highest since June 2025
+- U.S. markets closed
+- Apple debuts its first foldable, the iPhone Duo
+- Apple live: First foldable, iPhone 18 Pro, watches, and more
+- What it's like to use Apple's iPhone Duo, the company's first foldable
+- Apple live: First foldable, iPhone 18 Pro, watches, and more
+- What it's like to use Apple's iPhone Duo, the company's first foldable
+- Apple launches iPhone 18 Pro and iPhone 18 Pro Max
+- Apple announces Watch Series 12 and Apple Watch
+- The side-hustle economy is getting more middle-class
+- Stocks close down as Treasury yields rise, oil tops $100
+- TKO Group president dismisses $30 million White House UFC loss as 'nothing'
+- US Treasury triples long-dated debt buyback to $6 billion
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Top Stories
+- Apple Event
 - Markets & Economy
 - Tech & AI
-- SoftBank to repay $40 billion bridge loan for OpenAI stake
-- 'Nothing would matter' if China wins the AI race: Bessent
-- Google to invest $15 billion AI infrastructure in Finland
-- US says Alibaba, DeepSeek have 'systematically' siphoned AI models
+- Anthropic reports fourth cybersecurity incident with early version of Claude
+- Meta stock surges with Wall Street bullish on new AI agent
+- Disgruntled researcher says AI 'could kill us all by the end of the decade'
+- Dell seeks to raise $4 billion from bond sale to refinance debt
 - Popular
-- Anthropic AI researcher claims AI is a credible threat to humanity
-- The yen is surging. Here's how it could hit portfolios around the world
+- Duolingo roasts Apple's iPhone Duo
+- Iran ready for more intense war and won't relent, official says
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,64 +42,70 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Casey's Beats on Both Lines in Q1 — Stock Falls Anyway
-- Bessent Says 'I Am the House Now' On the Yen: Is Bitcoin at Risk?
-- This Robinhood Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Wednesday
-- Amazon Gives Qualcomm a Major AI Boost With $60B Custom Chip Deal — Analyst Calls It a ‘Huge $QCOM Win’
-- Why Is Rocket Lab Stock Gaining Wednesday?
-- Stock Market Today: Dow Jones, S&P 500 Futures Fall, Brent Jumps Over $100 Amid Middle East Tensions — CASY, TTAN, RKLB in Focus
+- Apple Folds. Meta Soars.
+- They Bought a House That Made Them House Poor. Would They Do It Again? 'I Was Sick and Stressed With Anxiety Like Every Day'
+- Want in on Anthropic Before the IPO? Buy These 8 Stocks
+- Bitcoin, Ethereum, XRP, Dogecoin Trade Flat as Traders Brace for Key Macro Events
+- Arthur Hayes: Bitcoin Is the 'Fastest Horse' During 'Central Bank Money Printing'
+- Foldable IPhone
+- Data Centers
 - Anthropic
-- Data Center
 - Mark Zuckerberg
-- Elon Musk Says Tesla's Cybercab Production Is 'Over 5 Times Faster,' Hopes for Europe Launch Soon
+- AeroVironment Stock Rises After Q1 Earnings Beat
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美国银行集团首次使用美元挂钩的USBDC稳定币完成了实际交易
-- 报道：陶氏化学考虑退出与沙特阿美的200亿美元化工合资项目
-- 受强劲财报提振，巴克莱将标普500指数年末目标价上调至7,950点
-- 加皇资本市场称美股回调至多10%的风险升温 中期选举恐加剧AI交易波动
-- 优步将其首次欧元债券发行规模定为45亿欧元。（彭博）
-- 哔哩哔哩：完成本金总额5亿美元于2031年到期的票据发售，以及同步购回约1亿美元Z类普通股。
-- 美国9月4日当周MBA抵押贷款申请活动指数周环比 -2.7%，前值 0.8%。
-- 伊朗称通过霍尔木兹海峡受限区域的船只将面临制裁。
-- 阿里称无招回归阿里千问办公消息不实
-- 亚马逊寻求通过首次英镑债券发行募资至少30亿英镑。（彭博）
-- 至少三分之一美联储官员对减少政策会议次数持开放态度
-- Meta美股盘前涨超4%，此前公司推出个人AI智能体Muse，可代用户处理日常事务。
+- 特斯拉降价后有门店爆单，多个汽车品牌开启促销
+- 美国财长贝森特：从GDP到工厂就业人数，一切指标都在全面升温。
+工业周期正从投资阶段迈向投产阶段。
+- 高盛Communacopia大会要点总结
+- 华尔街见闻早餐 | 2026年9月10日
+- 特朗普顾问告诉他，伊朗战争可能会持续到他任期结束。就伊朗战争持续时间向特朗普发出警告的包括万斯、卢比奥。（华尔街日报）
+- Robinhood CEO：上市公司无法控制其股票被代币化的方式，随着与AMC的冲突升级
+- 提醒：日内请重点关注（以下均为北京时间）
+- 沙特主导联军称也门胡塞武装再次袭击沙特多地
+- 报道：加拿大总理向投资者推介数据中心、矿山和LNG项目
+- 加拿大对美报复关税的支持率创历史新高
+- 应用材料CEO：2027年将是公司的“大年”，预计2027年之后公司将实现强劲增长。
+- 美伊海上“报复循环”加剧，特朗普预告战事将终结，伊朗开出条件
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 国家发展改革委召开“六张网”重大项目协调推进会 研究加强要素保障工作
-- 德国10年期国债发行收益率创2009年以来新高
-- 美军否认其海军舰艇被伊朗袭击
-- 瑞萨电子再发涨价函
-- 【伊朗称将设立新的海上“制裁区域”】伊朗伊斯兰革命卫队发言人9日表示，伊朗将设立新的海上“制裁区域”，该区域从恰巴哈尔港开始，延伸到阿曼湾和阿拉伯海部分海域。坐标另行公布。（新华社）
-- 上期所发布关于热轧卷板期权、不锈钢期权合约上市挂牌基准价的通知。
-- 【燧原科技：股票将于9月11日在科创板上市】燧原科技公告，公司股票将于2026年9月11日在上海证券交易所科创板上市，发行价格142.18元/股。公司预计2026年1-9月营业收入23亿至30亿元，同比增长325.78%至455.36%。
-- 文科股份：股东及一致行动人14.06%股份被司法冻结
-- 深科技：子公司拟投资18.5亿元扩大高端存储芯片封测产能
-- 香港金管局通过贴现窗口向银行投放2000万港元流动性。
+- 美股大类资产类ETF多数收跌，小盘股指ETF跌约1.4%，地产ETF跌1%，黄金ETF涨0.9%，布油基金涨超2.7%
+- 美国能源部长Wright：当前炼油行业面临的问题比原油本身更为严峻。
+柴油价格下跌反而构成 “更大挑战”。
+- 提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。
+- 亚马逊：发行42.5亿英镑债券，分四个批次，票面利率介于5.200%-6.650%之间。
+- Enbridge以26亿美元收购Tallgrass原油业务
+- 摩托罗拉解决方案（MSI）董事会批准将股票回购计划增加20亿美元，扩大公司的股票回购授权额度。
+- 标普500指数的11个板块中，工业板块收跌1.51%，可选消费板块跌1.39%，公用事业、房地产板块至多跌1.17%，电信板块跌0.24%，信息技术/科技板块跌0.16%，能源板块涨1.09%。
+在工业板块，维谛技术控股、联邦快递货运控股、
+- 美国国务卿鲁比奥：要在经济上“扼杀”伊朗，针对伊朗油轮的袭击行动将会持续。
+我们认为，没有任何一方给予伊朗的东西能够改变当前局势与现状。
+伊朗持续向海军舰船发动袭击；一旦他们袭击我方舰船，就要付出油轮受损的代价。
+他们没能击中我方舰船，但已
+- 戴尔科技CEO：人工智能正在开拓“极其广阔”的开发空间，并大幅加速新功能与新性能的落地。
+- 周三（9月9日），彭博电动汽车价格回报指数涨0.39%，报3416.68点，亚太午盘显著上涨。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Power of Siberia 2 pipeline talks stall over China-Russia price dispute: sources
-- Diplomacy
-- Beijing tells Manila to ‘stop lying’ after minister exposes South China Sea note
-- Education
-- Hong Kong astronaut inspires pupils across city’s schools in historic lecture
-- Humble leader and role model for a generation: Hong Kong’s Tung Chee-hwa mourned
-- Military
-- Merging air, land and sea swarms – the next frontier in China’s drone technology
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Moscow-Beijing negotiations over pipeline have halted as ‘no progress’ made on bridging a big gas price gap, sources say.
-- Tung, hailed as a ‘close friend of the Communist Party of China’ and credited with working to improve China-US relations, died on Tuesday.
-- CETC says mature formations of similar drones are the foundation for a combat network linking uncrewed assets across domains.
+- Once sidelined, China stands ready to broker 4th Trump-Kim handshake
 - China Economy
-- Shanghai waives all out‑of‑pocket expenses for maternal care
-- The city’s fertility rate last year was just 0.66 – well below the 2.1 needed to ensure a stable population.
-- Health & Environment
-- Why Indonesian students are still falling ill despite free meal safety rules
-- In three days last week alone, close to 2,000 students suffered from food poisoning after eating meals from Prabowo’s flagship programme.
-- Lifestyle
+- US firms’ confidence in China has soared amid Xi-Trump trade truce: survey
+- Economy, Trade & Business
+- US says China ‘on track’ to fulfil farm purchases ahead of Xi’s Washington visit
+- Politics
+- In Focus | Why softer focus on national security in Hong Kong’s 5-year plan won’t happen
+- China
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- Beijing seeks role as central player in Korean peninsula diplomacy but wants a guarantee Washington has clear goals, source says.
+- Experts expect John Lee’s policy address to set ambitious governance agenda on various social and economic issues, but security will underpin them all.
+- Brazil scraps tax on small parcels as Chinese platforms lose US and EU access
+- Congress cleared the measure days before it expired, handing Shein, Shopee and AliExpress a tariff-free lane into Latin America’s largest economy.
+- Business
+- Susquehanna rents 3 floors of office space as market sees slow recovery: sources
+- The US-based firm is set to rent space in Cheung Kong Center II as the Central district leads office rental market recovery in the city.
+- US sanctions Chinese-language Xinbi Guarantee marketplace over cyber scams
+- Washington also seizes Telegram channels and US$52 million in cryptocurrency linked to the platform’s alleged illicit operations.
+- Why Hong Kong’s strategic advantages attract global talent
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -107,7 +113,7 @@
 - 光博会开幕叠加美光通讯爆升,长飞光纤曾飙一成可追否?
 - 字节跳动传推空间视频AI模型 撼Meta谷歌
 - 巴拿马运河续旱 或再削通行船量
-- 小米新品定价两极，“韬定律”商用换道超车
+- 餐桌“剪刀差”，工业“成本劫”
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -129,34 +135,36 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 貝森特如何「回購美債」？今晚23點初見端倪
-- 特朗普逼聯儲局減息，沃什卻可能反其道而行：下週會議面臨「三選一」
-- 加息預期超40%從未落空，聯儲局9月加息或成「最不壞選擇」
-- 「大空頭」Michael Burry最新調倉：Lululemon成最大持倉，做空倉位佔比超21%
-- Meta版「龍蝦」--扎克伯格豪賭的「AI助手Muse」正式發佈
-- 北水加倉港股超37億港元，淨買入百度集團超17億港元，淨賣出信達生物逾7億港元
-- 美國財政部託日元、壓美債收益率，美元逼近七個月低點！CPI能否扭轉空頭交易？
-- OpenAI高管：Astra需求太猛，新的Pro訂閱或被迫暫停
+- 富途早報 | 蘋果發佈史上最貴iPhone，Pro系列升幅低於預期；伯恩斯坦看好存儲，稱盈利預測仍有上調空間；加密貨幣Clarity Act下週迎關鍵投票
+- 美國長債回購規模最高可達60億美元，不及市場預期
+- 海力士美股大漲創新高，存儲全線走強！高盛高呼：最差的日子已經過去
+- 特朗普：美國中選後伊朗戰事會「立即」結束、油價會跌，普京「想達成協議」
+- 蘋果首款摺疊屏iPhone來了！中國起售1.6萬元，A20 Pro加持Duo與18 Pro
+- 特朗普施壓聯儲局「減息救經濟」，市場卻押注9月加息概率達60%
+- 能源指數ETF年內大漲48%！美國能源股大漲之後仍「便宜」：高油價持續或帶來估值修復行情
+- 「貝森特帶着豌豆射手打坦克戰」，美債回購碰壁，10年期美債收益率三年新高
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- OpenAI牽手三星「造芯」：聯合開發下一代芯片
-- 布油再破100美元大關，交易員卻不敢押遠期！大摩揭示原油「近端搶籌、遠月失血」新格局
-- 大摩詳解GPT-6 Astra真正的意義：將「AI敘事」從「需求爭論」拉回「物理瓶頸」
-- 收市速睇 | 三大指數下跌，科指跌0.76%；科網、藥品股走弱，美團、翰森製藥跌超3%；光通信、有色金屬股逆市上揚，曦智科技大漲超19%，中國宏橋漲4%
-- 美銀：油價可能還要漲50%
-- DeepSeek科創板IPO加速，中信或爲輔導機構
-- 中東局勢升級推高油價，伊朗試圖提高衝突烈度，「對等回應」時代或已結束？
-- 日元強勢引發多空分歧：對沖基金看漲至140，散戶逆勢加碼空頭
-- 港股大模型雙雄齊遭「殺估值」，爲何空頭資金卻在加速大撤退？
-- 路透：DeepSeek擬委託中信證券籌備科創板IPO
+- 美股收盤 | 「救市底牌」反引美債拋售，股指三連跌；海力士漲7%五連陽破新高，美光漲近3%；比特幣近500天首現金叉，黃金企穩4400
+- 耶倫等近50名經濟學家聯署：特朗普援引「國際收支」條款徵收全球關稅越權
+- 成交額TOP20 | iPhone Duo重磅亮相，起售17499港幣十月上市；Meta大漲7%，Muse化身現實賈維斯；SpaceX跌4%，近500億美元股票解禁
+- 蘋果摺疊屏iPhone亮相，分析師看好潛力但警示利潤率風險
+- 倫敦銅、紐約銅雙創歷史新高！關稅預期與供應短缺驅動漲勢
+- OpenAI與Anthropic遊說標普爭取BBB-評級：逼近萬億估值撞上持續虧損的信用門檻
+- 美股三大指數集體收跌 存儲、光通信板塊逆市上漲
+- EIA大幅上調油價預期：2026年布油均價料達91美元，供應中斷超預期
+- 美國30年期抵押貸款利率升至6.85%，創逾一年新高
+- 特朗普：美伊戰爭將在中期選舉結束後立即結束
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 伊朗/中东: 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), Benzinga (EN)
-- 美联储: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 加密货币: Benzinga (EN)
-- 中国政策/两会: 华尔街见闻 (简中)
+- 伊朗/中东: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
+- 加密货币: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中)
+- 就业数据: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
+- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
+- 黄金/大宗: 华尔街见闻 (简中)
+- 美联储: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
