@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年9月10日`
+`早间热点线索 · 2026年9月11日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026091020
+抓取时间: 2026091109
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- Trump promises $5,000 payment to US adults if GOP wins midterms
+- U.S. markets closed
+- Wall Street braces for August inflation report
+- Carney says in touch with Trump, Canada ready for 'fair' trade deal
+- Trump's $5,000 midterm 'dividend' is at least his fourth promise of cash for all Americans
+- Carney says in touch with Trump, Canada ready for 'fair' trade deal
+- Trump's $5,000 midterm 'dividend' is at least his fourth promise of cash for all Americans
+- Trump moves to end H-1B grace period after job loss
 - Wall Street says Apple's iPhone Duo has 2 problems
-- Macy's turnaround shows promise as earnings beat estimates, outlook improves
-- Wall Street says Apple's iPhone Duo has 2 problems
-- Macy's turnaround shows promise as earnings beat estimates, outlook improves
-- Apple debuts the iPhone Duo, its first foldable, priced at $1,999
-- Trump payout pledge adds to bond market jitters as auction looms
-- Stock futures look to snap 3-day losing streak as oil rally cools
-- Brent holds above $100 as tanker attacks dampen hopes for Hormuz traffic recovery
-- Citadel Securities urges SEC to take oversight of some wagers
-- Gold steadies near $4,400 as traders weigh Fed path
+- Stocks close lower for fourth straight day as rate hike bets rise
+- Treasury takes less than expected at buyback, pushing up yields
+- Mortgage rates just crossed 7%
+- Home sales sank in August as mortgage rates peaked
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- TSMC revenue rises 53% as AI chip demand outstrips supply
-- China 'willing' to hold AI talks with US despite row over models
-- Nvidia-backed MediaTek's sales soar 44% with AI chip momentum
-- Huawei lifted prices for its best AI chip by 60% this summer
+- Oracle posts cloud sales that top estimates on surging AI demand
+- Adobe forecast misses estimates, renewing fears about AI impact
+- Silicon Valley escalates warnings about existential risks of AI
+- PayPal keeping options open amid buyout rumors, CEO says
 - Popular
-- Major Novartis shareholder calls for board shake-up after drug trial setbacks
-- Goldman Sachs: Treasury buybacks won't be enough to tame bond yields
+- FBI warns homeowners with paid-off mortgages of major risk
+- Nvidia’s Huang dismisses AI fears as a way for cybersecurity firms to drum up business
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,68 +145,65 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- These Analysts Slash Their Forecasts On Cooper Companies Following Q3 Results
-- What's Going On With AMD Stock Thursday?
-- Why Is SK Hynix Stock Falling on Thursday?
-- Thermo Fisher, Wells Fargo, Nutrien And More On CNBC’s ‘Final Trades’
-- This Chewy Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Thursday
-- Stock Market Today: Dow Jones, S&P 500 Futures Gain as Trump Promises $5,000 Dividend After Midterm Elections— AVAV, AEO, COO, ORCL in Focus
+- Congresswoman Bets on Elon Musk, Warren Buffett: Here’s the Latest Stock Transactions
+- Mark Cuban Says Average ACA Deductible Is $3,700 and Hospitals Want Payment Up Front — If You Can’t Pay, There’s a ‘Good Chance’ You Won’t Get Needed Care
+- Ripple Expands Beyond Crypto Payments With AI System 'GSmart'
+- Sam Altman Wants to Take Time Off to Play a Video Game (And it’s Not GTA 6)
+- CLARITY Act Faces New Fight Over 'Vertical Integration' In Crypto
+- Nvidia Stock Sits in 82% of Portfolios, But Hedge Funds Are Making Other AI Bets
+- Inflation
 - Foldable IPhone
-- Data Centers
 - Anthropic
-- Mark Zuckerberg
+- Zumiez Stock Tanks as Q2 Results Miss Expectations: Details
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 报道：美国高层告诫特朗普美伊冲突或拖至2029年
-- 苹果新机发布，华强北尚未出现新机，商家回应“新机提前流出”
-- 欧洲央行9月利率决议看点前瞻
-- 报道：伊朗暂停对外国船舶征收10%的运费附加费
-- 梅西百货第二季度净销售额48.7亿美元，同比增长1.1%。
-第二季度调整后每股收益63美分，预期36美分。
-第二季度同店销售增长2.7%，预期增长0.86%。
-梅西百货预计全年同店销售增长1%至1.5%，市场预期增长0.99%。
-梅西百货预
-- 蚂蚁灵波LingBot-World 2.0开源三款模型
-- 消息人士：因存在可负担性担忧，白宫的铜关税计划陷入停滞
-- 历经数月谈判 Anthropic向欧盟开放Mythos访问权限
-- 国家发展改革委与美在华跨国企业高层圆桌会在京举行
-- 美国人工智能安全法案可能最早于下周提出。（Semafor）
-- 大众汽车重组成本可能高达160亿欧元。（明镜周刊）
-- 诺和盈®获批代谢相关脂肪性肝炎适应症
+- 特斯拉中国正式上线全新Model Y全轮驱动高性能版，售价36.9万元起。
+- 美国10年期国债收益率上升2.6个基点至4.9708%，创2023年10月以来最高水平。
+- Adobe分析师电话会议要点总结
+- Kalshi获美国CFTC批准上线黄金白银永续合约，扩大期货产品版图
+- 观察人士称干预美债似乎与沃什的表态背道而驰，贝森特本人回应
+- 爱彼迎CEO：人类需要“驾驭”AI浪潮，而不是被其吞没
+- 华尔街见闻早餐 | 2026年9月11日
+- 经济学家称：特朗普提议的5000美元选举“红利”可能加剧通胀
+- 特朗普：伊朗有一些导弹，大部分已被摧毁。
+- 特朗普：将通过经济增长来处理40万亿美元债务问题。
+- Anthropic披露又一起AI模型侵入第三方系统事件
+- 美国财长贝森特解释自己日前的“我是庄家”之说，称：当我说我是庄家时，我并不是在挑战别人来找我。
+但我是在试图说明我拥有更优越的信息，并且我正在努力给市场提供良好的框架，这样他们就不会恐慌。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 也门胡塞武装攻占红海港口城市穆哈
-- 泰国拟实施差异化电动车消费税
-- 捷荣技术：折叠屏及AI液冷业务收入占比均不超过1%
-- 现货铂金下跌近3%，报1839.52美元/盎司。
-- 中国人民银行副行长宣昌能会见新加坡金融管理局副行长梁新松
-- 土耳其央行维持基准回购利率在37.00%不变，符合预期。
-- 工信部电子信息司召开电子元器件产业发展座谈会
-- 现货白银日内跌幅达2.0%，报65.9美元/盎司。
-- 阿尔及利亚宣布与阿联酋断交
-- 2026年亚太经合组织（APEC）工商领导人峰会将于11月17日至18日在深圳举办
+- 微软计划大力扩建数据中心，考虑将规模扩大逾两倍至超过38 GW
+- 博索纳罗民调支持率飙升追平卢拉，最高法院危机令选情趋紧
+- Robinson要求美国最高法院审查体育预测市场裁决
+- 也门胡塞武装占领红海战略要地哈尼什群岛
+- 辛鲍姆喊话美国：别在中期选举中利用墨西哥
+- 高盛集团测试与Meta关联的数据中心债券需求。
+- WTI原油日内涨幅达8.0%，报103.84美元/桶。
+- WTI原油日内涨幅达7.5%，报103.33美元/桶；布伦特原油日内涨幅达7.5%，报108.85美元/桶。
+- 新兴市场外汇指数创7月份以来最大单日跌幅，投资者关注美联储加息风险
+- 美国两年期国债收益率涨15个基点，报4.58%，创2024年以来新高。
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Developing | At least 20 dead in blaze on foreign-flagged cargo ship in China’s Qingdao
-- US delegation to Xiangshan Forum to be led by senior Pentagon official for China
-- Politics
-- Hong Kong’s first leader Tung Chee-hwa to be honoured with state funeral
+- Tech, EV and aerospace execs likely to join Xi’s US trip to mirror Trump team
+- Science
+- Chinese team achieves fourfold leap in fuel-cell power
 - Diplomacy
-- China’s Xi Jinping to make first trip to India in 7 years for Brics summit
+- Anthropic claims Moonshot, DeepSeek secretly diverted user requests to Claude
+- Hong Kong Economy
+- In Focus | What’s a Northern Metropolis-like project doing in Malaysia? Lessons for Hong Kong?
 - Military
-- Japan’s AI satellites and other space ambitions ‘a serious threat’, China warns
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- The vessel was docked for repairs, CCTV report says, as President Xi Jinping calls for all-out search and rescue efforts.
-- The visit is yet another stop in a busy month of diplomacy for the president, who will be in Washington in a fortnight.
-- State broadcaster CCTV says satellite plan is a cornerstone of Tokyo’s broader space militarisation strategy.
-- Global Economy
-- China presses France to drop ‘protectionist’ anti-fast fashion law
-- Beijing is also holding talks with French companies over whether they received subsidies that may have partly benefited their Chinese operations.
-- AfD party won big in Saxony-Anhalt. Will it affect Germany’s approach to China?
-- In the wake of a key state election, observers say Germany’s economic pressures will persist, no matter who is in power.
-- Business
-- Why Hong Kong’s strategic advantages attract global talent
+- Sources say business leaders are expected to travel to Washington, but the plans may be ‘more about optics’ than concrete results.
+- Development of Malaysia’s Johor-Singapore Special Economic Zone and Hong Kong’s Northern Metropolis offers case study on mutual learning.
+- US Navy plans compact Silent Anvil torpedo as China’s submarine fleet surges
+- The weapon is expected to be air-launched and suitable for use across a range of platforms.
+- Economics
+- Can a US$6 trillion South Korea-Japan economic bloc succeed?
+- A South Korean tycoon’s proposal could create the world’s fourth-biggest economic bloc, if both countries put history behind them.
+- China rebuts US’ Marco Rubio over ‘Communist Party-backed projects’ in Peru
+- Embassy in Lima defends US$30 billion investment stock and takes aim at visa curbs as Fujimori joins Trump’s Shield of the Americas.
+- Lifestyle
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -214,7 +211,7 @@
 - 美指控华企“工业规模”蒸馏AI模型，AI大模型股齐下挫
 - DeepSeek传科创板IPO 聘中信证券筹备
 - 美军摧毁伊5油轮 报复舰只遇袭
-- 餐桌“剪刀差”，工业“成本劫”
+- 一把豌豆打坦克，贝森特沦“迷信鸽子”
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -236,37 +233,37 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 國際銅價突然跳水 報道稱白宮尚未決定是否對精煉銅徵收關稅
-- 摩根大通首次覆蓋SK海力士ADR：較美國同行折價20%，當前估值非常便宜
-- 美股逼近新高，資金卻仍在觀望？野村揭示「負面風險三角」
-- 從AI算力擴張到應用端創收，高盛透視AI投資新階段：誰能把Token變成現金流
-- 胡塞武裝拿下紅海沿岸城市穆哈，曼德海峽控制權生變，國際油價走高
-- 北水淨流入港股超45億港元，騰訊獲7億淨買入，智譜、中芯分別遭9億、8億減持
-- AI能力越驚豔，NAND存儲越要擴容！高盛拆解閃迪「長期協議+天量AI推理」牛市邏輯
-- 瑞銀稱「金價已充分定價聯儲局」：9月加息則小跌、不加則大漲！
+- 富途早報 | 油價破百債息飆升，市場聚焦今夜美國CPI；特朗普暗示：選舉或制約全面升級戰事；黃仁勳看好網絡安全，否認AI循環投資
+- 甲骨文第一財季雲基礎設施收入增長121%超預期，RPO達6640億美元，上調全年業績指引
+- 甲骨文電話會：單季交付850兆瓦算力，GPU續約溢價20%，RPO將大規模轉化爲真實收入
+- 美國財長貝森特：美債市場「形勢良好」，回購規模低於預期系主動選擇
+- CPI前夜，美債先「動手」了：加息概率突破七成，10年期國債收益率逼近5%
+- SpaceX再籤AI算力大單、CFO稱年底ARR有望衝千億美元，明年首發太空算力衛星
+- Adobe三季度營收、利潤雙雙超預期，AI驅動月活用戶突破10億，Q4指引不夠「驚喜」
+- 成交額TOP20 | 蘋果逆市勁升4%；微軟擬三倍擴張數據中心規模；英偉達跌2%，黃仁勳再斥循環融資質疑；摩通首予海力士ADR直指245美元
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 全球首次！存儲大廠承認：內存價格漲夠了
-- 收市速睇 | 三大指數延續跌勢，科指跌2.04%，美團跌近4%；光通信、人工智能概念股走弱，曦智科技跌近7%，海致科技跌近13%；內銀股普漲，民生銀行漲超3%；摯達科技逆市飆升超107%
-- 高盛評蘋果摺疊iPhone：定價「Affordable」，今年出貨最高可達3500萬台
-- 重磅金融發佈會！證監會、央行、金融監管總局、外匯局齊發聲
-- 外交部：中美雙方就年內元首互動安排保持着溝通
-- 商務部：中美正就300億美元對等降稅框架安排進行磋商
-- 「存儲雙雄」巨額分紅難消「韓國折價」，投資者質疑對韓股改革是否足夠
-- 「聯儲局傳聲筒」：週五CPI的一絲微小變化，可能決定聯儲局下一步行動
-- 美股年尾何去何從？華爾街：有望邁上「8000大關」，但短期風險上升！
-- 台積電8月營收5148億元新臺幣創新高，擴廠速度空前仍追不上需求
+- 美債拋售疊加供給潮施壓，長期市政債收益率創2011年來新高
+- 美股收盤 | 通脹憂慮重燃，股指四連跌；AI交易回落，美光、LITE、NBIS跌5%；油價飆漲破百，黃金重挫；10年期美債收益率逼近5%
+- AI算力投資再加碼，黑石據稱準備大幅提高谷歌TPU採購量
+- 黃仁勳押注網絡安全爲AI下一個用例，並坦言「製造問題」即是製造需求
+- OpenAI推出Agents API公測版，將Codex底層基礎設施向開發者開放
+- 算力短缺倒逼AI基建擴張，微軟擬將數據中心容量提高兩倍至38GW
+- 胡塞武裝攻佔紅海重要港口、沙特衝突升級，伊朗被曝恢復產彈道導彈，原油應聲大漲
+- 甲骨文2027財年Q1營收193億美元，同比增長30%；調整後EPS1.92美元，全年營收預估破900億美元
+- Adobe2026財年Q3營收67.6億美元，同比增長13%；調整後EPS6.13美元
+- 美股三大指數集體收跌 存儲板塊下挫
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 中国/欧盟: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 黄金/大宗: Yahoo Finance (EN), 华尔街见闻 (简中)
-- 中国政策/两会: 华尔街见闻 (简中), 富途资讯 (繁中)
-- 伊朗/中东: 华尔街见闻 (简中)
-- 美国关税: 华尔街见闻 (简中)
-- 加密货币: 华尔街见闻 (简中)
-- 就业数据: 华尔街见闻 (简中)
-- 美联储: Yahoo Finance (EN)
+- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中), 经济通 (繁中)
+- 伊朗/中东: 华尔街见闻 (简中), 富途资讯 (繁中)
+- 加密货币: Benzinga (EN), 华尔街见闻 (简中)
+- 中国/欧盟: 华尔街见闻 (简中), SCMP (EN/中)
+- 油价/霍尔木兹: 华尔街见闻 (简中)
+- 就业数据: Yahoo Finance (EN)
+- 黄金/大宗: 华尔街见闻 (简中)
+- 美联储: 华尔街见闻 (简中)
+- 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
