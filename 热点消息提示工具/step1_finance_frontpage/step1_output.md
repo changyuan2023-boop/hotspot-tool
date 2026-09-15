@@ -3,23 +3,22 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 30m | Altman on AI: We may lose control | AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning | AI warnings  Amodei and Altman could hammer this momentum stock | AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning | AI warnings  Amodei and Altman could hammer this momentum stock | Cybersecurity stocks get a jolt on gloomy AI warnings | Bitcoin's late summer rally set to face off against the Fed, Congress
-  - 其他: Top Stories | Anthropic's AI warning | Markets & Economy | Stock futures fall as AI warning spooks tech traders | Markets see a Fed hike as a done deal. Here's why it might hold steady
+  - 头版/首屏: U.S. markets closed | Stocks pare losses as AI warning spooks traders, 10-year yield hits 5% | 82% of the Trump administration's corporate bets are now in the red | Fed rate hikes historically spell early trouble for the S&P 500 | 82% of the Trump administration's corporate bets are now in the red | Fed rate hikes historically spell early trouble for the S&P 500 | Carney says US deal possible, blow-up helped clarify 'red lines' | Too early to judge Warsh's Fed communication, billionaire investor says
+  - 其他: Top Stories | Anthropic's AI warning | Markets & Economy | Bank of America stock slides — and it's dragging the sector with it | 10-year Treasury yield briefly tops 5% for the first time since 2023
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Sponsored Content | Why Is It Moving?™ | Trending Stories | Expert Ideas
-  - 其他: Delta Air, Freeport-McMoRan, Kimberly-Clark And More On CNBC’s ‘Final Trades’ | Think a Fed Pause Is Bullish? The Bond Market Might Hijack Your Portfolio Instead | Bitcoin Stuck at $78,000 as CLARITY Act Vote, FOMC Meeting Loom as Catalysts | Top Wall Street Forecasters Revamp Evolution Petroleum Expectations Ahead Of Q4 Earnings | Why Is Micron Technology Stock Falling Monday?
+  - 其他: Suze Orman Says Eating Out Is Now an Even Bigger Waste Of Money — ‘Are You Kidding Me…$30 Just to Go to McDonald’s’ | Trump Calls Jensen Huang Live On-Stage at the All-In Summit: 'Robots Will Not Be Taking Over, It's All a Hoax' | Private Credit Defaults Climb To 6.3% In August, Fitch Says | Sysco Stock Slides on $1 Billion Offering | Bitcoin Shows Bull Pattern but 'Be Very Careful' Ahead of the FOMC Meeting, Analyst Cautions
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 美参议院民主党领袖：要求特朗普政府就人工智能问题向全体参议员提供机密简报。 | 马克·古尔曼：苹果未来或推出iPhone Duo Max，折叠屏手机有望成主流 | OpenAI总裁称为AI开发减速应主要针对前沿模型 | 华尔街策略师料美联储加息难阻美股延续走强 | 中国1至8月社会融资规模增量 239100亿人民币，前值 222500亿人民币。
-中国1至8月新增人民币贷款 104400亿人民币，前值 103800亿人民币。
-中国8月M2货币供应同比 7.5%，前值 7.7% 。
-中国8月M1货币供应同 | 胡塞对沙特空军基地发动大规模打击 | 苹果回应“iPhone 17大降价” | 美股盘前，存储芯片股、光通信股普跌
-  - 其他: 泽连斯基：愿讨论能源领域停火，计划在纽约会晤特朗普 | 英国威尔士、苏格兰和北爱尔兰政党领导人会晤 | 长三角铁路中秋国庆假期运输方案出炉 预计发送旅客5400万人次 | 山子高科一字涨停 关联方拟收购哪吒汽车母公司 | 美元兑日元扩大涨势，上涨0.7%，触及一周高点154.74。
+  - 头版/首屏: 美法官阻止收紧国际学生等逗留期限新规生效 | BIS警告AI概念行情现脆弱迹象，债务激增引发新担忧 | 美国最高法院驳回特朗普对中期选举邮寄选票的限制措施。 | 美国防部报告披露美军先进武器库存出现短缺 | 美国加州在《清洁空气法》豁免权之争中取得第二次胜利 | 华尔街见闻早餐 | 2026年9月15日 | 急于推动大规模重组，“针对中国”显复杂心态，美国安局被爆要设中国事务部 | Cohere首席执行官：AI模型正成为有史以来“最强大的网络武器”
+  - 其他: 周一（9月14日），美股存储芯片与硬件供应链指数跌6.21%，报190.76点。
+成分股泰瑞达收跌13.30%，拉姆研究、SK海力士ADR至少跌7.6%，Rambus、应用材料、美光科技至少跌5.25%，闪迪跌4.98%，西部数据跌4.53 | 美股七巨头收盘播报｜周一（9月14日），美国科技股七巨头（Magnificent 7）指数涨0.05%，报228.12点，整体低开高走。
+“超大”市值科技股指数跌0.49%，报452.26点，低开之后逐步收复失地、北京时间02:00过后一度 | 最新披露的监管文件显示，AMD的CEO苏姿丰在9月10日分别卖出2.5万股、3.5万股（Bonafide gift）、7.0万股。 | 周一（9月14日），彭博电动汽车价格回报指数跌0.65%，报3299.24点，全天冲高回落——北京时间10:00过后、14:00之前曾一度转涨。 | 伊朗革命卫队：一艘油轮试图穿越海峡时触雷爆炸
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: How China’s inbound tourism could ease strain on weak domestic consumption | Policy | A ploy to entrench US lead? China pushes back on calls for slowdown in AI | Politics | Beijing hails Taiwanese scholar’s rare proposal on reunification | Law and Crime | Syndicate dispute or theft? The legal fight over HK$30 million Mark Six prize | Military
-  - 其他: Country’s inbound travel revenue forecast to double share of economy and capture 15 per cent of global holiday market, Swiss bank says. | A lawyer says 14 government employees must launch civil proceedings to recover their shares after a colleague allegedly kept the prize money. | Japan eyes quantum sub-hunting drone sensors as China extends undersea reach | Feeling the pinch from cost and personnel pressures, Tokyo’s defence planners aim to unlock potential in uncrewed systems. | How an AI plot targeted Malaysia’s elections and exposed deep data risks
+  - 头版/首屏: In Focus | No extensions: NYC’s rich Chinese navigate Beijing’s tax rules as deadline looms | Diplomacy | Huawei’s US trial puts jury to the test amid China, Iran links | Hong Kong’s next policy address is just around the corner. Here’s what to expect | Banking & Finance | China targets overseas brokerages in crackdown on pay loopholes and corruption | Beijing threatens ‘serious consequences’ after Panama lawmakers support Taiwan | Brics leaders act to hedge – not revolt – against US dollar dominance
+  - 其他: With the 90-day grace period soon to run out, some ultra-wealthy living outside mainland China face complicated tax liability questions. | The move extends Beijing’s regulatory reach to financial institutions’ overseas activities, which have been a grey zone for corruption. | Parliamentary exchange group set up despite pressure from China’s embassy and public disavowal by Panamanian President Jose Raul Mulino. | As New Delhi summit closes, the bloc pushes for a louder voice within global institutions while building parallel machinery, analysts say. | Middle East
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 智谱再配股兼发CB抽水394亿，股价曾插一成可否低吸？ | iPhone 18 Pro预售爆抢 电商平台“秒清” | 美拟引国防生产法 提升炼油产能 | Anthropic“狼来了”，智谱领衔拒买账 | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -30,31 +29,31 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 報道：鎧俠考慮赴美發行ADR募資至少100億美元，或於明年上市 | 伊朗與海灣談判推遲：油價上漲風險加劇！聯儲局決議前加息押注升溫、中期選舉再添變數 | 高盛大幅上修27/28年光模塊需求，稱供應鏈緊張將是明年最大出貨瓶頸 | 「AI降速」擔憂是噪音？芯片上游「風向標」阿斯麥發出樂觀信號：需求火爆，熱潮還沒走到盡頭！ | 逃離半導體！外資上週拋售約4萬億韓元三星和SK海力士股票 | 聯儲局加息在即，美股牛市不保？高盛反駁：盈利增長才是關鍵！ | 三星、SK海力士拒絕向韓國電力預付190億美元電費 | 10月1日正式面世！特斯拉超跑Roadster跳票多年終將揭幕，或將搭載SpaceX推進器
-  - 其他: IPO前夕AI研發「踩剎車」，Anthropic是「怕了」還是「急了」？ | 北水加倉港股近45億港元，淨買入智譜超12億港元，淨賣出中芯國際超6億港元 | 央行：前八個月人民幣貸款增加10.44萬億元 ；廣義貨幣（M2）餘額356.81萬億元，同比增長7.5% | 能源、食品價格壓力加劇或引通脹反撲！英國央行恐難再「淡定」 市場加息押注急升 | 收市速睇 | 恒指漲0.45%，科指近乎收平；生物技術、汽車股集體上漲，康方生物漲近6%，零跑汽車漲超4%
+  - 头版/首屏: 富途早報 | 特朗普怒斥AI恐慌，黃仁勳指AI創新與安全並非二選一；美股承壓摩通逆勢看多：企業盈利仍能支撐市場；蘋果發佈iOS 27，新版Siri AI進入公開測試 | 特朗普抨擊Anthropic CEO：AI發展不能踩剎車，美國有「高智商總統」就足夠 | 10年期美債突破5%！「兩種敘事」縈繞市場：「2023年式短暫見頂」還是「2000年代式引爆金融危機」？ | 特朗普連線黃仁勳：痛斥AI威脅是“騙局“，力挺數據中心稱其是「未來的石油」 | 甲骨文的AI賬本同時做兩道減法：裁員13%落地、創始人取消逾75億美元減持計劃 | 加拿大總理：美加貿易協議仍有可能達成，8月談判破裂釐清「紅線」 | 特朗普當衆致電黃仁勳：AI危險論是"騙局"，數據中心重要性超過互聯網 | 成交額TOP20 | 谷歌、Meta、Palantir逆市漲3%；蘋果Siri AI正式開放測試；英偉達客戶集中度快速上升；特斯拉Roadster跳票十年終揭幕
+  - 其他: 華爾街大行全線重挫！美銀CEO稱三季度交易收入增長停滯，投行收入不及預期 | 美股收盤 | AI降速擔憂重挫費半指數6%，股指齊跌；網安概念CRWD、PANW暴漲13%，BUG漲超10%；金銀承壓，比特幣走強，US10Y一度破5 | 美國私募信貸違約率升至6.3%，再創新高，軟件行業違約率卻降至0.6% | 美股三大指數均小幅收跌 光通信、存儲板塊大跌 | 10年期美債收益率衝破5%！華爾街上調收益率預期，神準分析師：拋售還沒結束
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (4 站)
+- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (3 站)
 - **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
-- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
+- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
+- **加密货币** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
 - **黄金/大宗商品** — 出现于: 华尔街见闻 (简中), SCMP (EN/中) (2 站)
-- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中), 富途资讯 (繁中) (2 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN) (1 站)
-- **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
+- **美国关税（15%等）** — 出现于: 华尔街见闻 (简中) (1 站)
+- **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 加密货币（3 站）
+- 油价/能源（4 站）
+- 伊朗/中东局势（3 站）
 - 美联储/利率（3 站）
 - 中国/欧盟（3 站）
-- 伊朗/中东局势（2 站）
-- 油价/能源（2 站）
+- 加密货币（2 站）
+- 就业/经济数据（2 站）
 - 黄金/大宗商品（2 站）
-- 中国政策（2 站）
 - 关税/贸易政策（1 站）
-- 就业/经济数据（1 站）
+- 中国政策（1 站）
