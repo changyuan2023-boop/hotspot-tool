@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026091609
+抓取时间: 2026091620
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
+- U.S. markets open in 1h 30m
 - Markets brace as Fed expected to hike rates for first time in 3 years
-- Robinhood staffers charged with crypto-related trading fraud
-- Bessent: We can give Americans $5,000 dividends without adding to the deficit
-- Robinhood staffers charged with crypto-related trading fraud
-- Bessent: We can give Americans $5,000 dividends without adding to the deficit
-- Clarity Act cloture vote fails: What it means for your crypto holdings
-- Bitcoin tumbles 4% to $75,000 as hopes of CLARITY Act passage this year fade
-- From hallucinating AI chatbots to wiping out humanity: How did we get here?
-- CEOs call for pacing AI as Nvidia's Jensen Huang says extinction fears are made up
-- Sanders and Bannon agree on AI dangers—but are split on the solution
-- 'I'm not sure AI would make the top 50' in betting on human extinction: Okta CEO
+- Fed hikes usually pound stocks, but then something surprising happens
+- Death of software 'greatly overstated' as sector flips the script on chip stocks: Chart of the Day
+- Fed hikes usually pound stocks, but then something surprising happens
+- Death of software 'greatly overstated' as sector flips the script on chip stocks: Chart of the Day
+- Crypto billionaire on Clarity Act dying: Government feels broken
+- Trump has few good options to slow China's rise as AI superpower
+- Bill Gurley: Amodei's AI warnings are flawed
+- OpenAI weighing funding round at over $1.2T valuation
+- AI will not wipe out humanity: Nvidia backed tech CEO declares
+- Meta's Zuckerberg favors evaluators over slowdown for AI safety
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Tech & AI
 - Markets & Economy
-- Bessent defends Trump economic policies, reveals plans to meet Chinese official
-- Why this billionaire investor thinks ballooning US debt is a ticking time bomb
-- Gas prices are 35% higher than at this point in the 2024 election. There's little left for Trump to do about it.
-- Stocks edge lower after 10-year Treasury yield rises
+- Stock futures rise ahead of crucial Fed interest rate decision
+- Dollar bides time ahead of expected Fed hike
+- Oil slips as Saudi Arabia offers more crude via Oman; diesel near record high
+- Bitcoin under renewed pressure as looming Fed hike adds to woes
 - Popular
+- EU proposes Canada become the bloc's first 'associate member'
 - 5 traps that could quietly devour your $2M retirement
-- Social Security COLA estimate: How much benefits could rise in 2027
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,12 +42,12 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- I Inherited My Father’s $600K Florida Home — But My Brother Has Lived There Rent-Free for 5 Years and Says ‘Good Luck Kicking Me and My Kids Out’
-- Canada's New 'Productivity Mega Deduction' Aims to Outpace Trump Tax Cuts
-- Senator Bets on Small Cap Stocks Ahead of Likely Rate Hike: Why That Could be Risky
-- Blackstone Says Private Credit’s ‘Global Crisis’ Fears Are Overblown
-- 'This Selloff Makes Zero Sense': An Analysis from WallStreetBets
-- Elon Musk Flags Taiwan as AI’s Weak Link. These Semiconductor ETFs Could Offer a Hedge
+- H.B. Fuller Likely To Report Higher Q3 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
+- Bitcoin, Ethereum ETFs Lose $592 Million Ahead of Fed Decision
+- What's Going On With Micron Technology Stock Wednesday?
+- Why Is Bloom Energy Stock Trading Higher on Wednesday?
+- ‘The Wizard Is Telling You Something Is Rotten In Oz’: Antony Blinken Says Policymakers Need to Listen to AI Safety Warnings
+- Stock Market Today: S&P 500, Dow Jones Futures Gain Ahead of FOMC's Interest Rate Decision — INTC, SKHY, LEN, TCOM in Focus
 - Sam Altman
 - Dario Amodei
 - Jamie Dimon
@@ -55,60 +55,59 @@
 
 ## 华尔街见闻 (简中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Anthropic将于10月在新加坡开设办事处。
-- 据伊朗媒体16日报道，伊朗南部格什姆岛传出数次爆炸声。（新华社）
-- Brookfield同意以每股3.38美元现金收购Reliance Worldwide。
-- 华尔街见闻早餐 | 2026年9月16日
-- 福特2027款F-150皮卡：扩大V8发动机供应，下调性能版售价
-- AWS：伊朗袭击半年后，巴林与阿联酋部分设施仍无法恢复服务
-- 加拿大投资峰会要点总结
-- OpenAI的CFO：我并不担心AI开发的进度放缓问题。（CNBC）
-- 提醒：日内请重点关注（以下均为北京时间）
-- Meta将推出无摄像头智能眼镜，应对日益加剧的隐私顾虑
-- 伊朗格什姆岛传出数声爆炸声。（伊朗媒体IRNA）
-- 微软上调季度派息至每股0.98美元，之前为0.91美元。
+- 也门胡塞武装称袭击了哈米斯穆谢特的一处空军基地，袭击了延布的沙特阿美石油设施。
+- 普华永道瑞士据悉拟将奖金减半 部分归因于AI应用增加
+- 摩根资产管理Stealey：美联储若按兵不动恐“震动”美债市场
+- Meta Platforms盘前拉升，现涨近1%，此前花旗将Meta列入未来90天上行催化剂观察名单。
+- OpenAI开启新一轮融资初步洽谈 估值或达1.2万亿美元
+- 美国9月11日当周MBA抵押贷款申请活动指数周环比 -4.1%。
+- 芝加哥商品交易所：电子邮件系统中断是由于Salesforce服务中断所致。
+- OpenAI智能体被曝在入侵Hugging Face前两个月曾测试其弱点
+- 英特尔盘前涨幅收窄，SK海力士回应“有关其与英特尔合作的报道” ：目前没有任何定论
+- 腾讯9月16日购回价值1.004亿港元股份。
+- 百度智能云天池超节点实现全栈国产，全面开放六大技术规范
+- 诺基亚盘前股价涨幅扩大至3.8%，公司加速人工智能无线接入网（AI-RAN）落地应用。
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 北美科技软件股指数ETF跌1.02%，报105.55美元。
-Global X网络安全ETF涨2.23%，纳斯达克网络安全ETF涨0.95%，ETFMG网络安全ETF涨1.71%。
-- 可转债ETF收跌0.9%，领跌美股大类资产类ETF，布油基金涨超2.2%
-- 提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。
-- 周二（9月15日），美股行业ETF普遍收跌，可选消费ETF跌1.75%，生物科技指数ETF跌1.27%，网络股指数ETF跌0.96%，全球科技股指数ETF跌0.33%，半导体ETF涨0.11%，能源业ETF涨2.17%。
-- 杰克亨利股价下挫，因年度现金流与营收指引不及预期
-- 标普500指数的11个板块中，可选消费板块收跌1.76%，电信板块跌0.84%，金融、信息技术/科技板块跌0.34%，能源板块涨2.26%。
-- 周二（9月15日），彭博电动汽车价格回报指数跌1.12%，报3259.43点，北京时间08:00-13:02大致持稳——形成日内顶部，随后短线迅速扩大跌幅，14:00以来持稳于3270点附近，美股盘初再次扩大跌幅，之后低位持稳。
-- 纳指收跌约0.8%，小盘股指跌超0.7%，半导体指数涨0.4%
-- 中概指数收跌超1.1%，KWEB跌1%，世纪互联、金山云跌超3%，腾讯、网易涨超1%
-- 美国司法部：要求各州在派拉蒙案件中缴纳19亿美元保证金。
+- 江汽集团项兴初：尊界坚定与华为聚力造好车，将拓展SUV等产品布局
+- 宁德时代与埃及BME达成技术合作
+- WTI原油日内跌幅达2.0%，报98.49美元/桶。
+- 华为坤灵升级“4+10+N”场景化方案，发布“经纬计划”和50个样板点
+- 9月金融债提速！740亿集中落地，银行加快补充中长期负债
+- 前8个月中哈（连云港）物流合作基地开行中欧（亚）班列666列
+- 抖音：取消6888名“理财师”认证，推进跨境违规营销、非法荐股炒汇等治理
+- 康惠股份：全资子公司签署17.20亿元算力服务合同
+- 贸易商四处找货 在波斯湾外装运的中东原油价格创3月以来新高
+- 吉尔吉斯斯坦副总理：对华合作是吉外交政策优先事项
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Xiangshan Forum: China’s defence chief says multilateralism a must
-- Diplomacy
-- Scott Bessent confirms weekend meeting with He Lifeng days before Xi’s US visit
-- Hong Kong policy address to unveil bold youth housing and mediation initiatives
-- Will ‘transactional’ America assist India in a future border crisis with China?
-- Global Economy
-- How Canada’s Trump headache is fuelling a China trade boom
+- Von der Leyen vows tough stance with China, using EU’s tools to rebalance trade
+- Big Tech
+- As appetite for US rivals grows, global funds flock to China’s Moonshot: sources
 - Politics
+- 14 key takeaways from John Lee’s policy address, Hong Kong’s first 5-year plan
+- China Economy
+- China’s Trip.com offers most ambitious travel deal yet: a trip to space
+- Diplomacy
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Some 200 experts and scholars from around the world are taking part in the three-day forum in Beijing.
-- India’s relations with US have frayed over trade and tariffs recently, but strong defence ties still remain between the two countries.
-- Exports to China hit their highest first-half level in decades as Ottawa looks to reduce dependence on its southern neighbour.
-- Top Chinese official leads 87-member committee for Tung Chee-hwa state funeral
-- Shi Taifeng, Politburo member and No 1 vice-chairman of CPPCC, is funeral committee head, with vigil on Saturday and public memorial service on Sunday.
-- Singapore ministers earn millions. What do other Asian leaders make?
-- Political pay structures elsewhere in Asia are shaped by factors including bureaucratic hierarchy, austerity and symbolic restraint.
+- Brussels is looking to reduce reliance on Chinese raw materials, and Beijing again urges the EU to avoid protectionist policies.
+- The Chinese travel platform now allows users to book space flight packages with US-based provider Virgin Galactic for nearly US$760,000.
+- US military prepares ceremonial welcome for Xi Jinping at the White House
+- Video clip shows honour guard drill mirroring the welcome extended to Donald Trump during his China trip.
+- Chinese research ship completes month-long mission near Scarborough Shoal
+- The vessel surveyed the geology and environment of a South China Sea feature claimed by Beijing and Manila.
+- Economics
+- How wildfires are threatening Indonesia’s economy and carbon market
+- Total economic and health costs from January to August as a result of the haze could reach US$6.9 billion, analysts warn.
 - Lifestyle
-- What drives 4 Shaw Prize laureates in pursuit of scientific discovery
-- Other Sport
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- Anthropic等巨头吁放缓AI发展，腾讯阿里可续博反弹？
-- 豆包手机助手消费者版 聚焦日常应用
-- 伊朗押后晤海湾国家 传谈判条款分歧
-- 消费大考将至，沪楼独自狂欢
+- 内地8月零售仅增0.4%，内需股表现分化可以点拣？
+- 内地8月消费固投低迷 国统局：续扩内需
+- 欧盟拟限15岁以下 分级禁用社交平台
+- 南金融北创科，五年规划揭KPI
 - 指数环球商品外汇
 - 国金观点
 - 港股大市分析
@@ -117,9 +116,9 @@ Global X网络安全ETF涨2.23%，纳斯达克网络安全ETF涨0.95%，ETFMG网
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数24667.24-250.36(-1.00%)
+- 恒生指数24713.78+46.54(+0.19%)
                     etnet.com.hk@copyright
-- 国企指数8204.91-79.67(-0.96%)
+- 国企指数8206.37+1.46(+0.02%)
                     etnet.com.hk@copyright
 - 理财/管理
 - 时尚艺术
@@ -130,36 +129,34 @@ Global X网络安全ETF涨2.23%，纳斯达克网络安全ETF涨0.95%，ETFMG网
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 市場做好今夜加息準備，哈塞特稱特朗普尊重沃什決定；加密市場里程碑監管法案Clarity被否；香港首個五年規劃及2026年施政報告今日公佈
-- 事關AI安全與監管！兩大陣營爭論不休，特朗普下週擬在白宮召集行業高管
-- 「極端」空頭壓境，聯儲局週三不加息就是1994年以來最大意外
-- 華爾街巨頭交易業務呈現「冰火兩重天」：摩根大通(JPM.US)預計Q3業績飆升，美國銀行(BAC.US)警示放緩
-- 1票之差！「里程碑」式數字貨幣法案未能通過美國參議院
-- 成交額TOP20 | 戴爾漲近2%再刷新高；谷歌推出最先進實時音頻模型Gemini 3.8 Live；美光完成全球首款超高密度內存模塊
-- 美股收盤 | 三大指數兩連跌；Clarity法案被否，Circle、Coinbase跌超10%；網安概念CRWD續刷新高；長債拋售加劇，比特幣重挫
-- 共和黨議員以「未經國會授權對伊動武」彈劾美防長，衆議院兩日內被強制投票
+- 花旗定調「微調」、高盛直言「無信號」，聯儲局今夜會否上演鴿派加息？
+- 投資者狂熱褪去後韓股陷入僵局！成交額跌至年內新低 7000點關口遲遲站不穩
+- SK海力士：尚未確認有關SK海力士與英特爾就美國內存芯片生產進行談判的報道所涉及的任何計劃
+- 北水加倉港股21億港元，掃貨智譜超31億港元，淨買入中芯國際6億港元
+- 距60票門檻有差距！「里程碑」式數字貨幣法案未能通過美國參議院
+- 「AI界的梅西」再獲唱好！Palantir長期多頭重提萬億估值邏輯，「大空頭」與散戶不認同
+- 智譜分析師交流會：年末ARR指引上調25%至30億美元，雲廠商分成收入10月起確認
+- AI價格戰愈演愈烈，入場壁壘也在下降：高額資本開支還能撐多久？
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- OpenAI擬IPO前融資，估值目標達1.2萬億美元
-- 美伊戰爭將推升美國明年Q1通脹0.5個百分點，CBO：已耗資380億美元，預計每月再增30億
-- 沙特最大紅海油港暫停裝船，被曝取消部分歐洲發貨，原油再衝高
-- 20年期美債拍賣收益率創歷史新高，10年期美債收益率再刷20年新高
-- 黃仁勳：AI安全無需新立法，市場力量已足夠
-- OpenAI瞄準加拿大數據中心，高管盛讚卡尼計劃
-- 美股三大指數集體收跌 加密貨幣概念股普跌
-- 哈塞特：特朗普尊重沃什決定，AI風險應由私營部門解決
-- 50:50落幕丨《CLARITY法案》推進受阻未獲通過
-- 谷歌推出最先進實時音頻模型：Gemini 3.8 Live邊聊邊辦事，Extended Thinking主打複雜推理
+- 劍指「5000大關」？專家：無論聯儲局加不加息，黃金都還能漲！
+- 收市速睇 | 三大指數齊漲，科指漲0.79%；黃金、半導體、光通信股表現強勢，紫金礦業漲超3%，中芯國際漲近5%，海光芯正飆漲近17%
+- 美債5%時代來臨：短期未必「爆雷」，12至18個月後或見壓力
+- 報道：SK 海力士正與英特爾洽談，擬首次在美生產存儲芯片
+- 不要和盈利週期對抗！傑富瑞預計美股今年破8000點
+- 花旗：「持續學習」的AI或將把內存「供不應求」延伸至2031年
+- 信息量巨大，香港公佈首個五年規劃
+- 「沃什時代」首次加息要來了？華爾街算好了三種劇本
+- 香港發佈首個五年規劃：聚焦人工智能產業，強化全球最大離岸人民幣樞紐功能
+- 港股午評 | 科指漲近1%，智譜漲超8%，聯想集團漲超7%；光通信、半導體股走強，劍橋科技大漲超13%，中際旭創漲超8%，華虹宏力漲超7%
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 伊朗/中东: 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
-- 美国关税: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN), 华尔街见闻 (简中), 富途资讯 (繁中)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中)
 - 美联储: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中)
-- 就业数据: 华尔街见闻 (简中), SCMP (EN/中)
-- 油价/霍尔木兹: 华尔街见闻 (简中)
+- 伊朗/中东: Benzinga (EN), 华尔街见闻 (简中)
+- 油价/霍尔木兹: Yahoo Finance (EN), 华尔街见闻 (简中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
 - 黄金/大宗: 华尔街见闻 (简中)
-- 中国/欧盟: SCMP (EN/中)
 - 中国政策/两会: 华尔街见闻 (简中)
 
 --- 粘贴结束 ---
