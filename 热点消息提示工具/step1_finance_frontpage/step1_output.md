@@ -3,23 +3,29 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 30m | Markets brace as Fed expected to hike rates for first time in 3 years | Fed hikes usually pound stocks, but then something surprising happens | Death of software 'greatly overstated' as sector flips the script on chip stocks: Chart of the Day | Fed hikes usually pound stocks, but then something surprising happens | Death of software 'greatly overstated' as sector flips the script on chip stocks: Chart of the Day | Crypto billionaire on Clarity Act dying: Government feels broken | Trump has few good options to slow China's rise as AI superpower
-  - 其他: Top Stories | Tech & AI | Markets & Economy | Stock futures rise ahead of crucial Fed interest rate decision | Dollar bides time ahead of expected Fed hike
+  - 头版/首屏: U.S. markets closed | Stocks fall after Warsh discusses Fed hike | Trump after hike: 'Interest Rates in the United States should be 1%' | White House official calls rate hike a 'rather unfortunate decision' | Trump after hike: 'Interest Rates in the United States should be 1%' | White House official calls rate hike a 'rather unfortunate decision' | Fed hikes interest rates for first time in three years in unanimous decision | What a Fed rate hike means for your bank accounts, loans, credit cards, and investments
+  - 其他: The Fed Hikes | Markets & Economy | Tech & AI | Snap launches $2,195 Specs smart glasses | SpaceX stock pops ahead of Starship launch
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Sponsored Content | Why Is It Moving?™ | Trending Stories | Expert Ideas
-  - 其他: H.B. Fuller Likely To Report Higher Q3 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call | Bitcoin, Ethereum ETFs Lose $592 Million Ahead of Fed Decision | What's Going On With Micron Technology Stock Wednesday? | Why Is Bloom Energy Stock Trading Higher on Wednesday? | ‘The Wizard Is Telling You Something Is Rotten In Oz’: Antony Blinken Says Policymakers Need to Listen to AI Safety Warnings
+  - 其他: Man, 30, is Worth More Than $50M But Still Takes The Train And Drives a Honda — The Only Luxury He Embraces Is 'Experiential Spend' | Generac Stock Soars on $8 Billion Amazon Data Center Deal | Ethereum Is 'the Big Daddy' but Raoul Pal's Biggest Bet Is Elsewhere | Lennar Posts Q3 Double Miss, Shares Slip | KKR Doubles Private Debt Deals to $80 Billion as AI Spending Explodes
 
 - **华尔街见闻 (简中)** ✓
-  - 头版/首屏: 也门胡塞武装称袭击了哈米斯穆谢特的一处空军基地，袭击了延布的沙特阿美石油设施。 | 普华永道瑞士据悉拟将奖金减半 部分归因于AI应用增加 | 摩根资产管理Stealey：美联储若按兵不动恐“震动”美债市场 | Meta Platforms盘前拉升，现涨近1%，此前花旗将Meta列入未来90天上行催化剂观察名单。 | OpenAI开启新一轮融资初步洽谈 估值或达1.2万亿美元 | 美国9月11日当周MBA抵押贷款申请活动指数周环比 -4.1%。 | 芝加哥商品交易所：电子邮件系统中断是由于Salesforce服务中断所致。 | OpenAI智能体被曝在入侵Hugging Face前两个月曾测试其弱点
-  - 其他: 江汽集团项兴初：尊界坚定与华为聚力造好车，将拓展SUV等产品布局 | 宁德时代与埃及BME达成技术合作 | WTI原油日内跌幅达2.0%，报98.49美元/桶。 | 华为坤灵升级“4+10+N”场景化方案，发布“经纬计划”和50个样板点 | 9月金融债提速！740亿集中落地，银行加快补充中长期负债
+  - 头版/首屏: 百度沈抖：大模型正从技术变成经济力量 | 中信证券：预计美联储年内将再加息25个基点 明年或按兵不动 | 特朗普谈伊朗：将是一个非常好的结局。 | 特朗普：战争很快就会结束，因为伊朗撑不下去了。 | 特朗普：我们非常接近与墨西哥达成协议。
+我们为什么要带加拿大玩？
+我们不需要欧洲拥有的任何东西。
+我们正在努力解决俄罗斯和乌克兰问题，最难结束的是俄乌问题。
+乌克兰冲突才是推高柴油价格的原因。 | 特朗普：伊朗战争将很快结束。
+伊朗还没准备好达成协议。
+我们随时都可以达成协议。 | Arm CEO：对新款AI芯片达成20亿美元营收目标信心进一步增强 | 特朗普预计将于下周会见海湾阿拉伯国家合作委员会（GCC）领导人，预计将讨论伊朗问题。（AXIOS）
+  - 其他: 国际金价在美联储加息日跌约0.7% | 标普500创下2018年以来最长“美联储决议日”连跌纪录 | 埃克森美孚接近就委内瑞拉投资达成协议。（华尔街日报） | 明晟公司MSCI新兴市场股票指数涨0.3%，发展中国家外汇指数跌0.1%。 | 巴西政客Eduardo Bolsonaro请求美国制裁巴西多名法官。（CNN Brasil）
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Von der Leyen vows tough stance with China, using EU’s tools to rebalance trade | Big Tech | As appetite for US rivals grows, global funds flock to China’s Moonshot: sources | Politics | 14 key takeaways from John Lee’s policy address, Hong Kong’s first 5-year plan | China Economy | China’s Trip.com offers most ambitious travel deal yet: a trip to space | Diplomacy
-  - 其他: Brussels is looking to reduce reliance on Chinese raw materials, and Beijing again urges the EU to avoid protectionist policies. | The Chinese travel platform now allows users to book space flight packages with US-based provider Virgin Galactic for nearly US$760,000. | US military prepares ceremonial welcome for Xi Jinping at the White House | Video clip shows honour guard drill mirroring the welcome extended to Donald Trump during his China trip. | Chinese research ship completes month-long mission near Scarborough Shoal
+  - 头版/首屏: In Focus | China’s rocket boom turns Hainan into space hub. Can launches fuel wider growth? | Economy, Trade & Business | Congress passes bill targeting Russia’s leading energy buyers – China and India | Hong Kong Economy | Hong Kong’s 5-year plan, policy continuity offer investor stability, experts say | Diplomacy | Huawei accused of stealing robot tech to get hands on T-Mobile’s trade secrets | Science
+  - 其他: Factories, supercomputing centres and satellite businesses are springing up in the province as officials push to build a fully fledged aerospace ecosystem. | US prosecutors claim Chinese tech giant officials were intent on finding out about technical specifications of the robot, dubbed Tappy. | China uses 100,000 home-grown AI chips to build leading weather forecast system | The Sugon 8,000 system can predict weather 10 days in advance, bringing the country closer to its ambitious forecasting goals. | Iranian and Saudi panellists spar at Xiangshan Forum over Middle East attacks
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 内地8月零售仅增0.4%，内需股表现分化可以点拣？ | 内地8月消费固投低迷 国统局：续扩内需 | 欧盟拟限15岁以下 分级禁用社交平台 | 南金融北创科，五年规划揭KPI | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 传内地叫停新增电池项目，宁德时代跌跌不休未宜沾手？ | 内地8月消费固投低迷 国统局：续扩内需 | 欧盟拟限15岁以下 分级禁用社交平台 | 南金融北创科，五年规划揭KPI | 指数环球商品外汇 | 国金观点 | 港股大市分析
   - 其他: 恒生指数24713.78+46.54(+0.19%)
                     etnet.com.hk@copyright | 国企指数8206.37+1.46(+0.02%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术 | 健康人生
@@ -27,29 +33,31 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 花旗定調「微調」、高盛直言「無信號」，聯儲局今夜會否上演鴿派加息？ | 投資者狂熱褪去後韓股陷入僵局！成交額跌至年內新低 7000點關口遲遲站不穩 | SK海力士：尚未確認有關SK海力士與英特爾就美國內存芯片生產進行談判的報道所涉及的任何計劃 | 北水加倉港股21億港元，掃貨智譜超31億港元，淨買入中芯國際6億港元 | 距60票門檻有差距！「里程碑」式數字貨幣法案未能通過美國參議院 | 「AI界的梅西」再獲唱好！Palantir長期多頭重提萬億估值邏輯，「大空頭」與散戶不認同 | 智譜分析師交流會：年末ARR指引上調25%至30億美元，雲廠商分成收入10月起確認 | AI價格戰愈演愈烈，入場壁壘也在下降：高額資本開支還能撐多久？
-  - 其他: 劍指「5000大關」？專家：無論聯儲局加不加息，黃金都還能漲！ | 收市速睇 | 三大指數齊漲，科指漲0.79%；黃金、半導體、光通信股表現強勢，紫金礦業漲超3%，中芯國際漲近5%，海光芯正飆漲近17% | 美債5%時代來臨：短期未必「爆雷」，12至18個月後或見壓力 | 報道：SK 海力士正與英特爾洽談，擬首次在美生產存儲芯片 | 不要和盈利週期對抗！傑富瑞預計美股今年破8000點
+  - 头版/首屏: 富途早報 | 聯儲局全票通過加息，料年內再加一次；發電機製造商Generac獲亞馬遜24億美元訂單，盤後一度漲逾40%；AI紅利有望擴散，分析師預計Q3標普所有板塊盈利齊增 | 聯儲局決議全文：加息25個點子，點陣圖顯示今年還要加一次 | 聯儲局三年來首次加息，華爾街解讀偏鷹：更多緊縮或在路上 | 沃什：加息展現FOMC內部堅定一致，通脹太高太久，降通脹不會犧牲就業 | 聯儲局「如期加息」了，市場關心的是「接下來還有幾次」？ | Apollo警告：雲計算巨頭信用風險悄然攀升，與銀行的CDS利差從零走闊至60點子 | 時隔15年擬重返服務器市場：蘋果AI算力野心幾何？大行激辯“遠水“與“近渴“ | 十九缺一，沃什主席又沒給聯儲局點陣圖「交功課」
+  - 其他: 美媒：特朗普下週將與海灣領導人舉行伊朗問題會談 | 香港金管局加息25個點子，基準利率升至4.25% | 聯儲局剛把利率加到4%，特朗普就要求降至1%：沃什與白宮「休戰」生變？ | 成交額TOP20 | 英特爾漲超4%，擬與海力士合作建廠；SpaceX大漲5%，9.22星艦第14次試飛；蘋果或重返服務器市場；扎克伯格反對「AI減速論」 | 日本干預匯市「抽血」？7月海外持美債降至九個月低谷，中國持倉創2008年來新低
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (5 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (5 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中) (3 站)
-- **伊朗/中东局势** — 出现于: Benzinga (EN), 华尔街见闻 (简中) (2 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中) (4 站)
+- **中国/欧盟** — 出现于: Benzinga (EN), 华尔街见闻 (简中), SCMP (EN/中), 经济通 (繁中) (4 站)
+- **伊朗/中东局势** — 出现于: 华尔街见闻 (简中), SCMP (EN/中), 富途资讯 (繁中) (3 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中), SCMP (EN/中) (3 站)
 - **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
 - **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **黄金/大宗商品** — 出现于: 华尔街见闻 (简中) (1 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), 华尔街见闻 (简中) (2 站)
 - **中国重大政策/两会** — 出现于: 华尔街见闻 (简中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 中国/欧盟（5 站）
-- 美联储/利率（3 站）
-- 伊朗/中东局势（2 站）
+- 美联储/利率（4 站）
+- 中国/欧盟（4 站）
+- 伊朗/中东局势（3 站）
+- 关税/贸易政策（3 站）
 - 油价/能源（2 站）
 - 加密货币（2 站）
-- 黄金/大宗商品（1 站）
+- 就业/经济数据（2 站）
+- 黄金/大宗商品（2 站）
 - 中国政策（1 站）
-- 关税/贸易政策（0 站）
-- 就业/经济数据（0 站）
