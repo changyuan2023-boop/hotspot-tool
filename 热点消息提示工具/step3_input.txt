@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：早间**
-**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
+**当前模式：晚间**
+**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`早间热点线索 · 2026年9月18日`
+`晚间热点线索 · 2026年9月18日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 早间模式操作指令
+## 晚间模式操作指令
 
-聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
+聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
 重点关注（按重要性排序写入）：
-1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
-2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
-3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
-4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
+1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
+4. 其他值得今晚关注的美股消息
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026091809
+抓取时间: 2026091820
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- Ex-Fed chair contender: Warsh has a huge problem
+- U.S. markets open in 1h 30m
+- Buffett steps down as Berkshire Hathaway chair
+- Goldman's Snider: Fears of US earnings bubble are misplaced
+- US said to hold off on tariffs until after Xi-Trump summit
+- Goldman's Snider: Fears of US earnings bubble are misplaced
+- US said to hold off on tariffs until after Xi-Trump summit
 - Coinbase CEO Brian Armstrong on the failed crypto bill: 'I would just at this point assume it's dead'
-- Polls show Trump is out of step with Americans on AI
-- Coinbase CEO Brian Armstrong on the failed crypto bill: 'I would just at this point assume it's dead'
-- Polls show Trump is out of step with Americans on AI
-- The oil market is looking like a 'hot mess': Chart of the Day
-- Why your cell phone bill is getting so expensive
-- How Bessent, America's bond salesman, cornered Japan on big spending
-- Stocks rise as Fed rate hike pacifies markets' inflation worries
-- FAA sees $100 million cost from tariffs on US air traffic control modernization plan
-- Mortgage rates fell slightly after the Fed hiked rates
+- China's fiscal pullback stretches into August as spending slumps
+- Stock futures rise as oil prices slip
+- Oil prices set for weekly fall on easing fears over Saudi supply disruption
+- BOJ raises interest rates to 31-year high in widely expected move
+- Gas prices jump across the US. See map of state-by-state numbers
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- Jamie Dimon on AI oversight: 'It should be light touch'
-- How existential fears are shaping the debate over AI
-- OpenAI staff knew the 'existential threat' AI posed to publishers: NYT
-- SpaceX discusses buying data for AI models from failed startups
+- AI isn't here to destroy humanity, experts say real threats are here
+- Salesforce's Benioff: Nvidia is 'exquisite'
+- Software stocks get new life from strong earnings, AI warnings
+- SoftBank boosts credit line to $6.5B as AI debts mount
 - Popular
-- Man sentenced in $35M Ponzi scheme that defrauded Travis Kelce
-- Micron's Taiwan workers say 68 months' bonus not enough
+- A look at the remarkable career of Warren Buffett, who bought his first stock at 11 and built a $1 trillion company
+- Bank of Japan hikes rates to 31-year high to battle inflation
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,48 +145,48 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- A 19-Year-Old Learns They're the Sole Heir to $8.2M — One Person's Warning: 'I Hope That The Financial Advisor Is Not Paid A % Of The Investment'
-- QUICK SPARK: KKR Raises 10-Year Treasury Yield Forecast To 5.1% As Higher-For-Longer Rates Loom
-- Grayscale: Bitcoin Put in the Bottom at $58,000, 'Green Light' From Here
-- Ten-Year Treasury Yield Hits 5%: Why QQQ Could Face More Pressure Than Value ETFs
-- Palantir CEO Alex Karp Says Only Washington Can Cap AI Liability: 'These Businesses Have to Be Nationalized'
-- Fed Rate Hike in October or December? Benzinga Viewers Say This is More Likely
+- This Cue Biopharma Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Friday
+- Abeona Stands to Collect Royalties After Ultragenyx's FDA Approval — Here's the Rest of the Week
+- What's Going On With Strategy Stock Friday?
+- Wall Street's Most Accurate Analysts Give Their Take On 3 Risk Off Stocks Delivering High-Dividend Yields
+- Josh Shapiro Slams Trump's Decision to Sell 'Most Advanced' Chips to China Amid AI Race, Giving Them an Edge: 'That Was a Mistake'
+- Warren Buffett Steps Down as Berkshire's Chair — Son Howard Takes to Succeed: 'Father Time Always Wins' (UPDATED)
 - Federal Reserve
 - Inflation
 - Anthropic
 - Jamie Dimon
 
 ## 华尔街见闻 (简中)
-（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7fb7e6814d70>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
+（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f2ae3044170>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- In Focus | China’s rocket recovery was a space race milestone. Is a relaunch within reach?
+- Could mystery Shanghai vessel be a mothership for China’s underwater drones?
+- Big Tech
+- China’s top AI models generate just 10% of OpenAI, Anthropic revenue: report
+- Hong Kong Economy
+- Hong Kong’s metal storage hits 30,000 tonnes in push to become global commodity hub
 - Diplomacy
-- Xi to get what Trump didn’t in Beijing: a presidential airport welcome
-- Blanket of security planned for state funeral of Tung Chee-hwa in Hong Kong
-- US families press for loved ones’ release from China ahead of Xi’s visit
-- US trade chief pressed Brazil to review Anglo American nickel sale to China
-- Science
-- US sanctions boost China’s science-driven innovation by over 70%, study finds
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- SpaceX might have a head start in reusable rockets, but Chinese commercial space companies are exploring ways to catch up in the cost-saving tech.
-- Cases of US citizens detained in China gain greater attention as their families increase pressure on Trump administration to help them.
-- Jamieson Greer asked Brasilia to curb ‘non-market’ buyers of critical minerals in exchange for relief from Trump’s tariffs.
-- US tech restrictions have driven Chinese firms to expand and deepen their scientific research sourcing through citations and research.
+- Collision near Sabina Shoal sparks fresh escalation between China, Philippines
 - Politics
-- Hong Kong hits out at US panel over Jimmy Lai hearing and sanctions bill
-- Government says US Congressional-Executive Commission on China is trying to ‘intimidate’ officials with sanctions.
-- Lifestyle
-- What drives 4 Shaw Prize laureates in pursuit of scientific discovery
-- Poland eyes deeper Philippines defence ties following Black Hawk deal
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- Satellite images show an unusual craft under construction that analysts say may be designed to deploy very large uncrewed submarines.
+- Two sides blame each other for deliberate ramming near the contested atoll in the South China Sea, fuelling tensions over strategic waterway.
+- Singapore minister Chan Chun Sing’s Mandarin diplomacy strikes China chord
+- Chan quoted ancient philosopher Mencius in his speech at Xiangshan Forum, winning praise on social media for his knowledge of Chinese thought.
+- China
+- Hyrox Beijing athlete apologises to China, competitors after soiling herself
+- Joanna Wietrzyk says she should have stepped off the track at Hyrox Beijing, announces her retroactive withdrawal from race, loss of points.
+- China Economy
+- Mainland Chinese tax drive flags Hong Kong MPF accounts as offshore trusts
+- As Beijing tightens tax collection, some mainland residents who previously worked in Hong Kong are being asked to explain their MPF accounts.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 五年规划提出优化股债市场，港交所可趁低吸？
-- 广西平陆运河通航 西南货物直达东南亚
-- 贝森特撑回购美债 冠绝发达国家
+- 美加息港银未跟加，地产反弹乏力，宁吼银行股金矿股？
+- 华为拟推两AI芯片 性能胜英伟达H200
+- 欧盟邀加国为准成员 特威胁征关税
 - 鹰派大胜加息未完，沃什曝通胀新战场
 - 指数环球商品外汇
 - 国金观点
@@ -196,9 +196,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数24604.29-109.49(-0.44%)
+- 恒生指数24750.78+146.49(+0.60%)
                     etnet.com.hk@copyright
-- 国企指数8175.36-31.01(-0.38%)
+- 国企指数8225.40+50.04(+0.61%)
                     etnet.com.hk@copyright
 - 理财/管理
 - 时尚艺术
@@ -209,34 +209,37 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 油價回落緩解通脹擔憂，市場淡化加息影響；加息不改黃金長期看漲預期，大行集體看5400美元；今日美股迎三巫日，料市場波動增加
-- 聯儲局加息後買什麼？歷史上美股能源、科技佔優，地產落後，高盛：決定美股的是加息速度
-- 今天，日本必加息？市場關心的是：鴿派還是鷹派？
-- 特朗普：伊朗戰爭接近重大決策節點，「一個大決定」即將作出
-- Claude已「主導」Anthropic 26% AI研發工作，3萬Agent同時上崗，RSI仍未實現
-- 成交額TOP20 | 英特爾大漲8%創近兩月新高，AMD跟漲6%；雲服務再提價，NEBIUS漲超4%，CoreWeave增發跌超4%；戴爾漲4%三連破頂
-- 美股收盤 | 加息衝擊暫緩，納指大漲1.7%；費半指數漲超3%，美光漲近6%；Mag7齊升，特斯拉漲超2%；金銀反彈，油價、國債收益率回落
-- 特朗普：美伊戰爭迎來關鍵節點，我面臨一個重大決定
+- OpenAI、Anthropic開始「搶小單」！AI算力爭奪轉向20–30MW小型數據中心
+- 沃什是如何在不激怒特朗普的情況下加息的
+- 禾倫·巴菲特辭去伯克希爾哈撒韋董事長職務 留任董事會成員
+- 本週美股牛股 | 網絡安全股強勢領漲！Rubrik本週累漲超24%，Zscaler漲超20%，CrowdStrike漲近19%；Illumina漲近19%，生物巨頭集體轉向AI4S，帶動生命科學工具廠商走強
+- 摩根大通：加息並不足以終結美股漲勢，長端利率、財政與地緣才是真正的風險
+- 消息人士：Anthropic和OpenAI正尋求規模較小的數據中心交易，以在AI算力競賽中搶佔先機
+- BTC 的宏觀定價變了嗎？9 年數據重審聯儲局、美元、納指、ETF 與穩定幣
+- 北水加倉港股近12億港元，百度集團、智譜分別獲淨買入逾42億、8億港元；阿里巴巴遭淨賣出逾11億港元
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 私募信貸違約率：1%、6%還是19%，取決於你問誰
-- Claude Code推出Projects：一個對話拆出並行線程，合上電腦任務仍在跑
-- 瑞銀「鷹派加息」定性不改黃金長期看漲：分階段目標最高5400美元，4000美元附近是增持良機
-- 算力已成不可或缺的基礎資源，橋水：應對AI算力巨頭進行監管
-- 美股三大指數集體收漲 AI硬件股、芯片半導體股大漲
-- 法庭文件曝光：OpenAI、微軟高管承認AI正在對新聞業構成威脅
-- SpaceX據稱盯上倒閉初創公司數據，擬低價獲取AI訓練素材
-- 美國10年期TIPS實際收益率創2008年危機來最高，財政赤字與企業債務擴張引關注
-- 黃仁勳：英偉達明年芯片銷量將是今年兩倍，不能像管社媒那樣監管AI
-- 亞馬遜首次公開回應AI安全爭論：安全與發展並非二選一
+- 日本央行加息落地、日元卻掉頭下跌！植田和男言論「不夠鷹」 策略師警告跌勢或延續
+- 黃金牛市邏輯不改！無懼聯儲局「鷹派加息」 高盛、瑞銀堅守看多陣營
+- 收市速睇 | 三大指數齊漲，科指漲2.20%，MINIMAX飆漲近19%；機器人概念、半導體、光通信股表現強勢，雲迹大漲近22%，天數智芯漲近12%，中際旭創漲近5%；聯想集團漲超9%創歷史新高
+- 大摩稱AI「放大贏家、非重置格局」：抖音、淘寶天貓搶份額，騰訊、美團受益交易閉環
+- 暗盤情報 | 「AI基礎設施軟件提供商」星環科技現漲超6%，一手賺295港元
+- 聯儲局鷹派加息落地後，美股在交易什麼？
+- SEC「創新豁免」：「美股代幣化」打開「合規大門」
+- 樓市大消息！住建部，最新定調！房地產進入存量時代
+- 全球債市尚未脫險？分析師集體預警下一重大威脅：食品通脹飆升！
+- 韓媒：半導體設備關鍵零部件交貨週期已「延長一倍以上」
 
 --- 跨站重点主题（多站出现=更重要）---
-- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 富途资讯 (繁中)
-- 美国关税: Yahoo Finance (EN), SCMP (EN/中), 经济通 (繁中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中)
+- 伊朗/中东: Benzinga (EN), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN), 经济通 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), SCMP (EN/中)
+- 加密货币: Yahoo Finance (EN), 富途资讯 (繁中)
 - 美联储: Yahoo Finance (EN), Benzinga (EN)
-- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
-- 伊朗/中东: 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN)
+- 就业数据: Benzinga (EN)
+- 黄金/大宗: Yahoo Finance (EN)
+- 中国政策/两会: 富途资讯 (繁中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->

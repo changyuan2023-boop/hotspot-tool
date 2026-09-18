@@ -3,50 +3,53 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | Ex-Fed chair contender: Warsh has a huge problem | Coinbase CEO Brian Armstrong on the failed crypto bill: 'I would just at this point assume it's dead' | Polls show Trump is out of step with Americans on AI | Coinbase CEO Brian Armstrong on the failed crypto bill: 'I would just at this point assume it's dead' | Polls show Trump is out of step with Americans on AI | The oil market is looking like a 'hot mess': Chart of the Day | Why your cell phone bill is getting so expensive
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Jamie Dimon on AI oversight: 'It should be light touch' | How existential fears are shaping the debate over AI
+  - 头版/首屏: U.S. markets open in 1h 30m | Buffett steps down as Berkshire Hathaway chair | Goldman's Snider: Fears of US earnings bubble are misplaced | US said to hold off on tariffs until after Xi-Trump summit | Goldman's Snider: Fears of US earnings bubble are misplaced | US said to hold off on tariffs until after Xi-Trump summit | Coinbase CEO Brian Armstrong on the failed crypto bill: 'I would just at this point assume it's dead' | China's fiscal pullback stretches into August as spending slumps
+  - 其他: Top Stories | Markets & Economy | Tech & AI | AI isn't here to destroy humanity, experts say real threats are here | Salesforce's Benioff: Nvidia is 'exquisite'
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Sponsored Content | Why Is It Moving?™ | Trending Stories | Expert Ideas
-  - 其他: A 19-Year-Old Learns They're the Sole Heir to $8.2M — One Person's Warning: 'I Hope That The Financial Advisor Is Not Paid A % Of The Investment' | QUICK SPARK: KKR Raises 10-Year Treasury Yield Forecast To 5.1% As Higher-For-Longer Rates Loom | Grayscale: Bitcoin Put in the Bottom at $58,000, 'Green Light' From Here | Ten-Year Treasury Yield Hits 5%: Why QQQ Could Face More Pressure Than Value ETFs | Palantir CEO Alex Karp Says Only Washington Can Cap AI Liability: 'These Businesses Have to Be Nationalized'
+  - 其他: This Cue Biopharma Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Friday | Abeona Stands to Collect Royalties After Ultragenyx's FDA Approval — Here's the Rest of the Week | What's Going On With Strategy Stock Friday? | Wall Street's Most Accurate Analysts Give Their Take On 3 Risk Off Stocks Delivering High-Dividend Yields | Josh Shapiro Slams Trump's Decision to Sell 'Most Advanced' Chips to China Amid AI Race, Giving Them an Edge: 'That Was a Mistake'
 
-- **华尔街见闻 (简中)** ✗ (HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7fb7e6814d70>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)')))
+- **华尔街见闻 (简中)** ✗ (HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f2ae3044170>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)')))
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: In Focus | China’s rocket recovery was a space race milestone. Is a relaunch within reach? | Diplomacy | Xi to get what Trump didn’t in Beijing: a presidential airport welcome | Blanket of security planned for state funeral of Tung Chee-hwa in Hong Kong | US families press for loved ones’ release from China ahead of Xi’s visit | US trade chief pressed Brazil to review Anglo American nickel sale to China | Science | US sanctions boost China’s science-driven innovation by over 70%, study finds
-  - 其他: SpaceX might have a head start in reusable rockets, but Chinese commercial space companies are exploring ways to catch up in the cost-saving tech. | Cases of US citizens detained in China gain greater attention as their families increase pressure on Trump administration to help them. | Jamieson Greer asked Brasilia to curb ‘non-market’ buyers of critical minerals in exchange for relief from Trump’s tariffs. | US tech restrictions have driven Chinese firms to expand and deepen their scientific research sourcing through citations and research. | Politics
+  - 头版/首屏: Could mystery Shanghai vessel be a mothership for China’s underwater drones? | Big Tech | China’s top AI models generate just 10% of OpenAI, Anthropic revenue: report | Hong Kong Economy | Hong Kong’s metal storage hits 30,000 tonnes in push to become global commodity hub | Diplomacy | Collision near Sabina Shoal sparks fresh escalation between China, Philippines | Politics
+  - 其他: Satellite images show an unusual craft under construction that analysts say may be designed to deploy very large uncrewed submarines. | Two sides blame each other for deliberate ramming near the contested atoll in the South China Sea, fuelling tensions over strategic waterway. | Singapore minister Chan Chun Sing’s Mandarin diplomacy strikes China chord | Chan quoted ancient philosopher Mencius in his speech at Xiangshan Forum, winning praise on social media for his knowledge of Chinese thought. | China
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 五年规划提出优化股债市场，港交所可趁低吸？ | 广西平陆运河通航 西南货物直达东南亚 | 贝森特撑回购美债 冠绝发达国家 | 鹰派大胜加息未完，沃什曝通胀新战场 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数24604.29-109.49(-0.44%)
-                    etnet.com.hk@copyright | 国企指数8175.36-31.01(-0.38%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 美加息港银未跟加，地产反弹乏力，宁吼银行股金矿股？ | 华为拟推两AI芯片 性能胜英伟达H200 | 欧盟邀加国为准成员 特威胁征关税 | 鹰派大胜加息未完，沃什曝通胀新战场 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数24750.78+146.49(+0.60%)
+                    etnet.com.hk@copyright | 国企指数8225.40+50.04(+0.61%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术 | 健康人生
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 油價回落緩解通脹擔憂，市場淡化加息影響；加息不改黃金長期看漲預期，大行集體看5400美元；今日美股迎三巫日，料市場波動增加 | 聯儲局加息後買什麼？歷史上美股能源、科技佔優，地產落後，高盛：決定美股的是加息速度 | 今天，日本必加息？市場關心的是：鴿派還是鷹派？ | 特朗普：伊朗戰爭接近重大決策節點，「一個大決定」即將作出 | Claude已「主導」Anthropic 26% AI研發工作，3萬Agent同時上崗，RSI仍未實現 | 成交額TOP20 | 英特爾大漲8%創近兩月新高，AMD跟漲6%；雲服務再提價，NEBIUS漲超4%，CoreWeave增發跌超4%；戴爾漲4%三連破頂 | 美股收盤 | 加息衝擊暫緩，納指大漲1.7%；費半指數漲超3%，美光漲近6%；Mag7齊升，特斯拉漲超2%；金銀反彈，油價、國債收益率回落 | 特朗普：美伊戰爭迎來關鍵節點，我面臨一個重大決定
-  - 其他: 私募信貸違約率：1%、6%還是19%，取決於你問誰 | Claude Code推出Projects：一個對話拆出並行線程，合上電腦任務仍在跑 | 瑞銀「鷹派加息」定性不改黃金長期看漲：分階段目標最高5400美元，4000美元附近是增持良機 | 算力已成不可或缺的基礎資源，橋水：應對AI算力巨頭進行監管 | 美股三大指數集體收漲 AI硬件股、芯片半導體股大漲
+  - 头版/首屏: OpenAI、Anthropic開始「搶小單」！AI算力爭奪轉向20–30MW小型數據中心 | 沃什是如何在不激怒特朗普的情況下加息的 | 禾倫·巴菲特辭去伯克希爾哈撒韋董事長職務 留任董事會成員 | 本週美股牛股 | 網絡安全股強勢領漲！Rubrik本週累漲超24%，Zscaler漲超20%，CrowdStrike漲近19%；Illumina漲近19%，生物巨頭集體轉向AI4S，帶動生命科學工具廠商走強 | 摩根大通：加息並不足以終結美股漲勢，長端利率、財政與地緣才是真正的風險 | 消息人士：Anthropic和OpenAI正尋求規模較小的數據中心交易，以在AI算力競賽中搶佔先機 | BTC 的宏觀定價變了嗎？9 年數據重審聯儲局、美元、納指、ETF 與穩定幣 | 北水加倉港股近12億港元，百度集團、智譜分別獲淨買入逾42億、8億港元；阿里巴巴遭淨賣出逾11億港元
+  - 其他: 日本央行加息落地、日元卻掉頭下跌！植田和男言論「不夠鷹」 策略師警告跌勢或延續 | 黃金牛市邏輯不改！無懼聯儲局「鷹派加息」 高盛、瑞銀堅守看多陣營 | 收市速睇 | 三大指數齊漲，科指漲2.20%，MINIMAX飆漲近19%；機器人概念、半導體、光通信股表現強勢，雲迹大漲近22%，天數智芯漲近12%，中際旭創漲近5%；聯想集團漲超9%創歷史新高 | 大摩稱AI「放大贏家、非重置格局」：抖音、淘寶天貓搶份額，騰訊、美團受益交易閉環 | 暗盤情報 | 「AI基礎設施軟件提供商」星環科技現漲超6%，一手賺295港元
 
 ## 二、跨站主题（多站出现 = 更重要）
 
-- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 富途资讯 (繁中) (4 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), SCMP (EN/中), 经济通 (繁中) (3 站)
-- **加密货币** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (5 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中) (4 站)
+- **伊朗/中东局势** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), 经济通 (繁中) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
+- **加密货币** — 出现于: Yahoo Finance (EN), 富途资讯 (繁中) (2 站)
 - **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **中国/欧盟** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
-- **伊朗/中东局势** — 出现于: 富途资讯 (繁中) (1 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN) (1 站)
+- **就业/经济数据** — 出现于: Benzinga (EN) (1 站)
+- **黄金/大宗商品** — 出现于: Yahoo Finance (EN) (1 站)
+- **中国重大政策/两会** — 出现于: 富途资讯 (繁中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
-- 科技股/个股（4 站）
-- 关税/贸易政策（3 站）
+- 科技股/个股（5 站）
+- 中国/欧盟（4 站）
+- 伊朗/中东局势（2 站）
+- 关税/贸易政策（2 站）
+- 油价/能源（2 站）
 - 加密货币（2 站）
 - 美联储/利率（2 站）
-- 中国/欧盟（2 站）
-- 伊朗/中东局势（1 站）
-- 油价/能源（1 站）
-- 就业/经济数据（0 站）
-- 黄金/大宗商品（0 站）
-- 中国政策（0 站）
+- 就业/经济数据（1 站）
+- 黄金/大宗商品（1 站）
+- 中国政策（1 站）
