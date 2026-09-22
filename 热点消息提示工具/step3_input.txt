@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年9月21日`
+`早间热点线索 · 2026年9月22日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026092120
+抓取时间: 2026092209
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- Trump, Xi dine with AI titans: What to watch this week
-- Oura announces launch of IPO worth up to $2.2B
-- Xi heads to Washington: What to expect on tariffs, AI, and a CEO parade
-- Oura announces launch of IPO worth up to $2.2B
-- Xi heads to Washington: What to expect on tariffs, AI, and a CEO parade
-- Novo Nordisk stock falls amid pipeline concerns
-- Paramount, Warner Bros jump on merger settlement progress
-- Bitcoin prices rip despite the Clarity Act failure
-- Stock futures rise ahead of Trump-Xi summit
-- Gas prices are 35% higher than at this point in the 2024 election. There's little left for Trump to do about it.
-- Oil slides to 11-day low on US-Iran diplomacy hopes
+- U.S. markets closed
+- Nasdaq surges to record high, Dow and S&P 500 rise on oil and tech
+- Paramount, Warner Bros. shares rally on report of merger settlement agreement
+- AMD stock soars to new record as semiconductors bounce
+- Paramount, Warner Bros. shares rally on report of merger settlement agreement
+- AMD stock soars to new record as semiconductors bounce
+- Maye Musk: Elon really wants to live on Mars in the coming decades
+- Oura publicly files for IPO, looks to raise $2.2B
+- Coinbase stock surges on plans to offer retail investors early IPO access
+- Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google
+- Investors must not forget their mission as AI hate grows
+- Fed's Musalem says more rate hikes likely needed to quell inflation
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- Here's how the Fed is working to ensure banks protect themselves from AI risks
-- To get a piece of Anthropic, retail investors are open to big risks
-- New data centers worth $68B disrupted in US
-- US, China agree to AI dialogue ahead of Trump-Xi meeting
+- Meta stock soars on price target increase, Muse AI downloads
+- Tesla stock jumps ahead of highly anticipated Roadster event
+- Michael Saylor teased 'a little more orange.' Strategy stock jumped 8%.
+- Tech stocks haven't been this cheap since OpenAI launched ChatGPT
 - Popular
-- Major Wendy’s franchisee declares bankruptcy
-- China confirms Xi's first trip to US in nearly 3 years
+- Rare earth stocks soar after Trump's Greenland security announcement
+- Ram, GM, and Ford are keeping the V8 alive
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,40 +145,40 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Why Is IREN Stock Gaining Monday?
-- Jim Cramer: This Tech Stock Is A ‘Good Spec, But Not A Great One’
-- Goldman Sachs Strategist Sees AI Boom Outpacing Bonds as Higher Rates Raise Market Risks: 'Long compute…Long Neoclouds…Long Data Centers'
-- Wall Street's Most Accurate Analysts Spotlight On 3 Energy Stocks Delivering High-Dividend Yields
-- Concentrix Likely To Report Higher Q3 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call
-- Stock Market Today: S&P 500, Nasdaq 100 Futures Gain as Trump Issues Fresh Warning to Iran — MRVL, AAPL, ACN in Focus
-- Raoul Pal
-- Anthony Scaramucci
-- Michael Saylor Says, 'A Little More Orange': Will Strategy Report BTC Purchases After Hitting Pause for 3 Weeks?
-- General Motors: What To Watch Before Buying The Stock
+- Their Parents Drove Toyotas, Lived In A 1950s Suburb And Took One Camping Trip A Year — Then They Revealed A $20M Fortune
+- GameStop CEO Ryan Cohen Buys Another $26 Million of GME Stock
+- Vicor Stock Rises After Stronger Q3 Guidance
+- Airline Stocks Unbothered by Ground Stop Delays: UAL Up 5%
+- Apple Should Acquire Disney, Robinhood, Uber or these Companies, All-In Podcast Host Says
+- Meta's Muse Hits No. 1, Carrying AMD Into the $1-Trillion Club
+- Scott Bessent
+- Greenland
+- The Federal Reserve
+- S&P 500 Will ‘Easily’ Top 8,000 Before Historic Crash, ‘Black Swan’ Fund Manager Says
 
 ## 华尔街见闻 (简中)
-（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7fa0d4cbd610>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
+（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7fcd90a6ff80>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Economists urge Beijing to act fast on local-level debt while prices remain low
-- China Business
-- ‘High tide’ of China biotech deals seen as US curb fears fade: analysts
+- In Focus | The US-China tech war has evolved since Xi and Trump last met. Who has the edge?
 - Diplomacy
-- President Xi Jinping will pay state visit to US this week, China confirms
+- US, Japan and South Korea launch economic-security talks before Xi summit
+- Tech War
+- As AI safety fears mount, can a US-China hotline prevent a global crisis?
 - Society
-- Bite-mark, DNA tests used to identify dogs after woman dies in suspected attack
-- China allows foreign visitors to skip police stations, register stay online
+- Hong Kong animal groups call for tighter pet laws after suspected fatal mauling
+- US, China need nuclear-style AI safeguards, congressman says before Xi summit
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Prominent advisers note importance of central authorities expanding borrowing to fund infrastructure before the current window of subdued inflation closes.
-- Hong Kong environment chief says policies on handling strays will be reviewed after cyclist’s death from suspected attack in Yuen Long.
-- Tourists staying outside hotels can fill in paperwork online, in the latest move to make visiting the country easier.
-- Tech Trends
-- Moonshot’s Kimi K3 lands on Amazon in key test for Chinese open-source AI income
-- Open-weight models allow users around the world to use, copy, modify and distribute the software without paying the model developer.
+- The two sides have found new sources of leverage across AI, chips, rare earths and wider technology supply chains since the US leader’s May visit to Beijing.
+- Former guard dogs may turn aggressive due to territorial instincts or past trauma, welfare advocates warn as government pledges review of policies.
+- Top Democrat on the House China committee calls for international inspections of leading AI laboratories and a ban on self-improving systems.
 - Politics
-- Southeast Asia supports multilateralism, wary of US or China leadership: survey
-- A recent Rockefeller Foundation survey shows strong regional belief in global cooperation and a reluctance to accept superpower dominance.
+- Moscow’s asset seizures unnerve Japanese companies in Russia
+- The takeover of Swiss and French brands raises the spectre of retaliation against some 230 Japanese businesses still in Russia.
+- Property
+- Why mainland Chinese students pay more for purpose-built housing in Hong Kong
+- Dedicated housing offers greater convenience, security and value despite higher rents, students say.
 - Lifestyle
 
 ## 经济通 (繁中)
@@ -209,36 +209,35 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 大摩：美股短期調整風險升溫，標普500指數或跌7%
-- 諾和諾德再向禮來「宣戰」！CagriSema頭對頭勝過替爾泊肽，減重12.4%
-- 高盛專家電話會：現房銷售轉型下，明年3月起新房供應或出現短缺、持續12至18個月
-- 高通驍龍峰會前瞻：2nm雙芯登場，AI多元化敘事迎來關鍵驗證
-- 去年全球人形機器人銷量達7000台，今年出貨量預計突破9萬台
-- 比特幣重返8.5萬美元關口：SEC代幣化豁免點亮情緒，45周以來首次站上「50周均線」，底部信號確認？
-- 北水加倉港股近41億港元，長飛光纖光纜、阿里巴巴均獲淨買入超5億港元，騰訊控股、小米集團分別遭淨賣出逾8億、6億港元
-- 諾和諾德拋出230億美元管線藍圖，市場卻不買賬！投資者追問「如何逆風翻盤」
+- 富途早報 | 第81屆聯合國大會開幕，伊朗外長抵達紐約；納指收盤新高，CPU概念全線爆發，AMD市值首次突破1萬億美元；阿里2026雲棲大會在杭州開幕；納真科技今日港股上市
+- 比特幣升破8.5萬美元創八個月新高：立法折戟反成催化，資金回流加密
+- 高盛：美債收益率5%有吸引力，但做多AI算力「更香」
+- Muse登上蘋果應用商店榜首，Meta暴漲11%，AMD和英特爾也嗨了！
+- Muse、Grok Bot大紅，OpenAI也要加入「個人Agent大戰」
+- AI安全論戰升溫！特朗普：只會鼓勵AI發展 必要時司法部會出手
+- 沙特管道遭襲後擴大海灣出口，七艘超級油輪裝1400萬桶，油價承壓
+- 成交額TOP20 | Meta暴漲11%，Muse登頂榜首，AMD受益漲10%躋身萬億俱樂部，英特爾跟漲12%；SpaceXAI推出Grok 4.7，性能更優價格減半
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 軟銀尋求超110億美元垃圾債融資，OpenAI押注與Arm抵押貸款推高槓杆風險
-- Critical Metals美股盤前漲超32%，Greenland Energy漲超146%，美國與丹麥就格陵蘭達成安全協議
-- 收市速睇 | 三大指數齊漲，恒指漲超1%；科網股上揚，小米漲超4%，阿里漲超3%，騰訊漲近3%；生物醫藥股表現亮眼，中國生物製藥漲超8%，石藥集團漲超7%
-- 不是欺詐，但風險真實！大空頭伯裏警告AI五巨頭暗藏3萬億美元風險，「當音樂停止，表外承諾會很快變成真實負債」
-- 25天四飛在望! Rocket Lab火箭發射提速 加速推進「太空AI基建」雄心壯志
-- 習近平將於9月23日至25日對美國進行國事訪問
-- 中信建投：關注中美高層會晤
-- Anthropic年化營收預計突破千億美元，OpenAI預計2030年營收達3500億美元
-- 英矽智能上漲，達成數千萬美元AI模型共建合作，構建並商業化生物學基礎模型
-- 花旗料阿里巴巴將於雲棲大會重申全棧能力，對其展開短期催化觀察
+- 報道：OpenAI和Anthropic擬相互進行壓力測試，尋找潛在安全風險
+- 標普：未來數年銀行對AI的應用將影響信用評級
+- 美股收盤 | 納指漲2%創新高，AMD破萬億；比特幣重回8.6萬美元，MSTR漲10%；格陵蘭概念大漲，CRML飆升40%；金油齊跌
+- SpaceXAI最強編程與知識工作模型來了！Grok 4.7速度達競品兩倍、價格僅一半
+- 千億美元巨額併購掃清最後障礙！派拉蒙與美國12州達成和解
+- OpenAI和Anthropic營收面臨威脅：成本壓力下，更多AI初創企業轉向開源模型
+- 美股收盤：三大指數高開高走、納指漲超2% 多隻半導體芯片股大漲超10%
+- AMD市值首破萬億美元！Meta智能體熱潮點燃CPU行情
+- 胡塞武裝攻佔戰略高地！特朗普據報臨時叫停空襲，中東能源風險再升級
+- 聯儲局穆薩萊姆：利率可能需要進一步上升，以抑制由需求和供應驅動的通脹。加息最好是「提前且逐步的」，而不是「延後且大幅度的」。
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 富途资讯 (繁中)
+- 伊朗/中东: Benzinga (EN), 富途资讯 (繁中)
 - 加密货币: Yahoo Finance (EN), Benzinga (EN)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN)
-- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN)
+- 美联储: Yahoo Finance (EN), Benzinga (EN)
+- 中国/欧盟: Benzinga (EN), SCMP (EN/中)
+- 美国关税: Benzinga (EN)
 - 油价/霍尔木兹: Yahoo Finance (EN)
-- 就业数据: SCMP (EN/中)
-- 美联储: Yahoo Finance (EN)
+- 黄金/大宗: SCMP (EN/中)
 - 中国政策/两会: 经济通 (繁中)
 
 --- 粘贴结束 ---
