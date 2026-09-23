@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：早间**
-**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
+**当前模式：晚间**
+**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`早间热点线索 · 2026年9月23日`
+`晚间热点线索 · 2026年9月23日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 早间模式操作指令
+## 晚间模式操作指令
 
-聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
+聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
 重点关注（按重要性排序写入）：
-1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
-2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
-3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
-4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
+1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
+4. 其他值得今晚关注的美股消息
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026092309
+抓取时间: 2026092320
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- Trump: 'Let's not send out the diesel,' as prices hit record $6.52
-- Netanyahu goes after Mamdani online — hours ahead of his UN address
-- South Korea keeps fuel cheap for holidays as fiscal cost mounts
-- Netanyahu goes after Mamdani online — hours ahead of his UN address
-- South Korea keeps fuel cheap for holidays as fiscal cost mounts
-- Paramount's $49B debt sale to kick off after lawsuits end
-- Ryan Cohen just bet $26 million more On GameStop — and the stock is flying
-- These are the stock market's winners and losers in the AI agent economy
-- We're growing jobs based on AI, not destroying them, claims tech boss
-- Stocks mixed: Nasdaq all-time high, Dow sags, S&P flat
-- The families Trump Accounts could help most aren't signing up
+- U.S. markets open in 1h 30m
+- Big Tech's AI spending needs cash flow to triple to $2T by 2030: Chart of the Day
+- US fixed 30-year mortgage rate jumps to 7.12%: MBA
+- HSAs are getting the 401(k) treatment from employers
+- US fixed 30-year mortgage rate jumps to 7.12%: MBA
+- HSAs are getting the 401(k) treatment from employers
+- Analysts snap longest run of US earnings upgrades in 5 years
+- IonQ shares rise after quantum error correction decoder test
+- Stock futures muted as markets eye looming Trump-Xi meeting
+- Global inflation to linger and Fed to hike again: OECD
+- Oil holds near two-week lows while diesel cracks hit record peak
+- Dollar at 2-month highs as Fed outlook 'dominant'
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- OpenAI, Anthropic, and SpaceX valuations could dwarf 45 years of IPOs
-- ‘Hold us accountable’ on data centers, Amazon sustainability chief says
-- Qualcomm debuts latest smartphone chip with a focus on agentic AI
-- Intel stock up 25% in last 5 days on CPU demand
+- Which tech leaders are dining with Trump and Xi?
+- Why Lutnick poured $1.6B into a tiny magnet maker
+- SoftBank starts jumbo high-yield bond sale to finance AI push
+- After firing staff companies are finding AI expenses ballooning
 - Popular
-- Trump administration to remove 750,000 from Obamacare
 - McDonald's has 1 shot to turn around its dreadful year
+- Trump's grip on GOP slips as midterm election anxiety sets in
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,48 +145,48 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- He Says His Girlfriend Is Demanding And It's Starting To Hit His Budget. 'Ramsey Show' Host Says, 'It Costs Money to Have a Girlfriend'
-- American Airlines' Premium Push Targets High-Value Travelers—Will The Stock Earn A Premium
-- Voyager Stock Tanks After Hours — Here's Why
-- KB Home Posts Q3 Double Beat Despite 'Weakening' Housing Market
-- Michael Burry Bets Against the Memory Boom: These ETFs Could Be Exposed if He’s Right
+- This HCA Healthcare Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Wednesday
+- OpenAI's GPT-6 Just Got 50% Cheaper — Box CEO Says AI Agent Opportunity Could 'Dramatically' Expand: 'What an Insane Day'
+- Alibaba Takes on Amazon, Google With Aggressive Overseas Cloud Expansion
+- Amazon Turns To Former Employees, Including Those Laid-Off, For AI, Cloud Jobs Amid ‘Boomerang’ Hiring Push: Report
+- Kevin O'Leary Explains Why His Big AI Bet is Uranium, Not Big Tech: 'The Trade is Now the Energy Trade'
+- Stock Market Today: Dow Jones, S&P 500 Futures Gain After Trump Threatens to 'Annihilate' Iran at UNGA—KB Home, Worthington, IONQ in Focus
 - Scott Bessent
 - Greenland
 - The Federal Reserve
-- Meta Stock Runs Overbought Into Connect — Wall Street Still Targets $800+
-- Netflix Stock ‘High on the List’ for Former Hedge Fund Manager
+- AI Trade Is ‘Dead Money’: Fidelity Strategist Warns $3.3 Trillion Buildout Is Inflationary With ‘Unknown Returns’
 
 ## 华尔街见闻 (简中)
-（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f18645cce00>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
+（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f4e41103080>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Can Xi and Trump use their leverage to actually make progress?
-- Global Economy
-- Why China’s top AI pioneers are expected to miss this week’s Xi-Trump summit
-- Society
-- Shelters warn against poor treatment of warehouse guard dogs in New Territories
+- China hawks grumble over Trump’s lavish welcome planned for Xi state visit
 - Diplomacy
-- US law enforcement ups security for Xi summit as welcome, protest events planned
+- China’s first lady Peng Liyuan projects glamour and soft power on world stage
+- How does Xi Jinping’s ‘special plane’ compare with Air Force One?
 - Banking & Finance
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Analysts agree that keeping ties stable will be a priority when the leaders meet, and artificial intelligence could be an area for cooperation.
-- US Secret Service says it is committed to ensuring the safety and security of all foreign heads of state while they are on American soil.
-- As Buffett exits, China embraces his investment legacy. Will Wall Street buy it?
-- Chinese regulators push patient capital, reshape US$4.5 trillion mutual fund industry towards long-term holdings as foreign investors weigh risks against thin IPO pipelines.
+- Hong Kong aims to add yuan-trading counter to Southbound Connect by July 1
 - Politics
-- Communist Party names new Tibet party chief in regional leadership reshuffle
-- Hu Changsheng takes top Tibet post as regional transfers offer clues about broader political line-up ahead of national party congress.
-- China Business
-- BofA warns of uneven risks in China’s expanding AI stock universe
-- The nation’s tech firms are catching up with overseas rivals while a wave of high-profile listings has broadened investment opportunities.
+- Tesla’s Elon Musk hails Xi Jinping’s leadership, Chinese AI strength
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- Chorus of disapproval rises ahead of the Chinese leader’s arrival, even as others say the welcome is the show, not the deal.
+- Move marks the latest step in Hong Kong’s efforts to advance internationalisation of the Chinese currency.
+- Musk controls SpaceX, a Pentagon and US intelligence contractor, and his business ties with China have drawn scrutiny in Washington.
+- China makes fentanyl goodwill move ahead of Xi’s ‘historic milestone’ US visit
+- China’s top envoy to US hails safeguards from head-of-state diplomacy, as Beijing rolls out severe penalties for non-pharma fentanyl crimes.
+- Why younger Filipinos are warming to China despite maritime tensions
+- A Pew survey shows 47 per cent of Filipinos aged 18 to 34 view China favourably, with some respondents also expressing confidence in its leadership.
+- Business
+- Why Hong Kong’s strategic advantages attract global talent
+- Hong Kong Economy
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
-- 黄金周临近，北京市监立案调查，旅游平台股博唔过？
-- 长鑫第五代DRAM量产 增国际竞争力
-- 台风杜鹃逼近 日本取消200航班
+- Meta新AI助理Muse爆红，腾讯阿里齐飙半成边只较值博？
+- DeepSeek押注华为芯片 训练大模型
+- 美丹麦格陵兰签协议 共保北极安全
 - AI Agent开箱即用，先变现后夺权？
 - 指数环球商品外汇
 - 国金观点
@@ -196,9 +196,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数25087.75+45.04(+0.18%)
+- 恒生指数24834.12-253.63(-1.01%)
                     etnet.com.hk@copyright
-- 国企指数8362.60+22.97(+0.28%)
+- 国企指数8273.81-88.79(-1.06%)
                     etnet.com.hk@copyright
 - 理财/管理
 - 时尚艺术
@@ -209,34 +209,34 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 特朗普稱美伊順利會晤，近期將再次安排會談；CFTC延長審查芝交所AI算力期貨合約；納指四連漲再創新高，伯克希爾繼續增持萊納建築；蘋果再破頂，新款Mac mini和Mac Studio正式發售
-- 特朗普威脅「摧毀伊朗」之際，美伊紐約密談3小時：會談「非常有成效」，雙方很快將再次接觸
-- AI交易回歸，納指創出新高，存儲全線領漲，Rosenblatt分析師給出閃迪2400目標價
-- 同日推出「廉價模型」，OpenAI和Anthropic開打「價格戰」
-- 高通發佈驍龍8 Elite Gen 6芯片：台積電2nm工藝，對標蘋果A20 Pro聚焦「端側智能體」
-- 特朗普聯合國大會講話：中選後有望與伊朗達成協議、油價或大跌，對AI「只鼓勵、不限制」
-- 巴倫週刊：AI才是中美會晤的真正看點
-- 高通發佈2納米旗艦芯片 端側能跑300億參數量模型
+- Meta Connect重磅前瞻：Muse或有更多信息 AI+智能穿戴會否帶來全新驚喜
+- 美股投資必備！10月重磅大事搶先看，這些影響漲跌的日子都圈出來了
+- 野村光通信電芯片專家會：1.6T供應爲主要瓶頸，缺口至少持續到2027年下半年
+- 香港證監會行政總裁：港交所將就延長股票市場交易時間徵詢意見
+- 北水加倉港股超34億港元，淨買入騰訊控股超20億港元；淨賣出建滔積層板逾21億港元
+- AI隱形骨架浮出水面！大摩：CCL與銅箔賽道百億美元增量開啓
+- 習近平離京對美國進行國事訪問
+- 什麼？GPT比DeepSeek還便宜了？大模型價格戰卷出新高度
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 成交額TOP20 | 閃迪漲近7%，美光漲5%；Meta與PayPal達成合作；英偉達估值降至十年低點；蘋果據悉開發無屏手環；SpaceX逐步淘汰獵鷹9號
-- 美股收盤 | AI掀價格戰，納指四連漲再新高；費半指數漲2%，AMD六連漲；銀行股承壓，摩根大通跌超3%；油價5連跌，金銀走V
-- Meta Muse掀起「AI顛覆交易」 金融、保險、旅遊股集體下挫
-- 特朗普7月披露逾千筆證券交易：拋售微軟、亞馬遜，單筆最高2500萬美元
-- 特朗普表態支持禁止柴油出口，煉油股承壓
-- 聯儲局Barkin：通脹壓力消退需要時間，後續是否加息「視情況而定」
-- OpenAI再推兩款GPT-6模型：Sol、Luna定價降50%，Astra能力加速下沉
-- 美股收盤：納指再創歷史新高 存儲概念股普漲
-- 蘋果新款Mac臺式機：主打端側AI，以降低算力成本爲賣點
-- 蘋果也盯上無屏手環！萬億巨頭爭相探索「腕上健康生意」
+- 收市速睇 | 三大指數均跌超1%，科指跌1.33%；科網股走低，阿里跌超4%，小米跌近4%；建滔積層板逆市漲近12%；智譜跌超12%
+- IonQ美股盤前漲近11%，展示業界首個實時量子糾錯解碼器
+- 「大空頭」再度狙擊AI存儲！加碼做空美光(MU.US)，警告週期逆轉將引發「劇烈拋售」
+- 央視專訪馬斯克，回應中國市場、人工智能、人形機器人等熱點問題
+- 港股午評 | 三大指數下跌，科指跌0.97%；科網股走低，阿里、小米、騰訊跌超2%；PCB概念、內房股逆市上漲，建滔積層板漲近6%，萬科企業漲近5%
+- 中金：AI革命如何改變經濟與市場
+- 當AI開始「自己教自己」：Opus 5.5是首個RSI訓練出的大模型？
+- 實際利率創20多年新高，黃金ETF倉位仍升至七個月高位，分析：黃金換錨了
+- 大空頭Burry加碼做空美光、NEBIUS，邏輯是「內存供應激增，價格將面臨下行壓力」
+- 二手房成交放量疊加政策組合拳，港股內房股普漲，萬科一度大漲12%
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 伊朗/中东: SCMP (EN/中), 富途资讯 (繁中)
-- 美国关税: Benzinga (EN), SCMP (EN/中)
-- 油价/霍尔木兹: SCMP (EN/中)
-- 就业数据: Yahoo Finance (EN)
-- 黄金/大宗: 经济通 (繁中)
-- 美联储: Benzinga (EN)
+- 就业数据: Benzinga (EN), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), Benzinga (EN)
+- 伊朗/中东: Benzinga (EN)
+- 美国关税: Benzinga (EN)
+- 油价/霍尔木兹: Yahoo Finance (EN)
+- 黄金/大宗: SCMP (EN/中)
 - 中国/欧盟: SCMP (EN/中)
 
 --- 粘贴结束 ---
