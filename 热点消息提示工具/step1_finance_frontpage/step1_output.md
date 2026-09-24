@@ -3,50 +3,49 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | Zuckerberg says Meta's new AI agent will take a cut of transactions | OpenAI agent hacked Australian healthcare, told government via email | Xi Jinping seems to have reversed plans to bring Chinese CEOs with him to Washington | OpenAI agent hacked Australian healthcare, told government via email | Xi Jinping seems to have reversed plans to bring Chinese CEOs with him to Washington | McDonald's exec shares what GLP-1 households are ordering | Netflix stock is getting shredded — and Google's YouTube may be the reason
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Meta unveils $1,299 VR Glasses, camera-less smart glasses at Meta Connect | Microsoft to give DARPA hands-on access to quantum system at new Maryland site
+  - 头版/首屏: U.S. markets open in 1h 31m | US 30-year yield hits highest since 2004 as bond selloff deepens | JPMorgan’s Peters favors stocks as higher yields test earnings | Trump's diesel export ban could backfire, experts warn — here's why | JPMorgan’s Peters favors stocks as higher yields test earnings | Trump's diesel export ban could backfire, experts warn — here's why | Bessent floats US-China AI 'notification mechanism' — but Beijing is silent | Boeing stands to lose out on new deals post Trump-Xi summit
+  - 其他: Top Stories | Markets & Economy | Tech & AI | Tesla Semi event puts the spotlight on trucking as busy month for EV maker rolls on | Meta's new glasses and Muse "holdable": What analysts say
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Sponsored Content | Why Is It Moving?™ | Trending Stories | Expert Ideas
-  - 其他: Couple In Their 40s Suddenly Gets Nearly $400K — But He Says It Still Feels Like ‘The Same Guy Stressing Over Costco Gas Prices’ | Viking Therapeutics Stock Drops In After Hours on Proposed Public Offerings | Rivian Ready to Launch $30,000 EV? CEO Says R3 Will Be ‘Materially Cheaper’ Than R2 | QUICK SPARK: Viking Therapeutics Stock Gains 40% in 2 Days | Dan Ives Launches $200M Fund To Back AI Startups
+  - 其他: This Ares Management Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Thursday | What's Going On With Oracle Stock Thursday? | Wall Street's Most Accurate Analysts Give Their Take On 3 Industrials Stocks Delivering High-Dividend Yields | CoreWeave Trending: A New AI Customer and UBS' Contrarian $120 Call | LinkedIn Co-Founder Backs Local Control Over Data Center Development: 'Communities That Will Live Alongside a Data center...'
 
-- **华尔街见闻 (简中)** ✗ (HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f6529ee7c20>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)')))
+- **华尔街见闻 (简中)** ✗ (HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7fc7d8c62e10>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)')))
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: Xi calls for cooperation with US after Trump’s airport welcome – as it happened | Warm welcome, trade truce extended: the takeaways as Xi arrives in US | Peng Liyuan and Melania Trump renew acquaintance as Xi arrives in US | Bessent announces 2-month extension of US-China  trade truce | Diplomacy | Xi lands in US for high-stakes summit with Trump amid deep tensions | China’s first lady Peng Liyuan projects glamour and soft power on world stage | Law and Crime
-  - 其他: The Chinese president began a three-day visit to Washington, with a host of vital topics to be discussed | Scott Bessent and He Lifeng held an unscheduled meeting in Washington on Wednesday following Sunday’s productive trade talks. | Hong Kong’s animal welfare laws fail to meet modern demands, experts say | Legal experts call for authorities to expedite long-delayed reforms after spate of dog attacks in recent months. | United States & Canada
+  - 头版/首屏: How Chinese first lady Peng Liyuan is a symbol of China’s fashion soft power | Peng Liyuan’s English takes the spotlight in exchange with Melania Trump | Summits for all diplomatic seasons: how the US has set the stage for Xi Jinping | China’s role in AI development by US remains ‘indispensable’: Zheng Yongnian | Global Economy | What a 2-month trade-truce extension reveals as US-China rifts persist | Tech War | US widens pressure on China tech with blacklist proposal, Lenovo patent probe
+  - 其他: Peng once again showed off exclusively Chinese designs as she stepped off the plane for the Xi-Trump meeting in the US | Neither nation can manage AI risks alone, top Chinese policy adviser warns ahead of Xi-Trump summit where the tech is tipped to loom large. | Society | Hong Kong authorities won’t appeal court halt to 12,000-flat project on golf course | Court earlier revoked project’s environmental approval, with authorities opting not to appeal ‘holistically’ considering legal advice.
 
 - **经济通 (繁中)** ✓
-  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | 专家料内房明年将现供应短缺，内房逆市造好可否再吼？ | DeepSeek押注华为芯片 训练大模型 | 美丹麦格陵兰签协议 共保北极安全 | AI Agent开箱即用，先变现后夺权？ | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数24834.12-253.63(-1.01%)
-                    etnet.com.hk@copyright | 国企指数8273.81-88.79(-1.06%)
+  - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | AI芯片供不应求传台积电明年加价，芯片股可否趁低吸？ | 中国车企8月欧洲市占率 再创新高 | 沙特重启东西输油管 恢复红海出口 | B1轰炸机背书稀土牌，休战延两月各取所需 | 指数环球商品外汇 | 国金观点 | 港股大市分析
+  - 其他: 恒生指数24761.13-72.99(-0.29%)
+                    etnet.com.hk@copyright | 国企指数8266.01-7.80(-0.09%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术 | 健康人生
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 美債「黑色星期三」遭遇「完美風暴」：強勁數據、鷹派聯儲局與疲軟標售多重夾擊，「10月再加息」風起 | 富途早報 | 習近平抵美進行國事訪問；美財政部回購60億美元超長期債，30年期收益率仍觸及2007年來高位；韓國總統承諾五年內將半導體產能擴大一倍；好市多美股盤後發業績 | 特斯拉最貴車型要來了？Roadster即將發佈，期權市場卻「冷眼旁觀」 | 美債拋售加劇：美財政部回購60億美元超長期債，30年期收益率仍觸及2007年以來高位 | 美國醞釀海外推廣美元穩定幣，力圖鞏固美元儲備地位 | 亞馬遜封禁Muse代購，MetaAI智能體遭遇平台「客戶關係保衛戰」 | 習近平抵達華盛頓對美國進行國事訪問 | 美股投資必備！10月重磅大事搶先看，這些影響漲跌的日子都圈出來了
-  - 其他: 中美會面，市場交易什麼？ | OpenAI與Anthropic聯袂呼籲AI放緩與國際協調，與特朗普立場分歧 | 伊朗總統佩澤希齊揚聯大痛斥特朗普「霸凌心態」：伊朗絕不投降，但仍願談判 | 布油收漲近4%，伊朗強硬表態助原油終結五連跌，柴油出口禁令傳言攪動市場 | 成交額TOP20 | Meta逆市收漲1%，華爾街集體唱好最高900美元；台積電明年擬上調晶圓代工價格3%~6%；麥當勞大跌5%，年內累跌20%
+  - 头版/首屏: 聯儲局發聲！威廉姆斯：需要及時將通脹拉回目標水平，年底前再次加息是合理的 | 閉源VS開源AI激戰正酣，三大網絡安全股瘋漲！AI時代萬億美元「安全欠賬」點燃升級狂潮 | 特斯拉最貴車型要來了？Roadster即將發佈，期權市場卻「冷眼旁觀」 | Muse催熱AI基建之際，投資者聚焦美光業績！千億美元長約將爲AI算力狂熱添把火？ | 美股投資必備！10月重磅大事搶先看，這些影響漲跌的日子都圈出來了 | 北水加倉港股29億港元，淨買入騰訊控股超6億港元，淨賣出金斯瑞生物科技近3億港元 | 布油重返100美元！伊朗最高領袖顧問警告美以：戰事可能擴大至印度洋 | 存儲超級週期撕裂科技硬件! AI算力狂歡之下PC承擔存儲繁榮代價，AI基建硬件鏈迎接訂單狂潮
+  - 其他: 美債5%失去震懾力，摩根大通稱股市斷裂閾值或已升至6% | 收市速睇 | 三大指數齊跌，科指跌0.41%；科網股漲跌不一，小米漲1.5%，百度跌2.5%；生物技術股走低，諾誠健華跌近8%；海光芯正逆市漲超9% | 商務部：中美第八輪經貿磋商達成多項共識 | 由於特朗普支持率持續走低 共和黨加大中期選舉前的宣傳攻勢 | 大摩與戴爾COO深聊「這次不一樣」：AI智能體不是又一輪刷新週期，而是TAM擴張，756美元牛市場景概率上升
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (5 站)
-- **美国关税（15%等）** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
-- **黄金/大宗商品** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
+- **伊朗/中东局势** — 出现于: Benzinga (EN), 富途资讯 (繁中) (2 站)
+- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
 - **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **中国/欧盟** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
-- **伊朗/中东局势** — 出现于: 富途资讯 (繁中) (1 站)
-- **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
+- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
+- 中国/欧盟（3 站）
+- 伊朗/中东局势（2 站）
 - 关税/贸易政策（2 站）
-- 黄金/大宗商品（2 站）
 - 美联储/利率（2 站）
-- 中国/欧盟（2 站）
-- 伊朗/中东局势（1 站）
 - 就业/经济数据（1 站）
 - 油价/能源（0 站）
 - 加密货币（0 站）
+- 黄金/大宗商品（0 站）
 - 中国政策（0 站）
