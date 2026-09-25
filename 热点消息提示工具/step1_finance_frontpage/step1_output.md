@@ -3,18 +3,18 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets open in 1h 31m | US 30-year yield hits highest since 2004 as bond selloff deepens | JPMorgan’s Peters favors stocks as higher yields test earnings | Trump's diesel export ban could backfire, experts warn — here's why | JPMorgan’s Peters favors stocks as higher yields test earnings | Trump's diesel export ban could backfire, experts warn — here's why | Bessent floats US-China AI 'notification mechanism' — but Beijing is silent | Boeing stands to lose out on new deals post Trump-Xi summit
-  - 其他: Top Stories | Markets & Economy | Tech & AI | Tesla Semi event puts the spotlight on trucking as busy month for EV maker rolls on | Meta's new glasses and Muse "holdable": What analysts say
+  - 头版/首屏: U.S. markets closed | Stocks trim losses as hopes of Hormuz deal offset rising bond yields | Trump advisers analyzing impact of short-term diesel export ban | Starbucks to close 250 stores this week | Trump advisers analyzing impact of short-term diesel export ban | Starbucks to close 250 stores this week | The S&P 500 has never been this concentrated in 2 stocks | New York Times and A24 among suitors as deal for Letterboxd nears
+  - 其他: Top Stories | Markets & Economy | Meta Connect Conference | AI's financial Jenga towers start to wobble | Meta stock is soaring — and $2 trillion is now within reach
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Sponsored Content | Why Is It Moving?™ | Trending Stories | Expert Ideas
-  - 其他: This Ares Management Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Thursday | What's Going On With Oracle Stock Thursday? | Wall Street's Most Accurate Analysts Give Their Take On 3 Industrials Stocks Delivering High-Dividend Yields | CoreWeave Trending: A New AI Customer and UBS' Contrarian $120 Call | LinkedIn Co-Founder Backs Local Control Over Data Center Development: 'Communities That Will Live Alongside a Data center...'
+  - 其他: Widow, 44, Got $500,000 In Life Insurance After Her Husband Died — His Mother Says She's 'Moving Too Fast' Investing It | Jensen Huang Doesn't Struggle With What to Wear Each Day: Nvidia CEO Says, 'The Moment I Wake Up, I Could Be Thinking About Important Things' | Woman, 28, Inherits $47K From Her Grandfather — Then Her Godmother Asks Her To Give Up $7,100 ‘So She Could Be More Comfortable’ | Trump Disapproval Hits Record High in New Poll: 56% Say President Has Done Worse than Expected | Akamai Stock Soars on $11.6 Billion Anthropic Deal
 
-- **华尔街见闻 (简中)** ✗ (HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7fc7d8c62e10>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)')))
+- **华尔街见闻 (简中)** ✗ (HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f8465cb7d40>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)')))
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: How Chinese first lady Peng Liyuan is a symbol of China’s fashion soft power | Peng Liyuan’s English takes the spotlight in exchange with Melania Trump | Summits for all diplomatic seasons: how the US has set the stage for Xi Jinping | China’s role in AI development by US remains ‘indispensable’: Zheng Yongnian | Global Economy | What a 2-month trade-truce extension reveals as US-China rifts persist | Tech War | US widens pressure on China tech with blacklist proposal, Lenovo patent probe
-  - 其他: Peng once again showed off exclusively Chinese designs as she stepped off the plane for the Xi-Trump meeting in the US | Neither nation can manage AI risks alone, top Chinese policy adviser warns ahead of Xi-Trump summit where the tech is tipped to loom large. | Society | Hong Kong authorities won’t appeal court halt to 12,000-flat project on golf course | Court earlier revoked project’s environmental approval, with authorities opting not to appeal ‘holistically’ considering legal advice.
+  - 头版/首屏: A ‘friendship forged in blood’: Xi, Trump talk up bonds and how Maga, China align | B-2 Spirit, AI cooperation, no US-China conflict: key Xi-Trump takeaways so far | Pat on the back? Xi and Trump’s body language speaks volumes | In Focus | What Xi’s letter to old friends in Iowa means in an altered America | Diplomacy | Inside Melania Trump and Peng Liyuan’s visit to the Smithsonian’s Peacock Room | Chinese CEOs fly to US on own, await invites to Trump’s state dinner for Xi | Xi-Trump summit day 2: here’s everything you missed overnight
+  - 其他: Following an unprecedented reception upon landing, formal proceedings – including talks – between the two leaders are taking place today | The personal thread may be intact, but the US agricultural partnership that once gave it weight is not. | From Peng Liyuan’s fashion soft power to Chinese CEOs flying in, here’s what you missed overnight about Xi’s state visit to Washington. | Law and Crime | Legislation among options to regulate minors’ social media use: justice minister
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | AI芯片供不应求传台积电明年加价，芯片股可否趁低吸？ | 中国车企8月欧洲市占率 再创新高 | 沙特重启东西输油管 恢复红海出口 | B1轰炸机背书稀土牌，休战延两月各取所需 | 指数环球商品外汇 | 国金观点 | 港股大市分析
@@ -25,27 +25,29 @@
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 聯儲局發聲！威廉姆斯：需要及時將通脹拉回目標水平，年底前再次加息是合理的 | 閉源VS開源AI激戰正酣，三大網絡安全股瘋漲！AI時代萬億美元「安全欠賬」點燃升級狂潮 | 特斯拉最貴車型要來了？Roadster即將發佈，期權市場卻「冷眼旁觀」 | Muse催熱AI基建之際，投資者聚焦美光業績！千億美元長約將爲AI算力狂熱添把火？ | 美股投資必備！10月重磅大事搶先看，這些影響漲跌的日子都圈出來了 | 北水加倉港股29億港元，淨買入騰訊控股超6億港元，淨賣出金斯瑞生物科技近3億港元 | 布油重返100美元！伊朗最高領袖顧問警告美以：戰事可能擴大至印度洋 | 存儲超級週期撕裂科技硬件! AI算力狂歡之下PC承擔存儲繁榮代價，AI基建硬件鏈迎接訂單狂潮
-  - 其他: 美債5%失去震懾力，摩根大通稱股市斷裂閾值或已升至6% | 收市速睇 | 三大指數齊跌，科指跌0.41%；科網股漲跌不一，小米漲1.5%，百度跌2.5%；生物技術股走低，諾誠健華跌近8%；海光芯正逆市漲超9% | 商務部：中美第八輪經貿磋商達成多項共識 | 由於特朗普支持率持續走低 共和黨加大中期選舉前的宣傳攻勢 | 大摩與戴爾COO深聊「這次不一樣」：AI智能體不是又一輪刷新週期，而是TAM擴張，756美元牛市場景概率上升
+  - 头版/首屏: 富途早報 | 習近平同美國總統特朗普會談；油價深夜巨震，美伊探討分階段重啓霍爾木茲海峽；聯儲局官員密集放鷹，10月加息概率升至69%；30年期美債收益率創逾20年新高 | 116億美元買CPU算力！Anthropic大單引爆老牌科技股 | 成交額TOP20 | Meta大漲5%，市值逼近2萬億；甲骨文、Bloom Energy跌超3%，星際之門核心項目延期，NBIS漲7%；AMD再創新高 | AI助手進入「抽傭時代」？Muse轉向交易抽成，或打開Meta全新變現空間 | 美參議院以一票之差否決終止伊朗戰爭決議，油價壓力令共和黨人承壓 | 聯儲局發聲！威廉姆斯：需要及時將通脹拉回目標水平，年底前再次加息是合理的 | 美債拋售加劇！7年期美債拍賣遇冷，財政部回購規模再度低於上限，市政債收益率創15年新高 | 美股收盤 | 油價過山車行情，股指承壓橫盤；雲計算板塊走強，NBIS漲7%，CRWV漲3%；30年期國債收益率創04年以來新高，黃金回落
+  - 其他: 谷歌TPU，下週出發去太空 | 谷歌、OpenAI、Anthropic據稱擬共建「前沿AI標準局」 | 習近平同美國總統特朗普會談 | Meta推出AI遊戲開發工具，競爭對手股價應聲下跌 | 美股三大指數收盤漲跌不一 存儲芯片股跌幅居前
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (5 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
-- **伊朗/中东局势** — 出现于: Benzinga (EN), 富途资讯 (繁中) (2 站)
-- **美国关税（15%等）** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
-- **就业/经济数据** — 出现于: Yahoo Finance (EN) (1 站)
+- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 富途资讯 (繁中) (2 站)
+- **美国关税（15%等）** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN) (1 站)
+- **加密货币** — 出现于: Yahoo Finance (EN) (1 站)
+- **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 中国/欧盟（3 站）
+- 美联储/利率（3 站）
 - 伊朗/中东局势（2 站）
 - 关税/贸易政策（2 站）
-- 美联储/利率（2 站）
+- 中国/欧盟（2 站）
+- 油价/能源（1 站）
+- 加密货币（1 站）
 - 就业/经济数据（1 站）
-- 油价/能源（0 站）
-- 加密货币（0 站）
 - 黄金/大宗商品（0 站）
 - 中国政策（0 站）
