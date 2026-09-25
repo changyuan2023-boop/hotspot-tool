@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：早间**
-**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
+**当前模式：晚间**
+**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`早间热点线索 · 2026年9月25日`
+`晚间热点线索 · 2026年9月25日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 早间模式操作指令
+## 晚间模式操作指令
 
-聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
+聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
 
 重点关注（按重要性排序写入）：
-1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
-2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
-3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
-4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
+1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
+2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
+3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
+4. 其他值得今晚关注的美股消息
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026092509
+抓取时间: 2026092520
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- Stocks trim losses as hopes of Hormuz deal offset rising bond yields
-- Trump advisers analyzing impact of short-term diesel export ban
+- U.S. markets open in 1h 30m
+- Google enters AI space race with 'moonshot' orbital data center
+- Akamai lands $11.6B Anthropic deal, shares soar
+- US-Greenland security deal opens door to American investment
+- Akamai lands $11.6B Anthropic deal, shares soar
+- US-Greenland security deal opens door to American investment
+- Diesel export ban undergoing serious consideration by Trump team
 - Starbucks to close 250 stores this week
-- Trump advisers analyzing impact of short-term diesel export ban
-- Starbucks to close 250 stores this week
-- The S&P 500 has never been this concentrated in 2 stocks
-- New York Times and A24 among suitors as deal for Letterboxd nears
-- Oil prices jump on Houthi attacks, US-Iran escalation fears
-- US, Iran said to be exploring phased deal to open Hormuz
-- Fed unveils more stablecoin plans as regulators embrace crypto
-- Mortgage rates are at their highest level in over two years
+- Stock futures rise amid bond sell-off pressuring markets
+- Oil slides as US-Iran truce hopes outweigh Houthi attacks on Saudi Arabia
+- Grains drop with Trump-Xi summit yet to offer farm trade details
+- Yen heads for best day in two weeks after Katayama jawboning
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
-- Meta Connect Conference
-- AI's financial Jenga towers start to wobble
-- Meta stock is soaring — and $2 trillion is now within reach
-- Anthropic strikes $12 billion AI computing deal with Akamai
-- Meta bets its future on Muse AI agent, aims to win user trust
+- Tech & AI
+- Elon Musk aims to double Colossus 2's Nvidia chips by year-end
+- Meta is banking its future on its Muse AI agent — and winning user trust
+- AI's nuclear power push runs into cost and regulatory hurdles
+- The cheap new AI model taking aim at OpenAI and Anthropic
 - Popular
-- Kentucky man won $167.3M Powerball jackpot, then arrested 5 times
-- Buffett's final warning: US dollar 'going to hell'
+- 3 reasons investors should be ready for the bond market sell-off to worsen
+- KPMG launches Silicon Valley-style incubator to skirt Big Four bureaucracy
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,41 +145,41 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Widow, 44, Got $500,000 In Life Insurance After Her Husband Died — His Mother Says She's 'Moving Too Fast' Investing It
-- Jensen Huang Doesn't Struggle With What to Wear Each Day: Nvidia CEO Says, 'The Moment I Wake Up, I Could Be Thinking About Important Things'
-- Woman, 28, Inherits $47K From Her Grandfather — Then Her Godmother Asks Her To Give Up $7,100 ‘So She Could Be More Comfortable’
-- Trump Disapproval Hits Record High in New Poll: 56% Say President Has Done Worse than Expected
-- Akamai Stock Soars on $11.6 Billion Anthropic Deal
+- JPMorgan Turns Contrarian on Interest Rates, Upgrades 3 REITs
+- Top Wall Street Forecasters Revamp Levi Strauss Expectations Ahead Of Q3 Earnings
+- Xanadu Trending as Investors Digest Lockup Expiration, CEO's Share Sale
+- JD Vance Warns Companies Against 'Cheap' H-1B Replacements: 'We're Not Going to Let You Lay Off American Workers'
+- Energy Secretary Chris Wright Urges Oil Industry To Voluntarily Cut Diesel Exports As Prices Stay Near Record High: ‘You Gotta Put Americans First’
+- Stock Market Today: Dow, S&P 500, Nasdaq Futures Rise Amid Optimism Following Iran’s Offer To Reopen Strait of Hormuz — AKAM, COST, SCHL In Focus (UPDATED)
 - Scott Bessent
 - Greenland
 - The Federal Reserve
-- Redwire, Rocket Lab, Firefly Split a $981 Million Space Force Pie
-- EXCLUSIVE: Why AI Semiconductor Stocks Are a 'Dangerous Playground' For Investors
+- Vistra Struck a 20-Year Power Deal with New Era — Here's What Else Happened This Month
 
 ## 华尔街见闻 (简中)
-（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f8465cb7d40>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
+（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f4475f14860>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- A ‘friendship forged in blood’: Xi, Trump talk up bonds and how Maga, China align
-- B-2 Spirit, AI cooperation, no US-China conflict: key Xi-Trump takeaways so far
-- Pat on the back? Xi and Trump’s body language speaks volumes
-- In Focus | What Xi’s letter to old friends in Iowa means in an altered America
-- Diplomacy
-- Inside Melania Trump and Peng Liyuan’s visit to the Smithsonian’s Peacock Room
-- Chinese CEOs fly to US on own, await invites to Trump’s state dinner for Xi
-- Xi-Trump summit day 2: here’s everything you missed overnight
+- Why is the National Archives the last stop on Xi and Trump’s summit itinerary?
+- Trump’s warm welcome for Xi met with caution and uncertainty in Taiwan
+- Xi Jinping marks second Mid-Autumn Festival in US during state visit
+- China and EU deadlocked on medical devices, still talking on PHEV curbs: source
+- Politics
+- Why did Xi and China’s first lady bring their own flasks to White House banquet?
+- Military
+- How China’s wartime cooperatives gave us ‘gung-ho’
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Following an unprecedented reception upon landing, formal proceedings – including talks – between the two leaders are taking place today
-- The personal thread may be intact, but the US agricultural partnership that once gave it weight is not.
-- From Peng Liyuan’s fashion soft power to Chinese CEOs flying in, here’s what you missed overnight about Xi’s state visit to Washington.
+- The presidents and their wives will get a personal view of the National Archives and the documents that define the American system
+- Sources on the Chinese side recently described the talks as difficult and expressed frustration over the EU’s inflexibility.
 - Law and Crime
-- Legislation among options to regulate minors’ social media use: justice minister
-- Paul Lam dismisses concerns that measures could infringe on individual rights, saying goal is to protect children in Hong Kong from online harms.
-- Beyond the Rose Garden and the military review, Trump and Xi get down to business
-- The two leaders have a host of hard issues – from AI to trade tariffs – to confront away from the cameras.
-- Middle East
-- Netanyahu, at UN, calls Gaza genocide accusations ‘biggest lie of the century’
+- Hong Kong teacher jailed for 3 years for molesting pupil during free tutoring
+- Maths teacher, 31, also found to have taken intimate photos of nine-year-old boy and another victim, aged six.
+- Diplomacy
+- AI war, Taiwan and translation: SCMP answers your questions from Xi-Trump summit
+- China Editor Wendy Wu tackles reader queries in this live question-and-answer session, after the two leaders’ closely watched summit.
+- Tech Trends
+- China and the US are racing ahead on AI. Can they manage risks together?
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -196,9 +196,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数24761.13-72.99(-0.29%)
+- 恒生指数24510.09-251.04(-1.01%)
                     etnet.com.hk@copyright
-- 国企指数8266.01-7.80(-0.09%)
+- 国企指数8165.78-100.23(-1.21%)
                     etnet.com.hk@copyright
 - 理财/管理
 - 时尚艺术
@@ -209,35 +209,35 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 習近平同美國總統特朗普會談；油價深夜巨震，美伊探討分階段重啓霍爾木茲海峽；聯儲局官員密集放鷹，10月加息概率升至69%；30年期美債收益率創逾20年新高
-- 116億美元買CPU算力！Anthropic大單引爆老牌科技股
-- 成交額TOP20 | Meta大漲5%，市值逼近2萬億；甲骨文、Bloom Energy跌超3%，星際之門核心項目延期，NBIS漲7%；AMD再創新高
-- AI助手進入「抽傭時代」？Muse轉向交易抽成，或打開Meta全新變現空間
-- 美參議院以一票之差否決終止伊朗戰爭決議，油價壓力令共和黨人承壓
-- 聯儲局發聲！威廉姆斯：需要及時將通脹拉回目標水平，年底前再次加息是合理的
-- 美債拋售加劇！7年期美債拍賣遇冷，財政部回購規模再度低於上限，市政債收益率創15年新高
-- 美股收盤 | 油價過山車行情，股指承壓橫盤；雲計算板塊走強，NBIS漲7%，CRWV漲3%；30年期國債收益率創04年以來新高，黃金回落
+- 美伊戰爭陷僵局：德黑蘭提議解封海峽，海灣國家力勸白宮維持封鎖，伊朗總統：願推動與美達成協議，結束戰爭權在美
+- 本週美股牛股 | Moderna周累漲超26%，癌症疫苗里程碑催化持續發酵；Twilio漲近23%，大摩稱公司將直接受益Muse推動通信量增長；英特爾漲超17%，Meta Muse引爆新需求，行業CPU齊漲價
+- AI資本開支衝向1.7萬億美元，回報要達到什麼水平才算合理？高盛算了一筆賬
+- 華爾街直面「新常態」：美債平均收益率跨入「5字頭時代」！
+- 香港交易所旗下衍生產品結算所將於11月起接納中國國債、政策性金融債及財政部債券作爲非現金抵押品
+- 10月加息定價過頭了？瑞銀：核心PCE下修疊加基數效應，聯儲局不太可能連續加息
+- 大摩力挺Meta：Muse生態持續擴容，VR眼鏡有望成2027年新增長點
+- 機構：全球能源需求到2060年或增逾60%，油氣仍將長期佔據一席之地
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 谷歌TPU，下週出發去太空
-- 谷歌、OpenAI、Anthropic據稱擬共建「前沿AI標準局」
-- 習近平同美國總統特朗普會談
-- Meta推出AI遊戲開發工具，競爭對手股價應聲下跌
-- 美股三大指數收盤漲跌不一 存儲芯片股跌幅居前
-- 美國房貸利率升至7%以上，創2025年初以來新高
-- 谷歌Gemini 3.8 Live上線"數字人"實時對話，支持多國語言與口型同步
-- 美國財政部20至30年期美債回購未達60億美元上限
-- 報道稱美伊探討分階段重啓霍爾木茲海峽，原油漲幅火速「腰斬」
-- 美國政府支持馬斯克，尋求加入X與歐盟1.2億歐元罰款訴訟，指責歐盟監管越權
+- 港股收評：恒指跌1.01%，科指跌1.13%，聯想集團逆市升逾3%
+- 智譜創調整新低市值跌回3000億港元，大模型賽道掀新一輪降價潮
+- 聯儲局推進GENIUS法案，完善穩定幣監管
+- Bitwise 深度報告：機構投資加密的 10 個新趨勢
+- 特斯拉官宣Semi電動卡車開啓量產交付 重申年產5萬輛目標
+- 金斯瑞生物科技創歷史新高，金斯瑞與禮來TuneLab合作 強化公司AI藥物發現生態
+- 伊朗外長：願在七天內重開霍爾木茲海峽，但提出需滿足相關條件
+- 谷歌「算力衛星」下週發射！搭乘SpaceX火箭 、每運行15分鐘就要停機散熱
+- 港股午評 | 三大股指齊跌，科指跌超2%；科網股、內房股普跌，小米、快手跌3%，萬科跌5%；生物醫藥股逆市上漲，金斯瑞生物科技漲8%，藥明康德漲2%幾近新高
+- 港股持續承壓，分析：兩大壓力疊加引發調整
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 美联储: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 伊朗/中东: Yahoo Finance (EN), 富途资讯 (繁中)
-- 美国关税: Benzinga (EN), SCMP (EN/中)
-- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN)
-- 加密货币: Yahoo Finance (EN)
-- 就业数据: SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 富途资讯 (繁中)
+- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
+- 美国关税: Benzinga (EN)
+- 加密货币: Benzinga (EN)
+- 就业数据: Benzinga (EN)
+- 美联储: Benzinga (EN)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->

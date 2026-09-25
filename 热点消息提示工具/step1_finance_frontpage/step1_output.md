@@ -3,51 +3,51 @@
 ## 一、各站抓取情况
 
 - **Yahoo Finance (EN)** ✓
-  - 头版/首屏: U.S. markets closed | Stocks trim losses as hopes of Hormuz deal offset rising bond yields | Trump advisers analyzing impact of short-term diesel export ban | Starbucks to close 250 stores this week | Trump advisers analyzing impact of short-term diesel export ban | Starbucks to close 250 stores this week | The S&P 500 has never been this concentrated in 2 stocks | New York Times and A24 among suitors as deal for Letterboxd nears
-  - 其他: Top Stories | Markets & Economy | Meta Connect Conference | AI's financial Jenga towers start to wobble | Meta stock is soaring — and $2 trillion is now within reach
+  - 头版/首屏: U.S. markets open in 1h 30m | Google enters AI space race with 'moonshot' orbital data center | Akamai lands $11.6B Anthropic deal, shares soar | US-Greenland security deal opens door to American investment | Akamai lands $11.6B Anthropic deal, shares soar | US-Greenland security deal opens door to American investment | Diesel export ban undergoing serious consideration by Trump team | Starbucks to close 250 stores this week
+  - 其他: Top Stories | Markets & Economy | Tech & AI | Elon Musk aims to double Colossus 2's Nvidia chips by year-end | Meta is banking its future on its Muse AI agent — and winning user trust
 
 - **Benzinga (EN)** ✓
   - 头版/首屏: Latest News | Top Stories | QUICK LINKS | Markets Pulse | Sponsored Content | Why Is It Moving?™ | Trending Stories | Expert Ideas
-  - 其他: Widow, 44, Got $500,000 In Life Insurance After Her Husband Died — His Mother Says She's 'Moving Too Fast' Investing It | Jensen Huang Doesn't Struggle With What to Wear Each Day: Nvidia CEO Says, 'The Moment I Wake Up, I Could Be Thinking About Important Things' | Woman, 28, Inherits $47K From Her Grandfather — Then Her Godmother Asks Her To Give Up $7,100 ‘So She Could Be More Comfortable’ | Trump Disapproval Hits Record High in New Poll: 56% Say President Has Done Worse than Expected | Akamai Stock Soars on $11.6 Billion Anthropic Deal
+  - 其他: JPMorgan Turns Contrarian on Interest Rates, Upgrades 3 REITs | Top Wall Street Forecasters Revamp Levi Strauss Expectations Ahead Of Q3 Earnings | Xanadu Trending as Investors Digest Lockup Expiration, CEO's Share Sale | JD Vance Warns Companies Against 'Cheap' H-1B Replacements: 'We're Not Going to Let You Lay Off American Workers' | Energy Secretary Chris Wright Urges Oil Industry To Voluntarily Cut Diesel Exports As Prices Stay Near Record High: ‘You Gotta Put Americans First’
 
-- **华尔街见闻 (简中)** ✗ (HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f8465cb7d40>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)')))
+- **华尔街见闻 (简中)** ✗ (HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f4475f14860>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)')))
 
 - **SCMP (EN/中)** ✓
-  - 头版/首屏: A ‘friendship forged in blood’: Xi, Trump talk up bonds and how Maga, China align | B-2 Spirit, AI cooperation, no US-China conflict: key Xi-Trump takeaways so far | Pat on the back? Xi and Trump’s body language speaks volumes | In Focus | What Xi’s letter to old friends in Iowa means in an altered America | Diplomacy | Inside Melania Trump and Peng Liyuan’s visit to the Smithsonian’s Peacock Room | Chinese CEOs fly to US on own, await invites to Trump’s state dinner for Xi | Xi-Trump summit day 2: here’s everything you missed overnight
-  - 其他: Following an unprecedented reception upon landing, formal proceedings – including talks – between the two leaders are taking place today | The personal thread may be intact, but the US agricultural partnership that once gave it weight is not. | From Peng Liyuan’s fashion soft power to Chinese CEOs flying in, here’s what you missed overnight about Xi’s state visit to Washington. | Law and Crime | Legislation among options to regulate minors’ social media use: justice minister
+  - 头版/首屏: Why is the National Archives the last stop on Xi and Trump’s summit itinerary? | Trump’s warm welcome for Xi met with caution and uncertainty in Taiwan | Xi Jinping marks second Mid-Autumn Festival in US during state visit | China and EU deadlocked on medical devices, still talking on PHEV curbs: source | Politics | Why did Xi and China’s first lady bring their own flasks to White House banquet? | Military | How China’s wartime cooperatives gave us ‘gung-ho’
+  - 其他: The presidents and their wives will get a personal view of the National Archives and the documents that define the American system | Sources on the Chinese side recently described the talks as difficult and expressed frustration over the EU’s inflexibility. | Law and Crime | Hong Kong teacher jailed for 3 years for molesting pupil during free tutoring | Maths teacher, 31, also found to have taken intimate photos of nine-year-old boy and another victim, aged six.
 
 - **经济通 (繁中)** ✓
   - 头版/首屏: 沪深港通 热点观察国际动态【FOCUS】 | AI芯片供不应求传台积电明年加价，芯片股可否趁低吸？ | 中国车企8月欧洲市占率 再创新高 | 沙特重启东西输油管 恢复红海出口 | B1轰炸机背书稀土牌，休战延两月各取所需 | 指数环球商品外汇 | 国金观点 | 港股大市分析
-  - 其他: 恒生指数24761.13-72.99(-0.29%)
-                    etnet.com.hk@copyright | 国企指数8266.01-7.80(-0.09%)
+  - 其他: 恒生指数24510.09-251.04(-1.01%)
+                    etnet.com.hk@copyright | 国企指数8165.78-100.23(-1.21%)
                     etnet.com.hk@copyright | 理财/管理 | 时尚艺术 | 健康人生
 
 - **智通财经 (简中)** ✓
 
 - **富途资讯 (繁中)** ✓
-  - 头版/首屏: 富途早報 | 習近平同美國總統特朗普會談；油價深夜巨震，美伊探討分階段重啓霍爾木茲海峽；聯儲局官員密集放鷹，10月加息概率升至69%；30年期美債收益率創逾20年新高 | 116億美元買CPU算力！Anthropic大單引爆老牌科技股 | 成交額TOP20 | Meta大漲5%，市值逼近2萬億；甲骨文、Bloom Energy跌超3%，星際之門核心項目延期，NBIS漲7%；AMD再創新高 | AI助手進入「抽傭時代」？Muse轉向交易抽成，或打開Meta全新變現空間 | 美參議院以一票之差否決終止伊朗戰爭決議，油價壓力令共和黨人承壓 | 聯儲局發聲！威廉姆斯：需要及時將通脹拉回目標水平，年底前再次加息是合理的 | 美債拋售加劇！7年期美債拍賣遇冷，財政部回購規模再度低於上限，市政債收益率創15年新高 | 美股收盤 | 油價過山車行情，股指承壓橫盤；雲計算板塊走強，NBIS漲7%，CRWV漲3%；30年期國債收益率創04年以來新高，黃金回落
-  - 其他: 谷歌TPU，下週出發去太空 | 谷歌、OpenAI、Anthropic據稱擬共建「前沿AI標準局」 | 習近平同美國總統特朗普會談 | Meta推出AI遊戲開發工具，競爭對手股價應聲下跌 | 美股三大指數收盤漲跌不一 存儲芯片股跌幅居前
+  - 头版/首屏: 美伊戰爭陷僵局：德黑蘭提議解封海峽，海灣國家力勸白宮維持封鎖，伊朗總統：願推動與美達成協議，結束戰爭權在美 | 本週美股牛股 | Moderna周累漲超26%，癌症疫苗里程碑催化持續發酵；Twilio漲近23%，大摩稱公司將直接受益Muse推動通信量增長；英特爾漲超17%，Meta Muse引爆新需求，行業CPU齊漲價 | AI資本開支衝向1.7萬億美元，回報要達到什麼水平才算合理？高盛算了一筆賬 | 華爾街直面「新常態」：美債平均收益率跨入「5字頭時代」！ | 香港交易所旗下衍生產品結算所將於11月起接納中國國債、政策性金融債及財政部債券作爲非現金抵押品 | 10月加息定價過頭了？瑞銀：核心PCE下修疊加基數效應，聯儲局不太可能連續加息 | 大摩力挺Meta：Muse生態持續擴容，VR眼鏡有望成2027年新增長點 | 機構：全球能源需求到2060年或增逾60%，油氣仍將長期佔據一席之地
+  - 其他: 港股收評：恒指跌1.01%，科指跌1.13%，聯想集團逆市升逾3% | 智譜創調整新低市值跌回3000億港元，大模型賽道掀新一輪降價潮 | 聯儲局推進GENIUS法案，完善穩定幣監管 | Bitwise 深度報告：機構投資加密的 10 個新趨勢 | 特斯拉官宣Semi電動卡車開啓量產交付 重申年產5萬輛目標
 
 ## 二、跨站主题（多站出现 = 更重要）
 
 - **科技股/个股** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中) (5 站)
-- **美联储/利率** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
-- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), 富途资讯 (繁中) (2 站)
-- **美国关税（15%等）** — 出现于: Benzinga (EN), SCMP (EN/中) (2 站)
-- **中国/欧盟** — 出现于: Yahoo Finance (EN), SCMP (EN/中) (2 站)
-- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN) (1 站)
-- **加密货币** — 出现于: Yahoo Finance (EN) (1 站)
-- **就业/经济数据** — 出现于: SCMP (EN/中) (1 站)
+- **伊朗/中东局势** — 出现于: Yahoo Finance (EN), Benzinga (EN), 富途资讯 (繁中) (3 站)
+- **中国/欧盟** — 出现于: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中) (3 站)
+- **油价/能源/霍尔木兹** — 出现于: Yahoo Finance (EN), Benzinga (EN) (2 站)
+- **美国关税（15%等）** — 出现于: Benzinga (EN) (1 站)
+- **加密货币** — 出现于: Benzinga (EN) (1 站)
+- **就业/经济数据** — 出现于: Benzinga (EN) (1 站)
+- **美联储/利率** — 出现于: Benzinga (EN) (1 站)
 
 ## 三、检测到的主题（供参考，由总结摘要 Prompt 自行判断重要性）
 
 - 科技股/个股（5 站）
-- 美联储/利率（3 站）
-- 伊朗/中东局势（2 站）
-- 关税/贸易政策（2 站）
-- 中国/欧盟（2 站）
-- 油价/能源（1 站）
+- 伊朗/中东局势（3 站）
+- 中国/欧盟（3 站）
+- 油价/能源（2 站）
+- 关税/贸易政策（1 站）
 - 加密货币（1 站）
 - 就业/经济数据（1 站）
+- 美联储/利率（1 站）
 - 黄金/大宗商品（0 站）
 - 中国政策（0 站）
