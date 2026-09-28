@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年9月25日`
+`早间热点线索 · 2026年9月28日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026092520
+抓取时间: 2026092809
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- Google enters AI space race with 'moonshot' orbital data center
-- Akamai lands $11.6B Anthropic deal, shares soar
-- US-Greenland security deal opens door to American investment
-- Akamai lands $11.6B Anthropic deal, shares soar
-- US-Greenland security deal opens door to American investment
-- Diesel export ban undergoing serious consideration by Trump team
-- Starbucks to close 250 stores this week
-- Stock futures rise amid bond sell-off pressuring markets
-- Oil slides as US-Iran truce hopes outweigh Houthi attacks on Saudi Arabia
-- Grains drop with Trump-Xi summit yet to offer farm trade details
-- Yen heads for best day in two weeks after Katayama jawboning
+- U.S. markets closed
+- 2 key checks for the AI trade and the economy in focus this week
+- AI breaches add to safety fears as Trump meets Anthropic chief
+- The deeper reason behind the relentless rise in bond yields
+- AI breaches add to safety fears as Trump meets Anthropic chief
+- The deeper reason behind the relentless rise in bond yields
+- Trump says he's 'very seriously' looking at diesel export ban
+- Bessent urges Fed to keep 'open mind' on US inflation outlook
+- Tesla finally moves to electrify trucking
+- Big Tech workers speak out after getting laid off
+- China may let ByteDance, Alibaba buy new Nvidia chips
+- How Uber's ousted founder went from pariah to Silicon Valley hero
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
-- Markets & Economy
 - Tech & AI
-- Elon Musk aims to double Colossus 2's Nvidia chips by year-end
-- Meta is banking its future on its Muse AI agent — and winning user trust
-- AI's nuclear power push runs into cost and regulatory hurdles
-- The cheap new AI model taking aim at OpenAI and Anthropic
+- Your Money
+- New condo financing rules add a fresh roadblock to an already-strained market
+- Free trials are costing Americans $540 a year, on average, survey finds
+- What's the $1,000 savings challenge, and how does it work?
+- The families Trump Accounts could help most aren't signing up
 - Popular
-- 3 reasons investors should be ready for the bond market sell-off to worsen
-- KPMG launches Silicon Valley-style incubator to skirt Big Four bureaucracy
+- Will Social Security really go broke in 2032? Here is what's happening.
+- Michael Burry is all-in on these stocks
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,41 +145,41 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- JPMorgan Turns Contrarian on Interest Rates, Upgrades 3 REITs
-- Top Wall Street Forecasters Revamp Levi Strauss Expectations Ahead Of Q3 Earnings
-- Xanadu Trending as Investors Digest Lockup Expiration, CEO's Share Sale
-- JD Vance Warns Companies Against 'Cheap' H-1B Replacements: 'We're Not Going to Let You Lay Off American Workers'
-- Energy Secretary Chris Wright Urges Oil Industry To Voluntarily Cut Diesel Exports As Prices Stay Near Record High: ‘You Gotta Put Americans First’
-- Stock Market Today: Dow, S&P 500, Nasdaq Futures Rise Amid Optimism Following Iran’s Offer To Reopen Strait of Hormuz — AKAM, COST, SCHL In Focus (UPDATED)
-- Scott Bessent
-- Greenland
-- The Federal Reserve
-- Vistra Struck a 20-Year Power Deal with New Era — Here's What Else Happened This Month
+- I'm Told the Economy Isn't in a Recession, but Everyone Around Me Is Struggling. Almost Nobody I Know Feels Financially Secure
+- Elon Musk’s Path to Trillionaire Stalls Ahead of Key Tesla and SpaceX Events
+- Will Micron Earnings and Solidigm's IPO Rescue DRAM ETF?
+- Top Three Cryptocurrencies to Watch This Week: Quant, Worldcoin, Zcash
+- AppLovin Stock Stays Stuck in a Bear Market Despite Strong Growth Forecasts
+- Elon Musk Says Moon, Mars Production Could Grow Far Faster Than 2X a Year Until ‘Natural Limits’ Hit
+- Elon Musk
+- Donald Trump
+- American Airlines Stock Climbs Friday: What's Happening?
+- Iran Pushes Diplomacy After Trump Rejects Hormuz Peace Plan: ‘Only a Negotiated Solution Can...’
 
 ## 华尔街见闻 (简中)
-（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f4475f14860>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
+（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f4aaf12ba40>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Why is the National Archives the last stop on Xi and Trump’s summit itinerary?
-- Trump’s warm welcome for Xi met with caution and uncertainty in Taiwan
-- Xi Jinping marks second Mid-Autumn Festival in US during state visit
-- China and EU deadlocked on medical devices, still talking on PHEV curbs: source
-- Politics
-- Why did Xi and China’s first lady bring their own flasks to White House banquet?
+- Scott Kennedy on China’s ‘slow tech dragon’ and 2 more Xi-Trump meetings
 - Military
-- How China’s wartime cooperatives gave us ‘gung-ho’
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- The presidents and their wives will get a personal view of the National Archives and the documents that define the American system
-- Sources on the Chinese side recently described the talks as difficult and expressed frustration over the EU’s inflexibility.
-- Law and Crime
-- Hong Kong teacher jailed for 3 years for molesting pupil during free tutoring
-- Maths teacher, 31, also found to have taken intimate photos of nine-year-old boy and another victim, aged six.
+- Keep out: why Greenland is the US military’s new eyes in the Arctic on China
+- Hong Kong Economy
+- China-US dialogue will ease concerns, but competition will remain: Paul Chan
 - Diplomacy
-- AI war, Taiwan and translation: SCMP answers your questions from Xi-Trump summit
-- China Editor Wendy Wu tackles reader queries in this live question-and-answer session, after the two leaders’ closely watched summit.
-- Tech Trends
-- China and the US are racing ahead on AI. Can they manage risks together?
+- ‘Right now, it’s fine’: Trump brushes off summit talk on Taiwan
+- Health & Wellness
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- American adviser on Chinese business and economics highlights different phases of US-China relations over the past 50 years.
+- Comments follow Xi Jinping’s push for the US to take an explicit stand on the issue.
+- Can potassium lower your blood pressure without cutting back on salt or flavour?
+- Many Asian dishes are high in sodium, and new research suggests that increasing potassium intake can offset salt’s effects on blood pressure.
+- China Economy
+- As Chinese retirees boost consumption, some hope for greater respect in society
+- Age bias is an obstacle to the growth of China’s silver economy, researchers say.
+- Americas
+- Venezuelans rally to demand opposition leader’s return, presidential elections
+- Maria Corina Machado has been in exile for the past 9 months and opposition activists have accused the government of blocking her return.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -209,35 +209,35 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美伊戰爭陷僵局：德黑蘭提議解封海峽，海灣國家力勸白宮維持封鎖，伊朗總統：願推動與美達成協議，結束戰爭權在美
-- 本週美股牛股 | Moderna周累漲超26%，癌症疫苗里程碑催化持續發酵；Twilio漲近23%，大摩稱公司將直接受益Muse推動通信量增長；英特爾漲超17%，Meta Muse引爆新需求，行業CPU齊漲價
-- AI資本開支衝向1.7萬億美元，回報要達到什麼水平才算合理？高盛算了一筆賬
-- 華爾街直面「新常態」：美債平均收益率跨入「5字頭時代」！
-- 香港交易所旗下衍生產品結算所將於11月起接納中國國債、政策性金融債及財政部債券作爲非現金抵押品
-- 10月加息定價過頭了？瑞銀：核心PCE下修疊加基數效應，聯儲局不太可能連續加息
-- 大摩力挺Meta：Muse生態持續擴容，VR眼鏡有望成2027年新增長點
-- 機構：全球能源需求到2060年或增逾60%，油氣仍將長期佔據一席之地
+- 富途早報 | 美伊局勢又起波瀾，特朗普拒絕伊朗停戰方案後伊朗代表團沒有與美會談計劃；馬斯克放話稱Colossus 2部署的英偉達芯片年底或增加一倍；本末科技、景旺電子、彤程新材、羅博特科港股暗盤
+- 特朗普拒絕伊朗方案，卻稱本週還要談：核問題成重啓談判關鍵
+- Meta的Muse爆火之後，OpenAI緊急推出個人助手「O」迎擊，預計週二發佈
+- 一週前瞻 | 密集發佈！8月核心PCE、9月非農數據重磅來襲；特朗普拒絕伊朗停火提案，霍爾木茲海峽談判生變；特朗普、衆議院議長、科技公司高管召開人工智能會議；OpenAI開發者大會召開；美光業績將放榜
+- 伊朗稱「已爲與美戰事重開做好準備，但未放棄外交途徑」，調解國認爲「重返談判希望渺茫」
+- 拖了近10年，特斯拉Semi終於量產！
+- 「網紅芯片分析師」P Equity訪談：算力缺口、存儲週期、隱形瓶頸、銅退光進以及「10年需求能見度的彌天大謊」
+- 「從ICU到KTV」！兩級搖擺的「AI敘事」讓投資者「心累」
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 港股收評：恒指跌1.01%，科指跌1.13%，聯想集團逆市升逾3%
-- 智譜創調整新低市值跌回3000億港元，大模型賽道掀新一輪降價潮
-- 聯儲局推進GENIUS法案，完善穩定幣監管
-- Bitwise 深度報告：機構投資加密的 10 個新趨勢
-- 特斯拉官宣Semi電動卡車開啓量產交付 重申年產5萬輛目標
-- 金斯瑞生物科技創歷史新高，金斯瑞與禮來TuneLab合作 強化公司AI藥物發現生態
-- 伊朗外長：願在七天內重開霍爾木茲海峽，但提出需滿足相關條件
-- 谷歌「算力衛星」下週發射！搭乘SpaceX火箭 、每運行15分鐘就要停機散熱
-- 港股午評 | 三大股指齊跌，科指跌超2%；科網股、內房股普跌，小米、快手跌3%，萬科跌5%；生物醫藥股逆市上漲，金斯瑞生物科技漲8%，藥明康德漲2%幾近新高
-- 港股持續承壓，分析：兩大壓力疊加引發調整
+- 「5%以上10年期美債收益率」未能壓垮AI投資狂潮，真正的「AI斬殺線」是收益率曲線倒掛?
+- 高盛：別等中期選舉，「金髮姑娘」行情或提前點燃美股年末行情
+- 週末讀物 | AI基礎設施撞上「牆」！邁威爾科技高管：銅連接、內存瓶頸成下一階段算力擴張關鍵
+- 扎克伯格談Muse：AI Agent爆發，「元宇宙、智能眼鏡和大模型」三大賭注完成交匯
+- 週末讀物 | 「Agent vs 美債」——誰將主導美股？
+- Meta AI主管Alexandr Wang：爲何我要做Muse
+- 伊朗七日重開海峽提議遭特朗普拒絕，稱「美方完全控制霍爾木茲海峽」
+- 三季報在即，三星電子和海力士面臨「極高預期」，考驗「全球AI交易」
+- 存儲供不應求或延續至2028年！瑞銀上調美光盈利，看好HBM高景氣 + 回購增量
+- 中美達成八點成果共識
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 伊朗/中东: Yahoo Finance (EN), Benzinga (EN), 富途资讯 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
-- 美国关税: Benzinga (EN)
+- 伊朗/中东: Benzinga (EN), 富途资讯 (繁中)
+- 黄金/大宗: Benzinga (EN), SCMP (EN/中)
+- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
+- 美国关税: Yahoo Finance (EN)
+- 油价/霍尔木兹: Benzinga (EN)
 - 加密货币: Benzinga (EN)
-- 就业数据: Benzinga (EN)
-- 美联储: Benzinga (EN)
+- 美联储: Yahoo Finance (EN)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
