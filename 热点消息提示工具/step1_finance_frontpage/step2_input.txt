@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026092809
+抓取时间: 2026092820
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- 2 key checks for the AI trade and the economy in focus this week
+- U.S. markets open in 1h 30m
+- Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'
+- 2 key checks for the AI trade and the economy: What to watch this week
 - AI breaches add to safety fears as Trump meets Anthropic chief
-- The deeper reason behind the relentless rise in bond yields
+- 2 key checks for the AI trade and the economy: What to watch this week
 - AI breaches add to safety fears as Trump meets Anthropic chief
-- The deeper reason behind the relentless rise in bond yields
-- Trump says he's 'very seriously' looking at diesel export ban
-- Bessent urges Fed to keep 'open mind' on US inflation outlook
-- Tesla finally moves to electrify trucking
-- Big Tech workers speak out after getting laid off
-- China may let ByteDance, Alibaba buy new Nvidia chips
-- How Uber's ousted founder went from pariah to Silicon Valley hero
+- Bitcoin rally wobbles as macro risks overshadow ETF demand
+- The full list of goods the US and China agreed on for tariff cuts
+- Apollo's Sløk: Is an 'agentic bank run' coming?
+- Nvidia boosts share buyback authorization by $150B
+- SK Hynix shares fall as Solidigm's potential US IPO sours mood
+- Autonomous vehicle companies pick their AI lanes
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Tech & AI
-- Your Money
-- New condo financing rules add a fresh roadblock to an already-strained market
-- Free trials are costing Americans $540 a year, on average, survey finds
-- What's the $1,000 savings challenge, and how does it work?
-- The families Trump Accounts could help most aren't signing up
+- Markets & Economy
+- Stock futures slip as AI safety concerns and US-Iran tensions resurface
+- Key US data this week seen bolstering case for October rate hike
+- Oil gains over 2% as US-Iran peace talks in stalemate
+- Gold declines as Hormuz impasse keeps rate-hike bets elevated
 - Popular
-- Will Social Security really go broke in 2032? Here is what's happening.
-- Michael Burry is all-in on these stocks
+- Shifting Senate map is fueling most expensive US election ever
+- A ‘death cross’ is coming for the dollar. Why Trump will be happy.
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,48 +42,48 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- I'm Told the Economy Isn't in a Recession, but Everyone Around Me Is Struggling. Almost Nobody I Know Feels Financially Secure
-- Elon Musk’s Path to Trillionaire Stalls Ahead of Key Tesla and SpaceX Events
-- Will Micron Earnings and Solidigm's IPO Rescue DRAM ETF?
-- Top Three Cryptocurrencies to Watch This Week: Quant, Worldcoin, Zcash
-- AppLovin Stock Stays Stuck in a Bear Market Despite Strong Growth Forecasts
-- Elon Musk Says Moon, Mars Production Could Grow Far Faster Than 2X a Year Until ‘Natural Limits’ Hit
+- Bitcoin Falls to $83,000 as Gold Plunges 3% on Fresh Oil Price Surge
+- Amprius Lands $75 Million Defense Grant to Supercharge US Drone Battery Production
+- Natera, UnitedHealth Group And A Tech Stock On CNBC’s ‘Final Trades’
+- Wall Street's Most Accurate Analysts Give Their Take On 3 Materials Stocks Delivering High-Dividend Yields
+- Why Meta’s 13% Stock Gain Last Week Could Be Just the Start — Gene Munster Sees $11 Billion Revenue Opportunity That Could ‘Blow Us Away’
+- Stock Market Today: S&P 500, Dow Jones Futures Fall as Rising Yields and Trump’s Hormuz Deal Rejection Spook Investors—LLY, PEP, JEF in Focus
 - Elon Musk
 - Donald Trump
-- American Airlines Stock Climbs Friday: What's Happening?
-- Iran Pushes Diplomacy After Trump Rejects Hormuz Peace Plan: ‘Only a Negotiated Solution Can...’
+- S&P 500 in the 'Sweet Spot' for Q4: Ryan Detrick Points to 'Above Average Returns,' Noting Gains in 18 of Last 21 Historical Setups
+- 5 Stock Picks Last Week From Wall Street's Most Accurate Analysts
 
 ## 华尔街见闻 (简中)
-（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f4aaf12ba40>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
+（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7fdf02512a20>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- Scott Kennedy on China’s ‘slow tech dragon’ and 2 more Xi-Trump meetings
-- Military
-- Keep out: why Greenland is the US military’s new eyes in the Arctic on China
-- Hong Kong Economy
-- China-US dialogue will ease concerns, but competition will remain: Paul Chan
+- China deploys advanced WZ-7 drone for first time near Scarborough Shoal
+- Economy
+- US firms in China return focus to local rivals as bilateral ties mend
 - Diplomacy
-- ‘Right now, it’s fine’: Trump brushes off summit talk on Taiwan
-- Health & Wellness
+- Second Thomas Shoal stand-off sparks sharp exchange between US, China embassies
+- Law and Crime
+- Hong Kong cracks down on tourists abusing visas to run one-stop shop services
+- Tech Trends
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- American adviser on Chinese business and economics highlights different phases of US-China relations over the past 50 years.
-- Comments follow Xi Jinping’s push for the US to take an explicit stand on the issue.
-- Can potassium lower your blood pressure without cutting back on salt or flavour?
-- Many Asian dishes are high in sodium, and new research suggests that increasing potassium intake can offset salt’s effects on blood pressure.
-- China Economy
-- As Chinese retirees boost consumption, some hope for greater respect in society
-- Age bias is an obstacle to the growth of China’s silver economy, researchers say.
-- Americas
-- Venezuelans rally to demand opposition leader’s return, presidential elections
-- Maria Corina Machado has been in exile for the past 9 months and opposition activists have accused the government of blocking her return.
+- The high-altitude reconnaissance platform took part in exercises around the disputed South China Sea flashpoint.
+- Immigration Department says four women, aged 20 to 31, arrested for allegedly breaching conditions of stay to offer tourist services.
+- Betting on light: why China’s CanSemi is drawing record demand ahead of debut
+- Momentum builds for CanSemi’s Shenzhen debut as investors back its silicon photonics push and role in domestic AI infrastructure.
+- People
+- ‘Unequal floods, unequal power’: jet ski stunt fuels anger in Bangkok
+- The episode has been widely seen as an example of the insensitivity of some of the city’s wealthy to the suffering of its poor amid the floods.
+- Tech
+- As AI risks grow, China mulls how to make open-weight models less dangerous
+- Open-weight models allow AI’s “brains” to be freely downloaded, modified, fine-tuned and run independently by anyone online.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
 - 沪深港通 热点观察国际动态【FOCUS】
 - AI芯片供不应求传台积电明年加价，芯片股可否趁低吸？
-- 中国车企8月欧洲市占率 再创新高
-- 沙特重启东西输油管 恢复红海出口
+- 曼谷暴雨成灾 中国使馆吁做防洪准备
+- 雅加达拟电动化公共运输 纾空气污染
 - B1轰炸机背书稀土牌，休战延两月各取所需
 - 指数环球商品外汇
 - 国金观点
@@ -93,9 +93,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数24510.09-251.04(-1.01%)
+- 恒生指数24642.51+132.42(+0.54%)
                     etnet.com.hk@copyright
-- 国企指数8165.78-100.23(-1.21%)
+- 国企指数8216.84+51.06(+0.63%)
                     etnet.com.hk@copyright
 - 理财/管理
 - 时尚艺术
@@ -106,34 +106,33 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 富途早報 | 美伊局勢又起波瀾，特朗普拒絕伊朗停戰方案後伊朗代表團沒有與美會談計劃；馬斯克放話稱Colossus 2部署的英偉達芯片年底或增加一倍；本末科技、景旺電子、彤程新材、羅博特科港股暗盤
-- 特朗普拒絕伊朗方案，卻稱本週還要談：核問題成重啓談判關鍵
-- Meta的Muse爆火之後，OpenAI緊急推出個人助手「O」迎擊，預計週二發佈
-- 一週前瞻 | 密集發佈！8月核心PCE、9月非農數據重磅來襲；特朗普拒絕伊朗停火提案，霍爾木茲海峽談判生變；特朗普、衆議院議長、科技公司高管召開人工智能會議；OpenAI開發者大會召開；美光業績將放榜
+- 美股前瞻 | 特朗普拒絕停火提議，油價上漲股指期貨下跌；英偉達推出AI安全系統，宣佈增加1500億美元回購；AI越界事件加劇安全擔憂，特朗普與Anthropic掌門人會談
 - 伊朗稱「已爲與美戰事重開做好準備，但未放棄外交途徑」，調解國認爲「重返談判希望渺茫」
-- 拖了近10年，特斯拉Semi終於量產！
-- 「網紅芯片分析師」P Equity訪談：算力缺口、存儲週期、隱形瓶頸、銅退光進以及「10年需求能見度的彌天大謊」
-- 「從ICU到KTV」！兩級搖擺的「AI敘事」讓投資者「心累」
+- 超級數據周！非農正面撞上PCE，聯儲局10月政策路徑成焦點
+- 國常會：綜合運用並適時調整貨幣政策工具 研究出台穩定房地產市場、促進就業增收等政策措施
+- 英偉達：將股票回購授權規模增加1500億美元
+- 聯儲局重拳抗通脹，美債短端加速重定價！難題再度拋給貝森特
+- 「大空頭」盯上5730億美元AI融資網：接下來要問的是，AI支出停止會如何？誰將接盤這些債？
+- 日元突然拉升 日本最高外匯官員再度發聲警告
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 「5%以上10年期美債收益率」未能壓垮AI投資狂潮，真正的「AI斬殺線」是收益率曲線倒掛?
-- 高盛：別等中期選舉，「金髮姑娘」行情或提前點燃美股年末行情
-- 週末讀物 | AI基礎設施撞上「牆」！邁威爾科技高管：銅連接、內存瓶頸成下一階段算力擴張關鍵
-- 扎克伯格談Muse：AI Agent爆發，「元宇宙、智能眼鏡和大模型」三大賭注完成交匯
-- 週末讀物 | 「Agent vs 美債」——誰將主導美股？
-- Meta AI主管Alexandr Wang：爲何我要做Muse
-- 伊朗七日重開海峽提議遭特朗普拒絕，稱「美方完全控制霍爾木茲海峽」
-- 三季報在即，三星電子和海力士面臨「極高預期」，考驗「全球AI交易」
-- 存儲供不應求或延續至2028年！瑞銀上調美光盈利，看好HBM高景氣 + 回購增量
-- 中美達成八點成果共識
+- 北水減倉港股逾65億港元，淨買入建滔積層板超4億港元，賣出騰訊控股近10億港元
+- 一座不夠！台積電關聯公司擬新加坡再建晶圓廠，AI「缺芯潮」催生亞洲佈局
+- 「新聯儲局通訊社」：特朗普的舉措事與願違，利率和通脹不降反升
+- 金銀集體殺跌！高油價與聯儲局高加息預期持續壓制貴金屬
+- 收市速睇 | 三大指數漲跌不一，恒指漲0.54%；科網股普漲，網易漲近5%；半導體股走低，兆易創新跌超7%；長飛光纖光纜大跌近17%
+- 韓媒：黃仁勳將於紐約會晤三星、SK集團掌門人，商討AI芯片合作
+- 只有少數股在漲！高盛警告：美股廣度創2000年互聯網泡沫來最差，債波動率罕見背離
+- 「個股 vs 指數」波動率分化！美股熱門交易：做多個股期權，用指數期權對沖
+- Anthropic首席經濟學家前瞻「AI未來」：「三大奇點」，「財富分配」與「Token和資本稅」
+- 長飛光纖港股重挫，瑞銀首次覆蓋給予買入：產能過剩擔憂被高估，高端光纖供需緊張將延續至2027-28年
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 伊朗/中东: Benzinga (EN), 富途资讯 (繁中)
-- 黄金/大宗: Benzinga (EN), SCMP (EN/中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 伊朗/中东: Yahoo Finance (EN), 富途资讯 (繁中)
+- 美国关税: Yahoo Finance (EN), SCMP (EN/中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
+- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN)
 - 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN)
-- 油价/霍尔木兹: Benzinga (EN)
-- 加密货币: Benzinga (EN)
-- 美联储: Yahoo Finance (EN)
 
 --- 粘贴结束 ---
