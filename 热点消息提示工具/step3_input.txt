@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年9月28日`
+`早间热点线索 · 2026年9月29日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026092820
+抓取时间: 2026092909
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- Nvidia launches AI safety platform after Jensen Huang calls Anthropic, OpenAI warnings 'odd'
-- 2 key checks for the AI trade and the economy: What to watch this week
-- AI breaches add to safety fears as Trump meets Anthropic chief
-- 2 key checks for the AI trade and the economy: What to watch this week
-- AI breaches add to safety fears as Trump meets Anthropic chief
-- Bitcoin rally wobbles as macro risks overshadow ETF demand
-- The full list of goods the US and China agreed on for tariff cuts
-- Apollo's Sløk: Is an 'agentic bank run' coming?
-- Nvidia boosts share buyback authorization by $150B
-- SK Hynix shares fall as Solidigm's potential US IPO sours mood
-- Autonomous vehicle companies pick their AI lanes
+- U.S. markets closed
+- Who is Fei-Fei Li? Why AMD just spent $8.2 billion for the 'Godmother of AI'
+- Anthropic's path from AI startup to industry-defining IPO
+- GOP leader Thune says taxpayers shouldn't pay for Trump TV ads
+- Anthropic's path from AI startup to industry-defining IPO
+- GOP leader Thune says taxpayers shouldn't pay for Trump TV ads
+- AI added $1 billion in new hospital billing, Blue Cross says
+- Nvidia's $150 billion buyback: Why shareholders should pay attention
+- Oil extends gain as Iran uncertainty outweighs Saudi Pipe return
+- Stocks slip as AI safety concerns and US-Iran tensions resurface
+- Bond veteran Jim Bianco turns bullish for first time since 2020
+- Bond sell-off intensifies as investors weigh macro crosscurrents
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
-- Tech & AI
 - Markets & Economy
-- Stock futures slip as AI safety concerns and US-Iran tensions resurface
-- Key US data this week seen bolstering case for October rate hike
-- Oil gains over 2% as US-Iran peace talks in stalemate
-- Gold declines as Hormuz impasse keeps rate-hike bets elevated
+- Tech & AI
+- OpenAI shelves new AI model after internal safety tests
+- Former Microsoft exec explains why most digital ads 'are not very good'
+- Nvidia announces largest stock buyback in history
+- 'So much cash': Nvidia stock jumps after largest share buyback ever
 - Popular
-- Shifting Senate map is fueling most expensive US election ever
-- A ‘death cross’ is coming for the dollar. Why Trump will be happy.
+- Trump denies asking China's Xi about potential US arms sales
+- Jane Street is offering six figures for a swag manager
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,41 +145,41 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Bitcoin Falls to $83,000 as Gold Plunges 3% on Fresh Oil Price Surge
-- Amprius Lands $75 Million Defense Grant to Supercharge US Drone Battery Production
-- Natera, UnitedHealth Group And A Tech Stock On CNBC’s ‘Final Trades’
-- Wall Street's Most Accurate Analysts Give Their Take On 3 Materials Stocks Delivering High-Dividend Yields
-- Why Meta’s 13% Stock Gain Last Week Could Be Just the Start — Gene Munster Sees $11 Billion Revenue Opportunity That Could ‘Blow Us Away’
-- Stock Market Today: S&P 500, Dow Jones Futures Fall as Rising Yields and Trump’s Hormuz Deal Rejection Spook Investors—LLY, PEP, JEF in Focus
+- Our House Is Taking More Than 25% Of Our Income And Limiting Everything Else We Want To Do. Should We Just Sell It?
+- AI Bubble? Market Expert Says Yes — and this Event Could ‘Drag Down the Entire Sector’
+- Faraday Future’s Robotics Pivot Gets a New Nasdaq Identity With FFR
+- Navitas Semiconductor Stock Surges After Hours: Here's Why
+- Bitcoin Could Go as High as $600,000 in Best-Case Scenario, Veteran Trader Says
 - Elon Musk
 - Donald Trump
-- S&P 500 in the 'Sweet Spot' for Q4: Ryan Detrick Points to 'Above Average Returns,' Noting Gains in 18 of Last 21 Historical Setups
-- 5 Stock Picks Last Week From Wall Street's Most Accurate Analysts
+- Getty Images Has Three Days to Avoid Default as AI Erodes Its Stock-Photo Empire
+- Stock of the Day: Is This the Bottom for Gen Digital?
+- The Stablecoin Yield Fight Is Far From Over—Here’s What Comes Next
 
 ## 华尔街见闻 (简中)
-（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7fdf02512a20>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
+（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7fb5bdcf60c0>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- China deploys advanced WZ-7 drone for first time near Scarborough Shoal
-- Economy
-- US firms in China return focus to local rivals as bilateral ties mend
+- Jamie Dimon on how growth can untangle US-China strife, thorny global issues
+- Science
+- China targets AI and frontier tech in newly unveiled innovation blueprint
+- Health & Environment
+- Can Hong Kong protect its eco-sensitive sites amid ‘golden week’ influx fears?
 - Diplomacy
-- Second Thomas Shoal stand-off sparks sharp exchange between US, China embassies
-- Law and Crime
-- Hong Kong cracks down on tourists abusing visas to run one-stop shop services
-- Tech Trends
+- Trump denies US arms offer to Xi but says China would ‘probably like to buy’ them
+- China
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- The high-altitude reconnaissance platform took part in exercises around the disputed South China Sea flashpoint.
-- Immigration Department says four women, aged 20 to 31, arrested for allegedly breaching conditions of stay to offer tourist services.
-- Betting on light: why China’s CanSemi is drawing record demand ahead of debut
-- Momentum builds for CanSemi’s Shenzhen debut as investors back its silicon photonics push and role in domestic AI infrastructure.
+- In wide-ranging discussion, veteran bank chief flags ‘world peace’ as top concern, warns of Democrat vs Republican ideologies, and stresses economic growth.
+- It comes after State Department clarification following US envoy’s disclosure, as Beijing says only that it is firm on boosting defence.
+- China pledges to ‘firmly support’ Cuba as US escalates pressure on Havana
+- Spokesman Guo Jiakun marks 66 years of ties amid a US oil blockade and reports of military planning focused on the island.
 - People
-- ‘Unequal floods, unequal power’: jet ski stunt fuels anger in Bangkok
-- The episode has been widely seen as an example of the insensitivity of some of the city’s wealthy to the suffering of its poor amid the floods.
-- Tech
-- As AI risks grow, China mulls how to make open-weight models less dangerous
-- Open-weight models allow AI’s “brains” to be freely downloaded, modified, fine-tuned and run independently by anyone online.
+- In Japan, anti-foreigner fake news drives far-right gains
+- Viral lies about foreign crime are fuelling political division in a country desperate for workers, analysts say.
+- Health & Wellness
+- What’s the future of heart health? Cardiologists on advances, life-saving habits
+- On World Heart Day, three prominent cardiologists talk about their hopes for the future and simple things you can do to protect your heart.
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -209,34 +209,35 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美股前瞻 | 特朗普拒絕停火提議，油價上漲股指期貨下跌；英偉達推出AI安全系統，宣佈增加1500億美元回購；AI越界事件加劇安全擔憂，特朗普與Anthropic掌門人會談
-- 伊朗稱「已爲與美戰事重開做好準備，但未放棄外交途徑」，調解國認爲「重返談判希望渺茫」
-- 超級數據周！非農正面撞上PCE，聯儲局10月政策路徑成焦點
-- 國常會：綜合運用並適時調整貨幣政策工具 研究出台穩定房地產市場、促進就業增收等政策措施
-- 英偉達：將股票回購授權規模增加1500億美元
-- 聯儲局重拳抗通脹，美債短端加速重定價！難題再度拋給貝森特
-- 「大空頭」盯上5730億美元AI融資網：接下來要問的是，AI支出停止會如何？誰將接盤這些債？
-- 日元突然拉升 日本最高外匯官員再度發聲警告
+- 富途早報 | 伊外長稱與卡塔爾調解方提出重新開放海峽條件；10年期美債收益率反超標普500盈利收益率；英偉達追加1500億美元回購，SpaceX「星艦」實現首次地球軌道飛行；本末科技、景旺電子、彤程新材、羅博特科今日港股上市
+- 真金白銀表達信心！英偉達追加1500億美元回購，總授權回購額創美企歷史紀錄
+- Anthropic遞交招股書：去年虧損420億美元，收入增長12倍至46億美元，風險部分警告「威脅人類生存」
+- 挖來MongoDB CEO震驚華爾街，Meta高調進軍企業AI業務
+- 阿斯利康20億美元入股Summit，看好康方生物依沃西
+- 一起呼籲「AI減速」？OpenAI取消最新模型發佈，Anthropic卻「兩連發」！
+- 因安全顧慮，OpenAI取消原定10月發佈的GPT-6.1 Astra
+- 彭博：美債收益率創二十年新高，交易員創紀錄湧入固收ETF期權
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 北水減倉港股逾65億港元，淨買入建滔積層板超4億港元，賣出騰訊控股近10億港元
-- 一座不夠！台積電關聯公司擬新加坡再建晶圓廠，AI「缺芯潮」催生亞洲佈局
-- 「新聯儲局通訊社」：特朗普的舉措事與願違，利率和通脹不降反升
-- 金銀集體殺跌！高油價與聯儲局高加息預期持續壓制貴金屬
-- 收市速睇 | 三大指數漲跌不一，恒指漲0.54%；科網股普漲，網易漲近5%；半導體股走低，兆易創新跌超7%；長飛光纖光纜大跌近17%
-- 韓媒：黃仁勳將於紐約會晤三星、SK集團掌門人，商討AI芯片合作
-- 只有少數股在漲！高盛警告：美股廣度創2000年互聯網泡沫來最差，債波動率罕見背離
-- 「個股 vs 指數」波動率分化！美股熱門交易：做多個股期權，用指數期權對沖
-- Anthropic首席經濟學家前瞻「AI未來」：「三大奇點」，「財富分配」與「Token和資本稅」
-- 長飛光纖港股重挫，瑞銀首次覆蓋給予買入：產能過剩擔憂被高估，高端光纖供需緊張將延續至2027-28年
+- 扎克伯格官宣Meta企業平台，定位爲公司「下一個主要業務支柱」
+- Anthropic IPO招股書曝光 2025財年營收達45.9億美元
+- 「7日計劃」重回談判桌？美伊據稱擬與調解方會談，伊朗最高領袖稱西方干涉時代已終結
+- 25年來罕見！10年期美債收益率反超標普500盈利收益率
+- 美股收盤 | 美伊談判前景不明，三大指數集體收跌；AI概念走弱，英特爾跌超5%；美債收益率持續走高；原油衝高回落
+- 英偉達聯手Anthropic發佈AI Agent安全工具，稱可阻止Hugging Face式攻擊
+- 成交額TOP20 | 英偉達宣佈追加回購1500億美元創紀錄，逆勢漲近2%；SpaceX星艦首次入軌，部署26顆V3星鏈衛星；Meta啓動新業務支柱
+- OpenAI因安全問題推遲發佈GPT-6.1 Astra
+- AI從「減息理由」變「加息論據」：庫克稱2萬億美元資本開支僅花一小部分，電價水價已漲約5%
+- AMD斥資82億美元收購World Labs，李飛飛出任首席科學家
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 加密货币: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
 - 伊朗/中东: Yahoo Finance (EN), 富途资讯 (繁中)
-- 美国关税: Yahoo Finance (EN), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
-- 黄金/大宗: Yahoo Finance (EN), Benzinga (EN)
+- 油价/霍尔木兹: Yahoo Finance (EN), SCMP (EN/中)
+- 黄金/大宗: Yahoo Finance (EN), SCMP (EN/中)
+- 美联储: Yahoo Finance (EN), SCMP (EN/中)
 - 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
+- 加密货币: Benzinga (EN)
+- 就业数据: SCMP (EN/中)
 
 --- 粘贴结束 ---
 <!-- 资讯来源结束 -->
