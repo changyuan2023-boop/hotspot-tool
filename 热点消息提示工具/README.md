@@ -92,7 +92,7 @@ python3 run_hotspot_workflow.py --step 3 --llm
 
 1. 克隆一份到临时目录，用本文件夹内容覆盖后强制推送（操作前请备份或确认无需保留仓库内其他文件）：
    ```bash
-   git clone https://github.com/changyuan2023-boop/hotspot-tool.git hotspot-tool-tmp
+   git clone https://github.com/yuan-2080/hotspot-tool.git hotspot-tool-tmp
    cd hotspot-tool-tmp
    rm -rf .git
    # 把 热点消息提示工具 里的所有文件（含 .github）复制到当前目录，覆盖
