@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026100109
+抓取时间: 2026100120
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets closed
-- Micron tops Q4 estimates on top and bottom lines, offers strong Q1 outlook
-- Paramount poaches Mattel CEO to be co-CEO of new company merged with Warner Bros. Discovery
-- Votes fail on data center, lawmaker stock trading bills as Capitol Hill shuts down for midterms
-- Paramount poaches Mattel CEO to be co-CEO of new company merged with Warner Bros. Discovery
-- Votes fail on data center, lawmaker stock trading bills as Capitol Hill shuts down for midterms
-- HPE demand outpacing supply as stock hits record high
-- Elon Musk and Delta CEO Ed Bastian feud over Starlink in-flight wifi
-- Stocks fare better than expected in September
-- Trump to send $500 ACA refund checks to roughly 1M Americans
-- Judges press Trump team on how far tariff power really goes
-- Stocks bounce as PCE inflation data comes in cool
+- U.S. markets open in 1h 31m
+- Apple's smart hub shows its vision for a new kind of tech consumer
+- Layoffs are down, but employers aren't rushing to hire for the holidays
+- Micron just blew Wall Street away again—here's what's next
+- Layoffs are down, but employers aren't rushing to hire for the holidays
+- Micron just blew Wall Street away again—here's what's next
+- Bitcoin just landed a surprising new bull
+- AI safety measures widely backed by most Americans
+- S&P 500 alarm bells are starting to go off
+- Treasury 10-year yield hits highest since 2002 on rate outlook
+- Stock futures waver as Micron earnings boost tech
+- Oil prices rise 2% as China suspends fuel exports
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
+- Microsoft's trillion-dollar quarter shows AI trade won't quit
+- OpenAI agents hid hacking activity in government breaches
 - Google announces Gemini 4 Argon AI model
-- Factory CEO just accused his VC board advisor of spying for Cognition
-- Billionaire Bill Ackman calls Anthropic 'perhaps the greatest business story I've ever seen'
-- The FTC is reportedly looking into whether OpenAI, Anthropic violated consumer protection laws
+- TSMC mulls multibillion-dollar Texas campus for more AI chips
 - Popular
-- Boeing stock jumps on $20 billion Navy fighter jet win
-- Palantir CEO's new 37,000-acre purchase dismays local hunters
+- Barclays expands use of Anthropic's Claude in efficiency push
+- Ben Affleck worries more about AI impact on kids than Hollywood
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,41 +42,41 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Mark Cuban Called Meditation App Founder With $2M A 'Gold Digger' On 'Shark Tank' — Then Richard Branson Threw Water At Him
-- Nancy Pelosi Owns This Hot 2026 Stock — And LeBron James Is About to Wear It
-- OpenAI Says Moonshot AI-Linked Users Tried to Extract its Models’ Secret Reasoning
-- Bitcoin, Ethereum, XRP Are Stuck—So Where Is Crypto Money Actually Going?
-- Alphabet Stock Jumps as Google Releases Gemini 4 Argon
-- Micron Delivers Q4 Double Beat, Sees 'Even Stronger' Year Ahead
+- Why Is Roze AI Stock Surging Thursday?
+- American Battery Technology Stock Surges Thursday: What's Happening?
+- IBM Stock Rises After Unveiling Self-Hosted Deployment for IBM Bob
+- Oracle Lands $7 Billion Tencent AI Deal — Chinese Tech Giant to Access 100,000 Advanced Chips Through Southeast Asia Data Centers: Report
+- What's Going On With Boeing Stock Thursday?
+- Stock Market Today: Nasdaq 100 Futures Gain, Dow Jones Drops as Iran Receives US Proposal To Restore Ceasefire — CEG, VICR, MU in Focus
 - Anthropic
 - Strait Of Hormuz
 - Cybersecurity Stocks
-- Inflation Just Got Revised Lower: Economists Say The Fed Won't Be Fooled
+- Stock Market: Will S&P 500 Open Up or Down Today?
 
 ## 华尔街见闻 (简中)
-（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7fe457d14cb0>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
+（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f9244591250>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- How US sanctions forced Xinjiang’s cotton industry to build a survival model
-- Diplomacy
-- US targets China’s steel capacity at G20 days after Xi’s state visit
+- US marks China’s National Day with pared-down note after Xi-Trump summit
+- China Business
+- China carmakers eye record 12 million global sales in 2026 as EV demand surges
 - Hong Kong Economy
-- Retailers expect ‘golden week’ sales growth, but trade groups warn of modest gains
-- Politics
-- Xi projects confidence in National Day speech, issues economic rallying call
-- Brazil’s beef exporters hit a wall in China as 55% tariff kicks in
+- National Day: Hongkongers visit Shenzhen for shopping and 60cm egg tarts
+- Diplomacy
+- Xi-Trump rapport is ‘most valuable strategic asset’ in US-China ties: envoy Xie
+- Science
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- State support and tech upgrades help producers pivot, but they face tight profit margins, a ‘domestic decoupling’ and EU market spillover.
-- Chinese leader urges resilience, tech innovation and stability in holiday address ahead of a major Communist Party gathering next month.
-- Surtax on its largest market alarms the industry, which is already locked out of the EU and facing higher US duties.
-- Trump claims he discussed release of political prisoners in China with Xi
-- US president says he had ‘some very, very important discussions’ with his Chinese counterpart, but did not identify specific cases.
-- US criticises China’s WTO compliance as industry groups mount complaints
-- Senior US trade official says Beijing targeting entire industrial sectors for global dominance, while retaining a non-market economic system.
-- Lifestyle
-- What drives 4 Shaw Prize laureates in pursuit of scientific discovery
-- Border mine blasts show why both Koreas urgently need to restore communication
+- Washington’s brief message omits the word ‘prosperity’ and makes no mention of Xi’s visit, offering a snapshot of shifting US-China ties.
+- Beijing’s ambassador remarks on head-of-state diplomacy in a speech marking National Day celebrations at the Chinese embassy in Washington.
+- New Chinese embodied model Maxwell tops global AI ranking on physical tasks
+- Developed by the CAS Institute of Artificial Intelligence for Industries, it scored 91.9 on the Meta-World benchmark – the highest recorded.
+- Hong Kong crowds brave the heat to secure spots for National Day fireworks
+- About 260,000 people expected to watch 23-minute spectacle over Victoria Harbour with many arriving hours early despite the sweltering heat.
+- Politics
+- Indonesia’s Prabowo appoints new police chief following scandals at the force
+- Listyo Sigit Prabowo’s dismissal comes amid allegations of police impunity, abuse of power and brutality.
+- Business
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -106,34 +106,33 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美股收盤 | 通脹不及預期緩解加息擔憂，三大指數漲跌不一；科技股多數收漲，英特爾漲超3%；10年期美國國債收益率創2002年5月以來新高；黃金倒V
-- 美光營收同比增近4倍，下財季收入指引超預期但毛利率不及預期，CEO稱明後年存儲更緊張
-- 美股夜盤：谷歌漲近2%，Rocket Lab漲超2%
-- 美FTC被曝加大對Anthropic、OpenAI等AI巨頭調查力度，官員稱不會妨礙AI主導地位
-- 聯儲局卡什卡利：通脹仍需壓制，預計今年和明年各再加息一次
-- 美國8月核心PCE低於預期，聯儲局10月加息押注降溫
-- 成交額TOP20 | 蘋果漲超1%，大舉進軍智能家居市場；谷歌推出Gemini 4 Argon，系其最先進AI模型；SpaceXAI考慮調整Grok和X訂閱價格
-- 聯儲局6比1投票通過壓力測試改革：資本要求波動性減半，唯一反對票警告韌性受損
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- 全球債市拋售潮加劇！10年期美債收益率觸及2002年高位，英債突破6%
+- 美光業績「炸裂」卻股價震盪：存儲超級週期遠未見頂，市場爲何不再激動？
+- 「不要做空馬斯克」成華爾街暗語？AI與機器人敘事升溫，特斯拉空頭撤退、持有評級飆升
+- 美光電話會：2027年產能已售75%，看不到供需平衡拐點，承諾未來將100%的超額現金返還給股東
+- 美國總統特朗普：持續加息「相當糟糕」；中期選舉後可能加大對伊朗的轟炸力度
 - 谷歌Gemini 4 Argon多指標SOTA！輸出上限破百萬token，推廣期價格僅競品1/5
-- 華爾街怎麼看PCE？高盛推遲聯儲局加息預期時間
-- 谷歌推出Gemini 4 Argon，系其最先進AI模型
-- 美光科技2026財年Q4營收542.29億美元，高於市場預期；調整後EPS33.42美元
-- AI語音需求升溫：ElevenLabs完成要約出售，估值升至220億美元
-- 高盛策略師警示：盈利支撐暫穩股市，美債拋售若提速，美股或將承壓
-- 「史上最強」減肥藥來了？禮來試驗顯示組合療法48周減重23%，遠超單藥療效
-- 美國8月商品貿易逆差意外擴大至1326億美元，創一年多來新高
-- 重讀《聰明的投資者》：格雷厄姆的投資心理學
-- 全球債市遭遇「至暗9月」，美債收益率衝上2007年以來高位，股市卻逆勢抗跌
+- 報道：博通同意向Anthropic提供最高420億美元貸款，用於租賃自家的芯片
+- 華爾街機構警告：聯儲局犯下「原罪」，十年期美債收益率或將邁向8%
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- 美債雪崩或波及美股？高盛預警330億拋單即將來襲
+- 存儲漲價沒到頭！高盛：四季度ASP預測高於預期、eSSD加速，重申三星電子與SK海力士「買入」評級
+- AI估值分歧加劇！Anthropic IPO：狂熱的硅谷喊價2萬億美元，冷靜的華爾街只認1.5萬億
+- 美國10年期國債收益率升至5.33%，創2002年以來新高
+- 美股夜盤：納指期貨漲超1%，半導體股走強
+- AI智能體爆火，會如何顛覆旅遊平台、電商、本地生活行業？
+- 騰訊與甲骨文簽訂五年協議，租賃10萬片AI芯片
+- 特朗普的「AI自我監管」意味着什麼？老黃「大獲全勝」，幕後帶頭質問Anthropic Amodei
+- 夢迴2013年「縮減恐慌」！「全球資產定價基準」單月暴漲50點子，實屬罕見
+- 美股夜盤：谷歌漲近2%，Rocket Lab漲超2%
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 美国关税: Yahoo Finance (EN), SCMP (EN/中)
-- 黄金/大宗: Benzinga (EN), SCMP (EN/中)
-- 油价/霍尔木兹: Benzinga (EN)
-- 加密货币: Benzinga (EN)
-- 就业数据: Yahoo Finance (EN)
+- 伊朗/中东: Benzinga (EN), 富途资讯 (繁中)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
+- 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
+- 加密货币: Yahoo Finance (EN)
+- 就业数据: SCMP (EN/中)
 - 美联储: Benzinga (EN)
 
 --- 粘贴结束 ---
