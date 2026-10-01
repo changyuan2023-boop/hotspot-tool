@@ -7,8 +7,8 @@
 你是港美股热点运营助手，服务于一个在中国做港美股内容运营的团队。
 你的输出将直接发到 Slack 群，供团队确认当日运营优先级，无需再二次加工。
 
-**当前模式：晚间**
-**覆盖时间段：今日08:00 - 20:00（美股开盘前）**
+**当前模式：早间**
+**覆盖时间段：昨日22:00 - 今日09:00（美股隔夜收盘）**
 
 ---
 
@@ -30,7 +30,7 @@
 ## 输出格式（严格遵守）
 
 第一行输出标题，固定为（直接复制，不修改任何字）：
-`晚间热点线索 · 2026年9月30日`
+`早间热点线索 · 2026年10月1日`
 
 空一行后，输出正文条目，每条格式：
 `* 事实描述（含关键数据）。仅写资讯来源中已明确发生的涨跌，不推断其他标的受到联动。标的代码直接写在正文中，结尾不另加标的列表。`
@@ -62,15 +62,15 @@
 
 ---
 
-## 晚间模式操作指令
+## 早间模式操作指令
 
-聚焦：今晚美股开盘前的运营清单。不涉及港股，只关注美股。
+聚焦：隔夜美股收盘结果 + 影响今日港股开盘的信息。
 
 重点关注（按重要性排序写入）：
-1. 盘前重要财报及初步反应（EPS/营收 vs 预期——仅限资讯来源中有明确数据）
-2. 盘前个股异动（涨跌 5% 以上 + 原因一句话）
-3. 影响今晚开盘情绪的宏观事件（Fed 官员讲话、重要数据——仅限资讯来源中明确出现）
-4. 其他值得今晚关注的美股消息
+1. 美股三大指数昨夜涨跌及核心驱动，一句话概括（必须有资讯来源支撑，不得推断）
+2. 个股重大异动（财报或重大消息驱动涨跌 5% 以上）
+3. 隔夜重要宏观数据（非农/CPI/PCE/美联储表态——仅限资讯来源中明确出现）
+4. 隔夜消息中可能影响港股相关板块的内容，重点关注：光通信、存储/HBM、半导体、中概互联网等；若有明确利好/利空驱动，须点明对应港股板块或个股
 
 ---
 
@@ -104,33 +104,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026093020
+抓取时间: 2026100109
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 30m
-- Nvidia's Huang on AI buildout: 'We're re-industrializing the US'
-- Anthropic IPO documents show there really is only one risk with AI
-- Micron to report Q4 earnings as memory boom powers on
-- Anthropic IPO documents show there really is only one risk with AI
-- Micron to report Q4 earnings as memory boom powers on
-- Sandisk bulls had a surprising Q3
-- Why new Apple CEO John Ternus could be laying people off
-- Stock futures climb ahead of PCE inflation data
-- Bonds suffer bruising September, but stocks remain resilient
-- Dollar surges in September, leaving euro lagging
-- OPEC+ oil producers set to keep output targets steady at Sunday meeting
+- U.S. markets closed
+- Micron tops Q4 estimates on top and bottom lines, offers strong Q1 outlook
+- Paramount poaches Mattel CEO to be co-CEO of new company merged with Warner Bros. Discovery
+- Votes fail on data center, lawmaker stock trading bills as Capitol Hill shuts down for midterms
+- Paramount poaches Mattel CEO to be co-CEO of new company merged with Warner Bros. Discovery
+- Votes fail on data center, lawmaker stock trading bills as Capitol Hill shuts down for midterms
+- HPE demand outpacing supply as stock hits record high
+- Elon Musk and Delta CEO Ed Bastian feud over Starlink in-flight wifi
+- Stocks fare better than expected in September
+- Trump to send $500 ACA refund checks to roughly 1M Americans
+- Judges press Trump team on how far tariff power really goes
+- Stocks bounce as PCE inflation data comes in cool
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
 - Tech & AI
-- AI companies just signed a White House accord — it's all tech is talking about
-- America faces a 1.7M AI worker shortage
-- OpenAI reportedly in talks to raise $30B round at $1.4T valuation
-- The AI boom is being fueled by debt, and warning signs are flashing
+- Google announces Gemini 4 Argon AI model
+- Factory CEO just accused his VC board advisor of spying for Cognition
+- Billionaire Bill Ackman calls Anthropic 'perhaps the greatest business story I've ever seen'
+- The FTC is reportedly looking into whether OpenAI, Anthropic violated consumer protection laws
 - Popular
-- Trump’s tariffs are back in court — again
-- Fewer older Americans are working. Here's one likely reason
+- Boeing stock jumps on $20 billion Navy fighter jet win
+- Palantir CEO's new 37,000-acre purchase dismays local hunters
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -145,41 +145,41 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- How To Earn $500 A Month From Accenture Stock Ahead Of Q4 Earnings
-- UiPath Expands Partnership With BDO To Build Agentic AI Solutions
-- CarMax Analysts Boost Their Forecasts After Upbeat Q2 Results
-- Wall Street's Most Accurate Analysts Spotlight On 3 Utilities Stocks Delivering High-Dividend Yields
-- Moody’s Mark Zandi Warns Wall Street is 'Too Optimistic' About the American Consumer: 'I Am Getting More Nervous...'
-- Stock Market Today: S&P 500, Dow Jones Futures Gain as Investors Await Fed's Preferred Inflation Data — MU, AMD, FNGR in Focus
+- Mark Cuban Called Meditation App Founder With $2M A 'Gold Digger' On 'Shark Tank' — Then Richard Branson Threw Water At Him
+- Nancy Pelosi Owns This Hot 2026 Stock — And LeBron James Is About to Wear It
+- OpenAI Says Moonshot AI-Linked Users Tried to Extract its Models’ Secret Reasoning
+- Bitcoin, Ethereum, XRP Are Stuck—So Where Is Crypto Money Actually Going?
+- Alphabet Stock Jumps as Google Releases Gemini 4 Argon
+- Micron Delivers Q4 Double Beat, Sees 'Even Stronger' Year Ahead
 - Anthropic
 - Strait Of Hormuz
 - Cybersecurity Stocks
-- Steve Wozniak Shares 'Unique Perspective' on How AI Will Replace Humans, While Gene Munster Says Chatbots Will 'Blow' Users 'Away' Within a Year
+- Inflation Just Got Revised Lower: Economists Say The Fed Won't Be Fooled
 
 ## 华尔街见闻 (简中)
-（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7fae12584680>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
+（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7fe457d14cb0>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- China to further boost domestic grain supply as US soybeans excluded from tariff cuts
+- How US sanctions forced Xinjiang’s cotton industry to build a survival model
 - Diplomacy
-- Ties between Beijing and Brussels on the brink ahead of make-or-break October
-- China Economy
-- China’s R&D spending tops OECD average for first time. What comes next?
-- Education
-- China’s Tiangong space station camera captures its first images of Hong Kong
-- Tech Trends
+- US targets China’s steel capacity at G20 days after Xi’s state visit
+- Hong Kong Economy
+- Retailers expect ‘golden week’ sales growth, but trade groups warn of modest gains
+- Politics
+- Xi projects confidence in National Day speech, issues economic rallying call
+- Brazil’s beef exporters hit a wall in China as 55% tariff kicks in
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Grain production target set at 725 million tonnes by 2030, as China proposes tariff cuts on US agricultural products – but not soybeans.
-- Developed by HKUST, Musico camera sends back its first images of city ahead of 77th anniversary of founding of People’s Republic of China.
-- DeepSeek opens tools to help Huawei chips supplant Nvidia in AI
-- With introduction of suite of six tools, AI model developer aims to create ‘independent’ software ecosystem for AI processors.
-- Military
-- China takes strategic military step overseas with new Laos air force centre
-- Beijing says jointly operated facilities at Ban Keun Airport will support pilot training and deepen cooperation between the two militaries.
-- Lifestyle & Culture
-- Indonesia targets free public schooling amid funding concerns
-- Education experts question where the money will come from, and urge the government to focus on improving the quality of learning.
+- State support and tech upgrades help producers pivot, but they face tight profit margins, a ‘domestic decoupling’ and EU market spillover.
+- Chinese leader urges resilience, tech innovation and stability in holiday address ahead of a major Communist Party gathering next month.
+- Surtax on its largest market alarms the industry, which is already locked out of the EU and facing higher US duties.
+- Trump claims he discussed release of political prisoners in China with Xi
+- US president says he had ‘some very, very important discussions’ with his Chinese counterpart, but did not identify specific cases.
+- US criticises China’s WTO compliance as industry groups mount complaints
+- Senior US trade official says Beijing targeting entire industrial sectors for global dominance, while retaining a non-market economic system.
+- Lifestyle
+- What drives 4 Shaw Prize laureates in pursuit of scientific discovery
+- Border mine blasts show why both Koreas urgently need to restore communication
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -196,9 +196,9 @@
 - 环球基金：
 - ETF：
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 恒生指数24613.10+89.53(+0.37%)
+- 恒生指数24613.27+89.70(+0.37%)
                     etnet.com.hk@copyright
-- 国企指数8218.65+39.84(+0.49%)
+- 国企指数8220.08+41.27(+0.50%)
                     etnet.com.hk@copyright
 - 理财/管理
 - 时尚艺术
@@ -209,31 +209,33 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 美股前瞻 | 三大期指小幅回落，市場等待PCE及盤後美光業績；蘋果據報發力智能家居，機構料摺疊iPhone今年出貨600萬部；OpenAI應戰Meta，發佈個人AI助手Dots
-- 今夜20:30，美8月PCE揭曉：統計口徑大改或壓低讀數，但通脹韌性仍存、加息壓力未消
-- 數據揭秘 | 9月北水都買了什麼？加倉智譜近79億港元，搶籌百度近60億港元
-- 華爾街屏息以待：美光業績會否有驚喜？
-- 「七天方案」內容無爭議，美伊談判分歧縮窄至「執行順序」
-- Anthropic招股書：去年47%營收流經谷歌、亞馬遜，每1美元分走16美分
-- 韓國股市Q3全球最差：三個月跌近19%，AI內存交易大幅平倉所致
-- Anthropic與SpaceX算力協議規模曝光，最高達845億美元較此前披露翻倍
+- 美股收盤 | 通脹不及預期緩解加息擔憂，三大指數漲跌不一；科技股多數收漲，英特爾漲超3%；10年期美國國債收益率創2002年5月以來新高；黃金倒V
+- 美光營收同比增近4倍，下財季收入指引超預期但毛利率不及預期，CEO稱明後年存儲更緊張
+- 美股夜盤：谷歌漲近2%，Rocket Lab漲超2%
+- 美FTC被曝加大對Anthropic、OpenAI等AI巨頭調查力度，官員稱不會妨礙AI主導地位
+- 聯儲局卡什卡利：通脹仍需壓制，預計今年和明年各再加息一次
+- 美國8月核心PCE低於預期，聯儲局10月加息押注降溫
+- 成交額TOP20 | 蘋果漲超1%，大舉進軍智能家居市場；谷歌推出Gemini 4 Argon，系其最先進AI模型；SpaceXAI考慮調整Grok和X訂閱價格
+- 聯儲局6比1投票通過壓力測試改革：資本要求波動性減半，唯一反對票警告韌性受損
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 北水加倉港股逾68億港元，淨買入騰訊控股超14億港元，淨賣出中芯國際近10億港元
-- 對標英偉達CUDA！DeepSeek開源昇騰版「AI工具箱」，性能接近硬件上限
-- 誰在接盤美國國債？對沖基金扛起7%份額，但高槓杆是定時炸彈
-- 收市速睇 | 三大指數齊漲，恒指漲0.37%；醫藥股表現亮眼，康希諾生物大漲17%，恒瑞醫藥漲超10%；新股歡創科技首日飆升近266%
-- 高盛：亞洲CDMO進入結構性增長週期 多肽、ADC、寡核苷酸與AIDD成新引擎
-- 海外映射帶動港股物理AI概念走強 歡創科技上市首日漲超200%
-- 內房股上演「V型」反轉，機構如何解讀？
-- 中信證券：開啓中國房地產市場的新週期
-- 決戰中期選舉，特朗普將啓動32天全美巡迴拉票！
-- 港股創新藥概念午後走高，金斯瑞生物科技漲超8%，恒瑞醫藥漲幅擴大至7%，藥明康德漲5%創歷史新高。
+- 谷歌Gemini 4 Argon多指標SOTA！輸出上限破百萬token，推廣期價格僅競品1/5
+- 華爾街怎麼看PCE？高盛推遲聯儲局加息預期時間
+- 谷歌推出Gemini 4 Argon，系其最先進AI模型
+- 美光科技2026財年Q4營收542.29億美元，高於市場預期；調整後EPS33.42美元
+- AI語音需求升溫：ElevenLabs完成要約出售，估值升至220億美元
+- 高盛策略師警示：盈利支撐暫穩股市，美債拋售若提速，美股或將承壓
+- 「史上最強」減肥藥來了？禮來試驗顯示組合療法48周減重23%，遠超單藥療效
+- 美國8月商品貿易逆差意外擴大至1326億美元，創一年多來新高
+- 重讀《聰明的投資者》：格雷厄姆的投資心理學
+- 全球債市遭遇「至暗9月」，美債收益率衝上2007年以來高位，股市卻逆勢抗跌
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 美国关税: Yahoo Finance (EN), SCMP (EN/中), 富途资讯 (繁中)
 - 中国/欧盟: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
+- 美国关税: Yahoo Finance (EN), SCMP (EN/中)
+- 黄金/大宗: Benzinga (EN), SCMP (EN/中)
+- 油价/霍尔木兹: Benzinga (EN)
+- 加密货币: Benzinga (EN)
 - 就业数据: Yahoo Finance (EN)
 - 美联储: Benzinga (EN)
 
