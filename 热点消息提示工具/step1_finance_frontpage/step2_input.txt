@@ -1,33 +1,33 @@
 --- 以下可直接粘贴到《热点摘要》全面版 Prompt 的「资讯来源/粘贴内容」---
 
 【财经头版多站汇总】
-抓取时间: 2026100120
+抓取时间: 2026100209
 
 ## Yahoo Finance (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- U.S. markets open in 1h 31m
-- Apple's smart hub shows its vision for a new kind of tech consumer
-- Layoffs are down, but employers aren't rushing to hire for the holidays
-- Micron just blew Wall Street away again—here's what's next
-- Layoffs are down, but employers aren't rushing to hire for the holidays
-- Micron just blew Wall Street away again—here's what's next
-- Bitcoin just landed a surprising new bull
-- AI safety measures widely backed by most Americans
+- U.S. markets closed
+- Stocks stage comeback as Treasury yields fall, chip stocks gain
+- Oil extends gain as Middle East conflict threatens to escalate
+- Bank of America's famed stock market gauge is on the verge of flashing a sell signal
+- Oil extends gain as Middle East conflict threatens to escalate
+- Bank of America's famed stock market gauge is on the verge of flashing a sell signal
+- Lyft is paying $272.5M to settle lawsuit over how it classified drivers
+- Anthropic reportedly looking to IPO as early as mid-November
+- Fed policymakers lean against October rate hike
 - S&P 500 alarm bells are starting to go off
-- Treasury 10-year yield hits highest since 2002 on rate outlook
-- Stock futures waver as Micron earnings boost tech
-- Oil prices rise 2% as China suspends fuel exports
+- Oil jumps 4% on reports China halts fuel exports, US troops head to Middle East
+- Truist: Financial stocks 'today looks a lot like the Dot Com era'
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
 - Top Stories
 - Markets & Economy
-- Tech & AI
-- Microsoft's trillion-dollar quarter shows AI trade won't quit
-- OpenAI agents hid hacking activity in government breaches
-- Google announces Gemini 4 Argon AI model
-- TSMC mulls multibillion-dollar Texas campus for more AI chips
+- Nike earnings
+- Nike to cut jobs as quarterly revenue misses estimates, stock sinks
+- Nike tests Caitlin Clark effect on global stage
+- What's gone wrong at Nike? How the world's sportswear giant lost its mojo
+- Nike stock has never been more hated by the market
 - Popular
-- Barclays expands use of Anthropic's Claude in efficiency push
-- Ben Affleck worries more about AI impact on kids than Hollywood
+- How are higher interest rates and rising prices affecting you?
+- Wife retired 2 years ago, I'm still working — is $12M enough?
 
 ## Benzinga (EN)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -42,41 +42,41 @@
 - UPCOMING EVENTS
 - INSIDER TRADES
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Why Is Roze AI Stock Surging Thursday?
-- American Battery Technology Stock Surges Thursday: What's Happening?
-- IBM Stock Rises After Unveiling Self-Hosted Deployment for IBM Bob
-- Oracle Lands $7 Billion Tencent AI Deal — Chinese Tech Giant to Access 100,000 Advanced Chips Through Southeast Asia Data Centers: Report
-- What's Going On With Boeing Stock Thursday?
-- Stock Market Today: Nasdaq 100 Futures Gain, Dow Jones Drops as Iran Receives US Proposal To Restore Ceasefire — CEG, VICR, MU in Focus
+- Divorce Left Them With $250K Mortgage At 5.85% — They Paid It Off In 2.5 Years And Say, ‘I’m Glad I Did It This Way’
+- Bill Ackman on AI: ‘Massively Increased the Risk of Disruption’
+- Nike Stock Sinks to Lowest Level Since 2013 after Q1 Earnings
+- Bitcoin Analyst: 'Only Michael Saylor' Can Do Strategy's Treasury Model
+- Netflix Ready to Play Nice with Movie Theaters: Will the Move Backfire with ‘KPop Demon Hunters 2?’
+- Trump Wants to Keep America’s Diesel at Home: It's Having a Strange Effect on Oil Prices
 - Anthropic
 - Strait Of Hormuz
 - Cybersecurity Stocks
-- Stock Market: Will S&P 500 Open Up or Down Today?
+- Tom Lee Says ‘Buckle Up’ for Stock Market Rally as S&P 500 Historical Setup Signals Strong Q4
 
 ## 华尔街见闻 (简中)
-（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7f9244591250>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
+（抓取失败: HTTPSConnectionPool(host='api-prod.wallstreetcn.com', port=443): Max retries exceeded with url: /apiv1/content/lives/pc?limit=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='api-prod.wallstreetcn.com', port=443) at 0x7fa88d779c40>, 'Connection to api-prod.wallstreetcn.com timed out. (connect timeout=30)'))）
 
 ## SCMP (EN/中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- US marks China’s National Day with pared-down note after Xi-Trump summit
-- China Business
-- China carmakers eye record 12 million global sales in 2026 as EV demand surges
-- Hong Kong Economy
-- National Day: Hongkongers visit Shenzhen for shopping and 60cm egg tarts
+- From street brawls to cybercrime: Hong Kong triads’ evolution amid new landscape
+- Military
+- Why US missile shortfalls raise stakes for a potential Taiwan Strait conflict
 - Diplomacy
-- Xi-Trump rapport is ‘most valuable strategic asset’ in US-China ties: envoy Xie
-- Science
-其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- Washington’s brief message omits the word ‘prosperity’ and makes no mention of Xi’s visit, offering a snapshot of shifting US-China ties.
-- Beijing’s ambassador remarks on head-of-state diplomacy in a speech marking National Day celebrations at the Chinese embassy in Washington.
-- New Chinese embodied model Maxwell tops global AI ranking on physical tasks
-- Developed by the CAS Institute of Artificial Intelligence for Industries, it scored 91.9 on the Meta-World benchmark – the highest recorded.
-- Hong Kong crowds brave the heat to secure spots for National Day fireworks
-- About 260,000 people expected to watch 23-minute spectacle over Victoria Harbour with many arriving hours early despite the sweltering heat.
+- ‘No beardos, no weirdos’: Hegseth deepens Pentagon purge as China channels open
+- Xi has left Washington, but remains in Trump’s photos on White House walls
 - Politics
-- Indonesia’s Prabowo appoints new police chief following scandals at the force
-- Listyo Sigit Prabowo’s dismissal comes amid allegations of police impunity, abuse of power and brutality.
-- Business
+- Hong Kong marks National Day with fireworks, discounts as Lee hails city’s role
+其他 (首页其他位置，按重要性排序，仅标题无摘要):
+- Former gang member and experts say today’s triads eschew traditional rites and crimes, and now recruit youths online in an age of digital fraud.
+- Different photographs show China’s president with Trump, while an embassy display highlights their meetings and calls for cooperation.
+- City leader John Lee highlights Hong Kong’s international role and strategic goals as a market economy under ‘one country, two systems’.
+- Economy, Trade & Business
+- Greer says no specific timeline set for enforcing US-China Board of Trade
+- United States Trade Representative confirms recommendations must go through a legal process before implementation of new economic initiative.
+- United States & Canada
+- US tells European allies to act ‘immediately’ to lower diesel prices
+- The Trump administration wants nations to release their strategic reserves, as high energy costs threaten to hurt Republicans at the polls.
+- Lifestyle
 
 ## 经济通 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
@@ -106,33 +106,33 @@
 
 ## 富途资讯 (繁中)
 头版/首屏 (信息来自头版首屏，优先级最高，仅标题无摘要):
-- 全球債市拋售潮加劇！10年期美債收益率觸及2002年高位，英債突破6%
-- 美光業績「炸裂」卻股價震盪：存儲超級週期遠未見頂，市場爲何不再激動？
-- 「不要做空馬斯克」成華爾街暗語？AI與機器人敘事升溫，特斯拉空頭撤退、持有評級飆升
-- 美光電話會：2027年產能已售75%，看不到供需平衡拐點，承諾未來將100%的超額現金返還給股東
-- 美國總統特朗普：持續加息「相當糟糕」；中期選舉後可能加大對伊朗的轟炸力度
-- 谷歌Gemini 4 Argon多指標SOTA！輸出上限破百萬token，推廣期價格僅競品1/5
-- 報道：博通同意向Anthropic提供最高420億美元貸款，用於租賃自家的芯片
-- 華爾街機構警告：聯儲局犯下「原罪」，十年期美債收益率或將邁向8%
+- 富途早報 | 聯儲局官員密集「放鴿」，10月加息預期降溫；Anthropic擬衝刺感恩節前上市，10月14日辦投資者日；騰訊被曝斥資70億美元在東南亞採購算力服務
+- Anthropic上市再進一步：被曝衝刺感恩節前2萬億估值IPO，10月14日辦投資者日
+- 中國據傳暫停成品油出口，美軍增兵中東，國際油價昨日大漲
+- 10月加息預期進一步降溫，兩位聯儲局副主席同日表態：下一步行動需更多時間
+- 美股夜盤：耐克跌超8%，2027財年Q1營收同比下降4%
+- 聯儲局洛根：聯儲局至少應該再加息50個點子
+- 美股收盤 | 聯儲局二把手放鴿，三大指數小幅收漲；光通信、存儲強勢上揚，Lumentum漲超7%，SK海力士漲超5%；美債收益率暫別多年高位，油金齊漲
+- 特朗普對伊朗下通牒：不籤協議就「不復存在」，美向中東派第三艘航母、增兵或萬人
 其他 (首页其他位置，按重要性排序，仅标题无摘要):
-- 美債雪崩或波及美股？高盛預警330億拋單即將來襲
-- 存儲漲價沒到頭！高盛：四季度ASP預測高於預期、eSSD加速，重申三星電子與SK海力士「買入」評級
-- AI估值分歧加劇！Anthropic IPO：狂熱的硅谷喊價2萬億美元，冷靜的華爾街只認1.5萬億
-- 美國10年期國債收益率升至5.33%，創2002年以來新高
-- 美股夜盤：納指期貨漲超1%，半導體股走強
-- AI智能體爆火，會如何顛覆旅遊平台、電商、本地生活行業？
-- 騰訊與甲骨文簽訂五年協議，租賃10萬片AI芯片
-- 特朗普的「AI自我監管」意味着什麼？老黃「大獲全勝」，幕後帶頭質問Anthropic Amodei
-- 夢迴2013年「縮減恐慌」！「全球資產定價基準」單月暴漲50點子，實屬罕見
-- 美股夜盤：谷歌漲近2%，Rocket Lab漲超2%
+- 美股表面繁榮難掩內部疲態！標普500距歷史高位不足2% 小盤股、銀行及公用事業板塊卻遭重挫
+- 成交額TOP20 | 美光績後漲超3%，閃迪跟漲2%；英偉達完成對OpenAI最後100億美元投資，股價創5月中旬以來收盤新高 ； 埃森哲845億年訂單創紀錄，股價大漲16%
+- 谷歌AI芯片即將上天！SpaceX能否助太空數據中心邁出關鍵一步?
+- 美股三大指數均小幅收漲 光通信、存儲芯片股大漲
+- 微軟上新三款語音AI模型：實時轉文字準確率登測評榜首，MAI-Voice 2.1覆蓋23種語言
+- 美國財政部10至20年期美債回購達60億美元上限
+- 聯儲局副主席傑斐遜：判斷是否進一步加息可能需要更多時間
+- 報道：Anthropic瞄準感恩節前完成大規模IPO
+- 美國9月企業裁員人數創四年同期新低，但招聘意願降至十五年同期低谷
+- 存儲芯片短缺持續，三星Galaxy S26系列手機漲價高達200美元
 
 --- 跨站重点主题（多站出现=更重要）---
 - 科技/个股: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中), 经济通 (繁中), 富途资讯 (繁中)
-- 伊朗/中东: Benzinga (EN), 富途资讯 (繁中)
-- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN)
+- 油价/霍尔木兹: Yahoo Finance (EN), Benzinga (EN), SCMP (EN/中)
+- 伊朗/中东: SCMP (EN/中), 富途资讯 (繁中)
+- 加密货币: Yahoo Finance (EN), Benzinga (EN)
+- 就业数据: Yahoo Finance (EN), 富途资讯 (繁中)
 - 中国/欧盟: Yahoo Finance (EN), SCMP (EN/中)
-- 加密货币: Yahoo Finance (EN)
-- 就业数据: SCMP (EN/中)
-- 美联储: Benzinga (EN)
+- 美联储: Yahoo Finance (EN)
 
 --- 粘贴结束 ---
